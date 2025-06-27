@@ -1,0 +1,30 @@
+## Poems 2
+The Ezomyte and the Eternal took their rest
+In the lee of strife's gale,
+And remembered the travelled road.
+Beast and fiend had fallen and bled,
+To the Ezomyte's sword, swift and true.
+Trap and trial had risen and succumbed,
+To the Eternal's wits, quick and shrewd.
+Two men had cried their triumph,
+A Warrior and his Guide,
+Whilst other ascendants echoed their pride,
+With anguish and agony.
+
+---
+## Characters
+[[Weylin, Son of Ezomyr]]
+[[Chitus Perandus, The Son of Sarn]]
+
+---
+## Lore
+[[Poems]]
+
+---
+## Societies
+[[Eternal Empire]]
+[[The Ezomytes]]
+
+---
+## Tags
+#EnvironmentalLore 

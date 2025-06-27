@@ -1,0 +1,7 @@
+## Crumpled Note
+#### Read
+{Further Improvements to the Preserving Fluid} 4 Parts pure and fine powder of Virtue Gem 4 Parts Trarthan Acid, superfluous humidity removed 2 Parts Aqueous Umbra, distilled 2 Parts Thaumetic Sulphite in its most crystalline form 1 Part Voltaxic Sulphite, kept in an ice water bath overnight 1 Part Blood (uncoagulated) 1 Part Blessed Water of Innocence Mix the thaumetic sulphite with the virtue dust slowly and carefully, adding the trarthan acid one part at a time until the acid takes on a foul green hue. Wait for the dust to dissolve completely. Add the aqueous umbra and blood at the same time. Ensure the blood is fresh. Coagulants were the cause of error last time, and the boy has paid for it in kind. Mix quickly to prevent separation of blood and umbra. The ichor will foam with dizzying fumes. Slowly add the voltaxic sulphite, avoiding contact with the skin. Stir out the impure bodies and skim the top. Add the blessed water and immediately imbibe. {There are some separately scribbled notes} The subject refuses to open his mouth. I have sent him to fetch the chains. I pray this delay does not spoil the mixture, for it is very time sensitive. Results: {This part of the page was never completed}
+
+---
+## Tags
+#EnvironmentalLore

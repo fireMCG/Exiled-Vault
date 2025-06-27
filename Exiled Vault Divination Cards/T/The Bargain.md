@@ -1,0 +1,12 @@
+## The Bargain
+In the pursuit of power, as in that of wealth, anything goes.
+## 
+![[The Bargain.png]]
+
+---
+## Reward
+Disabled
+
+---
+## Tags
+#DivinationCard

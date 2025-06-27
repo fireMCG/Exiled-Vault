@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "85f1e99be45bc585",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e0f34d42ed799af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b6deeb4479eb04c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "A/Azyran's Reward.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Azyran's Reward"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5af674e1e2348d58",
+    "type": "split",
+    "children": [
+      {
+        "id": "53e14f109da7294a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6429a0c743f5e367",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "063f2ea37d810c53",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ee2f5274ea9cf1ae",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1a6eaf0bba1c2208",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0293197c790c728",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "20b5c1ca692501a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c6853da8ca9c03aa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "9d3747f52be706e9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "37f8d85e1b6000e4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "4b6deeb4479eb04c",
+  "lastOpenFiles": [
+    "A/Azure Rage.md",
+    "A/Avian Pursuit.md",
+    "A/Auspicious Ambitions.md",
+    "A/Audacity.md",
+    "A/Atziri's Arsenal.md",
+    "A/Astral Protection.md",
+    "A/Assassin's Favour.md",
+    "A/Arrogance of the Vaal.md",
+    "A/Ambitious Obsession.md",
+    "A/Altered Perception.md",
+    "A/Alone in the Darkness.md",
+    "A/Alluring Bounty.md",
+    "A/Akil's Prophecy.md",
+    "A/Acclimatisation.md",
+    "A/Abandoned Wealth.md",
+    "A/A Stone Perfected.md",
+    "A/A Sea of Blue.md",
+    "A/A Note in the Wind.md",
+    "A/A Mother's Parting Gift.md",
+    "A/A Modest Request.md",
+    "A/A Fate Worse Than Death.md",
+    "A/A Familiar Call.md",
+    "A/A Dusty Memory.md",
+    "A/A Dab of Ink.md",
+    "A/A Chilling Wind.md",
+    "S/Struck by Lightning.md",
+    "S",
+    "G",
+    "F",
+    "E",
+    "D",
+    "C",
+    "B",
+    "A",
+    "W",
+    "V"
+  ]
+}

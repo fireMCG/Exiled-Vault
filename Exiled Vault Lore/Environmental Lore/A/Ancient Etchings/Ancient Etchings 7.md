@@ -1,0 +1,10 @@
+## Ancient Etchings 7
+I have a plan... I will escape this place, no matter the cost... for now, I must simply bide my Time... sooner or later, one will come, even despite the barriers. One will find their way to me, setting the proper events in motion...
+
+---
+## Location
+[[The Lake of Kalandra]]
+
+---
+## Tags
+#EnvironmentalLore 
