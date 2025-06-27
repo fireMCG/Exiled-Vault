@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "dfb986662ae66f20",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d0375b8c2818832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a7df39141b65bf2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Indices/Concepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Concepts"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6f8139edb737ed56",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca41f994f80031af",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ea301952dcc65f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "551bce8127014ced",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "151df0181c330156",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2653876ee79c6099",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b7d0670282f956f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e00deb7039470841",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Societies/The Kalguuran.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for The Kalguuran"
+            }
+          },
+          {
+            "id": "05f817ab16e18d64",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Societies/The Kalguuran.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from The Kalguuran"
+            }
+          },
+          {
+            "id": "b8c6c4277b94568d",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d7d59ba7605f2b1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Societies/The Kalguuran.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of The Kalguuran"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2a7df39141b65bf2",
+  "lastOpenFiles": [
+    "Indices/Emperors.md",
+    "Indices/Geographic Locations.md",
+    "Indices/Gods.md",
+    "Indices/Lore.md",
+    "Indices/Perandus Guardians.md",
+    "Indices/Sekhemas.md",
+    "Indices/Servants of Water.md",
+    "Indices/Social Groups.md",
+    "Indices/Societies.md",
+    "Indices/Timeline.md",
+    "Indices/Unsorted Characters.md",
+    "Indices/Vaal Architects.md",
+    "Indices/World Events.md",
+    "Exiled Vault Lore/Unsorted Lore/Maji Proclamation/Maji Proclamation.md",
+    "Indices/Unsorted Lore.md",
+    "Exiled Vault Lore/Environmental Lore/Maji Proclamation/Maji Proclamation Dialogue.md",
+    "Exiled Vault Lore/Unsorted Lore/Aided Etching/Aided Etching.md",
+    "Indices/Unknown Geographic Locations.md",
+    "Geographic Locations/Unsorted Geographic Locations/Apex of Filth.md",
+    "Indices/Unsorted Geographic Locations.md",
+    "Templates/Template - WIP.md",
+    "Templates/Template - Unsorted Lore.md",
+    "Templates/Template - No-Graph.md",
+    "Templates/Template - God.md",
+    "Templates/Template - Geographic Location.md",
+    "Templates/Template - Generic.md",
+    "Templates",
+    "Exiled Vault Dialogue/Alva/Audio/Alva - Alva_G3_CataclysmResponseMale.ogg",
+    "Exiled Vault Dialogue/Alva/Audio/Alva - Alva_G3_AttackResponse4.ogg",
+    "Exiled Vault Artefacts/_Images/Expedition's End.png",
+    "Exiled Vault Quest Items/V",
+    "Exiled Vault Quest Items/U",
+    "Exiled Vault Quest Items/D",
+    "Exiled Vault Quest Items/C",
+    "Exiled Vault Quest Items/B",
+    "Exiled Vault Quest Items/A",
+    "Exiled Vault Quest Items/W",
+    "Exiled Vault Quest Items/_Images/_The Kiss Goodnight_.png",
+    "Exiled Vault Quest Items/_Images/_The Nameless Play_.png",
+    "Exiled Vault Quest Items/_Images/_O' Eternal_.png",
+    "Exiled Vault Quest Items/_Images/Writhing Invitation (quest item).png",
+    "Exiled Vault Quest Items/_Images/Wings of Vastiri.png",
+    "Exiled Vault Quest Items/_Images/Viridi's Finger.png",
+    "Exiled Vault Quest Items/_Images/Venom Draught of the Veil.png",
+    "Exiled Vault Quest Items/_Images/Venom Draught of the Sky.png",
+    "Exiled Vault Quest Items/_Images/Venom Draught of the Marshes.png"
+  ]
+}

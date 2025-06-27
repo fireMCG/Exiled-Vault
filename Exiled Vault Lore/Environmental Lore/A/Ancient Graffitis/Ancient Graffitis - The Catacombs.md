@@ -1,0 +1,11 @@
+## Ancient Graffitis - The Catacombs
+There is nothing 'eternal' in this empire of ours but the names of our day that shall be revered or reviled in the centuries to come.
+
+---
+## Geographical Location
+#### Locations
+[[The Catacombs]]
+
+---
+## Tags
+#EnvironmentalLore
