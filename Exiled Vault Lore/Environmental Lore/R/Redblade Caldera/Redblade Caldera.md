@@ -3,14 +3,5 @@ Our mountain was once overrun by various human tribes vying amongst themselves f
 ![[Redblade Caldera.ogg]]
 
 ---
-## Characters
-[[The Molten One]]
-
----
-## Social Groups
-[[Redblades]]
-
----
 ## Tags
 #Lore 
-#MissingDescription 

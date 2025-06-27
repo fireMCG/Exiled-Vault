@@ -3,13 +3,5 @@ Leaving the Sanctum is a tempting prospect, but where better to ensnare hapless 
 ![[Sustenance.ogg]]
 
 ---
-## Characters
-[[Lycia, Herald of the Scourge]]
-
----
-## Geographic Locations
-[[Forbidden Sanctum]]
-
----
 ## Tags
 #EnvironmentalLore 

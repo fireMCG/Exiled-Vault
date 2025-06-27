@@ -3,8 +3,5 @@ We were largely indifferent to the struggles of humanity for millennia. Their su
 ![[Unlikely Alliance.ogg]]
 
 ---
-## Characters
-[[The Molten One]]
-
----
 ## Tags
+#EnvironmentalLore 

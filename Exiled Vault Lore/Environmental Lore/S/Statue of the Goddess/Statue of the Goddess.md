@@ -3,15 +3,5 @@ We honour the Goddess, \[........{illegible}........] the Sisters Three, \[.....
 ![[Statue of the Goddess - The Goddess.ogg]]
 
 ---
-## Geographic Locations
-[[The Viridian Wildwood]]
-
----
-## Societies
-[[The Azmeri]]
-[[The Maji]]
-[[The Nameless]]
-
----
 ## Tags
 #EnvironmentalLore 

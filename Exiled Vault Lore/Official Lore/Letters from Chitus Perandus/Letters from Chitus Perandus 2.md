@@ -19,26 +19,5 @@ I, for one, will not let that happen, Uncle.
 \- Chitus Perandus
 
 ---
-## Characters
-[[Cadiro Perandus]]
-[[Chitus Perandus, The Son of Sarn]]
-[[Elano]]
-[[Izaro Phrecius]]
-
----
-## Geographic Locations
-[[City of Sarn]]
-[[Workspace/Geographic Locations/Wraeclast/Phrecia/The Lord's Labyrinth]]
-
----
-## Lore
-[[Letters from Chitus Perandus]]
-
----
-## Societies
-[[Eternal Empire]]
-
----
 ## Tags
 #Lore 
-#TimelineData

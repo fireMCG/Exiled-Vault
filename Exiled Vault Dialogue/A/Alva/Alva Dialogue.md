@@ -656,10 +656,10 @@ Once you put all those splinters together, I believe I had the final dream. I th
 ![[Alva - AlvaDreamSequenceFour - 1.ogg]]
 ![[Alva - AlvaDreamSequenceFour - 2.ogg]]
 ![[Alva - AlvaDreamSequenceFour - 3.ogg]]
-![[Alva - AlvaDreamSequenceFour - 4.ogg]]
+\- Missing
 ![[Alva - AlvaDreamSequenceFour - 5.ogg]]
 ![[Alva - AlvaDreamSequenceFour - 6.ogg]]
-![[Alva - AlvaDreamSequenceFour - 7.ogg]]
+\- Missing
 
 #### Surviving the Cataclysm
 You're awake! Oh, I thought you might not make it... There's a lot to go over... When you've pulled yourself together, speak with Doryani.

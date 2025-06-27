@@ -8,8 +8,6 @@ Where've you been, lad? I've been worried sick! I looked for you everywhere afte
 #### Introduction_2
 Renly's the name. You're skilled with the violence, if what you did out there in the riverbank is any sign. Another refugee from the Count's 'justice,' I take it. Well have no fear. This place is something of a hideaway for many of us now, and we could sorely use your skills in these dark times. I'll smith for you what I can, if you're willing to bend your violence toward our defence.
 ![[Renly - Introduction_2 - 1.ogg]]
-![[Renly - Introduction_2 - 2.ogg]]
-![[Renly - Introduction_2 - 3.ogg]]
 
 #### The Devourer
 There's a beast of particular dark power stalking us out in the Felling. It moves unseen under the dirt, and attacks without warning. We can't leave the walls to find food, and I've been unable to corner and slay the beast myself. Now if you could channel your violence against this 'Devourer,' as Finn calls it, we'd be indebted to you.

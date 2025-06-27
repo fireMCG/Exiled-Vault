@@ -3,13 +3,5 @@ I am beginning to understand more of this Wildwood, as a traveler called it. The
 ![[Determination.ogg]]
 
 ---
-## Characters
-[[The King in the Mists]]
-
----
-## Societies
-[[The Nameless]]
-
----
 ## Tags
 #EnvironmentalLore 

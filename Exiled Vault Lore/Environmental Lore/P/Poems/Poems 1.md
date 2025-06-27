@@ -12,19 +12,5 @@ Two men bound by hope.
 Two men, and only one emperor.
 
 ---
-## Characters
-[[Weylin, Son of Ezomyr]]
-[[Chitus Perandus, The Son of Sarn]]
-
----
-## Lore
-[[Poems]]
-
----
-#### Societies
-[[Eternal Empire]]
-[[The Ezomytes]]
-
----
 ## Tags
 #EnvironmentalLore 

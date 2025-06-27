@@ -58,9 +58,6 @@ So, you are mostly unscathed. That is good. Unfortunately, Wraeclast was not so 
 
 #### What now?
 We {are} living the worst possible outcome, but I did anticipate {every} contingency... Before us is a translocation device, which {should} allow us to open portals to a wide range of coordinates across Wraeclast. With this, we can reclaim the world from the grasp of Corruption, so that civilisation can one day return to its former heights.
-![[Doryani - What now? - 1.ogg]]
-![[Doryani - What now? - 2.ogg]]
-![[Doryani - What now? - 3.ogg]]
 
 #### Our Work
 There was some damage but while you were unconscious, we worked to repair the machine. I believe it will function as desired... But it must be tested. That is where you come in. By placing Waystones in the machine, they will help calibrate the journey. The Corruption at the destination will respond to both the energies we use, and that we ourselves expect to find. Let us use this malleability to our advantage... Let us see if the machine is still capable.
@@ -71,10 +68,6 @@ There was some damage but while you were unconscious, we worked to repair the ma
 #### [DNT] Seek Corrupted Biome
 Wraeclast is wounded and broken. We must reshape its future, and heal it anew. The initial Cataclysmic event is over, but Corruption is still radiating from certain locations. From these points, it spreads like a disease. Travel to one of these regions and investigate. We must know why it is still spreading. Report back to me with your findings, and we will plan our next move.
 ![[Doryani - [DNT] Seek Corrupted Biome - 1.ogg]]
-![[Doryani - [DNT] Seek Corrupted Biome - 2.ogg]]
-![[Doryani - [DNT] Seek Corrupted Biome - 3.ogg]]
-![[Doryani - [DNT] Seek Corrupted Biome - 4.ogg]]
-![[Doryani - [DNT] Seek Corrupted Biome - 5.ogg]]
 
 #### [DNT] Find Corruption Nexus
 So, these densely Corrupted regions contain an active source. Despite the risks, you must venture within. Find the source of Corruption. When you have identified it and dealt with any danger, call for me. I will cleanse what remains.

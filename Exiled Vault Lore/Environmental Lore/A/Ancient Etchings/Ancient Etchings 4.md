@@ -2,9 +2,5 @@
 I look away from Wraeclast for but a moment, and the scampering little ones have invented religion. What is a god, but a thief of virtue? The prey have no idea they are creating their very own predators.
 
 ---
-## Location
-[[The Lake of Kalandra]]
-
----
 ## Tags
 #EnvironmentalLore 
