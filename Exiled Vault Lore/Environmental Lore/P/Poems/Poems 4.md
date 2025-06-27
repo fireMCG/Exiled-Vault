@@ -18,19 +18,5 @@ And a people made free
 By an Emperor of Sarn.
 
 ---
-## Characters
-[[Weylin, Son of Ezomyr]]
-[[Chitus Perandus, The Son of Sarn]]
-
----
-## Lore
-[[Poems]]
-
----
-## Societies
-[[Eternal Empire]]
-[[The Ezomytes]]
-
----
 ## Tags
 #EnvironmentalLore 

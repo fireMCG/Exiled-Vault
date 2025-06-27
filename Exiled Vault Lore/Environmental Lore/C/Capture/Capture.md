@@ -3,13 +3,5 @@ My eternity passed unnoticed within the Sanctum. I knew I needed to amass great 
 ![[Capture.ogg]]
 
 ---
-## Characters
-[[Lycia, Herald of the Scourge]]
-
----
-## Geographic Locations
-[[Forbidden Sanctum]]
-
----
 ## Tags
 #EnvironmentalLore 

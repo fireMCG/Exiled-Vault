@@ -9,7 +9,7 @@ to grasp it.
 
 ---
 ## Reward
-[[Mon'tregul's Grasp]]
+Mon'tregul's Grasp
 
 ---
 ## Tags

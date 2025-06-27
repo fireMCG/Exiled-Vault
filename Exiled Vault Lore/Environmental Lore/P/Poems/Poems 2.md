@@ -12,19 +12,5 @@ Whilst other ascendants echoed their pride,
 With anguish and agony.
 
 ---
-## Characters
-[[Weylin, Son of Ezomyr]]
-[[Chitus Perandus, The Son of Sarn]]
-
----
-## Lore
-[[Poems]]
-
----
-## Societies
-[[Eternal Empire]]
-[[The Ezomytes]]
-
----
 ## Tags
 #EnvironmentalLore 

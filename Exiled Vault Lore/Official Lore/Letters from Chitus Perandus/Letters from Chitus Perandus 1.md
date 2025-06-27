@@ -17,27 +17,5 @@ I will not stand by and allow Izaro to deliver us all unto damnation. I trust, d
 \- Chitus Perandus
 
 ---
-## Characters
-[[Cadiro Perandus]]
-[[Chitus Perandus, The Son of Sarn]]
-[[Izaro Phrecius]]
-[[Romira Phrecian]]
-[[Tarcus Veruso, Prima Imperialus]]
-
----
-## Geographic Locations
-[[City of Sarn]]
-[[Workspace/Geographic Locations/Wraeclast/Phrecia/The Lord's Labyrinth]]
-
----
-## Lore
-[[Letters from Chitus Perandus]]
-
----
-## Societies
-[[Eternal Empire]]
-
----
 ## Tags
 #Lore 
-#TimelineData

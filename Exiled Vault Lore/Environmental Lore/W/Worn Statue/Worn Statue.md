@@ -3,15 +3,5 @@
 ![[Worn Statue.ogg]]
 
 ---
-## Geographic Locations
-[[The Viridian Wildwood]]
-
----
-## Societies
-[[The Azmeri]]
-[[The Maji]]
-[[The Nameless]]
-
----
 ## Tags
 #EnvironmentalLore 

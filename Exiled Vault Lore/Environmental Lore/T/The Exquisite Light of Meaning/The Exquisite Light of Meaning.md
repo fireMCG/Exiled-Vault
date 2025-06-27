@@ -5,13 +5,5 @@ I must help my people... let this be my declaration. I exist, and I {will} save 
 ![[The Exquisite Light of Meaning.ogg]]
 
 ---
-## Characters
-[[The King in the Mists]]
-
----
-## Societies
-[[The Nameless]]
-
----
 ## Tags
 #EnvironmentalLore 

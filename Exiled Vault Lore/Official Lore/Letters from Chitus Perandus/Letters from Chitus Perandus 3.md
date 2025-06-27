@@ -17,26 +17,5 @@ We are Eternal.
 \- Chitus Perandus
 
 ---
-## Characters
-[[Cadiro Perandus]]
-[[Chitus Perandus, The Son of Sarn]]
-[[Izaro Phrecius]]
-[[Kre Faarblood]]
-
----
-## Geographic Locations
-[[City of Sarn]]
-[[Workspace/Geographic Locations/Wraeclast/Phrecia/The Lord's Labyrinth]]
-
----
-## Lore
-[[Letters from Chitus Perandus]]
-
----
-## Societies
-[[Eternal Empire]]
-
----
 ## Tags
 #Lore 
-#TimelineData

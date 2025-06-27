@@ -17,19 +17,5 @@ Instead he hunts.
 Guided by his love for Ezomyr.
 
 ---
-## Characters
-[[Weylin, Son of Ezomyr]]
-[[Chitus Perandus, The Son of Sarn]]
-
----
-## Lore
-[[Poems]]
-
----
-## Societies
-[[Eternal Empire]]
-[[The Ezomytes]]
-
----
 ## Tags
 #EnvironmentalLore 

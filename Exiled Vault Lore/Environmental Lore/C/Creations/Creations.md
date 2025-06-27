@@ -7,13 +7,5 @@ I've lost count of the number of skeletons I've prised apart. I've even bottled 
 ![[Creations.ogg]]
 
 ---
-## Characters
-[[Lycia, Herald of the Scourge]]
-
----
-## Geographic Locations
-[[Forbidden Sanctum]]
-
----
 ## Tags
 #EnvironmentalLore 

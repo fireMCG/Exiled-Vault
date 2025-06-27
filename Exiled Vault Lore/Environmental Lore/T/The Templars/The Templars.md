@@ -3,13 +3,5 @@ Their hypocrisy knows no bounds. I will see their destruction. All I must do is 
 ![[The Templars.ogg]]
 
 ---
-## Characters
-[[Lycia, Herald of the Scourge]]
-
----
-## Geographic Locations
-[[Forbidden Sanctum]]
-
----
 ## Tags
 #EnvironmentalLore 

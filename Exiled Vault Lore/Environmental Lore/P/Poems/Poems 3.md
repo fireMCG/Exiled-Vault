@@ -14,24 +14,5 @@ Plucked the life of the Warrior
 From the First Ones' jaws.
 
 ---
-## Characters
-[[Chitus Perandus, The Son of Sarn]]
-[[Izaro Phrecius]]
-[[Weylin, Son of Ezomyr]]
-
----
-## Lore
-[[Poems]]
-
----
-## Societies
-[[Eternal Empire]]
-[[The Ezomytes]]
-
----
-## Other
-[[The First Ones]]
-
----
 ## Tags
 #EnvironmentalLore 

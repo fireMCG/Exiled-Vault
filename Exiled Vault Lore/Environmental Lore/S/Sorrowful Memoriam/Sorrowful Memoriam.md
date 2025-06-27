@@ -8,4 +8,3 @@ My beloved son, your death shall be avenged, even if it takes one thousand years
 ---
 ## Tags
 #EnvironmentalLore 
-#Lore 
