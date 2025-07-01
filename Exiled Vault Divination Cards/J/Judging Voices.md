@@ -10,3 +10,4 @@ Forbidden Shako
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

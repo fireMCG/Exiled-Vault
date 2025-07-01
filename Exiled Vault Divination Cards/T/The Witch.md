@@ -13,3 +13,4 @@ Kiara's Determination
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

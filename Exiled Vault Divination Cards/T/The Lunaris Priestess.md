@@ -13,3 +13,4 @@ Sire of Shards
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

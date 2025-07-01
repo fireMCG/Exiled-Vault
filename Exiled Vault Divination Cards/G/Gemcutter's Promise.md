@@ -11,3 +11,4 @@ Quality: +20%
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

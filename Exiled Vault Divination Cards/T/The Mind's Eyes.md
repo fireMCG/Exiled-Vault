@@ -13,3 +13,4 @@ Astral Projector
 ---
 ## Tags
 #DivinationCard
+#UserDesigned 

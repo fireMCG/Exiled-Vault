@@ -13,3 +13,4 @@ Farrul Item
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

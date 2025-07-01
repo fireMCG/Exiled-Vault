@@ -10,7 +10,9 @@ no matter their might.
 
 ---
 ## Reward
-Disabled
+Tabula Rasa
+Two-Implicit
+Corrupted
 
 ---
 ## Tags

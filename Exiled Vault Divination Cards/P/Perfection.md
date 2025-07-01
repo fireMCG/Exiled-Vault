@@ -12,3 +12,4 @@ Shaper Item
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

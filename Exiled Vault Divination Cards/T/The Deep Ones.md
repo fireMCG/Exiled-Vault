@@ -10,3 +10,4 @@ Tidebreaker
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

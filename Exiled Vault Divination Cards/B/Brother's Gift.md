@@ -11,3 +11,4 @@ he will never fade away.
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

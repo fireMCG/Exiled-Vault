@@ -10,3 +10,4 @@ Six-Link Astral Plate
 ---
 ## Tags
 #DivinationCard
+#UserDesigned 

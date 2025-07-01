@@ -11,3 +11,4 @@ Shavronne Item
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

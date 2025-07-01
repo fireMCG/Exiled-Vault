@@ -11,3 +11,4 @@ Replica Cortex
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

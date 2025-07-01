@@ -11,3 +11,4 @@ Soul Ripper
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

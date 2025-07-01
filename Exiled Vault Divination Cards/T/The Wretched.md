@@ -10,3 +10,4 @@ Belt
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

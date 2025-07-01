@@ -10,3 +10,4 @@
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

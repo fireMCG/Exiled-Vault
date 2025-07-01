@@ -11,3 +11,4 @@ The Pandemonius
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

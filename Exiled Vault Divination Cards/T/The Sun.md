@@ -10,3 +10,4 @@ Rise of the Phoenix
 ---
 ## Tags
 #DivinationCard
+#UserDesigned 

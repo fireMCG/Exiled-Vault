@@ -10,3 +10,4 @@ Sulphite Scarab
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

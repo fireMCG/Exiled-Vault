@@ -15,3 +15,4 @@ Chayula Item
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

@@ -12,3 +12,4 @@ Shaper + Elder Item
 ---
 ## Tags
 #DivinationCard
+#UserDesigned 

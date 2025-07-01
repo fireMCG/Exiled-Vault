@@ -13,3 +13,4 @@ Synthesised
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

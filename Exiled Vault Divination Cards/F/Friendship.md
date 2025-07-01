@@ -14,3 +14,4 @@ Aul's Uprising
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

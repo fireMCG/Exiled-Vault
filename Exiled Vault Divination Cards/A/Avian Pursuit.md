@@ -12,3 +12,4 @@ Einhar's Memory of Harvest Beasts
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

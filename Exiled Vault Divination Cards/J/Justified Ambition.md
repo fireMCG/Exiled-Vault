@@ -11,3 +11,4 @@ Synthesis Map
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

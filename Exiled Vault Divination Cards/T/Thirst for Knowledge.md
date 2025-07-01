@@ -11,3 +11,4 @@ Gluttony
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

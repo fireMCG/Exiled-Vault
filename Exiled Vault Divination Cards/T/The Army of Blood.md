@@ -13,3 +13,4 @@ Bloodbond
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

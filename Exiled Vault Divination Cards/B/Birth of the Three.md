@@ -10,3 +10,4 @@ The Goddess Bound
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

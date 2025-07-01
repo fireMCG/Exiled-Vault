@@ -10,3 +10,4 @@ Harbinger's Orb
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

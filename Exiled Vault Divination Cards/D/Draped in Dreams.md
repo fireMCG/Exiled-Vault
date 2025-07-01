@@ -14,3 +14,4 @@ Influenced Item
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

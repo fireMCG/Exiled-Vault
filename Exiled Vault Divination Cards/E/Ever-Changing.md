@@ -10,3 +10,4 @@ The Atlas is our prison, and our only defence. She is our only hope, and our cer
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

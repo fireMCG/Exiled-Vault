@@ -10,3 +10,4 @@ Alpha's Howl
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

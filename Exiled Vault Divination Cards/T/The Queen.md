@@ -11,3 +11,4 @@ Atziri's Acuity
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

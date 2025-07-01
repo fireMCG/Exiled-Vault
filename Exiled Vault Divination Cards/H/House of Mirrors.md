@@ -10,3 +10,4 @@ Mirror of Kalandra
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

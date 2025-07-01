@@ -16,3 +16,4 @@ Divine.
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

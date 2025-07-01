@@ -10,3 +10,4 @@ Bottled Faith
 ---
 ## Tags
 #DivinationCard
+#UserDesigned
