@@ -10,3 +10,4 @@ The house always wins.
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

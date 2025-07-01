@@ -10,3 +10,4 @@ Arakaali's Fang
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

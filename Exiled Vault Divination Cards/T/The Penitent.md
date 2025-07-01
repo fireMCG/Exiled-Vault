@@ -10,3 +10,4 @@ Unset Ring
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

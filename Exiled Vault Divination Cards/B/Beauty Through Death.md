@@ -11,3 +11,4 @@ Atziri's Reflection
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

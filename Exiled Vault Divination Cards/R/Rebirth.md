@@ -12,3 +12,4 @@ Charan's Sword
 ---
 ## Tags
 #DivinationCard
+#UserDesigned 

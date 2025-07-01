@@ -11,3 +11,4 @@ Disabled
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

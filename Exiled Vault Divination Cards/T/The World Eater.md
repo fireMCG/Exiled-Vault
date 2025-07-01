@@ -10,3 +10,4 @@ Starforge
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

@@ -12,3 +12,4 @@ Item
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

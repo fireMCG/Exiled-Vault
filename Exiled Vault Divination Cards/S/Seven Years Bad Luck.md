@@ -10,3 +10,4 @@ Mirror Shard
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

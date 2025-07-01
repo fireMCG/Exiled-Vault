@@ -13,3 +13,4 @@ Bestiary Item
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

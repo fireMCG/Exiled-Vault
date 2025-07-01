@@ -10,3 +10,4 @@ Six-Link Body Armour
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

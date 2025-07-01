@@ -10,3 +10,4 @@ Horned Scarab
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

@@ -10,3 +10,4 @@ For every threat you spy in the shadows, there are two others you don't.
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

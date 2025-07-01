@@ -11,3 +11,4 @@ Double-Veiled Item
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

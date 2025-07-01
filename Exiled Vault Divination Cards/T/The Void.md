@@ -10,3 +10,4 @@ Reach into the Void and claim your prize.
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

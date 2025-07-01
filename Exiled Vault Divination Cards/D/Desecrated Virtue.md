@@ -14,3 +14,4 @@ Corrupted
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

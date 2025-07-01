@@ -10,3 +10,4 @@ Shaper Guardian Map
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

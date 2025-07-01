@@ -12,3 +12,4 @@ Elder Item
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

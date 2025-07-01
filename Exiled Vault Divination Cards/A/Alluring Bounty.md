@@ -11,3 +11,4 @@ is a treasure worth dying for.
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

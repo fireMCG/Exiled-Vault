@@ -13,3 +13,4 @@ Daresso's Salute
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

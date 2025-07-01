@@ -10,3 +10,4 @@ Disabled
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

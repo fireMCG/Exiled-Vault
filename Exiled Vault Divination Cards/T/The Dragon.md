@@ -13,3 +13,4 @@ Coruscating Elixir
 ---
 ## Tags
 #DivinationCard
+#UserDesigned

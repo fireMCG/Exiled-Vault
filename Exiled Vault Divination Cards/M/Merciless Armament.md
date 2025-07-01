@@ -15,3 +15,4 @@ Item Level: 100
 ---
 ## Tags
 #DivinationCard
+#UserDesigned
