@@ -11,3 +11,4 @@ Six-Link Vaal Regalia
 ---
 ## Tags
 #DivinationCard
+#UserDesigned 

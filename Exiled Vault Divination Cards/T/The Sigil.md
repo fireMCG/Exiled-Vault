@@ -15,3 +15,4 @@ Unassailable Amulet
 ---
 ## Tags
 #DivinationCard
+#UserDesigned 
