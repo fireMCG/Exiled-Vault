@@ -1,5 +1,5 @@
 ## Waistgate
-Clever artifice is not alaways complex.
+Clever artifice is not always complex.
 ## 
 ![[Waistgate.png]]
 

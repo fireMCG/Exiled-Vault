@@ -10,3 +10,4 @@ Elegant Hubris
 ---
 ## Tags
 #DivinationCard
+#UserDesigned 

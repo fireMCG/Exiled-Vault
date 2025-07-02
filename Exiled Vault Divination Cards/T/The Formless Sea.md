@@ -13,3 +13,4 @@ Varunastra
 ---
 ## Tags
 #DivinationCard
+#UserDesigned 

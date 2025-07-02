@@ -10,3 +10,4 @@ Poorjoy's Asylum
 ---
 ## Tags
 #DivinationCard
+#UserDesigned 
