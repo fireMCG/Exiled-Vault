@@ -1612,6 +1612,243 @@ Sirus attempted to kill me, and were it not for Kirac's quick thinking and selfl
 Exile, this is urgent. While you were gone, our Map Device began acting strangely. Vibrating, humming, aligning its gears as though being tugged by invisible strings. I fear I know the cause... There's an enormous storm at the heart of the Atlas that has masked all information in that region since Sirus' return. Sirus wants to escape, and he may have found a way. A Map Device of his own creation, built inside the Atlas, for a journey back to Wraeclast. That's the only possible explanation for our own Map Device's erratic movements. Even that storm wouldn't be able to diffuse the energies of another Device. We must hurry, Exile. If Sirus makes it back to Oriath... Gods... We must destroy that device, or all is lost.
 ![[Zana, Master Cartographer - ZanaToTheEyeOfTheStorm.ogg]]
 
+#### Zana_FinalMapStartTwo
+You must give up this pursuit. Turn back. Leave!
+![[Zana - Zana_FinalMapStartTwo.ogg]]
+
+#### Zana_FinalMapStartThree
+You refuse to listen... Or perhaps, you do not know {how} to hear me. I do not know which is which anymore
+![[Zana - Zana_FinalMapStartThree.ogg]]
+
+#### Zana_GV_PostDestFirstTime
+You must give up this pursuit. There is no point... The Atlas must cease to be. How much pain must it cause? How much loss must we endure? All manner of beings give in to its power... it is so... alluring. I say no more! I say let it fester and rot in the void of nothingness!
+![[Zana - Zana_GV_PostDestFirstTime.ogg]]
+
+#### Zana_GV_Random
+Abandon this fool's errand, I beg of you. If you do not, only ruin awaits.
+![[Zana - Zana_GV_Random.ogg]]
+
+#### Zana_GV_2
+The Atlas is a prison, not a prize. Leave it behind.
+![[Zana - Zana_GV_2.ogg]]
+
+#### Zana_GV_3
+You cannot master the Atlas. No one can.
+![[Zana - Zana_GV_3.ogg]]
+
+#### Zana_GV_4
+Each step you take binds you tighter to the ruin we sought to escape.
+![[Zana - Zana_GV_4.ogg]]
+
+#### Zana_GV_5
+Can't you see? The deeper you go, the less of you will remain.
+![[Zana - Zana_GV_5.ogg]]
+
+#### Zana_GV_6
+What do you hope to find here? Devastation is all that awaits
+![[Zana - Zana_GV_6.ogg]]
+
+#### Zana_GV_7
+The Atlas twists all fates. Begone from here.
+![[Zana - Zana_GV_7.ogg]]
+
+#### Zana_GV_8
+There is no salvation to be found here. Only the gradual undoing of all that you are.
+![[Zana - Zana_GV_8.ogg]]
+
+#### Zana_GV_9
+You are not conquering the Atlas. It is conquering you.
+![[Zana - Zana_GV_9.ogg]]
+
+#### Zana_GV_10
+Please... do not make my mistakes your own.
+![[Zana - Zana_GV_10.ogg]]
+
+#### Zana_GV_11
+You gamble with forces you barely comprehend.
+![[Zana - Zana_GV_11.ogg]]
+
+#### Zana_GV_12
+Rid yourself of your delusions. The Atlas cannot be studied – only destroyed.
+![[Zana - Zana_GV_12.ogg]]
+
+#### Zana_GV_13
+You follow in my footsteps. In my father's footsteps. That alone should give you pause.
+![[Zana - Zana_GV_13.ogg]]
+
+#### Zana_GV_14
+Perhaps your intentions are good. So were mine. It makes no difference to the Atlas.
+![[Zana - Zana_GV_14.ogg]]
+
+#### Zana_GV_15
+Abandon all pretenses and save yourself – while you still can.
+![[Zana - Zana_GV_15.ogg]]
+
+#### Zana_GV_16
+There is no honour in what you are doing. Only hubris.
+![[Zana - Zana_GV_16.ogg]]
+
+#### Zana_GV_17
+What you perceive is not the same as what is.
+![[Zana - Zana_GV_17.ogg]]
+
+#### Zana_GV_18
+Stay out... Stay sane.
+![[Zana - Zana_GV_18.ogg]]
+
+#### Zana_GV_19
+Your sanity is not promised to you here.
+![[Zana - Zana_GV_19.ogg]]
+
+#### Zana_GV_20
+Lose yourself within this thread and I cannot help you. Leave now.
+![[Zana - Zana_GV_20.ogg]]
+
+#### Zana_GV_21
+I am where I must be... you are not.
+![[Zana - Zana_GV_21.ogg]]
+
+#### Zana_GV_22
+The more you aid him, the more harm you bring upon him.
+![[Zana - Zana_GV_22.ogg]]
+
+#### Zana_GV_23
+Stay sane... exile.
+![[Zana - Zana_GV_23.ogg]]
+
+#### Zana_Wild_EagonTalkOne
+I {do} know you. Listen to me. This cannot be stopped. It {must} not be stopped. You should leave and do not search for me again. This... is what must be.
+![[Zana - Zana_Wild_EagonTalkOne.ogg]]
+
+#### Zana_Wild_EagonTalkTwoOne
+There is nothing to say. You will not understand. You {must} not understand.
+![[Zana - Zana_Wild_EagonTalkTwoOne.ogg]]
+
+#### Zana_Wild_EagonTalkTwoTwo
+There is no other way to stop them. There is no other way to stop... him. I am sorry.
+![[Zana - Zana_Wild_EagonTalkTwoTwo.ogg]]
+
+#### Zana_Wild_EagonTalkThree
+You will never give up, will you? I suppose I should have known.
+![[Zana - Zana_Wild_EagonTalkThree.ogg]]
+
+#### Zana_Wild_ConvoOne
+There are some truths we cannot know. Some realities we cannot allow. And... Sometimes we, ourselves, cannot be saved.
+![[Zana - Zana_Wild_ConvoOne.ogg]]
+
+#### Zana_Wild_ConvoTwo
+I cannot. I have suffered too long here to fail now. It has almost broken me. But I must succeed. The only way is to destroy it. It all must be destroyed.
+![[Zana - Zana_Wild_ConvoTwo.ogg]]
+
+#### Zana_Wild_ConvoThree
+The Atlas.
+![[Zana - Zana_Wild_ConvoThree.ogg]]
+
+#### Zana_Wild_ConvoFour
+It has already begun. The imbalance is almost at its peak. I must remain, for I am the catalyst. Afterwards, no one can harness its power.
+![[Zana - Zana_Wild_ConvoFour.ogg]]
+
+#### Zana_Wild_ConvoFive
+Enough. I am {not} your sister.
+![[Zana - Zana_Wild_ConvoFive.ogg]]
+
+#### Zana_Wild_ConvoSix
+You mean... much to me. More than you could ever know. And that is why, it must all be destroyed.
+![[Zana - Zana_Wild_ConvoSix.ogg]]
+
+#### Zana_Wild_AngerCallouts_Random
+His fury unleashes!
+![[Zana - Zana_Wild_AngerCallouts_Random.ogg]]
+
+#### Zana_Wild_AngerCallouts_4
+His anger consumes him!
+![[Zana - Zana_Wild_AngerCallouts_4.ogg]]
+
+#### Zana_Wild_AngerCallouts_7
+He is not himself...
+![[Zana - Zana_Wild_AngerCallouts_7.ogg]]
+
+#### Zana_Wild_AngerCallouts_10
+He is not the Father I knew...
+![[Zana - Zana_Wild_AngerCallouts_10.ogg]]
+
+#### Zana_Wild_AngerCallouts_13
+Stay on your feet!
+![[Zana - Zana_Wild_AngerCallouts_13.ogg]]
+
+#### Zana_Wild_AngerCallouts_16
+Fury! Wrath! Fear!
+![[Zana - Zana_Wild_AngerCallouts_16.ogg]]
+
+#### Zana_Wild_BenevolenceCallouts_Random
+His influence overwhelms!
+![[Zana - Zana_Wild_BenevolenceCallouts_Random.ogg]]
+
+#### Zana_Wild_BenevolenceCallouts_4
+Power corrupts all it touches!
+![[Zana - Zana_Wild_BenevolenceCallouts_4.ogg]]
+
+#### Zana_Wild_BenevolenceCallouts_7
+Where is his heart?
+![[Zana - Zana_Wild_BenevolenceCallouts_7.ogg]]
+
+#### Zana_Wild_BenevolenceCallouts_11
+This was never who he should have become!
+![[Zana - Zana_Wild_BenevolenceCallouts_11.ogg]]
+
+#### Zana_Wild_BenevolenceCallouts_14
+I must... free him!
+![[Zana - Zana_Wild_BenevolenceCallouts_14.ogg]]
+
+#### Zana_Wild_NeglectCallouts_Random
+His mind... is elsewhere!
+![[Zana - Zana_Wild_NeglectCallouts_Random.ogg]]
+
+#### Zana_Wild_NeglectCallouts_5
+Beware his wrath!
+![[Zana - Zana_Wild_NeglectCallouts_5.ogg]]
+
+#### Zana_Wild_NeglectCallouts_7
+He cannot be calmed!
+![[Zana - Zana_Wild_NeglectCallouts_7.ogg]]
+
+#### Zana_Wild_NeglectCallouts_10
+This... is not... my memory!
+![[Zana - Zana_Wild_NeglectCallouts_10.ogg]]
+
+#### Zana_Wild_NeglectCallouts_13
+Recoil before him!
+![[Zana - Zana_Wild_NeglectCallouts_13.ogg]]
+
+#### Zana_BenevolenceCallouts_Random
+His fury unleashes...
+![[Zana - Zana_BenevolenceCallouts_Random.ogg]]
+
+#### Zana_BenevolenceCallouts_4
+He is not the father I knew...
+![[Zana - Zana_BenevolenceCallouts_4.ogg]]
+
+#### Zana_BenevolenceCallouts_6
+Where is his heart?...
+![[Zana - Zana_BenevolenceCallouts_6.ogg]]
+
+#### Zana_BenevolenceCallouts_10
+This was never who he should have become...
+![[Zana - Zana_BenevolenceCallouts_10.ogg]]
+
+#### Zana_BenevolenceCallouts_13
+I must free him...
+![[Zana - Zana_BenevolenceCallouts_13.ogg]]
+
+#### Zana_BenevolenceCallouts_16
+Beware his wrath...
+![[Zana - Zana_BenevolenceCallouts_16.ogg]]
+
+#### Zana_BenevolenceCallouts_18
+This is not my memory...
+![[Zana - Zana_BenevolenceCallouts_18.ogg]]
+
+
 ---
 ## Tags
 #Dialogue
