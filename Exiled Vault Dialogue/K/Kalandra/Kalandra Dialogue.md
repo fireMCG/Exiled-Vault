@@ -391,6 +391,7 @@ Neither of us will ever leave this place.
 You seek to shape this world to further your own goals. We are not unalike.
 ![[Kalandra - EvilandraHideoutComment8.ogg]]
 
+##
 ---
 ## Tags
 #Dialogue
