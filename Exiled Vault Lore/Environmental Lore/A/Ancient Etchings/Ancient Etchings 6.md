@@ -3,6 +3,7 @@ For a time, I truly had hope. For a time, I actually believed I was going to esc
 
 But once they understood the truth of this place, they took steps to make it harder to find, and moved to erase me from recorded history. Then they burned themselves alive. Am I truly so forsaken? So untouchable, that none must be allowed to even know of me? In your fear, you consign me to oblivion! All I had to hold back the loneliness were my rare visitors...
 
+##
 ---
 ## Tags
 #EnvironmentalLore 
