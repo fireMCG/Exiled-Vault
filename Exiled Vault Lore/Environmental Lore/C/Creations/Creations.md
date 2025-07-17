@@ -6,6 +6,8 @@ I built stone forms, animated them and made them talk. I raised a legion of unde
 I've lost count of the number of skeletons I've prised apart. I've even bottled fresh blood, harvested from curious adventurers...
 ![[Creations.ogg]]
 
+##
 ---
 ## Tags
 #EnvironmentalLore 
+#PoE
