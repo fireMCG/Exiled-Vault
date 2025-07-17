@@ -1,0 +1,9 @@
+## Bronze Monograph 6
+An emperor cannot allow himself to become buried in the shadowed vaults of self-doubt. Cannot allow thoughts of imagined disaster to spin about inside his mind like so many strife-splintered wheels. An emperor navigates his way through the terrors of perplexity with his eyes set firmly on the rising sun.
+![[Bronze Monograph - Read_6.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE 
