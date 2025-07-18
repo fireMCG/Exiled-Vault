@@ -1,7 +1,0 @@
-## Sailors Skin
-Welcome, husband. We knew in our hearts that you would find us. Come, Daresso, Ambrosia and Amarissa must meet their father. Come, my love. Return to your family.
-![[Sailors Skin - Read.ogg]]
-
----
-## Tags
-#EnvironmentalLore
