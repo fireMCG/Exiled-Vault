@@ -1,8 +1,227 @@
 ## The Hungry Loop
 Be careful where you put your finger.
-## 
+##
 ![[The Hungry Loop.png]]
+## The Hungry Loop Stats
+- Requires Level 70
+- Has 1 Socket
+- Consumes Socketed Uncorrupted Support Gems when they reach Maximum Level
+- Can Consume 4 Uncorrupted Support Gems
+- Has not Consumed any Gems
+- Has Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Added Chaos DamageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Added Cold DamageSocketed Gems are Supported by Level 20 Added Fire Damage
+- Has Consumed 1 GemHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Added Lightning DamageHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 Additional AccuracyHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Arcane SurgeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 ArchmageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Arrow NovaHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 AutomationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Added Chaos DamageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Added Cold DamageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Added Fire DamageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Added Lightning DamageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Ancestral CallHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Arrow NovaHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened BlasphemyHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened BrutalityHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Burning DamageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Cast On Critical StrikeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Cast While ChannellingHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened ChainHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Cold PenetrationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Controlled DestructionHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened HextouchHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Deadly AilmentsHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Elemental FocusHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 4 Awakened EmpowerHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 4 Awakened EnhanceHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 4 Awakened EnlightenHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Fire PenetrationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened ForkHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened GenerosityHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Greater Multiple ProjectilesHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Increased Area Of EffectHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Lightning PenetrationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Melee Physical DamageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Melee SplashHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Minion DamageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened MultistrikeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Spell CascadeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Spell EchoHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Swift AfflictionHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Unbound AilmentsHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened UnleashHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Vicious ProjectilesHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Void ManipulationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 5 Awakened Elemental Damage With AttacksHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 BarrageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 BeheadHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 BlasphemyHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 BlindHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 BloodlustHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 ArroganceHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 BloodthirstHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 BonechillHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 BrutalityHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 Cast On Critical StrikeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Cast when Damage TakenHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 Cast on DeathHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Cast On Melee KillHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 Cast when StunnedHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Cast While ChannellingHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 ChainHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Chance To BleedHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 CombustionHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Withering TouchHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Charged MinesHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Close CombatHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Cluster TrapHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Cold PenetrationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Cold to FireHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Concentrated EffectHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Controlled BlazeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Controlled DestructionHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Corrupting CryHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Culling StrikeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Cursed GroundHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 HextouchHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Deadly AilmentsHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 PredatorHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 DecayHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 DevourHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 EfficacyHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Elemental FocusHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Elemental PenetrationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Elemental ProliferationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 3 EmpowerHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Endurance Charge on Melee StunHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Energy LeechHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 3 EnhanceHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 3 EnlightenHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Eternal BlessingHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Expert RetaliationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Faster AttacksHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Faster CastingHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 Faster ProjectilesHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Feeding FrenzyHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Fire PenetrationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Fist of WarHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 FlamewoodHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 Chance to FleeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Focused ChannellingHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Focused BallistaHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 ForkHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 FortifyHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 CrueltyHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Charged TrapsHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Fresh MeatHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Frigid BondHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 GenerosityHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Greater Multiple ProjectilesHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Greater VolleyHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Guardian's BlessingHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Hex BloomHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 HypothermiaHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Ice BiteHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Ignite ProliferationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 ImmolateHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 ImpaleHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Impending DoomHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Increased Area of EffectHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Burning DamageHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 Increased Critical DamageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Increased Critical StrikesHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 More DurationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Minion DamageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Minion LifeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Minion SpeedHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Infernal LegionHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 InnervateHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Iron GripHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Iron WillHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Item QuantityHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Item RarityHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 KnockbackHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Lesser Multiple ProjectilesHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Chance to PoisonHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Life Gain On HitHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 Life LeechHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 LifetapHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Lightning PenetrationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Locus MineHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 MaimHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Manaforged ArrowsHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Mana LeechHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Mark On HitHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Meat ShieldHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Damage On Full LifeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Melee Physical DamageHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 Melee SplashHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 MinefieldHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Mirage ArcherHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Spell EchoHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 MultistrikeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Multiple TotemsHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Multiple TrapsHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 NightbladeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 MomentumHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 OverchargeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 OverexertionHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 VolleyHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Vicious ProjectilesHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Physical To LightningHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 PierceHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 PinpointHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Point BlankHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Critical Strike AfflictionHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Power Charge On Critical StrikeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Prismatic BurstHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 PulveriseHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 RageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Ballista TotemHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Swift AfflictionHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Block Chance ReductionHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Less DurationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 InspirationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Blastchain MineHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 High-Impact MineHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Returning ProjectilesHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 RuptureHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 RuthlessHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Sacred WispsHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 SacrificeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 SadismHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Second WindHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 ShockwaveHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Slower ProjectilesHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 SpellbladeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Spell CascadeHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 IntensifyHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Spell TotemHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Ancestral CallHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Infused ChannellingHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 StunHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Elemental Army SupportHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Summon PhantasmHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Swift AssemblyHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 SwiftbrandHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 TrapHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Trap And Mine DamageHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Advanced TrapsHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 TraumaHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 TrinityHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Unbound AilmentsHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 UnleashHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Urgent OrdersHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Vile ToxinsHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 Void ManipulationHas Consumed 1 Gem
+- Socketed Gems are Supported by Level 20 VolatilityHas Consumed 1 Gem
+- Socketed Gems are supported by Level 20 Elemental Damage with Attacks
+
 
 ---
 ## Tags
 #Artefact
+#PoE1

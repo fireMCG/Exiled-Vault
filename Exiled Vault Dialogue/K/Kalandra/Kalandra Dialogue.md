@@ -391,6 +391,63 @@ Neither of us will ever leave this place.
 You seek to shape this world to further your own goals. We are not unalike.
 ![[Kalandra - EvilandraHideoutComment8.ogg]]
 
+#### KalandraMap_Callout_Random
+I will have my freedom...
+
+#### KalandraMap_Callout_3
+Fight all you want, it won't change a thing...
+
+#### KalandraMap_Callout_6
+This place will take all that you love, if you tarry...
+
+#### KalandraMap_Callout_9
+There is no more wisdom to be had here, only anger.
+
+#### KalandraMap_Callout_12
+Did you really think my true form would be so limited?
+
+#### KalandraMap_Callout_14
+A mirror traps us in an image. No longer.
+
+#### KalandraMap_Callout_17
+An image traps how we see ourselves. Break the image, break the trap.
+
+#### KalandraMap_Callout_20
+I will not endure yet another cycle of Time. I refuse!
+
+#### KalandraMap_Callout_22
+Loathe was I to endure the form your plane forced upon me.
+
+#### KalandraMap_InteractMirror_Random
+A cracked mirror shows only a fractured image.
+
+#### KalandraMap_InteractMirror_4
+To be locked in Time is to never change.
+
+#### KalandraMap_InteractMirror_7
+This Lake never quite gives you what you want, does it?
+
+#### KalandraMap_InteractMirror_9
+Eat the fruit, but beware the seeds...
+
+#### KalandraMap_SeeCorpse_Random
+Only death can bring new life...
+
+#### KalandraMap_SeeCorpse_3
+Break the image, break the prison...
+
+#### KalandraMap_EnterFirst
+Here, mortal, you will not find what you seek...
+
+#### KalandraMap_EnterSecond
+Hit a mirror hard enough, and it will shatter...
+
+#### KalandraMap_EnterThird
+The walls of my prison have begun to crack...
+
+#### KalandraMap_EnterFourth
+It is only a matter of time...
+
 ##
 ---
 ## Tags
