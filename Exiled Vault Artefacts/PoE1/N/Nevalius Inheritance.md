@@ -6,15 +6,6 @@ I don't know when to quit."
 - Victario Nevalius, the People's Poet
 ##
 ![[Nevalius Inheritance.png]]
-## Nevalius Inheritance Stats
-- Requires Level 16
-- (15-25)% increased Stun and Block Recovery
-- +(20-30) to Dexterity
-- 150% increased Flask Effect Duration
-- Flasks applied to you have 60% reduced Effect
-- 2% reduced Flask Effect Duration per Level
-- Flasks applied to you have 1% increased Effect per Level
-
 
 ---
 ## Tags

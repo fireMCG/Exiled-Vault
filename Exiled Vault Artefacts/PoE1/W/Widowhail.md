@@ -5,13 +5,6 @@ healing, no revenge. There was only... emptiness."
 - Chieftainess Ahuana of the Ramako Tribe
 ##
 ![[Widowhail.png]]
-## Widowhail Stats
-- Bow
-- Physical Damage: 5-13
-- Critical Strike Chance: 5.00%
-- Attacks per Second: 1.40
-- (150-250)% increased bonuses gained from Equipped Quiver
-
 
 ---
 ## Tags

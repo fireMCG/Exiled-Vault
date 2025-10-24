@@ -2,9 +2,6 @@
 
 ##
 ![[Second Piece of Focus.png]]
-## Second Piece of Focus Stats
-- This item will transform when correctly arranged with other items.
-
 
 ---
 ## Tags

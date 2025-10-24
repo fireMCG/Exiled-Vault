@@ -6,13 +6,6 @@ Your mind is like this seed."
 - Maraketh Proverb
 ##
 ![[Fertile Mind.png]]
-## Fertile Mind Stats
-- Radius: Large
-- +(16-24) to Intelligence
-- Dexterity from Passives in Radius is Transformed to Intelligence
-- Corrupted
-- Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
-
 
 ---
 ## Tags

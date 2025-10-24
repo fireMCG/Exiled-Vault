@@ -5,14 +5,6 @@ No slave dared to speak or look the passing king in the eye.
 No one... except Aul.
 ##
 ![[Putembo's Meadow.png]]
-## Putembo's Meadow Stats
-- Requires Level 49
-- +(20-30)% to Lightning Resistance
-- +20 to Intelligence
-- 5% increased maximum Energy Shield
-- 5% increased maximum Life
-- This item can be combined with a Mountain and Valley ring at a Vendor.
-
 
 ---
 ## Tags
