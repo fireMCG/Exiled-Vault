@@ -3,11 +3,6 @@
 - Lead Researcher Ksaret, three hours post-Incident
 ##
 ![[Replica Fragility.png]]
-## Replica Fragility Stats
-- Lose an Endurance Charge each second
-- Corrupted
-- Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
-
 
 ---
 ## Tags

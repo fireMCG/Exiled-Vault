@@ -3,13 +3,6 @@
 - History of the Maraketh
 ##
 ![[Careful Planning.png]]
-## Careful Planning Stats
-- Radius: Large
-- +(16-24) to Dexterity
-- Intelligence from Passives in Radius is Transformed to Dexterity
-- Corrupted
-- Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
-
 
 ---
 ## Tags

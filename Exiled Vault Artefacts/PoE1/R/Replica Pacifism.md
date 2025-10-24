@@ -3,11 +3,6 @@
 - Lead Researcher Ksaret, two hours post-Incident
 ##
 ![[Replica Pacifism.png]]
-## Replica Pacifism Stats
-- Lose a Frenzy Charge each second
-- Corrupted
-- Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
-
 
 ---
 ## Tags
