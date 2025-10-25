@@ -1,0 +1,10 @@
+# The Rain Festival Beetle
+_During the first rain of each year, rich and poor alike  
+chased the Beetle through the flooding streets of Keth,  
+and its bounty was shared equally by all._
+![[The_Rain_Festival.png]]
+
+---
+## Tags
+#Strongbox
+#WiP
