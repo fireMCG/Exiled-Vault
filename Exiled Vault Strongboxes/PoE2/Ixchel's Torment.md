@@ -1,6 +1,8 @@
 # Ixchel's Torment
-_His Trials will end when Time does...  
-and then, they will begin again._
+His Trials will end when Time does...  
+and then, they will begin again.
+
+#
 ![[Ixchel's_Torment.png]]
 
 ---

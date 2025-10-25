@@ -1,6 +1,8 @@
 # Ventor's Contraption
-_Prospero smiles upon you, fair traveller.  
-Step close, take a chance, and try fortune's fare!__
+Prospero smiles upon you, fair traveller.  
+Step close, take a chance, and try fortune's fare!
+
+#
 ![[Ventor's_Contraption.png]]
 
 ---
