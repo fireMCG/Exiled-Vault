@@ -2,7 +2,9 @@
 "Political Power is an illusion.  
 Popular power is fickle.  
 Financial Power is real and loyal."  
-- [Cadiro Perandus](https://www.poewiki.net/wiki/Cadiro_Perandus "Cadiro Perandus"), Lord of the Coin
+\- Cadiro Perandus, Lord of the Coin
+
+#
 ![[Perandus_Bank.png]]
 
 ---
