@@ -1,6 +1,6 @@
 ## Duskblight
 "A taste of Midnight, and you may never see the dawn."
-- Inquisitor Maligaro
+\- Inquisitor Maligaro
 ##
 ![[Duskblight.png]]
 
