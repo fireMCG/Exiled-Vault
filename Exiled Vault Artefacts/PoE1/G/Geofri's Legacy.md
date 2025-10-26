@@ -1,7 +1,7 @@
 ## Geofri's Legacy
 "Though 's beacon was extinguished,
 his embers may yet light our way."
-- , The People's Poet
+\- Victario, The People's Poet
 ##
 ![[Geofri's Legacy.png]]
 

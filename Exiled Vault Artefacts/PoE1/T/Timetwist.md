@@ -1,7 +1,7 @@
 ## Timetwist
 "Even for the great Magi,
 time passes without relent."
-- Doryani, Queen's Thaumaturgist
+\- Doryani, Queen's Thaumaturgist
 ##
 ![[Timetwist.png]]
 
