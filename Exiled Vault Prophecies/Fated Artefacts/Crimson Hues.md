@@ -1,5 +1,6 @@
 # Crimson Hues
 The ruins hide an artist whose own crimson ink coats the stone.
+#
 ## Prophecy
 You will defeat Visceris while holding Goredrill.
 ## Reward

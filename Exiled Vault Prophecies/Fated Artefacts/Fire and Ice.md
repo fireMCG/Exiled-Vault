@@ -1,5 +1,6 @@
 # Fire and Ice
 Cold sorrow turns to burning fury that hails across the shattered ship.
+#
 ## Prophecy
 You will defeat Hailrake while holding Hrimsorrow.
 ## Reward

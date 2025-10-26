@@ -1,5 +1,6 @@
 # The King and the Brambles
 The Blade King's blood feeds brambles that grow ever thicker.
+#
 ## Prophecy
 You will defeat Daresso while holding Bramblejack.
 ## Reward

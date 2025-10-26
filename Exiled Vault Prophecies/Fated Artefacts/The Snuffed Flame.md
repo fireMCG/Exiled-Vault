@@ -1,5 +1,6 @@
 # The Snuffed Flame
 Cold bones rattle in stone cells, extinguishing all light, all warmth, all hope.
+#
 ## Prophecy
 You will defeat Chatters while holding Kaltenhalt.
 ## Reward

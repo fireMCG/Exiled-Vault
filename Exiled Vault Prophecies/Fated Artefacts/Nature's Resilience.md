@@ -1,5 +1,6 @@
 # Nature's Resilience
 Thieves camp beneath roadside trees, but it is their leader who falls like the mighty oak.
+#
 ## Prophecy
 You will defeat Calaf, Headstaver while holding Springleaf.
 ## Reward

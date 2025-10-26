@@ -1,5 +1,6 @@
 # Mouth of Horrors
 The vile witch whispers words of horror, and sups from the chalice one final time.
+#
 ## Prophecy
 You will defeat Doedre while holding Chalice of Horrors.
 ## Reward

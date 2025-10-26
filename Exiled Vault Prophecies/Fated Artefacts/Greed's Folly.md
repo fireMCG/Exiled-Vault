@@ -1,5 +1,6 @@
 # Greed's Folly
 A trap of greed is laid in the Vault, and sprung at its heart by a wonder.
+#
 ## Prophecy
 You will defeat Guardian of the Vault while holding Wondertrap.
 ## Reward

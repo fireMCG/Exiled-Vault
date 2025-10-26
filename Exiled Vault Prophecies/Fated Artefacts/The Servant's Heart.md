@@ -1,5 +1,6 @@
 # The Servant's Heart
 The Servant's sacrifice summons a storm in the Prodigy's soul.
+#
 ## Prophecy
 You will defeat Fidelitas while holding Storm Cloud.
 ## Reward

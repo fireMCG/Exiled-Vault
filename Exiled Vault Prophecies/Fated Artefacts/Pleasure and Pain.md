@@ -1,5 +1,6 @@
 # Pleasure and Pain
 A single thorn slips through stretched skin; pain turns to power.
+#
 ## Prophecy
 You will defeat Shavronne while holding Crown of Thorns.
 ## Reward

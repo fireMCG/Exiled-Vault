@@ -1,5 +1,6 @@
 # The Nightmare Awakens
 The Eater has his final meal, and the Soulless One awakens.
+#
 ## Prophecy
 You will defeat Eater of Souls while holding Malachai's Simula.
 ## Reward

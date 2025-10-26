@@ -1,5 +1,6 @@
 # The Malevolent Witch
 Silence and darkness harbour growing malevolence as the blood eater meets her maker.
+#
 ## Prophecy
 You will defeat Erythrophagia while holding Doedre's Tenure.
 ## Reward

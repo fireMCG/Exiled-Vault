@@ -1,5 +1,6 @@
 # Faith Exhumed
 The lost lover returns, but faith releases him from his service.
+#
 ## Prophecy
 You will defeat Tolman, the Exhumer while holding Chober Chaber.
 ## Reward

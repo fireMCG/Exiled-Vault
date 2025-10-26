@@ -1,5 +1,6 @@
 # The Great Leader of the North
 The boulder is crushed atop the hill, letting the great leader's people pass.
+#
 ## Prophecy
 You will defeat Boulderback while holding The Magnate.
 ## Reward

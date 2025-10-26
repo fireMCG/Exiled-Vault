@@ -1,5 +1,6 @@
 # Severed Limbs
 A storm of stone stops when the last of the limbs are severed and blood flows no more.
+#
 ## Prophecy
 You will defeat Hammerstorm while holding Limbsplit.
 ## Reward
