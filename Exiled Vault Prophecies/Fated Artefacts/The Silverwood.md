@@ -1,5 +1,6 @@
 # The Silverwood
 A thief, bow in hand, flees to the wooded outskirts.
+#
 ## Prophecy
 You will defeat Targa, Beast Poacher while holding Silverbranch.
 ## Reward

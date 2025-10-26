@@ -1,5 +1,6 @@
 # Fire and Brimstone
 Living cinders set the stone alight, a gleaming signal in the blackness where husks are burned.
+#
 ## Prophecy
 You will defeat Hatebeat while holding Blackgleam.
 ## Reward

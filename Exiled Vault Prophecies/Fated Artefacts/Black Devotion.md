@@ -1,5 +1,6 @@
 # Black Devotion
 The Black Prayer falls silent in the face of the Archbishop's shimmering devotion.
+#
 ## Prophecy
 You will defeat Litanius, the Black Prayer while holding Geofri's Baptism.
 ## Reward

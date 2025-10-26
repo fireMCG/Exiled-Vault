@@ -1,5 +1,6 @@
 # Heavy Blows
 Living stone strides across the field, each step shakes the earth and rattles the soul.
+#
 ## Prophecy
 You will defeat Gneiss while holding Craghead.
 ## Reward

@@ -1,5 +1,6 @@
 # The Misunderstood Queen
 A queen of bone raises an army and flees among walls of flesh.
+#
 ## Prophecy
 You will defeat the Bone Queen while holding Queen's Decree.
 ## Reward

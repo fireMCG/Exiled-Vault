@@ -1,5 +1,6 @@
 # Dark Instincts
 Guided by luck, the fox hunts the spider in absolute shadow.
+#
 ## Prophecy
 You will defeat Arakaali, Spinner of Shadows while holding Foxshade.
 ## Reward

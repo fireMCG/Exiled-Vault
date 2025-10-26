@@ -1,5 +1,6 @@
 # Cold Blooded Fury
 Winter weaves the cannibal's cold fury until his blood boils over.
+#
 ## Prophecy
 You will defeat Glace or Hailrake while holding Bloodboil.
 ## Reward

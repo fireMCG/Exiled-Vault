@@ -1,5 +1,6 @@
 # A Forest of False Idols
 A grove of wooden faces spit fire, a cheap mockery of unimaginable power.
+#
 ## Prophecy
 You will defeat Torchoak Grove while holding Araku Tiki.
 ## Reward

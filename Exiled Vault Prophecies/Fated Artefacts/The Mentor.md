@@ -1,5 +1,6 @@
 # The Mentor
 One falls, but another rises to lead.
+#
 ## Prophecy
 You will defeat The Cleansing Light while holding Matua Tupuna.
 ## Reward
