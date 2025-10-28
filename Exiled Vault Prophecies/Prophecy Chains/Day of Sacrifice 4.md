@@ -10,5 +10,6 @@ The monster drops a Sacrifice at Midnight.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

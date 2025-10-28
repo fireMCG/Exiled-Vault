@@ -11,5 +11,6 @@ Upgrades [[Briskwrap]] to [[Wildwrap]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

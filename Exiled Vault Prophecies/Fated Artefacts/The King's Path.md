@@ -11,5 +11,6 @@ Upgrades [[Kaom's Sign]] to [[Kaom's Way]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

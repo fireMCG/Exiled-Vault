@@ -10,5 +10,6 @@ You will read Doedre's Proclamation in The Western Forest in Act 2.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

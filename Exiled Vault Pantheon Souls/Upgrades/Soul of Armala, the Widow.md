@@ -9,4 +9,5 @@ guise of seductress was in fact her way of farming those 'juices'.
 
 ---
 ## Tags
+#PoE1 
 #Soul

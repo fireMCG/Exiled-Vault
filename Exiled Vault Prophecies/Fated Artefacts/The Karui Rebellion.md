@@ -11,5 +11,6 @@ Upgrades [[Karui Ward]] to [[Karui Charge]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

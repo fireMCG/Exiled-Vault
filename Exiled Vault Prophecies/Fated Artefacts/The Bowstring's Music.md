@@ -11,5 +11,6 @@ Upgrades [[Death's Harp]] to [[Death's Opus]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

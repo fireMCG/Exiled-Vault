@@ -10,5 +10,6 @@ You will encounter a powerful beast in the Northern Forest, Jungle Valley Map, o
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

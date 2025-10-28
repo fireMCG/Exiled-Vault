@@ -10,5 +10,6 @@ You will encounter and slay several Warbands and their reinforcements.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

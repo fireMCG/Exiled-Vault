@@ -11,5 +11,6 @@ Upgrades [[Chober Chaber]] to [[Chaber Cairn]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

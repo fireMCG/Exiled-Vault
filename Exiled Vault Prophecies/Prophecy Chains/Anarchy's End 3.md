@@ -10,5 +10,6 @@ Four [[Anarchy's Price]] will drop.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

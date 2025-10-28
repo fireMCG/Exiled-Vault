@@ -10,4 +10,5 @@ And that no beast can truly cover their tracks.
 
 ---
 ## Tags
+#PoE1
 #Talisman 

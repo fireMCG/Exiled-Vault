@@ -11,5 +11,6 @@ Upgrades [[Icetomb]] to [[Crystal Vault]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

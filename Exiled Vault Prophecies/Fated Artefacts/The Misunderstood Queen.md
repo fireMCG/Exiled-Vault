@@ -11,5 +11,6 @@ Upgrades [[Queen's Decree]] to [[Queen's Escape]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

@@ -10,4 +10,5 @@ anything that the wildlands provide.
 
 ---
 ## Tags
+#PoE1
 #Talisman 

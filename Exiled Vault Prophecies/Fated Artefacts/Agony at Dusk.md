@@ -11,5 +11,6 @@ Upgrades [[Dusktoe]] to [[Duskblight]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

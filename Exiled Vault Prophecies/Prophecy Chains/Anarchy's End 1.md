@@ -9,5 +9,6 @@ You will enter a map and slay a Rogue Exile who is carrying a Divination Card.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

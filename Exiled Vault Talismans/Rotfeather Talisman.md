@@ -10,4 +10,5 @@ it does not fill the belly.
 
 ---
 ## Tags
+#PoE1
 #Talisman 

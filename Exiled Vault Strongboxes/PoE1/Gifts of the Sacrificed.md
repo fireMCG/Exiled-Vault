@@ -7,5 +7,6 @@ From those who are gone to those who remain.
 ---
 ## Tags
 #Legacy
+#PoE1 
 #Strongbox
 #WiP

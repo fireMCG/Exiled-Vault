@@ -10,4 +10,5 @@ Now we shall paint with inks of savagery.
 
 ---
 ## Tags
+#PoE1
 #Talisman 

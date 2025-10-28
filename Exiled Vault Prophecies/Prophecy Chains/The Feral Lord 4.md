@@ -10,5 +10,6 @@ You will discover and slay a very powerful Vulture within Sarn's borders or Maps
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

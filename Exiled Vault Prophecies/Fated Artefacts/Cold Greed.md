@@ -11,5 +11,6 @@ Upgrades [[Cameria's Maul]] to [[Cameria's Avarice]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

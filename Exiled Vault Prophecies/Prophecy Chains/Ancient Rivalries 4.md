@@ -10,5 +10,6 @@ Drops [[Exiled-Vault/Exiled Vault Artefacts/PoE1/H/Hinekora's Sight|Hinekora's S
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

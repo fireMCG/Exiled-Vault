@@ -10,5 +10,6 @@ You will slay a certain powerful monster and it will drop a tome.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

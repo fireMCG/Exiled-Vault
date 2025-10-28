@@ -10,4 +10,5 @@ and savoured its final breath.
 
 ---
 ## Tags
+#PoE1
 #Talisman 

@@ -10,4 +10,5 @@ For their Spirit is swift and deadly certain.
 
 ---
 ## Tags
+#PoE1
 #Talisman 

@@ -11,5 +11,6 @@ Upgrades [[Ezomyte Peak]] to [[Ezomyte Hold]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

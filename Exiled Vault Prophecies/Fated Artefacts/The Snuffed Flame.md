@@ -11,5 +11,6 @@ Upgrades [[Kaltenhalt]] to [[Kaltensoul]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

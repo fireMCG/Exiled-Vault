@@ -11,5 +11,6 @@ Upgrades [[Doomfletch]] to [[Doomfletch's Prism]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

@@ -11,5 +11,6 @@ Upgrades [[Malachai's Simula]] to [[Malachai's Awakening]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

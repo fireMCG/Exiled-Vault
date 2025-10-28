@@ -10,5 +10,6 @@ You will encounter and slay bandits in an area where they do not ordinarily appe
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

@@ -10,5 +10,6 @@ You will encounter shadowy monsters in the Crypt, Bone Crypt Map, Cursed Crypt M
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

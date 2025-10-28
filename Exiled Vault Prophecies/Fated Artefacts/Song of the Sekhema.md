@@ -11,5 +11,6 @@ Upgrades [[Asenath's Mark]] to [[Asenath's Chant]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

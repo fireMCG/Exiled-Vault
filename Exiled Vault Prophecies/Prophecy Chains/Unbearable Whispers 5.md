@@ -11,5 +11,6 @@ Inya also has a chance to drop [[Mind of the Council]].
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 
