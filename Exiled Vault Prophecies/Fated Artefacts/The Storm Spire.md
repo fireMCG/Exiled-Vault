@@ -11,5 +11,6 @@ Upgrades [[The Stormheart]] to [[The Stormwall]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

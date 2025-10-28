@@ -11,5 +11,6 @@ Volkuur also has a chance to drop [[Grip of the Council]].
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

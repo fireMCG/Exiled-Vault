@@ -11,5 +11,6 @@ Upgrades [[Timeclasp]] to [[Timetwist]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

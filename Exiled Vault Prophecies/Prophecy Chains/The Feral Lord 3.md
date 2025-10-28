@@ -10,5 +10,6 @@ You will encounter corrupted animals in the Dried Lake, Desert Map, or Wasteland
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

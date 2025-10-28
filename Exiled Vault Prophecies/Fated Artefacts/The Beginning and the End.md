@@ -11,5 +11,6 @@ Upgrades [[Realmshaper]] to [[Realm Ender]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

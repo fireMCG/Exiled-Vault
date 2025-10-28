@@ -7,5 +7,6 @@ Sealed from the corruption that ultimately took it.
 
 ---
 ## Tags
+#PoE1 
 #Strongbox
 #WiP

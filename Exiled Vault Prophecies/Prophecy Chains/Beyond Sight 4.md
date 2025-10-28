@@ -10,5 +10,6 @@ You will slay the Herald of Bameth and the very powerful foe it summons.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

@@ -6,5 +6,6 @@ The cycle of vengeance never ends... even in death.
 
 ---
 ## Tags
+#PoE2
 #Strongbox
 #WiP

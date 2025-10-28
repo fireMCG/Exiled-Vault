@@ -10,5 +10,6 @@ The [[Ascent From Flesh]] will drop.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

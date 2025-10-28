@@ -11,5 +11,6 @@ Upgrades [[Sundance]] to [[Sunspite]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

@@ -11,5 +11,6 @@ Upgrades [[The Iron Fortress]] to [[The Iron Fortress]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

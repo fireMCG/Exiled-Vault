@@ -11,5 +11,6 @@ Upgrades [[Wondertrap]] to [[Greedtrap]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

@@ -11,5 +11,6 @@ Upgrades [[Reverberation Rod]] to [[Amplification Rod]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

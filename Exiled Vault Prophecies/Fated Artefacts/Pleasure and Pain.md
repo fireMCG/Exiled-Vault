@@ -11,5 +11,6 @@ Upgrades [[Crown of Thorns]] to [[Martyr's Crown]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

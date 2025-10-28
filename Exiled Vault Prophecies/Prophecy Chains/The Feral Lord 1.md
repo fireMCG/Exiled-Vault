@@ -10,5 +10,6 @@ You will encounter corrupted animals in the Southern Forest or Tropical Island M
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

@@ -10,5 +10,6 @@ Each leader drops a unique of the corresponding warband.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

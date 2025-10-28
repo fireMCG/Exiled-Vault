@@ -9,4 +9,5 @@ And the king paid for it in blood.
 
 ---
 ## Tags
+#PoE1
 #Talisman

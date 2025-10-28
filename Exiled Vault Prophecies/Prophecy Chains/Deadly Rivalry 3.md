@@ -10,5 +10,6 @@ You will encounter the rival Exile, now possessed by a Tormented Spirit.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

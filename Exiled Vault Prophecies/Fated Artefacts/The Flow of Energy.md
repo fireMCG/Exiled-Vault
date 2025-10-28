@@ -11,5 +11,6 @@ Upgrades [[Shavronne's Pace]] to [[Shavronne's Gambit]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

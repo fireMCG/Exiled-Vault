@@ -11,5 +11,6 @@ Upgrades [[Goredrill]] to [[Sanguine Gambol]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

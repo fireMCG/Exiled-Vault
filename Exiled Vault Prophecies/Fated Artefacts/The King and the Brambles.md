@@ -11,5 +11,6 @@ Upgrades [[Bramblejack]] to [[Wall of Brambles]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

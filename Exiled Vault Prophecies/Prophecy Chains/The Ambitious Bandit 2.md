@@ -10,5 +10,6 @@ You will encounter and slay bandits in the Marketplace, Arcade Map, Bazaar Map, 
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

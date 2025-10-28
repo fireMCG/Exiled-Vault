@@ -11,5 +11,6 @@ Upgrades [[The Ignomon]] to [[The Effigon]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

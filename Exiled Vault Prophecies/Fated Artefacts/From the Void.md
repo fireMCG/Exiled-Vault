@@ -11,5 +11,6 @@ Upgrades [[Blackheart]] to [[Voidheart]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

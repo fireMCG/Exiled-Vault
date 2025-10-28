@@ -9,4 +9,5 @@ and no bait as tempting as Ezomyr.
 
 ---
 ## Tags
+#PoE1
 #Talisman 

@@ -7,5 +7,6 @@ Step close, take a chance, and try fortune's fare!
 
 ---
 ## Tags
+#PoE2
 #Strongbox
 #WiP

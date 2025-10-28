@@ -11,5 +11,6 @@ Upgrades [[Limbsplit]] to [[The Cauteriser]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

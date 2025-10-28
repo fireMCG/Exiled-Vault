@@ -6,5 +6,6 @@ An era so ingrained with decadence, greed and cruelty that even the graves of mu
 
 ---
 ## Tags
+#PoE1 
 #Strongbox
 #WiP

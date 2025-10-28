@@ -11,5 +11,6 @@ Upgrades [[Foxshade]] to [[Fox's Fortune]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

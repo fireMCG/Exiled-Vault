@@ -10,5 +10,6 @@ The last bandit drops [[The Ascetic]].
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

@@ -10,4 +10,5 @@ To drink of their blood is to drink of time itself.
 
 ---
 ## Tags
+#PoE1
 #Talisman 

@@ -11,5 +11,6 @@ Upgrades [[The Screaming Eagle]] to [[The Gryphon]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

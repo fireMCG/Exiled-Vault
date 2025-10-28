@@ -11,5 +11,6 @@ Upgrades [[Geofri's Baptism]] to [[Geofri's Devotion]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

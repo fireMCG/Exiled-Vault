@@ -10,4 +10,5 @@ upon those that would make us their prey.
 
 ---
 ## Tags
+#PoE1
 #Talisman 

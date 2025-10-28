@@ -11,5 +11,6 @@ Upgrades [[Hrimsorrow]] to [[Hrimburn]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

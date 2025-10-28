@@ -10,4 +10,5 @@ Only the strong may grow stronger.
 
 ---
 ## Tags
+#PoE1
 #Talisman 

@@ -10,4 +10,5 @@ They should tear our enemies asunder.
 
 ---
 ## Tags
+#PoE1
 #Talisman 

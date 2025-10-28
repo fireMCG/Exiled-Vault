@@ -10,5 +10,6 @@ You will encounter a powerful golem in a Vaal side area and defeat it.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

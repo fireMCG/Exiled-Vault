@@ -11,5 +11,6 @@ Upgrades [[Eclipse Solaris]] to [[Corona Solaris]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

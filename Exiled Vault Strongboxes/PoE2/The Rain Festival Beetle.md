@@ -8,5 +8,6 @@ and its bounty was shared equally by all.
 
 ---
 ## Tags
+#PoE2
 #Strongbox
 #WiP

@@ -11,5 +11,6 @@ Upgrades [[Doedre's Tenure]] to [[Doedre's Malevolence]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

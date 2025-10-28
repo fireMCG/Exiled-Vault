@@ -11,5 +11,6 @@ Upgraded [[The Dancing Dervish]] to [[The Dancing Duo]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

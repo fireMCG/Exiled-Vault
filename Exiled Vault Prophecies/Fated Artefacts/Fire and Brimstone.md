@@ -11,5 +11,6 @@ Upgrades [[Blackgleam]] to [[The Signal Fire]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

@@ -10,4 +10,5 @@ we find ourselves severed.
 
 ---
 ## Tags
+#PoE1
 #Talisman 

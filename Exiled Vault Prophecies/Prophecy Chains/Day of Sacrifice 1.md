@@ -10,5 +10,6 @@ The slain Vaal Fallen will drop a Sacrifice at Dawn fragment.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

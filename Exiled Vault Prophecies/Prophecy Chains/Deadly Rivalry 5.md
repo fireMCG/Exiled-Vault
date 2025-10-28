@@ -10,5 +10,6 @@ The Rival drops [[Kintsugi]].
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 

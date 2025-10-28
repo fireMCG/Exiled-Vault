@@ -10,4 +10,5 @@ while our masters grow fat and weak.
 
 ---
 ## Tags
+#PoE1
 #Talisman 

@@ -11,5 +11,6 @@ Upgrades [[Hrimnor's Hymn]] to [[Hrimnor's Dirge]] upon completion.
 
 ---
 ## Tags
+#PoE1 
 #Prophecy
 #WiP 
