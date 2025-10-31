@@ -2,7 +2,7 @@
 How do you defeat that which dwells within you?
 
 #
-![[Simulacrum.png]]
+![[Exiled-Vault/Exiled Vault Shared/Exiled Vault Fragments/PoE1/_Images/Simulacrum.png]]
 
 ---
 ## Tags

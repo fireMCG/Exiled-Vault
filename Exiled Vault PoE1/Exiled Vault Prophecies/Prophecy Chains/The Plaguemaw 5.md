@@ -3,7 +3,7 @@ A room, etched in crystal, plays home to the Plaguemaw. He awaits you.
 ## Prophecy
 You will enter the Plaguemaw's chamber in the Crystal Veins or Crystal Ore Map.
 ## Reward
-Eber, the Plaguemaw will drop Eber's Key when defeated.
+Eber, the Plaguemaw drops [[Eber's Key ]]when defeated.
 Eber also has a chance to drop [[Breath of the Council]].
 
 #
