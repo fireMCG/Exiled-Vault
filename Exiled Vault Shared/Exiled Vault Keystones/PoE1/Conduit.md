@@ -6,7 +6,7 @@ To me, brave companions! Feel my radiance flow through you!
 Share Endurance, Frenzy and Power Charges with nearby party members
 
 #
-![[Conduit.webp]]
+![[Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE1/_Images/Conduit.webp]]
 
 ---
 ## Tags
