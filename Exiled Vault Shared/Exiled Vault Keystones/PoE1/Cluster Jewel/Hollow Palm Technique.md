@@ -8,7 +8,7 @@ You count as Dual Wielding while you are Unencumbered
 Adds 14 to 20 Attack Physical Damage to Melee Skills per 10 Dexterity while you are Unencumbered
 
 #
-![[Hollow Palm Technique.webp]]
+![[Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE1/Cluster Jewel/_Images/Hollow Palm Technique.webp]]
 
 ---
 ## Tags
