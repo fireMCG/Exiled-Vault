@@ -7,7 +7,7 @@ You have no Mana
 Skill Mana Costs Converted to Life Costs
 
 #
-![[Blood Magic.webp]]
+![[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE2/_Images/Blood Magic.webp]]
 
 ---
 ## Tags
