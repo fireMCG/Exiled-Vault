@@ -8,7 +8,7 @@ Cannot be Light Stunned
 Cannot Dodge Roll or Sprint
 
 #
-![[Unwavering Stance.webp]]
+![[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE2/_Images/Unwavering Stance.webp]]
 
 ---
 ## Tags

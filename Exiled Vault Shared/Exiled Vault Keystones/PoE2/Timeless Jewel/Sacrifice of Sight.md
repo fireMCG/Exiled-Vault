@@ -16,4 +16,3 @@ Projectiles do one of the following at random:
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

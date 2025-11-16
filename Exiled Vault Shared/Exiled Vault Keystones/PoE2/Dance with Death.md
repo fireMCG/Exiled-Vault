@@ -7,7 +7,7 @@ You circle the black scorpion with enmity, daring it time and again.
 a One-Handed Martial Weapon equipped in your Main Hand
 
 #
-![[Dance with Death.webp]]
+![[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE2/_Images/Dance with Death.webp]]
 
 ---
 ## Tags
