@@ -14,4 +14,3 @@ Gain no inherent bonus from Strength
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

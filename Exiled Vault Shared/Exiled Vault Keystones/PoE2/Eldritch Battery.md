@@ -8,7 +8,7 @@ Converts all Energy Shield to Mana
 Doubles Mana Costs
 
 #
-![[Eldritch Battery.webp]]
+![[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE2/_Images/Eldritch Battery.webp]]
 
 ---
 ## Tags

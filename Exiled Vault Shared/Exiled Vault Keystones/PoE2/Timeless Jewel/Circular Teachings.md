@@ -14,4 +14,3 @@ Gain no inherent bonus from Dexterity
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

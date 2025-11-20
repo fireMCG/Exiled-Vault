@@ -7,7 +7,7 @@ Excess Life Recovery from Regeneration is applied to Energy Shield
 Energy Shield does not Recharge
 
 #
-![[Zealot's Oath.webp]]
+![[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE2/_Images/Zealot's Oath.webp]]
 
 ---
 ## Tags

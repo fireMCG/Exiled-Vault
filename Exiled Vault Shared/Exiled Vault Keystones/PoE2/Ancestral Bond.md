@@ -8,7 +8,7 @@ Unlimited number of Summoned Totems
 Totems reserve 75 Spirit each
 
 #
-![[Ancestral Bond.webp]]
+![[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE2/_Images/Ancestral Bond.webp]]
 
 ---
 ## Tags

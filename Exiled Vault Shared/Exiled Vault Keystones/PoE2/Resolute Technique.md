@@ -7,7 +7,7 @@ Accuracy Rating is Doubled
 Never deal Critical Hits
 
 #
-![[Resolute Technique.webp]]
+![[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE2/_Images/Resolute Technique.webp]]
 
 ---
 ## Tags
