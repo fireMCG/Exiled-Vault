@@ -7,7 +7,7 @@ Maximum Life is 1
 Immune to Chaos Damage and Bleeding
 
 #
-![[Chaos Inoculation.webp]]
+![[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE2/_Images/Chaos Inoculation.webp]]
 
 ---
 ## Tags

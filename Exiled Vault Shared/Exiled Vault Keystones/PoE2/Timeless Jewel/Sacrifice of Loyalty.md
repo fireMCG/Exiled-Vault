@@ -13,4 +13,3 @@ Undead Minions have 25% less maximum Life
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

@@ -6,7 +6,7 @@ Why should I dodge blows that I do not fear?
 Converts all Evasion Rating to Armour
 
 #
-![[Iron Reflexes.webp]]
+![[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE2/_Images/Iron Reflexes.webp]]
 
 ---
 ## Tags

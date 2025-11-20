@@ -8,7 +8,7 @@ Life Leech is Instant
 Cannot use Life Flasks
 
 #
-![[Vaal Pact.webp]]
+![[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE2/_Images/Vaal Pact.webp]]
 
 ---
 ## Tags

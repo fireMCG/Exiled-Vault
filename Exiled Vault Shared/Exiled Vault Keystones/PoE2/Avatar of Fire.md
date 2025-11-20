@@ -7,7 +7,7 @@
 Deal no Non-Fire Damage
 
 #
-![[Avatar of Fire.webp]]
+![[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE2/_Images/Avatar of Fire.webp]]
 
 ---
 ## Tags

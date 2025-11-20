@@ -7,7 +7,7 @@ Chance to Evade is Unlucky
 Chance to Deflect is Lucky
 
 #
-![[Glancing Blows.webp]]
+![[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE2/_Images/Glancing Blows.webp]]
 
 ---
 ## Tags

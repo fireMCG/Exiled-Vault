@@ -8,7 +8,7 @@ Your enemies will know your agony tenfold.
 30% more Critical Damage Bonus when on Low Life
 
 #
-![[Pain Attunement.webp]]
+![[Exiled-Library/Exiled-Vault/Exiled Vault Shared/Exiled Vault Keystones/PoE2/_Images/Pain Attunement.webp]]
 
 ---
 ## Tags
