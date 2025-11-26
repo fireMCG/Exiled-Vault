@@ -10,3 +10,4 @@ avoid revealing who it was intended for.
 ## Tags
 #QuestItem
 #PoE2
+#Society/Maraketh 

@@ -8,6 +8,8 @@ For it can be gone between one breath and the next."
 
 ---
 ## Tags
+#Character/Kaom
+#Character/Lavianga
 #PoE1 
+#Society/Karui
 #Strongbox
-#WiP

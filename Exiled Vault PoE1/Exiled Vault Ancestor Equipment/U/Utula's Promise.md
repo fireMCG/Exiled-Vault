@@ -8,6 +8,7 @@
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Character/Utula 
+#Concept/Blood 
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Kitava 

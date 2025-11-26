@@ -5,5 +5,9 @@ Death is both a mercy and a curse.
 
 ---
 ## Tags
+#Concept/Curse
+#Concept/Death
+#Concept/Sacrifice
 #QuestItem
 #PoE2
+#Society/VaalEmpire 

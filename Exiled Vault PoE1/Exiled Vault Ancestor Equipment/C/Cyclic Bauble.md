@@ -8,6 +8,8 @@ The end of Time is also its beginning.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/BeginningOfTime
+#Concept/Cycle 
+#Concept/EndOfTime 
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Hinekora 

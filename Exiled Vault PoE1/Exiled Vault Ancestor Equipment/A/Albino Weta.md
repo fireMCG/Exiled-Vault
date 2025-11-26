@@ -7,6 +7,6 @@ A blessing upon all those trees touched by the sacred spirit.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/Spirit 
 #PoE1 
-#WiP 
+#Society/Karui 

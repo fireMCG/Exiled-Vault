@@ -9,4 +9,3 @@ where all that you love forgets you.
 ## Tags
 #PoE1 
 #Reliquary
-#WiP 

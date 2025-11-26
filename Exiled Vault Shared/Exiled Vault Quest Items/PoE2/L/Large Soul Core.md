@@ -6,5 +6,8 @@ living warmth encased in crystal.
 
 ---
 ## Tags
+#Concept/Crystal 
+#Concept/Soul 
 #QuestItem
 #PoE2
+#Society/VaalEmpire 

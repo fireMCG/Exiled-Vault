@@ -6,5 +6,7 @@ The rune on the buckle means
 
 ---
 ## Tags
+#Concept/Rune 
 #QuestItem
 #PoE2
+#Society/Ezomyte 

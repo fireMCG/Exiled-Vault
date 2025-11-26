@@ -8,5 +8,10 @@ as old as civilisation itself."
 
 ---
 ## Tags
+#Character/ChitusPerandus
+#Character/IciusPerandus
+#Concept/Gemling
+#Concept/VirtueGem 
 #QuestItem
 #PoE1
+#Society/VaalEmpire 

@@ -7,5 +7,7 @@ and engulfs those moths fool enough to embrace it.
 
 ---
 ## Tags
+#Concept/Ambition
+#Concept/Silver
 #QuestItem
 #PoE1

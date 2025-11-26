@@ -8,6 +8,5 @@ A true warrior is never unarmed.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Tukohama 

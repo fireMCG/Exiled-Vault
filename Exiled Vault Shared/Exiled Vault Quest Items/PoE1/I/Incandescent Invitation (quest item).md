@@ -6,5 +6,10 @@ the Searing Exarch seeks to master the Atlas.
 
 ---
 ## Tags
+#Character/SearingExarch
+#Concept/AtlasOfWorlds 
+#Concept/Corona
+#Concept/Star 
+#Entity/CleansingFire 
 #QuestItem
 #PoE1

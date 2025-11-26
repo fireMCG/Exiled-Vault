@@ -8,6 +8,5 @@ Simple, but effective.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Rongokurai 

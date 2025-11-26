@@ -10,4 +10,3 @@ Through transcendence, bend reality to your will.
 ## Tags
 #PoE1 
 #Reliquary
-#WiP 

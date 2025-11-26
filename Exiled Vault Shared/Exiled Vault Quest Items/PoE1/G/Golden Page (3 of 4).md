@@ -8,5 +8,10 @@ Or madness of the flesh?"
 
 ---
 ## Tags
+#Character/IciusPerandus
+#Concept/Flesh 
+#Concept/Mind
+#Concept/Nightmare
 #QuestItem
 #PoE1
+#Society/VaalEmpire 

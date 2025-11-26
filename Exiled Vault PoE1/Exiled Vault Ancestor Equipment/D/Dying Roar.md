@@ -8,6 +8,7 @@ When Ngamahu's chosen truly wish to destroy an enemy, nothing can stop them.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Character/Ngamahu 
+#God/Ngamahu 
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Ngamahu 

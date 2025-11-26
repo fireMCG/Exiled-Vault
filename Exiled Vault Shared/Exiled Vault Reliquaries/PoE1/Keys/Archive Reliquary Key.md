@@ -7,6 +7,6 @@ the Cleansing Fire keeps eternal...
 
 ---
 ## Tags
+#Entity/CleansingFire
 #PoE1 
 #Reliquary
-#WiP 

@@ -11,5 +11,5 @@ And silence followed all.
 ## Tags
 #DropDisabled 
 #PoE1 
-#Reliquary
-#WiP 
+#Reliquary 
+#Society/VaalEmpire 

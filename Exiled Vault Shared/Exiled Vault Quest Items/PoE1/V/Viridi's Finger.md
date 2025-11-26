@@ -6,5 +6,9 @@ need to sacrifice a baby to make it function, but that's a bit grotesque, even f
 
 ---
 ## Tags
+#Character/Viridi
+#Concept/Sacrifice
+#God/Viridi
 #QuestItem
 #PoE1
+#Society/Azmeri

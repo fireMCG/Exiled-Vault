@@ -7,5 +7,9 @@ its gates barred against the unfaithful.
 
 ---
 ## Tags
+#Concept/Damnation
+#Concept/Eye
+#Concept/Religion 
+#Concept/Sky 
 #QuestItem
 #PoE1

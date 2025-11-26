@@ -7,4 +7,3 @@ but his creations... his craft shall be championed agelessly.
 ## Tags
 #PoE1 
 #Reliquary 
-#WiP 

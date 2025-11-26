@@ -6,5 +6,8 @@ agreed to never again attack the Maraketh.
 
 ---
 ## Tags
+#Event/ThirdPact
 #QuestItem
 #PoE2
+#Society/Maraketh 
+#Society/SunClan

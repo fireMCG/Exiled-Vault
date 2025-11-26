@@ -5,6 +5,7 @@ and I am trying with all my strength to get back to you.
 #
 ---
 ## Tags
+#Character/Sirus
+#Character/Zana
 #PoE1 
 #Reliquary 
-#WiP 

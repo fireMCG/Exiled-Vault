@@ -8,3 +8,4 @@ is still more the Apex might unlock.
 ## Tags
 #QuestItem
 #PoE1
+#Society/VaalEmpire 

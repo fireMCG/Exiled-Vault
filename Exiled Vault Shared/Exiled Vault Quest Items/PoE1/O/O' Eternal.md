@@ -1,4 +1,4 @@
-## _O' Eternal_
+## O' Eternal
 A symbolic piece of history,
 from a time when people of all backgrounds
 united against a common enemy.
@@ -7,5 +7,11 @@ united against a common enemy.
 
 ---
 ## Tags
+#Concept/Unity
+#Event/PurityRebellion
 #QuestItem
 #PoE1
+#Society/EternalEmpire 
+#Society/Ezomyte 
+#Society/Karui
+#Society/Maraketh 

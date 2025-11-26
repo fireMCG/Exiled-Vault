@@ -8,6 +8,7 @@ Let us graciously allow the enemy to fight in the shade.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/Shadow
+#Concept/Sun 
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Ramako 

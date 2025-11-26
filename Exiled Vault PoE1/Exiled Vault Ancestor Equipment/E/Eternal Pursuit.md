@@ -8,6 +8,9 @@ The Sun chases the Moon across the sky, thirsting for a momentary touch.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/Eternity
+#Concept/Moon
+#Concept/Sky 
+#Concept/Sun
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Ramako

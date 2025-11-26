@@ -8,4 +8,4 @@ It is merely taking a different route to the sea.
 ## Tags
 #PoE1 
 #Reliquary 
-#WiP 
+#Society/VaalEmpire

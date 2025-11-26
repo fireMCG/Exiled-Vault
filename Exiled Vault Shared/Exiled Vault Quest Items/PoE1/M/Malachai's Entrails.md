@@ -7,5 +7,8 @@ from my true potential.
 
 ---
 ## Tags
+#Character/Malachai 
+#Concept/Flesh
+#Concept/Immortality 
 #QuestItem
 #PoE1

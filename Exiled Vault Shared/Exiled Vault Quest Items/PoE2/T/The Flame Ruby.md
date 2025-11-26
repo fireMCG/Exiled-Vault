@@ -6,5 +6,6 @@ of a long-ago Wraeclast.
 
 ---
 ## Tags
+#Bloodline/Titan
 #QuestItem
 #PoE2

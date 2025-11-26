@@ -5,5 +5,9 @@ When the sun sets, the plains should be red.
 
 ---
 ## Tags
+#Character/Deshret
+#Concept/Bird 
+#Concept/Dusk
+#Concept/Sun
 #QuestItem
 #PoE1

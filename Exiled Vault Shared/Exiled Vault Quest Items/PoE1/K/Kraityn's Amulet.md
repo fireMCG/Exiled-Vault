@@ -6,5 +6,6 @@ it is simply a piece in a larger puzzle.
 
 ---
 ## Tags
+#Character/Kraityn
 #QuestItem
 #PoE1

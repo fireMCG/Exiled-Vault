@@ -8,6 +8,5 @@ The fruit of the volcanic nightshade plant can leave veteran warriors in tears.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Ngamahu 

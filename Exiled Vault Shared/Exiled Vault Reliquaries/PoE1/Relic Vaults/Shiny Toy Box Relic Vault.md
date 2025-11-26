@@ -7,4 +7,3 @@ and you will likely not be the last.
 ## Tags
 #PoE1 
 #Reliquary 
-#WiP 

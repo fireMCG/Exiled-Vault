@@ -8,6 +8,7 @@ Valako's gifts are unpredictable, but welcome.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Character/Valako 
+#God/Valako 
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Valako 

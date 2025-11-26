@@ -8,5 +8,5 @@ Whispers and promises, ancient and alluring.
 ## Tags
 #Legacy
 #PoE1 
+#Society/VaalEmpire  
 #Strongbox
-#WiP

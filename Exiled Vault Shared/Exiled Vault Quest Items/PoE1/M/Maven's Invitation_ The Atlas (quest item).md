@@ -7,5 +7,6 @@ in watching the struggle for survival.
 
 ---
 ## Tags
+#Character/Maven 
 #QuestItem
 #PoE1
