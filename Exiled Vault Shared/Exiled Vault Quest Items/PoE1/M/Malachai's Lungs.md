@@ -7,5 +7,8 @@ yet another step removed from them.
 
 ---
 ## Tags
+#Character/Malachai 
+#Concept/Flesh 
+#Concept/Immortality 
 #QuestItem
 #PoE1

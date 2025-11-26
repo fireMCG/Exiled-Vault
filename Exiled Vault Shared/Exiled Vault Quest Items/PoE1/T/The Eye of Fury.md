@@ -9,5 +9,8 @@ from Martyr to Maker."
 
 ---
 ## Tags
+#Character/Kaom
+#Character/Malachai
+#Concept/Crystal 
 #QuestItem
 #PoE1

@@ -7,3 +7,4 @@ This idol seems strangely shaped, as if made specifically to fit into something.
 ## Tags
 #QuestItem
 #PoE2
+#Society/VaalEmpire 

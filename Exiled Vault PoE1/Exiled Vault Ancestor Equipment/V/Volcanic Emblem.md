@@ -8,6 +8,7 @@ The Ngamahu Tribe believes the Karui will be reforged in a volcano at the end of
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/EndOfTime 
+#Concept/Volcano 
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Ngamahu

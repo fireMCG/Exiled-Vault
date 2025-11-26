@@ -8,4 +8,3 @@ A great Silence falls...
 ## Tags
 #PoE1 
 #Reliquary
-#WiP 

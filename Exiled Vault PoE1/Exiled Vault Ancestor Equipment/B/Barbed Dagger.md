@@ -7,6 +7,5 @@ For enemies you do not respect.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
 #PoE1 
-#WiP 
+#Society/Karui 

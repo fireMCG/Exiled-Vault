@@ -7,6 +7,5 @@ Remember the days that were not so grim and cold as today.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/Season/Summer
 #PoE1 
-#WiP 

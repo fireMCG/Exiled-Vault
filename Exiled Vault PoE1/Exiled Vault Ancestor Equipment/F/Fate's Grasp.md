@@ -8,6 +8,6 @@ There is no use trying to escape destiny.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/Fate
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Hinekora 

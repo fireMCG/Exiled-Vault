@@ -6,5 +6,9 @@ The Emperor honours Marceus Lioneye as Supreme Servant.
 
 ---
 ## Tags
+#Character/ChitusPerandus
+#Character/MarceusLioneye
+#Concept/Sacrifice 
 #QuestItem
 #PoE1
+#Society/EternalEmpire 

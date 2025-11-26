@@ -9,5 +9,5 @@ and let their resentments and population flourish.
 ---
 ## Tags
 #PoE1 
+#Society/Brinerot
 #Strongbox
-#WiP

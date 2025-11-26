@@ -7,5 +7,10 @@ it wasn't God that the Vaal were trying to reach."
 
 ---
 ## Tags
+#Character/ChitusPerandus
+#Character/IciusPerandus
+#Concept/Communion
+#Concept/God
 #QuestItem
 #PoE1
+#Society/VaalEmpire 

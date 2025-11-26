@@ -6,5 +6,7 @@ whole civilisations are digested - but do not die.
 
 ---
 ## Tags
+#Character/InfiniteHunger
+#Entity/EaterOfWorlds 
 #QuestItem
 #PoE1

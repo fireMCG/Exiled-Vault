@@ -8,6 +8,6 @@ The fire in the blood is like no other thrill.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/Blood 
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Tukohama 

@@ -1,10 +1,13 @@
-## Bust of Emperor Caspiro
+# Bust of Emperor Caspiro
 Caspiro was a master of presentation. He maintained peace in Wraeclast through displays
 of strength that, sadly, had no meaning to the dark presence that dismembered him...
-## 
+#
 ![[Bust of Emperor Caspiro.png]]
 
 ---
 ## Tags
+#Character/CaspiroVeruso
+#Character/KondorLarcius
+#Concept/Darkness 
 #HeistTarget
 #PoE1 

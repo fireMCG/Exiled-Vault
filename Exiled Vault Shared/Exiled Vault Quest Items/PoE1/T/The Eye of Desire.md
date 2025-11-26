@@ -8,5 +8,8 @@ Intent than Life."
 
 ---
 ## Tags
+#Character/Daresso
+#Character/Malachai
+#Concept/Crystal 
 #QuestItem
 #PoE1

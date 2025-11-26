@@ -6,5 +6,11 @@ They wielded the essence of gold and silver. The Spear is one of the two weapons
 
 ---
 ## Tags
+#Character/Lundara
+#Character/Solerai
+#Concept/Gold
+#Concept/Hope
+#Concept/Silver
 #QuestItem
 #PoE1
+#Society/Maraketh

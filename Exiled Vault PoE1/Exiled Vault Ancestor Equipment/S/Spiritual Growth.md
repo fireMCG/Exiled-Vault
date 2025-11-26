@@ -8,6 +8,6 @@ That which is wounded may become whole again in time.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/Spirituality
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Tawhoa 

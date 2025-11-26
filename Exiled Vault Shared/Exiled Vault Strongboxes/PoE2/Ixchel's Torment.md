@@ -8,5 +8,5 @@ and then, they will begin again.
 ---
 ## Tags
 #PoE2
+#Society/VaalEmpire 
 #Strongbox
-#WiP

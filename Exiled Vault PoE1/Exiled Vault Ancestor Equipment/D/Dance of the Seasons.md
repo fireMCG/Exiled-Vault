@@ -8,6 +8,7 @@ Winter is inevitable, but so is the spring.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/Season/Spring
+#Concept/Season/Winter
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Arohongui

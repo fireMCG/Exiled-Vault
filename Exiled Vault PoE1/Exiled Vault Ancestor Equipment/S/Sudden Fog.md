@@ -8,6 +8,7 @@ A clear day dawns only for the lucky.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/Dawn
+#Concept/Day
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Tasalio 

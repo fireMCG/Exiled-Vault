@@ -5,5 +5,7 @@
 
 ---
 ## Tags
+#Character/Draven
 #QuestItem
 #PoE2
+#Society/EternalEmpire

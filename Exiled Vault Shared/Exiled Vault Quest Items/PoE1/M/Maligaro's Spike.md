@@ -6,5 +6,6 @@ pains to keep them excruciatingly sharp.
 
 ---
 ## Tags
+#Character/Maligaro
 #QuestItem
 #PoE1

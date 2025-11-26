@@ -9,4 +9,3 @@ Temptation is man's greatest folly.
 #Legacy
 #PoE1 
 #Strongbox
-#WiP

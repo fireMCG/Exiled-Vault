@@ -6,5 +6,10 @@ cycle after a Count's soul is laid to rest.
 
 ---
 ## Tags
+#Character/Lachlann
+#Concept/Moon
+#Concept/Rune 
+#Concept/Soul 
 #QuestItem
 #PoE2
+#Society/Ezomyte 

@@ -8,6 +8,6 @@ The never-ending journey must be walked alone.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/Moon 
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Arohongui 

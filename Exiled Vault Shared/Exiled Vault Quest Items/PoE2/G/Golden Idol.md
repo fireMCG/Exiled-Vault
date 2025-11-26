@@ -7,3 +7,4 @@ Golden Treasure lies forgotten...
 ## Tags
 #QuestItem
 #PoE2
+#Society/VaalEmpire 

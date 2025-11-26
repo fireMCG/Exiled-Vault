@@ -8,6 +8,6 @@ The warriors of the Tukohama Tribe call the brink of death home.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/Death 
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Tukohama 

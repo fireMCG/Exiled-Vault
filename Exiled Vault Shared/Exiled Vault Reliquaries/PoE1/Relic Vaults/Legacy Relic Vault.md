@@ -8,4 +8,3 @@ But his legacy cuts through the ages.
 ## Tags
 #PoE1 
 #Reliquary 
-#WiP 

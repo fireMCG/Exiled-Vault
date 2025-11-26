@@ -5,5 +5,8 @@ Weep not for me. This punishment is my own doing.
 
 ---
 ## Tags
+#Character/Yoon
+#Concept/Barya
 #QuestItem
 #PoE2
+#Society/Maraketh 

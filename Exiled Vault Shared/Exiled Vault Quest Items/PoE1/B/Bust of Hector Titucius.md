@@ -6,5 +6,8 @@ The Emperor honours Hector Titucius as Supreme Servant.
 
 ---
 ## Tags
+#Character/ChitusPerandus
+#Character/HectorTitucius
 #QuestItem
 #PoE1
+#Society/EternalEmpire 

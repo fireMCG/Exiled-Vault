@@ -7,5 +7,6 @@ wake and writhe within that deep and nameless dark."
 
 ---
 ## Tags
+#Character/Vilenta
 #QuestItem
 #PoE1

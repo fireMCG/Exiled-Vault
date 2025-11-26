@@ -8,6 +8,5 @@ An arrow in a storm may lose its course, but it will bring death where it eventu
 ---
 ## Tags
 #AncestorEquipment
-#Karui
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Valako 

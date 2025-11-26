@@ -6,5 +6,7 @@ was banished from Keth, but given the eastern sands.
 
 ---
 ## Tags
+#Event/ThirdPact 
 #QuestItem
 #PoE2
+#Society/KabalaClan 

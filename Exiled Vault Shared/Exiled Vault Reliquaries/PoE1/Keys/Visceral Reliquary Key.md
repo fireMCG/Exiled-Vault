@@ -8,6 +8,6 @@ of whole cultures, of entire worlds.
 
 ---
 ## Tags
+#Entity/EaterOfWorlds
 #PoE1 
 #Reliquary
-#WiP 

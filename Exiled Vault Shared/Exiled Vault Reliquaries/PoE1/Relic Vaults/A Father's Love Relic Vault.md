@@ -6,6 +6,7 @@ I forgive you.
 #
 ---
 ## Tags
+#Character/Shaper
+#Character/Zana
 #PoE1 
-#Reliquary 
-#WiP 
+#Reliquary

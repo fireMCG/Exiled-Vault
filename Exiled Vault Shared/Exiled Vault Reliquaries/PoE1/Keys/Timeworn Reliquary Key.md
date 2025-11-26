@@ -10,4 +10,3 @@ Floundering eternal in pools of tranquil dark.
 #DropDisabled 
 #PoE1 
 #Reliquary
-#WiP 

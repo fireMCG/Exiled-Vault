@@ -7,5 +7,8 @@ By the anointing of the Great Roc, under whose wings we grow and soar."
 
 ---
 ## Tags
+#Concept/Sekhema
+#Concept/Wing 
 #QuestItem
 #PoE1
+#Society/Maraketh 

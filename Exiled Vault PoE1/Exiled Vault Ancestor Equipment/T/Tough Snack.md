@@ -7,6 +7,4 @@ The long chew is half the satisfaction.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
 #PoE1 
-#WiP 

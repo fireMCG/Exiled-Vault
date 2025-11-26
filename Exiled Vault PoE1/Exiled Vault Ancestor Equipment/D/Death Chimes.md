@@ -8,6 +8,10 @@ Hinekora is not the master of Death, but she is its Mother.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Character/Hinekora 
+#Concept/Death 
+#Concept/Master 
+#Concept/Mother
+#God/Hinekora 
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Hinekora 

@@ -11,4 +11,3 @@ Forgotten no more.
 #DropDisabled 
 #PoE1 
 #Reliquary
-#WiP 

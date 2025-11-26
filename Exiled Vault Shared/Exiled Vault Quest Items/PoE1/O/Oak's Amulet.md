@@ -6,5 +6,6 @@ it awaits reconciliation with its kin.
 
 ---
 ## Tags
+#Character/Oak
 #QuestItem
 #PoE1

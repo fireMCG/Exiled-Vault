@@ -8,5 +8,10 @@ Your Humanity will shame us all."
 
 ---
 ## Tags
+#Character/IciusPerandus
+#Character/Siosa
+#Concept/Slavery 
 #QuestItem
 #PoE1
+#Society/Karui 
+#Society/VaalEmpire 

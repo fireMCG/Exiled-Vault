@@ -7,5 +7,7 @@ in knowing the answer: all of them.
 
 ---
 ## Tags
+#Entity/Chaos
 #QuestItem
 #PoE2
+#Trial/Chaos

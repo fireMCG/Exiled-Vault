@@ -7,6 +7,7 @@ Step close, take a chance, and try fortune's fare!
 
 ---
 ## Tags
+#Character/Prospero
+#Character/Ventor
 #PoE2
 #Strongbox
-#WiP

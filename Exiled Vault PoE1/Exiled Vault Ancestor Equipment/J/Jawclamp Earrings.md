@@ -8,6 +8,7 @@
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/Death 
+#Concept/Master
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Kitava

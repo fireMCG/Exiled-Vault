@@ -9,3 +9,4 @@ And check for stains! Knew a few people who'd use them for-...
 ## Tags
 #QuestItem
 #PoE1
+#Society/TemplarOrder 

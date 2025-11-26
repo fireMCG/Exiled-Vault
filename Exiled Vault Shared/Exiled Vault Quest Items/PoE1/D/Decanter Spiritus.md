@@ -8,5 +8,8 @@ spiritual can we hope to taste the full body of life."
 
 ---
 ## Tags
+#Character/Malachai 
+#Concept/Blindness
+#Concept/Flesh 
 #QuestItem
 #PoE1

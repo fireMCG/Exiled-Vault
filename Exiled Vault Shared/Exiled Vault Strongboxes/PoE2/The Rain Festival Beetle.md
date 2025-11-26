@@ -9,5 +9,5 @@ and its bounty was shared equally by all.
 ---
 ## Tags
 #PoE2
+#Society/Maraketh
 #Strongbox
-#WiP

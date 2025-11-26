@@ -8,6 +8,8 @@ Life springs from death in a grand cycle.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
+#Concept/Cycle
+#Concept/Death 
+#Concept/Life 
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Tawhoa 

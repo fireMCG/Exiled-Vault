@@ -9,6 +9,5 @@ In a crisis, those stones can pull double duty.
 ---
 ## Tags
 #AncestorEquipment
-#Karui
 #PoE1 
-#WiP 
+#Society/Karui/Tribe/Ngamahu 

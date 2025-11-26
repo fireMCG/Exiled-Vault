@@ -7,5 +7,7 @@ locked away for all eternity.
 
 ---
 ## Tags
+#Character/Shaper
+#Concept/Darkness 
 #QuestItem
 #PoE1
