@@ -7,4 +7,9 @@ So goes the descent.
 ---
 ## Tags
 #Artefact
+#Concept/Ash 
+#Concept/Darkness 
+#Concept/Horror
+#Concept/Madness 
+#Concept/Sun 
 #PoE1

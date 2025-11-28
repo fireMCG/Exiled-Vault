@@ -1,13 +1,13 @@
-## Soul of Puruna, the Challenger
+# Soul of Puruna, the Challenger
 Though his mind decayed with each passing wave,
 the Brine King stood steadfast in his hatred,
 and wore it like a shell, protecting himself
 from his failure to sire a worthy heir.
 
-##
+#
 ![[SinFlaskFull.webp]]
 
 ---
 ## Tags
+#Concept/Soul 
 #PoE1 
-#Soul

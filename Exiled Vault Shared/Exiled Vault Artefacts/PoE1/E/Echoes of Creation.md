@@ -8,4 +8,8 @@ Inflicting pain beyond measure
 ---
 ## Tags
 #Artefact
+#Character/Shaper 
+#Character/ValdoCaeserius
+#Concept/Creation
+#Concept/Time 
 #PoE1

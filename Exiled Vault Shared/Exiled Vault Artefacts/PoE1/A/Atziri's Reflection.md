@@ -7,4 +7,8 @@
 ---
 ## Tags
 #Artefact
+#Character/Atziri 
+#Concept/Mirror 
+#Concept/Sin/Vanity 
 #PoE1
+#Society/VaalEmpire 

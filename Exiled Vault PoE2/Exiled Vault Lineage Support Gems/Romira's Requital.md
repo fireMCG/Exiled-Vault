@@ -15,6 +15,11 @@ Minions from Supported Skills have 30% less maximum Life
 #
 ---
 ## Tags
+#Character/RomiraPhrecia
+#Concept/Cannibalism
+#Event/NightOfAThousandRibbons
 #Lineage
 #PoE2
+#Society/EternalEmpire 
 #SupportGem
+#Timeline 

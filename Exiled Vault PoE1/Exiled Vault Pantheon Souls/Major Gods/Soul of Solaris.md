@@ -1,12 +1,23 @@
-## Soul of Solaris
+# Soul of Solaris
 ![[Soul of Woad, Mockery of Man#Soul of Woad, Mockery of Man]]
 ![[Soul of Kitava, the Destroyer#Soul of Kitava, the Destroyer]]
 ![[Soul of Jorus, Sky's Edge#Soul of Jorus, Sky's Edge]]
 
-##
+#
 ![[SolarisIcon.webp]]
 
 ---
 ## Tags
+#Character/Solaris
+#Concept/Curse
+#Concept/Element/Fire 
+#Concept/Heart 
+#Concept/Offering 
+#Concept/Sacrifice 
+#Concept/Soul 
+#Concept/Sun 
+#Concept/Wrath
+#God/Solaris 
 #PoE1 
-#Soul
+#Society/Azmeri 
+#Society/EternalEmpire 

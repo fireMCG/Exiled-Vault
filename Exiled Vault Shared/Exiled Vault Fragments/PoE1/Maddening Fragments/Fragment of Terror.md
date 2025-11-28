@@ -6,6 +6,10 @@ Fear drives survival.
 
 ---
 ## Tags
+#Character/Elder 
+#Concept/Fear 
+#Concept/Survival
+#Concept/Horror 
+#Entity/Decay
 #Fragment
 #PoE1 
-#WiP 

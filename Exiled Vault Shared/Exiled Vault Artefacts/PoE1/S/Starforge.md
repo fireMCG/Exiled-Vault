@@ -6,4 +6,10 @@ The end is written into the beginning.
 ---
 ## Tags
 #Artefact
+#Character/Shaper 
+#Character/ValdoCaeserius
+#Concept/BeginningOfTime 
+#Concept/Cycle 
+#Concept/EndOfTime 
+#Concept/Star 
 #PoE1

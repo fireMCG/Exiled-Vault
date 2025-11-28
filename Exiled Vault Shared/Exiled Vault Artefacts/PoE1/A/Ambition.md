@@ -8,4 +8,6 @@ in knowing the answer: all of them.
 ---
 ## Tags
 #Artefact
+#Entity/Chaos 
+#Concept/Fate 
 #PoE1

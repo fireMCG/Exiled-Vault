@@ -6,4 +6,9 @@ Even emptiness may be harnessed.
 ---
 ## Tags
 #Artefact
+#Character/Elder 
+#Character/Shaper 
+#Character/ValdoCaeserius 
+#Concept/Void 
+#Entity/Decay
 #PoE1

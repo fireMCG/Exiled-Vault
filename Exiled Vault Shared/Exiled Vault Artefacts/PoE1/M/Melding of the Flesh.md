@@ -8,4 +8,8 @@ then rose into the living sky. My family screams alongside me still."
 ---
 ## Tags
 #Artefact
+#Character/EaterOfWorlds 
+#Concept/Flesh 
+#Concept/Sky 
+#Entity/Tangle 
 #PoE1

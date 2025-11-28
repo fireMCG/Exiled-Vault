@@ -13,6 +13,12 @@ Supported Skills require 50% less Glory to use
 #
 ---
 ## Tags
+#Character/Daresso 
+#Character/Merveil
+#Concept/Death 
+#Concept/Eye 
+#Concept/Love 
 #Lineage
 #PoE2
 #SupportGem
+#Timeline 

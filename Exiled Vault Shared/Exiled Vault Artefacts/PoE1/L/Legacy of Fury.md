@@ -7,4 +7,9 @@ naught remains but ash.
 ---
 ## Tags
 #Artefact
+#Character/Maven 
+#Concept/Ash 
+#Concept/Hate 
+#Concept/Love 
+#Concept/Wrath 
 #PoE1

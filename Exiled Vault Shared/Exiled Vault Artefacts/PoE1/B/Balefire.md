@@ -8,4 +8,9 @@ was a memory of that which was gone, a whisper of deeds undone.
 ---
 ## Tags
 #Artefact
+#Concept/Element/Fire
+#Concept/Hunger 
+#Concept/Memory 
+#Concept/Sky 
+#Concept/Whisper 
 #PoE1

@@ -6,4 +6,6 @@ The body stands, but the spirit soars.
 ---
 ## Tags
 #Artefact
+#Concept/Flesh 
+#Concept/Spirit 
 #PoE1

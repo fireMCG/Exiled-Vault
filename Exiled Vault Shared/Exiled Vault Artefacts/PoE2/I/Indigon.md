@@ -7,4 +7,10 @@ the mind's limits end.
 ---
 ## Tags
 #Artefact
+#Character/Elder 
+#Character/Shaper 
+#Character/ValdoCaeserius 
+#Concept/Flesh 
+#Concept/Mind 
+#Entity/Decay
 #PoE2

@@ -7,4 +7,9 @@ it was his leadership that earned Aul, the Last King, his crown.
 ---
 ## Tags
 #Artefact
+#Character/Aul 
+#Character/Ahn 
+#Concept/Fear 
+#Concept/King 
 #PoE1
+#Society/Primeval 

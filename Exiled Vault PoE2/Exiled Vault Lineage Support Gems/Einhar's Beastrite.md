@@ -14,6 +14,8 @@ Killing Blows from Supported Strike Skills against Rare monsters grant two of th
 #
 ---
 ## Tags
+#Character/Einhar
 #Lineage
 #PoE2
+#Society/Ezomyte 
 #SupportGem

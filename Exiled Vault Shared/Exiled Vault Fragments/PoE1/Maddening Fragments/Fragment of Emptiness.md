@@ -6,6 +6,7 @@ What is not cannot cause harm.
 
 ---
 ## Tags
+#Character/Elder 
+#Entity/Decay
 #Fragment
 #PoE1 
-#WiP 

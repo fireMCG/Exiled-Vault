@@ -1,6 +1,6 @@
-## Reckless Ambition
+# Reckless Ambition
 Why settle when more is never enough.
-## 
+#
 ![[Reckless Ambition.png]]
 
 ---
@@ -9,5 +9,10 @@ Omeyocan
 
 ---
 ## Tags
+#Character/Sirus 
+#Character/Zana 
+#Concept/Ambition
+#Concept/Aztec
+#Concept/Heaven
 #DivinationCard
 #PoE1

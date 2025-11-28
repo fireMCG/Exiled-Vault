@@ -6,4 +6,5 @@ Danger is the price of wealth.
 ---
 ## Tags
 #Artefact
+#Concept/Wealth 
 #PoE1

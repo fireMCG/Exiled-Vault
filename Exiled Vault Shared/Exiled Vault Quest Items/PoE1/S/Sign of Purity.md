@@ -18,3 +18,4 @@ capable of banishing darkness, and bringing order to the chaos in men's hearts.
 #QuestItem
 #PoE1
 #Society/TemplarOrder 
+#Timeline 

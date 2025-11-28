@@ -1,6 +1,6 @@
-## Unchained
+# Unchained
 Mold the world with your bare hands. Be careful, for what is your doing might become your undoing.
-## 
+#
 ![[Unchained.png]]
 
 ---
@@ -11,5 +11,6 @@ Corrupted
 
 ---
 ## Tags
+#Concept/Chain
 #DivinationCard
 #PoE1

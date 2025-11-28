@@ -1,4 +1,4 @@
-## Poems 5
+# Poems 5
 The Guide led the Warrior down a path
 That wound and twisted
 Through fields of blossoming promises.
@@ -16,6 +16,8 @@ The Warrior will not ascend.
 Instead he hunts.
 Guided by his love for Ezomyr.
 
+#
 ---
 ## Tags
 #EnvironmentalLore 
+#Timeline 

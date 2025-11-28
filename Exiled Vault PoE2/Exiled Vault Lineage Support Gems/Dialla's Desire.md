@@ -14,6 +14,15 @@ for eternity. Surely we can seek perfection together?"
 #
 ---
 ## Tags
+#Character/Dialla
+#Character/Malachai 
+#Concept/Eternity 
+#Concept/Gemling 
+#Concept/Love 
+#Concept/Queen 
+#Concept/VirtueGem 
 #Lineage
 #PoE2
+#Society/EternalEmpire 
 #SupportGem
+#Timeline 

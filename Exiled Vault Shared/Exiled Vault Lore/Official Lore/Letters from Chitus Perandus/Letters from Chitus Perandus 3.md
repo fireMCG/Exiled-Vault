@@ -1,4 +1,4 @@
-## ## Letters from Chitus Perandus 3
+## Letters from Chitus Perandus 3
 
 Uncle Cadiro 3rd Solaro of Divini, 1318 I.C.
 
@@ -16,6 +16,8 @@ We are Eternal.
 
 \- Chitus Perandus
 
+#
 ---
 ## Tags
 #Lore 
+#Timeline 

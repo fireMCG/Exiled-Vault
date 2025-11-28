@@ -1,4 +1,4 @@
-## Letters from Chitus Perandus 1
+# Letters from Chitus Perandus 1
 
 Uncle Cadiro 3rd Kaso of Vitali, 1316 I.C. 
 
@@ -16,6 +16,8 @@ I will not stand by and allow Izaro to deliver us all unto damnation. I trust, d
 
 \- Chitus Perandus
 
+#
 ---
 ## Tags
 #Lore 
+#Timeline 

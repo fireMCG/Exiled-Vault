@@ -8,4 +8,7 @@ by those who cannot hear the music."
 ---
 ## Tags
 #Artefact
+#Character/Atziri 
+#Concept/Dance
+#Concept/Music
 #PoE1

@@ -14,6 +14,13 @@ Minions from Supported Skills deal no Damage
 #
 ---
 ## Tags
+#Character/Brutus
+#Character/Shavronne
+#Concept/Element/Lightning
+#Concept/Immortality 
+#Concept/Sky 
 #Lineage
 #PoE2
+#Society/EternalEmpire 
 #SupportGem
+#Timeline 

@@ -7,4 +7,11 @@
 ---
 ## Tags
 #Artefact
+#Character/Maven 
+#Character/Viridi
+#Concept/Creation 
+#Concept/Virtue/Humility
+#Concept/Sky 
+#God/Viridi 
 #PoE1
+#Society/Azmeri 

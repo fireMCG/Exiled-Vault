@@ -6,4 +6,6 @@ The cruel thinker finds glee in torture most precise.
 ---
 ## Tags
 #Artefact
+#Character/Maven 
+#Character/Olesya
 #PoE1

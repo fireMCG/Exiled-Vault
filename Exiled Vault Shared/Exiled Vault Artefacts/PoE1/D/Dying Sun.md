@@ -7,4 +7,8 @@ Whether you burn out or explode is up to you.
 ---
 ## Tags
 #Artefact
+#Character/Shaper 
+#Character/ValdoCaeserius
+#Concept/Death 
+#Concept/Sun 
 #PoE1

@@ -7,4 +7,9 @@ and engulfs the leaking mind of Man.
 ---
 ## Tags
 #Artefact
+#Character/Apep
+#Concept/Mind 
+#Concept/Poison
+#Concept/Rage 
+#God/Apep
 #PoE1

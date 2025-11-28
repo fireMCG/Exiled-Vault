@@ -10,5 +10,9 @@ wild and free.
 
 ---
 ## Tags
+#Concept/Element/Fire
+#Concept/FirstOnes
+#Concept/Hearth
 #PoE1
+#Society/Ezomyte 
 #Talisman 

@@ -16,6 +16,9 @@ Skills Triggered by Supported Skills recover between % and 20% of cost on use
 #
 ---
 ## Tags
+#Character/Ixchel
+#Concept/Chaos 
 #Lineage
 #PoE2
+#Society/VaalEmpire 
 #SupportGem

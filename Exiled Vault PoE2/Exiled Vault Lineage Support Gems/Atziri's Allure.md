@@ -15,6 +15,10 @@ Supported Skills have 25% less Curse Effect
 #
 ---
 ## Tags
+#Character/Atziri 
+#Concept/Lust 
+#Concept/Mirror 
 #Lineage
 #PoE2
+#Society/VaalEmpire 
 #SupportGem

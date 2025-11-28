@@ -8,4 +8,7 @@ Reborn into freedom eternal
 ---
 ## Tags
 #Artefact
+#Concept/Cycle 
+#Concept/Eternity 
+#Concept/Prison 
 #PoE1

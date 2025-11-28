@@ -7,4 +7,8 @@ the Shade watched the Scholar.
 ---
 ## Tags
 #Artefact
+#Character/Elder 
+#Character/Shaper 
+#Character/ValdoCaeserius 
+#Entity/Decay
 #PoE1

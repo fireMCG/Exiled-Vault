@@ -9,4 +9,9 @@ In heart, in mind, in hand."
 ---
 ## Tags
 #Artefact
+#Character/Deshret 
+#Concept/Hand
+#Concept/Heart 
+#Concept/Mind 
 #PoE1
+#Society/Maraketh 

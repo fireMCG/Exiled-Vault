@@ -8,4 +8,10 @@ matters but the pursuit of perfection.
 ---
 ## Tags
 #Artefact
+#Character/Elder 
+#Character/Shaper 
+#Character/ValdoCaeserius
+#Entity/Decay
+#Concept/Vision 
+#Concept/World 
 #PoE1

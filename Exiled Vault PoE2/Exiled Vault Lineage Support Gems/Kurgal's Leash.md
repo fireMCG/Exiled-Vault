@@ -14,6 +14,13 @@ Minions from Supported Skills gain Unholy Might for 5 seconds when Commanded
 #
 ---
 ## Tags
+#Character/Kurgal
+#Concept/Dominion
+#Concept/Golem 
+#Concept/Lich 
+#Concept/Slavery 
 #Lineage
 #PoE2
+#Society/Abyssal
 #SupportGem
+#Timeline 

@@ -7,4 +7,8 @@ by whose light night is borne.
 ---
 ## Tags
 #Artefact
+#Concept/Death 
+#Concept/Element/Fire 
+#Concept/Light 
+#Concept/Night
 #PoE1

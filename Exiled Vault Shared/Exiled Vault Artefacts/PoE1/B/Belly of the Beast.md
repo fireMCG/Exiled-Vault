@@ -7,4 +7,5 @@ Than the Belly of the Beast
 ---
 ## Tags
 #Artefact
+#Concept/Beast 
 #PoE1

@@ -14,6 +14,11 @@ Supported Skills Gain 20% of Lightning Damage as Extra Chaos Damage
 #
 ---
 ## Tags
+#Character/Esh
+#Concept/Breachlord
+#Concept/Darkness 
+#Concept/Whisper 
 #Lineage
 #PoE2
+#Society/Hiveborn
 #SupportGem

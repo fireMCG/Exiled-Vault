@@ -11,4 +11,9 @@ And Frost's tortured moans."
 ---
 ## Tags
 #Artefact
+#Character/Berek 
+#Concept/Element/Fire 
+#Concept/Frost 
+#Concept/Mountain 
+#Concept/Taming 
 #PoE1

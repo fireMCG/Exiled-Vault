@@ -13,6 +13,12 @@ Poisons from Supported Skills deal Damage 1% faster per Rage
 #
 ---
 ## Tags
+#Character/Atziri 
+#Character/Tacati
+#Concept/Lust 
+#Concept/Queen 
 #Lineage
 #PoE2
+#Society/VaalEmpire 
 #SupportGem
+#Timeline 

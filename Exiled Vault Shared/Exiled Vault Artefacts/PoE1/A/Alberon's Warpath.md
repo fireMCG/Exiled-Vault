@@ -7,4 +7,6 @@ and they welcomed him.
 ---
 ## Tags
 #Artefact
+#Character/Alberon
+#Concept/Curse 
 #PoE1

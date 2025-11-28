@@ -14,6 +14,11 @@ Supported Skills Gain 2% of Damage as extra Physical Damage per 10 Life cost
 #
 ---
 ## Tags
+#Character/Atalui
+#Character/Atazek
+#Concept/Blood 
 #Lineage
 #PoE2
+#Society/VaalEmpire 
 #SupportGem
+#Timeline 

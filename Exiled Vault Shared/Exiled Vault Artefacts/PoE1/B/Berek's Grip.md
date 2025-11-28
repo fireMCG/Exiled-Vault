@@ -11,4 +11,12 @@ While Berek slept."
 ---
 ## Tags
 #Artefact
+#Character/Berek
+#Concept/Element/Ice 
+#Concept/Element/Lightning 
+#Concept/Frost 
+#Concept/Sleep 
+#Concept/Storm
+#Concept/Taming 
+#Concept/Wrath 
 #PoE1

@@ -8,4 +8,12 @@ Ngamahu lends it, and Hinekora returns it."
 ---
 ## Tags
 #Artefact
+#Character/Hinekora 
+#Character/Lavianga 
+#Character/Ngamahu
+#Concept/Ash 
+#Concept/Element/Fire
+#God/Hinekora 
+#God/Ngamahu 
 #PoE1
+#Society/Karui 

@@ -14,6 +14,10 @@ Supported Skills Gain 20% of Cold Damage as Extra Chaos Damage
 #
 ---
 ## Tags
+#Character/Tul
+#Concept/Essence 
+#Concept/Eye 
 #Lineage
 #PoE2
+#Society/Hiveborn 
 #SupportGem

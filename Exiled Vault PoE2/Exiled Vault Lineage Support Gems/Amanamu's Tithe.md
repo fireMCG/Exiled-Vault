@@ -14,7 +14,15 @@ Maximum 3 Abyssal Monster Modifiers gained this way
 #
 ---
 ## Tags
+#Character/Amanamu
+#Concept/Blood 
+#Concept/Death 
+#Concept/Flesh
+#Concept/Lich
+#Concept/Soul 
 #Lineage
 #PoE2
+#Society/Abyssal
+#Society/Lightless
 #SupportGem
 #Unreleased

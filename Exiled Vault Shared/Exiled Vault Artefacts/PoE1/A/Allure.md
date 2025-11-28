@@ -9,4 +9,8 @@ What drives us to leave this world for the Abyss?
 ---
 ## Tags
 #Artefact
+#Concept/Abyss 
+#Concept/Death 
+#Concept/Love 
+#Concept/Soul 
 #PoE1

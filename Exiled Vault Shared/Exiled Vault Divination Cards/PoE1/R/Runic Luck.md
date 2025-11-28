@@ -1,7 +1,6 @@
-## Runic Luck
-If you believe hard enough,
-you'll win.
-## 
+# Runic Luck
+If you believe hard enough, you'll win.
+#
 ![[Runic Luck.png]]
 
 ---
@@ -10,5 +9,8 @@ you'll win.
 
 ---
 ## Tags
+#Concept/Luck
+#Concept/Rune 
+#Concept/Triskelion
 #DivinationCard
 #PoE1

@@ -10,5 +10,10 @@ are one and the same.
 
 ---
 ## Tags
+#Concept/Death 
+#Concept/FirstOnes 
+#Concept/Flesh 
+#Concept/Sleep
 #PoE1
+#Society/Ezomyte 
 #Talisman 

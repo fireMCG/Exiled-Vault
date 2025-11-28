@@ -8,4 +8,7 @@ but one thing is certain. It is very, very old."
 ---
 ## Tags
 #Artefact
+#Character/Ahn 
+#Character/Aul 
 #PoE1
+#Society/Primeval 

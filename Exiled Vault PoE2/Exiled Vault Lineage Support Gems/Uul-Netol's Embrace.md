@@ -14,6 +14,9 @@ Supported Skills Gain 20% of Physical Damage as Extra Chaos Damage
 #
 ---
 ## Tags
+#Character/UulNetol
+#Concept/Breachlord 
 #Lineage
 #PoE2
+#Society/Hiveborn 
 #SupportGem

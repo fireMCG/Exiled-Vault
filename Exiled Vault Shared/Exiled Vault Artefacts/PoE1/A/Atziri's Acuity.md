@@ -8,4 +8,8 @@ It will tell me when it is best to strike."
 ---
 ## Tags
 #Artefact
+#Character/Atziri 
+#Concept/Heart 
+#Concept/Herald
 #PoE1
+#Society/VaalEmpire 

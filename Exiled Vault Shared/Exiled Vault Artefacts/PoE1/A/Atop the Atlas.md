@@ -8,4 +8,8 @@ And those that made the trek realised the folly of their desire for greatness."
 ---
 ## Tags
 #Artefact
+#Concept/Desire 
+#Concept/AtlasOfWorlds
+#Concept/Mountain
+#Concept/Sun/Sunlight 
 #PoE1

@@ -1,4 +1,4 @@
-## Letters from Chitus Perandus 2
+# Letters from Chitus Perandus 2
 
 Uncle Cadiro 1st Lunaro of Verusi 1317, I.C.
 
@@ -18,6 +18,8 @@ I, for one, will not let that happen, Uncle.
 
 \- Chitus Perandus
 
+#
 ---
 ## Tags
 #Lore 
+#Timeline 

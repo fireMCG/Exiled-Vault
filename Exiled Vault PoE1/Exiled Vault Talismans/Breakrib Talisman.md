@@ -10,5 +10,7 @@ They should tear our enemies asunder.
 
 ---
 ## Tags
+#Concept/FirstOnes 
 #PoE1
+#Society/Ezomyte 
 #Talisman 

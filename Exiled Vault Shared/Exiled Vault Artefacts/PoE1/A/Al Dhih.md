@@ -8,4 +8,7 @@ death is sure to follow."
 ---
 ## Tags
 #Artefact
+#Concept/Death 
+#Concept/Animal/Hyena
 #PoE1
+#Society/Maraketh 

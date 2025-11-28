@@ -8,4 +8,7 @@ Yet the fates of others dragged in their wake.
 ---
 ## Tags
 #Artefact
+#Concept/Fate 
+#Concept/Wind
+#Concept/Wing 
 #PoE1

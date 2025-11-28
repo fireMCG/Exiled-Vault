@@ -8,4 +8,10 @@ learning, and preparing.
 ---
 ## Tags
 #Artefact
+#Character/Elder 
+#Character/Shaper 
+#Character/ValdoCaeserius 
+#Concept/Essence 
+#Concept/Flesh 
+#Entity/Decay
 #PoE1

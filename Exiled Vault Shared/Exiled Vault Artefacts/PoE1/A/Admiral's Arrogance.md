@@ -8,3 +8,4 @@ to produce Admirals with, shall we say... quick tempers.
 ## Tags
 #Artefact
 #PoE1
+#Society/TemplarOrder 

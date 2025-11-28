@@ -7,4 +7,9 @@ Only to watch in horror as it ruptured and shattered under a tide of limbs.
 ---
 ## Tags
 #Artefact
+#Character/InfiniteHunger 
+#Concept/Hand 
+#Concept/Shatter 
+#Concept/Star 
+#Entity/Tangle 
 #PoE1

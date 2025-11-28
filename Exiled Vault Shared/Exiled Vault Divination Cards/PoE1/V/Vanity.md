@@ -1,6 +1,6 @@
-## Vanity
+# Vanity
 
-## 
+#
 ![[Vanity.png]]
 
 ---
@@ -10,5 +10,6 @@ Corrupted
 
 ---
 ## Tags
+#Concept/Sin/Vanity
 #DivinationCard
 #PoE1

@@ -7,4 +7,8 @@ Created from compromises. Vulnerable to mortal whims.
 ---
 ## Tags
 #Artefact
+#Character/Venarius 
+#Concept/Memory 
+#Concept/Mortality 
+#Concept/Sanctity
 #PoE1

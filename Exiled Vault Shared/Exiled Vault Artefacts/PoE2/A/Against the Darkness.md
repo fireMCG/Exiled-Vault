@@ -9,3 +9,4 @@ Thus, the Third Pact was born.
 ## Tags
 #Artefact
 #PoE2
+#Timeline 

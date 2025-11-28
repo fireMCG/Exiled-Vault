@@ -7,4 +7,9 @@ for the true end follows when the great eye closes.
 ---
 ## Tags
 #Artefact
+#Character/SearingExarch 
+#Concept/Element/Fire 
+#Concept/Eye 
+#Concept/EndOfTime 
+#Entity/CleansingFire 
 #PoE1

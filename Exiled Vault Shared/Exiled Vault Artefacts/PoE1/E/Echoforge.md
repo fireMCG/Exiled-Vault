@@ -6,4 +6,7 @@ Witness the emergence of a new cosmic power.
 ---
 ## Tags
 #Artefact
+#Character/Maven 
+#Concept/Cosmos
+#Concept/Power 
 #PoE1

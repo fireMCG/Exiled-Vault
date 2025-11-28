@@ -1,7 +1,7 @@
-## Shard of Fate
+# Shard of Fate
 Their whims left unknown,
 Their life left for others.
-## 
+#
 ![[Shard of Fate.png]]
 
 ---
@@ -10,5 +10,8 @@ Vivid Jewel
 
 ---
 ## Tags
+#Concept/Crystal 
+#Concept/Fate 
+#Concept/Shatter 
 #DivinationCard
 #PoE1

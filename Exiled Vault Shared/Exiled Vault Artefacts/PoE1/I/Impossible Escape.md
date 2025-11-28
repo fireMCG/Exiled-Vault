@@ -8,4 +8,9 @@ for supremacy. She alone reached her limit... and broke through.
 ---
 ## Tags
 #Artefact
+#Character/Maven
+#Concept/Cosmos 
+#Concept/Death 
+#Concept/Prison 
+#Concept/Progenitor
 #PoE1

@@ -1,6 +1,6 @@
-## Prosperity
+# Prosperity
 Accumulating wealth has its own costs.
-## 
+#
 ![[Prosperity.png]]
 
 ---
@@ -9,5 +9,8 @@ Perandus' Gold Ring
 
 ---
 ## Tags
+#Bloodline/Perandus 
+#Concept/Fish 
+#Concept/Wealth 
 #DivinationCard
 #PoE1

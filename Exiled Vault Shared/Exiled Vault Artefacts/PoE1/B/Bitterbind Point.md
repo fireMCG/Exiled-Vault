@@ -7,4 +7,6 @@ The barriers that divide us need not be broken for our spirits to become entangl
 ---
 ## Tags
 #Artefact
+#Concept/Spirit 
+#Concept/Tangle
 #PoE1

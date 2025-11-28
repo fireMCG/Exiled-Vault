@@ -1,10 +1,13 @@
-## Soul of Garukhan
+# Soul of Garukhan
 ![[Soul of Stalker of the Endless Dunes#Soul of Stalker of the Endless Dunes]]
 
-##
+#
 ![[RulerOfHighgateIcon.webp]]
 
 ---
 ## Tags
+#Character/Garukhan
+#Concept/Sky 
+#Concept/Soul 
+#God/Garukhan 
 #PoE1 
-#Soul
