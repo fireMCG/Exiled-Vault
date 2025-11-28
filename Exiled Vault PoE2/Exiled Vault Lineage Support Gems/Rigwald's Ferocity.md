@@ -20,6 +20,12 @@ used in Weapon Set II
 #
 ---
 ## Tags
+#Character/Rigwald
+#Character/Skothe
+#Concept/King 
+#Concept/Slavery 
 #Lineage
 #PoE2
+#Society/Ezomyte 
 #SupportGem
+#Timeline 

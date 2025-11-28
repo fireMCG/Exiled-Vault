@@ -1,8 +1,8 @@
-## Remembrance
+# Remembrance
 "For all your struggles, all your achievements, even for the greatest of us, a story is all that remains. Write it well." 
 
 -Julius Perandus, Father of Chitus
-## 
+#
 ![[Remembrance.png]]
 
 ---
@@ -12,5 +12,8 @@ Corrupted
 
 ---
 ## Tags
+#Character/ChitusPerandus 
+#Character/JuliusPerandus
 #DivinationCard
 #PoE1
+#Society/EternalEmpire 

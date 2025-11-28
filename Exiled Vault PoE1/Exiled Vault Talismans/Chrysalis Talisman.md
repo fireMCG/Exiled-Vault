@@ -1,7 +1,7 @@
 # Chrysalis Talisman
 The world of the First Ones is harsh;  
 We struggle on our bellies to survive.  
-But that which imprisons us also changes us  
+But that which imprisons us also changes us.
 And soon we will emerge anew.  
 \- The Wolven King
 
@@ -10,5 +10,7 @@ And soon we will emerge anew.
 
 ---
 ## Tags
+#Concept/FirstOnes 
 #PoE1
+#Society/Ezomyte 
 #Talisman 

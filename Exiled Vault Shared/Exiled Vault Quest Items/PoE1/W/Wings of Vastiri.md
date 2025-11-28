@@ -6,6 +6,7 @@ descended upon her enemies and their armies of darkness.
 
 ---
 ## Tags
+#Character/Garukhan 
 #Concept/Bird
 #Concept/Darkness
 #Concept/Wing

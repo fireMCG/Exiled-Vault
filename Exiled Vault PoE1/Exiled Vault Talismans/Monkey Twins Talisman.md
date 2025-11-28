@@ -1,6 +1,5 @@
 # Monkey Twins Talisman
-The first ones marked their hunting grounds  
-with blood and piss.  
+The first ones marked their hunting grounds with blood and piss.  
 We have tried to paint our future in words.  
 Now we shall paint with inks of savagery.  
 \- The Wolven King
@@ -10,5 +9,7 @@ Now we shall paint with inks of savagery.
 
 ---
 ## Tags
+#Concept/FirstOnes 
 #PoE1
+#Society/Ezomyte 
 #Talisman 

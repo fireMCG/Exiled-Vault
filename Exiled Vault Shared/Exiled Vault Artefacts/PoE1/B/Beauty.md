@@ -8,3 +8,4 @@ but victorious. You have overcome.
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

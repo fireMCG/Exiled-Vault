@@ -7,4 +7,10 @@ of countless disintegrated worlds.
 ---
 ## Tags
 #Artefact
+#Character/EaterOfWorlds 
+#Concept/Ash 
+#Concept/Realm 
+#Concept/Star 
+#Concept/Wisdom 
+#Entity/Tangle 
 #PoE1

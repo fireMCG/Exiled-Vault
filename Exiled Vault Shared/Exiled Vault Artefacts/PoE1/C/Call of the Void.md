@@ -7,4 +7,11 @@ can the cold truth of existence take hold.
 ---
 ## Tags
 #Artefact
+#Character/Elder 
+#Character/Shaper 
+#Character/ValdoCaeserius 
+#Concept/Ambition 
+#Concept/Mind 
+#Concept/Void 
+#Entity/Decay
 #PoE1

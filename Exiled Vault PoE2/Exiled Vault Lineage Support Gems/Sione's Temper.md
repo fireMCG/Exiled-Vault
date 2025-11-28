@@ -15,6 +15,16 @@ All Wildshards are lost when Supported Skills fire Projectiles in a circle
 #
 ---
 ## Tags
+#Character/Sione
+#Concept/Crystal 
+#Concept/Desire
+#Concept/Moon 
+#Concept/Shatter
+#Concept/Silver 
+#Concept/Sky 
+#Concept/Vision
+#God/Sione
 #Lineage
 #PoE2
+#Society/Karui 
 #SupportGem

@@ -1,8 +1,7 @@
 # Clutching Talisman
 Fear the children of the First Ones.  
 Let fear shield your back.  
-And let the dullard speak of bravery  
-when the First Ones come for him.  
+And let the dullard speak of bravery when the First Ones come for him.  
 \- The Wolven King
 
 #
@@ -10,5 +9,8 @@ when the First Ones come for him.
 
 ---
 ## Tags
+#Concept/Fear
+#Concept/FirstOnes 
 #PoE1
+#Society/Ezomyte 
 #Talisman 

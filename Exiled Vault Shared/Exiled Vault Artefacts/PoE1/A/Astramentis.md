@@ -9,4 +9,11 @@ And into darkness send it.
 ---
 ## Tags
 #Artefact
+#Concept/Darkness 
+#Concept/Fracture 
+#Concept/Hate 
+#Concept/Mind 
+#Concept/Rage 
+#Concept/Realm
+#Concept/Trickery
 #PoE1

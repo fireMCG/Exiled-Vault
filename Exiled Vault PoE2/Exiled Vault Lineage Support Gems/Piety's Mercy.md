@@ -13,6 +13,9 @@ Supported Skills cannot kill Enemies with Hits
 #
 ---
 ## Tags
+#Character/Piety
+#Concept/Mercy 
 #Lineage
 #PoE2
+#Society/TemplarOrder 
 #SupportGem

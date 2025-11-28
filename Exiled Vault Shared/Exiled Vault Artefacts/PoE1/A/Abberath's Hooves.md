@@ -9,4 +9,9 @@ at turning life into ash.
 ---
 ## Tags
 #Artefact
+#Character/Abberath
+#Concept/Ash 
+#Concept/King 
+#Concept/War
+#God/Abberath 
 #PoE1

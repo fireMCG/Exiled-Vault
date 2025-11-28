@@ -11,4 +11,7 @@ without casting a bitter shadow."
 ---
 ## Tags
 #Artefact
+#Character/CadiroPerandus
+#Concept/Shadow 
+#Concept/Sun/Sunlight
 #PoE1

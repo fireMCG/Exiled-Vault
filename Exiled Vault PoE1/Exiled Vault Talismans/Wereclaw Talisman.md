@@ -10,5 +10,8 @@ and caper with untamed glee.
 
 ---
 ## Tags
+#Concept/FirstOnes 
+#Concept/Taming
 #PoE1
+#Society/Ezomyte 
 #Talisman 

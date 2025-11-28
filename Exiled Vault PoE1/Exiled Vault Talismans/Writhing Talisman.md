@@ -10,5 +10,9 @@ and then never crawl again.
 
 ---
 ## Tags
+#Concept/Darkness 
+#Concept/FirstOnes 
+#Concept/Hunt
 #PoE1
+#Society/Ezomyte 
 #Talisman 

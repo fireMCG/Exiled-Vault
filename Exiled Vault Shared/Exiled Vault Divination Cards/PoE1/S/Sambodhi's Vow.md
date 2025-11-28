@@ -1,8 +1,8 @@
-## Sambodhi's Vow
+# Sambodhi's Vow
 He dispels dark realms
 until mortal sufferings
 yield to hopeful light.
-## 
+#
 ![[Sambodhi's Vow.png]]
 
 ---
@@ -11,5 +11,8 @@ Mortal Fragment
 
 ---
 ## Tags
+#Concept/Darkness 
+#Concept/Light 
+#Concept/Wing 
 #DivinationCard
 #PoE1

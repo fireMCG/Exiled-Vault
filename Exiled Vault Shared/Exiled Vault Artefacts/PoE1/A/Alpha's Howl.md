@@ -8,4 +8,8 @@ With the blood of the weak
 ---
 ## Tags
 #Artefact
+#Concept/Animal/Wolf
+#Concept/Blood 
+#Concept/Nature 
+#Concept/Power 
 #PoE1

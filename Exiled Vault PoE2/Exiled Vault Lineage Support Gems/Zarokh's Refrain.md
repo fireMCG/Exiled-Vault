@@ -13,6 +13,11 @@ Supported Spells Echo 2 times
 #
 ---
 ## Tags
+#Character/Zarokh
+#Concept/Barya 
+#Concept/Djinn 
+#Concept/Prison
 #Lineage
 #PoE2
+#Society/Maraketh 
 #SupportGem

@@ -1,8 +1,6 @@
 # Mandible Talisman
-The First Ones hold us  
-between two sharpened blades.  
-That should we stray too far from the path,  
-we find ourselves severed.  
+The First Ones hold us between two sharpened blades.  
+That should we stray too far from the path, we find ourselves severed.  
 \- The Wolven King
 
 #
@@ -10,5 +8,7 @@ we find ourselves severed.
 
 ---
 ## Tags
+#Concept/FirstOnes 
 #PoE1
+#Society/Ezomyte 
 #Talisman 

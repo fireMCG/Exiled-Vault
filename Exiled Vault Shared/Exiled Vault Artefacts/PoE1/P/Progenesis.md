@@ -8,4 +8,9 @@ they fought to the death for every last drop.
 ---
 ## Tags
 #Artefact
+#Character/Maven 
+#Concept/Cosmos 
+#Concept/Creation
+#Concept/Death 
+#Concept/Mother 
 #PoE1

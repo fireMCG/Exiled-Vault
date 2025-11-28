@@ -13,6 +13,8 @@ Hits with Supported Skills treat Enemy Monster Elemental Resistance values as in
 #
 ---
 ## Tags
+#Character/Rakiata 
 #Lineage
 #PoE2
+#Society/Karui/Tribe/Tasalio 
 #SupportGem

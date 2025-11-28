@@ -8,4 +8,10 @@ consuming the knowledge of fallen civilisations.
 ---
 ## Tags
 #Artefact
+#Character/SearingExarch 
+#Concept/Dawn
+#Concept/Knowledge 
+#Concept/Star 
+#Concept/Void 
+#Entity/CleansingFire 
 #PoE1

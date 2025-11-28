@@ -7,4 +7,9 @@
 ---
 ## Tags
 #Artefact
+#Character/Atziri 
+#Concept/Death 
+#Concept/Mirror
+#Concept/Wraeclast
 #PoE1
+#Society/VaalEmpire 

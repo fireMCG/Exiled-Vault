@@ -14,6 +14,13 @@ Supported Skills Break 70% more Armour
 #
 ---
 ## Tags
+#Bloodline/Titan 
+#Character/MoltenOne 
+#Character/Uruk
+#Concept/Alliance
+#Concept/Element/Fire 
+#Concept/Volcano 
 #Lineage
 #PoE2
 #SupportGem
+#Timeline 

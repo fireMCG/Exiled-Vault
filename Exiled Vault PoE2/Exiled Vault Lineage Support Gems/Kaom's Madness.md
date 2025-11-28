@@ -16,6 +16,13 @@ Supported Skills have 30% less Area of Effect
 #
 ---
 ## Tags
+#Character/Kaom 
+#Concept/Beast
+#Concept/King
+#Concept/Madness
+#Concept/Nightmare 
 #Lineage
 #PoE2
+#Society/Karui 
 #SupportGem
+#Timeline 

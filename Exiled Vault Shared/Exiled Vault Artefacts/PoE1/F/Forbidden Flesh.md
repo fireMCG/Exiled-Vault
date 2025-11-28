@@ -7,4 +7,6 @@ continue to merge and mutate and cry out for release...
 ---
 ## Tags
 #Artefact
+#Character/EaterOfWorlds 
+#Entity/Tangle 
 #PoE1

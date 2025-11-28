@@ -1,6 +1,5 @@
 # Horned Talisman
-The Empire hides lies and falsehoods  
-Behind a mask of politeness and civility.  
+The Empire hides lies and falsehoods behind a mask of politeness and civility.  
 The First Ones teach us to look through the lies,  
 And that no beast can truly cover their tracks.  
 \- The Wolven King
@@ -10,5 +9,7 @@ And that no beast can truly cover their tracks.
 
 ---
 ## Tags
+#Concept/FirstOnes 
 #PoE1
+#Society/Ezomyte 
 #Talisman 

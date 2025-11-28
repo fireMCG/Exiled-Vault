@@ -10,5 +10,8 @@ To drink of their blood is to drink of time itself.
 
 ---
 ## Tags
+#Concept/Blood 
+#Concept/FirstOnes 
 #PoE1
+#Society/Ezomyte 
 #Talisman 

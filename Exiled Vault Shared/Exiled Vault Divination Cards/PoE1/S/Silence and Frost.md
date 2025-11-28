@@ -1,7 +1,7 @@
-## Silence and Frost
+# Silence and Frost
 Cry havoc!
 Unleash pandemonium!
-## 
+#
 ![[Silence and Frost.png]]
 
 ---

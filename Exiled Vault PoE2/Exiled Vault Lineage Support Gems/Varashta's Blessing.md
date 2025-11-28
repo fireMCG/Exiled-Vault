@@ -13,6 +13,9 @@ Supported Skills deal 10% more Damage for each different Command Skill used in t
 #
 ---
 ## Tags
+#Character/Varashta
 #Lineage
 #PoE2
+#Society/Maraketh 
 #SupportGem
+#Timeline 

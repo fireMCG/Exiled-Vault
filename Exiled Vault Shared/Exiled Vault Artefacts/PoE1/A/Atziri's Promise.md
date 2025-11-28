@@ -7,4 +7,8 @@
 ---
 ## Tags
 #Artefact
+#Character/Atziri 
+#Concept/Death 
+#Concept/Loyalty
 #PoE1
+#Society/VaalEmpire 

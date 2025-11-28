@@ -15,6 +15,13 @@ Minions from Supported Skills gain 20% increased Attack and Cast Speed when thei
 #
 ---
 ## Tags
+#Character/Tecrod
+#Concept/Blood 
+#Concept/Flesh 
+#Concept/Lich 
+#Concept/Vengeance
+#Concept/WellOfSouls
 #Lineage
 #PoE2
+#Society/Abyssal 
 #SupportGem

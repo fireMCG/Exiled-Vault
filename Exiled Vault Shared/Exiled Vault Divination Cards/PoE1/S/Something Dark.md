@@ -1,6 +1,6 @@
-## Something Dark
+# Something Dark
 Even in darkness you may find a friend.
-## 
+#
 ![[Something Dark.png]]
 
 ---
@@ -11,5 +11,7 @@ Fully Revealed
 
 ---
 ## Tags
+#Concept/Darkness 
 #DivinationCard
 #PoE1
+#Society/Hiveborn 

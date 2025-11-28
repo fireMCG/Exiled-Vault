@@ -1,6 +1,6 @@
-## Vinia's Token
+# Vinia's Token
 You can change your name, but you cannot change your history.
-## 
+#
 ![[Vinia's Token.png]]
 
 ---

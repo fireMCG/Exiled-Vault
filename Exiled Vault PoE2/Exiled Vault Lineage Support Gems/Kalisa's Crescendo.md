@@ -14,6 +14,9 @@ Enemies Pacified this way cannot be Pacified again for 8 seconds
 #
 ---
 ## Tags
+#Character/Kalisa
+#Concept/Heart 
 #Lineage
 #PoE2
+#Society/EternalEmpire 
 #SupportGem

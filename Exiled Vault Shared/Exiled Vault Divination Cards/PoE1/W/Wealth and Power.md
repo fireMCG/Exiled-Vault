@@ -1,6 +1,6 @@
-## Wealth and Power
+# Wealth and Power
 The greatness of a man is not in how much wealth or power he acquires, but in his integrity and his ability to positively affect those around him.
-## 
+#
 ![[Wealth and Power.png]]
 
 ---
@@ -10,5 +10,7 @@ Corrupted
 
 ---
 ## Tags
+#Concept/Power 
+#Concept/Wealth
 #DivinationCard
 #PoE1

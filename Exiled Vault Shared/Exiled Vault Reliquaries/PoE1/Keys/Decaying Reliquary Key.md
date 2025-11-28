@@ -6,5 +6,9 @@ A great Silence falls...
 
 ---
 ## Tags
+#Character/Elder 
+#Character/Shaper 
+#Character/ValdoCaeserius 
+#Entity/Decay
 #PoE1 
 #Reliquary

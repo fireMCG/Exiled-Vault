@@ -8,6 +8,9 @@ of whole cultures, of entire worlds.
 
 ---
 ## Tags
-#Entity/EaterOfWorlds
+#Character/EaterOfWorlds
+#Concept/Hunger 
+#Concept/World 
+#Entity/Tangle 
 #PoE1 
 #Reliquary

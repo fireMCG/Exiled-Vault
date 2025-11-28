@@ -7,4 +7,8 @@ but nothing is eternal.
 ---
 ## Tags
 #Artefact
+#Character/Atziri 
+#Concept/Eternity 
+#Concept/Immortality 
 #PoE1
+#Society/VaalEmpire 

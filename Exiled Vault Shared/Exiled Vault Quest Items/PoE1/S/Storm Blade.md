@@ -7,6 +7,7 @@ stratosphere divulged unto her eldritch secrets of its tumultuous past.
 
 ---
 ## Tags
+#Character/Garukhan 
 #Concept/Knowledge
 #Concept/Madness
 #Concept/Pride

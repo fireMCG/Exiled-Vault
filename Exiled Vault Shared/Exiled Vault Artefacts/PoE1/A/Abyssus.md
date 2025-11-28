@@ -7,4 +7,5 @@ what is left to fear?
 ---
 ## Tags
 #Artefact
+#Concept/Fear 
 #PoE1

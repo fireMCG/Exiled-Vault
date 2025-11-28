@@ -9,5 +9,11 @@ And the king paid for it in blood.
 
 ---
 ## Tags
+#Character/Greatwolf
+#Concept/Harvest
+#Concept/Light
+#Concept/Moon
+#God/Greatwolf
 #PoE1
+#Society/Ezomyte 
 #Talisman

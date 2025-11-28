@@ -8,4 +8,12 @@ symbol of power, not out of love, but out of fear.
 ---
 ## Tags
 #Artefact
+#Character/SearingExarch 
+#Concept/Crystal 
+#Concept/Fear 
+#Concept/Love 
+#Concept/Newcomers
+#Concept/Power 
+#Concept/Season/Winter 
+#Entity/CleansingFire 
 #PoE1

@@ -1,6 +1,6 @@
-## Rats
+# Rats
 Whoever said 'more is always better' has obviously never met a rat.
-## 
+#
 ![[Rats.png]]
 
 ---

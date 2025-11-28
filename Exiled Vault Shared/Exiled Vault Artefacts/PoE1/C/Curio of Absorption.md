@@ -6,4 +6,7 @@ Perfect knowledge is only possible in an empty universe.
 ---
 ## Tags
 #Artefact
+#Character/SearingExarch 
+#Concept/Knowledge 
+#Entity/CleansingFire 
 #PoE1

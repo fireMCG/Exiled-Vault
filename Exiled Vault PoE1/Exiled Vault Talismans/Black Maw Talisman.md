@@ -10,5 +10,7 @@ upon those that would make us their prey.
 
 ---
 ## Tags
+#Concept/FirstOnes 
 #PoE1
+#Society/Ezomyte 
 #Talisman 

@@ -15,6 +15,8 @@ Supported Skills load 3 additional bolts
 #
 ---
 ## Tags
+#Character/Ratha
+#Concept/Fear 
 #Lineage
 #PoE2
 #SupportGem

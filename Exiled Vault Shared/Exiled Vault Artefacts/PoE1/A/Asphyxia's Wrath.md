@@ -9,4 +9,6 @@ Upon the frozen wasteland.
 ---
 ## Tags
 #Artefact
+#Concept/Element/Ice 
+#Concept/Mist
 #PoE1

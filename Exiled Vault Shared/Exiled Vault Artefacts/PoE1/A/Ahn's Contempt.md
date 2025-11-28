@@ -8,4 +8,7 @@ A face no one remembers, yet once you have seen it, you will never forget."
 ---
 ## Tags
 #Artefact
+#Character/Ahn 
+#Character/Aul 
 #PoE1
+#Society/Primeval 

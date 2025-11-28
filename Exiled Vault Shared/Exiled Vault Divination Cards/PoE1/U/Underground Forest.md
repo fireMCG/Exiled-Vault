@@ -1,6 +1,6 @@
-## Underground Forest
+# Underground Forest
 "In the forest again... But at least I have these."
-## 
+#
 ![[Underground Forest.png]]
 
 ---
@@ -9,5 +9,7 @@
 
 ---
 ## Tags
+#Concept/Forest
+#Concept/Underground
 #DivinationCard
 #PoE1

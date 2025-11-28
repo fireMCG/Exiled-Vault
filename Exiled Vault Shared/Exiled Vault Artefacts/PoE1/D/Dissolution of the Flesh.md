@@ -8,4 +8,11 @@ A great eye gazed upon us, and we became known - utterly."
 ---
 ## Tags
 #Artefact
+#Character/SearingExarch 
+#Concept/Dawn 
+#Concept/Element/Fire
+#Concept/Eye 
+#Concept/Flesh 
+#Concept/Mountain 
+#Entity/CleansingFire 
 #PoE1

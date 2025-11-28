@@ -9,4 +9,10 @@ Through transcendence, bend reality to your will.
 ---
 ## Tags
 #PoE1 
+#Character/Shaper 
+#Character/ValdoCaeserius
+#Concept/Light 
+#Concept/Mind 
+#Concept/Star 
+#Concept/Within 
 #Reliquary

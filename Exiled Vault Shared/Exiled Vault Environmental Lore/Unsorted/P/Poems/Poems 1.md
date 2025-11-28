@@ -1,4 +1,4 @@
-## Poems 1
+# Poems 1
 The Son of Ezomyr met the Son of Sarn
 Upon the road to the Imperial throne.
 The Eternal offered his cunning,
@@ -11,6 +11,8 @@ Two men separated by blood.
 Two men bound by hope.
 Two men, and only one emperor.
 
+#
 ---
 ## Tags
 #EnvironmentalLore 
+#Timeline 

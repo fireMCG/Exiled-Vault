@@ -6,4 +6,6 @@ A moment of calm before the battle can end the war.
 ---
 ## Tags
 #Artefact
+#Concept/Delirium
+#Concept/War 
 #PoE1

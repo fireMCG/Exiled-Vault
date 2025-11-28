@@ -15,6 +15,13 @@ Supported Skills become unusable again after use
 #
 ---
 ## Tags
+#Character/Garukhan 
+#Character/Innocence 
+#Concept/God 
+#God/Garukhan 
+#God/Innocence 
 #Lineage
 #PoE2
+#Society/Maraketh 
 #SupportGem
+#Timeline 

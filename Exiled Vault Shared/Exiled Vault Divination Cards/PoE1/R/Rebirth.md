@@ -1,8 +1,8 @@
-## Rebirth
+# Rebirth
 He shattered Her smile
 Scattered the fragments like ash
 All she did was laugh
-## 
+#
 ![[Rebirth.png]]
 
 ---
@@ -11,5 +11,6 @@ Charan's Sword
 
 ---
 ## Tags
+#Concept/Shatter 
 #DivinationCard
 #PoE1

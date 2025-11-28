@@ -8,4 +8,8 @@ Unleashing a litany of pain upon the world.
 ---
 ## Tags
 #Artefact
+#Concept/Damnation 
+#Concept/Demon 
+#Concept/Mortality
+#Concept/Portal
 #PoE1

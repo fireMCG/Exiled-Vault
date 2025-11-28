@@ -1,8 +1,6 @@
 # Spinefuse Talisman
-We Ezomytes are beasts of burden  
-bearing wealth of an empire on our backs,  
-growing lean and strong  
-while our masters grow fat and weak.  
+We Ezomytes are beasts of burden bearing wealth of an empire on our backs,  
+growing lean and strong while our masters grow fat and weak.  
 \- The Wolven King
 
 #
@@ -10,5 +8,8 @@ while our masters grow fat and weak.
 
 ---
 ## Tags
+#Concept/Master 
 #PoE1
+#Society/EternalEmpire 
+#Society/Ezomyte 
 #Talisman 

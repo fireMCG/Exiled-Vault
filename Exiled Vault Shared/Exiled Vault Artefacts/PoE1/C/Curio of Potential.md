@@ -6,4 +6,7 @@ The future holds infinite promise... as does she.
 ---
 ## Tags
 #Artefact
+#Character/Maven 
+#Concept/Future
+#Concept/Power 
 #PoE1

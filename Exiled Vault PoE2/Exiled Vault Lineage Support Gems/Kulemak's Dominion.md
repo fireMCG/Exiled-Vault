@@ -14,6 +14,12 @@ Spells deal 50% less Damage when affecting areas around Offerings this way
 #
 ---
 ## Tags
+#Character/Ahn 
+#Character/Kulemak
+#Concept/Golem 
+#Concept/Shadow 
 #Lineage
 #PoE2
+#Society/Abyssal
 #SupportGem
+#Timeline 

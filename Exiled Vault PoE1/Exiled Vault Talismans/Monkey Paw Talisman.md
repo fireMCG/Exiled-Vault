@@ -1,7 +1,7 @@
 # Monkey Paw Talisman
 Look not upon me with fear, my men.  
-Though I seem strange, even monstrous,  
-were you to see with the eyes of your forebears,  
+Though I seem strange, even monstrous,
+were you to see with the eyes of your forebears,
 your hearts would be filled with wonder.  
 \- The Wolven King
 
@@ -10,5 +10,7 @@ your hearts would be filled with wonder.
 
 ---
 ## Tags
+#Concept/Eye
 #PoE1
+#Society/Ezomyte 
 #Talisman 

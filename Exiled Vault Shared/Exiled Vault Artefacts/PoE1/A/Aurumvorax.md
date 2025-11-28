@@ -8,4 +8,6 @@ does not like to share its master's attention
 ---
 ## Tags
 #Artefact
+#Concept/Master 
+#Concept/Spirit 
 #PoE1

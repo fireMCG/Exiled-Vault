@@ -1,8 +1,6 @@
 # Rotfeather Talisman
-Death met with the First Ones  
-and demanded they hunt with mercy.  
-For while pain might delight the mind,  
-it does not fill the belly.  
+Death met with the First Ones and demanded they hunt with mercy.  
+For while pain might delight the mind, it does not fill the belly.  
 \- The Wolven King
 
 #
@@ -10,5 +8,9 @@ it does not fill the belly.
 
 ---
 ## Tags
+#Concept/Death
+#Concept/FirstOnes
+#Concept/Mercy
 #PoE1
+#Society/Ezomyte 
 #Talisman 

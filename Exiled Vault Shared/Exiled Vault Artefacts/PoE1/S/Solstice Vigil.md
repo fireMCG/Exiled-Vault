@@ -7,4 +7,9 @@ The first shade is beautiful, but the last will drive the unwary insane.
 ---
 ## Tags
 #Artefact
+#Character/Shaper 
+#Character/ValdoCaeserius 
+#Concept/Light 
+#Concept/Madness 
+#Concept/Time
 #PoE1

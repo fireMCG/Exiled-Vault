@@ -7,4 +7,6 @@ irrevocably bound together in perpetual torture.
 ---
 ## Tags
 #Artefact
+#Character/EaterOfWorlds 
+#Entity/Tangle 
 #PoE1

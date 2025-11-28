@@ -1,6 +1,6 @@
-## Rain Tempter
+# Rain Tempter
 Be like water, friend.
-## 
+#
 ![[Rain Tempter.png]]
 
 ---
@@ -10,5 +10,7 @@ Map Tier: 6
 
 ---
 ## Tags
+#Concept/Map 
+#Concept/Water 
 #DivinationCard
 #PoE1

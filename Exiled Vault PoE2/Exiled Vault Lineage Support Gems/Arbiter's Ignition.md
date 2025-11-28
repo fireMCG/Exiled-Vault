@@ -13,6 +13,8 @@ trying to do? It seems they kept trying... kept experimenting..."
 #
 ---
 ## Tags
+#Character/ArbiterOfAsh
 #Lineage
 #PoE2
+#Society/Precursor
 #SupportGem

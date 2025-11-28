@@ -7,4 +7,6 @@
 ---
 ## Tags
 #Artefact
+#Character/Atziri 
 #PoE1
+#Society/VaalEmpire 

@@ -22,6 +22,10 @@ Explosion deals base Chaos Damage equal to 200% of your Intelligence
 #
 ---
 ## Tags
+#Character/Doedre
+#Concept/Divinity 
+#Concept/Flesh 
 #Lineage
 #PoE2
+#Society/EternalEmpire 
 #SupportGem

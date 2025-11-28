@@ -6,4 +6,7 @@ All children must eat.
 ---
 ## Tags
 #Artefact
+#Character/Arakaali 
+#God/Arakaali 
 #PoE1
+#Society/VaalEmpire 

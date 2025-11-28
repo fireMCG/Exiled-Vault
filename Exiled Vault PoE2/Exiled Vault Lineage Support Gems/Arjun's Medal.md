@@ -13,6 +13,10 @@ had been... 'inaccurate'... just like everything else Bardiyan.
 #
 ---
 ## Tags
+#Bloodline/Bardiyan
+#Bloodline/Keitan
+#Character/Arjun
 #Lineage
 #PoE2
 #SupportGem
+#Timeline 

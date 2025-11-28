@@ -1,4 +1,4 @@
-## Poems 2
+# Poems 2
 The Ezomyte and the Eternal took their rest
 In the lee of strife's gale,
 And remembered the travelled road.
@@ -11,6 +11,8 @@ A Warrior and his Guide,
 Whilst other ascendants echoed their pride,
 With anguish and agony.
 
+#
 ---
 ## Tags
 #EnvironmentalLore 
+#Timeline 

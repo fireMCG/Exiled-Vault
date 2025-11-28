@@ -14,6 +14,12 @@ Supported Skills Gain 20% of Fire Damage as Extra Chaos Damage
 #
 ---
 ## Tags
+#Character/Xoph
+#Concept/Eternity 
+#Concept/Pyre
+#Concept/Sun 
 #Lineage
 #PoE2
+#Society/Hiveborn 
 #SupportGem
+#Timeline 

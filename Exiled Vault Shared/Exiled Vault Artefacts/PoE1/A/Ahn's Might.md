@@ -9,4 +9,7 @@ it is what we make that makes us."
 ---
 ## Tags
 #Artefact
+#Character/Ahn 
+#Character/Aul 
 #PoE1
+#Society/Primeval 

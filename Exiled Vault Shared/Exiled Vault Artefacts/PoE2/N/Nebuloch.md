@@ -8,4 +8,8 @@ But time would not touch the fiend.
 ---
 ## Tags
 #Artefact
+#Character/Elder 
+#Concept/Prison 
+#Concept/Time 
+#Entity/Decay
 #PoE2

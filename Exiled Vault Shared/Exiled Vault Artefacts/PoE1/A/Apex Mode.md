@@ -6,4 +6,7 @@ Maximum power fueled by science gone mad.
 ---
 ## Tags
 #Artefact
+#Concept/Madness 
+#Concept/Power 
+#Concept/Science 
 #PoE1

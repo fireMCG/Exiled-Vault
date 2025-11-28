@@ -6,4 +6,5 @@ Wealth is not to be borne lightly.
 ---
 ## Tags
 #Artefact
+#Concept/Wealth 
 #PoE1

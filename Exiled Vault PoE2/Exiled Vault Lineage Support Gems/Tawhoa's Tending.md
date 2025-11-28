@@ -19,6 +19,9 @@ Explosion deals base Physical Damage equal to 10% of Totem's maximum Life
 #
 ---
 ## Tags
+#Character/Tawhoa 
+#God/Tawhoa 
 #Lineage
 #PoE2
+#Society/Karui/Tribe/Tawhoa 
 #SupportGem

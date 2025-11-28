@@ -7,4 +7,8 @@ consume all that you have... and more.
 ---
 ## Tags
 #Artefact
+#Character/EaterOfWorlds 
+#Concept/Hunger 
+#Concept/Power 
+#Entity/Tangle 
 #PoE1

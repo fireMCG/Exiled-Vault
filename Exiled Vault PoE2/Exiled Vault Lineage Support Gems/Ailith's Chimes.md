@@ -14,6 +14,11 @@ This chance can Exceed 100%
 #
 ---
 ## Tags
+#Character/Ailith
+#Concept/Element/Fire 
+#Concept/Mind 
 #Lineage
 #PoE2
+#Society/KeepersOfTheFlame
 #SupportGem
+#Timeline 

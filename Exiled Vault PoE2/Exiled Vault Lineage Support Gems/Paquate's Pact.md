@@ -17,6 +17,13 @@ Supported Warcries inflict 5 Corrupted Blood Debuffs
 #
 ---
 ## Tags
+#Character/Paquate
+#Concept/Blood 
+#Concept/Corruption 
+#Concept/Element/Fire 
+#Concept/Flesh 
+#Concept/Water 
 #Lineage
 #PoE2
+#Society/VaalEmpire 
 #SupportGem

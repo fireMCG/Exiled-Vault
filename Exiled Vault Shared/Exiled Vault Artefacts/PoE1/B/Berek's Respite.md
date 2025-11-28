@@ -12,4 +12,10 @@ And fled."
 ---
 ## Tags
 #Artefact
+#Character/Berek 
+#Concept/Element/Fire 
+#Concept/Sky 
+#Concept/Storm 
+#Concept/Taming 
+#Concept/Water/Rain
 #PoE1

@@ -7,4 +7,8 @@ and experience true freedom.
 ---
 ## Tags
 #Artefact
+#Character/Shaper 
+#Character/ValdoCaeserius 
+#Concept/Freedom
+#Concept/Void 
 #PoE1
