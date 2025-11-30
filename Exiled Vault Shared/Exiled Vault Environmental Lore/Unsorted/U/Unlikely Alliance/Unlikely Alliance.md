@@ -4,4 +4,7 @@ We were largely indifferent to the struggles of humanity for millennia. Their su
 
 ---
 ## Tags
+#Bloodline/Titan 
 #EnvironmentalLore 
+#Event/ThirdPact 
+#Timeline 

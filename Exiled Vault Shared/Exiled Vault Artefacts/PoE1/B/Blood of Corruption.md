@@ -11,3 +11,4 @@ All that lives is destined to serve.'
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

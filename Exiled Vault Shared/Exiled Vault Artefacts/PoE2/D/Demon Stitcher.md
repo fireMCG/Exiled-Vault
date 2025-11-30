@@ -9,4 +9,6 @@ The first Vaal.
 ---
 ## Tags
 #Artefact
+#Character/Xibaqua
 #PoE2
+#Society/VaalEmpire 

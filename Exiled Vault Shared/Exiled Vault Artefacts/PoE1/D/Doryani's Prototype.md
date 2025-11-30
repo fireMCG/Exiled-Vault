@@ -9,3 +9,4 @@ lost to the ages, now ours to decipher."
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

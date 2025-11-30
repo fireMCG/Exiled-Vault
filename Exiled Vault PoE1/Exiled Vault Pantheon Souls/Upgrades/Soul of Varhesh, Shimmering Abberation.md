@@ -11,3 +11,4 @@ mystery, to explore its depths and unlock its secrets...
 ## Tags
 #Concept/Soul 
 #PoE1 
+#Society/VaalEmpire 

@@ -9,3 +9,4 @@ With relish, we did exactly as she instructed."
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

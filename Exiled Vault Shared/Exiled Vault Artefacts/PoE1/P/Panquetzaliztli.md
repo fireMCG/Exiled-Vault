@@ -9,3 +9,4 @@ Progress cannot be eternal."
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

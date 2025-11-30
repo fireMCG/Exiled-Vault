@@ -4,3 +4,4 @@ Step forth, true believers, unto Atziri's graceful shadow. She alone shall shade
 ---
 ## Tags
 #EnvironmentalLore 
+#Society/VaalEmpire 

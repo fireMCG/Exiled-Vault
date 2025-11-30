@@ -11,6 +11,6 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/D/Doomfl
 
 ---
 ## Tags
+#Entity/VaalOversoul
 #PoE1 
 #Prophecy
-#WiP 

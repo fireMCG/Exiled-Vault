@@ -11,5 +11,5 @@ Cataclysm soon realised that they had, in fact, done no such thing.
 ---
 ## Tags
 #Area
+#Society/VaalEmpire 
 #Timeline 
-#Vaal 

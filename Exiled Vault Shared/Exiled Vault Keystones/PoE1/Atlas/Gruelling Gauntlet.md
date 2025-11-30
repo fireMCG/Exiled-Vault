@@ -14,3 +14,4 @@ Cannot have a Boss in the final Round
 ## Tags
 #Keystone 
 #PoE1
+#Society/VaalEmpire 

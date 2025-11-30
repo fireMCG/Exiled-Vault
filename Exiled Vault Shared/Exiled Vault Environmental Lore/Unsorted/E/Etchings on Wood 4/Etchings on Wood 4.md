@@ -5,4 +5,7 @@ Three lunari gone now, since it all began. Perhaps I am the only one who still l
 
 ---
 ## Tags
+#Character/Lunaris 
+#Concept/Moon 
+#God/Lunaris 
 #EnvironmentalLore

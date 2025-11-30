@@ -9,3 +9,4 @@ They simply love to be held."
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

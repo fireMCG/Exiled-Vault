@@ -8,3 +8,4 @@ their very lives. She looked on with impatience.
 ## Tags
 #Artefact
 #PoE2
+#Society/VaalEmpire 

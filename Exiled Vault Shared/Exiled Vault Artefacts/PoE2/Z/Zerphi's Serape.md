@@ -8,3 +8,4 @@ The cure is simple.
 ## Tags
 #Artefact
 #PoE2
+#Society/VaalEmpire 

@@ -11,3 +11,4 @@
 #Concept/Soul 
 #God/Ralakesh
 #PoE1 
+#Society/VaalEmpire 

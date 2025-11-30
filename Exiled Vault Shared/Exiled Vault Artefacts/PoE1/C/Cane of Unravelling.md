@@ -10,3 +10,4 @@ is to step into the mind of God."
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

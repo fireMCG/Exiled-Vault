@@ -10,4 +10,7 @@ Hid 'neath the ice and shimmering snow. Lunaris healed from her wounds and ponde
 
 ---
 ## Tags
+#Character/Lunaris 
+#Concept/Moon 
+#God/Lunaris 
 #EnvironmentalLore

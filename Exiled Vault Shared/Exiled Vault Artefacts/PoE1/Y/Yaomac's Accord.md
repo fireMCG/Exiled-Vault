@@ -7,3 +7,4 @@ Their three serpentine heads found unity in balance.
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

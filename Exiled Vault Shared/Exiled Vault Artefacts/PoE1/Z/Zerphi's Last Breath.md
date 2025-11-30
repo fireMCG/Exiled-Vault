@@ -9,3 +9,4 @@ you may be spared from its wrath."
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

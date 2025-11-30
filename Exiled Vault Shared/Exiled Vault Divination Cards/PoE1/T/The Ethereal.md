@@ -12,3 +12,4 @@ Six-Link Vaal Regalia
 ## Tags
 #DivinationCard
 #PoE1
+#Society/VaalEmpire 
