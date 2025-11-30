@@ -5,3 +5,4 @@ Tear down the walls that imprison the mind... that is what the gems do. That is 
 ---
 ## Tags
 #EnvironmentalLore
+#Society/VaalEmpire 

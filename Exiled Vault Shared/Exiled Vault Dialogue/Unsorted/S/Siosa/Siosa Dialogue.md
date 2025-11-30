@@ -62,3 +62,4 @@ Sarn fell in the course of an hour, no more. A tempest raged down from the mount
 ---
 ## Tags
 #Dialogue
+#Society/VaalEmpire 

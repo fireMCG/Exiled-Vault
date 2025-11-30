@@ -8,4 +8,5 @@ For infiltrating the Priesthood of Yaomac and returning with their sleeping form
 #Historical 
 #PoE1 
 #Scarab 
+#Society/VaalEmpire 
 #Timeline 

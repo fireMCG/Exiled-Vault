@@ -731,3 +731,4 @@ It feels as if Corruption is surging against us.
 ---
 ## Tags
 #Dialogue
+#Society/VaalEmpire 

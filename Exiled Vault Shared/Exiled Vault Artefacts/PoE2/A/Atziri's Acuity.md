@@ -9,3 +9,4 @@ It will tell me when it is best to strike."
 ## Tags
 #Artefact
 #PoE2
+#Society/VaalEmpire 

@@ -8,3 +8,4 @@ The silent war of shadows and struggle must be set aside. Order and Chaos must a
 #Historical 
 #PoE1 
 #Scarab 
+#Society/VaalEmpire 

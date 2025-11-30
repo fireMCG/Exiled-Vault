@@ -11,3 +11,4 @@ Atziri's Disfavour
 ## Tags
 #DivinationCard
 #PoE1
+#Society/VaalEmpire 

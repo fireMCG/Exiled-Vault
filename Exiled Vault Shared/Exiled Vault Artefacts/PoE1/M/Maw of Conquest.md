@@ -8,4 +8,6 @@ A Leader. A Conquerer. A Viper.
 ---
 ## Tags
 #Artefact
+#Character/Napuatzi 
 #PoE1
+#Society/VaalEmpire 

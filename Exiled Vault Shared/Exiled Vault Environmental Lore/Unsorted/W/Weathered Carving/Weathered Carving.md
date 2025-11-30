@@ -4,3 +4,6 @@ I remember the before-times. We bowed before Atziri, who bowed before no-one. Bu
 ---
 ## Tags
 #EnvironmentalLore 
+#Location/ApexOfFilth 
+#PoE2 
+#Society/VaalEmpire 

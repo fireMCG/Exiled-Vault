@@ -11,3 +11,4 @@
 #Concept/Soul 
 #God/Yugul
 #PoE1 
+#Society/VaalEmpire 

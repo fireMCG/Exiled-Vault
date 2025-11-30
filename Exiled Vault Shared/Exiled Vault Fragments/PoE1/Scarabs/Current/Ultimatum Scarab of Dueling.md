@@ -7,4 +7,4 @@ Victory is meaningless, failure will be mocked.
 ---
 ## Tags
 #Scarab
-#WiP 
+#Society/VaalEmpire 

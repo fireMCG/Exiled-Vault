@@ -5,3 +5,5 @@ Captain Alsarus, Remain in the warehouse until I personally send for you. In the
 ---
 ## Tags
 #EnvironmentalLore
+#PoE2 
+#Society/VaalEmpire 

@@ -4,3 +4,4 @@ Mother is love. Mother is life. Feasting brings visions. Eternal life. Queen rei
 ---
 ## Tags
 #EnvironmentalLore 
+#Society/VaalEmpire 

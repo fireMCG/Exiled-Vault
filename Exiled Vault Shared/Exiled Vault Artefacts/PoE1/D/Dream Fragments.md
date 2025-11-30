@@ -8,3 +8,4 @@ And awoke its Master.
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

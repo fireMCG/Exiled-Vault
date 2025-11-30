@@ -14,3 +14,4 @@ Ultimatum Monsters and Modifiers in your Maps deal 50% less Damage
 ## Tags
 #Keystone 
 #PoE1
+#Society/VaalEmpire 

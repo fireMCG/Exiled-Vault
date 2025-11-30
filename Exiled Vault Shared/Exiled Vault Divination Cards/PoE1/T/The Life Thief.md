@@ -12,3 +12,4 @@ Zerphi's Heart
 ## Tags
 #DivinationCard
 #PoE1
+#Society/VaalEmpire 

@@ -9,3 +9,4 @@ I'm just evening things out."
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

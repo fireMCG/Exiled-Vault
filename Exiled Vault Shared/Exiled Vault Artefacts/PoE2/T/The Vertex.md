@@ -8,3 +8,4 @@
 ## Tags
 #Artefact
 #PoE2
+#Society/VaalEmpire 

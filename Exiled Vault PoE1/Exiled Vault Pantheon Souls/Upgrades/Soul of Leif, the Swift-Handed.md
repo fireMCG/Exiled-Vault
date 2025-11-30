@@ -10,3 +10,4 @@
 ## Tags
 #Concept/Soul 
 #PoE1 
+#Society/VaalEmpire 

@@ -12,3 +12,4 @@ Atziri's Reflection
 ## Tags
 #DivinationCard
 #PoE1
+#Society/VaalEmpire 

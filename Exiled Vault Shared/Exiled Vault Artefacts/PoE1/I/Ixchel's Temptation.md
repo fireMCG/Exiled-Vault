@@ -8,3 +8,4 @@ Our own imaginations ensnare us.
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

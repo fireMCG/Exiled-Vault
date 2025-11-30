@@ -10,3 +10,4 @@ I have found this to be true on all counts."
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

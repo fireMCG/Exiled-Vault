@@ -9,3 +9,4 @@ sure who will come knocking."
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

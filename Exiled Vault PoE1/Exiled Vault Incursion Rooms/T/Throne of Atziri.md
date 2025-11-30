@@ -16,4 +16,4 @@ Evidence suggests that Atzoatl's influence grew great enough that Atziri herself
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

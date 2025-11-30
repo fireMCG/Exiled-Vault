@@ -8,3 +8,4 @@ A sign of faithlessness through action.
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

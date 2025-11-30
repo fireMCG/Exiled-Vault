@@ -245,4 +245,6 @@ Xopec's spear!
 
 ---
 ## Tags
+#Character/Napuatzi 
 #Dialogue
+#Society/VaalEmpire 

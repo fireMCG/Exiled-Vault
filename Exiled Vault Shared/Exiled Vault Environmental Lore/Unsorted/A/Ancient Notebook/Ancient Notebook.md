@@ -5,5 +5,8 @@ I write this now in hope that someone will remain. Someone may remember. The sun
 ##
 ---
 ## Tags
+#Concept/Cataclysm 
 #EnvironmentalLore
+#Event/EternalCataclysm
 #PoE 
+#Society/EternalEmpire 

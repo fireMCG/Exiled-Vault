@@ -9,3 +9,4 @@ so shall all of my treasures."
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 
