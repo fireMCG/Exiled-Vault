@@ -15,4 +15,4 @@ Borders drawn; liberties gone.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

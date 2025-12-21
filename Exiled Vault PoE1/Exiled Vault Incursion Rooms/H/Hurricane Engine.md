@@ -15,4 +15,4 @@ Thunder booms through hewn stone rooms.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

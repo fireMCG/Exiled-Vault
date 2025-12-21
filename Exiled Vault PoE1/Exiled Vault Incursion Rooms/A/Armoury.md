@@ -15,4 +15,4 @@ Fresh recruits drag iron suits.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

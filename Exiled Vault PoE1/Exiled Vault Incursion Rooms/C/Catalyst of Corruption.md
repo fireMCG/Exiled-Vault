@@ -15,4 +15,4 @@ Flesh kissed by the crimson mist.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

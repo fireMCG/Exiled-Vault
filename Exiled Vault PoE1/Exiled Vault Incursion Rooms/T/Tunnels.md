@@ -15,4 +15,4 @@ Worn hands etch an echoing stretch.
 ## Tags
 #Incursion 
 #PoE1 
-#WiP 
+#Society/VaalEmpire 

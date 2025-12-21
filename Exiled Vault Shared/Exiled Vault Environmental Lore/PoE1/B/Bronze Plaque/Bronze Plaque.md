@@ -1,0 +1,9 @@
+## Bronze Plaque
+"The Just Goddess presides over us all. The future of the Empire rests in her even hands." The Lord's Labyrinth, opened by Emperor Izaro Phrecius on the second Galvano of Azmeri, 1317 IC.
+![[Bronze Plaque - Read.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

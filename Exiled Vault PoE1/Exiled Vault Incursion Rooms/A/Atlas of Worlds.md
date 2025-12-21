@@ -16,4 +16,4 @@ In its last days, the Architects of Atzoatl became increasingly obsessed with fi
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

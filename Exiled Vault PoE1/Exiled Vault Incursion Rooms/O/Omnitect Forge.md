@@ -15,4 +15,4 @@ Flames desire to empower the spire.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

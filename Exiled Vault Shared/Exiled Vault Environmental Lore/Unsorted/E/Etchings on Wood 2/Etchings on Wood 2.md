@@ -1,8 +1,0 @@
-## Etchings on Wood 2
-#### Read
-It has been a little over a week since the black storm. My husband has not returned and sickness now sweeps through our village. Many have died and those that lived have... changed. These were folk we once called neighbour and friend. Now they limp and stagger through the night, their deformities as grotesque as the madness in their eyes. {-Tani}
-![[Etchings on Wood 2 - Read.ogg]]
-
----
-## Tags
-#EnvironmentalLore

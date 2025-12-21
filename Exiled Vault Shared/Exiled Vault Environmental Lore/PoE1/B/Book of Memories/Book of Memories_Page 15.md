@@ -1,0 +1,9 @@
+# Book of Memories_Page 15
+I fear this to be the end. Not just the end for me, but the end of all things. The Elder has been freed. Soon it will feast on me and then, my daughter. Once it has finished with us, it will turn its sights on the rest of the world. Times will become as they were in the days of old, when the Watchers of Decay were formed. Children will go missing from their beds. Parents will mourn, darkness will descend, and then birthed from that carnage, the Decay will arrive, finding its physical form in our dimension – for that is the Elder's true master! The fungal monstrosity will manifest and spread forth its mighty tendrils. The mould from before time and space began, will seek out the destruction of all things... As we fled through the forest, I focused my resolve. It was too late for me. I knew of the shaping powers. Only I could have a hope at defeating the Elder. Preoccupied with its feast, the eldritch abomination had somehow forgotten us, and as we made our way back, retracing our steps, I found myself standing once more before the portal home. Not even stopping to look behind, I dove through the shimmering window, and together, we collapsed into Oriath. With not a minute to waste, I took a nearby tool and jammed it into the infernal device, where it hummed, ominously entrenched in my laboratory floor. The Elder had to be stopped, and so... I left her there, bidding her to hide in a closet or beneath a work table. Then, with the portal flickering and shrinking steadily, I turned back and stepped forward into the dreamlands, one final time.
+
+#
+---
+## Tags
+#EnvironmentalLore
+#IgnoreGraph
+#PoE1

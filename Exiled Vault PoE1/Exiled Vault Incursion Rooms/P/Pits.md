@@ -15,4 +15,4 @@ Each well drenched with rotting stench.
 ## Tags
 #Incursion 
 #PoE1 
-#WiP 
+#Society/VaalEmpire 

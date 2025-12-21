@@ -1,0 +1,8 @@
+## Transmutia Device
+I bequeath this Transmutia Device to you, Inquisitor Maligaro, in recognition of your devotion to our sublime Art. May it be the chariot that conveys your dreams into reality. Malachai, Thaumaturge Laureate to the Empire
+![[Transmutia Device - Read.ogg]]
+
+---
+## Tags
+#EnvironmentalLore
+#PoE1/Act2

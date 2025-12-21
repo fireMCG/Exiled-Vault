@@ -9,5 +9,8 @@ Step close, take a chance, and try fortune's fare!
 ## Tags
 #Character/Prospero
 #Character/Ventor
+#Concept/Fate
+#Concept/Traveller
+#God/Prospero
 #PoE2
 #Strongbox

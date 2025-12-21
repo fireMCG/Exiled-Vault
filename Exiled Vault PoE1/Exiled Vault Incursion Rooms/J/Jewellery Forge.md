@@ -15,4 +15,4 @@ Wealth engorged by the heat of the forge.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

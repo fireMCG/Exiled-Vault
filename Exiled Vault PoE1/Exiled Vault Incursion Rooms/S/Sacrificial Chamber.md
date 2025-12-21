@@ -16,4 +16,4 @@ Sacred words read to bless the dead.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

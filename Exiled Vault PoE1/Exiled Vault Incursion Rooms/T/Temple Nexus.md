@@ -16,4 +16,4 @@ The heart of Atzoatl imbued its denizens with vigour, according to the myths. - 
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

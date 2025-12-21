@@ -15,4 +15,4 @@ Power flows to where no man goes.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

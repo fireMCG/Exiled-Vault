@@ -15,4 +15,4 @@ Their deeds inspire, their spirits never tire.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

@@ -16,4 +16,4 @@ The Architects sought immortality... perhaps they reside within Atzoatl still...
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

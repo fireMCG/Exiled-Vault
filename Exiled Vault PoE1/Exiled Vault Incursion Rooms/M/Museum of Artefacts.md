@@ -16,4 +16,4 @@ Much could be learned from the relics said to be kept in Atzoatl. We consider th
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

@@ -16,4 +16,4 @@ Cold and cruel, this pristine pool.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

@@ -10,6 +10,6 @@ You will find Jun and complete her mission.
 
 ---
 ## Tags
+#Concept/Balance
 #PoE1 
 #Prophecy
-#WiP 

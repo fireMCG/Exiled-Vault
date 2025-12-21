@@ -16,4 +16,4 @@ Atzoatl was a place of crude alchemy rather than art. - Icius Perandus, Antiquit
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

@@ -15,4 +15,4 @@ A sharpened blade breaks the charade.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

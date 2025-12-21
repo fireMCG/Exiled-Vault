@@ -15,4 +15,4 @@ The thaumaturge's vice extracts a high price.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

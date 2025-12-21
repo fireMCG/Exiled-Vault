@@ -15,4 +15,4 @@ Dark magics guide a nation's divide.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

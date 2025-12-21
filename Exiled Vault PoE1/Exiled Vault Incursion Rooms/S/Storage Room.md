@@ -15,4 +15,4 @@ Relics rust and gather dust.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

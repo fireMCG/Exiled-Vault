@@ -15,4 +15,4 @@ The scent of death fills every breath.
 ## Tags
 #Incursion 
 #PoE1 
-#WiP 
+#Society/VaalEmpire 

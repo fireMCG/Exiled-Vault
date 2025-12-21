@@ -15,4 +15,4 @@ Sons and daughters drowned in these waters.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

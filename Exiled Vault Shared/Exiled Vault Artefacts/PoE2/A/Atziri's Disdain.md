@@ -7,5 +7,6 @@ their very lives. She looked on with impatience.
 ---
 ## Tags
 #Artefact
+#Character/Atziri 
 #PoE2
 #Society/VaalEmpire 

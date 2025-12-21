@@ -15,4 +15,4 @@ Secrets encased by names now erased.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

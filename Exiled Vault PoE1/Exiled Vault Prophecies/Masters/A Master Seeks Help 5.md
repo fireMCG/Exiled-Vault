@@ -12,4 +12,3 @@ You will find Zana and complete her mission.
 ## Tags
 #PoE1 
 #Prophecy
-#WiP 

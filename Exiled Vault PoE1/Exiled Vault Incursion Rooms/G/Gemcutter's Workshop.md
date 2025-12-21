@@ -15,4 +15,4 @@ Destruction stems from within these gems.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

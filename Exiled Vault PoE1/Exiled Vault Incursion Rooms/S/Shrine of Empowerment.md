@@ -15,4 +15,4 @@ Energies bloom within the gloom.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

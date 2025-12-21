@@ -12,4 +12,3 @@ You will find Niko and complete his mission.
 ## Tags
 #PoE1 
 #Prophecy
-#WiP 

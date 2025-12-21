@@ -15,4 +15,4 @@ They rot for ages in iron cages.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

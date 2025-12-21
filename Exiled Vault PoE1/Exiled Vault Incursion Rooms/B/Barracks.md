@@ -15,4 +15,4 @@ Glory charms the men at arms.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

@@ -15,4 +15,4 @@ From the hollows, death soon follows.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

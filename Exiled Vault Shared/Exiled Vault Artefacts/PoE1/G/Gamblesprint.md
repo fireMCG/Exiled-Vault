@@ -1,6 +1,6 @@
 ## Gamblesprint
 All your tomorrows lie ahead of you,
-unknown and snarled tot he very last.
+unknown and snarled to the very last.
 ##
 ![[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/_Images/Gamblesprint.png]]
 
@@ -8,3 +8,4 @@ unknown and snarled tot he very last.
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

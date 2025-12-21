@@ -1,0 +1,8 @@
+# The Hooded One On Travel To The Vastiri Desert 1
+
+The Hooded One: At this time of year, I know where to find the Ardura {Akhara.} Let us travel to the Vastiri.
+ ![[The Hooded One On Travel To The Vastiri Desert 1 - L1 - A1.ogg]]
+
+---
+## Tags
+#NPCTalk

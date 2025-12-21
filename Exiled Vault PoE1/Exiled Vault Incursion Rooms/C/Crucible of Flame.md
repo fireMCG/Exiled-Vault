@@ -16,4 +16,4 @@ The Vaal were said to have experimented with fire at Atzoatl, though to what end
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

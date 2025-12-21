@@ -7,6 +7,9 @@ A blessing upon all those trees touched by the sacred spirit.
 ---
 ## Tags
 #AncestorEquipment
+#Concept/Animal/Insect
+#Concept/Colour/White
 #Concept/Spirit 
+#Concept/Tree
 #PoE1 
 #Society/Karui 

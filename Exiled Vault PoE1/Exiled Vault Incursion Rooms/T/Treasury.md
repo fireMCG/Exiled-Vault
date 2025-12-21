@@ -15,4 +15,4 @@ Lives shattered for gold scattered.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

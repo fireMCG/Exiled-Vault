@@ -15,4 +15,4 @@ The Architects intended to research supposed 'Obelisks Beyond Time,' but the Vaa
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

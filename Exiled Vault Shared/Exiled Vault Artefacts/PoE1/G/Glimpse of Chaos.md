@@ -8,3 +8,4 @@ only under the blessed veil of ignorance.
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

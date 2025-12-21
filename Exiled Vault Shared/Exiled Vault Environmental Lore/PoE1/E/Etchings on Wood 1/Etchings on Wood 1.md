@@ -1,0 +1,9 @@
+## Etchings on Wood 1
+#### Read
+I haven't slept. No one has slept. Not for three days, not since the black storm in the northern ranges. Not since the nightmares began. Violent and twisted night terrors. They whisper to us, tempt us, threaten us, beguile us. They promise terrible things in return for even more terrible acts. My husband, Denirus, went to Alliston to find a doctor who might help. He should have been back yesterday. I fear for him. I fear for all of us. {-Tani}
+![[Etchings on Wood 1 - Read.ogg]]
+
+---
+## Tags
+#EnvironmentalLore
+#PoE1/Act2

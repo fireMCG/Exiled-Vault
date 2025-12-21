@@ -15,4 +15,4 @@ Guarding treasures of extravagant pleasures.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

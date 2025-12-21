@@ -16,4 +16,4 @@ The Vaal had little concern for the externalities of their engineering. The toxi
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

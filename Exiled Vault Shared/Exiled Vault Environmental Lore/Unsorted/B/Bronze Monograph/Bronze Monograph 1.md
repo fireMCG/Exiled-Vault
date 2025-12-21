@@ -1,9 +1,0 @@
-## Bronze Monograph 1
-In the court of the Goddess, every man and woman is deemed worthy of redemption. Though you might be shackled by the tribulations of the past, the trials ahead offer you both freedom and glory. The future is yours, if you are bold enough to reach out for it.
-![[Bronze Monograph - Read.ogg]]
-
-##
----
-## Tags
-#EnvironmentalLore
-#PoE 

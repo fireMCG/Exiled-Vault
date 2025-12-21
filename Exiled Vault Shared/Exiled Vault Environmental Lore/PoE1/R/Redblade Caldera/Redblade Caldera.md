@@ -1,0 +1,8 @@
+## Redblade Caldera
+Our mountain was once overrun by various human tribes vying amongst themselves for dominance. Little did the Redblades know that they encroached upon our territory and we were largely indifferent to their plights. It wasn't until the mountain erupted that their petty disputes were quelled.
+![[Redblade Caldera.ogg]]
+
+---
+## Tags
+#EnvironmentalLore 
+#PoE1

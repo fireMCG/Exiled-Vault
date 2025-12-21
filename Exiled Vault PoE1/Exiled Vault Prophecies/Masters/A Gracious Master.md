@@ -12,4 +12,3 @@ You will complete a Master's mission.
 ## Tags
 #PoE1 
 #Prophecy
-#WiP 

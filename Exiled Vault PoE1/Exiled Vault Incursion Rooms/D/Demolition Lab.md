@@ -15,4 +15,4 @@ Stone walls shaking with the might of unmaking.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

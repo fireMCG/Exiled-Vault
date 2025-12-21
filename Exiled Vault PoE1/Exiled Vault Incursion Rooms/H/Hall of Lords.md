@@ -15,4 +15,4 @@ From on high they send countless to die.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 
