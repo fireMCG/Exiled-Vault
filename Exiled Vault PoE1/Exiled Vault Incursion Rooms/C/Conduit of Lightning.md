@@ -16,4 +16,4 @@ The Architects apparently sought to master lightning. They may have succeeded ju
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

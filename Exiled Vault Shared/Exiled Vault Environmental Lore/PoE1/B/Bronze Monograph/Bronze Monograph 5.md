@@ -1,0 +1,9 @@
+## Bronze Monograph 5
+A leader cannot simply stride forward into the future and expect his people to be able to follow. A leader must look over his shoulder so that he can witness and understand the consequences of the path he has chosen. To ensure that his people are still with him. To ensure that he has not become lost.
+![[Bronze Monograph - Read_5.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

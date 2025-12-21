@@ -15,4 +15,4 @@ Forged forms assemble in swarms.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

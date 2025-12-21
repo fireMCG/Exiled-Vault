@@ -15,4 +15,4 @@ Cruel acts debase this tight space.
 ## Tags
 #Incursion 
 #PoE1 
-#WiP 
+#Society/VaalEmpire 

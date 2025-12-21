@@ -16,4 +16,4 @@ A few beguile the rank and file.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

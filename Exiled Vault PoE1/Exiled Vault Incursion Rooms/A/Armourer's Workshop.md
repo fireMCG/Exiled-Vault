@@ -15,4 +15,4 @@ An opus penned through metal's bend.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

@@ -15,4 +15,4 @@ The Dreamer's call has entranced the Vaal.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

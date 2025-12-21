@@ -7,7 +7,12 @@ and then, they will begin again.
 
 ---
 ## Tags
+#Character/Ixchel 
+#Concept/Cycle 
+#Concept/Time 
+#Concept/Trial
+#Entity/Chaos 
 #PoE2
 #Society/VaalEmpire 
 #Strongbox
-#Society/VaalEmpire 
+#Trial/Chaos 

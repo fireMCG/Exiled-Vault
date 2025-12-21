@@ -15,4 +15,4 @@ Eyes peer through a seam from beyond the dark dream.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

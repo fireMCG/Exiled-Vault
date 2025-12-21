@@ -8,3 +8,4 @@ Face it, or curse your bloodline for all eternity.
 ## Tags
 #Artefact
 #PoE1
+#Society/VaalEmpire 

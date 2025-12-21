@@ -1,0 +1,13 @@
+## Drox's Journals 1
+There is always another verdant hill over the horizon in these untouched endless lands. Once exiled and left with nothing, now I have found a realm where life can be build anew.
+
+Now that the Elder and Shaper are gone, we can craft a kingdom of law and justice here. We can leave the military domination of the Templates behind. No more will we have to fear those in power, for I shall be the one who leads, and by my strength the law will be equal and fair for all.
+
+A dream, perhaps, but one that I can make reality through force. Each valley whose threats I fell is one more valley for the people I will one day bring here. They will be free, and I will be their lord, ruling by the people's respect rather than through fear or religion.
+
+Drox the Just
+
+---
+## Tags
+#EnvironmentalLore 
+#PoE1 

@@ -15,4 +15,4 @@ Darkness blessed this vile nest.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

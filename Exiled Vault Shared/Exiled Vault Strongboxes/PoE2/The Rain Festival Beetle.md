@@ -8,6 +8,12 @@ and its bounty was shared equally by all.
 
 ---
 ## Tags
+#Concept/Animal/Beetle
+#Concept/Festival
+#Concept/Water/Flood
+#Concept/Water/Rain 
+#Concept/Wealth 
+#Location/Wraeclast/Vastiri/Keth
 #PoE2
 #Society/Maraketh
 #Strongbox

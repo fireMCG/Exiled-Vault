@@ -16,4 +16,4 @@ Their engineering knowledge may have rivaled that of the modern world. The fall 
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

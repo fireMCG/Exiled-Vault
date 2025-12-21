@@ -15,4 +15,4 @@ Sweet scents mask foul intents.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

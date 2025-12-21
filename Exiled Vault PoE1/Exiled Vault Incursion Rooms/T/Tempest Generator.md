@@ -15,4 +15,4 @@ White mists form a quiet storm.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

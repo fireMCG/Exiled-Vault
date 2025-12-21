@@ -15,4 +15,4 @@ Madness feeds the vile seeds.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

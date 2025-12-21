@@ -1,0 +1,9 @@
+# Book of Memories_Page 9
+They called it the Elder. A creature of malignant madness, born of that oblivion from before time itself began. Once only an abstract expression, the Elder was given physical form. It entered our realm. It fashioned for itself a bauble of chaos and secret worlds to use as a kind of... hunting ground. This "bauble" is undoubtedly the dreamlands I've uncovered. The Elder came here out of hunger. Preferring victims of a younger flesh, it became the bogeyman, dragging our children off into the night, casting them into its realm of shadow and feasting upon their nightmares undisturbed, for it was imagination that truly satiated it. With such sustenance, the Elder deigned to cultivate something. To... sustain and birth forth its true goal. Its true self. The Oblivion from outside time and space. The Decay. By the gods... Even now as I write this, I feel my hand trembling, and I struggle to keep my mind on the task ahead... The Elder. It cannot be killed. The Watchers, they built the device, so as to travel to and lock tight its kingdom of torment, bringing with them the blade I saw – Starforge – it was called. A weapon capable of divorcing agency from form, to give the Elder a kind of eternal rest... There in its den, amongst the gibbering nightmares of child victims, the Elder became trapped. Starved. Unable to hunt. Held in ungodly chains. The Elder's form may be trapped in stone. But its agency roams free. I have met it. What if someone else were to enter the dreamlands and encounter the Shade? What if Venarius...? My meeting with the Elder, must have invigorated and refreshed its fervour. I must find a way to put a stop to it, before it finds a path to freedom. If not for my own sake, then for that of my daughter...
+
+#
+---
+## Tags
+#EnvironmentalLore
+#IgnoreGraph
+#PoE1

@@ -1,0 +1,9 @@
+# Book of Memories_Page 14
+The shade spluttered into a great shimmering blaze, moving rapidly forward into trees up ahead. The High Templar gave chase, his soldiers dragging my daughter and I along behind. I recognized where we were headed. The forest was as dark as I remembered, and the cave, just as terrible. Before we knew it, we stood at the base of that blasphemous effigy seated atop its crude pagan altar. "Pull the sword from my chest." The Elder imposed and the man, in all his vanity, didn't hesitate for a second. He took the sword and yanked it forward. A great earthquake shook the land! It was as if the very ground itself was cowering in the face of the Elder's reunion with its frigid body. Bursting forth from cold stone, the Elder approached us all. The blade dropped from Venarius' quivering hand and clattered to the ground, a white light in the hilt flickered and shrank until it at last was put out by the great darkness of a tentacular void. Realizing what it meant to look upon its face, I turned and shielded my daughter's eyes, and as the true scope of the Elder befell the High Templar and his men. I could hear screaming and mad gibbering! The Elder did not speak. Visions no longer left its mind. It was free. It had no need to communicate with mankind any longer. As the richness of life fled from the quickly shrivelling bodies of the High Templar and his men, I readied myself and my daughter to flee. While the Elder began to feed, starved from millennium upon millennium of constraint, I took up the Map Device Venarius had dropped and together, we ran...
+
+#
+---
+## Tags
+#EnvironmentalLore
+#IgnoreGraph
+#PoE1

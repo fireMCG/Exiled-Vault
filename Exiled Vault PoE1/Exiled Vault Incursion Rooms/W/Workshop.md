@@ -15,4 +15,4 @@ The constant din drowns many a sin.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

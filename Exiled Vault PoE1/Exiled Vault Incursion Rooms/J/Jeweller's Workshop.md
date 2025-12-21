@@ -15,4 +15,4 @@ Earth demolished, mined and polished.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

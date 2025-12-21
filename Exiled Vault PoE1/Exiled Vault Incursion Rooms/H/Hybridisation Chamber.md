@@ -16,4 +16,4 @@ A great many creatures were bred at Atzoatl, ostensibly due to repeated invasion
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

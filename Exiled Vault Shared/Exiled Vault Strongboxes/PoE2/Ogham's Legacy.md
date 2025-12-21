@@ -6,6 +6,10 @@ The cycle of vengeance never ends... even in death.
 
 ---
 ## Tags
+#Concept/Death 
+#Concept/Legacy
+#Concept/Vengeance 
+#Location/Ogham
 #PoE2
 #Society/Ezomyte
 #Strongbox

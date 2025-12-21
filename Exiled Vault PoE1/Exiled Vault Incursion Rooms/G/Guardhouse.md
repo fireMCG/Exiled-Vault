@@ -15,4 +15,4 @@ Stoic they stand at their Queen's demand.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

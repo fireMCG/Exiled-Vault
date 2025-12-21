@@ -15,4 +15,4 @@ Tread steady and slow lest you end up below.
 ## Tags
 #Incursion 
 #PoE1 
-#WiP 
+#Society/VaalEmpire 

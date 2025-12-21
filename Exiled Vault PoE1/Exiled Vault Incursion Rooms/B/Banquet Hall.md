@@ -15,4 +15,4 @@ Men in fetters feed their betters.
 ## Tags
 #Incursion 
 #PoE1 
-#WiP 
+#Society/VaalEmpire 

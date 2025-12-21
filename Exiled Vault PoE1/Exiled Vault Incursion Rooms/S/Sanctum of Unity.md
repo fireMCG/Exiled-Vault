@@ -15,4 +15,4 @@ Vicious affairs atop the stairs.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

@@ -15,4 +15,4 @@ Iron bars tell of the criminal swell.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

@@ -15,4 +15,4 @@ Locked in the dark, awaiting a mark.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

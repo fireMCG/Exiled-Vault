@@ -15,4 +15,4 @@ Powers dance with fate and chance.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

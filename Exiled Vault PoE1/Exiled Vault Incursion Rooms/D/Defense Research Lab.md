@@ -16,4 +16,4 @@ Expedition logs suggest quite a few explorers sought Atzoatl over the centuries.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

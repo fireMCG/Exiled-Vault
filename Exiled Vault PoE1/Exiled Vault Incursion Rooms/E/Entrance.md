@@ -15,4 +15,4 @@ The tomb unsealed, what will it yield?
 ## Tags
 #Incursion 
 #PoE1 
-#WiP 
+#Society/VaalEmpire 

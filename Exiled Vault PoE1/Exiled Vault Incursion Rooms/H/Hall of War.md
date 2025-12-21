@@ -16,4 +16,4 @@ A great many warriors were stationed at Atzoatl, ostensibly due to repeated inva
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

@@ -15,4 +15,4 @@ Darkness drifts through gilded gifts.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

@@ -15,4 +15,4 @@ Fought and died for cowards that hide.
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

@@ -15,4 +15,4 @@ Cold clay smothers decay.
 ## Tags
 #Incursion 
 #PoE1 
-#WiP 
+#Society/VaalEmpire 

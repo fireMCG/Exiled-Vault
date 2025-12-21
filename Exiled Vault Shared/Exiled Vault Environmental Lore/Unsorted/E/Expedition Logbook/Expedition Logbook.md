@@ -1,8 +1,0 @@
-## Expedition Logbook
-The Orok are truly terrifying to behold. I suspect their canine features result from genetic mutations, perhaps borne of the Cataclysms that reshaped these lands. Their tribesmen are savage I rarely leave their territories without scars to show for it yet they hold a knowledge we Oriathans have long since abandoned. Our 'high-born' civilization prides itself on its advancements but remains woefully primitive in matters of the spirit and the natural world. For all their brutality, the Orok live in harmony with the forces of nature. Perhaps they have no choice, but I wonder if we are the fools for believing we've transcended it. Better to live with nature than to die defying it.
-## Expedition Logbook_2
-We strayed from the route marked on our map, driven further afield by painted men with savage intent. Tonight, for reasons I cannot fathom, we have been granted a brief reprieve. Our hunters halted at the edge of this marsh, unwilling to pursue. They watched from the trees as we threaded the narrow band of solid ground between desert and swamp. I know not what they fear, but we must brave the unknown if we are to reach the encampment at the Ziggurat. Through my spyglass, I see nothing ahead. The waters lie still, and the muddy banks between seem clear. Yet my nerves burn with the unmistakable sense of being watched. There is no one... no thing... but this silence feels alive. We have no choice but to run for it.
-
----
-## Tags
-#EnvironmentalLore 

@@ -12,4 +12,3 @@ You will find Alva and complete her mission.
 ## Tags
 #PoE1 
 #Prophecy
-#WiP 

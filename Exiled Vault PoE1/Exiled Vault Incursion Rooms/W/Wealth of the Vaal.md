@@ -16,4 +16,4 @@ In their paranoia, the Architects of Atzoatl hoarded wealth beyond any reasonabl
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

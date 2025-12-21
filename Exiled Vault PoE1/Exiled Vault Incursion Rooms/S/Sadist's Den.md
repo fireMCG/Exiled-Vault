@@ -15,4 +15,4 @@ The Architects were certainly fond of their ghost stories. The tales almost soun
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

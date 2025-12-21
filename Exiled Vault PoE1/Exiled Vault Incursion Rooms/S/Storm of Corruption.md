@@ -16,4 +16,4 @@ Merchant carvings of the era consistently reported that the Architects could alt
 ## Tags
 #Incursion
 #PoE1
-#WiP
+#Society/VaalEmpire 

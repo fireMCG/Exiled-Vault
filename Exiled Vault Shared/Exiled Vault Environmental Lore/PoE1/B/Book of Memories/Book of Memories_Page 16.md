@@ -1,0 +1,9 @@
+# Book of Memories_Page 16
+My dearest Zana, Where are you now? I hope, as a father often does, that you are happy and tucked away in the safest of places. I hope you grow up kind and strong, that you love and are loved. It is my life's greatest regret that I will not see you again, but I must do what I can to protect you from the evils of this outer dark. I have failed against the Elder. To be honest, I never had a chance. The creature was too strong, too well versed in the shaping ways. If Venarius had not damaged the weapon I built, that day he arrested me in my study, then perhaps I could've opened a void, forced it from its physical shell and out of this reality. But I no longer possess such a device and the Elder has suckled at my mind so many times now, that I fear I could not remember how to rebuild it, even if I tried. My war with the creature is far from over however. I've no upper hand. But like a cornered animal, I will bite until I am gone. I've attempted to sleep and awaken in Oriath, many times. Hoped that one night I might get to hold you in my arms once again. But instead of my study, I dream of nothing. I know this letter might never reach you, but I write it anyway – if not for you, then for the sake of my own fragile wits. I love you my darling daughter, and hope the best for you, far away from all this... cosmic darkness. You've made me very proud, and I've considered each day a blessing that I've been able to call you my daughter... I must keep moving. I must keep fighting. Perhaps one day, if the gods allow it, we shall see each other once more. I love you greatly. Your Papa, Valdo Caeserius
+
+#
+---
+## Tags
+#EnvironmentalLore
+#IgnoreGraph
+#PoE1
