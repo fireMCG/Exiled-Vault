@@ -16,5 +16,8 @@ Corrupted
 
 ---
 ## Tags
+#Concept/Crystal 
+#Concept/Dream 
 #DivinationCard
+#Important
 #PoE1

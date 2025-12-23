@@ -9,4 +9,3 @@ being placed at the foot of a great tower.
 ## Tags
 #Fragment 
 #PoE2 
-#WiP 

@@ -73,6 +73,9 @@ Huntress: Apologies. He's dead.
 Doryani: A waste of a great mind, but... he made his choice. That bastard... he anticipated this, and sealed the Royal Access Chamber designs. Without it, we cannot reach Atziri... Do as you wish with the temple and the console for now. I will work to undo his machination... Though it may take some time.
  ![[Xipocado's Console On Doryani's Instructions 27 - L27 - A1.ogg]] ![[Xipocado's Console On Doryani's Instructions 27 - L27 - A2.ogg]] ![[Xipocado's Console On Doryani's Instructions 27 - L27 - A3.ogg]] ![[Xipocado's Console On Doryani's Instructions 27 - L27 - A4.ogg]] ![[Xipocado's Console On Doryani's Instructions 27 - L27 - A5.ogg]]
 
+#
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

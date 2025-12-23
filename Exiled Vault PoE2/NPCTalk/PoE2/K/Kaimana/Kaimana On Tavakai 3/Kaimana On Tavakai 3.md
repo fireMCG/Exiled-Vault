@@ -32,4 +32,6 @@ Kaimana: Right and wrong and all that's in between, yes? Hard to know. Hard to f
 
 ---
 ## Tags
+#Character/Kaimana
 #NPCTalk
+#Society/Karui 

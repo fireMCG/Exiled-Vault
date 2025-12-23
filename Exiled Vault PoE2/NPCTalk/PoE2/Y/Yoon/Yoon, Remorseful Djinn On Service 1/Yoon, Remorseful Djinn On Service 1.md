@@ -5,4 +5,6 @@ Yoon, Remorseful Djinn: My crime is my own. I suffer and serve so that I may red
 
 ---
 ## Tags
+#Character/Djinn/Yoon
 #NPCTalk
+#Society/Maraketh 

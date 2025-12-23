@@ -5,4 +5,7 @@ Mercenary: What about those old ruins? The ones with the 'distilled emotions.'
 
 ---
 ## Tags
+#Character/Alva 
+#Concept/Emotion
+#League/Delirium
 #NPCTalk

@@ -38,4 +38,6 @@ Navali: It is a gift from a goddess who cannot be with us in person.
 
 ---
 ## Tags
+#Character/Matiki
 #NPCTalk
+#Society/Karui 

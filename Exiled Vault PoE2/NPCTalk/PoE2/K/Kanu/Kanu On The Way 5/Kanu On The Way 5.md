@@ -59,4 +59,6 @@ Kanu: Oh... it's hard to put into words... All I know is, Tavakai's version of '
 
 ---
 ## Tags
+#Character/Kanu
 #NPCTalk
+#Society/Karui 

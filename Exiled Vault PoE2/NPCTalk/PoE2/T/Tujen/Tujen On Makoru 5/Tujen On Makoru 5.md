@@ -59,4 +59,6 @@ Tujen: Oh, you know how it is, in times of change. The younger ones get ideas, a
 
 ---
 ## Tags
+#Character/Tujen 
 #NPCTalk
+#Society/Kalguur 

@@ -8,4 +8,6 @@ Delwyn: So... you've thrown in with Doryani. Can't say I saw that comin'. You al
 
 ---
 ## Tags
+#Character/Delwyn
 #NPCTalk
+#Society/Azmeri 

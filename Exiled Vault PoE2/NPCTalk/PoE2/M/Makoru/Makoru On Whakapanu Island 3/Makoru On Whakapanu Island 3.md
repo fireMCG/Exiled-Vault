@@ -32,4 +32,6 @@ Makoru: I also look forward to meeting some Karui who {don't} know me...
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

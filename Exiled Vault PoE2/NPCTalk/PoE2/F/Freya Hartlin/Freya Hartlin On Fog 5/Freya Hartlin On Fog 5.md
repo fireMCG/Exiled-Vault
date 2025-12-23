@@ -36,6 +36,14 @@ Druid: The earth feels it too. A shadow spreads, from root to branch.
 Freya Hartlin: I just have to get out...! It's been too long...
  ![[Freya Hartlin On Fog 5 - L12 - A1.ogg]] ![[Freya Hartlin On Fog 5 - L12 - A2.ogg]]
 
+#
 ---
 ## Tags
+#Character/FreyaHartlin
+#Character/Tangmazu 
+#Character/Tujen
+#Concept/Mist 
+#Concept/Spirit 
+#God/Tangmazu 
 #NPCTalk
+#Society/Kalguur  

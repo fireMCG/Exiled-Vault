@@ -7,6 +7,6 @@ Hate born of love.
 
 ---
 ## Tags
+#Character/Sirus 
 #Fragment
 #PoE1 
-#WiP 

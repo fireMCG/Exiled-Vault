@@ -32,4 +32,6 @@ Navali: Before Wraeclast, before the Lake, before the primordial molten world, b
 
 ---
 ## Tags
+#Character/Navali
 #NPCTalk
+#Society/Karui/Tribe/Hinekora 

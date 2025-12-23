@@ -20,4 +20,6 @@ Doryani: Let us meet back in Kingsmarch. The Cuachic shall join our cause.
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

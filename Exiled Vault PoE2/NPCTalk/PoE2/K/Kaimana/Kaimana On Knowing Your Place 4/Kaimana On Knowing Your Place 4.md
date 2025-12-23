@@ -56,4 +56,6 @@ Kaimana: Ahhh! Don't underestimate the remedies the world provides us! Everythin
 
 ---
 ## Tags
+#Character/Kaimana
 #NPCTalk
+#Society/Karui 

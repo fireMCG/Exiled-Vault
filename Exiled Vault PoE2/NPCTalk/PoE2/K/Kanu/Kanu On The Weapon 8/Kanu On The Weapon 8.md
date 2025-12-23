@@ -89,4 +89,6 @@ Kanu: Yeah. Those fellas. Ah well. Good luck findin' the other piece. We got you
 
 ---
 ## Tags
+#Character/Kanu
 #NPCTalk
+#Society/Karui 

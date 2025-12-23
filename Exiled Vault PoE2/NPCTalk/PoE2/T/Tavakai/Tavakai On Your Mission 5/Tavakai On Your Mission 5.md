@@ -59,4 +59,6 @@ Tavakai: This Weapon... it sounds like it could cure the Blood Fever. We believe
 
 ---
 ## Tags
+#Character/Tavakai
 #NPCTalk
+#Society/Karui 

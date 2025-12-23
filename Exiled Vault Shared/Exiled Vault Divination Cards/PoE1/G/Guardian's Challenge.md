@@ -9,5 +9,6 @@ Shaper Guardian Map
 
 ---
 ## Tags
+#Concept/Void 
 #DivinationCard
 #PoE1

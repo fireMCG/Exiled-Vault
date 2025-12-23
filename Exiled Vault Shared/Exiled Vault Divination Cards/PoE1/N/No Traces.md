@@ -9,5 +9,6 @@ There is no mistake so great that it cannot be undone.
 
 ---
 ## Tags
+#Concept/Entropy 
 #DivinationCard
 #PoE1

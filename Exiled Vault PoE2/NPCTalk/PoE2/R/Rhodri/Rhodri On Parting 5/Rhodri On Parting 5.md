@@ -61,4 +61,5 @@ Rhodri: [Text Pass] I... suppose I'll get cooking, then.
 
 ---
 ## Tags
+#Character/Rhodri
 #NPCTalk

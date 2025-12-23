@@ -84,6 +84,9 @@ Druid: Ach! Speak plain, damn ye!
 Yama The White: Hah! Yama speak plain as the wind. You cannot hold, but it cuts just the same.
  ![[Yama The White On Prophecy 7 - L28 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Yama
 #NPCTalk
+#Society/Karui 

@@ -6,6 +6,9 @@ Hilda: The 'Spirit' is a load of codswallop, if you ask me. I've nothing more to
 Hilda: Best not ask me about that codswallop, friend. I fear you'll not think too kindly about what I have to say...
  ![[Hilda On The Spirit 1 - L2 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Hilda
 #NPCTalk
+#Society/Azmeri

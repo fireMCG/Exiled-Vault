@@ -59,4 +59,6 @@ Makoru: Well luckily for me, it was all fake. It was the main part of the test. 
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

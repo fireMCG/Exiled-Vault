@@ -32,4 +32,6 @@ Dannig: Well, I hope the bounty was worth the risk. I must say, it usually is...
 
 ---
 ## Tags
+#Character/Dannig 
 #NPCTalk
+#Society/Kalguur 

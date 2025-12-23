@@ -5,4 +5,6 @@ Yoon, Remorseful Djinn: An amulet, for the worthy.
 
 ---
 ## Tags
+#Character/Djinn/Yoon
 #NPCTalk
+#Society/Maraketh 

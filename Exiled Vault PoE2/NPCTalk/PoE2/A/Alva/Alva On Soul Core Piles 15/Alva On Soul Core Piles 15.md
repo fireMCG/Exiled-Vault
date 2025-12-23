@@ -59,4 +59,6 @@ Mercenary: Finder's keepers.
 
 ---
 ## Tags
+#Character/Alva 
+#Character/Atziri 
 #NPCTalk

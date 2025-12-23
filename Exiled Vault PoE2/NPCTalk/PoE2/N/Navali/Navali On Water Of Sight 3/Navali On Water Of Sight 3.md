@@ -32,4 +32,6 @@ Navali: The Water of Sight does not slay the living, just nearly so. The Water o
 
 ---
 ## Tags
+#Character/Navali
 #NPCTalk
+#Society/Karui/Tribe/Hinekora 

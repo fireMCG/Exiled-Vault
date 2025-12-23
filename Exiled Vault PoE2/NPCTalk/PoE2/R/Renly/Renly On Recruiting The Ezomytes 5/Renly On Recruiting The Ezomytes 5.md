@@ -65,4 +65,6 @@ Renly: Our neighbours... in Holten. Thane Wulfric and Lady Elswyth have lost the
 
 ---
 ## Tags
+#Character/Renly
 #NPCTalk
+#Society/Ezomyte 

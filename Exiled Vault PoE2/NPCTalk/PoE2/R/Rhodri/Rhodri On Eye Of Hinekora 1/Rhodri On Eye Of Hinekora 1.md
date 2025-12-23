@@ -4,4 +4,5 @@ Rhodri: I've heard tell of this place. To see it with me own eyes... Blimey. I'd
 
 ---
 ## Tags
+#Character/Rhodri
 #NPCTalk

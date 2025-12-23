@@ -62,4 +62,6 @@ Missionary Lorandis: Don't worry, friend. It all becomes clearer the closer you 
 
 ---
 ## Tags
+#Character/MissionaryLorandis
 #NPCTalk
+#Society/TwilightOrder 

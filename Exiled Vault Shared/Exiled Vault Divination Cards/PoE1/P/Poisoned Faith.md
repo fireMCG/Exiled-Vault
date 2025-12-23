@@ -10,5 +10,7 @@ Corrupted
 
 ---
 ## Tags
+#Character/God/Arakaali 
+#Concept/Devotion 
 #DivinationCard
 #PoE1

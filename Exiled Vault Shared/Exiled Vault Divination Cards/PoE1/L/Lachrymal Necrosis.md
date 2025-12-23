@@ -12,5 +12,9 @@ Corrupted
 
 ---
 ## Tags
+#Concept/Blood 
+#Concept/Corruption 
+#Concept/Heart 
+#Concept/Purity 
 #DivinationCard
 #PoE1

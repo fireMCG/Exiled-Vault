@@ -29,4 +29,6 @@ Renly: Good. We've still not rebuilt the roads the Count destroyed, so you'll ha
 
 ---
 ## Tags
+#Character/Renly
 #NPCTalk
+#Society/Ezomyte 

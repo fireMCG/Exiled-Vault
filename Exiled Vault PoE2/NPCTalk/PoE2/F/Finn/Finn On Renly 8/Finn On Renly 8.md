@@ -24,6 +24,9 @@ Finn: Yep. Can't have people think I've gone soft... Got a reputation to uphold.
 Una: Oh, you've got a reputation alright. No need to worry about that.
  ![[Finn On Renly 8 - L8 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Finn 
 #NPCTalk
+#Society/Ezomyte 

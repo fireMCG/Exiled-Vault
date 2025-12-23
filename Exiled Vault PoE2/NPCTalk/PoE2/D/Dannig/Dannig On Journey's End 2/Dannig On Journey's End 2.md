@@ -29,4 +29,6 @@ Druid: You and me both. I've heard tell o' the Raven Trickster. That I could not
 
 ---
 ## Tags
+#Character/Dannig 
 #NPCTalk
+#Society/Kalguur 

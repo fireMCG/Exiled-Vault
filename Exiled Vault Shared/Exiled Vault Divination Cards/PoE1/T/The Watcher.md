@@ -12,5 +12,7 @@ Crown of Eyes
 
 ---
 ## Tags
+#Concept/Colour/Red
+#Concept/Eye 
 #DivinationCard
 #PoE1

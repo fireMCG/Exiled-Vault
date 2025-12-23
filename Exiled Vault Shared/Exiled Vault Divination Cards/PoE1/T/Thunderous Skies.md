@@ -9,5 +9,7 @@ Storm Cloud
 
 ---
 ## Tags
+
+#Concept/Storm 
 #DivinationCard
 #PoE1

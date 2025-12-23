@@ -13,5 +13,8 @@ Unidentified Corrupted
 
 ---
 ## Tags
+#Concept/Fate 
+#Concept/Hero
+#Concept/Mother 
 #DivinationCard
 #PoE1

@@ -10,5 +10,6 @@ Quality: +20%
 
 ---
 ## Tags
+#Concept/VirtueGem 
 #DivinationCard
 #PoE1

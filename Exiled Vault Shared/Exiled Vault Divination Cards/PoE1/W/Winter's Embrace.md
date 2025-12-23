@@ -15,6 +15,7 @@ Synthesised
 
 ---
 ## Tags
+#Concept/Cycle 
 #Concept/Fear 
 #Concept/Season/Winter 
 #DivinationCard

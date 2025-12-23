@@ -32,4 +32,6 @@ Makoru: You won't be welcome inland, but you'll likely be allowed inside the fro
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

@@ -38,4 +38,6 @@ Mortimer: He is a very good dog, yes...
 
 ---
 ## Tags
+#Character/Mortimer
 #NPCTalk
+#Society/Abyssal 

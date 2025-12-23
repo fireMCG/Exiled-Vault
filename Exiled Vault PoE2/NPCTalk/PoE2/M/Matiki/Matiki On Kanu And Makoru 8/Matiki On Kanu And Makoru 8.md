@@ -47,4 +47,6 @@ Kaimana: Yes. They have. For now.
 
 ---
 ## Tags
+#Character/Matiki
 #NPCTalk
+#Society/Karui 

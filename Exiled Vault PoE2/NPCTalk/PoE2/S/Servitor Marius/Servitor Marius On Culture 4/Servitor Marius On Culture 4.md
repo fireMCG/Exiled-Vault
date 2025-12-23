@@ -14,4 +14,6 @@ Warrior: I might just do that... if they'll listen.
 
 ---
 ## Tags
+#Character/ServitorMarius
 #NPCTalk
+#Society/TwilightOrder 

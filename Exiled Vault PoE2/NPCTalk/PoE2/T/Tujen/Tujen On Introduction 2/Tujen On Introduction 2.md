@@ -29,4 +29,6 @@ Druid: Blame or thanks, makes no odds. The work still needs doin'.
 
 ---
 ## Tags
+#Character/Tujen 
 #NPCTalk
+#Society/Kalguur 

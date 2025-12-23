@@ -51,6 +51,10 @@ Mercenary: Bloody what mate? Nah, I'm good.
 Druid: If there's no rest in death... then she's still sufferin'. Because o' me.
  ![[Lurking Creature On The Well 3 - L17 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/LurkingCreature
+#Location/Wraeclast/WellOfSouls
 #NPCTalk
+#Society/Abyssal 

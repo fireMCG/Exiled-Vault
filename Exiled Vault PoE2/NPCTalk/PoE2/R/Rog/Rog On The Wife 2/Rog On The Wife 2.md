@@ -29,4 +29,6 @@ Druid: Aye. I take yer meanin'.
 
 ---
 ## Tags
+#Character/Rog 
 #NPCTalk
+#Society/Kalguur 

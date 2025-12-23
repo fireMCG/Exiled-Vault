@@ -9,5 +9,6 @@ Belt
 
 ---
 ## Tags
+#Concept/Necromancy 
 #DivinationCard
 #PoE1

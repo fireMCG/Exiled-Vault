@@ -9,5 +9,11 @@ Maloney's Mechanism
 
 ---
 ## Tags
+#Character/RikerMaloney
+#Concept/Darkness 
+#Concept/Mask
+#Concept/Moon 
+#Concept/Sun 
+#Concept/Time 
 #DivinationCard
 #PoE1

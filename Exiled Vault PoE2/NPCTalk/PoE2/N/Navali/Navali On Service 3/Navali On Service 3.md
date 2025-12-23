@@ -32,4 +32,6 @@ Navali: I can only remember my Future-Past while my soul is bound to Hinekora. L
 
 ---
 ## Tags
+#Character/Navali
 #NPCTalk
+#Society/Karui/Tribe/Hinekora 

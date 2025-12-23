@@ -7,6 +7,8 @@ as the Tangle's champion devours a myriad of worlds...
 
 ---
 ## Tags
+#Character/EaterOfWorlds 
+#Concept/World 
+#Entity/Tangle 
 #Fragment
 #PoE1 
-#WiP 

@@ -32,4 +32,6 @@ The Hooded One: It is crucial that we find a Captain with in-depth knowledge of 
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

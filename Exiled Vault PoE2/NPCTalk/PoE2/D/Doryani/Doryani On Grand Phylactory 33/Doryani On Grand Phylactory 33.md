@@ -88,4 +88,6 @@ Doryani: [DNT]
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

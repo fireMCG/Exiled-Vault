@@ -12,6 +12,9 @@ Una: It's alright. You've got a new family now.
 Finn: Yeah... I do.
  ![[Una On Blackwood 4 - L4 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Una 
 #NPCTalk
+#Society/Ezomyte 

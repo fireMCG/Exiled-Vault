@@ -32,4 +32,6 @@ Tavakai: I care not for your words, only your actions. I'll be watching.
 
 ---
 ## Tags
+#Character/Tavakai
 #NPCTalk
+#Society/Karui 

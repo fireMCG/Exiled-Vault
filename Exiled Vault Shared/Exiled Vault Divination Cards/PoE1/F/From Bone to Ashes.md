@@ -11,5 +11,8 @@ Corrupted
 
 ---
 ## Tags
+#Character/God/Ngamahu 
 #DivinationCard
 #PoE1
+#Society/Karui/Tribe/Ngamahu 
+#Society/VaalEmpire 

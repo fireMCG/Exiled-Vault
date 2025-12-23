@@ -30,4 +30,6 @@ Doryani: Hmm. It does sound like our technology. Architect Topotante was conduct
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

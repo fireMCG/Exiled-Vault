@@ -32,4 +32,6 @@ Rog, the Dealer: Some called him a traitor, but the details were sparse and conf
 
 ---
 ## Tags
+#Character/Rog 
 #NPCTalk
+#Society/Kalguur 

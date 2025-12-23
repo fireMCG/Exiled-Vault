@@ -1,6 +1,6 @@
 ## Treasure Hunter
 "Don't worry, I know what I'm doing."
-- Toggo's Last Words
+\- Toggo's Last Words
 ## 
 ![[Treasure Hunter.png]]
 
@@ -11,5 +11,7 @@ Corrupted
 
 ---
 ## Tags
+#Character/Atziri 
+#Character/Toggo
 #DivinationCard
 #PoE1

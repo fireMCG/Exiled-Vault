@@ -48,4 +48,6 @@ Doryani: So far...
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

@@ -9,5 +9,7 @@ Eyes of the Greatwolf
 
 ---
 ## Tags
+#Character/God/Greatwolf
+#Character/Rigwald 
 #DivinationCard
 #PoE1

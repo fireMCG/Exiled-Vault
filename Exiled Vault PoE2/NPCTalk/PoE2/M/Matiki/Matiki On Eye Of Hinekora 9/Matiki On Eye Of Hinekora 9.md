@@ -32,4 +32,6 @@ Matiki: Show me your map, Makoru. There's a place I want to take our friend, whe
 
 ---
 ## Tags
+#Character/Matiki
 #NPCTalk
+#Society/Karui 

@@ -29,4 +29,6 @@ Rog, the Dealer: There are a limited number of merchant licenses, all owned by w
 
 ---
 ## Tags
+#Character/Rog 
 #NPCTalk
+#Society/Kalguur 

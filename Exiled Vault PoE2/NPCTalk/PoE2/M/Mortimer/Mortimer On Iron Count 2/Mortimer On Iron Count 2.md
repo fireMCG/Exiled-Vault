@@ -26,4 +26,6 @@ Mercenary: Yeah I could probably do with a lift at some point...
 
 ---
 ## Tags
+#Character/Mortimer
 #NPCTalk
+#Society/Abyssal 

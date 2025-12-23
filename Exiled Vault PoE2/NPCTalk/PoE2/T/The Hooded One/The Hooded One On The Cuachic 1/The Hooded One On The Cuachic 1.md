@@ -5,4 +5,6 @@ The Hooded One: The Cuachic may have joined our cause, but that will last only a
 
 ---
 ## Tags
+#Character/Sin 
+#God/Sin 
 #NPCTalk

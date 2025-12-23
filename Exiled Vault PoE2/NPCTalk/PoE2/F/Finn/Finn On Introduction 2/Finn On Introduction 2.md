@@ -6,6 +6,9 @@ Finn: Oh, It's our old local hero!
 Una: Welcome back. It is good to see you.
  ![[Finn On Introduction 2 - L2 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Finn 
 #NPCTalk
+#Society/Ezomyte 

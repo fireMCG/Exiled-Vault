@@ -10,5 +10,6 @@ Replica Cortex
 
 ---
 ## Tags
+#Concept/Animal/Fox 
 #DivinationCard
 #PoE1

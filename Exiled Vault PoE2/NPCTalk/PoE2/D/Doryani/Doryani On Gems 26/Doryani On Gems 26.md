@@ -73,4 +73,6 @@ Mercenary: Huh. Wow. Learn somethin' new every day 'round you lot.
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

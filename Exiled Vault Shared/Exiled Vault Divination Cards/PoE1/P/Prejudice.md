@@ -10,5 +10,6 @@ Influenced Item
 
 ---
 ## Tags
+#Concept/Blindness 
 #DivinationCard
 #PoE1

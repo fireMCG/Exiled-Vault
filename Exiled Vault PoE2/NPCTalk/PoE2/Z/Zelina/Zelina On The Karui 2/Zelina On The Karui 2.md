@@ -6,6 +6,10 @@ Zelina: A few tomes described the Karui as rabid diseased animals that ate each 
 Zelina: This may be subjective, but you don't look like an animal to me.
  ![[Zelina On The Karui 2 - L2 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Zelina
 #NPCTalk
+#Society/Karui 
+#Society/VaalEmpire 

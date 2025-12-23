@@ -71,4 +71,5 @@ Rhodri: If you want fancy, go to the Kingsmarch tavern. We're here to do a job.
 
 ---
 ## Tags
+#Character/Rhodri
 #NPCTalk

@@ -32,4 +32,6 @@ Navali: The Elder's tale of your victory is well received. He vouches for you. B
 
 ---
 ## Tags
+#Character/Matiki
 #NPCTalk
+#Society/Karui 

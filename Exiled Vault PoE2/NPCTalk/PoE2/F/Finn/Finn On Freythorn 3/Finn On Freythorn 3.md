@@ -9,6 +9,9 @@ Una: These trying times have brought out the best in us... but also the worst.
 Finn: I'm gonna rebuild Freythorn, I am! Even though {I'm} not clanless anymore, I need to do it. I'll build that palace in the trees, the one I told you about. With {two} stocked kitchens. Just uh... well, it won't be for me anymore... It'll be for them.
  ![[Finn On Freythorn 3 - L3 - A1.ogg]] ![[Finn On Freythorn 3 - L3 - A2.ogg]] ![[Finn On Freythorn 3 - L3 - A3.ogg]] ![[Finn On Freythorn 3 - L3 - A4.ogg]]
 
+#
 ---
 ## Tags
+#Character/Finn 
 #NPCTalk
+#Society/Ezomyte 

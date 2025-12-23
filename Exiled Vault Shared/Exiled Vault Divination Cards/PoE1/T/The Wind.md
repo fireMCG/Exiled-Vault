@@ -9,5 +9,6 @@ Windripper
 
 ---
 ## Tags
+#Concept/Wind 
 #DivinationCard
 #PoE1

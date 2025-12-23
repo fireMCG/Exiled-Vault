@@ -4,11 +4,6 @@ bled rust. Such was their greed, the only thing that remains
 of the Broken Sun... is the Red Pyre, the Torus Eternal."
 
 #
-## Effects
-Chaos Damage from Hits with Supported Skills also Contributes to Flammability and Ignite Magnitudes
-Supported Skills Gain 20% of Fire Damage as Extra Chaos Damage
-
-#
 ![[Xoph's Pyre.webp]]
 
 #

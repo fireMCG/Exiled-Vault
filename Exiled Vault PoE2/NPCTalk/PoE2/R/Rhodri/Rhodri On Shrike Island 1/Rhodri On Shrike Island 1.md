@@ -4,4 +4,5 @@ Rhodri: As much as I respect Karui culture, that place... it's not for me. The s
 
 ---
 ## Tags
+#Character/Rhodri
 #NPCTalk

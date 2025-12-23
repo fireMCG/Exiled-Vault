@@ -32,4 +32,6 @@ Ange: Trade might be challenging now, given the circumstances... But don't worry
 
 ---
 ## Tags
+#Character/Ange
 #NPCTalk
+#Society/Kalguur 

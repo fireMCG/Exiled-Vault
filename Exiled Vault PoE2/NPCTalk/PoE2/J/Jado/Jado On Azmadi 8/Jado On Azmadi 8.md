@@ -24,6 +24,9 @@ Jado: Are you absolutely certain of that?
 Sekhema Asala: Hmm... these {are} strange times...
  ![[Jado On Azmadi 8 - L8 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Jado
 #NPCTalk
+#Society/Maraketh

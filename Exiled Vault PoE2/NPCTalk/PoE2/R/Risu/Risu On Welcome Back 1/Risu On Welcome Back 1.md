@@ -5,4 +5,6 @@ Risu: Welcome back, my friend! I have been studying under Zarka, to become a tal
 
 ---
 ## Tags
+#Character/Risu 
 #NPCTalk
+#Society/Faridun 

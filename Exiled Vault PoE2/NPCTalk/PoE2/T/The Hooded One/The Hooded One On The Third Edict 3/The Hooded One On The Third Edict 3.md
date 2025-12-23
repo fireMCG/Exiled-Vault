@@ -32,4 +32,6 @@ Druid: I'll not concern myself with the motives of dead men. What matters is we 
 
 ---
 ## Tags
+#Character/Sin 
+#God/Sin 
 #NPCTalk

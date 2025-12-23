@@ -4,10 +4,6 @@ something was very wrong among the first Kalguurans.
 Olroth, Vorana, Medved... three there were. Three dangers.
 
 #
-## Effects
-+3 to level of Supported Skills if exactly two other Supports are modifying them
-
-#
 ![[Uhtred's Augury.webp]]
 
 #

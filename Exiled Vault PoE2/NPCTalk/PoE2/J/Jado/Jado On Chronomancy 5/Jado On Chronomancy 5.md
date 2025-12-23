@@ -15,6 +15,9 @@ Sekhema Asala: He's trying to escape his punishment.
 Jado: That might be the case... If there is indeed a plan at work, we must be careful not to play into the schemer's hands.
  ![[Jado On Chronomancy 5 - L5 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Jado
 #NPCTalk
+#Society/Maraketh

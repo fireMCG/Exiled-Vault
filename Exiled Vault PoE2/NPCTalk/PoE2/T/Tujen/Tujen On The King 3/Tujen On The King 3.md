@@ -36,4 +36,6 @@ Tujen: None of your business. Move on.
 
 ---
 ## Tags
+#Character/Tujen 
 #NPCTalk
+#Society/Kalguur 

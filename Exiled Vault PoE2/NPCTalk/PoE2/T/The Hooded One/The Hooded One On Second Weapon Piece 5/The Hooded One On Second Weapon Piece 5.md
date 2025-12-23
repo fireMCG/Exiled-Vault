@@ -38,4 +38,6 @@ Doryani: Don't get distracted. Keep the thought in your mind. You must find the 
 
 ---
 ## Tags
+#Character/Sin 
+#God/Sin 
 #NPCTalk

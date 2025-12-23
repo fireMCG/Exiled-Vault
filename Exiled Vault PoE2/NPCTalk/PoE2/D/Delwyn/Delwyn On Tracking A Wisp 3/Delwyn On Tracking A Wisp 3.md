@@ -14,4 +14,6 @@ Aye. Seems like the {rathin} in 'em don't take kindly to the Spirit's presenceâ€
 
 ---
 ## Tags
+#Character/Delwyn
 #NPCTalk
+#Society/Azmeri 

@@ -38,4 +38,6 @@ Druid: Aye. The Beast falls – or we do.
 
 ---
 ## Tags
+#Character/Sin 
+#God/Sin 
 #NPCTalk

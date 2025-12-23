@@ -32,4 +32,10 @@ Alva: If that place is somehow connected to those times of ash, then perhaps we 
 
 ---
 ## Tags
+#Character/Alva 
+#Concept/Ash 
+#Concept/BlottedSun
+#Concept/Fortress
+#Concept/Sky
+#Event/WinterOfTheWorld 
 #NPCTalk

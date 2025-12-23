@@ -32,4 +32,6 @@ Dannig: Your guess is as good as mine.
 
 ---
 ## Tags
+#Character/Dannig 
 #NPCTalk
+#Society/Kalguur 

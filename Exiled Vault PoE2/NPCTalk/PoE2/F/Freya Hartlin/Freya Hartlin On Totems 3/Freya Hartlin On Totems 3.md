@@ -30,6 +30,12 @@ Druid: A cage can {shield} as well as bind.
 Freya Hartlin: Something about these Karui totems keeps the malice of the fog at bay.
  ![[Freya Hartlin On Totems 3 - L10 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/FreyaHartlin
+#Character/Tangmazu 
+#Character/Tujen 
+#God/Tangmazu 
 #NPCTalk
+#Society/Kalguur  

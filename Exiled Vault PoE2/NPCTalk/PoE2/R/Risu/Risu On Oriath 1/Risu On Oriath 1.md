@@ -5,4 +5,6 @@ Risu: I know nothing of this 'Oriath,' but if you need us, we will answer. If I 
 
 ---
 ## Tags
+#Character/Risu 
 #NPCTalk
+#Society/Faridun 

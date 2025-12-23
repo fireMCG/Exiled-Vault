@@ -8,4 +8,6 @@ Delwyn: Look at you, back in the Ranges... never thought I'd see the day. I won'
 
 ---
 ## Tags
+#Character/Delwyn
 #NPCTalk
+#Society/Azmeri 

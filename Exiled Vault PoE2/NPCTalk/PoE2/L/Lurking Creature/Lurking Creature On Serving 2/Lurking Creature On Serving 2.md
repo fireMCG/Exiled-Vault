@@ -27,6 +27,9 @@ Mercenary: You sure have. Don't think I'd want to be here alone...
 Druid: Ye've done what's asked. That's service enough.
  ![[Lurking Creature On Serving 2 - L9 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/LurkingCreature
 #NPCTalk
+#Society/Abyssal 

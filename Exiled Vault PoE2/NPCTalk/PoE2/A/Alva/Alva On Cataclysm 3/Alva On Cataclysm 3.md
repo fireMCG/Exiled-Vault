@@ -29,4 +29,7 @@ Alva: It was unreal. Unlike anything I could have imagined. But it all happened 
 
 ---
 ## Tags
+#Character/Alva
+#Concept/Cataclysm 
 #NPCTalk
+#Society/VaalEmpire 

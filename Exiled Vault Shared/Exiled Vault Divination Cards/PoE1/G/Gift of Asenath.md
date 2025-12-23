@@ -11,5 +11,6 @@ Corrupted
 
 ---
 ## Tags
+#Character/Sekhema/Asenath 
 #DivinationCard
 #PoE1

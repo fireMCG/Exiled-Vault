@@ -5,4 +5,6 @@ The Hooded One: There is something very wrong in these lands. It is not Corrupti
 
 ---
 ## Tags
+#Character/Sin 
+#God/Sin 
 #NPCTalk

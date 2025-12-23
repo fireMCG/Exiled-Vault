@@ -5,4 +5,6 @@ Risu: She has given me a fair chance to catch up. Others want to be the next tal
 
 ---
 ## Tags
+#Character/Risu 
 #NPCTalk
+#Society/Faridun 

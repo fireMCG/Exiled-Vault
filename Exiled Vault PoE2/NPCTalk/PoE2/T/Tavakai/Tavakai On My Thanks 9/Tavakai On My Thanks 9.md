@@ -53,4 +53,6 @@ Tavakai: For your good deed, I will allow you to come and go from this sacred ha
 
 ---
 ## Tags
+#Character/Tavakai
 #NPCTalk
+#Society/Karui 

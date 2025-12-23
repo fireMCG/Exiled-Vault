@@ -9,5 +9,8 @@ Gold Ring
 
 ---
 ## Tags
+#Concept/Darkness 
+#Concept/Hope 
+#Concept/Light 
 #DivinationCard
 #PoE1

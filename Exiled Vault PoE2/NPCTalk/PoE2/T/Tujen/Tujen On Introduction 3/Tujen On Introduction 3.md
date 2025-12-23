@@ -32,4 +32,6 @@ Tujen: Just down the pier. It's the only ship on the dock right now.
 
 ---
 ## Tags
+#Character/Tujen 
 #NPCTalk
+#Society/Kalguur 

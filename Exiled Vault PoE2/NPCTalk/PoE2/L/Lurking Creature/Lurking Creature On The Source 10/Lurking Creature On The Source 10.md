@@ -51,6 +51,11 @@ Witch: It's haunting. I never knew... I was born feeling this... call... this co
 Lurking Creature: Yes, master. Embrace Death. It is a gift... from the Source.
  ![[Lurking Creature On The Source 10 - L17 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/LurkingCreature
+#Concept/Necromancy
+#Concept/WellOfSouls 
 #NPCTalk
+#Society/Abyssal 

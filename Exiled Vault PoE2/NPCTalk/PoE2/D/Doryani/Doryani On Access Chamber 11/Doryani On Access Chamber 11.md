@@ -35,4 +35,6 @@ Doryani: Step forward with me. I am possessed by a peculiar notion.
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

@@ -9,5 +9,8 @@ Mortal Hope
 
 ---
 ## Tags
+#Character/Atziri 
+#Concept/Prison 
 #DivinationCard
 #PoE1
+#Society/VaalEmpire 

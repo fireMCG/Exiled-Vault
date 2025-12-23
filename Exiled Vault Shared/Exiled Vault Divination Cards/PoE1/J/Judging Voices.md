@@ -9,5 +9,8 @@ Forbidden Shako
 
 ---
 ## Tags
+#Concept/Demon 
+#Concept/Mind 
+#Concept/Within 
 #DivinationCard
 #PoE1

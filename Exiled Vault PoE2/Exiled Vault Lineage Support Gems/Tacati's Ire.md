@@ -4,10 +4,6 @@ the Queen's cupbearers; he had only to direct his anger...
 but in her presence, he could feel naught but lust.
 
 #
-## Effects
-Poisons from Supported Skills deal Damage 1% faster per Rage
-
-#
 ![[Tacati's Ire.webp]]
 
 #

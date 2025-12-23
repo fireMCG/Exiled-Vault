@@ -5,4 +5,8 @@ Alva: I suppose it's time we said farewell, for now. I'm off to study a tome on 
 
 ---
 ## Tags
+#Character/Alva 
+#Concept/BloodMagic
+#Concept/Tome
+#Location/Wraeclast/Utzaal
 #NPCTalk

@@ -86,4 +86,6 @@ Druid: Regret's a root ye cannae cut. Best learn to grow around it.
 
 ---
 ## Tags
+#Character/Sin 
+#God/Sin 
 #NPCTalk

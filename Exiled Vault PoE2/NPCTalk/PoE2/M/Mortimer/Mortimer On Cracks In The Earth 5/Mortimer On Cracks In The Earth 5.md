@@ -53,4 +53,6 @@ Mortimer: Depose them. Cave in the cracks. Cave in whatever you find. We've got 
 
 ---
 ## Tags
+#Character/Mortimer
 #NPCTalk
+#Society/Abyssal 

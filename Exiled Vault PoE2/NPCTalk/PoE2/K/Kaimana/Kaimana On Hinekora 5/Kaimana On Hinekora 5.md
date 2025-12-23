@@ -38,4 +38,6 @@ Tavakai: The Hinekora tribe seems to have endless time to sit around playing wit
 
 ---
 ## Tags
+#Character/Kaimana
 #NPCTalk
+#Society/Karui 

@@ -56,4 +56,6 @@ Makoru: So, it seems Tavakai has pledged to aid you and... well... The crew and 
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

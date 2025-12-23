@@ -1,7 +1,7 @@
 ## Love Through Ice
 "I know one lady for whose sake I will rip out my heart"
 
-- Derrok, the Dreamer
+\- Derrok, the Dreamer
 ## 
 ![[Love Through Ice.png]]
 
@@ -13,5 +13,6 @@ Corrupted
 
 ---
 ## Tags
+#Concept/Dream 
 #DivinationCard
 #PoE1

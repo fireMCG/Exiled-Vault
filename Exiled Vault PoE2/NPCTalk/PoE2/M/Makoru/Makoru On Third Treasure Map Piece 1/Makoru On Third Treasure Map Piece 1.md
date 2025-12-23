@@ -14,4 +14,6 @@ Makoru: Look at that! We've got the whole map now. Shall we see where it leads?
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

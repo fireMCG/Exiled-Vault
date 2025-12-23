@@ -51,4 +51,7 @@ Alva: I believe he will aid you so long as your goals align with his. The moment
 
 ---
 ## Tags
+#Character/Alva
+#Character/Doryani
 #NPCTalk
+#Society/VaalEmpire 

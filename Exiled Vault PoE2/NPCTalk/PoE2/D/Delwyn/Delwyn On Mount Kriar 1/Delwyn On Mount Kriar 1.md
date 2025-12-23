@@ -8,4 +8,6 @@ Delwyn: There was a time I thought I'd never see you on these mountains again. B
 
 ---
 ## Tags
+#Character/Delwyn
 #NPCTalk
+#Society/Azmeri 

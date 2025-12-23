@@ -10,5 +10,8 @@ Quality: +20%
 
 ---
 ## Tags
+#Concept/Death 
+#Concept/Knowledge 
+#Concept/Undead 
 #DivinationCard
 #PoE1

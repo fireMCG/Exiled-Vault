@@ -29,4 +29,6 @@ Mortimer: Yes. Once we called him 'The Wolf' for his sense of kinship. Now... 'T
 
 ---
 ## Tags
+#Character/Mortimer
 #NPCTalk
+#Society/Abyssal 

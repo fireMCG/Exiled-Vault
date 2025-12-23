@@ -32,4 +32,6 @@ Doryani: Their reasoning was unclear. But from what I saw, it was thrown not by 
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

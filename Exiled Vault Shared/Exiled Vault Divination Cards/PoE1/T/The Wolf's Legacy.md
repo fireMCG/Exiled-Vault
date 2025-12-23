@@ -9,5 +9,8 @@ Vaults of Atziri
 
 ---
 ## Tags
+#Character/Atziri 
+#Concept/Animal/Wolf
+#Concept/Moon 
 #DivinationCard
 #PoE1

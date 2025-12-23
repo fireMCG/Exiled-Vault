@@ -14,4 +14,6 @@ Ha—forgive me. Almost forgot who I were dealin' with.
 
 ---
 ## Tags
+#Character/Delwyn
 #NPCTalk
+#Society/Azmeri 

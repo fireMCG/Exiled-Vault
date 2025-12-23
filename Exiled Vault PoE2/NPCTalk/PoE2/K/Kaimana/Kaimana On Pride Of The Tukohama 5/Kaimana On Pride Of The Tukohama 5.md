@@ -38,4 +38,6 @@ Matiki: Unforgettable! Ha!
 
 ---
 ## Tags
+#Character/Kaimana
 #NPCTalk
+#Society/Karui 

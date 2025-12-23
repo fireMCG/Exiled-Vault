@@ -57,4 +57,6 @@ Tujen: Please, don't cry. We're here.
 
 ---
 ## Tags
+#Character/Tujen 
 #NPCTalk
+#Society/Kalguur 

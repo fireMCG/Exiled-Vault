@@ -5,4 +5,6 @@ Risu: The scorpion and the worm are dead? Ten thousand praises, my friend! I can
 
 ---
 ## Tags
+#Character/Risu 
 #NPCTalk
+#Society/Faridun 

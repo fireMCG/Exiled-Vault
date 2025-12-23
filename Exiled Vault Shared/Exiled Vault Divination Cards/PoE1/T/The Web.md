@@ -13,5 +13,6 @@ Weapon of Crafting
 
 ---
 ## Tags
+#Concept/Animal/Insect/Spider
 #DivinationCard
 #PoE1

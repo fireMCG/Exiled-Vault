@@ -74,4 +74,6 @@ Sorceress: Hah! Well done.
 
 ---
 ## Tags
+#Character/Kanu
 #NPCTalk
+#Society/Karui 

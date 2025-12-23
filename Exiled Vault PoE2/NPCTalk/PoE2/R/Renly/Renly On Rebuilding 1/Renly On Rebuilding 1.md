@@ -5,4 +5,6 @@ Renly: Ogham's the maiden at the end of the bridge, so to speak. Right now, we'r
 
 ---
 ## Tags
+#Character/Renly
 #NPCTalk
+#Society/Ezomyte 

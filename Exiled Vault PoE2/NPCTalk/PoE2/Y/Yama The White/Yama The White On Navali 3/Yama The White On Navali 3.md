@@ -30,6 +30,9 @@ Druid: Is she now? How so?
 Yama The White: Give Yama nuts! The others never did... They were dead, risen. One heartbeat Navali still has, every shortest day.
  ![[Yama The White On Navali 3 - L10 - A1.ogg]] ![[Yama The White On Navali 3 - L10 - A2.ogg]]
 
+#
 ---
 ## Tags
+#Character/Yama
 #NPCTalk
+#Society/Karui 

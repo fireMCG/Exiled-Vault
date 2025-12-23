@@ -41,4 +41,6 @@ Navali: Yes.
 
 ---
 ## Tags
+#Character/Matiki
 #NPCTalk
+#Society/Karui 
