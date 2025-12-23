@@ -9,5 +9,6 @@ Tabula Rasa
 
 ---
 ## Tags
+#Concept/Virtue/Humility 
 #DivinationCard
 #PoE1

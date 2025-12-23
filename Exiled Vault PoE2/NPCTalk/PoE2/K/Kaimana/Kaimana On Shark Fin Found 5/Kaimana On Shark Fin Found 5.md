@@ -59,4 +59,6 @@ Kaimana: Why... the blood fever, of course! It has been the death of many of our
 
 ---
 ## Tags
+#Character/Kaimana
 #NPCTalk
+#Society/Karui 

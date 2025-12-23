@@ -10,5 +10,6 @@ Item Level: 100
 
 ---
 ## Tags
+#Legacy 
 #DivinationCard
 #PoE1

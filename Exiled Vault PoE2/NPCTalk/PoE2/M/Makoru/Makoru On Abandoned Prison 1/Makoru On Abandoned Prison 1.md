@@ -5,4 +5,6 @@ Makoru: {What} was locked up in there? Drowning... all those years? Hard to imag
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

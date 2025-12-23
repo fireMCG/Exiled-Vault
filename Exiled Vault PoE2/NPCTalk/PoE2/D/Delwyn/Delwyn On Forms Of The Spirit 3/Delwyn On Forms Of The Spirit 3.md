@@ -14,4 +14,6 @@ Aye, they're not so easy to bring down... but I reckon you can handle yourself.
 
 ---
 ## Tags
+#Character/Delwyn
 #NPCTalk
+#Society/Azmeri 

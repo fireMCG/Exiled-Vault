@@ -5,4 +5,6 @@ The Hooded One: I can still see this place, as it was. There was so much life. C
 
 ---
 ## Tags
+#Character/Sin 
+#God/Sin 
 #NPCTalk

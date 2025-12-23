@@ -26,4 +26,10 @@ Alva: Let me see... this marking... we've come across it in our excavations. In 
 
 ---
 ## Tags
+#Character/Alva 
+#Character/Tangmazu
+#Concept/Fragment/Splinter 
+#God/Tangmazu 
+#League/Delirium 
 #NPCTalk
+#Timeline 

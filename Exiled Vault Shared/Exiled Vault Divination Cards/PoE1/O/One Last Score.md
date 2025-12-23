@@ -13,5 +13,6 @@ Item Level: 86
 
 ---
 ## Tags
+#Concept/Mask
 #DivinationCard
 #PoE1

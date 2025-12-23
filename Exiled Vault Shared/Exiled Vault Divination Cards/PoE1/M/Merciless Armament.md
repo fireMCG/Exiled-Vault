@@ -3,7 +3,7 @@
 blood and bone,
 a peaceful life
 is one I can't condone."
-- Tukohama, Father Of War
+\- Tukohama, Father Of War
 ## 
 ![[Merciless Armament.png]]
 
@@ -14,5 +14,6 @@ Item Level: 100
 
 ---
 ## Tags
+#Character/God/Tukohama
 #DivinationCard
 #PoE1

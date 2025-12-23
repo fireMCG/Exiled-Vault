@@ -15,6 +15,10 @@ Finn: Bring it in here! Give your old pal Finn a hug! No? Alright. Fair.
 Una: Much has happened since you've been gone. Please, speak to Renly. He's our reluctant leader now.
  ![[Una On Introduction 5 - L5 - A1.ogg]] ![[Una On Introduction 5 - L5 - A2.ogg]]
 
+#
 ---
 ## Tags
+#Character/Finn
+#Character/Una 
 #NPCTalk
+#Society/Ezomyte 

@@ -14,4 +14,6 @@ Aye—seems unlike the Spirit, truth be told. But who am I to question?
 
 ---
 ## Tags
+#Character/Delwyn
 #NPCTalk
+#Society/Azmeri 

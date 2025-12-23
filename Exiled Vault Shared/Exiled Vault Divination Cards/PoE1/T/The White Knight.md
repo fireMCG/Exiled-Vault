@@ -11,5 +11,7 @@ Crusader Item
 
 ---
 ## Tags
+#Concept/Astral
+#Concept/Decay
 #DivinationCard
 #PoE1

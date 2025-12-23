@@ -1,6 +1,6 @@
 ## Turn the Other Cheek
 "Only after one forsakes rage, can true power be found."
-- Sekhema Asenath
+\- Sekhema Asenath
 ## 
 ![[Turn the Other Cheek.png]]
 
@@ -11,5 +11,6 @@ Corrupted
 
 ---
 ## Tags
+#Character/Sekhema/Asenath
 #DivinationCard
 #PoE1

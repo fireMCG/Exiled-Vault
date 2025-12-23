@@ -15,6 +15,10 @@ Finn: I think the Thane and Lady of Holten made a deal. Reckon they felt vulnera
 Una: I fear you may be right.
  ![[Una On Darkness 5 - L5 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Finn 
+#Character/Una 
 #NPCTalk
+#Society/Ezomyte 

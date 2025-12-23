@@ -5,4 +5,6 @@ Makoru: So much has happened... more than a lifetime's worth. In a strange way, 
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

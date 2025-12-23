@@ -10,5 +10,10 @@ Corrupted
 
 ---
 ## Tags
+#Concept/Blindness 
+#Concept/Darkness
+#Concept/Dawn 
+#Concept/Hope 
+#Concept/Light 
 #DivinationCard
 #PoE1

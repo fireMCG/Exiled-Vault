@@ -5,4 +5,6 @@ Doryani: I am wary, now, after hearing about the... {people...} living in sunken
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

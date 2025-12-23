@@ -18,5 +18,8 @@ Corrupted
 
 ---
 ## Tags
+#Concept/Animal/Cat 
+#Concept/Mute
+#Concept/Talisman
 #DivinationCard
 #PoE1

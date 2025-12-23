@@ -29,4 +29,6 @@ Druid: About time ye took up the hunt again.
 
 ---
 ## Tags
+#Character/Dannig 
 #NPCTalk
+#Society/Kalguur 

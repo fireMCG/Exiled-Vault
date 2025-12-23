@@ -1,6 +1,6 @@
 ## Hubris
 "This one? It is NOT for sale. You would sooner pry it from my lifeless hand."
-- Jonfé Darontos, Ringmaker
+\- Jonfé Darontos, Ringmaker
 ## 
 ![[Hubris.png]]
 
@@ -10,5 +10,6 @@ Ring
 
 ---
 ## Tags
+#Concept/Sin/Hubris
 #DivinationCard
 #PoE1

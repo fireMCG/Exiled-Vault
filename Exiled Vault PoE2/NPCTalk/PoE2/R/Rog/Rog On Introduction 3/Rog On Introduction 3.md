@@ -32,4 +32,6 @@ Rog, the Dealer: The mind is willing... let's see how the body goes.
 
 ---
 ## Tags
+#Character/Rog 
 #NPCTalk
+#Society/Kalguur 

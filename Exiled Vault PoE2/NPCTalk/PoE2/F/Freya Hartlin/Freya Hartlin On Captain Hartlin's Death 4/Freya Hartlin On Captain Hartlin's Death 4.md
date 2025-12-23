@@ -34,6 +34,14 @@ Freya Hartlin: Perhaps... if you can runesmith the Verisium and free me... ...I 
 Tujen: Of course, Freya. Newcomer - get the Verisium to Dannig. Quickly!
  ![[Freya Hartlin On Captain Hartlin's Death 4 - L11 - A1.ogg]] ![[Freya Hartlin On Captain Hartlin's Death 4 - L11 - A2.ogg]]
 
+#
 ---
 ## Tags
+#Character/FreyaHartlin
+#Character/Tangmazu 
+#Character/Tujen 
+#Concept/Rune 
+#Concept/Verisium
+#God/Tangmazu 
 #NPCTalk
+#Society/Kalguur  

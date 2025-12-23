@@ -5,4 +5,6 @@ Makoru: You killed the kinfolk tyrant?! They won't soon forget that! Maybe we ca
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

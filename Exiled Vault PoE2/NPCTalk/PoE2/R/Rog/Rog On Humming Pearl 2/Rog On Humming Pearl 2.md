@@ -29,4 +29,6 @@ Rog, the Dealer: Consider this kindness in the future, {friend.}
 
 ---
 ## Tags
+#Character/Rog 
 #NPCTalk
+#Society/Kalguur 

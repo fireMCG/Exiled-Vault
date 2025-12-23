@@ -40,4 +40,6 @@ Doryani: Yes. The treasure.
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

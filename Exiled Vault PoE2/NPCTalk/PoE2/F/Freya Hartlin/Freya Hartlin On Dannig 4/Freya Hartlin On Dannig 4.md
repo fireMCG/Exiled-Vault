@@ -33,6 +33,14 @@ Tujen: You know that, Freya. You remember Dannig.
 Freya Hartlin: Oh... forgive me, of course! Yes. Sweet, Dannig. He can help us.
  ![[Freya Hartlin On Dannig 4 - L11 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Dannig
+#Character/FreyaHartlin
+#Character/Tangmazu 
+#Character/Tujen 
+#Concept/Verisium 
+#God/Tangmazu 
 #NPCTalk
+#Society/Kalguur  

@@ -35,4 +35,6 @@ Missionary Lorandis: Please understand... It will be a glorious thing to behold.
 
 ---
 ## Tags
+#Character/MissionaryLorandis
 #NPCTalk
+#Society/TwilightOrder 

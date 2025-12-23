@@ -60,4 +60,6 @@ Tujen: Stranger things have happened, I suppose.
 
 ---
 ## Tags
+#Character/Tujen 
 #NPCTalk
+#Society/Kalguur 

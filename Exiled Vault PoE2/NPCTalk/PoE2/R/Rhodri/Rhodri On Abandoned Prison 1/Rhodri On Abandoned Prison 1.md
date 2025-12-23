@@ -4,4 +4,5 @@ Rhodri: So you ran through that damned place and killed something... unkillable?
 
 ---
 ## Tags
+#Character/Rhodri
 #NPCTalk

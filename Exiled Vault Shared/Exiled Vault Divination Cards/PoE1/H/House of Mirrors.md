@@ -9,5 +9,7 @@ Mirror of Kalandra
 
 ---
 ## Tags
+#Character/Kalandra 
+#Concept/Mirror 
 #DivinationCard
 #PoE1

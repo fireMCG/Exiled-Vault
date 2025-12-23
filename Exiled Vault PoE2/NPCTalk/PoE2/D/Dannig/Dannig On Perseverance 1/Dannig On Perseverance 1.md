@@ -5,4 +5,6 @@ Dannig: So, Olroth indeed has the Triskelion Flame! There's no shame in being de
 
 ---
 ## Tags
+#Character/Dannig 
 #NPCTalk
+#Society/Kalguur 

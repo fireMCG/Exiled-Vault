@@ -5,4 +5,5 @@ Torbik: I've taken this route for many years. I hold some hope that the bazaar w
 
 ---
 ## Tags
+#Character/Torbik
 #NPCTalk

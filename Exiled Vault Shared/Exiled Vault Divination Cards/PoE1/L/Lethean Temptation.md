@@ -9,5 +9,7 @@ Nebulis
 
 ---
 ## Tags
+#Concept/Memory 
+#Concept/Void 
 #DivinationCard
 #PoE1

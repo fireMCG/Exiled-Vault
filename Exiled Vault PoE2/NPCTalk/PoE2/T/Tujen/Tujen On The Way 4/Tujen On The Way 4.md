@@ -57,4 +57,6 @@ Tujen: Reject is a strong word. You'd have to ask her. She forges her own path..
 
 ---
 ## Tags
+#Character/Tujen 
 #NPCTalk
+#Society/Kalguur 

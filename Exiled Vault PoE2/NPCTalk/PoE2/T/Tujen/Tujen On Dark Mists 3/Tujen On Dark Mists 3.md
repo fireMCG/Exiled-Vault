@@ -32,4 +32,6 @@ Tujen: Aye, perhaps. Nonetheless, the fog is cleared, and a Kalguuran always pay
 
 ---
 ## Tags
+#Character/Tujen 
 #NPCTalk
+#Society/Kalguur 

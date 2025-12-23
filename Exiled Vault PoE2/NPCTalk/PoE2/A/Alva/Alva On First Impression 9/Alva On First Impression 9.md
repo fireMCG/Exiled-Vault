@@ -49,4 +49,8 @@ Alva: This was where the end began, so to speak.
 
 ---
 ## Tags
+#Character/Alva
+#Character/Atziri 
+#Location/Wraeclast/LiraVaal
 #NPCTalk
+#Society/VaalEmpire 

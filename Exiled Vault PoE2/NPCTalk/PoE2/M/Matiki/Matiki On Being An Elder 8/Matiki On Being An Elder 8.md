@@ -47,4 +47,6 @@ Kaimana: Yes. Deserved.
 
 ---
 ## Tags
+#Character/Matiki
 #NPCTalk
+#Society/Karui 

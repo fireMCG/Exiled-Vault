@@ -59,4 +59,6 @@ Makoru: It's really their tyrant I'm worried about. Reports say he's getting big
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

@@ -35,4 +35,6 @@ Ange: Well, I've run out of hope in finding a life companion... so gold will hav
 
 ---
 ## Tags
+#Character/Ange
 #NPCTalk
+#Society/Kalguur 

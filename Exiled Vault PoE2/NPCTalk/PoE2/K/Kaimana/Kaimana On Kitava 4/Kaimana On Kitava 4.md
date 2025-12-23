@@ -35,4 +35,6 @@ Tavakai: The cult of Kitava grew like a tumour, when we allowed our culture to w
 
 ---
 ## Tags
+#Character/Kaimana
 #NPCTalk
+#Society/Karui 

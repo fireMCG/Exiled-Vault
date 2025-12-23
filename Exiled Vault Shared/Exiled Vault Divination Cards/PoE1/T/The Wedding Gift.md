@@ -9,5 +9,6 @@ Arakaali's Fang
 
 ---
 ## Tags
+#Character/God/Arakaali
 #DivinationCard
 #PoE1

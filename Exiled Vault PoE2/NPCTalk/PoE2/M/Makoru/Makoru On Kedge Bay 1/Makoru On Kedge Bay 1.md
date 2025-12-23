@@ -5,4 +5,6 @@ Makoru: Well... the fog is gone. But... you let out some fearsome god. Win some,
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

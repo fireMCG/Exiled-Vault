@@ -5,4 +5,6 @@ Doryani: If you reset the systems that power Lira Vaal... If you reactivate it, 
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

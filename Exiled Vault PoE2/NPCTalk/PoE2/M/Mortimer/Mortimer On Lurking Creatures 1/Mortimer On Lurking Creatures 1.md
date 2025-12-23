@@ -5,4 +5,6 @@ Mortimer: I am curious to learn more about these creatures... do let me know wha
 
 ---
 ## Tags
+#Character/Mortimer
 #NPCTalk
+#Society/Abyssal 

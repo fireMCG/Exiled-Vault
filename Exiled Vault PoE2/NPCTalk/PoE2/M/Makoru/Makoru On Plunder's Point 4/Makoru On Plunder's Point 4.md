@@ -35,4 +35,6 @@ Makoru: Just let me know and we can be on our way.
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

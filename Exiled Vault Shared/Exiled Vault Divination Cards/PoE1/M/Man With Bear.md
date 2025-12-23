@@ -9,5 +9,7 @@ Bestiary Scarab
 
 ---
 ## Tags
+#Character/Einhar 
 #DivinationCard
+#League/Bestiary
 #PoE1

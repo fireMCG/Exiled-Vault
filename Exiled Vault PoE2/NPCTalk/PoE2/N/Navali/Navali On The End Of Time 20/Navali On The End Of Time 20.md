@@ -24,7 +24,8 @@ Huntress: I've never felt so small. It's humbling.
 Mercenary: Forgive me, miss, but it sounds like you {remember} all these dooms.
  ![[Navali On The End Of Time 20 - L8 - A1.ogg]]
 
-Druid: Ye call it mercy... but what mercy's there in livin' the same hurts, over and over, with no chance to mend 'em?  Sounds like no matter what I do... I'm bound to end up here again.
+Druid: Ye call it mercy... but what mercy's there in livin' the same hurts, over and over, with no chance to mend 'em? 
+ Sounds like no matter what I do... I'm bound to end up here again.
  ![[Navali On The End Of Time 20 - L9 - A1.ogg]] ![[Navali On The End Of Time 20 - L9 - A2.ogg]]
 
 Navali: It is not a question of belief. Hinekora has seen it - and through her eyes, so have I.
@@ -83,4 +84,6 @@ Witch: So... this is what fear feels like... I don't think I like it.
 
 ---
 ## Tags
+#Character/Navali
 #NPCTalk
+#Society/Karui/Tribe/Hinekora 

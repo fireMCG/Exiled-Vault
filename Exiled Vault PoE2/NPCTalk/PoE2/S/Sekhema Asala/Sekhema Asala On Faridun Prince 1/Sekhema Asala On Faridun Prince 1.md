@@ -5,4 +5,9 @@ Sekhema Asala: Jamanra was a worthy opponent, and was given a warrior's death. T
 
 ---
 ## Tags
+#Character/Asala
+#Character/Azmadi
+#Character/Jamanra
 #NPCTalk
+#Society/Faridun 
+#Society/Maraketh 

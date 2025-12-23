@@ -5,4 +5,6 @@ Renly: So this is Kingsmarch. Quite the marvel. And Dannig's forge... Oh, what I
 
 ---
 ## Tags
+#Character/Renly
 #NPCTalk
+#Society/Ezomyte 

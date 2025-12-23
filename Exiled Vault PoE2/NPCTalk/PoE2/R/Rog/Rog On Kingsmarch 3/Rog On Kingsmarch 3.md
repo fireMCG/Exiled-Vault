@@ -24,7 +24,8 @@ Warrior: {Kings}march... hmm. We have Counts and Thanes in Ezomyr.
 Mercenary: Cuttin' in on Trarthan trade, I see. Who's responsible?
  ![[Rog On Kingsmarch 3 - L8 - A1.ogg]]
 
-Druid: Who do ye follow, fat ma– I mean, uh, Rog.
+Druid: Who do ye follow, fat ma–
+ I mean, uh, Rog.
  ![[Rog On Kingsmarch 3 - L9 - A1.ogg]] ![[Rog On Kingsmarch 3 - L9 - A2.ogg]]
 
 Rog, the Dealer: All this has been authorised by the King... and we certainly pay enough taxes that we can never forget that... but we're quite far from home. We're mostly left to our own devices. Oh, except for the King's Hand. He spends a season here each year to make sure we're on the up-and-up.
@@ -32,4 +33,6 @@ Rog, the Dealer: All this has been authorised by the King... and we certainly pa
 
 ---
 ## Tags
+#Character/Rog 
 #NPCTalk
+#Society/Kalguur 

@@ -38,4 +38,6 @@ Kanu: Hmm. Yeah, guess you're right. Nothing's that easy, is it? Let me ask arou
 
 ---
 ## Tags
+#Character/Kanu
 #NPCTalk
+#Society/Karui 

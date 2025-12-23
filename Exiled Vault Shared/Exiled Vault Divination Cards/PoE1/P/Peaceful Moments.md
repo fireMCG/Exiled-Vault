@@ -9,5 +9,6 @@ Timeless Jewel
 
 ---
 ## Tags
+#Concept/Mirror 
 #DivinationCard
 #PoE1

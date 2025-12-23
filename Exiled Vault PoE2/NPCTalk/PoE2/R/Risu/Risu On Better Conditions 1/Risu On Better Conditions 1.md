@@ -5,4 +5,6 @@ Risu: The Ardura sleep wherever we must, like rice scattered in baskets, but I h
 
 ---
 ## Tags
+#Character/Risu 
 #NPCTalk
+#Society/Faridun 

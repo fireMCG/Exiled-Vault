@@ -21,6 +21,9 @@ Sekhema Asala: Yes... greater things are at stake. The Maraketh must unify, so t
 Jado: What impressive work. You may not see the Order of the Djinn in Oriath, but we'll be there... doing what we can. May you have warm nights on your journey.
  ![[Jado On The First Barya 7 - L7 - A1.ogg]] ![[Jado On The First Barya 7 - L7 - A2.ogg]] ![[Jado On The First Barya 7 - L7 - A3.ogg]]
 
+#
 ---
 ## Tags
+#Character/Jado
 #NPCTalk
+#Society/Maraketh

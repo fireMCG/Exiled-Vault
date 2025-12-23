@@ -41,4 +41,6 @@ Matiki: Exactly.
 
 ---
 ## Tags
+#Character/Matiki
 #NPCTalk
+#Society/Karui 

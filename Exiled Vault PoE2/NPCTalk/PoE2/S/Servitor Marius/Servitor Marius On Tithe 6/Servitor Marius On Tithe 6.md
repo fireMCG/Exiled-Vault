@@ -44,4 +44,6 @@ Servitor Marius: He can speak to the details of our plight better than I.
 
 ---
 ## Tags
+#Character/ServitorMarius
 #NPCTalk
+#Society/TwilightOrder 

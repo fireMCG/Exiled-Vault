@@ -35,4 +35,6 @@ Makoru: I just think it's a dangerous game they're playing. Religion always is. 
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

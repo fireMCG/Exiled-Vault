@@ -93,6 +93,14 @@ Druid: Science, magic... both just words for truths older than memory.
 Tujen: Ugh! Never mind.
  ![[Freya Hartlin On Verisium 9 - L31 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/FreyaHartlin
+#Character/Tangmazu 
+#Character/Tujen 
+#Concept/Rune 
+#Concept/Verisium 
+#God/Tangmazu 
 #NPCTalk
+#Society/Kalguur  

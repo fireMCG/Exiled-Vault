@@ -62,4 +62,6 @@ Tujen: Please do.
 
 ---
 ## Tags
+#Character/Tujen 
 #NPCTalk
+#Society/Kalguur 

@@ -21,6 +21,11 @@ Finn: Don't think I'm not happy with it. I just dream big!
 Una: {Two} kitchens, {four} bedrooms... yes, I know.
  ![[Una On The Henge 7 - L7 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Finn 
+#Character/Una 
 #NPCTalk
+#Society/Ezomyte 
+#Timeline 

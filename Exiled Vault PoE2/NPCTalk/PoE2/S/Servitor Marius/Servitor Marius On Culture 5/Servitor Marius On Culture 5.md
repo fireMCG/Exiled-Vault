@@ -21,7 +21,8 @@ Servitor Marius: And you? No memories at all?
 Druid: Nothin' I care to speak of. The Druids are gone. That's all there is to say.
  ![[Servitor Marius On Culture 5 - L7 - A1.ogg]] ![[Servitor Marius On Culture 5 - L7 - A2.ogg]]
 
-Druid: Only fragments... fog and fear and screamin' in the dark.  Bah. The Druids are gone. That's all there is to say.
+Druid: Only fragments... fog and fear and screamin' in the dark. 
+ Bah. The Druids are gone. That's all there is to say.
  ![[Servitor Marius On Culture 5 - L8 - A1.ogg]] ![[Servitor Marius On Culture 5 - L8 - A2.ogg]]
 
 Servitor Marius: Pain leaves scars, wild one - but scars are not the end of you. Devote yourself to the Order, and you may yet find healing.
@@ -32,4 +33,6 @@ Servitor Marius: Pain leaves scars, wild one - but scars are not the end of you.
 
 ---
 ## Tags
+#Character/ServitorMarius
 #NPCTalk
+#Society/TwilightOrder 

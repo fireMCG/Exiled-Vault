@@ -44,4 +44,6 @@ Mercenary: Now there's a story I'm dyin' to hear.
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

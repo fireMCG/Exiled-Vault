@@ -5,4 +5,6 @@ Makoru: So, you found the treasure? I hope Gwennen turns up. Rog must be worried
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

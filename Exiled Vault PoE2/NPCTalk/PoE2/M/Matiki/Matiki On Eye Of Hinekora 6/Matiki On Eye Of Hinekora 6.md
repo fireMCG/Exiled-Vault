@@ -20,4 +20,6 @@ Matiki: Yes, yes... that's fine.
 
 ---
 ## Tags
+#Character/Matiki
 #NPCTalk
+#Society/Karui 

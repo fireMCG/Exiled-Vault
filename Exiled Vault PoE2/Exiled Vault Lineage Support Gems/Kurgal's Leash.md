@@ -4,11 +4,6 @@ collar. He found such ecstasy in the power of dominion,
 he clawed his way free... and soon, supplanted a Lich Lord.
 
 #
-## Effects
-Gain Unholy Might for 5 seconds on Commanding Minions from Supported Skills
-Minions from Supported Skills gain Unholy Might for 5 seconds when Commanded
-
-#
 ![[Kurgal's Leash.png]]
 
 #

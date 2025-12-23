@@ -109,4 +109,11 @@ Alva: You are absolutely... ridiculous...
 
 ---
 ## Tags
+#Character/Alva 
+#Character/Atziri 
+#Concept/Cataclysm 
+#Concept/Eclipse 
+#Concept/Moon 
+#Event/VaalCataclysm 
 #NPCTalk
+#Timeline 

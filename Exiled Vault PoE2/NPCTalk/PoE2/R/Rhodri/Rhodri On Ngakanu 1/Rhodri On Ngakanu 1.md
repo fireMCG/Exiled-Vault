@@ -4,4 +4,5 @@ Rhodri: Tavakai fled there with Makoru. I still can't believe all that's happene
 
 ---
 ## Tags
+#Character/Rhodri
 #NPCTalk

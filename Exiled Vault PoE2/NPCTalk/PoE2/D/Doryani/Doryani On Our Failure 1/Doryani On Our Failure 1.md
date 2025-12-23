@@ -5,4 +5,6 @@ Doryani: I cannot believe it... damn it all! We must not give up... perhaps if w
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

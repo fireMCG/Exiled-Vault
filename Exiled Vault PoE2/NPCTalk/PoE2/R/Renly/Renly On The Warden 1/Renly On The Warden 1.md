@@ -5,4 +5,6 @@ Renly: Many of those stolen away were by the hand of that Warden. The torturous 
 
 ---
 ## Tags
+#Character/Renly
 #NPCTalk
+#Society/Ezomyte 

@@ -10,5 +10,6 @@ Item Level: 84
 
 ---
 ## Tags
+#Concept/Death 
 #DivinationCard
 #PoE1

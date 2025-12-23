@@ -4,12 +4,6 @@ over themselves to do her bidding. Winning a single glance
 away from her mirror meant more than their lives.
 
 #
-## Effects
-Curses inflicted by Supported Skills ignore Curse limit
-Curses inflicted by Supported Skills are reflected back to you
-Supported Skills have 25% less Curse Effect
-
-#
 ![[Atziri's Allure.webp]]
 
 #

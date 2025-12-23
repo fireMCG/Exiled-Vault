@@ -8,4 +8,6 @@ Ruhaki: Do you know of any? I know a quality fella who'll treat them like a quee
 
 ---
 ## Tags
+#Character/Ruhaki
 #NPCTalk
+#Society/Karui 

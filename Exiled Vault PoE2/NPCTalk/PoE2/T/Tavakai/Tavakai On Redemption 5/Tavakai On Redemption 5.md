@@ -59,4 +59,6 @@ Tavakai: I hope you are right. But now, I must redeem my name by the strength of
 
 ---
 ## Tags
+#Character/Tavakai
 #NPCTalk
+#Society/Karui 

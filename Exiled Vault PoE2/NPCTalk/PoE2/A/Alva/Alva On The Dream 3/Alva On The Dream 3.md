@@ -29,4 +29,10 @@ Alva: I didn't get the impression that this was part of a vast empire, or a gran
 
 ---
 ## Tags
+#Character/Alva 
+#Character/Tangmazu 
+#Concept/Dream 
+#Concept/Fragment/Splinter 
+#God/Tangmazu 
+#League/Delirium
 #NPCTalk

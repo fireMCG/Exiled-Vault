@@ -15,6 +15,9 @@ Sekhema Asala: I will not allow him to defile our traditions.
 Jado: Neither will I.
  ![[Jado On The First Barya 5 - L5 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Jado
 #NPCTalk
+#Society/Maraketh

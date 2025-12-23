@@ -38,4 +38,6 @@ Ange: I'll take a small fee, not much at all really... But first order of busine
 
 ---
 ## Tags
+#Character/Ange
 #NPCTalk
+#Society/Kalguur 

@@ -10,5 +10,7 @@ in records of the past.
 
 ---
 ## Tags
+#Character/God/Hinekora 
+#Concept/Cycle 
 #DivinationCard
 #PoE1

@@ -4,4 +4,5 @@ Rhodri: So it wasn't all blunder, eh? There was a giant in the mountain! And you
 
 ---
 ## Tags
+#Character/Rhodri
 #NPCTalk

@@ -12,5 +12,6 @@ Two-Stone Ring
 
 ---
 ## Tags
+#Concept/Virtue 
 #DivinationCard
 #PoE1

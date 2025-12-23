@@ -4,16 +4,6 @@ A scavenging warrior found Tawhoa meditating in a grove.
 "Take my gift to your tribe. Ironwood will grow for all time."
 
 #
-## Effects
-#### Support
-Totems created by Supported
-Skills have 50% more maximum Life
-Totems created by Supported Skills trigger Tawhoa's Vengeance on death
-#### Tawhoa's Vengeance
-Explosion radius is 3 metres
-Explosion deals base Physical Damage equal to 10% of Totem's maximum Life
-
-#
 ![[Tawhoa's Tending.webp]]
 
 #

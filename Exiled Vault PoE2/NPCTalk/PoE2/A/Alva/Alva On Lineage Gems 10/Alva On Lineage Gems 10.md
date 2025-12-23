@@ -49,4 +49,9 @@ Mercenary: More tools for killing. Same as always.
 
 ---
 ## Tags
+#Character/Alva 
+#Concept/Lineage
+#Concept/Music/Song
 #NPCTalk
+#Society/Ezomyte 
+#Society/VaalEmpire 

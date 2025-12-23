@@ -57,4 +57,6 @@ Mercenary: You see me laughin', mate?
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

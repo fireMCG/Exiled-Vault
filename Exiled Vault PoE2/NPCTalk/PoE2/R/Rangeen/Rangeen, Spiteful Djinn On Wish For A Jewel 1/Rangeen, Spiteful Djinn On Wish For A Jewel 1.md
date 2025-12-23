@@ -5,4 +5,6 @@ Rangeen, Spiteful Djinn: Where do you wear such a jewel exactly? Oh... disgustin
 
 ---
 ## Tags
+#Character/Djinn/Rangeen
 #NPCTalk
+#Society/Maraketh 

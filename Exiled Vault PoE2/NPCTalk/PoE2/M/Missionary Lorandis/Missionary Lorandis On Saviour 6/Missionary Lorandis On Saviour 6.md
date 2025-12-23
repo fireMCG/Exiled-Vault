@@ -62,4 +62,6 @@ Missionary Lorandis: You will not regret your visit. There, you'll have the chan
 
 ---
 ## Tags
+#Character/MissionaryLorandis
 #NPCTalk
+#Society/TwilightOrder 

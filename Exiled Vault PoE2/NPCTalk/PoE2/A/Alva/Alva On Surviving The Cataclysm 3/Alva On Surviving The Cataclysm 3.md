@@ -32,4 +32,6 @@ Alva: I've been quite busy studying that Blood Magic tome I found. If I'm honest
 
 ---
 ## Tags
+#Character/Alva 
+#Concept/BloodMagic 
 #NPCTalk

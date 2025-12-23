@@ -10,5 +10,9 @@ Corrupted
 
 ---
 ## Tags
+#Concept/Divinity 
+#Concept/Hope 
+#Concept/Nature/Flower
+#Concept/Within 
 #DivinationCard
 #PoE1

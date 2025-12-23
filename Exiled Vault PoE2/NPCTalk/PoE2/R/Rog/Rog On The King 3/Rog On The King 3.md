@@ -41,4 +41,6 @@ Rog, the Dealer: Alright, never mind then.
 
 ---
 ## Tags
+#Character/Rog 
 #NPCTalk
+#Society/Kalguur 

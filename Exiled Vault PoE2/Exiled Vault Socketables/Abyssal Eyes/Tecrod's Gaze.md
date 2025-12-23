@@ -13,6 +13,7 @@ The Hated Slave seeks dominion for the revenge it enables.
 #
 ---
 ## Tags
-#Abyss
+#Character/Tecrod 
 #PoE2
+#Society/Abyssal 
 #Socketable

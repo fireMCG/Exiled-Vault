@@ -87,4 +87,6 @@ Tujen: Ah, you know, the usual things that make good folk run to the ends of the
 
 ---
 ## Tags
+#Character/Tujen 
 #NPCTalk
+#Society/Kalguur 

@@ -20,4 +20,6 @@ Aye. That you are.
 
 ---
 ## Tags
+#Character/Delwyn
 #NPCTalk
+#Society/Azmeri 

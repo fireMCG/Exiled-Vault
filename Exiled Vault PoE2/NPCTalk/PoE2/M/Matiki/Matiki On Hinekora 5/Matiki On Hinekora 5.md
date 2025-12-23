@@ -38,4 +38,6 @@ Matiki: Ah, in other words, we have no idea, hahaha! But the Halls give us some 
 
 ---
 ## Tags
+#Character/Matiki
 #NPCTalk
+#Society/Karui 

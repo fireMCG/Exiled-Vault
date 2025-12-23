@@ -10,5 +10,9 @@ Sacrifice Fragment
 
 ---
 ## Tags
+#Character/Atziri 
+#Concept/Fragment 
+#Concept/Sacrifice 
+#Concept/Sin/Vanity 
 #DivinationCard
 #PoE1

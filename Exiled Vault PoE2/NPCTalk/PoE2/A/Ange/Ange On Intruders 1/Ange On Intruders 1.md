@@ -5,4 +5,6 @@ Ange: Hmm... it seems there's some rather intrusive wildlife around. Well, we ca
 
 ---
 ## Tags
+#Character/Ange
 #NPCTalk
+#Society/Kalguur 

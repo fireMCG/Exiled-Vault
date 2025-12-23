@@ -77,6 +77,11 @@ Duelist: [DNT]
 Mercenary: I'll give it a good look. See what I can scrounge up.
  ![[Alva On Atziri's Treasure Vaults 23 - L28 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Alva
+#Character/Atziri 
+#Concept/Lust 
 #NPCTalk
+#Society/VaalEmpire 

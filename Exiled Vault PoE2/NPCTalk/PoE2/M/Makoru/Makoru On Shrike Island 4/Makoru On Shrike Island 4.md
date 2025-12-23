@@ -35,4 +35,6 @@ Makoru: It's not really the type of island outsiders should be trespassing on...
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

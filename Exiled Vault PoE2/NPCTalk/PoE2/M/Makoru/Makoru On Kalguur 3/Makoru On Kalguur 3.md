@@ -32,4 +32,6 @@ Makoru: Nah, it's nothing like that. It's just part of their culture. First, som
 
 ---
 ## Tags
+#Character/Makoru
 #NPCTalk
+#Society/Karui 

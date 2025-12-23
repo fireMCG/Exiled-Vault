@@ -29,4 +29,6 @@ Tujen: We'd be in your debt! And... I've got somethin' special with your name on
 
 ---
 ## Tags
+#Character/Tujen 
 #NPCTalk
+#Society/Kalguur 

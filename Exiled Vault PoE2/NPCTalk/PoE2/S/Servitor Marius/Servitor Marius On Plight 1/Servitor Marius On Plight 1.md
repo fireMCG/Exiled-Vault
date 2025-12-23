@@ -5,4 +5,6 @@ Servitor Marius: I can take your pledge, or a tithing. No more, no less.
 
 ---
 ## Tags
+#Character/ServitorMarius
 #NPCTalk
+#Society/TwilightOrder 

@@ -12,5 +12,8 @@ undone at last
 
 ---
 ## Tags
+#Concept/Corruption 
+#Concept/Essence 
+#Concept/Soul 
 #DivinationCard
 #PoE1

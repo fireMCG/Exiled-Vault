@@ -53,4 +53,6 @@ Druid: I've walked those shores. Nothing good grows there.
 
 ---
 ## Tags
+#Character/Tujen 
 #NPCTalk
+#Society/Kalguur 

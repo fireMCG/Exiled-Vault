@@ -10,5 +10,6 @@ Corrupted
 
 ---
 ## Tags
+#Concept/Power 
 #DivinationCard
 #PoE1

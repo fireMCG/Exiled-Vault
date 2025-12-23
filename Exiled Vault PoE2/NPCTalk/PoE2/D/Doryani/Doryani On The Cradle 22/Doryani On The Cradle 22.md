@@ -63,4 +63,6 @@ Ranger: You were an animal caught in a trap, gnawing off its own leg to survive.
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

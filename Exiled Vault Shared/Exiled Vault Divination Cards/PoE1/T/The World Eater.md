@@ -9,5 +9,8 @@ Starforge
 
 ---
 ## Tags
+#Character/EaterOfWorlds 
+#Concept/Hunger 
+#Entity/Tangle 
 #DivinationCard
 #PoE1

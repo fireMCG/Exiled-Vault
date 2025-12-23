@@ -9,5 +9,6 @@ Voltaxic Rift
 
 ---
 ## Tags
+#Concept/Storm 
 #DivinationCard
 #PoE1

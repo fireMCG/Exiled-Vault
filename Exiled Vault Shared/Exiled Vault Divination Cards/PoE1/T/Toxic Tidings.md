@@ -12,5 +12,6 @@ Dendrobate
 
 ---
 ## Tags
+#Character/Einhar 
 #DivinationCard
 #PoE1

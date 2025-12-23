@@ -32,4 +32,6 @@ Tujen: Don't take it personal. We got a lot of people comin' and goin' here. I l
 
 ---
 ## Tags
+#Character/Tujen 
 #NPCTalk
+#Society/Kalguur 

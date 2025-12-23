@@ -5,4 +5,6 @@ Yoon, Remorseful Djinn: A jewel, for one who shines.
 
 ---
 ## Tags
+#Character/Djinn/Yoon
 #NPCTalk
+#Society/Maraketh 

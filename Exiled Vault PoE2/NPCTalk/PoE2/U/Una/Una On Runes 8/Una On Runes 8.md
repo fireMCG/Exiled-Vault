@@ -24,6 +24,11 @@ Una: Yes, darling. You might very well be a hero's descendant.
 Finn: I friggin' knew it!
  ![[Una On Runes 8 - L8 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Finn 
+#Character/Una 
 #NPCTalk
+#Society/Ezomyte 
+#Timeline 

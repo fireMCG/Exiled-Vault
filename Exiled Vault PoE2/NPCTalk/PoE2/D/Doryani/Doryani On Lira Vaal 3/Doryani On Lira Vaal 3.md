@@ -11,4 +11,6 @@ Doryani: I believed all this would be destroyed... Intriguing. Hmm... I wonder..
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

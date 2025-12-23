@@ -52,4 +52,6 @@ Druid: I see. Very well, I'll do what I can.
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

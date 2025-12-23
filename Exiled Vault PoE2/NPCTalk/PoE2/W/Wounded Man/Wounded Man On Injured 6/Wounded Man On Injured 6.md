@@ -39,6 +39,7 @@ Wounded Man: Oh, First Ones bless you.
 Wounded Man: The Miller went off to warn Clearfell 'bout a strange {sickness}, plaguing our men. I was fixin' to go after him, until that {bloody} thing got to me first. Now, all those who drowned in the floodin'... suddenly they ain't so dead no more.
  ![[Wounded Man On Injured 6 - L13 - A1.ogg]] ![[Wounded Man On Injured 6 - L13 - A2.ogg]] ![[Wounded Man On Injured 6 - L13 - A3.ogg]]
 
+#
 ---
 ## Tags
 #NPCTalk

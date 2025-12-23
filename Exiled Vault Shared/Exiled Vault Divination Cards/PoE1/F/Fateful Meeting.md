@@ -1,7 +1,7 @@
 ## Fateful Meeting
 Some people act as beacons, illuminating the path for others. I was lucky to meet one such person.
 
-- Anton to Zhenya
+\- Anton to Zhenya
 ## 
 ![[Fateful Meeting.png]]
 

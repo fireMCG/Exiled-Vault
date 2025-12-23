@@ -1,5 +1,6 @@
 ## The Wrath
-"Daughter of catastrophe, mother of pain. Amongst the filth of Wraeclast, she wanders, and her wrath follows." - Quintoon the Returned
+"Daughter of catastrophe, mother of pain. Amongst the filth of Wraeclast, she wanders, and her wrath follows."
+\- Quintoon the Returned
 ## 
 ![[The Wrath.png]]
 
@@ -9,5 +10,8 @@
 
 ---
 ## Tags
+#Character/Quintoon
+#Concept/Chaos 
+#Concept/Mother 
 #DivinationCard
 #PoE1

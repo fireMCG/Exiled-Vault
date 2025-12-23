@@ -41,4 +41,17 @@ Sekhema Asala: Then we must give chase! Come, let us return to my {akhara}.
 
 ---
 ## Tags
+#Character/Asala
+#Character/Azmadi 
+#Character/Kabala
+#Character/Zarka 
+#Character/Zarokh 
+#Concept/Barya 
+#Location/Wraeclast/Vastiri/Keth 
+#Location/Wraeclast/Vastiri/Qimah
 #NPCTalk
+#Society/Faridun 
+#Society/KabalaClan 
+#Society/Maraketh 
+#Society/OrderOftheDjinn 
+#Society/SelKhari

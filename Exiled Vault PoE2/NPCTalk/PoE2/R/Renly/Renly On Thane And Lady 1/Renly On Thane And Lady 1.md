@@ -5,4 +5,8 @@ Renly: Well, we thought that Thane Wulfric and Lady Elswyth might have been driv
 
 ---
 ## Tags
+#Character/LadyElswyth
+#Character/Renly
+#Character/ThaneWulfric
 #NPCTalk
+#Society/Ezomyte 

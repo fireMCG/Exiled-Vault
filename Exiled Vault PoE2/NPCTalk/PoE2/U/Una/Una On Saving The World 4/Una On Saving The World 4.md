@@ -12,6 +12,10 @@ Una: I'll play songs to soothe our brave soldiers' nerves.
 Finn: Ahh... my talented songbird.
  ![[Una On Saving The World 4 - L4 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Finn 
+#Character/Una 
 #NPCTalk
+#Society/Ezomyte 

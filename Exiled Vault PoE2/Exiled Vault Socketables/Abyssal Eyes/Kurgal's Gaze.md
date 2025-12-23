@@ -13,6 +13,7 @@ The Blackblooded seeks dominion for its own sake.
 #
 ---
 ## Tags
-#Abyss
+#Character/Kurgal
 #PoE2
+#Society/Abyssal 
 #Socketable

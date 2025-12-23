@@ -5,4 +5,6 @@ Kaimana: Ah! You have a fin from the great shark! Yes! Well done! I will get to 
 
 ---
 ## Tags
+#Character/Kaimana
 #NPCTalk
+#Society/Karui 

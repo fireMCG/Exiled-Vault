@@ -10,5 +10,7 @@ Farrul's Fur
 
 ---
 ## Tags
+#Character/God/Farrul
+#Concept/FirstOnes 
 #DivinationCard
 #PoE1

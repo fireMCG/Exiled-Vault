@@ -155,4 +155,6 @@ Matiki: Let us return to your ship. I will show you the way to our most sacred p
 
 ---
 ## Tags
+#Character/Matiki
 #NPCTalk
+#Society/Karui 

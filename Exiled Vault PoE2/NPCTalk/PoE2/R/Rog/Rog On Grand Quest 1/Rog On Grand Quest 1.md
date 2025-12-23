@@ -5,4 +5,6 @@ Rog, the Dealer: The grand quest that brought me here? Oh, no, that's a long sto
 
 ---
 ## Tags
+#Character/Rog 
 #NPCTalk
+#Society/Kalguur 

@@ -10,5 +10,11 @@ when it is dark?"
 
 ---
 ## Tags
+#Concept/Darkness 
+#Concept/Day 
+#Concept/Fracture 
+#Concept/Light 
+#Concept/Night 
+#Concept/Mirror 
 #DivinationCard
 #PoE1

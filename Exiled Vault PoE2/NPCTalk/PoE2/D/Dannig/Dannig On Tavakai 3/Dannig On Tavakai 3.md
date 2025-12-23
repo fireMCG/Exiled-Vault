@@ -32,4 +32,6 @@ Dannig: Our king commanded one of our vessels to hunt and harvest meat from a sa
 
 ---
 ## Tags
+#Character/Dannig 
 #NPCTalk
+#Society/Kalguur 

@@ -35,4 +35,6 @@ The Hooded One: I must go. I cannot risk capture.
 
 ---
 ## Tags
+#Character/Sin 
+#God/Sin 
 #NPCTalk

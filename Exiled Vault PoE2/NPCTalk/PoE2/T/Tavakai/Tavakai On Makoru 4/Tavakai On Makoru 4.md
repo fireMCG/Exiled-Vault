@@ -44,4 +44,6 @@ Tavakai: Ugh. The First Karui Captain of some outsider's fleet, is there really 
 
 ---
 ## Tags
+#Character/Tavakai
 #NPCTalk
+#Society/Karui 

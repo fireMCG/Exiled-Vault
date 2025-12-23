@@ -5,4 +5,6 @@ Rangeen, Spiteful Djinn: May it rot your finger.
 
 ---
 ## Tags
+#Character/Djinn/Rangeen
 #NPCTalk
+#Society/Maraketh 

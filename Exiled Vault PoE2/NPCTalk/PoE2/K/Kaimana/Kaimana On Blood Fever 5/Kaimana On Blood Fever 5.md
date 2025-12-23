@@ -38,4 +38,6 @@ Tavakai: The Blood Fever must end. No matter what it takes.
 
 ---
 ## Tags
+#Character/Kaimana
 #NPCTalk
+#Society/Karui 

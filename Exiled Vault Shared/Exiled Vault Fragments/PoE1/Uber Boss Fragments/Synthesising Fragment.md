@@ -7,6 +7,10 @@ history is rewritten, time after time.
 
 ---
 ## Tags
+#Character/Venarius 
+#Concept/Cycle 
+#Concept/Memory 
+#Concept/Mind 
+#Concept/Time 
 #Fragment
 #PoE1 
-#WiP 

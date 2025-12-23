@@ -85,4 +85,16 @@ Duelist: [DNT]
 
 ---
 ## Tags
+#Character/Alva 
+#Character/Atziri 
+#Character/Kishara 
+#Location/Middengard
+#Location/Wildwood 
+#Location/Wraeclast/Phaaryl
 #NPCTalk
+#Society/Brinerot
+#Society/Ezomyte 
+#Society/Kalguur 
+#Society/Maraketh 
+#Society/VaalEmpire 
+#Timeline 

@@ -4,4 +4,6 @@ Doryani: You should leave quickly. Your gems... when the first wave of Corruptio
 
 ---
 ## Tags
+#Character/Doryani 
 #NPCTalk
+#Society/VaalEmpire 

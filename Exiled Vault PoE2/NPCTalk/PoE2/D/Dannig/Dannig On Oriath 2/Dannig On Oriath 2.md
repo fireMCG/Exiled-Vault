@@ -29,4 +29,6 @@ Druid: I'll do my best to give ye a tale worth tellin'.
 
 ---
 ## Tags
+#Character/Dannig 
 #NPCTalk
+#Society/Kalguur 

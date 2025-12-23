@@ -27,6 +27,9 @@ Mercenary: Your friends are not so pleasant...
 Lurking Creature: This one serves. This one has always served. Unchanging. The master changes, in Kulemak's absence. Amanamu. Ulaman. Kurgal. Never Tecrod. This one does not change. You are here. You are the master, until you are not here.
  ![[Lurking Creature On Unchanging 3 - L9 - A1.ogg]] ![[Lurking Creature On Unchanging 3 - L9 - A2.ogg]] ![[Lurking Creature On Unchanging 3 - L9 - A3.ogg]] ![[Lurking Creature On Unchanging 3 - L9 - A4.ogg]]
 
+#
 ---
 ## Tags
+#Character/LurkingCreature
 #NPCTalk
+#Society/Abyssal 

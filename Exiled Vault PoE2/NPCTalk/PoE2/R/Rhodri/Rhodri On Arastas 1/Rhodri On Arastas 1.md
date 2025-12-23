@@ -4,4 +4,5 @@ Rhodri: Not much to say about that lot. Other than... They're a bunch of nutters
 
 ---
 ## Tags
+#Character/Rhodri
 #NPCTalk

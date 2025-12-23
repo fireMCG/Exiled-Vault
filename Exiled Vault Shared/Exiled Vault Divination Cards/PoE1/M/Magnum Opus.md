@@ -12,5 +12,9 @@ Synthesised
 
 ---
 ## Tags
+#Character/Venarius 
+#Concept/Mind
 #DivinationCard
+#League/Synthesis
+#Location/Wraeclast
 #PoE1

@@ -57,6 +57,9 @@ Druid: Time is a river, aye. Wider than any man - or {monkey} - can see.
 Yama The White: Ahahahaha!
  ![[Yama The White On Mother Of Death 5 - L19 - A1.ogg]]
 
+#
 ---
 ## Tags
+#Character/Yama
 #NPCTalk
+#Society/Karui 

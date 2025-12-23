@@ -7,6 +7,7 @@ in the wake of an ever-expanding archive of minds.
 
 ---
 ## Tags
+#Character/SearingExarch 
+#Entity/CleansingFire 
 #Fragment
 #PoE1 
-#WiP 

@@ -29,4 +29,6 @@ Navali: The Mother of Death is all that stands between us and oblivion. Before s
 
 ---
 ## Tags
+#Character/Navali
 #NPCTalk
+#Society/Karui/Tribe/Hinekora 
