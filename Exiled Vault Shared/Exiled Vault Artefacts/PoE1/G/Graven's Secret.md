@@ -7,5 +7,5 @@ The cowardly thinker's greatest success is simply surviving.
 ## Tags
 #Artefact
 #Character/Graven
-#Character/Maven 
+#Character/Eldritch/Maven 
 #PoE1

@@ -7,7 +7,7 @@ consume all that you have... and more.
 ---
 ## Tags
 #Artefact
-#Character/EaterOfWorlds 
+#Character/Eldritch/EaterOfWorlds 
 #Concept/Hunger 
 #Concept/Power 
 #Entity/Tangle 

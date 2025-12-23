@@ -13,6 +13,6 @@ Tread steady and slow lest you end up below.
 #
 ---
 ## Tags
-#Incursion 
+#League/Incursion 
 #PoE1 
 #Society/VaalEmpire 

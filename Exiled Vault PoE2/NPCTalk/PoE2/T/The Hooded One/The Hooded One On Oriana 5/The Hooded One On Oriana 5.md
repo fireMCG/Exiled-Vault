@@ -38,6 +38,6 @@ Doryani: I was the most reasonable man of my era, and until my hand was forced, 
 
 ---
 ## Tags
-#Character/Sin 
-#God/Sin 
+#Character/God/Sin 
+#Character/God/Sin 
 #NPCTalk

@@ -13,6 +13,6 @@ An opus penned through metal's bend.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

@@ -13,6 +13,6 @@ Zantipi is said to have spent most of his considerable talent devising ambushes 
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

@@ -8,7 +8,7 @@ consuming the knowledge of fallen civilisations.
 ---
 ## Tags
 #Artefact
-#Character/SearingExarch 
+#Character/Eldritch/SearingExarch 
 #Concept/Dawn
 #Concept/Knowledge 
 #Concept/Star 

@@ -46,9 +46,9 @@ Alva: Great! We can leave whenever you're ready, just let me know.
 ---
 ## Tags
 #Character/Alva 
-#Character/Sin 
-#God/Sin 
+#Character/God/Sin 
+#Character/God/Sin 
 #Location/Wraeclast/Kingsmarch
-#Location/Wraeclast/Ngamakanui
+#Location/Wraeclast/KaruiArchipelago/Ngamakanui
 #Location/Wraeclast/Utzaal 
 #NPCTalk

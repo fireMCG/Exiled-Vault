@@ -41,6 +41,6 @@ Doryani: This is the first time in my life I'm forced to admit - I have no idea.
 
 ---
 ## Tags
-#Character/Sin 
-#God/Sin 
+#Character/God/Sin 
+#Character/God/Sin 
 #NPCTalk

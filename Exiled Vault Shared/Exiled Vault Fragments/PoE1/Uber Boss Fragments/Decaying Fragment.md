@@ -7,7 +7,7 @@ those who attempt to struggle only hasten the assimilation.
 
 ---
 ## Tags
-#Character/Elder 
+#Character/Eldritch/Elder 
 #Concept/Horror 
 #Concept/Void 
 #Fragment

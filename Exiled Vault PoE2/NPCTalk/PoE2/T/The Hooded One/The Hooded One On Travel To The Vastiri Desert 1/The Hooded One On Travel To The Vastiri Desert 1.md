@@ -5,6 +5,6 @@ The Hooded One: At this time of year, I know where to find the Ardura {Akhara.} 
 
 ---
 ## Tags
-#Character/Sin 
-#God/Sin 
+#Character/God/Sin 
+#Character/God/Sin 
 #NPCTalk

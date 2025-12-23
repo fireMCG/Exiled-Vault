@@ -5,6 +5,6 @@ The Hooded One: I am struggling to reconcile two men. One is history's greatest 
 
 ---
 ## Tags
-#Character/Sin 
-#God/Sin 
+#Character/God/Sin 
+#Character/God/Sin 
 #NPCTalk

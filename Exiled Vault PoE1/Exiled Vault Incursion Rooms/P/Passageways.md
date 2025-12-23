@@ -13,6 +13,6 @@ Cruel acts debase this tight space.
 #
 ---
 ## Tags
-#Incursion 
+#League/Incursion 
 #PoE1 
 #Society/VaalEmpire 

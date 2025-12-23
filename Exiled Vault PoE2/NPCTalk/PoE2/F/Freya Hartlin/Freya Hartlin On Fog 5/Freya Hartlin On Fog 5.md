@@ -40,10 +40,10 @@ Freya Hartlin: I just have to get out...! It's been too long...
 ---
 ## Tags
 #Character/FreyaHartlin
-#Character/Tangmazu 
+#Character/God/Tangmazu 
 #Character/Tujen
 #Concept/Mist 
 #Concept/Spirit 
-#God/Tangmazu 
+#Character/God/Tangmazu 
 #NPCTalk
 #Society/Kalguur  

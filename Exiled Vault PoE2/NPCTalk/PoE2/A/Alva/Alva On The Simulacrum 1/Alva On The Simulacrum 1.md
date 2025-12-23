@@ -6,8 +6,8 @@ Alva: Now we know where we might find our unwelcome guest. Let's hit the trickst
 ---
 ## Tags
 #Character/Alva 
-#Character/Tangmazu 
+#Character/God/Tangmazu 
 #Concept/Simulacrum
-#God/Tangmazu 
+#Character/God/Tangmazu 
 #League/Delirium
 #NPCTalk

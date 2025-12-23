@@ -6,9 +6,9 @@
 
 ---
 ## Tags
-#Character/Yugul
+#Character/God/Yugul
 #Concept/Fear 
 #Concept/Soul 
-#God/Yugul
+#Character/God/Yugul
 #PoE1 
 #Society/VaalEmpire 

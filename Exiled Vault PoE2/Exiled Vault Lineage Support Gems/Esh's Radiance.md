@@ -9,7 +9,7 @@ now sourceless thought whispers numbers in the dark."
 #
 ---
 ## Tags
-#Character/Esh
+#Character/Breachlord/Esh
 #Concept/Breachlord
 #Concept/Darkness 
 #Concept/Whisper 

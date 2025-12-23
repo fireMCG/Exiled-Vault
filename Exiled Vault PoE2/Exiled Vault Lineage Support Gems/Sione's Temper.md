@@ -17,7 +17,7 @@ heavens. One cross word, and the sky will rain down her fury.
 #Concept/Silver 
 #Concept/Sky 
 #Concept/Vision
-#God/Sione
+#Character/God/Sione
 #Lineage
 #PoE2
 #Society/Karui 

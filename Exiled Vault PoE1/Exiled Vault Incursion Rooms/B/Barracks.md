@@ -13,6 +13,6 @@ Glory charms the men at arms.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

@@ -7,9 +7,9 @@
 ---
 ## Tags
 #Character/Hikatomanga
-#Character/Tukohama
+#Character/God/Tukohama
 #Concept/Light 
 #Concept/God
 #Concept/Soul 
-#God/Tukohama 
+#Character/God/Tukohama 
 #PoE1 

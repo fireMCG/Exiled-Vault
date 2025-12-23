@@ -8,8 +8,8 @@ Tasalio bids you take a moment to stop and enjoy the calm of the ocean.
 ---
 ## Tags
 #AncestorEquipment
-#Character/Tasalio 
+#Character/God/Tasalio 
 #Concept/Water
-#God/Tasalio 
+#Character/God/Tasalio 
 #PoE1 
 #Society/Karui/Tribe/Tasalio 

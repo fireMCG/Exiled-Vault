@@ -6,7 +6,7 @@ Fear can be instilled by the smallest entity.
 ---
 ## Tags
 #Artefact
-#Character/Elder 
+#Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Fear 

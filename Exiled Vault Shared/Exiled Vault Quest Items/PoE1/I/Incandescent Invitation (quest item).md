@@ -6,7 +6,7 @@ the Searing Exarch seeks to master the Atlas.
 
 ---
 ## Tags
-#Character/SearingExarch
+#Character/Eldritch/SearingExarch
 #Concept/AtlasOfWorlds 
 #Concept/Corona
 #Concept/Star 

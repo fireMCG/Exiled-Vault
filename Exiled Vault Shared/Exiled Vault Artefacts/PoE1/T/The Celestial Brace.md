@@ -6,7 +6,7 @@ Forged from the heart of the densest star, your courage will fail long before it
 ---
 ## Tags
 #Artefact
-#Character/SearingExarch
+#Character/Eldritch/SearingExarch
 #Concept/Courage 
 #Concept/Heart 
 #Concept/Star 

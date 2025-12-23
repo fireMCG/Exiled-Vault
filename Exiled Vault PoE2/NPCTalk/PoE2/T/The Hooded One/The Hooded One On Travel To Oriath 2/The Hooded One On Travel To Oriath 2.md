@@ -29,6 +29,6 @@ Druid: To war, then - and whatever end awaits.
 
 ---
 ## Tags
-#Character/Sin 
-#God/Sin 
+#Character/God/Sin 
+#Character/God/Sin 
 #NPCTalk

@@ -7,7 +7,7 @@ held back only by the lies we tell ourselves.
 ---
 ## Tags
 #Artefact
-#Character/Maven
+#Character/Eldritch/Maven
 #Concept/Evil
 #Concept/Mirror 
 #Concept/Within 

@@ -6,7 +6,7 @@ Tarcus Veruso descended from the mountains and led his eighty thousand tribesmen
 ---
 ## Tags
 #Character/Atziri 
-#Character/TarcusVeruso
+#Character/Emperor/TarcusVeruso
 #Concept/Bone
 #Concept/Eye 
 #Concept/Mountain
@@ -14,10 +14,10 @@ Tarcus Veruso descended from the mountains and led his eighty thousand tribesmen
 #Concept/Thaumaturgy
 #Concept/VirtueGem/TearsOfMaji
 #EnvironmentalLore
-#Location/AzalaVaal
-#Location/Highgate
-#Location/Mantle
-#Location/Sarn
+#Location/Wraeclast/AzalaVaal
+#Location/Wraeclast/Highgate
+#Location/Wraeclast/Mantle
+#Location/Wraeclast/Sarn
 #PoE1/Act3
 #Society/Azmeri 
 #Society/EternalEmpire 

@@ -5,6 +5,6 @@ Desert Map: Yes, we can take you to the edge of the desert. Then, we will contin
 
 ---
 ## Tags
-#Character/Asala
+#Character/Sekhema/Asala
 #NPCTalk
 #Society/Maraketh 

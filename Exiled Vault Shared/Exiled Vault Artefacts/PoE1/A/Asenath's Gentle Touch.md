@@ -6,6 +6,6 @@ Cool the head and cool the blade.
 ---
 ## Tags
 #Artefact
-#Character/Asenath
+#Character/Sekhema/Asenath
 #PoE1
 #Society/Maraketh 

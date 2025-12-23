@@ -6,10 +6,10 @@
 
 ---
 ## Tags
-#Character/Abberath
+#Character/God/Abberath
 #Concept/Element/Fire 
 #Concept/Demon
 #Concept/Hearth 
 #Concept/Soul 
-#God/Abberath
+#Character/God/Abberath
 #PoE1 

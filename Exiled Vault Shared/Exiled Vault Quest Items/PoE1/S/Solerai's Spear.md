@@ -6,8 +6,8 @@ They wielded the essence of gold and silver. The Spear is one of the two weapons
 
 ---
 ## Tags
-#Character/Lundara
-#Character/Solerai
+#Character/Sekhema/Lundara
+#Character/Sekhema/Solerai
 #Concept/Gold
 #Concept/Hope
 #Concept/Silver

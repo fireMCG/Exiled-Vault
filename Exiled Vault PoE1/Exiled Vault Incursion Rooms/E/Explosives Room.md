@@ -13,6 +13,6 @@ Cogs assemble to make walls tremble.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

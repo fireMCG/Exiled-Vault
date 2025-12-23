@@ -6,9 +6,9 @@
 
 ---
 ## Tags
-#Character/Ralakesh
+#Character/God/Ralakesh
 #Concept/God
 #Concept/Soul 
-#God/Ralakesh
+#Character/God/Ralakesh
 #PoE1 
 #Society/VaalEmpire 

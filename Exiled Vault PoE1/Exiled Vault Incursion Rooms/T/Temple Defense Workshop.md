@@ -13,6 +13,6 @@ Sanguine wine sups steel spines.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

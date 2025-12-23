@@ -7,7 +7,7 @@ can only create more nothingness.
 ---
 ## Tags
 #Artefact
-#Character/Elder 
+#Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Void 

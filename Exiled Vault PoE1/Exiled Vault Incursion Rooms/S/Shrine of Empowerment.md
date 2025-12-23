@@ -13,6 +13,6 @@ Energies bloom within the gloom.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

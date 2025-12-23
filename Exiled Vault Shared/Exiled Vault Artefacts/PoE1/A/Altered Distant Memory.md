@@ -7,7 +7,7 @@ We had nothing, yet to my mother's credit, I wanted for so little.
 ---
 ## Tags
 #Artefact
-#Character/Venarius
+#Character/HighTemplar/Venarius
 #Concept/Memory
 #Concept/Mother 
 #Concept/Season/Winter 

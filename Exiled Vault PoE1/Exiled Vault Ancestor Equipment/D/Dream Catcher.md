@@ -8,8 +8,8 @@ Tawhoa gifted humanity the ability to dream, so that they may aspire to greater 
 ---
 ## Tags
 #AncestorEquipment
-#Character/Tawhoa 
+#Character/God/Tawhoa 
 #Concept/Dream
-#God/Tawhoa 
+#Character/God/Tawhoa 
 #PoE1 
 #Society/Karui/Tribe/Tawhoa 

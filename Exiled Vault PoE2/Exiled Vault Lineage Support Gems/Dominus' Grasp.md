@@ -9,7 +9,7 @@ matter, they decided to revive an age old tradition... exile.
 #
 ---
 ## Tags
-#Character/Dominus 
+#Character/HighTemplar/Dominus 
 #Character/Piety 
 #Lineage 
 #Society/TemplarOrder 

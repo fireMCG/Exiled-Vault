@@ -13,6 +13,6 @@ Secrets encased by names now erased.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

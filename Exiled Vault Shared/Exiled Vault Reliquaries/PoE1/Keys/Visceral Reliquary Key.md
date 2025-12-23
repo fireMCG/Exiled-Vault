@@ -8,7 +8,7 @@ of whole cultures, of entire worlds.
 
 ---
 ## Tags
-#Character/EaterOfWorlds
+#Character/Eldritch/EaterOfWorlds
 #Concept/Hunger 
 #Concept/World 
 #Entity/Tangle 

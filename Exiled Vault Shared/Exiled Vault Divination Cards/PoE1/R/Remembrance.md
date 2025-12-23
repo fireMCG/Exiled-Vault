@@ -12,7 +12,7 @@ Corrupted
 
 ---
 ## Tags
-#Character/ChitusPerandus 
+#Character/Emperor/ChitusPerandus 
 #Character/JuliusPerandus
 #DivinationCard
 #PoE1

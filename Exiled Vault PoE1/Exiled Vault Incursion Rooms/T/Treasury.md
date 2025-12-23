@@ -13,6 +13,6 @@ Lives shattered for gold scattered.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

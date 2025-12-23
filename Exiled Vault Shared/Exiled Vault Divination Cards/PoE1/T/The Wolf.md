@@ -12,5 +12,5 @@ Rigwald Item
 #Character/Rigwald 
 #Concept/Animal/Wolf 
 #DivinationCard
-#God/Greatwolf 
+#Character/God/Greatwolf 
 #PoE1

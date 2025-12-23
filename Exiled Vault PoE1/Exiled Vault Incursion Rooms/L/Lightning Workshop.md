@@ -13,6 +13,6 @@ Sparks jump between arms of the machine.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

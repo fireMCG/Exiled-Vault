@@ -9,7 +9,7 @@ The Lords were alone, so they grew us, to serve them."
 #
 ---
 ## Tags
-#Character/UulNetol
+#Character/Breachlord/UulNetol
 #Concept/Breachlord 
 #Lineage
 #PoE2

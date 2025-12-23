@@ -13,6 +13,6 @@ Red gifts flow to the pits below.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

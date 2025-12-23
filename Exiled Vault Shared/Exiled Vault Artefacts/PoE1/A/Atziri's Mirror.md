@@ -9,7 +9,7 @@
 #Artefact
 #Character/Atziri 
 #Concept/Death 
-#Concept/Mirror
-#Concept/Wraeclast
+#Concept/Mirror 
+#Location/Wraeclast 
 #PoE1
 #Society/VaalEmpire 

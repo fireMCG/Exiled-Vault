@@ -6,7 +6,7 @@ A great Silence falls...
 
 ---
 ## Tags
-#Character/Elder 
+#Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius 
 #Entity/Decay

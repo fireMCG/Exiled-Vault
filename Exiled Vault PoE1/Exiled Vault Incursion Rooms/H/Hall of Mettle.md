@@ -13,6 +13,6 @@ Fought and died for cowards that hide.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

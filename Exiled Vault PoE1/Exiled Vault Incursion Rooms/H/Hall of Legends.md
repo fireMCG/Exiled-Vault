@@ -13,6 +13,6 @@ The Architects intended to research supposed 'Obelisks Beyond Time,' but the Vaa
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

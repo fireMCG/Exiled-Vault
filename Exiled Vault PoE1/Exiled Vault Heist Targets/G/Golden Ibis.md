@@ -6,7 +6,7 @@ oral history. That's nonsense, of course, but it's still very old, and therefore
 
 ---
 ## Tags
-#Character/CrimsonScribe
+#Character/RingClient/CrimsonScribe
 #Character/Kalandra
 #Concept/Bird 
 #Concept/TimeBeforeTime

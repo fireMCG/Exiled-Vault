@@ -7,7 +7,7 @@ continue to think and dream and beg for silence...
 ---
 ## Tags
 #Artefact
-#Character/SearingExarch 
+#Character/Eldritch/SearingExarch 
 #Concept/Dream 
 #Concept/Mind 
 #Entity/CleansingFire 

@@ -97,10 +97,10 @@ Tujen: Ugh! Never mind.
 ---
 ## Tags
 #Character/FreyaHartlin
-#Character/Tangmazu 
+#Character/God/Tangmazu 
 #Character/Tujen 
 #Concept/Rune 
 #Concept/Verisium 
-#God/Tangmazu 
+#Character/God/Tangmazu 
 #NPCTalk
 #Society/Kalguur  

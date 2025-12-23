@@ -13,6 +13,6 @@ The Architects were certainly fond of their ghost stories. The tales almost soun
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

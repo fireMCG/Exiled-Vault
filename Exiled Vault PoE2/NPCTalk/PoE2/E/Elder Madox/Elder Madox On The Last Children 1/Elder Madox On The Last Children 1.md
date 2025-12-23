@@ -7,9 +7,9 @@ Elder Madox: Solari, Lunari, and Viridi, of course. I know that you know them! H
 ---
 ## Tags
 #Character/ElderMadox 
-#Character/Lunaris 
-#Character/Solaris 
-#Character/Viridi 
+#Character/God/Lunaris 
+#Character/God/Solaris 
+#Character/God/Viridi 
 #Concept/LastChildren
 #Concept/Sky 
 #NPCTalk

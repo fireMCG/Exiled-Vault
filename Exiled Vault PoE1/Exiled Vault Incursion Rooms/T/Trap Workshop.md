@@ -13,6 +13,6 @@ From the hollows, death soon follows.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

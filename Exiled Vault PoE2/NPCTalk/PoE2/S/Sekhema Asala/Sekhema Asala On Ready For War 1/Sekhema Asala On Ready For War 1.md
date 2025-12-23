@@ -5,6 +5,6 @@ Sekhema Asala: This will be a war for the very soul of Wraeclast. I can imagine 
 
 ---
 ## Tags
-#Character/Asala
+#Character/Sekhema/Asala
 #NPCTalk
 #Society/Maraketh 

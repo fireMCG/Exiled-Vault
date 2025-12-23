@@ -8,7 +8,7 @@ symbol of power, not out of love, but out of fear.
 ---
 ## Tags
 #Artefact
-#Character/SearingExarch 
+#Character/Eldritch/SearingExarch 
 #Concept/Crystal 
 #Concept/Fear 
 #Concept/Love 

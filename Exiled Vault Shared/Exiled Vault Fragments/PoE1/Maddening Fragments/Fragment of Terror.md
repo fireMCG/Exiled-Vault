@@ -6,7 +6,7 @@ Fear drives survival.
 
 ---
 ## Tags
-#Character/Elder 
+#Character/Eldritch/Elder 
 #Concept/Fear 
 #Concept/Survival
 #Concept/Horror 

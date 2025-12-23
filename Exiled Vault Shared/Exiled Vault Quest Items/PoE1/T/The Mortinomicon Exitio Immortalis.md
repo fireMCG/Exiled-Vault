@@ -7,13 +7,13 @@ deus meus non sit tam divinus quam ipse petit...
 
 ---
 ## Tags
-#Character/Innocence
+#Character/God/Innocence
 #Character/Lycia
 #Concept/Divinity
 #Concept/Eternity
 #Concept/Immortality
 #Concept/Soul 
-#God/Innocence
+#Character/God/Innocence
 #QuestItem
 #PoE1
 #Timeline 

@@ -7,8 +7,8 @@ as his ruin spread across the land.
 ---
 ## Tags
 #Artefact
-#Character/Abberath
+#Character/God/Abberath
 #Concept/Element/Fire 
 #Concept/King 
-#God/Abberath 
+#Character/God/Abberath 
 #PoE1

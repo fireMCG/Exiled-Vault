@@ -13,6 +13,6 @@ Sweet scents mask foul intents.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

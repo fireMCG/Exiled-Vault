@@ -6,6 +6,6 @@ You must rise from mere amusement to respected equal.
 
 ---
 ## Tags
-#Character/Maven 
+#Character/Eldritch/Maven 
 #Fragment
 #PoE1 

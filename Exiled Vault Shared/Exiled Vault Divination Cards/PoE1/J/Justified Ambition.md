@@ -10,7 +10,7 @@ Synthesis Map
 
 ---
 ## Tags
-#Character/Venarius 
+#Character/HighTemplar/Venarius 
 #Concept/Ambition 
 #DivinationCard
 #League/Synthesis 

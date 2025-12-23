@@ -13,6 +13,6 @@ Madness claws from inky maws.
 #
 ---
 ## Tags
-#Incursion 
+#League/Incursion 
 #PoE1 
 #Society/VaalEmpire 

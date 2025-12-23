@@ -9,7 +9,7 @@ She looked 'round for her sons, but hers was the only chair.
 #
 ---
 ## Tags
-#Character/RomiraPhrecia
+#Character/Emperor/RomiraPhrecia
 #Concept/Cannibalism
 #Event/NightOfAThousandRibbons
 #Lineage

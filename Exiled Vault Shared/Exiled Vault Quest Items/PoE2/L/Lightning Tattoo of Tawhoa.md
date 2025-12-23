@@ -5,8 +5,8 @@ The forest stands tall against the storm.
 
 ---
 ## Tags
-#Character/Tawhoa
-#God/Tawhoa
+#Character/God/Tawhoa
+#Character/God/Tawhoa
 #QuestItem
 #PoE2
 #Society/Karui/Tribe/Tawhoa

@@ -7,7 +7,7 @@ between creator and destroyer.
 ---
 ## Tags
 #Artefact
-#Character/Elder 
+#Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Creation 

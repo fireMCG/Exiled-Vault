@@ -6,7 +6,7 @@ pursuits, but the hammer does.
 
 ---
 ## Tags
-#Character/Kamasa
-#God/Kamasa
+#Character/God/Kamasa
+#Character/God/Kamasa
 #QuestItem
 #PoE2

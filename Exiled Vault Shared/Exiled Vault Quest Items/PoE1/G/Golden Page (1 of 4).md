@@ -8,7 +8,7 @@ as old as civilisation itself."
 
 ---
 ## Tags
-#Character/ChitusPerandus
+#Character/Emperor/ChitusPerandus
 #Character/IciusPerandus
 #Concept/Gemling
 #Concept/VirtueGem 

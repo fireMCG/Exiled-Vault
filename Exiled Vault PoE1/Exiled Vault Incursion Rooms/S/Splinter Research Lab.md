@@ -13,6 +13,6 @@ The Dreamer's call has entranced the Vaal.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

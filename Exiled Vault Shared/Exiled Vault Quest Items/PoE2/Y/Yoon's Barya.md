@@ -5,7 +5,7 @@ Weep not for me. This punishment is my own doing.
 
 ---
 ## Tags
-#Character/Yoon
+#Character/Djinn/Yoon
 #Concept/Barya
 #QuestItem
 #PoE2

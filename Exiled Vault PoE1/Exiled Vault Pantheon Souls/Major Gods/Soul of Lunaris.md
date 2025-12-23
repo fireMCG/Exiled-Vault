@@ -8,13 +8,13 @@
 
 ---
 ## Tags
-#Character/Lunaris 
+#Character/God/Lunaris 
 #Concept/Moon 
 #Concept/Pride 
 #Concept/Sky 
 #Concept/Soul 
 #Concept/Water 
-#God/Lunaris 
+#Character/God/Lunaris 
 #PoE1 
 #Society/Azmeri 
 #Society/EternalEmpire 

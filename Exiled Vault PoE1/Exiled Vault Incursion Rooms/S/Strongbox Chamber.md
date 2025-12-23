@@ -13,6 +13,6 @@ Guarding treasures of extravagant pleasures.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

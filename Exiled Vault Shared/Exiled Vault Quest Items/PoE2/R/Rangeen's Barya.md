@@ -5,7 +5,7 @@ I'd have preferred to go with the Serpent Clan.
 
 ---
 ## Tags
-#Character/Rangeen
+#Character/Djinn/Rangeen
 #Concept/Barya
 #QuestItem
 #PoE2

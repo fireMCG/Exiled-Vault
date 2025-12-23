@@ -8,12 +8,12 @@
 
 ---
 ## Tags
-#Character/Arakaali
+#Character/God/Arakaali
 #Character/Eramir
 #Concept/Darkness 
 #Concept/Heart 
 #Concept/Lust
 #Concept/Soul 
-#God/Arakaali
+#Character/God/Arakaali
 #PoE1 
 #Society/VaalEmpire 

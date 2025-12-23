@@ -14,6 +14,6 @@ Cold and cruel, this pristine pool.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

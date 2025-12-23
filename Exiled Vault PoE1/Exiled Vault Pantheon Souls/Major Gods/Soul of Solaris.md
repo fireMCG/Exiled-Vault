@@ -8,7 +8,7 @@
 
 ---
 ## Tags
-#Character/Solaris
+#Character/God/Solaris
 #Concept/Curse
 #Concept/Element/Fire 
 #Concept/Heart 
@@ -17,7 +17,7 @@
 #Concept/Soul 
 #Concept/Sun 
 #Concept/Wrath
-#God/Solaris 
+#Character/God/Solaris 
 #PoE1 
 #Society/Azmeri 
 #Society/EternalEmpire 

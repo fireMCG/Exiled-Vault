@@ -7,7 +7,7 @@ of countless disintegrated worlds.
 ---
 ## Tags
 #Artefact
-#Character/EaterOfWorlds 
+#Character/Eldritch/EaterOfWorlds 
 #Concept/Ash 
 #Concept/Realm 
 #Concept/Star 

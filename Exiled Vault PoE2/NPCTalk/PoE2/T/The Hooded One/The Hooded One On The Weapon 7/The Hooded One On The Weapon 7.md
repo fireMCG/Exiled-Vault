@@ -44,6 +44,6 @@ The Hooded One: I remember fear. I remember sorrow. But the Azmeri had chosen th
 
 ---
 ## Tags
-#Character/Sin 
-#God/Sin 
+#Character/God/Sin 
+#Character/God/Sin 
 #NPCTalk

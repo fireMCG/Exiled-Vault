@@ -14,6 +14,6 @@ Atzoatl was a locus of Corruption, a temple dedicated to the worship of the unsp
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

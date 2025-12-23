@@ -13,6 +13,6 @@ Relics rust and gather dust.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

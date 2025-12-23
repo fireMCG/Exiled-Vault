@@ -6,7 +6,7 @@ only rediscovered hundreds of years after the death of its unknown author.
 
 ---
 ## Tags
-#Character/CrimsonScribe
+#Character/RingClient/CrimsonScribe
 #Character/Lycia 
 #HeistTarget
 #PoE1 

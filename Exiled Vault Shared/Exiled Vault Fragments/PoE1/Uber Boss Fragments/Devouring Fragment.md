@@ -7,7 +7,7 @@ as the Tangle's champion devours a myriad of worlds...
 
 ---
 ## Tags
-#Character/EaterOfWorlds 
+#Character/Eldritch/EaterOfWorlds 
 #Concept/World 
 #Entity/Tangle 
 #Fragment

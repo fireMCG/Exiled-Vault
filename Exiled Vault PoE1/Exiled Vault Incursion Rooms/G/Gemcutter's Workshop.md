@@ -13,6 +13,6 @@ Destruction stems from within these gems.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

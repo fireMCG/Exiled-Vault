@@ -7,7 +7,7 @@ than the scintillating light of utter clarity.
 ---
 ## Tags
 #Artefact
-#Character/SearingExarch 
+#Character/Eldritch/SearingExarch 
 #Concept/Heaven 
 #Concept/Light 
 #Entity/CleansingFire 

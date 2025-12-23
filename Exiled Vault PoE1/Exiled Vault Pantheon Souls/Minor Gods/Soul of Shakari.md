@@ -6,9 +6,9 @@
 
 ---
 ## Tags
-#Character/Shakari
-#Character/Sin
+#Character/God/Shakari
+#Character/God/Sin
 #Concept/Soul 
-#God/Shakari
-#God/Sin
+#Character/God/Shakari
+#Character/God/Sin
 #PoE1 

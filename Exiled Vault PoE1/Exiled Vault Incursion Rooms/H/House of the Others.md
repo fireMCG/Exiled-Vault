@@ -14,6 +14,6 @@ Atzoatl played host to the Cult of the Purple Flame. I do not know what powers t
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

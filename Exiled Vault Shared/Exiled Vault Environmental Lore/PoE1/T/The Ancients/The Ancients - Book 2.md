@@ -10,8 +10,8 @@ It is said the Vaalish noble, Zerphi, lived for 168 years. That is more than thr
 #Concept/Gemling 
 #Concept/Immortality 
 #Concept/Murder
+#Concept/Number/Thirteen
 #Concept/Sacrifice 
-#Concept/Thirteen
 #Concept/Torture 
 #EnvironmentalLore
 #PoE1/Act3

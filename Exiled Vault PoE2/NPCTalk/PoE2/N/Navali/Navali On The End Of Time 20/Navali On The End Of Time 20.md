@@ -84,6 +84,6 @@ Witch: So... this is what fear feels like... I don't think I like it.
 
 ---
 ## Tags
-#Character/Navali
+#Character/Hatungo/Navali
 #NPCTalk
 #Society/Karui/Tribe/Hinekora 

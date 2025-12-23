@@ -13,6 +13,6 @@ Flesh kissed by the crimson mist.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

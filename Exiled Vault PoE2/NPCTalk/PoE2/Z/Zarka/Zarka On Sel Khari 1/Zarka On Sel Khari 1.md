@@ -6,6 +6,6 @@ Zarka: The location of the {sel khari} is closely guarded. You must never speak 
 #
 ---
 ## Tags
-#Character/Zarka
+#Character/TaleWoman/Zarka
 #NPCTalk
 #Society/Maraketh 

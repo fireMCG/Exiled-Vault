@@ -14,6 +14,6 @@ At the height of their civilization, the Vaal took to ritual combat to solve all
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

@@ -6,7 +6,7 @@ capable of banishing darkness, and bringing order to the chaos in men's hearts.
 
 ---
 ## Tags
-#Character/Innocence 
+#Character/God/Innocence 
 #Concept/Blood
 #Concept/Chaos
 #Concept/Darkness
@@ -14,7 +14,7 @@ capable of banishing darkness, and bringing order to the chaos in men's hearts.
 #Concept/Heart 
 #Concept/Order
 #Concept/Purity 
-#God/Innocence 
+#Character/God/Innocence 
 #QuestItem
 #PoE1
 #Society/TemplarOrder 

@@ -6,7 +6,7 @@ there can be no escape.
 
 ---
 ## Tags
-#Character/BlackStar
+#Character/Eldritch/BlackStar
 #Entity/CleansingFire 
 #QuestItem
 #PoE1

@@ -8,8 +8,8 @@ We shall see whether he was a prophet - or a charlatan.
 ---
 ## Tags
 #Character/BalabusArimor
-#Character/ChitusPerandus
-#Character/MidnightTinkerer
+#Character/Emperor/ChitusPerandus
+#Character/RingClient/MidnightTinkerer
 #Concept/Immortality 
 #Concept/Sacrifice 
 #HeistTarget

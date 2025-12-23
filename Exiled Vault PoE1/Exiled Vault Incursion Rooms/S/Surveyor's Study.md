@@ -13,6 +13,6 @@ Borders drawn; liberties gone.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

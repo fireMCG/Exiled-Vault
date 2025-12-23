@@ -5,6 +5,6 @@ The Hooded One: The trail of Corruption leads east, so east we shall go. It seem
 
 ---
 ## Tags
-#Character/Sin 
-#God/Sin 
+#Character/God/Sin 
+#Character/God/Sin 
 #NPCTalk

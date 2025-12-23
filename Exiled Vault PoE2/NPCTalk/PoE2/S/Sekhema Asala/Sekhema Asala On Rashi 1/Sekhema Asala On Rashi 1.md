@@ -5,7 +5,7 @@ Sekhema Asala: To keep the reserves from running dry, Rashi collects water from 
 
 ---
 ## Tags
-#Character/Asala
+#Character/Sekhema/Asala
 #Character/Rashi
 #Concept/Barya 
 #Concept/Blood 

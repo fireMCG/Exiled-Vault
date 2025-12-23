@@ -13,6 +13,6 @@ The scent of death fills every breath.
 #
 ---
 ## Tags
-#Incursion 
+#League/Incursion 
 #PoE1 
 #Society/VaalEmpire 

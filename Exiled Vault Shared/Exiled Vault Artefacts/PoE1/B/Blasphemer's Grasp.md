@@ -7,7 +7,7 @@ many sought power in the unnatural.
 ---
 ## Tags
 #Artefact
-#Character/Elder 
+#Character/Eldritch/Elder 
 #Concept/Nature 
 #Entity/Decay
 #PoE1

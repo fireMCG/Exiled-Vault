@@ -6,7 +6,7 @@ of strength that, sadly, had no meaning to the dark presence that dismembered hi
 
 ---
 ## Tags
-#Character/Caspiro
+#Character/Emperor/Caspiro
 #Character/KondorLarcius
 #Concept/Darkness 
 #HeistTarget

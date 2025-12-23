@@ -10,7 +10,7 @@ The Atlas is our prison, and our only defence. She is our only hope, and our cer
 ---
 ## Tags
 #Character/Kirac
-#Character/Maven 
+#Character/Eldritch/Maven 
 #Concept/AtlasOfWorlds
 #Concept/Hope 
 #Concept/Prison 
