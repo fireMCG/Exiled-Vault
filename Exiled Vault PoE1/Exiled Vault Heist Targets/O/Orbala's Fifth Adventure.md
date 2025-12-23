@@ -8,7 +8,7 @@ fifth great adventure. I don't particularly care about the story, I just don't w
 ## Tags
 #Character/Bazira 
 #Character/KondorLarcius
-#Character/Orbala 
+#Character/Sekhema/Orbala 
 #HeistTarget
 #PoE1 
 #Society/Maraketh 

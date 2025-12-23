@@ -5,6 +5,6 @@ The Hooded One: Just between us, the existence of this 'Cuachic Vault' gives me 
 
 ---
 ## Tags
-#Character/Sin 
-#God/Sin 
+#Character/God/Sin 
+#Character/God/Sin 
 #NPCTalk

@@ -6,8 +6,8 @@ Give him your body, and your burdens will follow.
 ---
 ## Tags
 #Artefact
-#Character/Apep
+#Character/God/Apep
 #Concept/Flesh 
-#God/Apep
+#Character/God/Apep
 #PoE1
 #Society/VaalEmpire 

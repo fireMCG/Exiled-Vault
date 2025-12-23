@@ -13,6 +13,6 @@ Flames desire to empower the spire.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

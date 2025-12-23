@@ -11,7 +11,7 @@ Elder Item
 
 ---
 ## Tags
-#Character/Elder
+#Character/Eldritch/Elder
 #Character/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Element 

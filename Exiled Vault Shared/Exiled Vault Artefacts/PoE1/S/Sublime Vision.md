@@ -8,7 +8,7 @@ matters but the pursuit of perfection.
 ---
 ## Tags
 #Artefact
-#Character/Elder 
+#Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius
 #Entity/Decay

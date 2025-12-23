@@ -7,7 +7,7 @@ history is rewritten, time after time.
 
 ---
 ## Tags
-#Character/Venarius 
+#Character/HighTemplar/Venarius 
 #Concept/Cycle 
 #Concept/Memory 
 #Concept/Mind 

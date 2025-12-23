@@ -13,6 +13,6 @@ Smoothed stones hide bleached bones.
 #
 ---
 ## Tags
-#Incursion 
+#League/Incursion 
 #PoE1 
 #Society/VaalEmpire 

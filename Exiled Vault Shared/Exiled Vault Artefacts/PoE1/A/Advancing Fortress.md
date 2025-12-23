@@ -9,7 +9,7 @@ In heart, in mind, in hand."
 ---
 ## Tags
 #Artefact
-#Character/Deshret 
+#Character/Sekhema/Deshret 
 #Concept/Hand
 #Concept/Heart 
 #Concept/Mind 

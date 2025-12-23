@@ -6,7 +6,7 @@ Morbid curiosity compels me to add it to my collection of oddities.
 
 ---
 ## Tags
-#Character/AlineKoltz
+#Character/RingClient/AlineKoltz
 #Concept/Horn
 #Concept/Sulphite
 #HeistTarget

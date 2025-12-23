@@ -7,8 +7,8 @@ poison the blood of all Karui."
 
 ---
 ## Tags
-#Character/Tukohama 
-#God/Tukohama 
+#Character/God/Tukohama 
+#Character/God/Tukohama 
 #Concept/Conquest
 #Concept/Eye
 #QuestItem

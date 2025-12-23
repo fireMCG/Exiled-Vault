@@ -42,6 +42,6 @@ Alva: A temple! I like the sound of that. Well go on then. Don't dally!
 ## Tags
 #Character/Alva
 #Concept/Corruption 
-#Location/TempleOfAtzoatl
+#Location/Wraeclast/LiraVaal/TempleOfAtzoatl
 #NPCTalk
 #Society/VaalEmpire 

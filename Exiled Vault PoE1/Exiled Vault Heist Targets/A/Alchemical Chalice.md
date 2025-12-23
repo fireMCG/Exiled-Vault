@@ -6,6 +6,6 @@ It's best if you don't ask too many questions about this one.
 
 ---
 ## Tags
-#Character/Qotra
+#Character/HeistResearcher/Qotra
 #HeistTarget
 #PoE1 

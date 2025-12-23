@@ -13,6 +13,6 @@ Worn hands etch an echoing stretch.
 #
 ---
 ## Tags
-#Incursion 
+#League/Incursion 
 #PoE1 
 #Society/VaalEmpire 

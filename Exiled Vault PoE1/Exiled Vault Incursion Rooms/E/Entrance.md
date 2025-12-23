@@ -13,6 +13,6 @@ The tomb unsealed, what will it yield?
 #
 ---
 ## Tags
-#Incursion 
+#League/Incursion 
 #PoE1 
 #Society/VaalEmpire 

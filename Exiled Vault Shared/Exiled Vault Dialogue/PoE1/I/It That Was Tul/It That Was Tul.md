@@ -271,6 +271,6 @@ We must harness the swarm!
 
 ---
 ## Tags
-#Breach
 #Dialogue
+#League/Breach
 #PoE1

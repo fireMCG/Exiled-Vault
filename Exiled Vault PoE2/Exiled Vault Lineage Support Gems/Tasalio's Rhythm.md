@@ -9,7 +9,7 @@ rolled in, tilting the ship, cresting higher and higher...
 #
 ---
 ## Tags
-#Character/Tasalio 
-#God/Tasalio 
+#Character/God/Tasalio 
+#Character/God/Tasalio 
 #Lineage 
 #Society/Karui/Tribe/Tasalio 

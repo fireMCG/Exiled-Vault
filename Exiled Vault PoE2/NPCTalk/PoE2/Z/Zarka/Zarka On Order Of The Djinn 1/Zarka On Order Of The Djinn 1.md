@@ -6,7 +6,7 @@ Zarka: Ah, so the Order of the Djinn {has} been rebuilding these last twenty yea
 #
 ---
 ## Tags
-#Character/Zarka
+#Character/TaleWoman/Zarka
 #NPCTalk
 #Society/Maraketh 
 #Timeline 

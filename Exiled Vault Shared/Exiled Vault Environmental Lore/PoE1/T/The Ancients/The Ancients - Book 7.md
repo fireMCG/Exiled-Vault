@@ -6,10 +6,10 @@ Five years after Veruso's death, Emperor Caspiro, too, was dead. Although accoun
 ---
 ## Tags
 #Bloodline/Phrecia
-#Character/AlanoPhrecia
-#Character/Caspiro
-#Character/Solaris 
-#Character/TarcusVeruso
+#Character/Emperor/AlanoPhrecia
+#Character/Emperor/Caspiro
+#Character/God/Solaris 
+#Character/Emperor/TarcusVeruso
 #Concept/Beast 
 #Concept/Darkness 
 #Concept/Eternity 
@@ -17,10 +17,10 @@ Five years after Veruso's death, Emperor Caspiro, too, was dead. Although accoun
 #Concept/Mountain 
 #Concept/Night 
 #EnvironmentalLore
-#God/Solaris 
-#Location/AxiomRanges
-#Location/Mantle 
-#Location/Sarn 
+#Character/God/Solaris 
+#Location/Wraeclast/AxiomRanges
+#Location/Wraeclast/Mantle 
+#Location/Wraeclast/Sarn 
 #PoE1/Act3
 #Society/Azmeri 
 #Society/EternalEmpire 

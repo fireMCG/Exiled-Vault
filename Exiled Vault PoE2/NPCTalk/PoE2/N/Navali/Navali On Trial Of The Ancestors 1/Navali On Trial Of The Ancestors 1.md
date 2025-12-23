@@ -5,6 +5,6 @@ Navali: You will one day be welcomed here. Hinekora invites you to fight in our 
 
 ---
 ## Tags
-#Character/Navali
+#Character/Hatungo/Navali
 #NPCTalk
 #Society/Karui/Tribe/Hinekora 

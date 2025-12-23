@@ -13,6 +13,6 @@ The constant din drowns many a sin.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

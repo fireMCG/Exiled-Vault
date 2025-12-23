@@ -10,5 +10,5 @@
 #Concept/Hive
 #Concept/Pride 
 #Concept/Soul 
-#God/Ryslatha
+#Character/God/Ryslatha
 #PoE1 

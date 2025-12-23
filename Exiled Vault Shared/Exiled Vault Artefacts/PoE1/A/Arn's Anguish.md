@@ -7,5 +7,5 @@ The tortured thinker is made heavier by the weight of his guilt.
 ## Tags
 #Artefact
 #Character/Arn
-#Character/Maven 
+#Character/Eldritch/Maven 
 #PoE1

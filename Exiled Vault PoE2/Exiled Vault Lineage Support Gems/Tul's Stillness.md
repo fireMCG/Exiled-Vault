@@ -9,7 +9,7 @@ die. Their eyes remain open, their essence stilled, waiting."
 #
 ---
 ## Tags
-#Character/Tul
+#Character/Breachlord/Tul
 #Concept/Essence 
 #Concept/Eye 
 #Lineage

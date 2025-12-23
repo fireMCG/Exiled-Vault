@@ -89,6 +89,6 @@ Navali: The Mother of Death... has spoken.
 
 ---
 ## Tags
-#Character/Navali
+#Character/Hatungo/Navali
 #NPCTalk
 #Society/Karui/Tribe/Hinekora 

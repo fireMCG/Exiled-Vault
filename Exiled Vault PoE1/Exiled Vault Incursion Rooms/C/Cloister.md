@@ -13,6 +13,6 @@ Cold clay smothers decay.
 #
 ---
 ## Tags
-#Incursion 
+#League/Incursion 
 #PoE1 
 #Society/VaalEmpire 

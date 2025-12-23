@@ -41,6 +41,6 @@ The Hooded One: Yes... at the time, there was no other way... There is one conso
 
 ---
 ## Tags
-#Character/Sin 
-#God/Sin 
+#Character/God/Sin 
+#Character/God/Sin 
 #NPCTalk

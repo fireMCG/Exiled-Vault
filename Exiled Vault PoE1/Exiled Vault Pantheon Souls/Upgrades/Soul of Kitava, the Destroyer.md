@@ -8,7 +8,7 @@ not wanting to give up our youth to the all-consuming flame.
 
 ---
 ## Tags
-#Character/Kitava 
+#Character/God/Kitava 
 #Concept/Soul 
-#God/Kitava 
+#Character/God/Kitava 
 #PoE1 

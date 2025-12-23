@@ -13,6 +13,6 @@ Cries fill the halls, blood stains the walls.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

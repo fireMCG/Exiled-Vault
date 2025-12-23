@@ -10,11 +10,11 @@ Solaris upon the horizon stood and gazed upon the moon. Any army of swords and s
 
 ---
 ## Tags
-#Character/Lunaris 
-#Character/Solaris 
+#Character/God/Lunaris 
+#Character/God/Solaris 
 #Concept/Moon 
 #Concept/Sun 
-#God/Lunaris 
-#God/Solaris 
+#Character/God/Lunaris 
+#Character/God/Solaris 
 #EnvironmentalLore
 #PoE1/Act8

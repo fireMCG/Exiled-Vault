@@ -6,12 +6,12 @@ myths. If I can prove that, I can begin piecing together a true history of the W
 
 ---
 ## Tags
-#Character/CrimsonScribe
-#Character/Solaris
-#Character/Solerai 
+#Character/RingClient/CrimsonScribe
+#Character/God/Solaris
+#Character/Sekhema/Solerai 
 #Concept/Sekhema 
 #Event/WinterOfTheWorld
-#God/Solaris
+#Character/God/Solaris
 #HeistTarget
 #PoE1 
 #Society/Azmeri 

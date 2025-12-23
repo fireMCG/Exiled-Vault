@@ -7,7 +7,7 @@ it wasn't God that the Vaal were trying to reach."
 
 ---
 ## Tags
-#Character/ChitusPerandus
+#Character/Emperor/ChitusPerandus
 #Character/IciusPerandus
 #Concept/Communion
 #Concept/God

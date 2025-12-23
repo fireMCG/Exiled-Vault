@@ -4,7 +4,7 @@ High Templar Dominus {"Dominus, High Templar, 1579-1599 IC. Beheaded by one of t
 #
 ---
 ## Tags
-#Character/Dominus
+#Character/HighTemplar/Dominus
 #EnvironmentalLore
 #Exile 
 #PoE1

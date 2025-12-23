@@ -8,9 +8,9 @@ I ask, why should we fear the fire when we serve the Lord of Light?"
 ---
 ## Tags
 #Artefact
-#Character/Innocence 
+#Character/God/Innocence 
 #Character/Maxarius
-#Character/SearingExarch 
+#Character/Eldritch/SearingExarch 
 #Concept/Damnation 
 #Concept/Dawn 
 #Concept/Death 
@@ -19,5 +19,5 @@ I ask, why should we fear the fire when we serve the Lord of Light?"
 #Concept/Light 
 #Concept/Newcomers
 #Entity/CleansingFire 
-#God/Innocence 
+#Character/God/Innocence 
 #PoE1

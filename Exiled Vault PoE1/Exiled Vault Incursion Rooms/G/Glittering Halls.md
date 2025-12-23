@@ -14,6 +14,6 @@ Trade with lesser cultures, such as the Maraketh and the early Karui, resulted i
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

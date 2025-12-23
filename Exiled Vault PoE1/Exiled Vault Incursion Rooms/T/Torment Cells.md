@@ -13,6 +13,6 @@ They rot for ages in iron cages.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

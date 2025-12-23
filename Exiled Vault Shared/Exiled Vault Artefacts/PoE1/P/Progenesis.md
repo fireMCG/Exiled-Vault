@@ -8,7 +8,7 @@ they fought to the death for every last drop.
 ---
 ## Tags
 #Artefact
-#Character/Maven 
+#Character/Eldritch/Maven 
 #Concept/Cosmos 
 #Concept/Creation
 #Concept/Death 

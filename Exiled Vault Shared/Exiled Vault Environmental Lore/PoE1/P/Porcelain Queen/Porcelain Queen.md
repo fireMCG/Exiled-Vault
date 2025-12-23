@@ -4,10 +4,10 @@ Our mother's queendom has been destroyed. Our brethren \[...........{illegible}.
 
 ---
 ## Tags
-#Character/Arakaali 
-#Character/Gruthkul 
-#God/Arakaali 
-#God/Gruthkul 
+#Character/God/Arakaali 
+#Character/God/Gruthkul 
+#Character/God/Arakaali 
+#Character/God/Gruthkul 
 #EnvironmentalLore 
 #PoE1
 #Society/Nameless

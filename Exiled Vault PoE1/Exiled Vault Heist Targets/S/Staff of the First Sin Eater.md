@@ -6,7 +6,7 @@ Nevertheless, history demands truth, even if it takes centuries to be revealed.
 
 ---
 ## Tags
-#Character/CrimsonScribe
+#Character/RingClient/CrimsonScribe
 #Concept/Sin
 #HeistTarget
 #PoE1 

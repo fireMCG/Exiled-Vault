@@ -5,7 +5,7 @@ When the sun sets, the plains should be red.
 
 ---
 ## Tags
-#Character/Deshret
+#Character/Sekhema/Deshret
 #Concept/Bird 
 #Concept/Dusk
 #Concept/Sun

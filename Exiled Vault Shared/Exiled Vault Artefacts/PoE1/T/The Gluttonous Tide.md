@@ -7,7 +7,7 @@ if but for a moment... only to disgorge and do it all again...
 ---
 ## Tags
 #Artefact
-#Character/EaterOfWorlds 
+#Character/Eldritch/EaterOfWorlds 
 #Concept/Eternity 
 #Concept/Horror 
 #Concept/Hunger 

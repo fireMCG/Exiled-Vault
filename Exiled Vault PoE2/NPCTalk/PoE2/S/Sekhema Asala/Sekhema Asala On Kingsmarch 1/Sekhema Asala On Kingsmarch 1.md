@@ -5,6 +5,6 @@ Sekhema Asala: The Gifting of Water went well. We are ready. I will make prepara
 
 ---
 ## Tags
-#Character/Asala
+#Character/Sekhema/Asala
 #NPCTalk
 #Society/Maraketh 

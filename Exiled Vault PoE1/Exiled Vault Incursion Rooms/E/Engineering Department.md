@@ -13,6 +13,6 @@ Metal moans in fearful tones.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

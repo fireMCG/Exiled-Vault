@@ -5,6 +5,6 @@ The Hooded One: I have long considered it a mistake to bind souls to {baryas}. N
 
 ---
 ## Tags
-#Character/Sin 
-#God/Sin 
+#Character/God/Sin 
+#Character/God/Sin 
 #NPCTalk

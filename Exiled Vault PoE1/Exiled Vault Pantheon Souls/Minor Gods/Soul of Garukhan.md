@@ -6,8 +6,8 @@
 
 ---
 ## Tags
-#Character/Garukhan
+#Character/God/Garukhan
 #Concept/Sky 
 #Concept/Soul 
-#God/Garukhan 
+#Character/God/Garukhan 
 #PoE1 

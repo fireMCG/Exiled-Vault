@@ -9,7 +9,7 @@ no redemption, for he had broken his only barya.
 #
 ---
 ## Tags
-#Character/Zarokh
+#Character/Djinn/Zarokh
 #Concept/Barya 
 #Concept/Djinn 
 #Concept/Prison

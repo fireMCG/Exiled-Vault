@@ -38,6 +38,6 @@ The Hooded One: On we go, then, to build an alliance against the end.
 
 ---
 ## Tags
-#Character/Sin 
-#God/Sin 
+#Character/God/Sin 
+#Character/God/Sin 
 #NPCTalk

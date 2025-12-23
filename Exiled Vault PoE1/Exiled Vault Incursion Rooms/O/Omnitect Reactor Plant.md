@@ -13,6 +13,6 @@ Power flows to where no man goes.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

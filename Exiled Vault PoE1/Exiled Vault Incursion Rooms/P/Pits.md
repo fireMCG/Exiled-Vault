@@ -13,6 +13,6 @@ Each well drenched with rotting stench.
 #
 ---
 ## Tags
-#Incursion 
+#League/Incursion 
 #PoE1 
 #Society/VaalEmpire 

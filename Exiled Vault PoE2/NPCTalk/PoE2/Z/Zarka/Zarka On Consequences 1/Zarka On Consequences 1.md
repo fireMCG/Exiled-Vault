@@ -6,6 +6,6 @@ Zarka: For most, the {sel khari's} secrecy is kept on pain of death... but for y
 #
 ---
 ## Tags
-#Character/Zarka
+#Character/TaleWoman/Zarka
 #NPCTalk
 #Society/Maraketh 

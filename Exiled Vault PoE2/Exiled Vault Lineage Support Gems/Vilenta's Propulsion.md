@@ -9,7 +9,7 @@ energy to speeds never before seen - all to prove Qotra wrong.
 #
 ---
 ## Tags
-#Character/Qotra 
+#Character/HeistResearcher/Qotra 
 #Character/Vilenta 
 #Lineage
 #PoE2

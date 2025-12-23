@@ -7,9 +7,9 @@ the spirit grows strong.
 ---
 ## Tags
 #Artefact
-#Character/Apep
+#Character/God/Apep
 #Concept/Heart 
 #Concept/Sleep 
 #Concept/Spirit 
-#God/Apep
+#Character/God/Apep
 #PoE1

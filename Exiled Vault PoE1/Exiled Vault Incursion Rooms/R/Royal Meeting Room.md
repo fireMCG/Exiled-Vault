@@ -14,6 +14,6 @@ A few beguile the rank and file.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

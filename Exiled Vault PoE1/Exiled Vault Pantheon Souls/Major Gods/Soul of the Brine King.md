@@ -8,7 +8,7 @@
 
 ---
 ## Tags
-#Character/Tsoagoth
+#Character/God/Tsoagoth
 #Concept/Abyss
 #Concept/Dream
 #Concept/Fish 
@@ -16,5 +16,5 @@
 #Concept/Hate 
 #Concept/Realm
 #Concept/Soul 
-#God/Tsoagoth
+#Character/God/Tsoagoth
 #PoE1 

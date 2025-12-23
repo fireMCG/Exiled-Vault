@@ -5,6 +5,6 @@ The Hooded One: The longer one lives, the heavier the weight of time. I must cas
 
 ---
 ## Tags
-#Character/Sin 
-#God/Sin 
+#Character/God/Sin 
+#Character/God/Sin 
 #NPCTalk

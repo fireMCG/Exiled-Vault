@@ -6,7 +6,7 @@ but the men who are guarding it obviously believe the tale, so I do, too.
 
 ---
 ## Tags
-#Character/AlineKoltz
+#Character/RingClient/AlineKoltz
 #Concept/Sky 
 #HeistTarget
 #PoE1 

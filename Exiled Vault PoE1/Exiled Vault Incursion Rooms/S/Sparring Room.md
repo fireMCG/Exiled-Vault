@@ -13,6 +13,6 @@ A sharpened blade breaks the charade.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

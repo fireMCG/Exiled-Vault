@@ -14,6 +14,6 @@ Armour crafted at Atzoatl became the envy of the known world. - Icius Perandus, 
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

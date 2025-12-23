@@ -13,6 +13,6 @@ Darkness drifts through gilded gifts.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

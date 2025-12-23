@@ -13,6 +13,6 @@ Stoic they stand at their Queen's demand.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

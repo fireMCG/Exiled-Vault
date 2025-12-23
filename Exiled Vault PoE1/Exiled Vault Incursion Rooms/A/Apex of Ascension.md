@@ -14,6 +14,6 @@ When the Vaal discovered power could be gained from sacrificing the living, Atzo
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

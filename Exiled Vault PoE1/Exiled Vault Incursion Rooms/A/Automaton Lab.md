@@ -13,6 +13,6 @@ Forged forms assemble in swarms.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

@@ -13,6 +13,6 @@ Dark magics guide a nation's divide.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

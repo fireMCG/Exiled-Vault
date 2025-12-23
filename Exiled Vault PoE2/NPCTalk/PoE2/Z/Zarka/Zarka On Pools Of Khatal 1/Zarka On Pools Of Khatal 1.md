@@ -6,7 +6,7 @@ Zarka: Ah, the Pools of Khatal! I was young and spry last time I dared their rej
 #
 ---
 ## Tags
-#Character/Zarka
+#Character/TaleWoman/Zarka
 #Event/WinterOfTheWorld 
 #NPCTalk
 #Society/Maraketh 

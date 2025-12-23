@@ -13,6 +13,6 @@ Fresh recruits drag iron suits.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

@@ -9,12 +9,12 @@ he lay trapped in silk, wrought with despair and ecstasy.
 #
 ---
 ## Tags
-#Character/Arakaali
-#Character/Sin 
+#Character/God/Arakaali
+#Character/God/Sin 
 #Concept/Despair
 #Concept/Lust 
-#God/Arakaali 
-#God/Sin 
+#Character/God/Arakaali 
+#Character/God/Sin 
 #Lineage
 #PoE2
 #Society/Maraketh 

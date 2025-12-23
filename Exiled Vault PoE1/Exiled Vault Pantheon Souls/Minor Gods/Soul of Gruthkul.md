@@ -6,11 +6,11 @@
 
 ---
 ## Tags
-#Character/Gruthkul
+#Character/God/Gruthkul
 #Concept/Ash
 #Concept/Eclipse
 #Concept/Moon
 #Concept/Mother 
 #Concept/Soul 
-#God/Gruthkul
+#Character/God/Gruthkul
 #PoE1 

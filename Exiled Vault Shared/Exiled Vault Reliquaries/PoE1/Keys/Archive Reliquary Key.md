@@ -7,7 +7,7 @@ the Cleansing Fire keeps eternal...
 
 ---
 ## Tags
-#Character/SearingExarch 
+#Character/Eldritch/SearingExarch 
 #Concept/Eternity 
 #Concept/Mind 
 #Entity/CleansingFire 

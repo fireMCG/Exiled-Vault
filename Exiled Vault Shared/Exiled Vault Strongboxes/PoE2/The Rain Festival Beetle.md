@@ -8,7 +8,7 @@ and its bounty was shared equally by all.
 
 ---
 ## Tags
-#Concept/Animal/Beetle
+#Concept/Animal/Insect/Beetle
 #Concept/Festival
 #Concept/Water/Flood
 #Concept/Water/Rain 

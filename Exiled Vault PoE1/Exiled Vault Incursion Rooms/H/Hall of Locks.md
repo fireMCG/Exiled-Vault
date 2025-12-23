@@ -13,6 +13,6 @@ Locked in the dark, awaiting a mark.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

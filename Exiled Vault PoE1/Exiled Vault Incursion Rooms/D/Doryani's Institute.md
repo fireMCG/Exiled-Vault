@@ -14,6 +14,6 @@ Doryani himself conducted gem research at Atzoatl in its final days. What brilli
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

@@ -6,7 +6,7 @@ every tent in the whole of the Plains blew wildly open.
 
 ---
 ## Tags
-#Character/Orbala
+#Character/Sekhema/Orbala
 #QuestItem
 #PoE2
 #Society/Maraketh 

@@ -13,6 +13,6 @@ Darkness blessed this vile nest.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

@@ -13,6 +13,6 @@ Shadows choke; a lightless yoke.
 #
 ---
 ## Tags
-#Incursion 
+#League/Incursion 
 #PoE1 
 #Society/VaalEmpire 

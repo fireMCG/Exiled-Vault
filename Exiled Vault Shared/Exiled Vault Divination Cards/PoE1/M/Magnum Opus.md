@@ -12,7 +12,7 @@ Synthesised
 
 ---
 ## Tags
-#Character/Venarius 
+#Character/HighTemplar/Venarius 
 #Concept/Mind
 #DivinationCard
 #League/Synthesis

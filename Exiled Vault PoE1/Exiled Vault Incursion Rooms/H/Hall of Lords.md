@@ -13,6 +13,6 @@ From on high they send countless to die.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

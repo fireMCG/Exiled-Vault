@@ -41,11 +41,11 @@ Sekhema Asala: Then we must give chase! Come, let us return to my {akhara}.
 
 ---
 ## Tags
-#Character/Asala
+#Character/Sekhema/Asala
 #Character/Azmadi 
 #Character/Kabala
-#Character/Zarka 
-#Character/Zarokh 
+#Character/TaleWoman/Zarka 
+#Character/Djinn/Zarokh 
 #Concept/Barya 
 #Location/Wraeclast/Vastiri/Keth 
 #Location/Wraeclast/Vastiri/Qimah

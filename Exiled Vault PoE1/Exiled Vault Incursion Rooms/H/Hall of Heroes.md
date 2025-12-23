@@ -13,6 +13,6 @@ Their deeds inspire, their spirits never tire.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

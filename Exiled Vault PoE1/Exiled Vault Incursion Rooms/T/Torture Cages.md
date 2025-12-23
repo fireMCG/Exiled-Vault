@@ -13,6 +13,6 @@ Iron bars tell of the criminal swell.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

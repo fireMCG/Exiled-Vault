@@ -13,6 +13,6 @@ Powers dance with fate and chance.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

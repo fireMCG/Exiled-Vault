@@ -8,8 +8,8 @@ Arohongui looks after all those in need.
 ---
 ## Tags
 #AncestorEquipment
-#Character/Arohongui 
+#Character/God/Arohongui 
 #Concept/Silver 
-#God/Arohongui 
+#Character/God/Arohongui 
 #PoE1 
 #Society/Karui/Tribe/Arohongui 

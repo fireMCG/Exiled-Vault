@@ -7,7 +7,7 @@ as the fingers that drew her bowstring.
 ---
 ## Tags
 #Artefact
-#Character/Asenath
+#Character/Sekhema/Asenath
 #Concept/Mind 
 #PoE1
 #Society/Maraketh 

@@ -13,6 +13,6 @@ Eyes peer through a seam from beyond the dark dream.
 #
 ---
 ## Tags
-#Incursion
+#League/Incursion
 #PoE1
 #Society/VaalEmpire 

@@ -6,6 +6,6 @@ Zarka: There are certain steps that need to be taken to recognise a {Sekhema} of
 #
 ---
 ## Tags
-#Character/Zarka
+#Character/TaleWoman/Zarka
 #NPCTalk
 #Society/Maraketh 

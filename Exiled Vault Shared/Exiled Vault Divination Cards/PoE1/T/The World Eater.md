@@ -9,7 +9,7 @@ Starforge
 
 ---
 ## Tags
-#Character/EaterOfWorlds 
+#Character/Eldritch/EaterOfWorlds 
 #Concept/Hunger 
 #Entity/Tangle 
 #DivinationCard
