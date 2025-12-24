@@ -14,4 +14,5 @@ enjoy eternal life. If that power holds in his ancient ichor, I hope that it can
 #Concept/Resurrection 
 #Character/God/Innocence 
 #HeistTarget
+#League/Heist
 #PoE1 

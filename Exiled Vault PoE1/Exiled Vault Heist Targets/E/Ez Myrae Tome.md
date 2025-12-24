@@ -9,4 +9,5 @@ only rediscovered hundreds of years after the death of its unknown author.
 #Character/RingClient/CrimsonScribe
 #Character/Lycia 
 #HeistTarget
+#League/Heist
 #PoE1 

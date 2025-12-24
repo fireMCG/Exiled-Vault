@@ -10,6 +10,7 @@ fifth great adventure. I don't particularly care about the story, I just don't w
 #Character/KondorLarcius
 #Character/Sekhema/Orbala 
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/Maraketh 
 #Timeline 

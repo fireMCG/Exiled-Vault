@@ -10,5 +10,6 @@
 #AncestorEquipment
 #Concept/Death 
 #Concept/Master
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Kitava

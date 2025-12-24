@@ -7,4 +7,3 @@ If you do not seize your fate, someone else will.
 ---
 ## Tags
 #Scarab
-#WiP 

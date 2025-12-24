@@ -6,5 +6,5 @@ Their troops came in numbers uncountable and from lands unknown.
 
 ---
 ## Tags
+#League/Harbinger
 #Scarab
-#WiP 

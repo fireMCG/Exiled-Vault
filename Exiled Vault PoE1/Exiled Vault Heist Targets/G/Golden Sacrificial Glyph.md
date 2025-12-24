@@ -8,5 +8,6 @@ Dried blood remains trapped in its many deep grooves.
 #Concept/Blood 
 #Concept/Sacrifice 
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/VaalEmpire 

@@ -10,4 +10,5 @@ Morbid curiosity compels me to add it to my collection of oddities.
 #Concept/Horn
 #Concept/Sulphite
 #HeistTarget
+#League/Heist
 #PoE1 

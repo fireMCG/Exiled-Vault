@@ -14,6 +14,7 @@ are one and the same.
 #Concept/FirstOnes 
 #Concept/Flesh 
 #Concept/Sleep
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

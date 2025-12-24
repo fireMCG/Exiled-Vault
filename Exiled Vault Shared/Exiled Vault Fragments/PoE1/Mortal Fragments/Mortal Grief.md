@@ -8,4 +8,3 @@ When we prostrate ourselves to the night, we worship mortality.
 ## Tags
 #Fragment
 #PoE1 
-#WiP 

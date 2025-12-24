@@ -11,6 +11,7 @@ They should tear our enemies asunder.
 ---
 ## Tags
 #Concept/FirstOnes 
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

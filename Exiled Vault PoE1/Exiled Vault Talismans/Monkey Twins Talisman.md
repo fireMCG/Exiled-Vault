@@ -10,6 +10,7 @@ Now we shall paint with inks of savagery.
 ---
 ## Tags
 #Concept/FirstOnes 
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

@@ -14,4 +14,3 @@ Doubles Mana Costs
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

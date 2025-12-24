@@ -13,6 +13,7 @@ wild and free.
 #Concept/Element/Fire
 #Concept/FirstOnes
 #Concept/Hearth
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

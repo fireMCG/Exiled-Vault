@@ -11,6 +11,8 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/F/Foxsha
 
 ---
 ## Tags
+#Concept/Animal/Fox 
+#Concept/Animal/Insect/Spider 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

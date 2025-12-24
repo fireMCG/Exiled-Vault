@@ -6,5 +6,5 @@ The strong are never truly alone.
 
 ---
 ## Tags
+#League/Torment
 #Scarab
-#WiP 

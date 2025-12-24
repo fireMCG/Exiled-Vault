@@ -14,4 +14,3 @@ Inherent Life granted by Strength is halved
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

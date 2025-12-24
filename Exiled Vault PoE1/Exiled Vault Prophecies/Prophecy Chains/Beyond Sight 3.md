@@ -10,6 +10,6 @@ You will slay the cultists and the powerful foes they summon.
 
 ---
 ## Tags
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

@@ -10,6 +10,7 @@ believing it exists, but if it does... I would certainly like to take a sip and 
 #Character/Bazira
 #Concept/Treason
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/Maraketh 
 #Timeline 

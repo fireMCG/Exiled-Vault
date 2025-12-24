@@ -11,6 +11,7 @@ And let the dullard speak of bravery when the First Ones come for him.
 ## Tags
 #Concept/Fear
 #Concept/FirstOnes 
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

@@ -13,4 +13,3 @@ Immune to Chaos Damage and Bleeding
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

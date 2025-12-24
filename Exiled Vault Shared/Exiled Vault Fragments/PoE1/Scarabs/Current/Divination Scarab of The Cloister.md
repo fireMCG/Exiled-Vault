@@ -7,4 +7,3 @@ No disease can be contained forever.
 ---
 ## Tags
 #Scarab
-#WiP 

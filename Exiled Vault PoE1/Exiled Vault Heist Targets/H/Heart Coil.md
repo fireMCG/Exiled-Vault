@@ -8,5 +8,6 @@ machine. This one is an ancient remnant of the work of Vaal engineers.
 ## Tags
 #Character/MarcineClavus
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/VaalEmpire 

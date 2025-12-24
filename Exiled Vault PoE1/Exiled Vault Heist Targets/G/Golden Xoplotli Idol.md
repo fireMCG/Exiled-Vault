@@ -12,5 +12,6 @@ Doesn't have to be your own blood, does it?
 #Concept/Immortality 
 #Concept/Whisper 
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/VaalEmpire 

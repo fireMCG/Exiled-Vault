@@ -11,5 +11,6 @@ A blessing upon all those trees touched by the sacred spirit.
 #Concept/Colour/White
 #Concept/Spirit 
 #Concept/Tree
+#League/Ancestor
 #PoE1 
 #Society/Karui 

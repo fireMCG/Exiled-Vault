@@ -13,4 +13,3 @@ All Damage is taken from Mana before Life
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

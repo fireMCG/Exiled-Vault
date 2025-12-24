@@ -6,5 +6,5 @@ An eternity of blood. Glorious.
 
 ---
 ## Tags
+#League/Legion
 #Scarab
-#WiP 

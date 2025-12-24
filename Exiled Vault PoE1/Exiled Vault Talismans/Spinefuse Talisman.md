@@ -9,6 +9,7 @@ growing lean and strong while our masters grow fat and weak.
 ---
 ## Tags
 #Concept/Master 
+#League/Talisman
 #PoE1
 #Society/EternalEmpire 
 #Society/Ezomyte 

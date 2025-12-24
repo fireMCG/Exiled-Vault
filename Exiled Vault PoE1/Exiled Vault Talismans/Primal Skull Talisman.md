@@ -8,6 +8,7 @@ Yet as is the way of the wildlands, only the strong may grow stronger.
 
 ---
 ## Tags
+#League/Talisman
 #PoE1
 #Society/EternalEmpire 
 #Society/Ezomyte 

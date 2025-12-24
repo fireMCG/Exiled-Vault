@@ -6,5 +6,5 @@ A simple exchange. Blood for power.
 
 ---
 ## Tags
+#League/Domination
 #Scarab
-#WiP 

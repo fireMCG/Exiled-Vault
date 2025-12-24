@@ -13,4 +13,3 @@ Deal no Non-Fire Damage
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

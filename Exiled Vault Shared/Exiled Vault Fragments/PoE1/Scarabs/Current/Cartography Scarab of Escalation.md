@@ -7,4 +7,3 @@ Opportunity thrives where dreams are most perilous.
 ---
 ## Tags
 #Scarab
-#WiP 

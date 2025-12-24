@@ -12,5 +12,7 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/D/Doomfl
 ---
 ## Tags
 #Entity/VaalOversoul
+#League/Prophecy
 #PoE1 
 #Prophecy
+#Society/VaalEmpire 

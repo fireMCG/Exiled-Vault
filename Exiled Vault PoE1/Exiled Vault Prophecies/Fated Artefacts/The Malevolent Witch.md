@@ -11,6 +11,10 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/D/Doedre
 
 ---
 ## Tags
+#Character/Doedre 
+#Concept/Blood 
+#Concept/Darkness 
+#Concept/Witch 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

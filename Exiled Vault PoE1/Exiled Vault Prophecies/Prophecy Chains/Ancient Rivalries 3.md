@@ -10,6 +10,6 @@ You will slay Kaom while wearing one of Lioneye's items.
 
 ---
 ## Tags
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

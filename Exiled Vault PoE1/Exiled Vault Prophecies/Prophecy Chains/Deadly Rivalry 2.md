@@ -10,6 +10,6 @@ You will encounter the rival Exile, now also imbued with Onslaught.
 
 ---
 ## Tags
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

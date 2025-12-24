@@ -8,4 +8,3 @@ Plagues are exhausted, not cured.
 ## Tags
 #Fragment
 #PoE1 
-#WiP 

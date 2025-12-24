@@ -12,4 +12,3 @@ Converts all Evasion Rating to Armour
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

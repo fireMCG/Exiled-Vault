@@ -10,6 +10,6 @@ You will inspect the Ancient Reverie Device in the Chamber of Sins.
 
 ---
 ## Tags
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

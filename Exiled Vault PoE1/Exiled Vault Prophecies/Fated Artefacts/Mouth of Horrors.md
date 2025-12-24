@@ -11,6 +11,9 @@ Upgrades [[Chalice of Horrors]] to [[Thirst for Horrors]] upon completion.
 
 ---
 ## Tags
+#Character/Doedre 
+#Concept/Horror 
+#Concept/Witch 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

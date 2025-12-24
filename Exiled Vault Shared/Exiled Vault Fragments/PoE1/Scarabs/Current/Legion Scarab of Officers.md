@@ -6,5 +6,5 @@ Even a battlefield has middle management.
 
 ---
 ## Tags
+#League/Legion
 #Scarab
-#WiP 

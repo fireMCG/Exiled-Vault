@@ -7,5 +7,6 @@ The Syndicate has learned how to make their own scarabs...
 ---
 ## Tags
 #DropDisabled
+#League/Betrayal
 #Scarab
-#WiP 
+#Society/ImmortalSyndicate

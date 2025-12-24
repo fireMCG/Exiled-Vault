@@ -12,4 +12,3 @@ Mana Leech recovers based on Elemental Damage Types instead of Physical Damage
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

@@ -6,5 +6,5 @@ Whatever the prize, fight for it.
 
 ---
 ## Tags
+#League/Domination
 #Scarab
-#WiP 

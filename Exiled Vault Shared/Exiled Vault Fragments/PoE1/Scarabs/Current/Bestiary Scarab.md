@@ -6,5 +6,6 @@ The Beastmaster answers the call.
 
 ---
 ## Tags
+#Character/Einhar 
+#League/Bestiary 
 #Scarab
-#WiP 

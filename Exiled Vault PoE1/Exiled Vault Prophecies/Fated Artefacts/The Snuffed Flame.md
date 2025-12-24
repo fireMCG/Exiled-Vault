@@ -11,6 +11,10 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/K/Kalten
 
 ---
 ## Tags
+#Concept/Bone 
+#Concept/Element/Fire 
+#Concept/Light 
+#Concept/Stone
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

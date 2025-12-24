@@ -10,6 +10,6 @@ You will encounter and slay several Warbands.
 
 ---
 ## Tags
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

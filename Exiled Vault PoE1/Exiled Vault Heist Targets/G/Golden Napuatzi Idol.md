@@ -10,5 +10,6 @@ Such a gift will set me apart from all other suitors.
 #Character/AntonLaffrey
 #Character/Napuatzi
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/VaalEmpire 

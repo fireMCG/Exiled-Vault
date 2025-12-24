@@ -6,5 +6,5 @@ He draws ever closer...
 
 ---
 ## Tags
+#League/Ritual
 #Scarab
-#WiP 

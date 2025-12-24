@@ -8,4 +8,3 @@ We are but dogs, howling at an uncaring moon.
 ## Tags
 #Fragment
 #PoE1 
-#WiP 

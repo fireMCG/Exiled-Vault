@@ -10,5 +10,6 @@
 #AncestorEquipment
 #Character/Utula 
 #Concept/Blood 
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Kitava 

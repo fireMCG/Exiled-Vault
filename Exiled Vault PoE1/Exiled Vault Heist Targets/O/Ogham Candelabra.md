@@ -8,6 +8,7 @@ finally drove them from our island! That candelabra belongs with us!
 ## Tags
 #Character/Geonor 
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/EternalEmpire 
 #Society/Ezomyte 

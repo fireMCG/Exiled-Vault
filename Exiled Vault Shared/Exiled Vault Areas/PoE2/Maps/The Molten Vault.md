@@ -6,4 +6,3 @@ The cult of Kamasa exploited Utzaal long before its fall.
 ## Tags
 #Map
 #PoE2 
-#WiP 

@@ -10,6 +10,6 @@ You will discover a tome in the Library, Academy Map, Museum Map, or Scriptorium
 
 ---
 ## Tags
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

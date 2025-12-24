@@ -7,5 +7,5 @@ The Nameless begin to slip their bonds of nonexistence...
 ---
 ## Tags
 #DropDisabled
+#League/Bestiary 
 #Scarab
-#WiP 

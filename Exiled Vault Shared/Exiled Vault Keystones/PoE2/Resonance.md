@@ -14,4 +14,3 @@ Gain Endurance Charges instead of Power Charges
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

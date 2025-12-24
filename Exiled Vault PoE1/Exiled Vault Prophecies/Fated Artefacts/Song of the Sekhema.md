@@ -11,6 +11,9 @@ Upgrades [[Asenath's Mark]] to [[Asenath's Chant]] upon completion.
 
 ---
 ## Tags
+#Character/God/Garukhan 
+#Character/Sekhema/Asenath 
+#Concept/Wind 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

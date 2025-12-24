@@ -11,6 +11,6 @@ Upgrades [[Fencoil]] to [[Mirebough]] upon completion.
 
 ---
 ## Tags
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

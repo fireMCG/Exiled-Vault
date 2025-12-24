@@ -11,6 +11,8 @@ Upgrades [[Hyrri's Bite]] to [[Hyrri's Demise]] upon completion.
 
 ---
 ## Tags
+#Character/Hyrri
+#Concept/Honour
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

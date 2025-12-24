@@ -11,6 +11,9 @@ Upgrades [[Reverberation Rod]] to [[Amplification Rod]] upon completion.
 
 ---
 ## Tags
+#Character/Piety 
+#Concept/Blood 
+#Concept/Pious
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

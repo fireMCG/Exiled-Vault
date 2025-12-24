@@ -10,6 +10,6 @@ You will encounter the rival Exile, now imbued with the powers of a Shrine
 
 ---
 ## Tags
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

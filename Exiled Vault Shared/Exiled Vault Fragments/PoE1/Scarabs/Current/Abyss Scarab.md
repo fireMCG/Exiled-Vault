@@ -6,5 +6,7 @@ They search forever for more souls to drag to the dark.
 
 ---
 ## Tags
+#Concept/Darkness 
+#Concept/Soul 
+#League/Abyss 
 #Scarab
-#WiP 

@@ -9,6 +9,7 @@ While the First Ones bring to bear anything that the wildlands provide.
 ---
 ## Tags
 #Concept/FirstOnes 
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

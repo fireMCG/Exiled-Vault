@@ -7,5 +7,5 @@ Lead from the front, and your men will follow you anywhere.
 ---
 ## Tags
 #DropDisabled
+#League/Expedition
 #Scarab
-#WiP 

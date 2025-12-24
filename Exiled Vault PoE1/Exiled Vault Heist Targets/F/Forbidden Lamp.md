@@ -11,5 +11,6 @@ is true, but I cannot allow one of our artifacts to fall into Kondor's hands.
 #Concept/Djinn
 #Concept/Water
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/Maraketh 

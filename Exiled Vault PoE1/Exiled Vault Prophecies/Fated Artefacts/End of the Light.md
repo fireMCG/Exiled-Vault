@@ -11,6 +11,9 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/I/Icetom
 
 ---
 ## Tags
+#Character/God/Tsoagoth 
+#Concept/King 
+#Concept/Light 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

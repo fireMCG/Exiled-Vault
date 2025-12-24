@@ -8,4 +8,3 @@ A carved piece of something older than the Vaal.
 ## Tags
 #Fragment 
 #PoE2 
-#WiP 

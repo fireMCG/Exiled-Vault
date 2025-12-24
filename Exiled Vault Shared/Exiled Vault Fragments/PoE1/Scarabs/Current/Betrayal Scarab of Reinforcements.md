@@ -6,5 +6,5 @@ Move and countermove.
 
 ---
 ## Tags
+#League/Betrayal
 #Scarab
-#WiP 

@@ -11,6 +11,8 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/W/Wonder
 
 ---
 ## Tags
+#Concept/Sin/Greed 
+#Concept/Heart 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

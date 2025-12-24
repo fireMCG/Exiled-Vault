@@ -11,6 +11,10 @@ Upgrades [[The Screaming Eagle]] to [[The Gryphon]] upon completion.
 
 ---
 ## Tags
+#Concept/Animal/Bird/Eagle
+#Concept/Light 
+#Concept/Shadow 
+#Concept/Sun/Broken
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

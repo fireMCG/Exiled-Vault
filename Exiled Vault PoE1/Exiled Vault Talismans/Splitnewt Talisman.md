@@ -13,6 +13,7 @@ From flesh and ferocity, the First Ones roamed through the realm of Spirit, and 
 #Concept/Flesh 
 #Concept/Realm 
 #Concept/Spirit
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

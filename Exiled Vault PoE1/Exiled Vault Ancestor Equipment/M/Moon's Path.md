@@ -9,5 +9,6 @@ The never-ending journey must be walked alone.
 ## Tags
 #AncestorEquipment
 #Concept/Moon 
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Arohongui 

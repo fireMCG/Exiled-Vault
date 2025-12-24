@@ -13,4 +13,3 @@ Energy Shield does not Recharge
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

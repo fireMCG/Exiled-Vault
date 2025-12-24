@@ -7,6 +7,6 @@ but lost his people.
 
 ---
 ## Tags
+#Character/Drox
 #Fragment
 #PoE1 
-#WiP 

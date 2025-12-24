@@ -10,6 +10,7 @@ The monster drops a Sacrifice at Midnight.
 
 ---
 ## Tags
+#Concept/Sacrifice 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

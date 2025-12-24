@@ -10,4 +10,3 @@ Our fate was carved soon."
 ## Tags
 #Map
 #PoE2 
-#WiP 

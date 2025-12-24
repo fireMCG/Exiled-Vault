@@ -10,6 +10,7 @@ Poisons our children with servitude.
 
 ---
 ## Tags
+#League/Talisman
 #PoE1
 #Society/EternalEmpire 
 #Society/Ezomyte 

@@ -10,5 +10,6 @@ This individual, it seems, was all but deified.
 #Character/Uthelius
 #Concept/Slavery 
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/VaalEmpire 

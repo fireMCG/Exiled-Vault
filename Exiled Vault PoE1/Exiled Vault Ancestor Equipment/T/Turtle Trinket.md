@@ -8,5 +8,6 @@ Slow and steady wins the race.
 ---
 ## Tags
 #AncestorEquipment
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Rongokurai 

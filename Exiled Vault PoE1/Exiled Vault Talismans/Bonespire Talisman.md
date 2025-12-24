@@ -11,6 +11,7 @@ For their Spirit is swift and deadly certain.
 ---
 ## Tags
 #Concept/FirstOnes 
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

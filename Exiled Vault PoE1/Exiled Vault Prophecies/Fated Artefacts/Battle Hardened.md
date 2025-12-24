@@ -11,6 +11,8 @@ Upgrades [[The Iron Fortress]] to [[The Iron Fortress]] upon completion.
 
 ---
 ## Tags
+#Character/Gravicius 
+#Concept/Tyranny 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

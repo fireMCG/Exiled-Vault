@@ -8,5 +8,6 @@ Clever archers always have a trick in reserve.
 ---
 ## Tags
 #AncestorEquipment 
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Ramako 

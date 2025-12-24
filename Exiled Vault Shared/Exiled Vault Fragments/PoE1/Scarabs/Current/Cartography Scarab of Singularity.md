@@ -8,4 +8,3 @@ Some regions of the Atlas never change.
 ## Tags
 #DropDisabled
 #Scarab
-#WiP 

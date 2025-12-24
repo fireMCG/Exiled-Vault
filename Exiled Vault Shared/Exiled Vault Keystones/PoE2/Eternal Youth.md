@@ -13,4 +13,3 @@ Life Recharges instead of Energy Shield
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

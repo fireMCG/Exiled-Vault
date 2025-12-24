@@ -11,6 +11,8 @@ Upgrades [[Hrimsorrow]] to [[Hrimburn]] upon completion.
 
 ---
 ## Tags
+#Concept/Element/Fire 
+#Concept/Element/Ice 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

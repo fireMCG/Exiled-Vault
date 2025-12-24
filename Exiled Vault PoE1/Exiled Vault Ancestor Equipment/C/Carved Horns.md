@@ -10,5 +10,6 @@ Passed down through the generations, they protect those who seek Valako's grace.
 #AncestorEquipment
 #Character/God/Valako 
 #Character/God/Valako 
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Valako 

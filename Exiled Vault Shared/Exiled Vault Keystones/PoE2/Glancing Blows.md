@@ -13,4 +13,3 @@ Chance to Deflect is Lucky
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

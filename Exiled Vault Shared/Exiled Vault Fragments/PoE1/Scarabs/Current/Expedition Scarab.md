@@ -6,5 +6,5 @@ They come from across the sea in search of ancient truth.
 
 ---
 ## Tags
+#League/Expedition
 #Scarab
-#WiP 

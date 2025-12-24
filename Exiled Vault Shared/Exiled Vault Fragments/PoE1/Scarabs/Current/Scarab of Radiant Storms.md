@@ -7,4 +7,3 @@ The great cacophony of life roars to a crescendo.
 ---
 ## Tags
 #Scarab
-#WiP 

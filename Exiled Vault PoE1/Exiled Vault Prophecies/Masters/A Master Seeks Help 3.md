@@ -11,5 +11,6 @@ You will find Jun and complete her mission.
 ---
 ## Tags
 #Concept/Balance
+#League/Prophecy
 #PoE1 
 #Prophecy

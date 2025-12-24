@@ -11,6 +11,10 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/H/Heatsh
 
 ---
 ## Tags
+#Concept/Element/Fire 
+#Concept/Season/Winter 
+#Concept/Water/River 
+#Concept/Water/Sea 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

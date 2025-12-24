@@ -11,6 +11,10 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/H/Hrimno
 
 ---
 ## Tags
+#Concept/Death 
+#Concept/Season/Winter
+#Concept/Soul 
+#Concept/Wind 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

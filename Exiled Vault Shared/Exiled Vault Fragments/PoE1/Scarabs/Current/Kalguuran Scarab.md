@@ -6,5 +6,5 @@ Rich veins run deeper still.
 
 ---
 ## Tags
+#League/SettlersOfKalguur
 #Scarab
-#WiP 

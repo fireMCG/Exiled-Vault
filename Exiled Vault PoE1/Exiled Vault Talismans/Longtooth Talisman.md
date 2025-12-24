@@ -9,6 +9,7 @@ We were fools and naive children to turn our backs on our inheritance.
 
 ---
 ## Tags
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

@@ -11,6 +11,7 @@ your hearts would be filled with wonder.
 ---
 ## Tags
 #Concept/Eye
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

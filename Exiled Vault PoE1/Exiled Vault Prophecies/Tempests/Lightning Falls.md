@@ -10,5 +10,6 @@ Areas with this prophecy active have 30% increased item quantity and rarity.
 
 ---
 ## Tags
+#League/Prophecy
 #PoE1 
 #Prophecy
