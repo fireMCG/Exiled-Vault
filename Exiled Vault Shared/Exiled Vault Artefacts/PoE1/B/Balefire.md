@@ -7,7 +7,7 @@ was a memory of that which was gone, a whisper of deeds undone.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Element/Fire
 #Concept/Hunger 
 #Concept/Memory 

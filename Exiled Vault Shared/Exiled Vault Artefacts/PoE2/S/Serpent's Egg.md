@@ -6,5 +6,5 @@ the Sekhemas took a single hostage as punishment.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

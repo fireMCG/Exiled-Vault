@@ -11,4 +11,4 @@ Financial Power is real and loyal."
 ## Tags
 #Bloodline/Perandus
 #PoE1 
-#Strongbox
+#Category/Strongbox

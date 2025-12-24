@@ -6,7 +6,7 @@ the safest place to be is in the centre.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Underground 
 #Concept/World
 #PoE1

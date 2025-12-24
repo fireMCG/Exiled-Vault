@@ -7,5 +7,5 @@ There is nowhere we can run that our sins will not find us now.”
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -7,5 +7,5 @@ At the hands of their storm-god, Valako.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

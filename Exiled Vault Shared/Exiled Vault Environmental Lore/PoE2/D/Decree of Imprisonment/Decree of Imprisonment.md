@@ -6,7 +6,7 @@ The traitor Balbala has been sentenced to one thousand years of suffering as a d
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Maraketh 

@@ -5,5 +5,5 @@ The Sacred Hunt ends with mercy.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

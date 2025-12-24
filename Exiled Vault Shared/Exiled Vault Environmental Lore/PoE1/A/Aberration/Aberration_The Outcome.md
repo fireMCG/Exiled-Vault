@@ -6,6 +6,6 @@ I believed I had set enough safeguards in place to prevent him from following in
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

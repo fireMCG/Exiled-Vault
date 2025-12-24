@@ -8,5 +8,5 @@ And dance with death in trine.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -69,5 +69,5 @@ Druid: Then let us purge what pain still lingers.
 #Character/Atziri 
 #Location/Wraeclast/AzalaVaal
 #Location/Wraeclast/LiraVaal 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

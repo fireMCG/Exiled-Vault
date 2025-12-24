@@ -7,5 +7,5 @@ of the demon that flies on Winter's gales.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

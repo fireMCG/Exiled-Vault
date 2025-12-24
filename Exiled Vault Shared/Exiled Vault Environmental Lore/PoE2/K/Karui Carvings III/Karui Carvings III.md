@@ -6,7 +6,7 @@ I chased them through the jungle, begging them to stop. A cave opened, one that 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Karui 

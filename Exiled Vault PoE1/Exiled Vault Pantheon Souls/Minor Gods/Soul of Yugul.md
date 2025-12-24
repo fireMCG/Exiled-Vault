@@ -7,7 +7,7 @@
 ---
 ## Tags
 #Character/God/Yugul
-#Concept/Fear 
+#Concept/Emotion/Fear 
 #Concept/Soul 
 #Character/God/Yugul
 #PoE1 

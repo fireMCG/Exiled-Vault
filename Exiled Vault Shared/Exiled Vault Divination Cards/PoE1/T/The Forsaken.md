@@ -9,5 +9,5 @@ Umbilicus Immortalis
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

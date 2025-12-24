@@ -6,10 +6,10 @@ We had nothing, yet to my mother's credit, I wanted for so little.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/HighTemplar/Venarius
 #Concept/Memory
-#Concept/Mother 
+#Concept/Family/Mother 
 #Concept/Season/Winter 
 #PoE1
 #Society/TemplarOrder 

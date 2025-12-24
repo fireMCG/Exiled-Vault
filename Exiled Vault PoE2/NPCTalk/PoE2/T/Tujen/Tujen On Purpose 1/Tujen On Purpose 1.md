@@ -6,5 +6,5 @@ Tujen: The others have got their particular interests. I'm mainly here in search
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

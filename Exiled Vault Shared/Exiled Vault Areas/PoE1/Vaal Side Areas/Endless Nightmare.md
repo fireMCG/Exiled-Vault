@@ -10,6 +10,6 @@ Cataclysm soon realised that they had, in fact, done no such thing.
 #
 ---
 ## Tags
-#Area
+#Category/Area
 #Society/VaalEmpire 
-#Timeline 
+#Attributes/Timeline 

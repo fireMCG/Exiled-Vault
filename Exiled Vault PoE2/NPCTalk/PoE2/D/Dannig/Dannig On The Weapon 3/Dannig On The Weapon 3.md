@@ -12,5 +12,5 @@ Dannig: This region has suffered from their dreaded blood fever before. This cou
 ---
 ## Tags
 #Character/Dannig 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

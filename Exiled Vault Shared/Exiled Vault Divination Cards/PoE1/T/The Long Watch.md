@@ -9,5 +9,5 @@ The Fourth Vow
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

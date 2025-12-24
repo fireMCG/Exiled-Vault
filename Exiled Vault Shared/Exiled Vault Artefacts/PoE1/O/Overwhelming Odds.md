@@ -7,5 +7,5 @@ Every last man dying a brutal but honourable death.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

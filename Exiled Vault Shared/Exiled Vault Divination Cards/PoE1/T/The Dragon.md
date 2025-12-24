@@ -12,5 +12,5 @@ Coruscating Elixir
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

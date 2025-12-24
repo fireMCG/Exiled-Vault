@@ -7,5 +7,5 @@ It holds secrets better unknown."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

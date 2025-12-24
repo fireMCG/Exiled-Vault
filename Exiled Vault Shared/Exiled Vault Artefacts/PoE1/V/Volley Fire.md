@@ -9,5 +9,5 @@ would litter the sands.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

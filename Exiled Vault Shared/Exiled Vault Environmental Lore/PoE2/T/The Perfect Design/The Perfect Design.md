@@ -6,7 +6,7 @@ Over and over... I pore over my designs constantly... I know Doryani, or his pro
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/VaalEmpire 

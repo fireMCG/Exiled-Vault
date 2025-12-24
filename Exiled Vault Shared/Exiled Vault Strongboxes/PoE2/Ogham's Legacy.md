@@ -12,4 +12,4 @@ The cycle of vengeance never ends... even in death.
 #Location/Wraeclast/Phaaryl/Ogham
 #PoE2
 #Society/Ezomyte
-#Strongbox
+#Category/Strongbox

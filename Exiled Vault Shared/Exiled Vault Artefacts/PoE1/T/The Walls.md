@@ -7,5 +7,5 @@ protected from those who could save them."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

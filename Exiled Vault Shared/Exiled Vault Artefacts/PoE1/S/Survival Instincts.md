@@ -5,5 +5,5 @@ Observe and master your surroundings.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

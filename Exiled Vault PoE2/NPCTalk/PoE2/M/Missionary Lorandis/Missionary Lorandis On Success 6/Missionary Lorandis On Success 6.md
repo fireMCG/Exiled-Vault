@@ -84,5 +84,5 @@ Missionary Lorandis: Utopia will not remember these gods. They will have no name
 ---
 ## Tags
 #Character/MissionaryLorandis
-#NPCTalk
+#Category/NPCTalk
 #Society/TwilightOrder 

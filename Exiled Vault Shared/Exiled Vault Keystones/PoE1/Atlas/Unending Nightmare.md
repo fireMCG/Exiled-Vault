@@ -13,5 +13,5 @@ Delirium Orbs cannot be found in your Maps
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

@@ -12,5 +12,12 @@ Bloodbond
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Blood 
+#Concept/Colour/Red 
+#Concept/Time/Day 
+#Concept/Body/Eye 
+#Concept/Light 
+#Concept/Mind 
+#Concept/Number/Twelve
+#Item/DivinationCard
 #PoE1

@@ -12,5 +12,5 @@ Legion Encounters in your Maps begin once the Schism has occurred
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

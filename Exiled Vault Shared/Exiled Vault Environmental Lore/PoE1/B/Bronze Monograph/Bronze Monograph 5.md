@@ -5,5 +5,5 @@ A leader cannot simply stride forward into the future and expect his people to b
 ##
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1

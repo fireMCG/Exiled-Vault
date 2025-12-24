@@ -5,5 +5,5 @@ The priests of the  worshipped knowledge, not gods.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

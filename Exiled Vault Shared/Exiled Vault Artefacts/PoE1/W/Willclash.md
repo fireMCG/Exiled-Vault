@@ -5,5 +5,5 @@ Obtaining information depends upon pretending one already has it.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

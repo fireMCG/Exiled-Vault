@@ -8,6 +8,6 @@ corporeal and pellucid in crystal.
 ## Tags
 #Concept/Corruption 
 #Concept/Crystal 
-#Concept/VirtueGem 
-#QuestItem
+#Concept/Virtue/Gem 
+#Item/QuestItem
 #PoE1

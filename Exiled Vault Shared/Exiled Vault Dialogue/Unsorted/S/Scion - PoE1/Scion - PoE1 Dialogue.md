@@ -537,4 +537,4 @@ A Scion is perfection in mind, body, and grace. The crowning glory of our civili
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

@@ -6,4 +6,4 @@ and memories are but a collection of present moments.
 ---
 ## Tags
 #PoE1 
-#Reliquary 
+#Category/Reliquary 

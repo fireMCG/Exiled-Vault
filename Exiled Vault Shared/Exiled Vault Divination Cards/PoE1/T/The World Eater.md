@@ -11,6 +11,6 @@ Starforge
 ## Tags
 #Character/Eldritch/EaterOfWorlds 
 #Concept/Hunger 
-#Entity/Tangle 
-#DivinationCard
+#Concept/Tangle 
+#Item/DivinationCard
 #PoE1

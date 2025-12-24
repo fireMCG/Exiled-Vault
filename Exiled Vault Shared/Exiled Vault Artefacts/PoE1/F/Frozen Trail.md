@@ -7,5 +7,5 @@ and so the advancing Eternals were unwittingly drawn into a deathtrap.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

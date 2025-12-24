@@ -12,4 +12,4 @@ You will read Shavronne's Journal in the Warden's Quarters.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

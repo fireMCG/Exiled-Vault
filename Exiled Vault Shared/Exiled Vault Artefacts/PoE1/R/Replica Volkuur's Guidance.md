@@ -6,5 +6,5 @@ are due to some unknown polarity we have yet to discover."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

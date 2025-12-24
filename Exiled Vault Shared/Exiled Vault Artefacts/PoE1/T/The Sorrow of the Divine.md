@@ -6,5 +6,5 @@ God weeps.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

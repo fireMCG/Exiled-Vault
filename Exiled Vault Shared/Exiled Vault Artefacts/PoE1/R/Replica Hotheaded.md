@@ -7,5 +7,5 @@ master cold and turn it to our own ends..."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,5 +6,5 @@ an ideal weapon for our suppression troops and guards."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

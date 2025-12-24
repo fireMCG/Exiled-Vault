@@ -6,7 +6,7 @@ Winter deepens, bringing a biting chill. I long for it to snow, for the wonder I
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Maraketh 

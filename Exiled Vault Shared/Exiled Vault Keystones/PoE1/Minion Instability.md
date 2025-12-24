@@ -10,5 +10,5 @@ Minions Explode when reduced to Low Life, dealing 33% of their Life as Fire Dama
 
 ---
 ## Tags
-#Keystone
+#Category/Keystone
 #PoE1 

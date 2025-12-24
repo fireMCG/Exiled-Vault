@@ -14,8 +14,8 @@ he clawed his way free... and soon, supplanted a Lich Lord.
 #Concept/Golem 
 #Concept/Lich 
 #Concept/Slavery 
-#Lineage
+#Item/Lineage
 #PoE2
-#Society/Abyssal
-#SupportGem
-#Timeline 
+#Society/Lightless
+#Item/SupportGem
+#Attributes/Timeline 

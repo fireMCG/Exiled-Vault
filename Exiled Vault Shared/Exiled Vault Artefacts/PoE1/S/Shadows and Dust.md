@@ -6,5 +6,5 @@ and death in the wind?
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

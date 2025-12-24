@@ -111,5 +111,5 @@ I see a light... Oh... it's so bright and lovely...
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

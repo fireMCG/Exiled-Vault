@@ -5,5 +5,5 @@ The devil finds work for idle hands.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

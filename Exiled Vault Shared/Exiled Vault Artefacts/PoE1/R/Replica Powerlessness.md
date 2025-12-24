@@ -6,5 +6,5 @@ The suppression troops have stopped responding to my orders. I'm no longer in ch
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

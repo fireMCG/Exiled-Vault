@@ -4,5 +4,5 @@ A city ravaged by time and sands.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

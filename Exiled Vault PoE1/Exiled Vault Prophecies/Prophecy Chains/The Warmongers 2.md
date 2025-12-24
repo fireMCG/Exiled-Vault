@@ -12,4 +12,4 @@ You will encounter and slay several Warbands and their reinforcements.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

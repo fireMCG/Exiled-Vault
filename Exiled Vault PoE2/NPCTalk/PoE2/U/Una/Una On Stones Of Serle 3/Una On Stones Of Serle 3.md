@@ -14,6 +14,6 @@ Una: It was one of the first sites the Ezomytes built when newcomers taught us r
 ## Tags
 #Character/Finn 
 #Character/Una 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 
-#Timeline 
+#Attributes/Timeline 

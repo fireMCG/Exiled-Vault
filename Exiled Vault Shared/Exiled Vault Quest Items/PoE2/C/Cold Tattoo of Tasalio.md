@@ -7,6 +7,6 @@ Tasalio bids you take a moment to stop and enjoy the calm of the ocean.
 ## Tags
 #Character/God/Tasalio 
 #Character/God/Tasalio 
-#QuestItem
+#Item/QuestItem
 #PoE2
 #Society/Karui/Tribe/Tasalio 

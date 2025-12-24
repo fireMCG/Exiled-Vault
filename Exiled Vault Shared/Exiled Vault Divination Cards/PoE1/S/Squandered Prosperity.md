@@ -10,7 +10,7 @@ Corrupted
 
 ---
 ## Tags
-#Concept/Animal/Cat
+#Concept/Animal/Feline/Cat
 #Concept/Light 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

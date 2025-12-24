@@ -4,5 +4,5 @@ Restless prisoners yearn for freedom.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

@@ -6,5 +6,5 @@ and each one succumbed to it.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

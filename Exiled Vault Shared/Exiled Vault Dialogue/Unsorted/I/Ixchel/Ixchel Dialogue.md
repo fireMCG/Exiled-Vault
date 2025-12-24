@@ -2574,5 +2574,5 @@ Ah, a classic! But far fairer now than in ancient times.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #Society/VaalEmpire 

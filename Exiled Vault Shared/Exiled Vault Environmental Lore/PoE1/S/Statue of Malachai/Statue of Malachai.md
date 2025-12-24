@@ -3,5 +3,5 @@ Malachai {"Laureate Thaumaturge to the Eternal Empire, the Father of Dreams, wou
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

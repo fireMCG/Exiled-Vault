@@ -6,5 +6,5 @@ and calculation, not unprovable promises.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

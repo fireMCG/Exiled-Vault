@@ -4,7 +4,7 @@ As the first Brinerot to join the Order, you have much to prove, young Raethan. 
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

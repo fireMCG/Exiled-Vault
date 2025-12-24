@@ -6,5 +6,5 @@ The First of the Night did not hold back her venom. She used it to weaken her en
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

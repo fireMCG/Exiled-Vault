@@ -6,5 +6,5 @@ On the other, you have its twin.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

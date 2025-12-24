@@ -9,5 +9,5 @@ His brother would not atone, so he took his brother's life, and with it, his sin
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

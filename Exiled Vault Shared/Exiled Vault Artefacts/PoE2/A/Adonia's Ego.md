@@ -6,5 +6,5 @@ Adonia rose with eyes afire, emanating a ghastly aura, and broke off a carving f
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

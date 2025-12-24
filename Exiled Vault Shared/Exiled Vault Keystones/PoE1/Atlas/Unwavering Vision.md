@@ -12,5 +12,5 @@ Grants 20 Atlas Passive Skill Points
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

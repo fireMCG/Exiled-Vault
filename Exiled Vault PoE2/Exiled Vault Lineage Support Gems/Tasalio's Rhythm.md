@@ -11,5 +11,5 @@ rolled in, tilting the ship, cresting higher and higher...
 ## Tags
 #Character/God/Tasalio 
 #Character/God/Tasalio 
-#Lineage 
+#Item/Lineage 
 #Society/Karui/Tribe/Tasalio 

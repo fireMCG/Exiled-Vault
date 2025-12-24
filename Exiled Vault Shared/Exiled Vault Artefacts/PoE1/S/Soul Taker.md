@@ -5,5 +5,5 @@ It is too easy for the soul to escape from an open heart.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

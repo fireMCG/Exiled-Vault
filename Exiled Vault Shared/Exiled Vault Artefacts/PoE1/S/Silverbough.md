@@ -5,5 +5,5 @@ The lone tree grows thickest.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

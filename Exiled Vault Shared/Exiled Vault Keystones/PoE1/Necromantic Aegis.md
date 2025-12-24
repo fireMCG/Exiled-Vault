@@ -10,5 +10,5 @@ All bonuses from an Equipped Shield apply to your Minions instead of you
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

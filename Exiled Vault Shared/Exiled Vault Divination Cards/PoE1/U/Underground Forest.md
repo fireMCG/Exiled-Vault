@@ -9,7 +9,7 @@
 
 ---
 ## Tags
-#Concept/Forest
+#Concept/Nature/Forest
 #Concept/Underground
-#DivinationCard
+#Item/DivinationCard
 #PoE1

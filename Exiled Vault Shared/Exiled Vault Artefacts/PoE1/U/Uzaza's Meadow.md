@@ -7,6 +7,6 @@ and only patience and persistence would free them.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
-#Timeline 
+#Attributes/Timeline 

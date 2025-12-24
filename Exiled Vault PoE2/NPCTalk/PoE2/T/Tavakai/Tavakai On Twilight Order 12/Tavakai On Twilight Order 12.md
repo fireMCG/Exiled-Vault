@@ -81,5 +81,5 @@ Druid: Not {all} bad, then.
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

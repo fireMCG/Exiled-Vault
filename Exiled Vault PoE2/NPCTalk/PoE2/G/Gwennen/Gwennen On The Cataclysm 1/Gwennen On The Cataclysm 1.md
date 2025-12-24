@@ -9,5 +9,5 @@ Gwennen: Yet another Cataclysm on Wraeclast. What happened this time? You didn't
 #Character/Gwennen
 #Concept/Cataclysm 
 #Location/Wraeclast/Oriath
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur  

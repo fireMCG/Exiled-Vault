@@ -15,5 +15,5 @@ Aye... and save 'em you did. Just wish it hadn't cost you—us—everythin'. But
 ---
 ## Tags
 #Character/Delwyn
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri 

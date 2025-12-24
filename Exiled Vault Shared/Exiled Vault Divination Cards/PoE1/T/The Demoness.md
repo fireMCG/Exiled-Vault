@@ -9,5 +9,5 @@ Death's Hand
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

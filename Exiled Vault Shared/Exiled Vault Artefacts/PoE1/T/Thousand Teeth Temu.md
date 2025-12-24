@@ -6,5 +6,5 @@ All was woe that seem'd but gladness.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

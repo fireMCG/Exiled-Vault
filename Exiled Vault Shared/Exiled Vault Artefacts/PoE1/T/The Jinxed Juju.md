@@ -7,5 +7,5 @@ Dance, ye dead, at my command!
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

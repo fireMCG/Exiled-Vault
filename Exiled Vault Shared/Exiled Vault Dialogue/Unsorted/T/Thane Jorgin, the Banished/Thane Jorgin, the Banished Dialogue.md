@@ -465,4 +465,4 @@ Good, exile. The strongest wins. I knew one day it would not be me.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

@@ -57,5 +57,5 @@ Kaimana: I will, yes. Go. Save our people.
 ---
 ## Tags
 #Character/Kaimana
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

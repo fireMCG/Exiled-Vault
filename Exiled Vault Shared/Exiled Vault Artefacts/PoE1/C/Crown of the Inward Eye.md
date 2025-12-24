@@ -5,5 +5,5 @@ Divinity is not the only path to enlightenment.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

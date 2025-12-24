@@ -10,6 +10,6 @@ wailing with unknown sorrows, her cries made the skies rage.
 ---
 ## Tags
 #Character/Morgana
-#Lineage 
+#Item/Lineage 
 #Location/Wraeclast/Taisce 
 #Society/Ezomyte 

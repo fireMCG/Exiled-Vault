@@ -89,4 +89,4 @@ When Piety was... experimenting on me, my consciousness was mercifully fleeting.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

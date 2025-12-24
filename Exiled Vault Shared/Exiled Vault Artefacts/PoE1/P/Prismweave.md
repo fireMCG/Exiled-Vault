@@ -5,5 +5,5 @@ Nothing is as vivid as the rage of battle
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

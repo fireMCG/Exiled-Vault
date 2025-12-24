@@ -6,5 +6,5 @@ To be fed upon when he wakes.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

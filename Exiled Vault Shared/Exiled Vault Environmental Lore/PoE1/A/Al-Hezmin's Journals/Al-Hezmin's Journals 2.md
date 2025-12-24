@@ -9,5 +9,5 @@ Al-Hezmin: The greatest hunter alive.
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1 

@@ -12,5 +12,5 @@ Gain no inherent bonus from Strength
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE2 

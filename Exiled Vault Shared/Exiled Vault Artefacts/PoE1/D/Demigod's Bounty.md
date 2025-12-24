@@ -6,5 +6,5 @@ wrap around the throats of the defeated.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

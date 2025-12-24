@@ -673,5 +673,5 @@ With all the gods dead, I suppose I should turn my full attention to you. We sha
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #Society/VaalEmpire 

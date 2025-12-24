@@ -6,5 +6,5 @@ resulted when a lead researcher used an epithet in its presence."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

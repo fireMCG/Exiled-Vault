@@ -11,6 +11,7 @@ Corrupted
 ---
 ## Tags
 #Concept/Power 
+#Concept/Virtue/Gem 
 #Concept/Wealth
-#DivinationCard
+#Item/DivinationCard
 #PoE1

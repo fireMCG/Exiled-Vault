@@ -8,7 +8,7 @@ Upon the frozen wasteland.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Element/Ice 
 #Concept/Mist
 #PoE1

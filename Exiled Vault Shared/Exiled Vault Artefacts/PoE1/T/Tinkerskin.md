@@ -5,5 +5,5 @@ Thin is the line between mechanical genius and magic.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

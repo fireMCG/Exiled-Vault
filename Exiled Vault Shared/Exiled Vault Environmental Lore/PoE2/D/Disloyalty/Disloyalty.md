@@ -6,7 +6,7 @@ Once again, Doryani and I argued over the consequences of the Red Communion. I s
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/VaalEmpire 

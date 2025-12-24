@@ -6,5 +6,5 @@ still exist somewhere in the dark...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

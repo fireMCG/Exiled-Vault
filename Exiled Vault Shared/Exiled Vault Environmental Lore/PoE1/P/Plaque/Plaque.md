@@ -20,5 +20,5 @@ The previous King of Swords was a giant of a man, both faster and stronger than 
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act2

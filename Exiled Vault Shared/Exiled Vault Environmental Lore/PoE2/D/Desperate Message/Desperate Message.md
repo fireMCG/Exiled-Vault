@@ -5,6 +5,6 @@ You must get out. The mouth closed after we touched the rare blue vein of ore, a
 ---
 ## Tags
 #Bloodline/Titan 
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2

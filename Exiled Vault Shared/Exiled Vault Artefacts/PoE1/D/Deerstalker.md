@@ -5,5 +5,5 @@ Anticipation, preparation, exhilaration, celebration.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,5 +6,5 @@ Risu: One day, we will number enough to make Asala divine. Praise be to that day
 ---
 ## Tags
 #Character/Risu 
-#NPCTalk
+#Category/NPCTalk
 #Society/Faridun 

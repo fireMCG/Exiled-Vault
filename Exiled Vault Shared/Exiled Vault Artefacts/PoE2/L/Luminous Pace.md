@@ -5,5 +5,5 @@ Blessed are those who tend the Grove.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

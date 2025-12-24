@@ -13,4 +13,4 @@ Step close, take a chance, and try fortune's fare!
 #Concept/Traveller
 #Character/God/Prospero
 #PoE2
-#Strongbox
+#Category/Strongbox

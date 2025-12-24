@@ -11,5 +11,5 @@ Your Hexes have infinite Duration
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

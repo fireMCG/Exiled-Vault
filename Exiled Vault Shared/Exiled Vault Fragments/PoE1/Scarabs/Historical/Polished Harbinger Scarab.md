@@ -4,7 +4,7 @@ For deciphering the language of the inscrutable ones, honoured Sarina, we charge
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

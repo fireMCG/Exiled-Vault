@@ -6,5 +6,5 @@ If your mind is sharp enough.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,7 +6,7 @@ Behold my glory, and be awed! I am your Queen, and you live to serve me. Never f
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/VaalEmpire 

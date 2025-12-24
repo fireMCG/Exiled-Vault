@@ -7,5 +7,5 @@ Your fate rests in her even hands.
 
 ---
 ## Tags
-#Fragment 
+#Item/Fragment 
 #PoE1 

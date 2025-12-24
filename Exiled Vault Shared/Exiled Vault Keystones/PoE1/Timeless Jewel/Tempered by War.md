@@ -12,5 +12,5 @@ Tasalio and Valako test you, child of the volcano. Prove yourself worthy.
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

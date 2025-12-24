@@ -13,8 +13,8 @@ Upgrades [[Malachai's Simula]] to [[Malachai's Awakening]] upon completion.
 ## Tags
 #Character/Malachai 
 #Concept/Hunger 
-#Concept/Nightmare 
+#Concept/Night/Nightmare 
 #Concept/Soul 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

@@ -9,5 +9,5 @@ Zelina: The first generation sealed in the Cuachic Vault passed down stories abo
 #Character/Doryani 
 #Character/Zelina
 #Location/Wraeclast/MountKriar/CuachicVault
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire/Cuachic

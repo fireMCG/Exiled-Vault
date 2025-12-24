@@ -255,6 +255,6 @@ Xesht nears!
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #League/Breach
 #PoE1

@@ -6,5 +6,5 @@ All form and finesse are forgotten when blood first hits the ground.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

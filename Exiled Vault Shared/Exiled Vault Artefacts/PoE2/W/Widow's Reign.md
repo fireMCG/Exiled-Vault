@@ -7,5 +7,5 @@ the sky was clear, but it was raining.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -6,5 +6,5 @@ Ruhaki: I knew I liked you. Thank you for saving Matiki. He's my favourite Elder
 ---
 ## Tags
 #Character/Ruhaki
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

@@ -13,4 +13,4 @@ Upgrades [[Springleaf]] to [[The Oak]] upon completion.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

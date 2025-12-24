@@ -5,5 +5,5 @@ I didn't trust him at first, but he aided us. Took us to the edge of the wood, b
 ##
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

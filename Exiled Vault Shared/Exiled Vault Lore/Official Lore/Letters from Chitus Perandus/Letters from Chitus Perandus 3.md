@@ -19,5 +19,5 @@ We are Eternal.
 #
 ---
 ## Tags
-#Lore 
-#Timeline 
+#Category/Lore 
+#Attributes/Timeline 

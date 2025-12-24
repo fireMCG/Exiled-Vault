@@ -6,5 +6,5 @@ only in the depths of the harshest sandstorms.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -8,7 +8,7 @@ The divine truth, however, is that both are one and the same.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Atziri
 #Character/Jaetai
 #Concept/Mirror 

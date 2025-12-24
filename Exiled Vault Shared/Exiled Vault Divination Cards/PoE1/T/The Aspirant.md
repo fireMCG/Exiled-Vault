@@ -12,5 +12,9 @@ Influenced Item
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Night/Dream 
+#Concept/Exile
+#Concept/Home
+#Concept/Power 
+#Item/DivinationCard
 #PoE1

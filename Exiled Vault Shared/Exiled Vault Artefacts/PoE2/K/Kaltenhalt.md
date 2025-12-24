@@ -5,5 +5,5 @@ Cold, miserable and alone... but alive.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

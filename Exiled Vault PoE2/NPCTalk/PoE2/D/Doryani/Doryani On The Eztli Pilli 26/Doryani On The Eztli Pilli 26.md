@@ -75,5 +75,5 @@ Doryani: Yes. The 'pluckiness.'
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

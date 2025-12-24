@@ -12,5 +12,5 @@ Daresso's Salute
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

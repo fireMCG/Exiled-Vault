@@ -5,5 +5,5 @@ We serve only the Night.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -9,5 +9,5 @@ Life isn't what you make of it, it's already been made for you.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

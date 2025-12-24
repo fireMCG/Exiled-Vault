@@ -33,5 +33,5 @@ Tujen: Used to think it might change something if I found out what happened to h
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

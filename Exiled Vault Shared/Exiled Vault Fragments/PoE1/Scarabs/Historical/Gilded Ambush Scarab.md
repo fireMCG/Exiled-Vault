@@ -4,7 +4,7 @@ Master Warrior Rindwik fell to one opponent alone: old age. Only the greatest so
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

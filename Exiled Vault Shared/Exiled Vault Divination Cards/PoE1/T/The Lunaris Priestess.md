@@ -12,5 +12,5 @@ Sire of Shards
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

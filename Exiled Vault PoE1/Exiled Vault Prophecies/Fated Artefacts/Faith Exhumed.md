@@ -11,8 +11,8 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/C/Chober
 
 ---
 ## Tags
-#Concept/Faith 
-#Concept/Love 
+#Concept/Religion/Faith 
+#Concept/Emotion/Love 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

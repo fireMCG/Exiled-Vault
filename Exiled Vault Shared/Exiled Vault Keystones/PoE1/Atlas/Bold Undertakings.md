@@ -11,5 +11,5 @@ Fortune Favours the Brave applies an additional random Option
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

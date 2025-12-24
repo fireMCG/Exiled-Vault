@@ -42,5 +42,5 @@ Tavakai: Had we been united in our strength, perhaps history would have told a d
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

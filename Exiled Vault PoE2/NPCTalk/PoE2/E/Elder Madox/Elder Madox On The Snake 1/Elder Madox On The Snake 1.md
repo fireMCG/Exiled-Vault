@@ -7,9 +7,9 @@ Elder Madox: The Spirit is all things. The Spirit is the world, and it is us... 
 ---
 ## Tags
 #Character/ElderMadox 
-#Entity/Mothersoul
-#Entity/Snake
+#Concept/Mothersoul
+#Concept/Animal/Snake
 #Concept/Animal/Snake
 #Concept/Spirit 
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri 

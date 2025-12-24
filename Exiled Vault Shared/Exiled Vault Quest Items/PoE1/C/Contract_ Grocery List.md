@@ -6,5 +6,5 @@ Don't drop them. It's fine if you do, but don't.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

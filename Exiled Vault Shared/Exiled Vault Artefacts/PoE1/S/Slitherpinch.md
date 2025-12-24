@@ -6,5 +6,5 @@ that slips about the neck, so tight.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

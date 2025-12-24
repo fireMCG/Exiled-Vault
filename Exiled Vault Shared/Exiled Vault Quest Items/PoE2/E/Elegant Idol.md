@@ -5,6 +5,6 @@
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE2
 #Society/VaalEmpire 

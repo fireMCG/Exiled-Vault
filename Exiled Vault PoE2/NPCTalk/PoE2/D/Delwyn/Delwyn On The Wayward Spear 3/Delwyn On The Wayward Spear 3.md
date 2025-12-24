@@ -18,5 +18,5 @@ Delwyn: Truth is, a lotta people are dead because o' her... and now, no more wil
 ---
 ## Tags
 #Character/Delwyn
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri 

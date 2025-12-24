@@ -6,5 +6,5 @@ The rest will come naturally.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

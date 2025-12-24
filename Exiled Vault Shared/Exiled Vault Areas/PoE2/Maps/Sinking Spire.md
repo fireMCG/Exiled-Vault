@@ -4,5 +4,5 @@ This Vaal structure is not lost in the jungle. Not yet.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

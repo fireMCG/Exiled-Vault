@@ -5,5 +5,5 @@ Pain brings clarity.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

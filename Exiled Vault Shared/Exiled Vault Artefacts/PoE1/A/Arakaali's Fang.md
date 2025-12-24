@@ -5,7 +5,7 @@ All children must eat.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/God/Arakaali 
 #Character/God/Arakaali 
 #PoE1

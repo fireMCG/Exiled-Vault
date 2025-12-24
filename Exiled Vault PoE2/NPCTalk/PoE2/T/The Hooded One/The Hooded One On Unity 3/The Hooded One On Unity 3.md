@@ -34,4 +34,4 @@ Druid: Then let's be done with it. Time the Beast met its end.
 ## Tags
 #Character/God/Sin 
 #Character/God/Sin 
-#NPCTalk
+#Category/NPCTalk

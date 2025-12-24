@@ -6,5 +6,5 @@ A single attempt of a spell with this unexpected power destroyed an entire floor
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

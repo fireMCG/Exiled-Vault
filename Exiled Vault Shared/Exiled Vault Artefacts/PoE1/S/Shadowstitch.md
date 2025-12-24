@@ -5,5 +5,5 @@ Destined for sacrifice, they were dressed in garments that blurred the lines bet
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

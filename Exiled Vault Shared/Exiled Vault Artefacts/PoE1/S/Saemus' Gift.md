@@ -8,5 +8,5 @@ Guided by darkness, Magjar spilled the blood of his love
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

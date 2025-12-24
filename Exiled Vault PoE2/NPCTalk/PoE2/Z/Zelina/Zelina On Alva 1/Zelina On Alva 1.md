@@ -9,5 +9,5 @@ Zelina: I am intrigued by Alva's existence. We were sent to the vault to act as 
 #Character/Alva
 #Character/Doryani 
 #Character/Zelina
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

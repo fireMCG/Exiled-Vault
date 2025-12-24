@@ -13,7 +13,7 @@ We strayed from the route marked on our map, driven further afield by painted me
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Kalguur 

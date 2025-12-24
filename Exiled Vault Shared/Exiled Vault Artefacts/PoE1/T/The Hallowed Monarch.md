@@ -8,5 +8,5 @@ and sharing the glory of victory. This, you will never understand."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

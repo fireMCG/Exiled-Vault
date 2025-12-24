@@ -30,5 +30,5 @@ Mortimer: We have to hold them back. Perhaps if we can keep them below ground...
 ---
 ## Tags
 #Character/Mortimer
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

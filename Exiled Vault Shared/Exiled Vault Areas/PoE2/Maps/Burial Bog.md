@@ -4,5 +4,5 @@ The land returns the dead as easily as it received them.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

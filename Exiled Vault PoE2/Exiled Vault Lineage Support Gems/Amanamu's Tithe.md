@@ -12,12 +12,12 @@ Under a Lich Lord, not even death is an escape.
 #Character/Amanamu
 #Concept/Blood 
 #Concept/Death 
-#Concept/Flesh
+#Concept/Body/Flesh
 #Concept/Lich
 #Concept/Soul 
-#Lineage
+#Item/Lineage
 #PoE2
-#Society/Abyssal
 #Society/Lightless
-#SupportGem
-#Unreleased
+#Society/Lightless
+#Item/SupportGem
+#Attributes/Unreleased

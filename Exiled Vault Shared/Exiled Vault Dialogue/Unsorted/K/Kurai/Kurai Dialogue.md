@@ -677,4 +677,4 @@ KuraiConfirm13
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

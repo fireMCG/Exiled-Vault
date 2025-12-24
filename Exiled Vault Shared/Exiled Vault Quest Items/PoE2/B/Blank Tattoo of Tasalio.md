@@ -5,6 +5,6 @@ What is written in water is never truly lost.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE2
 #Society/Karui/Tribe/Tasalio 

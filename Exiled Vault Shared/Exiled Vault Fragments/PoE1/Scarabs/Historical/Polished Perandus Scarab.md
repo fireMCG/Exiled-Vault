@@ -4,7 +4,7 @@ By planning against the theft and plundering of artefacts by your family's patro
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

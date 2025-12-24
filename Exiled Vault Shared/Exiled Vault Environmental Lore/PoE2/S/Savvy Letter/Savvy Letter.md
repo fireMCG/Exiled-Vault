@@ -4,7 +4,7 @@ Fool, do not send me missives here at Ogham! There is no way to guarantee that p
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/TwilightOrder 

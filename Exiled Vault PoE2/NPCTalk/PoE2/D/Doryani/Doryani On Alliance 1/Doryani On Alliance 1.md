@@ -6,5 +6,5 @@ Doryani: The Vaal shall stand with Wraeclast against the Beast. If we had this a
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

@@ -4,7 +4,7 @@ The Watchers have gone silent, yet they scream still. Something lurks among the 
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

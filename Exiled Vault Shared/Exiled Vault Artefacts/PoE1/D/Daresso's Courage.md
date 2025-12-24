@@ -6,5 +6,5 @@ Yet even accursed treachery failed to steal the champion's victory.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

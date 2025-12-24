@@ -5,5 +5,5 @@ Skin like steel tempered by bright flames.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

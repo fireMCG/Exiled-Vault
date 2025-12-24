@@ -6,5 +6,5 @@ Our beautiful public spaces, our services for the ill and the needy, all of it w
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

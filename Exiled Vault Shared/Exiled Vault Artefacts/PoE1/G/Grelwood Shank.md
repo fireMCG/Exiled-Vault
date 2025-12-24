@@ -7,5 +7,5 @@ a memory written in fibrous flesh.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

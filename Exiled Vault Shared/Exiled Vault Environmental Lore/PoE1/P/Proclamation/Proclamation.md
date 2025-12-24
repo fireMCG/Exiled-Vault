@@ -4,5 +4,5 @@ We, the Court of Reckoning find you, Doedre Stamatis, guilty of the following tr
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act2

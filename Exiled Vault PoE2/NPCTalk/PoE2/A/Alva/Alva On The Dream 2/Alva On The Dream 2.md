@@ -28,8 +28,8 @@ Mercenary: I think it means... you took a sip of the wrong drink, love.
 ## Tags
 #Character/Alva 
 #Character/God/Tangmazu 
-#Concept/Devotion 
-#Concept/Dream 
+#Concept/Religion/Devotion 
+#Concept/Night/Dream 
 #Character/God/Tangmazu 
 #League/Delirium
-#NPCTalk
+#Category/NPCTalk

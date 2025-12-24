@@ -6,5 +6,5 @@ they believed Lunaris had not abandoned them.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

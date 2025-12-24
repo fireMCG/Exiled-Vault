@@ -9,5 +9,5 @@ Reach into the Void and claim your prize.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

@@ -7,5 +7,5 @@ to serve as ample defence for the relics we left behind."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

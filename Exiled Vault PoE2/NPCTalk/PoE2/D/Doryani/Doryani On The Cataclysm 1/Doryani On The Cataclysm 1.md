@@ -6,5 +6,5 @@ Doryani: That was... I thought I knew what to expect, but I could never have gue
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

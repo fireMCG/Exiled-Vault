@@ -9,5 +9,5 @@ Divination Card
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

@@ -8,5 +8,5 @@ Nay, villain, a man never bleeds alone."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

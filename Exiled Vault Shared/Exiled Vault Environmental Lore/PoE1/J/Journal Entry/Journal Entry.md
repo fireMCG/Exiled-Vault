@@ -5,6 +5,6 @@
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act3
-#Timeline 
+#Attributes/Timeline 

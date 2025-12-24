@@ -6,5 +6,5 @@ in darkness we are bound.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

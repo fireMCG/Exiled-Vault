@@ -7,5 +7,5 @@ tolling righteous fury for those who would dare invade our world!"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -7,5 +7,5 @@ With the blood of the weak
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

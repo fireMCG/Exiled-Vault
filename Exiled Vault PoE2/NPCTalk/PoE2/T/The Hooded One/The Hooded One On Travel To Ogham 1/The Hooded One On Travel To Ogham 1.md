@@ -7,4 +7,4 @@ The Hooded One: To Ogham, then. Hopefully, they've had time to rebuild.
 ## Tags
 #Character/God/Sin 
 #Character/God/Sin 
-#NPCTalk
+#Category/NPCTalk

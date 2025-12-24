@@ -88,5 +88,5 @@ Yama The White: Hah! Yama speak plain as the wind. You cannot hold, but it cuts 
 ---
 ## Tags
 #Character/Yama
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

@@ -6,5 +6,5 @@ The carvings it holds are too worn to decipher.
 
 ---
 ## Tags
-#Fragment 
+#Item/Fragment 
 #PoE2 

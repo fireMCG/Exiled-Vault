@@ -7,5 +7,5 @@ Conjured rivalries from men who grew fat from the discord they sowed.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

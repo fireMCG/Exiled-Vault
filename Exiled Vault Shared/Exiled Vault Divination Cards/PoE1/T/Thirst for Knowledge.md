@@ -11,5 +11,5 @@ Gluttony
 ---
 ## Tags
 #Concept/Hunger 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

@@ -8,8 +8,8 @@ oral history. That's nonsense, of course, but it's still very old, and therefore
 ## Tags
 #Character/RingClient/CrimsonScribe
 #Character/Kalandra
-#Concept/Bird 
-#Concept/TimeBeforeTime
-#HeistTarget
+#Concept/Animal/Bird 
+#Concept/Time/BeforeTime
+#Item/HeistTarget
 #League/Heist
 #PoE1 

@@ -5,5 +5,5 @@ In the shifting reflections of the sea, the truth of the soul can be seen.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

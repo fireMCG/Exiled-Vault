@@ -6,4 +6,4 @@ No disease can be contained forever.
 
 ---
 ## Tags
-#Scarab
+#Item/Scarab

@@ -55,5 +55,5 @@ Arastas shall know your name! A token of my thanks.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

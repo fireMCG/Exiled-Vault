@@ -6,5 +6,5 @@ Face it, or curse your bloodline for all eternity.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

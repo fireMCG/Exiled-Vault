@@ -9,8 +9,6 @@ recognised his inclinations, and gave him a higher calling.
 #
 ---
 ## Tags
-#AtzoatlArchitect 
-#BackgroundStory
 #Character/Guatelitzi
-#Lineage 
-#Society/VaalEmpire 
+#Item/Lineage 
+#Society/VaalEmpire/Architects 

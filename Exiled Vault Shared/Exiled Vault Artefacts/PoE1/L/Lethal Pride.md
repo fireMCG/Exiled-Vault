@@ -5,5 +5,5 @@ They believed themselves the greatest warriors, but that savagery turned upon th
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

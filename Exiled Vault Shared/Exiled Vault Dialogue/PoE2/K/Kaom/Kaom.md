@@ -11,5 +11,5 @@ Ngamahu smiles upon your strength.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

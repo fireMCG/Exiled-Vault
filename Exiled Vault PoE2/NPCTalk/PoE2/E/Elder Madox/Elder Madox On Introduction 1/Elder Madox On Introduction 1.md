@@ -10,7 +10,7 @@ Elder Madox: I am Elder Madox. Your silencing of the Wayward Spear has calmed th
 ---
 ## Tags
 #Character/ElderMadox
-#Concept/Animal/Owl
+#Concept/Animal/Bird/Owl
 #Concept/Spirit 
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri 

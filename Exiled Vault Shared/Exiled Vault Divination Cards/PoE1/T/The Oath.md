@@ -9,5 +9,5 @@ Death's Oath
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

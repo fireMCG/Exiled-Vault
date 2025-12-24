@@ -6,5 +6,5 @@ They command a power all thier own.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

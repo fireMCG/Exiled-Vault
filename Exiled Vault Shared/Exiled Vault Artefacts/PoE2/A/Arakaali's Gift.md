@@ -6,5 +6,5 @@ needed never fear her sting.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

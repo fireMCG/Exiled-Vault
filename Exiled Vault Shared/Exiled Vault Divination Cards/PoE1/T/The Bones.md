@@ -10,5 +10,9 @@ Corrupted
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Body/Bone 
+#Concept/Body/Flesh 
+#Concept/Prison 
+#Concept/Virtue/Gem 
+#Item/DivinationCard
 #PoE1

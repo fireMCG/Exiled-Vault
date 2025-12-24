@@ -7,5 +7,5 @@ such great work must go uncredited."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

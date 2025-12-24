@@ -5,5 +5,5 @@ Wealth unspent is wealth wasted.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

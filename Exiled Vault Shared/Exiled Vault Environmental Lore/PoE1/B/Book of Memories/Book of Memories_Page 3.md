@@ -4,6 +4,6 @@ I awoke in the most beautiful of places. The skies were blue, unlike the greynes
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

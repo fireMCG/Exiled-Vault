@@ -5,5 +5,5 @@ Simple. Deadly. Unstoppable
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

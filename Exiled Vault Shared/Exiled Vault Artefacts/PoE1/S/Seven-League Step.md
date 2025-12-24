@@ -7,5 +7,5 @@ In running from death, you may forget to live."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

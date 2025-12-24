@@ -6,6 +6,6 @@ My journey was not without faults. I see them now. Whatever I have become, whate
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

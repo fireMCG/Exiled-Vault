@@ -5,5 +5,5 @@ There is no force without movement.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

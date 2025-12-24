@@ -6,7 +6,7 @@ My devotion. My lifetime of service. Has it really come to this? We cut our way 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/VaalEmpire 

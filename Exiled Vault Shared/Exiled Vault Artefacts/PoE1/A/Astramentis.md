@@ -8,12 +8,12 @@ And into darkness send it.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Darkness 
 #Concept/Fracture 
-#Concept/Hate 
+#Concept/Emotion/Hate 
 #Concept/Mind 
-#Concept/Rage 
-#Concept/Realm
+#Concept/Emotion/Rage 
+#Concept/World
 #Concept/Trickery
 #PoE1

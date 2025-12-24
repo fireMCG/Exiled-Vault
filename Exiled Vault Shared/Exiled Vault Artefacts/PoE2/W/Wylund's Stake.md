@@ -5,5 +5,5 @@ Shaped metal never forgets the forge.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

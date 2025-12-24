@@ -7,5 +7,5 @@ Doryani: What are you doing? You didn't open a path to the Royal Access Chamber!
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

@@ -6,5 +6,5 @@ Though we cannot live without danger, we can learn to live with it.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

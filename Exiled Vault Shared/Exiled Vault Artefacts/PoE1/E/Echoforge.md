@@ -5,8 +5,8 @@ Witness the emergence of a new cosmic power.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Maven 
-#Concept/Cosmos
+#Concept/Space
 #Concept/Power 
 #PoE1

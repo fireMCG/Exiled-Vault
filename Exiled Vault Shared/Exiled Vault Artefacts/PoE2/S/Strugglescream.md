@@ -6,5 +6,5 @@ but the shadows eventually become home.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

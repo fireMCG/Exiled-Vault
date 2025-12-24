@@ -5,5 +5,5 @@ The Baleful Gem's corruption lingers still...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

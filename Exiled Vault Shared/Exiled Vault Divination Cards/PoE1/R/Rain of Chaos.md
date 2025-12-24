@@ -14,10 +14,10 @@ Chaos Orb
 ---
 ## Tags
 #Concept/Cataclysm
-#Concept/Chaos
+#Concept/Balance/Chaos
 #Concept/Element/Fire 
-#Concept/Shatter 
+#Concept/Fracture 
 #Concept/Sky 
 #Concept/Wing 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

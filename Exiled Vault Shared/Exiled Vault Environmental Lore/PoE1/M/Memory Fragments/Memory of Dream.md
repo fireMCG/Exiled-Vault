@@ -12,6 +12,6 @@ At least my pounding headache provided ample distraction from the embarrassment,
 #
 ---
 ## Tags
-#EnvironmentalLore 
-#Historical 
+#Category/Lore/Environmental 
+#Attributes/Historical 
 #PoE1 

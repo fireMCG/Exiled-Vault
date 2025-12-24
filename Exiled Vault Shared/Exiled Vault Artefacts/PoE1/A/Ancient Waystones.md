@@ -7,7 +7,7 @@ We ignored every single one."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Siosa 
 #PoE1
 #Society/VaalEmpire 

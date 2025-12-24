@@ -83,5 +83,5 @@ A challenger! Haha! Come!
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

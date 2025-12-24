@@ -6,5 +6,5 @@ failed. Suppression troop six, the 'Furious Flagellants,' have been sent to inte
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

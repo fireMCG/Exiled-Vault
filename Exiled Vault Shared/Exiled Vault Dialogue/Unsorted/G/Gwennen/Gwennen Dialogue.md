@@ -489,4 +489,4 @@ Of course I'll make it to game night. I'm not avoiding Kingsmarch per se, it's j
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

@@ -12,12 +12,12 @@ Doomfletch
 
 ---
 ## Tags
-#Concept/Ambition 
+#Concept/Virtue/Ambition 
 #Concept/Beast 
 #Concept/Fate 
 #Concept/Sin/Greed
 #Concept/Power 
 #Concept/Sleep 
-#Concept/VirtueGem 
-#DivinationCard
+#Concept/Virtue/Gem 
+#Item/DivinationCard
 #PoE1

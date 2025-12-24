@@ -36,5 +36,5 @@ Rog, the Dealer: Well, most Kalguurans here on Wraeclast are in various guilds. 
 ---
 ## Tags
 #Character/Rog 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

@@ -17,5 +17,5 @@ Finn: Ahh... my talented songbird.
 ## Tags
 #Character/Finn 
 #Character/Una 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 

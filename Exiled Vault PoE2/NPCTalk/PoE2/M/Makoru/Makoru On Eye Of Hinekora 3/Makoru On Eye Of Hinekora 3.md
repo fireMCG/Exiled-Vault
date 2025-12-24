@@ -33,5 +33,5 @@ Makoru: Unfortunately, staying true to myself means I can never return... But if
 ---
 ## Tags
 #Character/Makoru
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

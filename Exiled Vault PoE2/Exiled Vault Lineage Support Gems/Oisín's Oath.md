@@ -9,11 +9,10 @@ In time, his vigil on the edge began to... change him.
 #
 ---
 ## Tags
-#BackgroundStory
 #Character/God/Gruthkul 
 #Character/Oisín
 #Character/God/Gruthkul 
-#Lineage
+#Item/Lineage
 #Location/Wildwood 
-#Society/WardenOfEaves
-#Timeline 
+#Society/Maji/WardenOfEaves
+#Attributes/Timeline 

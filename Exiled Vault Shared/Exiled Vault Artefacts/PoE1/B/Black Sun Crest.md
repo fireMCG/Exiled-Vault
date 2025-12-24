@@ -6,7 +6,7 @@ are the ones who dwell in total darkness.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Darkness 
 #Concept/Sun 
 #PoE1

@@ -6,5 +6,5 @@ his thoughts remained in the one place he called his own: The Grand Arena.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

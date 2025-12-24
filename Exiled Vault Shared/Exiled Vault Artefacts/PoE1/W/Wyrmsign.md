@@ -8,5 +8,5 @@ can be measured in seconds.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

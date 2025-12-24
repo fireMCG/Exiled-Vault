@@ -36,5 +36,5 @@ Makoru: I won't fail. Maybe this is my chance to prove myself.
 ---
 ## Tags
 #Character/Makoru
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

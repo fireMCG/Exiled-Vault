@@ -6,4 +6,4 @@ Memories resound in the Atlas, echoing forever.
 
 ---
 ## Tags
-#Scarab
+#Item/Scarab

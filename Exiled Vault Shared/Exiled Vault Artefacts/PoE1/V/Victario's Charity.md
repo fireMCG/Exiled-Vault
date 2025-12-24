@@ -5,5 +5,5 @@ A man's life is the greatest gift he can give.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

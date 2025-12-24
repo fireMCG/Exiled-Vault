@@ -7,5 +7,5 @@ and researcher in Lab Three simultaneously... again?"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -12,4 +12,4 @@ The Rival drops [[Kintsugi]].
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

@@ -8,4 +8,4 @@ The Atlas was always like this.
 ---
 ## Tags
 #League/Delirium 
-#Scarab
+#Item/Scarab

@@ -5,5 +5,5 @@ An army won't notice their supplies have been raided until after the battle.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

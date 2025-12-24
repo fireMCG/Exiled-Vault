@@ -6,5 +6,5 @@ than everyone else, make sure you are.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

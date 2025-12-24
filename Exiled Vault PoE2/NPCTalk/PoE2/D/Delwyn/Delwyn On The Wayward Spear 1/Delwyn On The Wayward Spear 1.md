@@ -9,5 +9,5 @@ Delwyn: Wayward is right. Once a fine hunter... now she's turned her spear on he
 ---
 ## Tags
 #Character/Delwyn
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri 

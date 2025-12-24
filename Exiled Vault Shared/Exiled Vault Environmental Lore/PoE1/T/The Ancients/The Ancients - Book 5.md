@@ -7,12 +7,12 @@ The Vaal. Thousands of years in the making. Gone in a blink of Solaris' burning 
 ## Tags
 #Character/God/Solaris
 #Concept/Cataclysm 
-#Concept/Eye 
+#Concept/Body/Eye 
 #Concept/Horror 
-#EnvironmentalLore
+#Category/Lore/Environmental
 #Event/VaalCataclysm
 #Character/God/Solaris 
 #PoE1/Act3
 #Society/Azmeri 
 #Society/VaalEmpire 
-#Timeline 
+#Attributes/Timeline 

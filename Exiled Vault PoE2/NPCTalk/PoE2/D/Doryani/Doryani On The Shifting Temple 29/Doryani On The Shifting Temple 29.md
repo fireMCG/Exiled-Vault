@@ -78,5 +78,5 @@ Mercenary: Bit rude...
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

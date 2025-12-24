@@ -5,5 +5,5 @@ Truly great Artificers push the boundaries of the possible.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

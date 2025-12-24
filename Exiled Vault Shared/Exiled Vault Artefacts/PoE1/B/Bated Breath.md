@@ -5,5 +5,5 @@ At knifepoint, a moment's hesitation means death.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

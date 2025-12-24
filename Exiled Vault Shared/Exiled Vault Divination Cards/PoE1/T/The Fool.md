@@ -9,5 +9,5 @@ Even the most learned man is a fool to his own fate.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

@@ -7,7 +7,7 @@ by those who cannot hear the music."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Atziri 
 #Concept/Dance
 #Concept/Music

@@ -10,5 +10,10 @@ Corrupted
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Body/Skin
+#Concept/Darkness 
+#Concept/Life 
+#Concept/Luck 
+#Concept/Night/Dreamer 
+#Item/DivinationCard
 #PoE1

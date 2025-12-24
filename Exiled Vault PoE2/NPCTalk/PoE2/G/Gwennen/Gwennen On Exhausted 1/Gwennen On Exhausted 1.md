@@ -7,5 +7,5 @@ Gwennen: When you've been on a quest as long as I have, you tend to wind down a 
 ---
 ## Tags
 #Character/Gwennen
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur  

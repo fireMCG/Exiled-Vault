@@ -8,5 +8,5 @@ Hate born of love.
 ---
 ## Tags
 #Character/Sirus 
-#Fragment
+#Item/Fragment
 #PoE1 

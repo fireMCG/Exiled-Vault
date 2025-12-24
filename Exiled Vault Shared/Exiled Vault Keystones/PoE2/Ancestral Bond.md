@@ -12,5 +12,5 @@ Totems reserve 75 Spirit each
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE2 

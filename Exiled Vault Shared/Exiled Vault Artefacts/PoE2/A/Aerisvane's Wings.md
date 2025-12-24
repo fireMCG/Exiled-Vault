@@ -5,5 +5,5 @@ The strongest souls are forged through struggle and defeat.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -11,5 +11,7 @@ Item Level: 99
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Animal/Fish 
+#Concept/Sun 
+#Item/DivinationCard
 #PoE1

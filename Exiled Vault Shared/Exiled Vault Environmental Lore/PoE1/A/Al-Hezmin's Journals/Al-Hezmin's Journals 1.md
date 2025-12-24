@@ -9,5 +9,5 @@ Drox: Loudmouth. Does weapon drills late into the night. Sometimes I hear him pa
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1 

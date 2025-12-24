@@ -9,5 +9,5 @@ Shavronne's Wrappings
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

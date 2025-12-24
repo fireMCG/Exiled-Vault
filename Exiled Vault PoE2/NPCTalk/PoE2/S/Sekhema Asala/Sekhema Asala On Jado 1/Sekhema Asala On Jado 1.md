@@ -7,6 +7,6 @@ Sekhema Asala: I have not yet decided whether I support this rebuilding of the O
 ## Tags
 #Character/Sekhema/Asala
 #Character/Jado 
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh
 #Society/OrderOftheDjinn

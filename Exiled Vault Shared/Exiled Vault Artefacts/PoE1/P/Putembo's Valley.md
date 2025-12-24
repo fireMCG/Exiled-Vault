@@ -8,6 +8,6 @@ But the dead would not remain there.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
-#Timeline 
+#Attributes/Timeline 

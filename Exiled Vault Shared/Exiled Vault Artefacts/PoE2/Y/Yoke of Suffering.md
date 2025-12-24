@@ -5,5 +5,5 @@ Let the unrepentant be dragged ever downwards by the weight of their sins.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

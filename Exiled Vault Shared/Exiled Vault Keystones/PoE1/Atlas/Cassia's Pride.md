@@ -11,5 +11,5 @@ Blight Towers and their Minions in your Maps deal 300% more Damage
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

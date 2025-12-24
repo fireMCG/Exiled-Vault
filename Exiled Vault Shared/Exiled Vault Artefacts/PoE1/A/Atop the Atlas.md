@@ -7,9 +7,10 @@ And those that made the trek realised the folly of their desire for greatness."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Desire 
 #Concept/AtlasOfWorlds
-#Concept/Mountain
-#Concept/Sun/Sunlight 
+#Concept/Light 
+#Concept/Nature/Mountain
+#Concept/Sun
 #PoE1

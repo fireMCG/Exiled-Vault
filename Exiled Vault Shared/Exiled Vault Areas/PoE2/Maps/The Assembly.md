@@ -4,5 +4,5 @@ Remnants of Vaal artifice still remain.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

@@ -4,5 +4,5 @@ The Cataclysm tore the land asunder.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

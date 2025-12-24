@@ -9,5 +9,5 @@ Rustic Sash
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

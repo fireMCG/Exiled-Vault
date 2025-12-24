@@ -8,7 +8,7 @@ The danger of numbers is all in your mind!"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Napuatzi 
 #PoE2
 #Society/VaalEmpire 

@@ -8,6 +8,6 @@ Once correctly assembled I expect these pieces to form some kind of device. Thou
 #
 ---
 ## Tags
-#EnvironmentalLore 
-#Historical 
+#Category/Lore/Environmental 
+#Attributes/Historical 
 #PoE1 

@@ -7,7 +7,7 @@ It is our duty to return to the gods what was once theirs.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Xibaqua
 #PoE2
 #Society/VaalEmpire 

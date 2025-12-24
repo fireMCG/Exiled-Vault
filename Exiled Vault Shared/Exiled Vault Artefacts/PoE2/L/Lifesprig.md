@@ -7,5 +7,5 @@ Life endures in Wraeclast.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

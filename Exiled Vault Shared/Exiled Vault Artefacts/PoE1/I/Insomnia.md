@@ -6,5 +6,5 @@ If you fall asleep in the Atlas, he'll be waiting...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

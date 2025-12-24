@@ -719,7 +719,7 @@ Ah, you've already engaged the enemy! This Horned Skull bears their essence. We 
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #League/Breach 
 #PoE1
 #Society/KeepersOfTheFlame 

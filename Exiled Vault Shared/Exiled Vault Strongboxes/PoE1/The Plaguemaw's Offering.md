@@ -6,6 +6,6 @@ Temptation is man's greatest folly.
 
 ---
 ## Tags
-#Legacy
+#Attributes/Legacy
 #PoE1 
-#Strongbox
+#Category/Strongbox

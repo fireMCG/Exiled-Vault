@@ -6,9 +6,9 @@ by the shards of obliterated worlds.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Shaper 
 #Character/ValdoCaeserius
-#Concept/Fragment/Shard
+#Concept/Fracture/Shard
 #Concept/World 
 #PoE1

@@ -7,7 +7,7 @@ and the crunch of the dead hitting the dust.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Sekhema/Asenath
 #PoE1
 #Society/Maraketh 

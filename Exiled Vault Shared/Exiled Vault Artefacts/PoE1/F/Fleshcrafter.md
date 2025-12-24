@@ -5,5 +5,5 @@ Imbue the body with stolen spirit, hold the leash tight.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

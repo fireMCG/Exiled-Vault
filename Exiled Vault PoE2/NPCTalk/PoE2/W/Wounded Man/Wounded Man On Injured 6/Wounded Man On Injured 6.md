@@ -42,4 +42,4 @@ Wounded Man: The Miller went off to warn Clearfell 'bout a strange {sickness}, p
 #
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk

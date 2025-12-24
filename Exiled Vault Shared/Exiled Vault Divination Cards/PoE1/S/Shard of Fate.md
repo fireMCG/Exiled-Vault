@@ -12,6 +12,6 @@ Vivid Jewel
 ## Tags
 #Concept/Crystal 
 #Concept/Fate 
-#Concept/Shatter 
-#DivinationCard
+#Concept/Fracture 
+#Item/DivinationCard
 #PoE1

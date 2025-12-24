@@ -14,8 +14,8 @@ Corrupted
 
 ---
 ## Tags
-#Concept/Fear 
+#Concept/Emotion/Fear 
 #Concept/Madness 
 #Concept/Mist 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

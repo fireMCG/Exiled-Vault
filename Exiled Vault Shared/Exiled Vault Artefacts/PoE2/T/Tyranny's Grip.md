@@ -6,5 +6,5 @@ but rebels of every culture stood together as one.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

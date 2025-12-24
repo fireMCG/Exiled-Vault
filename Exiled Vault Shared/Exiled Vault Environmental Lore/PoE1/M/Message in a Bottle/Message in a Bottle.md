@@ -3,5 +3,5 @@ If God wills it, the final account of First Mate Piken, castaway on the rock som
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act6

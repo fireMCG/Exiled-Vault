@@ -6,5 +6,5 @@ as wild as an unwatched flame.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

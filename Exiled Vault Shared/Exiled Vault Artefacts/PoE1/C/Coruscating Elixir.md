@@ -6,5 +6,5 @@ Let the pain push outwards and turn away your enemy's blows.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

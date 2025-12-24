@@ -5,6 +5,6 @@ Ornately adorned and heavier than is practical.
 
 ---
 ## Tags
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 

@@ -5,5 +5,5 @@ A mountain fortress safe from the storm.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

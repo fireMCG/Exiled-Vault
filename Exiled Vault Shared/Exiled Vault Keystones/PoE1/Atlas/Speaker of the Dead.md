@@ -12,5 +12,5 @@ Tormented Spirits in your Maps cannot Possess Monsters
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

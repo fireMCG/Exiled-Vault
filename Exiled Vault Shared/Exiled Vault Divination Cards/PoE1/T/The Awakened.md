@@ -11,5 +11,7 @@ Double-Influenced Item
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Virtue/Ambition 
+#Concept/World 
+#Item/DivinationCard
 #PoE1

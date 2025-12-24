@@ -8,5 +8,5 @@ Our souls are eternally bound by the sacrifices we have made."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

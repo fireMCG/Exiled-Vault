@@ -39,5 +39,5 @@ The Hooded One: Then that is exactly what we will do.
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

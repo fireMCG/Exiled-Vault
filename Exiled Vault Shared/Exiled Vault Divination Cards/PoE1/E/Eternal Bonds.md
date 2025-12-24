@@ -10,6 +10,6 @@ Replica Cortex
 
 ---
 ## Tags
-#Concept/Animal/Fox 
-#DivinationCard
+#Concept/Animal/Canidae/Fox 
+#Item/DivinationCard
 #PoE1

@@ -7,4 +7,4 @@ They hunger.
 ---
 ## Tags
 #League/Beyond
-#Scarab
+#Item/Scarab

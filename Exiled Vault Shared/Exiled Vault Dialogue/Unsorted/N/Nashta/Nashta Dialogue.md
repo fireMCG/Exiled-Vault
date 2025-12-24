@@ -41,4 +41,4 @@ Sun's fury!
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

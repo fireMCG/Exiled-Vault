@@ -6,6 +6,6 @@ The High Templar grows increasingly cruel with me. Venarius suspects my involvem
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

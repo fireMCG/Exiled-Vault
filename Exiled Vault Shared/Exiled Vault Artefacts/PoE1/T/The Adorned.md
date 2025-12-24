@@ -7,5 +7,5 @@ now nothing more than a passing wonder.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

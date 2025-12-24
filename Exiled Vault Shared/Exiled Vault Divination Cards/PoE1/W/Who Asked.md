@@ -14,5 +14,5 @@ Fractured
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

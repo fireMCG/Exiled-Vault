@@ -4,5 +4,5 @@ Time overwhelms even the sturdiest walls.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

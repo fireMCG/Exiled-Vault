@@ -6,5 +6,5 @@ but it was the smiths who delved into the secrets it held.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

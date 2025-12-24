@@ -6,5 +6,5 @@ Only they may grace His flesh.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

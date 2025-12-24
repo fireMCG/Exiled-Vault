@@ -5,9 +5,9 @@ Primordial rage slumbers, waiting for the call of the stars to return and swallo
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Hunger
 #Concept/Primordial
-#Concept/Rage
-#Concept/Star 
+#Concept/Emotion/Rage
+#Concept/Space/Star 
 #PoE1

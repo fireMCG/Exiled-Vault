@@ -181,4 +181,4 @@ Seems Tukohama's raised up a host out of whatever afterlife the Karui believe in
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

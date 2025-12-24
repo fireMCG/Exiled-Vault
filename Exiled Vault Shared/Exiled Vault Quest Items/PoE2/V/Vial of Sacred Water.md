@@ -5,6 +5,6 @@ Cool and pure, it represents hope in a bleak era.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE2
 #Society/Maraketh 

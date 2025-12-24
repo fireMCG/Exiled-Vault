@@ -6,5 +6,5 @@ you need only shake the wrong branch.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

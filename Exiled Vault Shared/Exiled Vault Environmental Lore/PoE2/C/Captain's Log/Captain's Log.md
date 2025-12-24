@@ -4,7 +4,7 @@ She called to me! I heard her voice! How could she have gotten here, when I left
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Kalguur 

@@ -5,5 +5,5 @@ Those who offer up sacrifices to every deity entreat the full favour of none.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

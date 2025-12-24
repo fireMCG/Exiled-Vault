@@ -58,5 +58,5 @@ Tujen: Yeah, yeah, yeah. In the twenty years we've been here, I've seen shite th
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

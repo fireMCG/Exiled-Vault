@@ -10,6 +10,6 @@ Zelina: This may be subjective, but you don't look like an animal to me.
 ---
 ## Tags
 #Character/Zelina
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 
 #Society/VaalEmpire 

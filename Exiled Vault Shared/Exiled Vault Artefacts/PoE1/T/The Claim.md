@@ -8,5 +8,5 @@ by those who already dwelt there."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

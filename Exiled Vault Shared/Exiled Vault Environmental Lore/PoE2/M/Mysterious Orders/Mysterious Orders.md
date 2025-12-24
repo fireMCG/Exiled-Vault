@@ -4,7 +4,7 @@ We have focused our excavations under the Manor, but we would be remiss to ignor
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Ezomyte 

@@ -7,5 +7,5 @@ Either we're keeping faulty logs, or..."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

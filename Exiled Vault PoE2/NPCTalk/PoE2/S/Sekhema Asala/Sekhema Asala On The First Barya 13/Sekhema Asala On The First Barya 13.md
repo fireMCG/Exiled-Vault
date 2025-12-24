@@ -49,7 +49,7 @@ Sekhema Asala: Then we must give chase! Come, let us return to my {akhara}.
 #Concept/Barya 
 #Location/Wraeclast/Vastiri/Keth 
 #Location/Wraeclast/Vastiri/Qimah
-#NPCTalk
+#Category/NPCTalk
 #Society/Faridun 
 #Society/KabalaClan 
 #Society/Maraketh 

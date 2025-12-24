@@ -46,5 +46,5 @@ Ranger: They certainly are.
 ## Tags
 #Character/Ange
 #Character/Tujen
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

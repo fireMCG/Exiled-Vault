@@ -5,5 +5,5 @@ An unusual request.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

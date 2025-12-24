@@ -21,5 +21,5 @@ Aye. That you are.
 ---
 ## Tags
 #Character/Delwyn
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri 

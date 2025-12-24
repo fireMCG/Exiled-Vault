@@ -9,11 +9,11 @@ deus meus non sit tam divinus quam ipse petit...
 ## Tags
 #Character/God/Innocence
 #Character/Lycia
-#Concept/Divinity
-#Concept/Eternity
-#Concept/Immortality
+#Concept/Religion/Divinity
+#Concept/Time/Eternity
+#Concept/Life/Immortality
 #Concept/Soul 
 #Character/God/Innocence
-#QuestItem
+#Item/QuestItem
 #PoE1
-#Timeline 
+#Attributes/Timeline 

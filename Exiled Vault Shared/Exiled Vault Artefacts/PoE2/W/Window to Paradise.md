@@ -6,5 +6,5 @@ the Savior will build utopia."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

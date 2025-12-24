@@ -7,5 +7,5 @@ but the one it invented to pass the time."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -49,4 +49,4 @@ Doryani: Then {we} must find the other pieces. We need more information.
 ## Tags
 #Character/God/Sin 
 #Character/God/Sin 
-#NPCTalk
+#Category/NPCTalk

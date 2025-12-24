@@ -6,5 +6,5 @@ The haunting screams, a maddening hell.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

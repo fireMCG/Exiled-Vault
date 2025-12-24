@@ -5,5 +5,5 @@ The lords of the sea bow to no one.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

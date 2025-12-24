@@ -8,13 +8,13 @@ In a culture festooned with gems and steeped in thaumaturgy, Doryani must have h
 #Character/Atziri 
 #Character/Doryani
 #Character/Zerphi 
-#Concept/Immortality
+#Concept/Life/Immortality
 #Concept/Murder
 #Concept/Sacrifice 
 #Concept/Sin/Vanity 
 #Concept/Thaumaturgy 
 #Concept/Torture 
-#Concept/VirtueGem 
-#EnvironmentalLore
+#Concept/Virtue/Gem 
+#Category/Lore/Environmental
 #PoE1/Act3
 #Society/VaalEmpire 

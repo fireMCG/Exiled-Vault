@@ -6,5 +6,5 @@ power or speed when striking."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

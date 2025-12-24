@@ -60,5 +60,5 @@ Tujen: Wise.
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

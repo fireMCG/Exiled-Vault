@@ -9,5 +9,5 @@ Ventor's Gamble
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

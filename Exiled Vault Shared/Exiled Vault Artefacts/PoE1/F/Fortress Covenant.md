@@ -6,5 +6,5 @@ Command power beyond your potential.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -12,5 +12,5 @@ Doubles Mana Costs
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE2 

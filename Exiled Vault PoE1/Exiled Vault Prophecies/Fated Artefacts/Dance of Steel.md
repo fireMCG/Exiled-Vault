@@ -11,8 +11,8 @@ Upgraded [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/T/The Da
 
 ---
 ## Tags
-#Concept/Fragment/Shard 
+#Concept/Fracture/Shard 
 #Concept/Soul 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

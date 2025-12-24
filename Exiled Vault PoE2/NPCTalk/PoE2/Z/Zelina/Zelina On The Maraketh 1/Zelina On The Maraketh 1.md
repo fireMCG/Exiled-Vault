@@ -7,6 +7,6 @@ Zelina: The Maraketh were not so bad, according to our tomes. They were militari
 ---
 ## Tags
 #Character/Zelina
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh 
 #Society/VaalEmpire/Cuachic  

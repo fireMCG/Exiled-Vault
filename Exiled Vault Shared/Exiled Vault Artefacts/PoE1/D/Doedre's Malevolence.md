@@ -5,5 +5,5 @@ It was Doedre who learned that pain is just as much about fear as it is about in
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -876,5 +876,5 @@ Of course.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

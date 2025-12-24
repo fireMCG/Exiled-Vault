@@ -4,7 +4,7 @@ Your visions led the Azmeri down into a world left abandoned by the Vaal. They c
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

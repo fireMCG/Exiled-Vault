@@ -4,8 +4,8 @@ The silent war of shadows and struggle must be set aside. Order and Chaos must a
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 
 #Society/VaalEmpire 

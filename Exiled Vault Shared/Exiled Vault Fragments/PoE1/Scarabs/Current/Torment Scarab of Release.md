@@ -6,6 +6,6 @@ If it could end, it wouldn't really be damnation.
 
 ---
 ## Tags
-#DropDisabled
+#Attributes/Disabled
 #League/Torment
-#Scarab
+#Item/Scarab

@@ -6,5 +6,5 @@ We travel to fulfill.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

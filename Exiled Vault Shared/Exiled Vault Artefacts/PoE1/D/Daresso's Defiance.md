@@ -9,5 +9,5 @@ Unbridled, overwhelming violence."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

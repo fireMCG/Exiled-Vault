@@ -3,7 +3,7 @@ Vaal Oversoul {"The Bringer of Night. Banished by the Wandering One, returning t
 
 ---
 ## Tags
-#Entity/VaalOversoul
-#EnvironmentalLore 
+#Category/Lore/Environmental 
+#Concept/Soul 
 #PoE1
 #Society/VaalEmpire 

@@ -6,5 +6,5 @@ but the chest wound was not as deep as expected. There is something here..."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

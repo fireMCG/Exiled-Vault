@@ -7,5 +7,5 @@ and you'll find Death lying in wait...
 
 ---
 ## Tags
-#Fragment
+#Item/Fragment
 #PoE1 

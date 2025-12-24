@@ -8,5 +8,5 @@ by sating his hunger for life.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

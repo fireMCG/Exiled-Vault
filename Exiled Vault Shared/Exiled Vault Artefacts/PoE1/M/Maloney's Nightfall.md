@@ -8,5 +8,5 @@ Rest alone, my grand nightfall.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

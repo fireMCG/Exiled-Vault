@@ -7,5 +7,5 @@ Let it be the best of us.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

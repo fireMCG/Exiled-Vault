@@ -7,5 +7,5 @@ The trick is to tell them apart."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

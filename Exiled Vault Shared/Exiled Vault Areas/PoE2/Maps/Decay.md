@@ -4,5 +4,5 @@ Spores dance through the air in search of new hosts.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

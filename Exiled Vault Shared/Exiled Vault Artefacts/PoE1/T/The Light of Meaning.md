@@ -5,5 +5,5 @@ To name a thing is to give it power.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

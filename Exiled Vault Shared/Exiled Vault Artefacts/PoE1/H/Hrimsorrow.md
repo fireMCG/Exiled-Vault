@@ -6,5 +6,5 @@ Their only trace is timeless pain.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

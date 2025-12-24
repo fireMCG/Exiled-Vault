@@ -50,5 +50,5 @@ Doryani: {You} safely place them in geomantic sockets, a technique I believe the
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

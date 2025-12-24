@@ -6,5 +6,5 @@ Eyes will burn, and souls wither, as they bask in my radiance.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

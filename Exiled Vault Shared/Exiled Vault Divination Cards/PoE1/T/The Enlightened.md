@@ -12,5 +12,5 @@ Level 3 Enlighten
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

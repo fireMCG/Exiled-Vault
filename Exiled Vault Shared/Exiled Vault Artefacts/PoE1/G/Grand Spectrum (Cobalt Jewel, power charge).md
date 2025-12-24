@@ -5,5 +5,5 @@ A mind that never quiets.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

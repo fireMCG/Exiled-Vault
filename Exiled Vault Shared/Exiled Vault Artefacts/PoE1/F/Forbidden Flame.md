@@ -6,9 +6,9 @@ continue to think and dream and beg for silence...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/SearingExarch 
-#Concept/Dream 
+#Concept/Night/Dream 
 #Concept/Mind 
-#Entity/CleansingFire 
+#Concept/Cleansing 
 #PoE1

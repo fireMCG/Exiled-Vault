@@ -12,6 +12,6 @@ I will have to be careful.
 #
 ---
 ## Tags
-#EnvironmentalLore 
-#Historical 
+#Category/Lore/Environmental 
+#Attributes/Historical 
 #PoE1 

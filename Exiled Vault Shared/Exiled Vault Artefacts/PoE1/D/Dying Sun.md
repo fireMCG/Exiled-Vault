@@ -6,7 +6,7 @@ Whether you burn out or explode is up to you.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Shaper 
 #Character/ValdoCaeserius
 #Concept/Death 

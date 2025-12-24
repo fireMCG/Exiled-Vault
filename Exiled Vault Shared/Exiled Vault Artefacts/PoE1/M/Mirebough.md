@@ -7,5 +7,5 @@ and another becomes the tallest."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

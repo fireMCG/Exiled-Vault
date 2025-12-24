@@ -9,5 +9,7 @@ Axe
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Demon 
+#Concept/Warrior
+#Item/DivinationCard
 #PoE1

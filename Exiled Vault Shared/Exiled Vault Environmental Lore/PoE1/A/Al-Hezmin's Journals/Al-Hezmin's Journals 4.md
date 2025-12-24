@@ -9,5 +9,5 @@ Then I'll kill Drox.
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1 

@@ -42,5 +42,5 @@ Freya Hartlin: Oh... forgive me, of course! Yes. Sweet, Dannig. He can help us.
 #Character/Tujen 
 #Concept/Verisium 
 #Character/God/Tangmazu 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur  

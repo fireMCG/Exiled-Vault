@@ -12,5 +12,5 @@ The perils told.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

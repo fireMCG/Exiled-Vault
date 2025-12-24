@@ -5,4 +5,4 @@ Time stands still, and a new champion ascends.
 ---
 ## Tags
 #PoE1 
-#Reliquary 
+#Category/Reliquary 

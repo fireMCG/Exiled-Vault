@@ -6,5 +6,5 @@ It was she who first braved night's terrors and found comfort in silence and sol
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

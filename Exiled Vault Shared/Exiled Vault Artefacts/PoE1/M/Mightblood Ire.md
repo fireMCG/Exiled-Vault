@@ -6,5 +6,5 @@ ready to erupt at any provocation.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

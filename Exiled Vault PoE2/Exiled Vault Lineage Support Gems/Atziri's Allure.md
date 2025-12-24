@@ -12,7 +12,7 @@ away from her mirror meant more than their lives.
 #Character/Atziri 
 #Concept/Lust 
 #Concept/Mirror 
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/VaalEmpire 
-#SupportGem
+#Item/SupportGem

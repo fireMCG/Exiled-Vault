@@ -6,7 +6,7 @@ You have been weighed and measured, and you have been found wanting. You are unw
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/EternalEmpire 

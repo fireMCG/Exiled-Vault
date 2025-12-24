@@ -8,5 +8,5 @@ or the blood of others.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

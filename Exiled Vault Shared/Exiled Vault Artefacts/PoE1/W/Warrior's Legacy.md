@@ -5,5 +5,5 @@ Make your mark on history
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

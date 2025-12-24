@@ -6,7 +6,7 @@ By decree of the Count of Ogham, Able-bodied men capable of excavation must pres
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Ezomyte 

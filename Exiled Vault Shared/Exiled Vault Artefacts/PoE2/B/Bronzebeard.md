@@ -5,5 +5,5 @@ Heavy is the head.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

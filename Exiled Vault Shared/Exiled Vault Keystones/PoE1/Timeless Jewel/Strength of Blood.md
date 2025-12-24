@@ -11,5 +11,5 @@ Life Recovery from Non-Instant Leech is not applied
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

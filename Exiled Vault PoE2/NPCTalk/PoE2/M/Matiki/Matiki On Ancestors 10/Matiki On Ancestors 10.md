@@ -69,5 +69,5 @@ Matiki: In anycase, my feelings on all this {are} complicated, but the Way was e
 ---
 ## Tags
 #Character/Matiki
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

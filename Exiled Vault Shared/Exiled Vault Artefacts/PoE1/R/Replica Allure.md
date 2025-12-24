@@ -7,5 +7,5 @@ the researcher. Researcher's feelings were slightly injured."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

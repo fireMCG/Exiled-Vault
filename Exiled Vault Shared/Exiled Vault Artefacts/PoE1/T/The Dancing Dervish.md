@@ -8,5 +8,5 @@ And dance with death sublime.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

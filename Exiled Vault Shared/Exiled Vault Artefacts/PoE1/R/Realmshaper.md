@@ -7,5 +7,5 @@ We should count ourselves lucky when we see neither."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,7 +6,7 @@ The solstice draws near, but the owls bring me worrisome tidings. They speak of 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Azmeri 

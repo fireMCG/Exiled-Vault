@@ -11,5 +11,5 @@ Projectiles cannot Pierce, Fork or Chain
 
 ---
 ## Tags
-#Keystone
+#Category/Keystone
 #PoE1 

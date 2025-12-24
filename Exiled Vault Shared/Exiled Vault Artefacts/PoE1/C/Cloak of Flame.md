@@ -5,5 +5,5 @@ He who sows an ember shall reap an inferno.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

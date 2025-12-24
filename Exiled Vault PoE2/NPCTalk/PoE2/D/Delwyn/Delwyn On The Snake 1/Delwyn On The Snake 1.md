@@ -6,5 +6,5 @@ Delwyn: I am troubled by stories o' deception... by voices that are not the Spir
 ---
 ## Tags
 #Character/Delwyn
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri 

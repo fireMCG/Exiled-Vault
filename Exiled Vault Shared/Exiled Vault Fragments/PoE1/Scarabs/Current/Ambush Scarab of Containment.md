@@ -7,4 +7,4 @@ The silence belies lurking doom.
 ---
 ## Tags
 #League/Ambush
-#Scarab
+#Item/Scarab

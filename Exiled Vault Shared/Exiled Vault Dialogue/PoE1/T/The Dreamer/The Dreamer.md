@@ -159,6 +159,6 @@ Beware... Xesht.... prepare for an unyielding nightmare.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #League/Breach
 #PoE1

@@ -6,5 +6,5 @@ and unburdened by the responsibility the Perandus scion would soon endure.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

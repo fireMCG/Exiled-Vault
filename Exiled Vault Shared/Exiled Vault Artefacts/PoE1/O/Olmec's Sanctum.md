@@ -8,5 +8,5 @@ And of this hidden temple, only legends remain.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -7,5 +7,5 @@ And check for stains! Knew a few people who'd use them for-...
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

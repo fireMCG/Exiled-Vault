@@ -6,5 +6,5 @@ Ruhaki: Well... just between you and I... I'm tired of Tavakai's teachings. I do
 ---
 ## Tags
 #Character/Ruhaki
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

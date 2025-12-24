@@ -6,5 +6,5 @@ but that desperation made them monstrous.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

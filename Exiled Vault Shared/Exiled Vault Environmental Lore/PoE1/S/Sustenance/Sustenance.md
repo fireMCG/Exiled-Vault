@@ -5,5 +5,5 @@ Leaving the Sanctum is a tempting prospect, but where better to ensnare hapless 
 ##
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

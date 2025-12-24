@@ -7,5 +7,5 @@ Una: It seems they gather here for a reason... seems they were trapped within th
 ---
 ## Tags
 #Character/Una 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 

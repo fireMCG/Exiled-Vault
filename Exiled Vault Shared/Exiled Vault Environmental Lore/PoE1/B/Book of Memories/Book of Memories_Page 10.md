@@ -4,6 +4,6 @@ Time has passed since my last entry, of that I am aware. I've spent every waking
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

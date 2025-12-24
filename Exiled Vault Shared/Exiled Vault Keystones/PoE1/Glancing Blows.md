@@ -12,5 +12,5 @@ You take 65% of Damage from Blocked Hits
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

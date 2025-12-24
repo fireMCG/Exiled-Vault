@@ -87,5 +87,5 @@ Tavakai: For untold generations, he slept soundly in that prison. But the Deceiv
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

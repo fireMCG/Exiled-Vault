@@ -6,5 +6,5 @@ when one man stands firm and says, "I refuse."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

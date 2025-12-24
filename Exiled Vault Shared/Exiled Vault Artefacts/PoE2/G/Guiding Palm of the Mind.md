@@ -8,5 +8,5 @@ The Dreamer mused with aching heart, as remnants of forking tendrils burst forth
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

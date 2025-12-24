@@ -7,5 +7,5 @@ not through force, but patience.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -4,5 +4,5 @@ We, the Maji, mark this land as the future home of the Azmeri. Our people will p
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

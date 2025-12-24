@@ -7,5 +7,5 @@ that we should seek no shelter but ourselves.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

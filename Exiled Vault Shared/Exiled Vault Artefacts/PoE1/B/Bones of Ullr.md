@@ -6,5 +6,5 @@ the living fear to tread.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -7,6 +7,6 @@ and puzzling device. A few seem to be missing. This part is crucial.
 ---
 ## Tags
 #Character/MarcineClavus
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 

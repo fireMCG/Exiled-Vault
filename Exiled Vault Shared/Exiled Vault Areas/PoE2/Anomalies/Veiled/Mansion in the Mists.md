@@ -4,6 +4,6 @@ Dead litter the surrounding woods, their blood drained and taken.
 #
 ---
 ## Tags
-#Area
-#Map
+#Category/Area
+#Item/Map
 #PoE2 

@@ -224,5 +224,5 @@ Don't spend it all at once.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #Society/VaalEmpire 

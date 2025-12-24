@@ -6,5 +6,5 @@ Prototype #77. It is, however, the closest we've come to perfection."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,5 +6,5 @@ forever sinking under the weight of the newly dead.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -5,6 +5,6 @@ The storm has not struck, but the sky is watching.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE2
 #Society/Karui/Tribe/Tawhoa 

@@ -6,5 +6,5 @@ souls just as easily as flesh.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

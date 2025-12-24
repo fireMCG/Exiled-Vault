@@ -9,5 +9,5 @@ When you find what you're looking for, it's never quite right. When you have wha
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

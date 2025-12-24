@@ -34,4 +34,4 @@ Alva: I keep thinking I hear laughter, mocking us... but I look around, and I do
 #Concept/Mirror 
 #Character/God/Tangmazu 
 #League/Delirium
-#NPCTalk
+#Category/NPCTalk

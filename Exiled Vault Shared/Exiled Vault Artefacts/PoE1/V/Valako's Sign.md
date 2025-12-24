@@ -7,5 +7,5 @@ A title Kaom claimed when he ended Kiloava's bloodline.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

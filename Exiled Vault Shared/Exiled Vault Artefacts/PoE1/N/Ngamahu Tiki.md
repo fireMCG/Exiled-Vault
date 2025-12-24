@@ -6,5 +6,5 @@ and smoke to carry them into the sky.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

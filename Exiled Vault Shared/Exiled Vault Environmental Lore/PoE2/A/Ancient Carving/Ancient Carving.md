@@ -6,7 +6,7 @@ When we first came to this place, Death alone was the King of all that we survey
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/VaalEmpire 

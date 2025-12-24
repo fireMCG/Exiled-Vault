@@ -45,5 +45,5 @@ Freya Hartlin: I just have to get out...! It's been too long...
 #Concept/Mist 
 #Concept/Spirit 
 #Character/God/Tangmazu 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur  

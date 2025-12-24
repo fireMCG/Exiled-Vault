@@ -7,5 +7,5 @@ Elder Madox: It is my choice. My decision. I've lost greatly. In a moment's hesi
 ---
 ## Tags
 #Character/ElderMadox
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri 

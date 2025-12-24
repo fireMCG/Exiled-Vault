@@ -7,5 +7,5 @@ Drox the Warrior
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1 

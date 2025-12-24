@@ -5,5 +5,5 @@ Somebody does have to get hurt.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

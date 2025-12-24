@@ -16,5 +16,5 @@ Solaris upon the horizon stood and gazed upon the moon. Any army of swords and s
 #Concept/Sun 
 #Character/God/Lunaris 
 #Character/God/Solaris 
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act8

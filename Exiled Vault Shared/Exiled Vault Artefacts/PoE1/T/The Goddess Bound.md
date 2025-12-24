@@ -8,5 +8,5 @@ To the nascent scourge she sings the ruse:
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

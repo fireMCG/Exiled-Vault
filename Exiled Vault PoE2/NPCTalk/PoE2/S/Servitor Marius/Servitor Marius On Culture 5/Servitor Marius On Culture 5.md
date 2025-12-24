@@ -34,5 +34,5 @@ Servitor Marius: Pain leaves scars, wild one - but scars are not the end of you.
 ---
 ## Tags
 #Character/ServitorMarius
-#NPCTalk
+#Category/NPCTalk
 #Society/TwilightOrder 

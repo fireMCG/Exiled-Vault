@@ -6,5 +6,5 @@ What logic lies beneath the veil of reality?"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

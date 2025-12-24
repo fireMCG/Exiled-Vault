@@ -8,7 +8,7 @@ Our mother's queendom has been destroyed. Our brethren \[...........{illegible}.
 #Character/God/Gruthkul 
 #Character/God/Arakaali 
 #Character/God/Gruthkul 
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1
 #Society/Nameless
 #Society/VaalEmpire 

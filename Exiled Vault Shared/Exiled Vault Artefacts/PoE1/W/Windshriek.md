@@ -6,5 +6,5 @@ Your mind goes dark, your body weak.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

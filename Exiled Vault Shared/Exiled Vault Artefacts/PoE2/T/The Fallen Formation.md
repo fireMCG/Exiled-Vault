@@ -7,5 +7,5 @@ forward, all of you, from this ghastly Vale."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

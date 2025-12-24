@@ -8,5 +8,5 @@ And now I must live with that terrible knowledge.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

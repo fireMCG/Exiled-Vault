@@ -7,5 +7,5 @@ wailing, weeping, begging for unity. Now, they heed.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

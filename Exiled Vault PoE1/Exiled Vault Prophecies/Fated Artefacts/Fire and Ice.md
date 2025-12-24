@@ -15,4 +15,4 @@ Upgrades [[Hrimsorrow]] to [[Hrimburn]] upon completion.
 #Concept/Element/Ice 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

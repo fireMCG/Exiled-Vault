@@ -7,5 +7,5 @@ longs to be reunited with her sisters.
 ---
 ## Tags
 #Character/Alira
-#QuestItem
+#Item/QuestItem
 #PoE1

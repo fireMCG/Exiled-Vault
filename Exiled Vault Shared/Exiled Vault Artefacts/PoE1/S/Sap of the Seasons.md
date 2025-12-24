@@ -6,5 +6,5 @@ waiting only for the right moment.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

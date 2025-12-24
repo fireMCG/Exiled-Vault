@@ -9,5 +9,5 @@ Carcass Jack
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

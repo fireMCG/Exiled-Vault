@@ -7,5 +7,5 @@ It calls to me, bidding me abandon all other pursuits."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

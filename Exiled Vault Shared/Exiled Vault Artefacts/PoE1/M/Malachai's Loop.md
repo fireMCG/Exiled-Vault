@@ -6,5 +6,5 @@ It is our fragile reality that imposes boundaries.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

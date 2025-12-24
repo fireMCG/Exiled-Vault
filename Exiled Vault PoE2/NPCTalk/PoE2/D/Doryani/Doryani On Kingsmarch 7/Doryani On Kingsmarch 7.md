@@ -66,5 +66,5 @@ Druid: Save yer strength, lads. Dinnae waste it snappin' at each other.
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

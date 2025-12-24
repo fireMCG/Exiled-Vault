@@ -4,5 +4,5 @@ The work of an invisible empire.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

@@ -10,6 +10,6 @@ Sublime Vision
 ---
 ## Tags
 #Character/ValdoCaeserius 
-#Concept/Love 
-#DivinationCard
+#Concept/Emotion/Love 
+#Item/DivinationCard
 #PoE1

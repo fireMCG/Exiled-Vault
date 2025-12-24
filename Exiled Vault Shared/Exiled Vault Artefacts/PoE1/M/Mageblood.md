@@ -5,5 +5,5 @@ Rivers of power course through your veins.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

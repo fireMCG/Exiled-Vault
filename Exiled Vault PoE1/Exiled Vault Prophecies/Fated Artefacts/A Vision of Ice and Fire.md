@@ -17,4 +17,4 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/H/Heatsh
 #Concept/Water/Sea 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

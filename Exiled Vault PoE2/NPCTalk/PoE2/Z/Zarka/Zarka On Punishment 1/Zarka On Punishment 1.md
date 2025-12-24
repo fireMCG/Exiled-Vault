@@ -8,5 +8,5 @@ Zarka: The {sel khari} were attacked? This is exactly why we keep their location
 ## Tags
 #Character/Balbala
 #Character/TaleWoman/Zarka
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh 

@@ -10,4 +10,4 @@ Alva: Now we know where we might find our unwelcome guest. Let's hit the trickst
 #Concept/Simulacrum
 #Character/God/Tangmazu 
 #League/Delirium
-#NPCTalk
+#Category/NPCTalk

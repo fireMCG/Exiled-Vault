@@ -7,5 +7,5 @@ and the earth is salted by rivers of blood.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

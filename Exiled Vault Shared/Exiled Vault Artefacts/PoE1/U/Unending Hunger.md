@@ -8,5 +8,5 @@ Their hearts will never be content.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

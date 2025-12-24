@@ -9,6 +9,6 @@ Elder Madox: I saw what was coming. The wayward spear and her people... They los
 #Character/ElderMadox
 #Concept/Animal/Snake 
 #Concept/Spirit 
-#Entity/Snake 
-#NPCTalk
+#Concept/Animal/Snake 
+#Category/NPCTalk
 #Society/Azmeri 

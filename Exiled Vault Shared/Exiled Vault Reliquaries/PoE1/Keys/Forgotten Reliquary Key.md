@@ -8,4 +8,4 @@ than you shall ever possess.
 ---
 ## Tags
 #PoE1 
-#Reliquary
+#Category/Reliquary

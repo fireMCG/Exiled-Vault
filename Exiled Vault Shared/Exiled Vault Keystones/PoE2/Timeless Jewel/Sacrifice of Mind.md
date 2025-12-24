@@ -11,5 +11,5 @@ Mana Recovery from Regeneration Overflows maximum Mana
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE2 

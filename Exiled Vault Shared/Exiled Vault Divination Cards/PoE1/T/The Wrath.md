@@ -11,7 +11,7 @@
 ---
 ## Tags
 #Character/Quintoon
-#Concept/Chaos 
-#Concept/Mother 
-#DivinationCard
+#Concept/Balance/Chaos 
+#Concept/Family/Mother 
+#Item/DivinationCard
 #PoE1

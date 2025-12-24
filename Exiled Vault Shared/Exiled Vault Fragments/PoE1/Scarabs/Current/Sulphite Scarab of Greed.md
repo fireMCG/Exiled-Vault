@@ -6,6 +6,6 @@ There is no such thing as 'enough'.
 
 ---
 ## Tags
-#DropDisabled
+#Attributes/Disabled
 #League/Delve
-#Scarab
+#Item/Scarab

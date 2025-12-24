@@ -6,5 +6,5 @@ the Trialmaster awaits your challenge.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

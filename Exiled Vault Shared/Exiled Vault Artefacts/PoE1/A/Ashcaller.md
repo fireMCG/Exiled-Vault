@@ -7,7 +7,7 @@ Ngamahu lends it, and Hinekora returns it."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/God/Hinekora 
 #Character/Lavianga 
 #Character/God/Ngamahu

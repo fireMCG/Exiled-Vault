@@ -6,5 +6,5 @@ My dear Isildria must depart.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

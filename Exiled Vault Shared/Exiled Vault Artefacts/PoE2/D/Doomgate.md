@@ -5,5 +5,5 @@ Welcome to Wraeclast.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

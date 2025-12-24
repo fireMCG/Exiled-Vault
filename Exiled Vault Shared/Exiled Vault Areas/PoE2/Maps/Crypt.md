@@ -4,5 +4,5 @@ Those killed in battle do not rest peacefully.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

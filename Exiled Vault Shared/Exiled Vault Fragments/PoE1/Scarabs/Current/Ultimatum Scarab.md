@@ -6,5 +6,5 @@ A challenge may be requested at any time.
 
 ---
 ## Tags
-#Scarab
+#Item/Scarab
 #Society/VaalEmpire 

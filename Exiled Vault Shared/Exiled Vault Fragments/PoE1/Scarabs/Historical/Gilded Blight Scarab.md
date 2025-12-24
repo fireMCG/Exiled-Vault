@@ -4,7 +4,7 @@ Be at rest, Blightmaster Dhunan, on the distant shores of your home. A dangerous
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

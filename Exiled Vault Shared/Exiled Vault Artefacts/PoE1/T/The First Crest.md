@@ -7,5 +7,5 @@ deny." - Lycia, the Heretic
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -13,4 +13,4 @@ Yriel also has a chance to drop [[Reach of the Council]].
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

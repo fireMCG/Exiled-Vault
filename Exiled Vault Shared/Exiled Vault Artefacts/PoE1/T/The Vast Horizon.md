@@ -7,5 +7,5 @@ the consequences borne by the destination and the origin."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

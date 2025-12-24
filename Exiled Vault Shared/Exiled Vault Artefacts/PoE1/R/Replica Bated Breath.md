@@ -7,5 +7,5 @@ brought it to [RESTRICTED]. It makes no sense!"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

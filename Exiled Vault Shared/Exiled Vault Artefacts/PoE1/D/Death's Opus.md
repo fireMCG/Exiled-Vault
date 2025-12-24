@@ -8,5 +8,5 @@ Another hears Death's final song.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

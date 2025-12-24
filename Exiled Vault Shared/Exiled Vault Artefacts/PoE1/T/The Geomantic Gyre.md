@@ -6,5 +6,5 @@ one that could safely hold the first unearthed virtue gem.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -5,5 +5,5 @@ The Younger Brother waded into Battle, shrugging off Blows.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

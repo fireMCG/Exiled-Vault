@@ -9,5 +9,5 @@ Watcher's Eye
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

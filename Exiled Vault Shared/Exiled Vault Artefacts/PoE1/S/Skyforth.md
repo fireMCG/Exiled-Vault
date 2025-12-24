@@ -6,5 +6,5 @@ and the powerful stand alone in a wasteland of their own creation.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

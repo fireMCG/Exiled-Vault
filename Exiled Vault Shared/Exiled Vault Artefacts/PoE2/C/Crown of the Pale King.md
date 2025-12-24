@@ -8,5 +8,5 @@ feed on your pain.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

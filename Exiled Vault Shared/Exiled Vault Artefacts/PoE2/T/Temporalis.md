@@ -6,5 +6,5 @@ mastered was Time itself.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

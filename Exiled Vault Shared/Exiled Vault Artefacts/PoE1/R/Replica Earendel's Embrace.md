@@ -7,5 +7,5 @@ master turns to ash."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

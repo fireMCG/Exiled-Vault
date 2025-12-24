@@ -4,7 +4,7 @@ The fungal plague returns, and its roots have adapted. The undiscovered Blighthe
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

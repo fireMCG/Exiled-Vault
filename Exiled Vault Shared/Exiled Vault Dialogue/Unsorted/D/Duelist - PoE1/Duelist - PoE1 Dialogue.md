@@ -525,4 +525,4 @@ You were born to be swift and strong. What did you do with your gifts, Duelist? 
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

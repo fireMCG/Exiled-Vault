@@ -8,5 +8,5 @@ and the Brine King's domain will grow.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

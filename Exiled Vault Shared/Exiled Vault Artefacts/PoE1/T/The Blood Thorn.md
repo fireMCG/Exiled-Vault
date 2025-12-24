@@ -5,5 +5,5 @@ Touch not the thorn, for only blood and pain await.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

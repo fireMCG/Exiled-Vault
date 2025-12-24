@@ -8,5 +8,5 @@ Smiling, he returned death's embrace.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -60,5 +60,5 @@ Makoru: If you mention this, they will deny it, just like they did when I asked.
 ---
 ## Tags
 #Character/Makoru
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

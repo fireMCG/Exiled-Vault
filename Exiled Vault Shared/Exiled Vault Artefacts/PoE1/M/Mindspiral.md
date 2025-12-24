@@ -5,5 +5,5 @@ Where top is bottom and weak is strong.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

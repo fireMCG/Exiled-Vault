@@ -10,5 +10,5 @@ Una: Welcome back. It is good to see you.
 ---
 ## Tags
 #Character/Finn 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 

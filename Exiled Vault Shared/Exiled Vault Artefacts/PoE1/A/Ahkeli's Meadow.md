@@ -8,10 +8,10 @@ Some had once been her family.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Ahkeli
-#Concept/Fragment/Splinter 
+#Concept/Fracture/Splinter 
 #Concept/Golem 
 #PoE1
 #Society/Primeval 
-#Timeline 
+#Attributes/Timeline 

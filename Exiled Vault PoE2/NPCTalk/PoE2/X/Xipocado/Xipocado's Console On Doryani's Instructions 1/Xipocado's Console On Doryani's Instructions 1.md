@@ -7,5 +7,5 @@ Doryani: I've done it! We now have full access. Use Xipocado's console to open a
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

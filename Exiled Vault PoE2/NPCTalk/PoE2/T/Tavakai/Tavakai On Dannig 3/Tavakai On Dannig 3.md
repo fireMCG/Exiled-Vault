@@ -33,5 +33,5 @@ Tavakai: I... did not know that. Hmm. Either way, the Kalguuran monster that is 
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

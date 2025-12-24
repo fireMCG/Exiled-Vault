@@ -5,5 +5,5 @@ Tukohama, our Father of War, and Valako, Father of Storm, took Kitava to Hinekor
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act5

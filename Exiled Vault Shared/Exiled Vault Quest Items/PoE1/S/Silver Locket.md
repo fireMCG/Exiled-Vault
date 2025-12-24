@@ -7,8 +7,8 @@ I shall love thee as I love the sea.
 ---
 ## Tags
 #Character/WeylamRoth
-#Concept/Love
-#Concept/Silver 
+#Concept/Emotion/Love
+#Concept/Colour/Silver 
 #Concept/Water
-#QuestItem
+#Item/QuestItem
 #PoE1

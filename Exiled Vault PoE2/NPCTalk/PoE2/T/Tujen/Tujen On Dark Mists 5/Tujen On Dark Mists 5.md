@@ -54,5 +54,5 @@ Tujen: Makoru can do it. She's Karui, and grew up on these waters. If anyone can
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

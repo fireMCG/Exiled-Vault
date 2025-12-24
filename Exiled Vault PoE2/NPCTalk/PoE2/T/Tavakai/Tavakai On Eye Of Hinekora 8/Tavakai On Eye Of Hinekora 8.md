@@ -48,5 +48,5 @@ Matiki: Exactly.
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

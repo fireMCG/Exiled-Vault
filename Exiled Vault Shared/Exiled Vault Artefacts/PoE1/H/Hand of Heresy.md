@@ -8,5 +8,5 @@ brothers shall be cast out from the true faith, forevermore!"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,6 +6,6 @@ We lash out, when all we want is an end to loneliness.
 
 ---
 ## Tags
-#Artefact
-#Concept/Loneliness
+#Item/Artefact
+#Concept/Emotion/Loneliness
 #PoE1

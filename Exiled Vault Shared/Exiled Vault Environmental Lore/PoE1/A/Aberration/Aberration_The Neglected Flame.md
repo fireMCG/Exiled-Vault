@@ -6,6 +6,6 @@ Sirus and I enjoyed a simple collegial relationship, at first... it was hard not
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

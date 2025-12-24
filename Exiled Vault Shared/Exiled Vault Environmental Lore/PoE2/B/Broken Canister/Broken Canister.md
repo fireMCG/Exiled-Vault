@@ -6,8 +6,8 @@ I will follow my orders to the letter. Do not doubt my loyalty. Deception is our
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
-#Society/Abyssal 
+#Society/Lightless 
 #Society/Unknown 

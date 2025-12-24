@@ -5,5 +5,5 @@ The world is an ancient stone, rigid and immovable, and we are but water, rollin
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1

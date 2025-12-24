@@ -8,5 +8,5 @@ They'll never see the axe coming."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

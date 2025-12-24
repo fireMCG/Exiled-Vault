@@ -12,9 +12,9 @@ are one and the same.
 ## Tags
 #Concept/Death 
 #Concept/FirstOnes 
-#Concept/Flesh 
+#Concept/Body/Flesh 
 #Concept/Sleep
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Talisman 
+#Item/Talisman 

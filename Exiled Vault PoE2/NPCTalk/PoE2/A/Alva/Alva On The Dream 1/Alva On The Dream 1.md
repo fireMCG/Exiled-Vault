@@ -6,7 +6,7 @@ Alva: As I've studied these grey splinters you found, I've come to believe that 
 ---
 ## Tags
 #Character/Alva 
-#Concept/Dream 
-#Concept/Fragment/Splinter 
+#Concept/Night/Dream 
+#Concept/Fracture/Splinter 
 #League/Delirium
-#NPCTalk
+#Category/NPCTalk

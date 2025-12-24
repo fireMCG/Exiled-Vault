@@ -9,5 +9,5 @@ I've lost count of the number of skeletons I've prised apart. I've even bottled 
 ##
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

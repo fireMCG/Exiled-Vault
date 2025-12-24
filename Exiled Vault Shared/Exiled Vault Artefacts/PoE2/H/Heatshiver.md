@@ -7,5 +7,5 @@ You will be repaid.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

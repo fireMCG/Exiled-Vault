@@ -81,5 +81,5 @@ Druid: Then the tide carries us to Arastas.
 ---
 ## Tags
 #Character/Makoru
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

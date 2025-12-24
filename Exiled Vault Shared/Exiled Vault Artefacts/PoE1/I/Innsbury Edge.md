@@ -8,5 +8,5 @@ from ghoulish dreams, too strange to comprehend.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -7,8 +7,8 @@ unveiling forms no sound mind could grasp.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Elder 
 #Concept/Mind 
-#Entity/Decay
+#Concept/Decay
 #PoE1

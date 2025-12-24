@@ -7,4 +7,4 @@ The Hooded One: We must leave this place. It is best the Ezomytes come with us. 
 ## Tags
 #Character/God/Sin 
 #Character/God/Sin 
-#NPCTalk
+#Category/NPCTalk

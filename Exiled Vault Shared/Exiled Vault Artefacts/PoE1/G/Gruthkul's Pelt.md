@@ -5,5 +5,5 @@ Simple is the life of the bear.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

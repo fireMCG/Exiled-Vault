@@ -60,5 +60,5 @@ Tujen: Heh! You're telling me.
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

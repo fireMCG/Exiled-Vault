@@ -5,5 +5,5 @@ Drink, my children, and be strengthened.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

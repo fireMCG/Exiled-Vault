@@ -6,4 +6,4 @@ Greed is a trap of the mind.
 
 ---
 ## Tags
-#Scarab
+#Item/Scarab

@@ -10,4 +10,4 @@ Look to the east. Do you see a single stone still standing amongst the dunes?
 ## Tags
 #PoE1 
 #Society/Maraketh 
-#Strongbox
+#Category/Strongbox

@@ -12,11 +12,11 @@ Five years after Veruso's death, Emperor Caspiro, too, was dead. Although accoun
 #Character/Emperor/TarcusVeruso
 #Concept/Beast 
 #Concept/Darkness 
-#Concept/Eternity 
-#Concept/Eye 
-#Concept/Mountain 
+#Concept/Time/Eternity 
+#Concept/Body/Eye 
+#Concept/Nature/Mountain 
 #Concept/Night 
-#EnvironmentalLore
+#Category/Lore/Environmental
 #Character/God/Solaris 
 #Location/Wraeclast/AxiomRanges
 #Location/Wraeclast/Mantle 
@@ -25,4 +25,4 @@ Five years after Veruso's death, Emperor Caspiro, too, was dead. Although accoun
 #Society/Azmeri 
 #Society/EternalEmpire 
 #Society/VaalEmpire 
-#Timeline 
+#Attributes/Timeline 

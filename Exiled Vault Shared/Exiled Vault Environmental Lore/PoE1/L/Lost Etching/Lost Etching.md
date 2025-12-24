@@ -4,5 +4,5 @@ Where are we? This forest doesn't appear on our maps. I can't judge our course b
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

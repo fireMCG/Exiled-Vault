@@ -5,5 +5,5 @@ The secret of the elements lies within a square triangle.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

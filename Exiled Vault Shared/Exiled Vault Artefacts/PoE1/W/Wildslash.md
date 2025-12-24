@@ -6,5 +6,5 @@ When to swing like crazy, and when to run.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

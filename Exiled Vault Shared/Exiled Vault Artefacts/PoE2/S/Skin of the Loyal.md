@@ -6,5 +6,5 @@ A net woven to keep safe the bones of the Lords.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

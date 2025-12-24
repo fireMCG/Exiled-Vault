@@ -6,5 +6,5 @@ Missionary Lorandis: You are interested, yes? I knew it! Visit Arastas when you 
 ---
 ## Tags
 #Character/MissionaryLorandis
-#NPCTalk
+#Category/NPCTalk
 #Society/TwilightOrder 

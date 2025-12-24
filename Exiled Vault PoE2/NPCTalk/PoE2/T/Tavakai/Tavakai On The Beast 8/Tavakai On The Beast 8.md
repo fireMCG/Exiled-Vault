@@ -69,5 +69,5 @@ Tavakai: Who is to say? It is not my place to know or to guess. I do not even re
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

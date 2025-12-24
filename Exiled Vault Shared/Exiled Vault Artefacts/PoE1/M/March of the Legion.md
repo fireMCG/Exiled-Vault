@@ -5,5 +5,5 @@ When the time comes to face evil, the faithful are never alone.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

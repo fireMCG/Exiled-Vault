@@ -9,5 +9,5 @@ Kaimana: Though you have done me a great deed... perhaps don't stay {too} long. 
 ---
 ## Tags
 #Character/Kaimana
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

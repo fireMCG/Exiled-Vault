@@ -11,5 +11,5 @@ Influenced Item
 ---
 ## Tags
 #Concept/Fate 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

@@ -7,5 +7,5 @@ And the fool was unwritten.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

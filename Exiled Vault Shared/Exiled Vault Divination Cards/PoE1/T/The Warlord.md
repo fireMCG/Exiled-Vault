@@ -13,7 +13,7 @@ Item Level: 83
 ---
 ## Tags
 #Concept/Corruption 
-#Entity/Goddess 
-#Concept/Shatter 
-#DivinationCard
+#Concept/Goddess 
+#Concept/Fracture 
+#Item/DivinationCard
 #PoE1

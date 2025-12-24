@@ -6,5 +6,5 @@ and know that you never stand alone.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

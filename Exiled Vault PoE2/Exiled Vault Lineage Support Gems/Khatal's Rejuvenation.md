@@ -10,6 +10,6 @@ praise the tale-man Khatal, but he was dust on the wind.
 ---
 ## Tags
 #Character/TaleWoman/Khatal
-#Lineage 
-#Society/Abyssal 
+#Item/Lineage 
+#Society/Lightless 
 #Society/Maraketh 

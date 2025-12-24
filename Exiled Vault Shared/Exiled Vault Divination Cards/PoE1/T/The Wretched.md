@@ -10,5 +10,5 @@ Belt
 ---
 ## Tags
 #Concept/Necromancy 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

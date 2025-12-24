@@ -8,5 +8,5 @@ We Brinerot return ye to the sea."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

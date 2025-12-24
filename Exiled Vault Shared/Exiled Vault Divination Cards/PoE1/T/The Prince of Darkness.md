@@ -9,5 +9,5 @@ Elegant Hubris
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

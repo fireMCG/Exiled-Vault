@@ -7,5 +7,5 @@ into a noose for our 'glorious' emperor."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

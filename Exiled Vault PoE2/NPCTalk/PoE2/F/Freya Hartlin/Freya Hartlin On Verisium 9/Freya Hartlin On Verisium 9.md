@@ -102,5 +102,5 @@ Tujen: Ugh! Never mind.
 #Concept/Rune 
 #Concept/Verisium 
 #Character/God/Tangmazu 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur  

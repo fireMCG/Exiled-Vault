@@ -7,6 +7,6 @@ acid that festered inside, the creatures became soured to their very bones.
 
 ---
 ## Tags
-#Concept/Heart 
-#QuestItem
+#Concept/Body/Heart 
+#Item/QuestItem
 #PoE1

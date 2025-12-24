@@ -5,4 +5,4 @@ Rhodri: Nothin' much to see there no more. Got the treasure. Got out. Can go bac
 ---
 ## Tags
 #Character/Rhodri
-#NPCTalk
+#Category/NPCTalk

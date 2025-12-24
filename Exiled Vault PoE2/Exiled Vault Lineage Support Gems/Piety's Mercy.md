@@ -11,7 +11,7 @@ frightened. I don't want to kill you... I'm going to use you."
 ## Tags
 #Character/Piety
 #Concept/Mercy 
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/TemplarOrder 
-#SupportGem
+#Item/SupportGem

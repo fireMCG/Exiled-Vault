@@ -60,5 +60,5 @@ Missionary Lorandis: They seek to conquer us, to rule us. We must act! We must f
 ---
 ## Tags
 #Character/MissionaryLorandis
-#NPCTalk
+#Category/NPCTalk
 #Society/TwilightOrder 

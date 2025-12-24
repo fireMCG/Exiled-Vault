@@ -5,5 +5,5 @@ A wellspring of vitality bubbling from within.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -4,5 +4,5 @@ Shafts of light raise life where they fall.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

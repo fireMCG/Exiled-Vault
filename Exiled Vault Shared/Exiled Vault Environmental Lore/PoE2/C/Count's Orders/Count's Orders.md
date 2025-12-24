@@ -6,7 +6,7 @@ Soldiers of Ogham, The outside threat grows ever stronger. Whispers of betrayal 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Ezomyte 

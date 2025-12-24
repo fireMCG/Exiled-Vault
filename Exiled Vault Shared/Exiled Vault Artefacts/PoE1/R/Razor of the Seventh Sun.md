@@ -7,5 +7,5 @@ the heat of the forge.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -7,6 +7,6 @@ Domain with maddened agony and anger.
 
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE2 

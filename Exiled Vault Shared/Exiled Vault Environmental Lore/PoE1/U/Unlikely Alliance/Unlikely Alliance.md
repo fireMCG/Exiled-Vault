@@ -5,7 +5,7 @@ We were largely indifferent to the struggles of humanity for millennia. Their su
 ---
 ## Tags
 #Bloodline/Titan 
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #Event/ThirdPact 
 #PoE1
-#Timeline 
+#Attributes/Timeline 

@@ -6,6 +6,6 @@ The long chew is half the satisfaction.
 
 ---
 ## Tags
-#AncestorEquipment
+#Item/AncestorEquipment
 #League/Ancestor
 #PoE1 

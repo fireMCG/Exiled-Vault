@@ -4,5 +4,5 @@ I will never sleep again. My fellow journeymen lie twisted on the path, their fa
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

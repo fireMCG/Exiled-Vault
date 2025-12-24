@@ -4,5 +4,5 @@ Life still clings to the highest places.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

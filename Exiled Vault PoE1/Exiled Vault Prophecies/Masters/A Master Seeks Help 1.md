@@ -12,4 +12,4 @@ You will find Alva and complete her mission.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

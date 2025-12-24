@@ -10,5 +10,5 @@ The Light of Meaning
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

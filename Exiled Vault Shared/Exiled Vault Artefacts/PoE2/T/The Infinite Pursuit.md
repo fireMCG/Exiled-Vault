@@ -5,5 +5,5 @@ We move to be closer to her, but the distance yet grows.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

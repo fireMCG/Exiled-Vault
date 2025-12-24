@@ -6,10 +6,10 @@ Only to watch in horror as it ruptured and shattered under a tide of limbs.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/InfiniteHunger 
-#Concept/Hand 
-#Concept/Shatter 
-#Concept/Star 
-#Entity/Tangle 
+#Concept/Body/Hand 
+#Concept/Fracture 
+#Concept/Space/Star 
+#Concept/Tangle 
 #PoE1

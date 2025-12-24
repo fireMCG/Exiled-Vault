@@ -6,6 +6,6 @@ Than the Belly of the Beast
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Beast 
 #PoE1

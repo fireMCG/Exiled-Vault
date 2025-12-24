@@ -18,7 +18,7 @@ Future Sekhema, should you read this message, do not venture further. My eyes ar
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Maraketh 

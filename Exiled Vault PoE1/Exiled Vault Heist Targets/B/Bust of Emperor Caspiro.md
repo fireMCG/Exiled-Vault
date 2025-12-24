@@ -9,7 +9,7 @@ of strength that, sadly, had no meaning to the dark presence that dismembered hi
 #Character/Emperor/Caspiro
 #Character/KondorLarcius
 #Concept/Darkness 
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 
-#Timeline 
+#Attributes/Timeline 

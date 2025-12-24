@@ -8,5 +8,5 @@ Stands long after all else falls.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

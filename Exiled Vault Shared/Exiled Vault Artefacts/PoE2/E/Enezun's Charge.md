@@ -5,5 +5,5 @@ He alone was welcome in the sacred spaces of the Titans.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

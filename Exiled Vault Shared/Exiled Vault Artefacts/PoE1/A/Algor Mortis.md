@@ -5,6 +5,6 @@ Winter's white blanket swaddles all.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Season/Winter 
 #PoE1

@@ -13,9 +13,9 @@ Olroth, Vorana, Medved... three there were. Three dangers.
 #Character/Olroth
 #Character/Uhtred
 #Character/Vorana
-#Concept/Star 
-#Lineage
+#Concept/Space/Star 
+#Item/Lineage
 #PoE2
 #Society/Kalguur 
-#SupportGem
-#Timeline 
+#Item/SupportGem
+#Attributes/Timeline 

@@ -8,5 +8,5 @@ To temper the steel of their spirits.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -4,7 +4,7 @@ The Order was your clan in life, Agnar, Beastmaster, but the First Ones call bac
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

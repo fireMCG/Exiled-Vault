@@ -11,12 +11,12 @@
 #Character/God/Solaris
 #Concept/Curse
 #Concept/Element/Fire 
-#Concept/Heart 
+#Concept/Body/Heart 
 #Concept/Offering 
 #Concept/Sacrifice 
 #Concept/Soul 
 #Concept/Sun 
-#Concept/Wrath
+#Concept/Emotion/Wrath
 #Character/God/Solaris 
 #PoE1 
 #Society/Azmeri 

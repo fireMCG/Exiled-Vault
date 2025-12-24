@@ -6,5 +6,5 @@ we bowed in awe and were crushed.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

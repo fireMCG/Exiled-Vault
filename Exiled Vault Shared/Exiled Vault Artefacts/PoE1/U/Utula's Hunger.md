@@ -5,5 +5,5 @@ The world will end in a divine stomach, once Kitava has eaten all that lives.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

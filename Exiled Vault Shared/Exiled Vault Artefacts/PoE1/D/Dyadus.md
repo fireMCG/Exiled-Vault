@@ -9,5 +9,5 @@ At their mother's side, forever.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

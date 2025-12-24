@@ -8,5 +8,5 @@ that lay dormant deep beneath the earth.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

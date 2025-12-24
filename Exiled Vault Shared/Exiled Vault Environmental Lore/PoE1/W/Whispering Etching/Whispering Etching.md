@@ -4,5 +4,5 @@ Always whispering, always muttering... the Wisps are a cacophony that I cannot d
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

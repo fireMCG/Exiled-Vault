@@ -8,5 +8,5 @@ a thunderous voice echoed across the barren landscape,
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

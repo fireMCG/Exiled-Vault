@@ -5,5 +5,5 @@ Daresso gave me the gem, kissed me, promised that he would be by my side forever
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act1

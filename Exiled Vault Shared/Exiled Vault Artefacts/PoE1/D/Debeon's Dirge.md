@@ -8,5 +8,5 @@ you know death will follow soon.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

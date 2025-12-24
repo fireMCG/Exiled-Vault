@@ -15,4 +15,4 @@ Upgrades [[Winterweave]] to [[Winterweave]] upon completion.
 #Concept/Season/Winter 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

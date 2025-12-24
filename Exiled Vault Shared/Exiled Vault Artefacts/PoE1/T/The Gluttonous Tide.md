@@ -6,10 +6,10 @@ if but for a moment... only to disgorge and do it all again...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/EaterOfWorlds 
-#Concept/Eternity 
+#Concept/Time/Eternity 
 #Concept/Horror 
 #Concept/Hunger 
-#Entity/Tangle 
+#Concept/Tangle 
 #PoE1

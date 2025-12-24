@@ -7,5 +7,5 @@ an odour of evil. Nothing can shield the senses."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

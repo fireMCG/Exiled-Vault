@@ -12,5 +12,5 @@ Non-Critical Strikes cannot inflict Ailments
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

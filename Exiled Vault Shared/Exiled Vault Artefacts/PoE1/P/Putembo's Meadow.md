@@ -8,6 +8,6 @@ No one... except Aul.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
-#Timeline 
+#Attributes/Timeline 

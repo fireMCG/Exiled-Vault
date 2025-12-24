@@ -42,7 +42,7 @@ Godsgift Eldysley. Days survived: Nineteen Ate some vibrant berries. Guts ruptur
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Unknown 

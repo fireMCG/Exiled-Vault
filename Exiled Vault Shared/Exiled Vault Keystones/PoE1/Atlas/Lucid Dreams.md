@@ -11,5 +11,5 @@ Vaal Side Areas in your Maps are no longer Corrupted
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

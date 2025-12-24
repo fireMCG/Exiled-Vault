@@ -6,6 +6,6 @@ Few can claim to have as much blood on their hands as the Templars. In their thi
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

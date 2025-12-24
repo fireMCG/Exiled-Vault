@@ -6,7 +6,7 @@ Our mistake was holding on to hope. Even after the sky turned crimson and the se
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/EternalEmpire 

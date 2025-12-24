@@ -5,5 +5,5 @@ What began in the stars was settled in blood, beneath an uncaring sky.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

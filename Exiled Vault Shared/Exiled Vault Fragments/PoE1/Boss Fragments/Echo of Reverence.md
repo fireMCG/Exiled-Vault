@@ -6,5 +6,5 @@ Simple kindness makes the most powerful of memories.
 
 ---
 ## Tags
-#Fragment
+#Item/Fragment
 #PoE1 

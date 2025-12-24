@@ -6,4 +6,4 @@ Torbik: Struck off on my own several years ago. It's tough, surviving the Vastir
 ---
 ## Tags
 #Character/Torbik
-#NPCTalk
+#Category/NPCTalk

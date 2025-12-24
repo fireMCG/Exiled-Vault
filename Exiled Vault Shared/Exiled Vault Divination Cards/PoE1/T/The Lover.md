@@ -10,5 +10,5 @@ Item Level: 79
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

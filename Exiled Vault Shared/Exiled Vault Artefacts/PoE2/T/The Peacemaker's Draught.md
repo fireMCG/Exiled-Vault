@@ -6,5 +6,5 @@ but many worried that it had also left the people soft.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

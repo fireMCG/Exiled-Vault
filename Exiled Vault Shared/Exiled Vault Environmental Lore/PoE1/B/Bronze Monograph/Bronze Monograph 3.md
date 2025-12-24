@@ -5,5 +5,5 @@ Fear gnaws at the entrails of the faithful and the faithless alike. Fear of the 
 ##
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1

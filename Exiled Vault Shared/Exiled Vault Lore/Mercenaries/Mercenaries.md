@@ -694,4 +694,4 @@ The Eternal Empire stopped exiling people to Trarthus after 872 IC. They began b
 
 ---
 ## Tags
-#Lore 
+#Category/Lore 

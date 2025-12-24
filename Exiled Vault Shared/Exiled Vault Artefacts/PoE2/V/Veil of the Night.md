@@ -8,5 +8,5 @@ And bloom steel flowers of victory.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -12,5 +12,5 @@ Rog, the Dealer: People duck in here to seek refuge from him, and I make a sale 
 ---
 ## Tags
 #Character/Rog 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

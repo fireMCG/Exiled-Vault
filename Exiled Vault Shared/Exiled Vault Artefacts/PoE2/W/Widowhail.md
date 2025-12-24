@@ -9,5 +9,5 @@ I felt nothing but cold fury."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

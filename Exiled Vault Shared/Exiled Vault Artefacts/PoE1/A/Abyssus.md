@@ -6,6 +6,6 @@ what is left to fear?
 
 ---
 ## Tags
-#Artefact
-#Concept/Fear 
+#Item/Artefact
+#Concept/Emotion/Fear 
 #PoE1

@@ -10,9 +10,9 @@ We shall see whether he was a prophet - or a charlatan.
 #Character/BalabusArimor
 #Character/Emperor/ChitusPerandus
 #Character/RingClient/MidnightTinkerer
-#Concept/Immortality 
+#Concept/Life/Immortality 
 #Concept/Sacrifice 
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 
 #Society/EternalEmpire 

@@ -6,6 +6,6 @@ How do you defeat that which dwells within you?
 
 ---
 ## Tags
-#Fragment 
-#Historical 
+#Item/Fragment 
+#Attributes/Historical 
 #PoE2 

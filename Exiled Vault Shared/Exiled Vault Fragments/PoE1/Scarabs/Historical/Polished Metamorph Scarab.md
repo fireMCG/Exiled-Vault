@@ -4,7 +4,7 @@ As you explore the vast well of human darkness, Saresh, our Surgeon of the Dead,
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

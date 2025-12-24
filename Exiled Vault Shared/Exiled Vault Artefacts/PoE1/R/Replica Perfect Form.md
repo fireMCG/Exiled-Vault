@@ -7,5 +7,5 @@ was different before. Now, it's always been this way!"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

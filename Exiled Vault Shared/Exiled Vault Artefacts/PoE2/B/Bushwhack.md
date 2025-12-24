@@ -6,5 +6,5 @@ Erian learned to hunt to survive.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -5,5 +5,5 @@ The priest that carried Yaomac's sigil was granted one boon by each serpentine h
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

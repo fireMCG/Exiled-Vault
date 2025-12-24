@@ -9,5 +9,5 @@ Maw of Mischief
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

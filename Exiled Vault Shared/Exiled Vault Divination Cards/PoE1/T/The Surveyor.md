@@ -10,5 +10,5 @@ Map Tier: 14
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

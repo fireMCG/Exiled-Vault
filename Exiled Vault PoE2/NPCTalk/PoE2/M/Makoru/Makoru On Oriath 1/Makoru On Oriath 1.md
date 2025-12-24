@@ -6,5 +6,5 @@ Makoru: So, a united Wraeclast sails at our back. Who would've thought? We'll sp
 ---
 ## Tags
 #Character/Makoru
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

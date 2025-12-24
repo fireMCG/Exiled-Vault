@@ -7,5 +7,5 @@ Vanish like smoke in the wind.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

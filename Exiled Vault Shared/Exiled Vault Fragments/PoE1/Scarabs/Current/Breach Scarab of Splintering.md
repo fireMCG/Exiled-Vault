@@ -7,4 +7,4 @@ Bit by bit.
 ---
 ## Tags
 #League/Breach
-#Scarab
+#Item/Scarab

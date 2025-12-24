@@ -8,14 +8,14 @@ capable of banishing darkness, and bringing order to the chaos in men's hearts.
 ## Tags
 #Character/God/Innocence 
 #Concept/Blood
-#Concept/Chaos
+#Concept/Balance/Chaos
 #Concept/Darkness
-#Concept/Gold 
-#Concept/Heart 
-#Concept/Order
+#Concept/Colour/Gold 
+#Concept/Body/Heart 
+#Concept/Balance/Order
 #Concept/Purity 
 #Character/God/Innocence 
-#QuestItem
+#Item/QuestItem
 #PoE1
 #Society/TemplarOrder 
-#Timeline 
+#Attributes/Timeline 

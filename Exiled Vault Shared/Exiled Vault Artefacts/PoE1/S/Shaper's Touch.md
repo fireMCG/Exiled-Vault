@@ -8,9 +8,9 @@ Nothing.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Shaper 
 #Character/ValdoCaeserius
-#Concept/Cycle 
+#Concept/Time/Cycle 
 #Concept/Life 
 #PoE1

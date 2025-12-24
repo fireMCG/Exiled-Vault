@@ -7,5 +7,5 @@ one lantern carries a single flame.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

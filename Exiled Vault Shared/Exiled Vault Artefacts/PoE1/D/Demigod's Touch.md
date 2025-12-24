@@ -6,5 +6,5 @@ Victory is at hand.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

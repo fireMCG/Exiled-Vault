@@ -18,5 +18,5 @@ to galvanize one's purpose in life."
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

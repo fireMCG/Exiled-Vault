@@ -6,5 +6,5 @@ Flashes of light show only swinging axes... and a grin.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

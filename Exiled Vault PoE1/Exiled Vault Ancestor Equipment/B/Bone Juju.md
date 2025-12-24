@@ -7,8 +7,8 @@ Life springs from death in a grand cycle.
 
 ---
 ## Tags
-#AncestorEquipment
-#Concept/Cycle
+#Item/AncestorEquipment
+#Concept/Time/Cycle
 #Concept/Death 
 #Concept/Life 
 #League/Ancestor

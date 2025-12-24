@@ -14,6 +14,6 @@ Then, for the first time in my life, I truly awoke.
 #
 ---
 ## Tags
-#EnvironmentalLore 
-#Historical 
+#Category/Lore/Environmental 
+#Attributes/Historical 
 #PoE1 

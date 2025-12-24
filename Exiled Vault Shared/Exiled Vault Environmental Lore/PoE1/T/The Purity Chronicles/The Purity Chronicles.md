@@ -19,5 +19,5 @@ Voll condemned Malachai to the Crematorium for 'living conflagration', but it se
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act3

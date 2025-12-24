@@ -10,5 +10,5 @@ Maximum Life becomes 1, Immune to Chaos Damage
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

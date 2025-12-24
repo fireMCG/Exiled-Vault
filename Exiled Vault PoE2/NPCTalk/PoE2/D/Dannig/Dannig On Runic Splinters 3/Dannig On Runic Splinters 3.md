@@ -33,5 +33,5 @@ Dannig: It's not {great} that a piece came off, but it's tiny, and the artefact 
 ---
 ## Tags
 #Character/Dannig 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

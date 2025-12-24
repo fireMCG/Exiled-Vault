@@ -11,10 +11,10 @@ Upgrades [[Queen's Decree]] to [[Queen's Escape]] upon completion.
 
 ---
 ## Tags
-#Concept/Bone 
-#Concept/Flesh 
+#Concept/Body/Bone 
+#Concept/Body/Flesh 
 #Concept/Queen 
 #Concept/Undead 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

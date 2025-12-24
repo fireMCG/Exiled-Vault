@@ -7,5 +7,5 @@ forever cold.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

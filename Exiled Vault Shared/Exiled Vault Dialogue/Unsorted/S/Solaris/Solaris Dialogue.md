@@ -5,4 +5,4 @@ Let's get rid of this mortal.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

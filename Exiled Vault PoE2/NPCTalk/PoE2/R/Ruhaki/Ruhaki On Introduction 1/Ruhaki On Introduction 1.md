@@ -6,5 +6,5 @@ Ruhaki: Hail! That's what you outsiders say, right? I thought I heard the clink 
 ---
 ## Tags
 #Character/Ruhaki
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

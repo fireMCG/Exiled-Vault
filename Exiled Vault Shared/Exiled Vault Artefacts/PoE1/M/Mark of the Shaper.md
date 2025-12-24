@@ -5,7 +5,7 @@ Let madness take control.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Shaper 
 #Character/ValdoCaeserius
 #Concept/Madness 

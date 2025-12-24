@@ -7,5 +7,5 @@ A glass will still your soul.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

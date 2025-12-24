@@ -13,6 +13,6 @@ Corrupted
 
 ---
 ## Tags
-#Concept/Dream 
-#DivinationCard
+#Concept/Night/Dream 
+#Item/DivinationCard
 #PoE1

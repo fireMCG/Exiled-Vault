@@ -6,5 +6,5 @@ Thaumaturgy allowed Maligaro to return the favour.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

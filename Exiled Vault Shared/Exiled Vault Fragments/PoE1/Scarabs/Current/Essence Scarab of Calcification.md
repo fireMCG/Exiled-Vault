@@ -6,4 +6,4 @@ The crystals... can spread?
 
 ---
 ## Tags
-#Scarab
+#Item/Scarab

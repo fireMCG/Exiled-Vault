@@ -7,5 +7,5 @@ We are still finding explosives in the vents months later."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

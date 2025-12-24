@@ -8,5 +8,5 @@ The fire rises!
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -477,4 +477,4 @@ I die a true warrior.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

@@ -12,5 +12,5 @@ Monsters in your Maps have 25% less Life
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

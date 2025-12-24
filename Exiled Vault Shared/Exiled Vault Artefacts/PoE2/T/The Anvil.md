@@ -5,5 +5,5 @@ Forge your Perseverance on the Anvil of Faith.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -6,5 +6,5 @@ the cracks through which the Nightmare crawls.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

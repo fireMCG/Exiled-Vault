@@ -6,5 +6,5 @@ Eager for vengeance against all who walk free.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

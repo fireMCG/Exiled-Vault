@@ -10,5 +10,5 @@ For every threat you spy in the shadows, there are two others you don't.
 ---
 ## Tags
 #Concept/Number/Three 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

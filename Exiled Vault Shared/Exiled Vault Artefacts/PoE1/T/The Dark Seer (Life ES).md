@@ -7,5 +7,5 @@ Until we are one in shadow.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

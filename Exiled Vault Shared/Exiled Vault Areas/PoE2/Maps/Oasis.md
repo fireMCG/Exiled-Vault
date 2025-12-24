@@ -4,5 +4,5 @@ Hidden amongst sunbleached wastes lies a mockery of paradise.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

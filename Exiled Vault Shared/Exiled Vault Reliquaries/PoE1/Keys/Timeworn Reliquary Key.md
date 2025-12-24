@@ -7,6 +7,6 @@ Floundering eternal in pools of tranquil dark.
 
 ---
 ## Tags
-#DropDisabled 
+#Attributes/Disabled 
 #PoE1 
-#Reliquary
+#Category/Reliquary

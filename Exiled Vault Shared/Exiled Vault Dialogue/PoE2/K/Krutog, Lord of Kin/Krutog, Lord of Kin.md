@@ -47,5 +47,5 @@ Angry!
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

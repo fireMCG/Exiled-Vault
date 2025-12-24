@@ -15,9 +15,9 @@ Elder Item
 #Character/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Element 
-#Concept/Fear 
+#Concept/Emotion/Fear 
 #Concept/Nature
 #Concept/Void
-#DivinationCard
-#Entity/Decay
+#Item/DivinationCard
+#Concept/Decay
 #PoE1

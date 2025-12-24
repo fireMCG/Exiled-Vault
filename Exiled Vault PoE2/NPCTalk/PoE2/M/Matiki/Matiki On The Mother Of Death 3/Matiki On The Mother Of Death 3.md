@@ -12,5 +12,5 @@ Matiki: Oh... no matter. Not really anything significant. Hah.
 ---
 ## Tags
 #Character/Matiki
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

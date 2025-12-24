@@ -14,4 +14,4 @@ For their Spirit is swift and deadly certain.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Talisman 
+#Item/Talisman 

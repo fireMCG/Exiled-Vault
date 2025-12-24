@@ -4,7 +4,7 @@ How is it possible that you found no trace of the weapon after so many years? Th
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/TwilightOrder 

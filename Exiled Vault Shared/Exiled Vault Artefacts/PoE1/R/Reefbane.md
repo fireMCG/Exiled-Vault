@@ -6,5 +6,5 @@ And tore out her heart.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

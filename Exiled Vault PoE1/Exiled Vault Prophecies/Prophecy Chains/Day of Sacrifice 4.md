@@ -13,4 +13,4 @@ The monster drops a Sacrifice at Midnight.
 #Concept/Sacrifice 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

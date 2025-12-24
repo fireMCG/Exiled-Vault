@@ -8,5 +8,5 @@ Zelina: The King in the Mists would have conquered us long ago, if he was capabl
 ## Tags
 #Character/KingInTheMists
 #Character/Zelina
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

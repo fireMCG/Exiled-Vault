@@ -6,5 +6,5 @@ We know all that you think.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

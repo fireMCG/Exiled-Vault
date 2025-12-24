@@ -6,4 +6,4 @@ Wealth flows to those that shine brightest.
 
 ---
 ## Tags
-#Scarab
+#Item/Scarab

@@ -9,5 +9,5 @@ There will be blood on these shackles yet."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

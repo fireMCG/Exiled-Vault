@@ -6,5 +6,5 @@ Stiff as a feather.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

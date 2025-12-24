@@ -11,5 +11,5 @@ Effects that interact with Mana Burn interact with Weeping Wounds instead
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

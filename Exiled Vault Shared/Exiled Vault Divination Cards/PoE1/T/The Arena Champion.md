@@ -10,5 +10,7 @@ Map Tier: 12
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Moon 
+#Concept/Sun 
+#Item/DivinationCard
 #PoE1

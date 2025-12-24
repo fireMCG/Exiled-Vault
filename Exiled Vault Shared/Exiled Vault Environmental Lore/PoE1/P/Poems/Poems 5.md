@@ -19,6 +19,6 @@ Guided by his love for Ezomyr.
 #
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1
-#Timeline 
+#Attributes/Timeline 

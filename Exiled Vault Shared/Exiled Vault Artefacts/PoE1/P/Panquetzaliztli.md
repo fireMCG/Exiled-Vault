@@ -7,6 +7,6 @@ Progress cannot be eternal."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
 #Society/VaalEmpire 

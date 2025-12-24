@@ -7,4 +7,4 @@ Those that can never die fear only pain.
 ---
 ## Tags
 #League/Betrayal
-#Scarab
+#Item/Scarab

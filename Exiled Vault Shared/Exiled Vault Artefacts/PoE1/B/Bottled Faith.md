@@ -5,5 +5,5 @@ A tourniquet for the soul, squeezing ethereal into physical.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

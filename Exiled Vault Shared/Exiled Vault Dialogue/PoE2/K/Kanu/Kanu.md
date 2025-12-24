@@ -151,5 +151,5 @@ We've arrived.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

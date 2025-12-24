@@ -4,7 +4,7 @@ The Abyssals creep forth by night and by storm. Their eons underground were not 
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

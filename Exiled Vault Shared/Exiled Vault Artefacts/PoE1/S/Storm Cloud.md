@@ -7,5 +7,5 @@ into very effective lightning rods.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

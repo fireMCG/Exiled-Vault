@@ -6,6 +6,6 @@ casts a shroud over Wraeclast.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
 #Society/VaalEmpire 

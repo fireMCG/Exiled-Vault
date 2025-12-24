@@ -4,5 +4,5 @@ I vowed to "care for this empire with my eyes open". I lied to my people. I lied
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act4

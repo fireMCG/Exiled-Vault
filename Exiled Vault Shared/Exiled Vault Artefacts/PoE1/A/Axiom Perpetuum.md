@@ -5,7 +5,7 @@ The worst of Axiom were imprisoned by more than iron.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Prison 
 #PoE1
 #Society/EternalEmpire 

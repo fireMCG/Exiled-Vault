@@ -38,5 +38,5 @@ Rog, the Dealer: Hmm, Kalguuran merchant vessels don't intentionally seek out da
 #Character/Alva 
 #Character/Makoru
 #Character/Rog
-#NPCTalk 
+#Category/NPCTalk 
 #Society/Kalguur 

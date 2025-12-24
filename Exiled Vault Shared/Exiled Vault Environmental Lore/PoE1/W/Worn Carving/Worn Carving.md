@@ -4,5 +4,5 @@ Mother Matriarch, Ryslatha, white worm that corrupts the earth, long may I rest 
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act6

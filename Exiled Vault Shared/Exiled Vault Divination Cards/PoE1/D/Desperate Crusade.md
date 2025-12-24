@@ -9,5 +9,5 @@ Prism Guardian
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

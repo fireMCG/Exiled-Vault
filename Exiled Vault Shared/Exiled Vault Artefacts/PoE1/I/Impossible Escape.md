@@ -7,10 +7,10 @@ for supremacy. She alone reached her limit... and broke through.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Maven
-#Concept/Cosmos 
+#Concept/Space 
 #Concept/Death 
 #Concept/Prison 
-#Entity/Progenitor
+#Concept/Progenitor
 #PoE1

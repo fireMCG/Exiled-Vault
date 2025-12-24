@@ -5,5 +5,5 @@ Healing the soul requires sacrifice.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

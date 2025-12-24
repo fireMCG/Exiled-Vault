@@ -6,6 +6,6 @@ But this pilgrimage to the peak was to be his last.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
-#Timeline 
+#Attributes/Timeline 

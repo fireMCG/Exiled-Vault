@@ -8,12 +8,12 @@ It is said the Vaalish noble, Zerphi, lived for 168 years. That is more than thr
 #Character/Zerphi
 #Concept/Eclipse 
 #Concept/Gemling 
-#Concept/Immortality 
+#Concept/Life/Immortality 
 #Concept/Murder
 #Concept/Number/Thirteen
 #Concept/Sacrifice 
 #Concept/Torture 
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act3
 #Society/VaalEmpire 
-#Timeline 
+#Attributes/Timeline 

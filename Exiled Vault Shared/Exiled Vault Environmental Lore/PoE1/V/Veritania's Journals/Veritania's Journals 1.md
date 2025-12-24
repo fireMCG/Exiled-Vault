@@ -11,5 +11,5 @@ Veritania the Disciplined
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1 

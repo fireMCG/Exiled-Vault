@@ -10,6 +10,6 @@ Mirror Shard
 ---
 ## Tags
 #Concept/Mirror 
-#Concept/Shatter 
-#DivinationCard
+#Concept/Fracture 
+#Item/DivinationCard
 #PoE1

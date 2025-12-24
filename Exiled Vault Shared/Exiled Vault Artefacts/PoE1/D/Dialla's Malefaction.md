@@ -8,5 +8,5 @@ And I'd do it again in an instant.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

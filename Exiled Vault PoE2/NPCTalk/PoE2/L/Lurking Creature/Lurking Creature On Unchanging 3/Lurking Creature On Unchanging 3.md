@@ -31,5 +31,5 @@ Lurking Creature: This one serves. This one has always served. Unchanging. The m
 ---
 ## Tags
 #Character/LurkingCreature
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

@@ -9,6 +9,6 @@ rather, a wooden box... about to be closed and lowered into earthy depths.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1
 #Society/Maraketh 

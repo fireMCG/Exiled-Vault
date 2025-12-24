@@ -4,7 +4,7 @@ Consider yourself an orphaned Eternal no longer, young Betucia. The Order of the
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

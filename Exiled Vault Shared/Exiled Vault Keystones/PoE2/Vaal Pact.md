@@ -12,5 +12,5 @@ Cannot use Life Flasks
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE2 

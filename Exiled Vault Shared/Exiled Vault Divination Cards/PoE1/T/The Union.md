@@ -12,5 +12,5 @@ the setting sun.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

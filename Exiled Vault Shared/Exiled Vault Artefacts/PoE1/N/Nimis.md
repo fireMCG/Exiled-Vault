@@ -6,7 +6,7 @@ too much of nothing is just as tough.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/EaterOfWorlds 
-#Entity/Tangle 
+#Concept/Tangle 
 #PoE1

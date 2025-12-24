@@ -9,5 +9,5 @@ Soul Taker
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

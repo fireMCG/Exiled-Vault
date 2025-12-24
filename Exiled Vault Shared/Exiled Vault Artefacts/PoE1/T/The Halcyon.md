@@ -6,5 +6,5 @@ To join the great avalanche.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -12,4 +12,4 @@ The [[Ascent From Flesh]] will drop.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

@@ -14,7 +14,7 @@ Upgrades [[Kaom's Sign]] to [[Kaom's Way]] upon completion.
 #Character/Kaom 
 #Concept/King 
 #Concept/Madness 
-#Concept/Volcano 
+#Concept/Nature/Volcano 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

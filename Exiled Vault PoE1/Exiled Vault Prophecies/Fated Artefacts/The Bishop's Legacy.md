@@ -14,4 +14,4 @@ Upgrades [[Geofri's Crest]] to [[Geofri's Legacy]] upon completion.
 #Concept/Religion 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

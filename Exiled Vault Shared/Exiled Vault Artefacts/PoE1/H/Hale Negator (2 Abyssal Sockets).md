@@ -6,5 +6,5 @@ Feel the doom of dying souls."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

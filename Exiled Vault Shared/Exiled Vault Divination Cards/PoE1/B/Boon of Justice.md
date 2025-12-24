@@ -9,5 +9,5 @@ Offering to the Goddess
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

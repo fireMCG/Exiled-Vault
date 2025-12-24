@@ -6,5 +6,5 @@ It remembers those that stood in defiance.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -5,5 +5,5 @@ I bargained with an entity far greater than the Templars, far greater than mysel
 ##
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE1

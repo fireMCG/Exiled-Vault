@@ -6,5 +6,5 @@ Prototype #78 serves as a prime example."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

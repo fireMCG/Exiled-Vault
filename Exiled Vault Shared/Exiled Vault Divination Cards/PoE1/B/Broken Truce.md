@@ -9,5 +9,5 @@ Cold Iron Point
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

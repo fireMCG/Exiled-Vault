@@ -5,5 +5,5 @@ A life without risk is no life at all.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,5 +6,5 @@ Dance beneath the orb of gold!
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

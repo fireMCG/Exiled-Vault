@@ -7,6 +7,6 @@ They simply love to be held."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
 #Society/VaalEmpire 

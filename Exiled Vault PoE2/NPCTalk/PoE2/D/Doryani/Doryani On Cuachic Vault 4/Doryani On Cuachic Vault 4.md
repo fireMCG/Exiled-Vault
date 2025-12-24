@@ -36,5 +36,5 @@ Doryani: If they will not listen, I will come to assist you. Remember, subdue th
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

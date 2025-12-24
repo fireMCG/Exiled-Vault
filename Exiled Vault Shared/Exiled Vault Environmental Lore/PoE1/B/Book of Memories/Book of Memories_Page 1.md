@@ -4,6 +4,6 @@ I am Valdo Caeserius, chief Arkhon of the Oriath academy in Theopolis. Servant o
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

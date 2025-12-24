@@ -7,5 +7,5 @@ The Council cannot afford to falter."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

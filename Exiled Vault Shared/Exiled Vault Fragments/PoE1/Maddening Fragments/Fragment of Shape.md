@@ -9,6 +9,6 @@ Beauty is in the eye of the creator.
 #Character/Shaper 
 #Character/ValdoCaeserius
 #Concept/Creation 
-#Concept/Eye 
-#Fragment
+#Concept/Body/Eye 
+#Item/Fragment
 #PoE1 

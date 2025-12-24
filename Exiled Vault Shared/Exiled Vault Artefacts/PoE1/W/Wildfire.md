@@ -7,5 +7,5 @@ The rest fled like rats from a fire.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

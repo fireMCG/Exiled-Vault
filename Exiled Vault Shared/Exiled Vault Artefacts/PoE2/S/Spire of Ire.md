@@ -6,5 +6,5 @@ but Maligaro never got a chance to use it...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -6,9 +6,9 @@ held back only by the lies we tell ourselves.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Maven
-#Concept/Evil
+#Concept/Morality/Evil
 #Concept/Mirror 
 #Concept/Within 
 #PoE1

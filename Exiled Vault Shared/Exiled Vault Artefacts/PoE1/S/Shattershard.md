@@ -5,5 +5,5 @@ Fragile, explosive, and punishing.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

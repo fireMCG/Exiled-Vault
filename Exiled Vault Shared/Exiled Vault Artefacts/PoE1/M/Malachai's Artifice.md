@@ -7,5 +7,5 @@ and watch the others break.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

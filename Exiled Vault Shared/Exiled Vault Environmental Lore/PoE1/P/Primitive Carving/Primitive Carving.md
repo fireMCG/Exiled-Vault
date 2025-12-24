@@ -9,10 +9,10 @@ So many have scrutinised the inner workings of the heart, written entire books o
 ## Tags
 #Character/God/Abberath 
 #Character/God/Yugul
-#Concept/Heart 
+#Concept/Body/Heart 
 #Concept/Soul 
 #Character/God/Abberath 
 #Character/God/Yugul 
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act6
 #Society/VaalEmpire 

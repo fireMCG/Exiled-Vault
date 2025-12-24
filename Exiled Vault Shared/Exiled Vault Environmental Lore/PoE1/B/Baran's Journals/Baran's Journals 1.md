@@ -11,5 +11,5 @@ Baran, son of Galhad
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1 

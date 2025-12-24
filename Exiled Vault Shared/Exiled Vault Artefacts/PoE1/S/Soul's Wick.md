@@ -8,5 +8,5 @@ Their light is fleeting, as a dream...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

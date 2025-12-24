@@ -6,5 +6,5 @@ through the iron might of artifice.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

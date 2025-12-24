@@ -7,4 +7,4 @@ The tendrils creep and grow...
 ---
 ## Tags
 #League/Blight
-#Scarab
+#Item/Scarab

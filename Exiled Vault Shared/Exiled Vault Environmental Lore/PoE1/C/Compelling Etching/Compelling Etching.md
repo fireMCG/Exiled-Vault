@@ -4,5 +4,5 @@ His words are compelling. In this place, it is difficult to remember our former 
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

@@ -11,5 +11,5 @@ I'll do it for her.
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1 

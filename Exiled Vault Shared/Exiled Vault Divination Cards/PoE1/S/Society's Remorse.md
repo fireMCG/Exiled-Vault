@@ -10,7 +10,7 @@ The world is already beautiful, there's no need to dream.
 
 ---
 ## Tags
-#Concept/Dream 
+#Concept/Night/Dream 
 #Concept/Soul 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

@@ -6,10 +6,10 @@ naught remains but ash.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Maven 
 #Concept/Ash 
-#Concept/Hate 
-#Concept/Love 
-#Concept/Wrath 
+#Concept/Emotion/Hate 
+#Concept/Emotion/Love 
+#Concept/Emotion/Wrath 
 #PoE1

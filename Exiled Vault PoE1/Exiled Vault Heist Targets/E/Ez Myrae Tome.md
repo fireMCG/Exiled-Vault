@@ -8,6 +8,6 @@ only rediscovered hundreds of years after the death of its unknown author.
 ## Tags
 #Character/RingClient/CrimsonScribe
 #Character/Lycia 
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 

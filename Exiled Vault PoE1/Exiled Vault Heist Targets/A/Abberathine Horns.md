@@ -9,6 +9,6 @@ Morbid curiosity compels me to add it to my collection of oddities.
 #Character/RingClient/AlineKoltz
 #Concept/Horn
 #Concept/Sulphite
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 

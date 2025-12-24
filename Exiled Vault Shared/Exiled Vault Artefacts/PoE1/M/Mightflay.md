@@ -5,5 +5,5 @@ A mighty beast, a lavish feast.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

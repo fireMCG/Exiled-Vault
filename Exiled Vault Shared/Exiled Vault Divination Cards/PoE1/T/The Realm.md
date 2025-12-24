@@ -10,5 +10,5 @@ Quality: +1-20%
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

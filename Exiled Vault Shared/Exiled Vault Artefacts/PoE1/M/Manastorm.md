@@ -5,5 +5,5 @@ Fear not the fury of the storm.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

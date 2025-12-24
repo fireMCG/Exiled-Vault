@@ -33,5 +33,5 @@ Tujen: Sometimes our convictions make monsters of us. I hope there is a way to s
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

@@ -6,5 +6,5 @@ Gain power you could not have grasped.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

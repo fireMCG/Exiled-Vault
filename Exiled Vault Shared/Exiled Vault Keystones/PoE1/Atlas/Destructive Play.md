@@ -15,5 +15,5 @@ Modifiers to the Final Map Boss in each Map also apply to these summoned Bosses
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

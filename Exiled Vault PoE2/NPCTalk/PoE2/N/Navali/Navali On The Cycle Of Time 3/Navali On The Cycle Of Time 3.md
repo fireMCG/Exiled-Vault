@@ -33,5 +33,5 @@ Mercenary: I shouldn't have asked.
 ---
 ## Tags
 #Character/Hatungo/Navali
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui/Tribe/Hinekora 

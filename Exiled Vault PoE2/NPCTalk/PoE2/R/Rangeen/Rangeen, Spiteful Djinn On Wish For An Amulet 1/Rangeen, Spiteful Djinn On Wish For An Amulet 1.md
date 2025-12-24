@@ -6,5 +6,5 @@ Rangeen, Spiteful Djinn: May it chafe your neck.
 ---
 ## Tags
 #Character/Djinn/Rangeen
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh 

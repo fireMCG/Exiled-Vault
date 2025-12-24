@@ -4,5 +4,5 @@ Fishermen once reaped a rich bounty here.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

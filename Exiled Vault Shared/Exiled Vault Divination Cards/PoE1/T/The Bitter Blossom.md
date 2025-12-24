@@ -11,5 +11,8 @@ Corrupted
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Demon 
+#Concept/Nature/Flower 
+#Concept/Virtue/Gem 
+#Item/DivinationCard
 #PoE1

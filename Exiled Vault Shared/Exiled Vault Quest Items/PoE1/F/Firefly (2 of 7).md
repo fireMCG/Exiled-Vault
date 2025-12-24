@@ -5,6 +5,6 @@ A passionate fire that consumes the heart.
 
 ---
 ## Tags
-#Concept/Heart 
-#QuestItem
+#Concept/Body/Heart 
+#Item/QuestItem
 #PoE1

@@ -6,5 +6,5 @@ reaching out to wreak pain and ruination.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

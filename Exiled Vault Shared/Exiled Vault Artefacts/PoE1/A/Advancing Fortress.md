@@ -8,10 +8,10 @@ In heart, in mind, in hand."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Sekhema/Deshret 
-#Concept/Hand
-#Concept/Heart 
+#Concept/Body/Hand
+#Concept/Body/Heart 
 #Concept/Mind 
 #PoE1
 #Society/Maraketh 

@@ -10,7 +10,7 @@ It has been written of Queen Atziri that her throne room was lined with mirrors 
 #Concept/Mirror 
 #Concept/Queen
 #Concept/Sin/Vanity 
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act3
 #Society/VaalEmpire 
-#Timeline 
+#Attributes/Timeline 

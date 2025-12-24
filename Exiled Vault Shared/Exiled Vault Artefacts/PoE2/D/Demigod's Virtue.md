@@ -6,5 +6,5 @@ are proven inherently right and true.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -6,5 +6,5 @@ Set the world 'fore you alight.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,5 +6,5 @@ that protects us from ourselves.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

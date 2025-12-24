@@ -34,4 +34,4 @@ Druid: Gods rise and fall... but the Draíocht abides in all livin' things. The 
 ## Tags
 #Character/God/Sin 
 #Character/God/Sin 
-#NPCTalk
+#Category/NPCTalk

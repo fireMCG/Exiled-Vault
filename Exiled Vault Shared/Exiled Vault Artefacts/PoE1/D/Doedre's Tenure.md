@@ -6,5 +6,5 @@ she surpassed her master in pure malevolence.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

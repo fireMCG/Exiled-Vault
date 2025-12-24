@@ -5,5 +5,5 @@ Dear Shavronne, You have certainly had your work cut out for you with Lioneye's 
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act1

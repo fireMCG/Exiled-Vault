@@ -6,5 +6,5 @@ Wrashmin fought not to win, but to delay.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

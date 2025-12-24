@@ -7,5 +7,5 @@ place of his standard lab attire is... granted."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -5,5 +5,5 @@ Suspicion is a sinister shadow slithering in the soul.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

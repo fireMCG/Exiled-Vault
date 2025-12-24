@@ -9,7 +9,7 @@ By decree of the Count of Ogham, Your whispering and conspiring has not gone unn
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Ezomyte 

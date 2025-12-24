@@ -102,5 +102,5 @@ Tujen: I'll stay with Freya.
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

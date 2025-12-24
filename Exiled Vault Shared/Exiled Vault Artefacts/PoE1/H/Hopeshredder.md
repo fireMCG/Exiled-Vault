@@ -8,7 +8,7 @@ and bathed in fear and ferocity.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Elder 
-#Entity/Decay
+#Concept/Decay
 #PoE1

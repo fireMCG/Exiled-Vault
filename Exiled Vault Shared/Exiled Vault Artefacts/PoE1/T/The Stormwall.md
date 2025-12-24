@@ -6,5 +6,5 @@ But you can utilise it.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

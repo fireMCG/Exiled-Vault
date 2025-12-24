@@ -4,5 +4,5 @@ Wild lands spurn those who claim to rule them.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

@@ -5,5 +5,5 @@ As the serpent wills.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

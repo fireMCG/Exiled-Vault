@@ -6,6 +6,6 @@ before he learns it is not fish that he seeks.
 
 ---
 ## Tags
-#Artefact
-#Concept/Fish 
+#Item/Artefact
+#Concept/Animal/Fish 
 #PoE1

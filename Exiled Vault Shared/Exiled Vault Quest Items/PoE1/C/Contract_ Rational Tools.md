@@ -6,5 +6,5 @@ say anything to make the pain stop, and that's the point. Guilt is irrelevant.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

@@ -10,5 +10,5 @@ Damaging Retaliation Skills become Usable every sixth Hit from Enemies instead
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

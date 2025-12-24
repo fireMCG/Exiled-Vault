@@ -13,9 +13,9 @@ Upgrades [[Sundance]] to [[Sunspite]] upon completion.
 ## Tags
 #Character/Dawn
 #Character/God/Solaris 
-#Concept/Dawn 
+#Concept/Time/Dawn 
 #Concept/Death
 #Concept/Sun 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

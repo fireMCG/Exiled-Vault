@@ -6,9 +6,9 @@ than the scintillating light of utter clarity.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/SearingExarch 
-#Concept/Heaven 
+#Concept/Religion/Heaven 
 #Concept/Light 
-#Entity/CleansingFire 
+#Concept/Cleansing 
 #PoE1

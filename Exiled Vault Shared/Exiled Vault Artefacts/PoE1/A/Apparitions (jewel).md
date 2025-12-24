@@ -5,7 +5,7 @@ When you create life from nothing, sometimes things get a little stuck in betwee
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Life 
 #Concept/Void 
 #PoE1

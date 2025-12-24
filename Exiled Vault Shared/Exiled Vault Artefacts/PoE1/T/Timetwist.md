@@ -7,6 +7,6 @@ time passes without relent."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
 #Society/VaalEmpire 

@@ -7,7 +7,7 @@ Yet the fates of others dragged in their wake.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Fate 
 #Concept/Wind
 #Concept/Wing 

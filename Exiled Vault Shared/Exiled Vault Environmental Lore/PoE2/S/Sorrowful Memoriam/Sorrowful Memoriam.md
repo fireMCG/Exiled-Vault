@@ -9,7 +9,7 @@ My beloved son, your death shall be avenged, even if it takes one thousand years
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/EternalEmpire 

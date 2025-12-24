@@ -90,5 +90,5 @@ Navali: You may enter. We will be watching.
 ---
 ## Tags
 #Character/Matiki
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

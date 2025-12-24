@@ -6,5 +6,5 @@ to the slaying of Phaaryl's Eternal oppressors.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -14,7 +14,7 @@ Corrupted
 ## Tags
 #Concept/Blood 
 #Concept/Corruption 
-#Concept/Heart 
+#Concept/Body/Heart 
 #Concept/Purity 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

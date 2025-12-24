@@ -6,5 +6,5 @@ and so we turn to dust.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -114,5 +114,5 @@ Matiki: I know so. A benefit of being as old as I am. Hah!
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

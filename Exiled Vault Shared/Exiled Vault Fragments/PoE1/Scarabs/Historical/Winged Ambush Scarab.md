@@ -4,7 +4,7 @@ In the absence of a strong martial presence, the renegades rise once more. Their
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

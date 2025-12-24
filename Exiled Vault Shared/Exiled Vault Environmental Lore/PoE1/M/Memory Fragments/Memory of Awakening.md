@@ -12,6 +12,6 @@ Then, I will ensure that no blight may ever sprout again.
 #
 ---
 ## Tags
-#EnvironmentalLore 
-#Historical 
+#Category/Lore/Environmental 
+#Attributes/Historical 
 #PoE1 

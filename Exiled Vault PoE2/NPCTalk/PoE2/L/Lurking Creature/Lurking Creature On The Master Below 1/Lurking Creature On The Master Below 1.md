@@ -8,5 +8,5 @@ Lurking Creature: Kulemak serves The Master Below All. The Lich Lords serve Kule
 ## Tags
 #Character/Kulemak 
 #Character/LurkingCreature
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

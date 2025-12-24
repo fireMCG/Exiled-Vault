@@ -13,4 +13,4 @@ The First One bared its fangs and savoured its final breath.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Talisman 
+#Item/Talisman 

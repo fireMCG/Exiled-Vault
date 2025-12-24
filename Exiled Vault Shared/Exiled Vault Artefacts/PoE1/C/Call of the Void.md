@@ -6,12 +6,12 @@ can the cold truth of existence take hold.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius 
-#Concept/Ambition 
+#Concept/Virtue/Ambition 
 #Concept/Mind 
 #Concept/Void 
-#Entity/Decay
+#Concept/Decay
 #PoE1

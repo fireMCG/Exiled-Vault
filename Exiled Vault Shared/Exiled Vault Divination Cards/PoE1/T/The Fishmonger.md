@@ -9,5 +9,5 @@ Albino Rhoa Feather
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

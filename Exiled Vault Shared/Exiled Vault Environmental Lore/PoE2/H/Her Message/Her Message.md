@@ -6,7 +6,7 @@ My valiant Wulfric, You drive me forward. You give me purpose. I am but dust wit
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Ezomyte 

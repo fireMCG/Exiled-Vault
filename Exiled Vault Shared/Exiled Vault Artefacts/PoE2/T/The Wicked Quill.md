@@ -6,5 +6,5 @@ the pages torn to a million pieces.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

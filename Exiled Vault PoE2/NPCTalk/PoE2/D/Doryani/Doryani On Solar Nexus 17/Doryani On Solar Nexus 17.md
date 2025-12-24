@@ -50,5 +50,5 @@ Duelist: [DNT]
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

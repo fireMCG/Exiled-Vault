@@ -7,4 +7,4 @@ They say if you go far enough, you will meet yourself...
 ---
 ## Tags
 #League/Incursion 
-#Scarab
+#Item/Scarab

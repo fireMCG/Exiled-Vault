@@ -6,5 +6,5 @@ Missionary Lorandis: Friend, I have urgent news for you. Time is short and the u
 ---
 ## Tags
 #Character/MissionaryLorandis
-#NPCTalk
+#Category/NPCTalk
 #Society/TwilightOrder 

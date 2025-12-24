@@ -7,9 +7,9 @@ then rose into the living sky. My family screams alongside me still."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/EaterOfWorlds 
-#Concept/Flesh 
+#Concept/Body/Flesh 
 #Concept/Sky 
-#Entity/Tangle 
+#Concept/Tangle 
 #PoE1

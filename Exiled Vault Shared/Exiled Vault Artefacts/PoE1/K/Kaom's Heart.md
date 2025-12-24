@@ -6,5 +6,5 @@ fears will fall.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

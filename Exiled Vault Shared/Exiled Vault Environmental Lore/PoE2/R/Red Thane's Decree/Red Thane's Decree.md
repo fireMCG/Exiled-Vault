@@ -6,7 +6,7 @@ By the order of the Red Thane, Mark the walls. Mark their doors. Mark their fate
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Ezomyte 

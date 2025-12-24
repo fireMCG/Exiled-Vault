@@ -33,5 +33,5 @@ Navali: Utula has convinced them they could overthrow this place, or even escape
 ---
 ## Tags
 #Character/Hatungo/Navali
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui/Tribe/Hinekora 

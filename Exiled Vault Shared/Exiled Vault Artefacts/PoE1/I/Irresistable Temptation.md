@@ -5,5 +5,5 @@ Nothing is more alluring than mystery.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -12,5 +12,5 @@ Warrior: I won't let this stand.
 ---
 ## Tags
 #Character/Renly
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 

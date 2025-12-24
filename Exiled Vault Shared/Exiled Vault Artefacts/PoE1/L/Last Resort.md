@@ -5,5 +5,5 @@ Desperate times demand desperate measures.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -4,14 +4,15 @@ One feasts, another starves.
 One blossoms, another withers.
 And one cannot catch the golden sunlight
 without casting a bitter shadow."
-- Cadiro Perandus
+\- Cadiro Perandus
 ##
 ![[Allelopathy.png]]
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/CadiroPerandus
+#Concept/Light 
 #Concept/Shadow 
-#Concept/Sun/Sunlight
+#Concept/Sun
 #PoE1

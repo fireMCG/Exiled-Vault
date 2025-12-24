@@ -10,5 +10,5 @@ All bonuses from Equipped Amulet apply to your Minions instead of you
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE2 

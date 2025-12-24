@@ -8,11 +8,11 @@ stratosphere divulged unto her eldritch secrets of its tumultuous past.
 ---
 ## Tags
 #Character/God/Garukhan 
-#Concept/Knowledge
+#Concept/Virtue/Knowledge
 #Concept/Madness
-#Concept/Pride
+#Concept/Vice/Pride
 #Concept/Sky
 #Character/God/Garukhan 
-#QuestItem
+#Item/QuestItem
 #PoE1
 #Society/Maraketh 

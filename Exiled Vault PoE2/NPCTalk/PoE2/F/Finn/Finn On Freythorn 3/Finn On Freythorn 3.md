@@ -13,5 +13,5 @@ Finn: I'm gonna rebuild Freythorn, I am! Even though {I'm} not clanless anymore,
 ---
 ## Tags
 #Character/Finn 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 

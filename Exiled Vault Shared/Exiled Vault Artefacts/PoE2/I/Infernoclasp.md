@@ -5,5 +5,5 @@ Tempered by the forbidden flame.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

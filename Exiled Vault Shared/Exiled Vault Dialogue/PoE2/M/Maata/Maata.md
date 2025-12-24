@@ -138,5 +138,5 @@ The forest smiles upon your bravery.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

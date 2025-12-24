@@ -6,5 +6,5 @@ his strikes land long after he is gone.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

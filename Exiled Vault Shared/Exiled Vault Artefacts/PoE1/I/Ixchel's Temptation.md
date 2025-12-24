@@ -6,6 +6,6 @@ Our own imaginations ensnare us.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
 #Society/VaalEmpire 

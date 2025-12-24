@@ -6,5 +6,5 @@ ash began ot fall, and a chill set in...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

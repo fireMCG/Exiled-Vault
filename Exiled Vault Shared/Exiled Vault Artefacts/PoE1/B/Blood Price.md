@@ -5,5 +5,5 @@ An eye for an eye makes the whole world dead.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

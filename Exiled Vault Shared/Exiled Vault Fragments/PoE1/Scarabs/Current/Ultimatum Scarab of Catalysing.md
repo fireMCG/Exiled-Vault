@@ -6,5 +6,5 @@ Most regret finding out how the powder is made.
 
 ---
 ## Tags
-#Scarab
+#Item/Scarab
 #Society/VaalEmpire 

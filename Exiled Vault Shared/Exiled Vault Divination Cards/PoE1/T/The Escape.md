@@ -9,5 +9,5 @@ Seven-League Step
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

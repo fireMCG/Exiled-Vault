@@ -19,5 +19,5 @@ I will not stand by and allow Izaro to deliver us all unto damnation. I trust, d
 #
 ---
 ## Tags
-#Lore 
-#Timeline 
+#Category/Lore 
+#Attributes/Timeline 

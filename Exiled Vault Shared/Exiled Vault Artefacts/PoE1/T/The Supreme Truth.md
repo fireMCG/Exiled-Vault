@@ -6,5 +6,5 @@ grab truth by the throat and shape it as you wish.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

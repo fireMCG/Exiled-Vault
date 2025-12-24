@@ -6,5 +6,5 @@ This is the least I can do.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

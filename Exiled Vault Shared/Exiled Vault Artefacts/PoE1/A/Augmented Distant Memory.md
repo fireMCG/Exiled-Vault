@@ -6,7 +6,7 @@ Created from compromises. Vulnerable to mortal whims.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/HighTemplar/Venarius 
 #Concept/Memory 
 #Concept/Mortality 

@@ -826,5 +826,5 @@ Ugh, we've been played, 'aven't we? I'm out of here!
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

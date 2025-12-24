@@ -57,5 +57,5 @@ Makoru: You'll need to arrange an account and charter. Rog's your man for that. 
 ---
 ## Tags
 #Character/Makoru
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

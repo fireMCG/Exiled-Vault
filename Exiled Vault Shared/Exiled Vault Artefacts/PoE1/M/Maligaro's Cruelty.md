@@ -8,5 +8,5 @@ If that does not describe a monster, tell me: what does?"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

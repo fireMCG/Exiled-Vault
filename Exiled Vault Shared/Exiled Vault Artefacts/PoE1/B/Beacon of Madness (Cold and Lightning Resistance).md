@@ -5,6 +5,6 @@ Nothing spreads as quickly as an idea.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Madness 
 #PoE1

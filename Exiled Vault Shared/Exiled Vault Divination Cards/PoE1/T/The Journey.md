@@ -9,5 +9,5 @@ Harbinger's Orb
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

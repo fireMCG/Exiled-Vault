@@ -7,5 +7,5 @@ Hilda: Been huntin' that Yeti in the proper season, these last five years. Oh, h
 ---
 ## Tags
 #Character/Hilda
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri

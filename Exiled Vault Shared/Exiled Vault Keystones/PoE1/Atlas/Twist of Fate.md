@@ -12,5 +12,5 @@ Maps modified in this way have 1-3 additional random Map Modifiers
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

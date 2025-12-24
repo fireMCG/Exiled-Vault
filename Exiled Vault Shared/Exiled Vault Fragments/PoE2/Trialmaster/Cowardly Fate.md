@@ -6,5 +6,5 @@ The ignoblest of choices.
 
 ---
 ## Tags
-#Fragment 
+#Item/Fragment 
 #PoE2 

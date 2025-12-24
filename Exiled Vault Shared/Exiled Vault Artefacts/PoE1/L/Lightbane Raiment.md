@@ -7,5 +7,5 @@ and embraced the darkness.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

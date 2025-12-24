@@ -5,5 +5,5 @@ An indomitable force of control.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

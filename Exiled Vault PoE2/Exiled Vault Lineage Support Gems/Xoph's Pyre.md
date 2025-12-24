@@ -10,11 +10,11 @@ of the Broken Sun... is the Red Pyre, the Torus Eternal."
 ---
 ## Tags
 #Character/Xoph
-#Concept/Eternity 
+#Concept/Time/Eternity 
 #Concept/Pyre
 #Concept/Sun 
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/Hiveborn 
-#SupportGem
-#Timeline 
+#Item/SupportGem
+#Attributes/Timeline 

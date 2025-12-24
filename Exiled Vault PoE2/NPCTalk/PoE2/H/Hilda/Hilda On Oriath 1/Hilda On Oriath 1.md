@@ -7,5 +7,5 @@ Hilda: You movin' on? Aye, I should as well. Good luck with that, uh, Ori... Ori
 ---
 ## Tags
 #Character/Hilda
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri

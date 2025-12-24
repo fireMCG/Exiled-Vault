@@ -4,7 +4,7 @@ Bold dreamer, Qianga of the Stars, she of the Celestial Cold! These titles we be
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

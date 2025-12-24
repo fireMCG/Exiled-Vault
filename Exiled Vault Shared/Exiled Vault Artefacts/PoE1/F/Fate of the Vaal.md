@@ -6,6 +6,6 @@ A sign of faithlessness through action.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
 #Society/VaalEmpire 

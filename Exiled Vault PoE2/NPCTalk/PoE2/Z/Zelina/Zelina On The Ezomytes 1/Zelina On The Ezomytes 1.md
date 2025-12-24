@@ -8,7 +8,7 @@ Zelina: I've never read anything about these 'Ezomytes,' as you call them. The s
 ## Tags
 #Character/Zelina
 #Concept/Rune 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 
 #Society/VaalEmpire 
-#Timeline 
+#Attributes/Timeline 

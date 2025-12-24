@@ -8,11 +8,11 @@ Dammed by the coagulating dead.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Ahkeli
 #Concept/Damnation 
 #Concept/Water/River
 #Concept/Water/Sea
 #PoE1
 #Society/Primeval 
-#Timeline 
+#Attributes/Timeline 

@@ -6,5 +6,5 @@ than to think without action.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

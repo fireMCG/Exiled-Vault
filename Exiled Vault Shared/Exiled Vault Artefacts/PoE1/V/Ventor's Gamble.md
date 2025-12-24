@@ -8,5 +8,5 @@ And Ventor met his latest trophy.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

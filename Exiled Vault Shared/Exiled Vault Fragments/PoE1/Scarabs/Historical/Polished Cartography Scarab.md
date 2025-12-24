@@ -4,7 +4,7 @@ For your loyalty and valour, honoured Betucia, we are proud to put the requisiti
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

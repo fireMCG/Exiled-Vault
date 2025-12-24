@@ -9,5 +9,5 @@ It is said anyone who bears this trinket is the luckiest exile in all of Wraecla
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

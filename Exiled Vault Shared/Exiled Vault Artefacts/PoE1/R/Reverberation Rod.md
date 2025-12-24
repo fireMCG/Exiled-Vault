@@ -5,5 +5,5 @@ If it's worth doing once, it's worth doing twice.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

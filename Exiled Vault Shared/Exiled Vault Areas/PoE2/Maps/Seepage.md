@@ -4,5 +4,5 @@ The fetid home of foul generations.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

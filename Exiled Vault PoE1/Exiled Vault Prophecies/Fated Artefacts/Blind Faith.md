@@ -12,9 +12,9 @@ Upgrades [[The Ignomon]] to [[The Effigon]] upon completion.
 ---
 ## Tags
 #Concept/Darkness 
-#Concept/Faith 
+#Concept/Religion/Faith 
 #Concept/Light 
-#Concept/Zealotry
+#Concept/Religion/Zealotry
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

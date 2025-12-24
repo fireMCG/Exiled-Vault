@@ -33,5 +33,5 @@ Tujen: His conviction. His passion. He could change the world, if he just believ
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

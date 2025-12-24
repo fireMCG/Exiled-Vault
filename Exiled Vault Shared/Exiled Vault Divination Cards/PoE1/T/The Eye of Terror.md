@@ -9,5 +9,5 @@ Chayula's Flawless Breachstone
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

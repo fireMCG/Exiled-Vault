@@ -45,5 +45,5 @@ Druid: I've felt the sway of a charismatic leader. It's a hard call to resist.
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

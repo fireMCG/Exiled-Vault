@@ -3,6 +3,6 @@ To Provost Connal Preas: The Count's 'interest' in his heritage has grown into m
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE2
-#Unreleased 
+#Attributes/Unreleased 

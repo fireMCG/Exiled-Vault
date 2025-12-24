@@ -4,5 +4,5 @@ A heart of corruption, borne of steel.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

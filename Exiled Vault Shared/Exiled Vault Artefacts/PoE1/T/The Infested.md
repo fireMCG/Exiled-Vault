@@ -6,5 +6,5 @@ This experiment became something truly perverse.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

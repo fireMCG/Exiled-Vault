@@ -6,5 +6,5 @@ and fall like rain into the place we cannot go.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

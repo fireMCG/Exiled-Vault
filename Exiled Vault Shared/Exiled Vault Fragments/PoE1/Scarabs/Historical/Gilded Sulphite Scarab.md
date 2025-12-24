@@ -4,7 +4,7 @@ Let him not be called Raethan the Betrayer. His discovery was too important to k
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

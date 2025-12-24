@@ -12,5 +12,5 @@ Frenzy or Power Charge
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

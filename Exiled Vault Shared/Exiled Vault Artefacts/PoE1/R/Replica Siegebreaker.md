@@ -7,5 +7,5 @@ of deaths. Lab Twelve has been lost to the flames."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

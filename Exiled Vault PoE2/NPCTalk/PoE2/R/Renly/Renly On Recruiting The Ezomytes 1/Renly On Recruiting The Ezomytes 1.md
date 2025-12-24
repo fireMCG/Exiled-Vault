@@ -9,5 +9,5 @@ Renly: Yet again, you make me proud, my boy. You've never let me down. And I tha
 ---
 ## Tags
 #Character/Renly
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 

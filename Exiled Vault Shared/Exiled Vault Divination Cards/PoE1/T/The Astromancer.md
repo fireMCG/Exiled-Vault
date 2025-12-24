@@ -15,5 +15,8 @@ Corrupted
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Emotion/Love 
+#Concept/Morality
+#Concept/Space/Astral
+#Item/DivinationCard
 #PoE1

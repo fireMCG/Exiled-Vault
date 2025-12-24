@@ -6,9 +6,9 @@ consume all that you have... and more.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/EaterOfWorlds 
 #Concept/Hunger 
 #Concept/Power 
-#Entity/Tangle 
+#Concept/Tangle 
 #PoE1

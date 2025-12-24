@@ -12,5 +12,5 @@ Varunastra
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

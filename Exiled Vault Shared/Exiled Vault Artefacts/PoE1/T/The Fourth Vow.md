@@ -6,5 +6,5 @@ In flagellation, there lies freedom from temptation.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

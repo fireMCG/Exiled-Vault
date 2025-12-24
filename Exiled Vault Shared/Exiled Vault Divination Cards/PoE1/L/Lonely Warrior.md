@@ -11,5 +11,5 @@ Defiance of Destiny
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

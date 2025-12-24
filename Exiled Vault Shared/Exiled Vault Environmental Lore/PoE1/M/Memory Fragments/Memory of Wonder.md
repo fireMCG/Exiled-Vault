@@ -10,6 +10,6 @@ Tonight, I fear, may be yet another restless night.
 #
 ---
 ## Tags
-#EnvironmentalLore 
-#Historical 
+#Category/Lore/Environmental 
+#Attributes/Historical 
 #PoE1 

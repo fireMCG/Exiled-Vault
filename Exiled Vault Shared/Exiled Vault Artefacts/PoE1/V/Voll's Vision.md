@@ -5,5 +5,5 @@ Righteous men seek virtue like tame pups seeking praise.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

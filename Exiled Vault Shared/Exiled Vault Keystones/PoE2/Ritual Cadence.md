@@ -12,5 +12,5 @@ Invoked Spells consume 50% less Energy
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE2 

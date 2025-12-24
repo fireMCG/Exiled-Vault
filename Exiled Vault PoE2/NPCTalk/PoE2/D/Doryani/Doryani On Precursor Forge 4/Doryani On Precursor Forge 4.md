@@ -57,5 +57,5 @@ Doryani: They were masters of their world. They built structures whose mere remn
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

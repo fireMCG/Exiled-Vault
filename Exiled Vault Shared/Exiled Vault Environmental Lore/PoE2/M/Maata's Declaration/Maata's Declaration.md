@@ -6,7 +6,7 @@ Tawhoa is the Son of the Forest, and its Father. His alone is the perspective of
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Karui 

@@ -27,5 +27,5 @@ Aye. The Spirit's no fool. It's drawn to the worst of 'em—the powerful ones. M
 ---
 ## Tags
 #Character/Delwyn
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri 

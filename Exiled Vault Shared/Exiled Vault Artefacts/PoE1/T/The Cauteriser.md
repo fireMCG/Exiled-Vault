@@ -5,5 +5,5 @@ A burned branch leaks sap no more.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

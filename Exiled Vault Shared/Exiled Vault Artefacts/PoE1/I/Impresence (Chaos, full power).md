@@ -7,11 +7,11 @@ learning, and preparing.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Essence 
-#Concept/Flesh 
-#Entity/Decay
+#Concept/Body/Flesh 
+#Concept/Decay
 #PoE1

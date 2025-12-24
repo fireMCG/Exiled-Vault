@@ -7,5 +7,5 @@ Yama The White: Ah! You beat Yama. Yama is impressed... but not surprised! We sa
 ---
 ## Tags
 #Character/Yama
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

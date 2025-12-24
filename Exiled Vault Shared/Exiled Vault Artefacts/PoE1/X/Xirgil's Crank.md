@@ -9,5 +9,5 @@ But I know which switch brings the monster down."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

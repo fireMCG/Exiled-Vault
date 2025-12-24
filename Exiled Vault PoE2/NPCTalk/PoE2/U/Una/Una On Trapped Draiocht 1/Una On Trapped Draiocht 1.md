@@ -7,5 +7,5 @@ Una: Somehow, the forces in the Blackwood know about the henge. The darkness has
 ---
 ## Tags
 #Character/Una 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 

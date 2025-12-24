@@ -33,4 +33,4 @@ Rhodri: Bloody bastards. They've always been a bit spooky, but I didn't know it 
 ---
 ## Tags
 #Character/Rhodri
-#NPCTalk
+#Category/NPCTalk

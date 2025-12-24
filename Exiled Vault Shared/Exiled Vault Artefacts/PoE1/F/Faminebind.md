@@ -8,5 +8,5 @@ and gave them grain and water.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

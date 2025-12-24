@@ -7,5 +7,5 @@ retreats into instinct and madness.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

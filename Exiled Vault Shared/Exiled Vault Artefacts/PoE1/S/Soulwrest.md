@@ -5,5 +5,5 @@ Death is but the start of your servitude.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

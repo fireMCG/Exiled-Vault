@@ -8,5 +8,5 @@ is to know true freedom."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

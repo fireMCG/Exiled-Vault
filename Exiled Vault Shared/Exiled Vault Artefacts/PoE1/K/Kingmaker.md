@@ -8,5 +8,5 @@ then forged anew.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

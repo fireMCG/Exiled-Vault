@@ -9,5 +9,5 @@ Drox the Just
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1 

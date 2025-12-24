@@ -8,5 +8,5 @@ the plan won't work! Where's Arn?! I have to tell him!"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

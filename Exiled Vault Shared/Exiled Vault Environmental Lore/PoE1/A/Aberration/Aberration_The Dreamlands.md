@@ -6,6 +6,6 @@ Our very existence seems bound to draw out the folly of men. Dominus, Venarius..
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

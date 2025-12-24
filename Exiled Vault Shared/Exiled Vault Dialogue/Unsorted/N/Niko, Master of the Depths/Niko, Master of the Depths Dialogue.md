@@ -520,4 +520,4 @@ Have you ever noticed Kirac doesn't go into the Atlas himself anymore? He's more
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

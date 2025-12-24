@@ -6,5 +6,5 @@ My only choice is to strive harder.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -34,5 +34,5 @@ Yama The White: Give Yama nuts! The others never did... They were dead, risen. O
 ---
 ## Tags
 #Character/Yama
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

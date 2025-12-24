@@ -6,6 +6,6 @@ The odds against success were... beyond measure. And yet, somehow, it worked. I 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

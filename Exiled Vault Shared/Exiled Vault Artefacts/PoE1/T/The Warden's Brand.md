@@ -7,5 +7,5 @@ when a fresh delinquent walks through our gates."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

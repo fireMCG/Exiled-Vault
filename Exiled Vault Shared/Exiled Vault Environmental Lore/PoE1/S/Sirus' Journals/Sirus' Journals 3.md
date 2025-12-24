@@ -9,5 +9,5 @@ If I survive after tomorrow, I'm going to tell her how I feel.
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1 

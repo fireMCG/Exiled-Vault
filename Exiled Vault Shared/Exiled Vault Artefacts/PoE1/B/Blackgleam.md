@@ -6,5 +6,5 @@ Hissing arrows from the dark.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -4,5 +4,5 @@ The waters have returned, but no empire remains to greet them.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

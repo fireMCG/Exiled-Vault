@@ -4,7 +4,7 @@ The thousand year truce has faltered, for the inscrutable ones have imprisoned t
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

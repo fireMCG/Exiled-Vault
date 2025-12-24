@@ -7,5 +7,5 @@ Then you'll be short of a head soon enough."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

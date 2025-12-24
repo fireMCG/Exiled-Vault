@@ -8,5 +8,5 @@ Four screams became one roar.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

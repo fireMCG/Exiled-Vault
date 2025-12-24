@@ -7,13 +7,13 @@ symbol of power, not out of love, but out of fear.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/SearingExarch 
 #Concept/Crystal 
-#Concept/Fear 
-#Concept/Love 
+#Concept/Emotion/Fear 
+#Concept/Emotion/Love 
 #Concept/Newcomers
 #Concept/Power 
 #Concept/Season/Winter 
-#Entity/CleansingFire 
+#Concept/Cleansing 
 #PoE1

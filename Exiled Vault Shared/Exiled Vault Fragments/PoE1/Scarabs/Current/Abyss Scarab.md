@@ -9,4 +9,4 @@ They search forever for more souls to drag to the dark.
 #Concept/Darkness 
 #Concept/Soul 
 #League/Abyss 
-#Scarab
+#Item/Scarab

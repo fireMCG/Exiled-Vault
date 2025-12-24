@@ -5,5 +5,5 @@ When the inferno spread across the land, it was the First of the Skies who singe
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

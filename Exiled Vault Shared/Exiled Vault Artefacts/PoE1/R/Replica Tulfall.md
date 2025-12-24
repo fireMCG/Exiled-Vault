@@ -7,5 +7,5 @@ Looping cycles, power and pain..."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

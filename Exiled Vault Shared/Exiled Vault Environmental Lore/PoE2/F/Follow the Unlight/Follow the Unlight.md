@@ -6,7 +6,7 @@ Rot before us in eternal autumn... Beltimber bark. Wilt to ruin by word and curs
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Ezomyte 

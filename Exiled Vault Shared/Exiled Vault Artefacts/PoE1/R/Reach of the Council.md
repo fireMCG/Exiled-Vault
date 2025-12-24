@@ -5,5 +5,5 @@ We stand together. We strike together.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

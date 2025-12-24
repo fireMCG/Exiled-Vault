@@ -7,5 +7,5 @@ I will see them again, but not until my work is done.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -10,7 +10,7 @@ roiling and endless grace of constant motion.
 ---
 ## Tags
 #Character/Rakiata 
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/Karui/Tribe/Tasalio 
-#SupportGem
+#Item/SupportGem

@@ -6,5 +6,5 @@ who bask in the blood of many.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

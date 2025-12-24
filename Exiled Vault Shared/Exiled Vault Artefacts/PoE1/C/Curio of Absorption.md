@@ -5,8 +5,8 @@ Perfect knowledge is only possible in an empty universe.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/SearingExarch 
-#Concept/Knowledge 
-#Entity/CleansingFire 
+#Concept/Virtue/Knowledge 
+#Concept/Cleansing 
 #PoE1

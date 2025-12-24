@@ -7,5 +7,5 @@ All turn to earth and sand."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

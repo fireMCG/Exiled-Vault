@@ -8,5 +8,5 @@ Deft as the needle doubt
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -15,5 +15,5 @@ undone at last
 #Concept/Corruption 
 #Concept/Essence 
 #Concept/Soul 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

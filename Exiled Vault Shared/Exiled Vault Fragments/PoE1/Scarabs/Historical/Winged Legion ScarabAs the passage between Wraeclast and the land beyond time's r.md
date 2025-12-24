@@ -4,7 +4,7 @@ As the passage between Wraeclast and the land beyond time's reach is torn open, 
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

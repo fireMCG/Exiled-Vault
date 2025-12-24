@@ -8,5 +8,5 @@ to sate his hungry claw.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

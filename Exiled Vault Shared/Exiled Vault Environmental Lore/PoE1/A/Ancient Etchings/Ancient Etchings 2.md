@@ -4,5 +4,5 @@ I do not understand my prison. Every time I attempt to leave the Lake, I find my
 ##
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

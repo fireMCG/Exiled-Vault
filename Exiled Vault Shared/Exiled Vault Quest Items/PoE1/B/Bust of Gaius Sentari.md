@@ -8,6 +8,6 @@ The Emperor honours Gaius Sentari as Supreme Servant.
 ## Tags
 #Character/Emperor/ChitusPerandus
 #Character/GaiusSentari
-#QuestItem
+#Item/QuestItem
 #PoE1
 #Society/EternalEmpire 

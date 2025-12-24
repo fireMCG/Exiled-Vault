@@ -39,5 +39,5 @@ The Hooded One: Return to Kingsmarch. We must prepare to bring the fight to Oria
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

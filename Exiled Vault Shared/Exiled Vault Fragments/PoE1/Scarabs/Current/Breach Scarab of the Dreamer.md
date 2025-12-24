@@ -6,6 +6,6 @@ Dreams quickly sour into Nightmare.
 
 ---
 ## Tags
-#DropDisabled
+#Attributes/Disabled
 #League/Breach
-#Scarab
+#Item/Scarab

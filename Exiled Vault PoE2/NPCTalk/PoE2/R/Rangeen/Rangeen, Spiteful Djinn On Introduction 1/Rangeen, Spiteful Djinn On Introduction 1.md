@@ -6,5 +6,5 @@ Rangeen, Spiteful Djinn: Are you serious? I'd finally convinced the Serpent Clan
 ---
 ## Tags
 #Character/Djinn/Rangeen
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh 

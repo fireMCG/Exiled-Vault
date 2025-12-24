@@ -14,5 +14,5 @@ Valdo's Puzzle Box
 #Concept/Colour/White 
 #Concept/Perfection
 #Concept/World 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

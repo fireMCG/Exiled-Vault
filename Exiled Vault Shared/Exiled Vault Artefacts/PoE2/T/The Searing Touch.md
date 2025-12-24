@@ -6,5 +6,5 @@ Rule a world, bathed in flame.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

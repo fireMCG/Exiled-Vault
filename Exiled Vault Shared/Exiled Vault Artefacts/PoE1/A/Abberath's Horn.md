@@ -6,7 +6,7 @@ as his ruin spread across the land.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/God/Abberath
 #Concept/Element/Fire 
 #Concept/King 

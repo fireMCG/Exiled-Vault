@@ -3,5 +3,5 @@
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1/Act1

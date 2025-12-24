@@ -33,5 +33,5 @@ Kaimana: Ahahaha! I'm sure.
 ---
 ## Tags
 #Character/Kaimana
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

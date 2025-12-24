@@ -4,5 +4,5 @@ Welcome, traveler. You are safe here. The Viridian Wildwood is a gift to all tho
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

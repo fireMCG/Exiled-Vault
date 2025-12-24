@@ -13,5 +13,5 @@ Mon'tregul's Grasp
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

@@ -6,7 +6,7 @@ Long ago, the Ramako Tribe imprisoned a being of great malice here. They maintai
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Karui 

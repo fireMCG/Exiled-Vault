@@ -7,5 +7,5 @@ and improved ability to micromanage us, I'm not so sure."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

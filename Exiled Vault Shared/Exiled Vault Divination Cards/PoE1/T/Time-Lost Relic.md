@@ -10,7 +10,7 @@ League-Specific Item
 ---
 ## Tags
 #Concept/Crown
-#Concept/Descry
-#Concept/Skull
-#DivinationCard
+#Concept/Symbol/Descry
+#Concept/Body/Skull
+#Item/DivinationCard
 #PoE1

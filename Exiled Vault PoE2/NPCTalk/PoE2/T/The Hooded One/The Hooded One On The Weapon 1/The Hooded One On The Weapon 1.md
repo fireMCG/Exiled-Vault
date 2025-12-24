@@ -7,4 +7,4 @@ The Hooded One: The Weapon is radiating intense Corruption... It will sicken and
 ## Tags
 #Character/God/Sin 
 #Character/God/Sin 
-#NPCTalk
+#Category/NPCTalk

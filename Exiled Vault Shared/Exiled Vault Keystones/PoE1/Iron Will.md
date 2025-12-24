@@ -10,5 +10,5 @@ Strength's Damage bonus applies to all Spell Damage as well
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

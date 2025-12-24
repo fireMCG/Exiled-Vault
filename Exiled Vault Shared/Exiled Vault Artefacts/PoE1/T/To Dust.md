@@ -6,5 +6,5 @@ It just comes for some much sooner.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

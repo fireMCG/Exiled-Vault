@@ -10,5 +10,5 @@ Infusion Remnants you create are always a Random Element
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE2 

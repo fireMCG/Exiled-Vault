@@ -6,7 +6,7 @@
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Maven 
 #Character/God/Viridi
 #Concept/Creation 

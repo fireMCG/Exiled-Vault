@@ -9,5 +9,5 @@ All that is flawed is worthless. The slightest error, and this might as well be 
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

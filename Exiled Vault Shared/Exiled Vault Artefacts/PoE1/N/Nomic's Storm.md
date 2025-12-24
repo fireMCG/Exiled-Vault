@@ -5,5 +5,5 @@ It takes a clear mind to outrun a storm.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

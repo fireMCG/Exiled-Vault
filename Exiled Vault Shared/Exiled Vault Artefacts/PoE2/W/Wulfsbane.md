@@ -6,5 +6,5 @@ legacy of cunning and power.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

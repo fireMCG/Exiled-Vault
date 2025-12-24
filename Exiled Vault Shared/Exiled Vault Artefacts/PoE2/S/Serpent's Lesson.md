@@ -5,5 +5,5 @@ Sinuous, entwined... inextricable.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

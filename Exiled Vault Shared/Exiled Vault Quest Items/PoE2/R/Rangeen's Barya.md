@@ -7,7 +7,7 @@ I'd have preferred to go with the Serpent Clan.
 ## Tags
 #Character/Djinn/Rangeen
 #Concept/Barya
-#QuestItem
+#Item/QuestItem
 #PoE2
 #Society/Maraketh 
 #Society/KabalaClan

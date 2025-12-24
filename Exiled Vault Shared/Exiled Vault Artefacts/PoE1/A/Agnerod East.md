@@ -5,5 +5,5 @@ One for each corner of the great .
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

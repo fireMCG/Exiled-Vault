@@ -7,8 +7,8 @@ glory of the world. Protectors at the massive toll gates wore these.
 ---
 ## Tags
 #Character/Bazira
-#Concept/Dekhara
-#HeistTarget
+#Concept/Warrior
+#Item/HeistTarget
 #League/Heist
 #PoE1 
 #Society/Maraketh 

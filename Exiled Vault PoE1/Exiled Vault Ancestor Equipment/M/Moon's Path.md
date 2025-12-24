@@ -7,7 +7,7 @@ The never-ending journey must be walked alone.
 
 ---
 ## Tags
-#AncestorEquipment
+#Item/AncestorEquipment
 #Concept/Moon 
 #League/Ancestor
 #PoE1 

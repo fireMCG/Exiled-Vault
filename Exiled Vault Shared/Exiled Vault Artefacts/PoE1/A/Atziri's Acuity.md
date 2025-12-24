@@ -7,9 +7,9 @@ It will tell me when it is best to strike."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Atziri 
-#Concept/Heart 
+#Concept/Body/Heart 
 #Concept/Herald
 #PoE1
 #Society/VaalEmpire 

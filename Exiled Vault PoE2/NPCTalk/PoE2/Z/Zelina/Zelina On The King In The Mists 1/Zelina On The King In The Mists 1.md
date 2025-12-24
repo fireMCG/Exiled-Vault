@@ -9,5 +9,5 @@ Zelina: I know little of this entity's origin, only that he is described as emer
 #Character/KingInTheMists 
 #Character/Zelina
 #Location/Wildwood
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire/Cuachic

@@ -15,8 +15,8 @@ Synthesised
 
 ---
 ## Tags
-#Concept/Cycle 
-#Concept/Fear 
+#Concept/Time/Cycle 
+#Concept/Emotion/Fear 
 #Concept/Season/Winter 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

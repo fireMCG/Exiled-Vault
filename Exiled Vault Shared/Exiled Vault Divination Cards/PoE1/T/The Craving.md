@@ -9,5 +9,5 @@ Unending Hunger
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

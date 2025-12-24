@@ -403,5 +403,5 @@ Unleash yourself, Valako!
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

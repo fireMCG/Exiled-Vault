@@ -5,5 +5,5 @@ Fight in the traditional Way, or not at all!
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

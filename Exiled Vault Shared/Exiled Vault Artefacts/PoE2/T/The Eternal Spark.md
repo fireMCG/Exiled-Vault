@@ -6,5 +6,5 @@ her motionless dance the pulse of bliss
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -16,9 +16,9 @@ Corrupted
 
 ---
 ## Tags
-#Concept/Eye 
+#Concept/Body/Eye 
 #Concept/Sin 
 #Concept/Virtue
 #Concept/Wing 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

@@ -33,5 +33,5 @@ Kanu: I'm just happy to live in times like these. I think about it sometimes, yo
 ---
 ## Tags
 #Character/Kanu
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

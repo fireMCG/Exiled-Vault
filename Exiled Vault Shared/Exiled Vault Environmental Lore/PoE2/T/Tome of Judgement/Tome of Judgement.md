@@ -6,7 +6,7 @@ Within these walls, the Lady of Justice doth preside. She shall weigh your Mind 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/EternalEmpire 

@@ -7,5 +7,5 @@ Mortality, compassion, even the sanctity of flesh.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

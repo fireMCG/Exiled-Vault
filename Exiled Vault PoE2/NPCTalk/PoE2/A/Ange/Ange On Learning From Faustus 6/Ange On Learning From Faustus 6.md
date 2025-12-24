@@ -97,5 +97,5 @@ Ange: I asked him once. It took all my courage to do so. 'What happened to you, 
 ## Tags
 #Character/Ange
 #Character/Faustus
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

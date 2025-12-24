@@ -83,6 +83,6 @@ In death, obedience!
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #League/Breach
 #PoE1

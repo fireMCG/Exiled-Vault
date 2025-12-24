@@ -6,5 +6,5 @@ Corruption is purged, not cleansed.
 
 ---
 ## Tags
-#Fragment
+#Item/Fragment
 #PoE1 

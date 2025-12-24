@@ -9,5 +9,5 @@ And neither is Death."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2
