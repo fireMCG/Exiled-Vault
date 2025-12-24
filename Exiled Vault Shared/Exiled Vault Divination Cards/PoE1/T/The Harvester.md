@@ -14,5 +14,5 @@ The Harvest
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

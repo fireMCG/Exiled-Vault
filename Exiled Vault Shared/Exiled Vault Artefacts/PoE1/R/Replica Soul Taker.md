@@ -6,5 +6,5 @@ Results like these may justify everything we do here."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

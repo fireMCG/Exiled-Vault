@@ -8,5 +8,5 @@ Lurking Creature: You faced his Vessel. It pleased him. You will face him again.
 ## Tags
 #Character/Kulemak 
 #Character/LurkingCreature
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

@@ -7,5 +7,5 @@ I do not believe we should ever allow it to be used."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

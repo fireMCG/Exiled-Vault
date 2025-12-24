@@ -55,9 +55,9 @@ Alva: The completed object... when the splinters are reassembled... it's a fruit
 ## Tags
 #Character/Alva 
 #Character/God/Tangmazu 
-#Concept/Divinity 
-#Concept/Dream 
+#Concept/Religion/Divinity 
+#Concept/Night/Dream 
 #Concept/Simulacrum
 #Character/God/Tangmazu 
 #League/Delirium
-#NPCTalk
+#Category/NPCTalk

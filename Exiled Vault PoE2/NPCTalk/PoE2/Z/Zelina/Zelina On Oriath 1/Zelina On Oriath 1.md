@@ -9,7 +9,7 @@ Zelina: Oriath? Hmm... Ah, a derivative of the original name for the island the 
 #Character/Zelina
 #Event/WinterOfTheWorld 
 #Location/Wraeclast/Oriath
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri 
 #Society/VaalEmpire 
-#Timeline 
+#Attributes/Timeline 

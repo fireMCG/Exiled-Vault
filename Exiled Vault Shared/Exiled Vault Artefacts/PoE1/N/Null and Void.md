@@ -6,5 +6,5 @@ in an unclean world?
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

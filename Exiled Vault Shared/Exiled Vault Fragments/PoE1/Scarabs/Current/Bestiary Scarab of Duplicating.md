@@ -7,4 +7,4 @@
 ---
 ## Tags
 #League/Bestiary 
-#Scarab
+#Item/Scarab

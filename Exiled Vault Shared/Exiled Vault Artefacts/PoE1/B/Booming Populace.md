@@ -6,5 +6,5 @@ To those caught between, there is no difference, and something must soon give.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

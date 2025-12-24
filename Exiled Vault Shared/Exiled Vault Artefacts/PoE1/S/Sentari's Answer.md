@@ -6,5 +6,5 @@ Open your mind and you will see the cracks in your enemy's plans.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

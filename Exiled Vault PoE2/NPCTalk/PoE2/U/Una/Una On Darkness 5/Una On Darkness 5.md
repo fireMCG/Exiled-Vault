@@ -20,5 +20,5 @@ Una: I fear you may be right.
 ## Tags
 #Character/Finn 
 #Character/Una 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 

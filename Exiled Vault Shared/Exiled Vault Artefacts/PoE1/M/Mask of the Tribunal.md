@@ -5,5 +5,5 @@ The judge determines worthiness by comparison to the paragon: himself.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

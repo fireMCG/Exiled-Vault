@@ -5,5 +5,5 @@ Victory is as simple as being the last one standing.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

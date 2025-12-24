@@ -5,5 +5,5 @@ Though the body rots, the spirit lives on.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

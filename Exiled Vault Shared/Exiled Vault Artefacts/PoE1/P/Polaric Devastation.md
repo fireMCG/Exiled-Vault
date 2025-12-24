@@ -6,5 +6,5 @@ sank eternally into crushing darkness.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

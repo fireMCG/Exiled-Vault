@@ -7,5 +7,5 @@ One for you... and one for me."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,7 +6,7 @@ Only victory.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Trickery 
 #Concept/Virtue 
 #PoE1

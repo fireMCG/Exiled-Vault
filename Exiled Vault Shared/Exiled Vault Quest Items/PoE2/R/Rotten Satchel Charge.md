@@ -6,5 +6,5 @@ covered in barnacles and ready to explode.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE2

@@ -6,4 +6,4 @@ Only the hardiest survive. Only survivors perpetuate.
 
 ---
 ## Tags
-#Scarab
+#Item/Scarab

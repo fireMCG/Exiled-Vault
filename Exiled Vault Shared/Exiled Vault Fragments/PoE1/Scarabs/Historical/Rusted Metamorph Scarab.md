@@ -4,7 +4,7 @@ Rejected even by the Faridun outcasts, young Saresh, you were cursed to walk the
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

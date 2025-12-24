@@ -5,5 +5,5 @@ Inquisitor, If you attempt to transmogrify a virtue gem without the proper menta
 ##
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act2

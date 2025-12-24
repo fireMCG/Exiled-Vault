@@ -6,5 +6,5 @@ What you need, my little thief, is a shattered mirror.
 ##
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

@@ -6,4 +6,4 @@ Ideas cannot be contained.
 
 ---
 ## Tags
-#Scarab
+#Item/Scarab

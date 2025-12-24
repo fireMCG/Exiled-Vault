@@ -11,5 +11,5 @@ Storm Cloud
 ## Tags
 
 #Concept/Storm 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

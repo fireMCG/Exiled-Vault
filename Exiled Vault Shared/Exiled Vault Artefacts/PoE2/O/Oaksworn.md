@@ -5,5 +5,5 @@ The druids swore to protect the Grelwood with their very lives.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

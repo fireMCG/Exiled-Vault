@@ -8,5 +8,5 @@ But as Chitus and his gemlings advanced, he thought only of the fight.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -7,8 +7,8 @@ you have nothing to fear."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Atziri 
-#Concept/Fear 
+#Concept/Emotion/Fear 
 #PoE1
 #Society/VaalEmpire 

@@ -21,5 +21,5 @@ I, for one, will not let that happen, Uncle.
 #
 ---
 ## Tags
-#Lore 
-#Timeline 
+#Category/Lore 
+#Attributes/Timeline 

@@ -7,9 +7,9 @@ But time would not touch the fiend.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Elder 
 #Concept/Prison 
 #Concept/Time 
-#Entity/Decay
+#Concept/Decay
 #PoE1

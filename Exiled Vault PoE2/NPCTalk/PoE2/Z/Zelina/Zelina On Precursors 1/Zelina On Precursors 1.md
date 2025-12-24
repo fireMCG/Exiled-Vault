@@ -8,7 +8,7 @@ Zelina: The tomes in the archives only go back to the time of worldwide fire and
 ## Tags
 #Character/Zelina
 #Event/WinterOfTheWorld 
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri 
 #Society/VaalEmpire 
-#Timeline 
+#Attributes/Timeline 

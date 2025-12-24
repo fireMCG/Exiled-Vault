@@ -8,5 +8,5 @@ Zarka: Risu's training is coming along well. She has a mind for tales. When she 
 ## Tags
 #Character/Risu
 #Character/TaleWoman/Zarka
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh 

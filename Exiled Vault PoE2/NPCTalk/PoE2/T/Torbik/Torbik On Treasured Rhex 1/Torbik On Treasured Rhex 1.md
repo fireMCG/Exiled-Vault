@@ -6,4 +6,4 @@ Torbik: He's a headstrong one, like me. Answers to 'Dabu.' Or, doesn't answer, a
 ---
 ## Tags
 #Character/Torbik
-#NPCTalk
+#Category/NPCTalk

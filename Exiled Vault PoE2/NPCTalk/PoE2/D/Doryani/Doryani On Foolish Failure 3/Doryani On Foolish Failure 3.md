@@ -12,5 +12,5 @@ Doryani: We'll have to do this all again... and this time, don't forget the {ent
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

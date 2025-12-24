@@ -8,8 +8,8 @@ Elder Madox: Is this story time!? Ugh. The First Children were sent to us for pr
 ## Tags
 #Character/ElderMadox
 #Concept/Ash 
-#Concept/FirstChildren
+#Concept/Mothersoul/FirstChildren
 #Concept/Hunger 
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri 
-#Timeline 
+#Attributes/Timeline 

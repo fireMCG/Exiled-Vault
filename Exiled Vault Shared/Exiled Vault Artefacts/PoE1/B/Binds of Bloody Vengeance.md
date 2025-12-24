@@ -5,5 +5,5 @@ What once marked his submission became the tool of his defiance - torn from the 
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -9,5 +9,5 @@ Seraphim's Armour
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

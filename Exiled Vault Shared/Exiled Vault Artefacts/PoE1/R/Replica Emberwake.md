@@ -7,5 +7,5 @@ just as quickly. This could have been much worse."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

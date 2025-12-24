@@ -45,5 +45,5 @@ Kanu: Well hey... here I am. And I'm thankful the boss showed me that I can make
 ---
 ## Tags
 #Character/Kanu
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

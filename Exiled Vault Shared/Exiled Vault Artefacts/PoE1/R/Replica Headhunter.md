@@ -6,5 +6,5 @@ ten times the height of a man and crashing straight through walls."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

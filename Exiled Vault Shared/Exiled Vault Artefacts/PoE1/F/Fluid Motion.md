@@ -5,5 +5,5 @@ Even the strongest of steel can be made to bend.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

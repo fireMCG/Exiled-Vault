@@ -6,5 +6,5 @@ It's time we find who is leading them.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

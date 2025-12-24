@@ -5,5 +5,5 @@ You can be the wick or the wax. Either way, your light goes out and mine goes on
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

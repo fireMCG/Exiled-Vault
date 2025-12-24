@@ -6,7 +6,7 @@ From those who are gone to those who remain.
 
 ---
 ## Tags
-#Legacy
+#Attributes/Legacy
 #PoE1 
 #Society/VaalEmpire  
-#Strongbox
+#Category/Strongbox

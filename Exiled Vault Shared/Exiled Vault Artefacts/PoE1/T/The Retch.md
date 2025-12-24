@@ -8,5 +8,5 @@ on the flesh of one another.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

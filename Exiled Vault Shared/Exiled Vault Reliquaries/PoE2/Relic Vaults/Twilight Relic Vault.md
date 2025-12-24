@@ -6,5 +6,5 @@ Take this, our children of Time, and free mankind.
 ---
 ## Tags
 #PoE2 
-#Reliquary 
+#Category/Reliquary 
 #Society/TwilightOrder 

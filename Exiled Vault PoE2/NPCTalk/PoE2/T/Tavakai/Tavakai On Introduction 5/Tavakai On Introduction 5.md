@@ -42,5 +42,5 @@ Tavakai: If you weren't trespassing on our shores, it would never have happened!
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

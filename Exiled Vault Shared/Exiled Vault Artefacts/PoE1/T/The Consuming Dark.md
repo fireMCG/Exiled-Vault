@@ -5,5 +5,5 @@ The brightest flames cast the darkest shadows.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

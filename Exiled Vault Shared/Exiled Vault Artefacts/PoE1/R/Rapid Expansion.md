@@ -8,5 +8,5 @@ that a Perandus won't pay.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -9,5 +9,5 @@ Rise of the Phoenix
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

@@ -13,5 +13,5 @@ Eldritch Altars Influenced by The Eater of Worlds have 50% increased Effect of U
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

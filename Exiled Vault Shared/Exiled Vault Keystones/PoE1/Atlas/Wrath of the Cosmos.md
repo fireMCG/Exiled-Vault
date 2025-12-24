@@ -11,5 +11,5 @@ Eldritch Altars Influenced by The Searing Exarch which have an additional Upside
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

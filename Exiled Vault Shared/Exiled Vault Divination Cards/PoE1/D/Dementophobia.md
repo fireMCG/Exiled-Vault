@@ -11,5 +11,5 @@ were none other than my own.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

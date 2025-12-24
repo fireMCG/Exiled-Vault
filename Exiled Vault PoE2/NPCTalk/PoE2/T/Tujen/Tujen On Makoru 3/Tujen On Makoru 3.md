@@ -34,5 +34,5 @@ Tujen: I look forward to that. Truly, I do.
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

@@ -6,5 +6,5 @@ Valako rode the clouds of ash into the thundering sky.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -5,5 +5,5 @@ Clever artifice is not alaways complex.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

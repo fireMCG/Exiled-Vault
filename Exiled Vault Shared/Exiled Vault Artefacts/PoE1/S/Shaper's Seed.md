@@ -5,5 +5,5 @@ The first light to grow in the primordial darkness.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

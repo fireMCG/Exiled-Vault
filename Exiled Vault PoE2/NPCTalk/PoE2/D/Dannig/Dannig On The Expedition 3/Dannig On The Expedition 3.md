@@ -33,5 +33,5 @@ Dannig: That's why we came here twenty years ago, to find out... and we also sou
 ---
 ## Tags
 #Character/Dannig 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

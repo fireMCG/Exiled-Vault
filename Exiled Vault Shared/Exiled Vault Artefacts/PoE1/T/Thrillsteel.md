@@ -6,5 +6,5 @@ moments of blood and battle, we truly live.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

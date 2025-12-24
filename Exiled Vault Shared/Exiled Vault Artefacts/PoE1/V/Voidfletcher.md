@@ -5,10 +5,10 @@ Even emptiness may be harnessed.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Void 
-#Entity/Decay
+#Concept/Decay
 #PoE1

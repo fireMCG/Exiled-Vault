@@ -8,5 +8,5 @@ Zelina: As I understand it, the Vaal were a shining beacon of power that kept th
 ## Tags
 #Character/Zelina
 #Event/VaalCataclysm 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

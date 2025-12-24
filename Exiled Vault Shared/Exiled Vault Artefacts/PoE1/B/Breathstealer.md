@@ -5,5 +5,5 @@ The last gasp is not always one's final act.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

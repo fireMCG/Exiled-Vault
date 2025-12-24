@@ -8,7 +8,7 @@ I sense Oriana knows... And I cannot deny that which I know deep down to be true
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Ezomyte 

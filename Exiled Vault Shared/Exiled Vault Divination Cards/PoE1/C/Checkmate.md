@@ -9,5 +9,5 @@ When victory is impossible, each of us plays only to delay the end.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

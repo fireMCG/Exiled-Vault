@@ -57,5 +57,5 @@ Makoru: Now, when I was a young girl, I visited the Halls of the Dead... ... my 
 ---
 ## Tags
 #Character/Makoru
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

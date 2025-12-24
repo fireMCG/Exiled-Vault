@@ -7,7 +7,7 @@ death is sure to follow."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Death 
 #Concept/Animal/Hyena
 #PoE1

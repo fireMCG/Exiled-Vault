@@ -6,6 +6,6 @@ T'gnagn iia y r'ngusla ph'tu Tsoatha nga mekghul'an."
 
 ---
 ## Tags
-#Concept/Cipher
-#QuestItem
+#Concept/Enigma
+#Item/QuestItem
 #PoE1

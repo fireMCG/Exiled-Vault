@@ -5,5 +5,5 @@ To the Maraketh, death is as intimate as love.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

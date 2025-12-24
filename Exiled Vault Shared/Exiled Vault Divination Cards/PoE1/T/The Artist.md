@@ -1,5 +1,6 @@
 ## The Artist
-"Paint, metal, flesh... A true artist does not limit himself." - Malachai the Soulless
+"Paint, metal, flesh... A true artist does not limit himself."
+\- Malachai the Soulless
 ## 
 ![[The Artist.png]]
 
@@ -10,5 +11,7 @@ Corrupted
 
 ---
 ## Tags
-#DivinationCard
+#Character/Malachai 
+#Concept/Virtue/Gem 
+#Item/DivinationCard
 #PoE1

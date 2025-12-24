@@ -6,5 +6,5 @@ Dannig: You've collected enough Runic Splinters for me to track the Triskelion F
 ---
 ## Tags
 #Character/Dannig 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

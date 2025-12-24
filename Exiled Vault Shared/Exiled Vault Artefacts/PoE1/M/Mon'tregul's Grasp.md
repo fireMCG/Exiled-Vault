@@ -5,5 +5,5 @@ With death as my ally, all the world is within my grasp.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

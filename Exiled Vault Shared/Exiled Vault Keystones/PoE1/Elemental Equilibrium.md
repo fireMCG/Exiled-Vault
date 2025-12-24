@@ -11,5 +11,5 @@ Exposure inflicted this way applies -25% to Resistances
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

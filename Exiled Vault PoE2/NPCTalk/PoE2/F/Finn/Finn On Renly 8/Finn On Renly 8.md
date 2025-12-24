@@ -28,5 +28,5 @@ Una: Oh, you've got a reputation alright. No need to worry about that.
 ---
 ## Tags
 #Character/Finn 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 

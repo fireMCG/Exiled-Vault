@@ -7,4 +7,4 @@ He draws ever closer...
 ---
 ## Tags
 #League/Ritual
-#Scarab
+#Item/Scarab

@@ -11,5 +11,5 @@ Asenath's Mark
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

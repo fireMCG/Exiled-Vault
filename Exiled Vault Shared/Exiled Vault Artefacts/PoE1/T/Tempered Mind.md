@@ -5,5 +5,5 @@ Any thought, no matter how fleeting, changes the thinker.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

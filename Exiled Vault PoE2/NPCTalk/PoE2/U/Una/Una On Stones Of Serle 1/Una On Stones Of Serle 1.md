@@ -7,6 +7,6 @@ Una: This henge was one of the first sites the Ezomytes built when newcomers tau
 ---
 ## Tags
 #Character/Una 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 
-#Timeline 
+#Attributes/Timeline 

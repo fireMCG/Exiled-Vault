@@ -5,5 +5,5 @@ Hear no evil.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

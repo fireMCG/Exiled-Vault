@@ -4,5 +4,5 @@ Merchants and pirates alike need a safe port to peddle their wares.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

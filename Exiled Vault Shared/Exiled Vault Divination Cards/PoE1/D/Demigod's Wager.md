@@ -9,5 +9,5 @@ Orb of Annulment
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

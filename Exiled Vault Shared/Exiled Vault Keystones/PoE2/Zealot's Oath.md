@@ -11,5 +11,5 @@ Energy Shield does not Recharge
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE2 

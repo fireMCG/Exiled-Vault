@@ -1,6 +1,6 @@
 ## The Aesthete
 "Some see our mortal flesh as a limitation. I see it as an opportunity for vast, miraculous improvements."
-- Shavronne of Umbra
+\- Shavronne of Umbra
 ## 
 ![[The Aesthete.png]]
 
@@ -10,5 +10,7 @@ Shavronne Item
 
 ---
 ## Tags
-#DivinationCard
+#Character/Shavronne 
+#Concept/Body/Flesh 
+#Item/DivinationCard
 #PoE1

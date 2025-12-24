@@ -4,5 +4,5 @@ Humid air chokes and twists everything it touches.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

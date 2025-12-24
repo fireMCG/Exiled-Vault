@@ -7,5 +7,5 @@ of my fellow wayfarers. Dead men are generous men."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

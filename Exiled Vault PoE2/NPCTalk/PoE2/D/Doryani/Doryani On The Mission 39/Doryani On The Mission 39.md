@@ -117,5 +117,5 @@ Alva: That's what I like to hear. Let's go!
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

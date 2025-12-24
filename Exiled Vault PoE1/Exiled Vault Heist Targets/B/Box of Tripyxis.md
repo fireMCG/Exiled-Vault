@@ -7,6 +7,6 @@ I don't like competition.
 ---
 ## Tags
 #Character/TsvetMatvei
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 

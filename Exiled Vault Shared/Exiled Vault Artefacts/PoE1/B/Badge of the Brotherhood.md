@@ -5,6 +5,6 @@ Greater than any blade, agility and intellect will be your weapons.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
 #Society/BrotherhoodOfSilence

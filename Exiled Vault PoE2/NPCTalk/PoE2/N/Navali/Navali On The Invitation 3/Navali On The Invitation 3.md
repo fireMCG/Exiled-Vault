@@ -33,5 +33,5 @@ Navali: You will know when the time is right. For now, we are not undertaking th
 ---
 ## Tags
 #Character/Hatungo/Navali
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui/Tribe/Hinekora 

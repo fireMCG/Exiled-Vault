@@ -36,5 +36,5 @@ Sorceress: Could it be? Hmm... perhaps the old enemy has returned. We Maraketh f
 ---
 ## Tags
 #Character/Mortimer
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

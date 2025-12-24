@@ -5,5 +5,5 @@ What you earn is almost as important as what you take.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

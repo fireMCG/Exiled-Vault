@@ -7,5 +7,5 @@ channel the desperate will to live. Intriguing."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -13,5 +13,5 @@ Sekhema Asala: The Gifting of Water is an opportunity to air grievances and heal
 ## Tags
 #Character/Sekhema/Asala
 #Location/Wraeclast/Vastiri/Keth 
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh 

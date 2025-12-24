@@ -7,5 +7,5 @@ I hear the silent whispers of their wings as they descend, for me, for me..."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

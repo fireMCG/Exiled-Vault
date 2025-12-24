@@ -4,7 +4,7 @@ Your people were renegades, Rindwik, but you have proven your loyalty. You will 
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

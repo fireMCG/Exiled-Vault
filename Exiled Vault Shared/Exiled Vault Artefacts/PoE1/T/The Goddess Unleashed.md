@@ -10,5 +10,5 @@ Bequeathed, betrayed...beloved. At last, I am the third.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

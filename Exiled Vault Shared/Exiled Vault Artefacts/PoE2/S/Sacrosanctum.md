@@ -6,5 +6,5 @@ instead to put their faith in each other.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

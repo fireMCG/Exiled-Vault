@@ -5,5 +5,5 @@ Horrific experiments with corrupted flesh require careful management.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

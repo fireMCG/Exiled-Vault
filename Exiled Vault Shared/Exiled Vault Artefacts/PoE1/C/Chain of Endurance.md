@@ -8,5 +8,5 @@ and triumph over his coddled rivals."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

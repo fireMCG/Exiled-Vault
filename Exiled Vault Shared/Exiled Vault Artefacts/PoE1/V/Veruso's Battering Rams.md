@@ -6,5 +6,5 @@ then the constructs guarding the tomb on the other side.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

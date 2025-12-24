@@ -5,5 +5,5 @@ What do you see when you look inward?
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -4,5 +4,5 @@ On this day, the eve of this Rapture's completion, I honour those who have passe
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act4

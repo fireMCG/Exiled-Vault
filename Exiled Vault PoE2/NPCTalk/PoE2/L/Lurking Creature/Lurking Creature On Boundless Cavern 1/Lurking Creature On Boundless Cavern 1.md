@@ -7,5 +7,5 @@ Lurking Creature: You come from the Boundless Cavern. No stone in sight above, o
 ---
 ## Tags
 #Character/LurkingCreature
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

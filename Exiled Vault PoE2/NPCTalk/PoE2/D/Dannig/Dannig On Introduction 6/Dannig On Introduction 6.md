@@ -133,5 +133,5 @@ Druid: Ale, ye say? I'll see ye there.
 ---
 ## Tags
 #Character/Dannig 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

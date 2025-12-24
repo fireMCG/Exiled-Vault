@@ -14,8 +14,8 @@ but by the Molten One's will, the fires would rage again.
 #Character/Uruk
 #Concept/Alliance
 #Concept/Element/Fire 
-#Concept/Volcano 
-#Lineage
+#Concept/Nature/Volcano 
+#Item/Lineage
 #PoE2
-#SupportGem
-#Timeline 
+#Item/SupportGem
+#Attributes/Timeline 

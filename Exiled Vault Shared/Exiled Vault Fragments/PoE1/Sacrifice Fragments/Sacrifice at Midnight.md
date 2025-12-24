@@ -6,5 +6,5 @@ Look to our Queen, for she will lead us into the light.
 
 ---
 ## Tags
-#Fragment
+#Item/Fragment
 #PoE1 

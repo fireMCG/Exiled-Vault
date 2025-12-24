@@ -6,5 +6,5 @@ in the shadow of his presence.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

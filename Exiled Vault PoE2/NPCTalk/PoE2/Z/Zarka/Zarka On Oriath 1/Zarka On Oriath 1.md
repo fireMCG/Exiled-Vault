@@ -7,5 +7,5 @@ Zarka: I knew you would not let us down. In turn, {we} will not let {you} down. 
 ---
 ## Tags
 #Character/TaleWoman/Zarka
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh 

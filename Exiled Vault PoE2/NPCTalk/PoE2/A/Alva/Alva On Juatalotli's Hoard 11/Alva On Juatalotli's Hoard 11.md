@@ -52,5 +52,5 @@ Alva: Then technically this stuff might belong to you anyway, right? Let's check
 ---
 ## Tags
 #Character/Alva 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

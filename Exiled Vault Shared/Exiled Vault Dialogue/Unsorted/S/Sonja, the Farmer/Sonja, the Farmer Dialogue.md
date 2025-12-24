@@ -297,4 +297,4 @@ I should start a journal... tomorrow.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

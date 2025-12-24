@@ -7,5 +7,5 @@ still know the truth.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

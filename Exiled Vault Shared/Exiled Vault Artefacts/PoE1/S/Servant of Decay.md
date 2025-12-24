@@ -6,5 +6,5 @@ nothing remained but the void.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

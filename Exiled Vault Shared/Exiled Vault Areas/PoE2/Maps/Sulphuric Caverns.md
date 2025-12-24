@@ -4,5 +4,5 @@ Beasts of many kinds sought shelter one final time.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

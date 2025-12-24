@@ -14,5 +14,5 @@ Elder Item
 ---
 ## Tags
 #Character/Shaper 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

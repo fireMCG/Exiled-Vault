@@ -56,6 +56,6 @@ Lurking Creature: Yes, master. Embrace Death. It is a gift... from the Source.
 ## Tags
 #Character/LurkingCreature
 #Concept/Necromancy
-#Concept/WellOfSouls 
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Location/Wraeclast/WellOfSouls 
+#Society/Lightless 

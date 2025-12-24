@@ -4,6 +4,6 @@ How could I have been so stupid? So caught up in this whole nightmare that I for
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

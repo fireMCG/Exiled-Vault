@@ -9,5 +9,9 @@ Six-Link Body Armour
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Virtue/Innocence
+#Concept/Balance/Justice 
+#Concept/Vengeance 
+#Concept/Prison 
+#Item/DivinationCard
 #PoE1

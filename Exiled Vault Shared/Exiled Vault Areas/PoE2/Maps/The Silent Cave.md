@@ -4,5 +4,5 @@ The prismatic patterns of Time shimmer and coalesce in vast geodes hidden from s
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

@@ -39,5 +39,5 @@ Kaimana: The Blood Fever... Tavakai insists we bring it to an end, yes. And that
 ---
 ## Tags
 #Character/Kaimana
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

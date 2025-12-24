@@ -601,4 +601,4 @@ You swore, sinew and soul, to serve God and the Order of the Templar. For years 
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

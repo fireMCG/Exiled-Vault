@@ -37,4 +37,4 @@ The Hooded One: In a time long past, I aided an alliance that fought these being
 ## Tags
 #Character/God/Sin 
 #Character/God/Sin 
-#NPCTalk
+#Category/NPCTalk

@@ -7,6 +7,6 @@ Infernal Talc simply lets the storm out." - Malachai the Soulless
 ---
 ## Tags
 #Character/Malachai 
-#Concept/VirtueGem
-#QuestItem
+#Concept/Virtue/Gem
+#Item/QuestItem
 #PoE1

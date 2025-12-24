@@ -5,5 +5,5 @@ The blasted oak stands forever.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

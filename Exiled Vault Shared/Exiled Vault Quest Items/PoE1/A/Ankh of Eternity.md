@@ -5,8 +5,8 @@ The amulet, it... whispers to me. Horrible things...
 
 ---
 ## Tags
-#Concept/Immortality 
+#Concept/Life/Immortality 
 #Concept/Resurrection
 #Concept/Whisper
-#QuestItem
+#Item/QuestItem
 #PoE1

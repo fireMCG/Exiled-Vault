@@ -10,4 +10,4 @@ Their eternal vigil is done.
 ---
 ## Tags
 #PoE1 
-#Strongbox
+#Category/Strongbox

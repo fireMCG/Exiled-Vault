@@ -11,5 +11,5 @@ Regenerate 1 Life per second per 8 Life spent in the past 8 seconds
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE2 

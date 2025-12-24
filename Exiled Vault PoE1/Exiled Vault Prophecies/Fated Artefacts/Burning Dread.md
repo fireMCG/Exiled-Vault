@@ -14,4 +14,4 @@ Upgrades [[Dreadarc]] to [[Dreadsurge]] upon completion.
 #Character/Piety 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

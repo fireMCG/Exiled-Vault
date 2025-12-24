@@ -6,6 +6,6 @@ A ghastly fruit, but twice as sweet.
 
 ---
 ## Tags
-#DropDisabled
+#Attributes/Disabled
 #League/Blight
-#Scarab
+#Item/Scarab

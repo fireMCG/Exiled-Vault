@@ -7,6 +7,6 @@ come willing to Atziri, came by liquid persuasion.
 ---
 ## Tags
 #Character/Atziri
-#QuestItem
+#Item/QuestItem
 #PoE1
 #Society/VaalEmpire 

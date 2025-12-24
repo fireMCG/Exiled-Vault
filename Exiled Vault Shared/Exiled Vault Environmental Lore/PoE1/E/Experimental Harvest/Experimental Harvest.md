@@ -4,5 +4,5 @@ The four humors flow close to the surface in this Wildwood, lifeblood just benea
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

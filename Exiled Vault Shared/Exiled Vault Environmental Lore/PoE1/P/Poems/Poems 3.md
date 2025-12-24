@@ -16,6 +16,6 @@ From the First Ones' jaws.
 #
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1
-#Timeline 
+#Attributes/Timeline 

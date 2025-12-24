@@ -4,5 +4,5 @@ I am beginning to understand more of this Wildwood, as a traveler called it. The
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

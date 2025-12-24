@@ -30,5 +30,5 @@ Druid: I'll do my best, lad.
 ---
 ## Tags
 #Character/Rog 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

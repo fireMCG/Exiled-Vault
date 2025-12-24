@@ -257,4 +257,4 @@ You were born with quickness of body and sharpness of mind. How have you paid fo
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

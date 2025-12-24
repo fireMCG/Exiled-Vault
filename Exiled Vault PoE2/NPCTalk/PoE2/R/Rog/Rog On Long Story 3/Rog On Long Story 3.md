@@ -30,5 +30,5 @@ Rog, the Dealer: But we excavated many ancient sites, uncovering some of the los
 ---
 ## Tags
 #Character/Rog 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

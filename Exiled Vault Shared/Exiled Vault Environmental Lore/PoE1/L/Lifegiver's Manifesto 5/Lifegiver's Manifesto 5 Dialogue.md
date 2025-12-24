@@ -5,5 +5,5 @@ People need a strong leader. As Oriath bubbles over and spills into Wraeclast, t
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1

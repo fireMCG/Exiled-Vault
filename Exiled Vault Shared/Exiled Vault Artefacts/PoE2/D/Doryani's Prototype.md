@@ -7,6 +7,6 @@ lost to the ages, now ours to decipher."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2
 #Society/VaalEmpire 

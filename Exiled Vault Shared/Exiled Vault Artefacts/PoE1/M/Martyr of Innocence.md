@@ -6,5 +6,5 @@ Let the fires cleanse you of your sins.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

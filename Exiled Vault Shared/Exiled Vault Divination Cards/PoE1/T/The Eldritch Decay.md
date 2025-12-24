@@ -9,5 +9,5 @@ Uber Elder Fragment
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

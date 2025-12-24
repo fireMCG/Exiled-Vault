@@ -9,5 +9,5 @@ Unset Ring
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

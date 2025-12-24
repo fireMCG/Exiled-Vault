@@ -4,5 +4,5 @@ Peel back the skin, for there are secrets in sinew. Mysteries in muscle. Plunder
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act8

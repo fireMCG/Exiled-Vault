@@ -10,5 +10,5 @@ A terror to his foes."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

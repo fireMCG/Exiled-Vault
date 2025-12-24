@@ -41,5 +41,5 @@ Out the way!
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

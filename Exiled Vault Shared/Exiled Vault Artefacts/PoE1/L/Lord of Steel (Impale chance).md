@@ -7,5 +7,5 @@ The sabre's tip reaching out, grasping for life.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

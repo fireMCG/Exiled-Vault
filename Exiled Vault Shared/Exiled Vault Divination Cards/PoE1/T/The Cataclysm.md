@@ -10,5 +10,9 @@ Corrupted
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Cataclysm 
+#Concept/Element/Fire 
+#Concept/Element/Lightning 
+#Concept/Thaumaturgy 
+#Item/DivinationCard
 #PoE1

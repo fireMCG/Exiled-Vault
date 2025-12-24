@@ -19,5 +19,5 @@ Tukohama, aid this one!
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

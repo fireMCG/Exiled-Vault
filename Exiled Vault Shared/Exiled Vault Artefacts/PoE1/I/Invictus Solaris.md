@@ -5,5 +5,5 @@ Eternal soldiers fight for glory or death. Solaris vanguard know only glory.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -5,5 +5,5 @@ The strong survive. The strongest thrive.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,5 +6,5 @@ and never will the light blind you.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

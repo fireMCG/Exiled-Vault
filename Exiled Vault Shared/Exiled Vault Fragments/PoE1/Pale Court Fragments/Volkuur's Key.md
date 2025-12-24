@@ -7,6 +7,6 @@ whose dark whispers draw forth our souls, unfettered.
 
 ---
 ## Tags
-#Fragment 
-#Historical 
+#Item/Fragment 
+#Attributes/Historical 
 #PoE1 

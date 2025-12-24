@@ -8,5 +8,5 @@ Lurking Creature: You returned a Commander to The Well? Kulemak sees you, master
 ## Tags
 #Character/Kulemak 
 #Character/LurkingCreature
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

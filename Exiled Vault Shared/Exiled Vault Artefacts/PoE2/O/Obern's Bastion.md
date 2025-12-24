@@ -5,5 +5,5 @@ The storm cannot sway those of sure footing.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

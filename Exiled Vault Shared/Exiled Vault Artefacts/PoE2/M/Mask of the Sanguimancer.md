@@ -6,5 +6,5 @@ remains lost... but his power does not.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -14,6 +14,6 @@ With anguish and agony.
 #
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1
-#Timeline 
+#Attributes/Timeline 

@@ -6,5 +6,5 @@ Worth every little bit.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

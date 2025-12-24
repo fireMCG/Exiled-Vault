@@ -7,7 +7,7 @@ Zelina: Trarthus is now home to a culture of exiles from the Eternal Empire? I'v
 ---
 ## Tags
 #Character/Zelina
-#NPCTalk
+#Category/NPCTalk
 #Society/EternalEmpire 
 #Society/VaalEmpire 
-#Timeline 
+#Attributes/Timeline 

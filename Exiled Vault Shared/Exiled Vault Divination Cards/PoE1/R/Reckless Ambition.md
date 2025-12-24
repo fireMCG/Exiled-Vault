@@ -11,8 +11,8 @@ Omeyocan
 ## Tags
 #Character/Sirus 
 #Character/Zana 
-#Concept/Ambition
+#Concept/Virtue/Ambition
 #Concept/Aztec
-#Concept/Heaven
-#DivinationCard
+#Concept/Religion/Heaven
+#Item/DivinationCard
 #PoE1

@@ -115,5 +115,5 @@ Alva: You are absolutely... ridiculous...
 #Concept/Eclipse 
 #Concept/Moon 
 #Event/VaalCataclysm 
-#NPCTalk
-#Timeline 
+#Category/NPCTalk
+#Attributes/Timeline 

@@ -8,5 +8,5 @@ I wish you could have stayed.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

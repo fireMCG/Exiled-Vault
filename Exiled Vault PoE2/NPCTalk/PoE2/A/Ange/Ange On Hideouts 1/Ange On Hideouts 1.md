@@ -6,5 +6,5 @@ Ange: A place of our own. Somewhere to make history from. If only my parents cou
 ---
 ## Tags
 #Character/Ange
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

@@ -6,5 +6,5 @@ A hundred blades dance
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -7,5 +7,5 @@ And was born again
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

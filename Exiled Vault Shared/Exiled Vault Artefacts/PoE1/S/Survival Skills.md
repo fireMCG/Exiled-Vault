@@ -5,5 +5,5 @@ A helping hand has long reach.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

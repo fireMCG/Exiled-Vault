@@ -8,5 +8,5 @@ We return once more.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

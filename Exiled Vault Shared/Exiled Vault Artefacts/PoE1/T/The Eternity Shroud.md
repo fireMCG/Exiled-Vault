@@ -5,12 +5,12 @@ There can be no defence against the celestial siblings entropy and time.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius 
-#Concept/Entropy
-#Concept/Eternity 
+#Concept/Space/Entropy
+#Concept/Time/Eternity 
 #Concept/Time 
-#Entity/Decay
+#Concept/Decay
 #PoE1

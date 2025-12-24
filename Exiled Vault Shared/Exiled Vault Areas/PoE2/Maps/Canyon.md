@@ -4,5 +4,5 @@ These gates have facilitated many trades. Silks, spices, and now horrors.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

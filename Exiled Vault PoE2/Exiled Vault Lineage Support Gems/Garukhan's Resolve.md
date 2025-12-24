@@ -11,11 +11,8 @@ Great Roc graced a Maraketh warrior with a feather for the first time.
 ## Tags
 #Character/God/Garukhan 
 #Character/God/Innocence 
-#Concept/God 
-#Character/God/Garukhan 
-#Character/God/Innocence 
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/Maraketh 
-#SupportGem
-#Timeline 
+#Item/SupportGem
+#Attributes/Timeline 

@@ -8,7 +8,7 @@
 ## Tags
 #Character/Ryslatha
 #Concept/Hive
-#Concept/Pride 
+#Concept/Vice/Pride 
 #Concept/Soul 
 #Character/God/Ryslatha
 #PoE1 

@@ -10,5 +10,5 @@ those who attempt to struggle only hasten the assimilation.
 #Character/Eldritch/Elder 
 #Concept/Horror 
 #Concept/Void 
-#Fragment
+#Item/Fragment
 #PoE1 

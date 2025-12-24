@@ -10,8 +10,8 @@ The Taming
 ---
 ## Tags
 #Concept/Beast 
-#Concept/Heart 
+#Concept/Body/Heart 
 #Concept/Hunt 
 #Concept/Taming 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

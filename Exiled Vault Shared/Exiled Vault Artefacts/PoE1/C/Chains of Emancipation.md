@@ -5,5 +5,5 @@ Freedom is won only by those who are not free.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

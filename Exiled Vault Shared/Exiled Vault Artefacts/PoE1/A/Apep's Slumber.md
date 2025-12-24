@@ -6,9 +6,9 @@ the spirit grows strong.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/God/Apep
-#Concept/Heart 
+#Concept/Body/Heart 
 #Concept/Sleep 
 #Concept/Spirit 
 #Character/God/Apep

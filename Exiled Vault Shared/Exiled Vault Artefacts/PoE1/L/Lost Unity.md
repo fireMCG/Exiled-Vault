@@ -7,5 +7,5 @@ What could have been...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

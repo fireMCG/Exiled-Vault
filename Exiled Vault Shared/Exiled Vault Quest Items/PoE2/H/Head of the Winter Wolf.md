@@ -8,6 +8,6 @@ forever, heralding the cold.
 ---
 ## Tags
 #Character/Beira
-#QuestItem
+#Item/QuestItem
 #PoE2
 #Society/Ezomyte 

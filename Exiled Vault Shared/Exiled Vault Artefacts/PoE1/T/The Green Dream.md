@@ -6,5 +6,5 @@ reaching into the world that should be ours.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

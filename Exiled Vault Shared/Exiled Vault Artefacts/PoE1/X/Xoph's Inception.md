@@ -5,5 +5,5 @@ Upon the red pyre we are born.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

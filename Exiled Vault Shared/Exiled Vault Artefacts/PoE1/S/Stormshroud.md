@@ -6,5 +6,5 @@ is that all are one and the same.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

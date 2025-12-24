@@ -7,5 +7,5 @@ Into the hearts of Man
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

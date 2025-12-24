@@ -6,5 +6,5 @@ life found a way. The Spirit always provides."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

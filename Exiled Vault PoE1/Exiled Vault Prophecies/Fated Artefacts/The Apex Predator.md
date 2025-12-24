@@ -17,4 +17,4 @@ Upgrades [[The Screaming Eagle]] to [[The Gryphon]] upon completion.
 #Concept/Sun/Broken
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

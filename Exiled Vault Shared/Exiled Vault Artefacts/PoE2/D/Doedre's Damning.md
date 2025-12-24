@@ -5,5 +5,5 @@ Where her mouth should have been there was only a whirling, black void.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

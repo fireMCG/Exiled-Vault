@@ -15,6 +15,6 @@
 #
 ---
 ## Tags
-#EnvironmentalLore/Aberration
-#IgnoreGraph
+#Category/Lore/Environmental/Aberration
+#Attributes/IgnoreGraph
 #PoE1

@@ -6,5 +6,5 @@ They have other ways of keeping the dead.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

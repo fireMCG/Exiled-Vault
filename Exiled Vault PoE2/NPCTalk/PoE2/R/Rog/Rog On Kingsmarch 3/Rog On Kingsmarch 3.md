@@ -34,5 +34,5 @@ Rog, the Dealer: All this has been authorised by the King... and we certainly pa
 ---
 ## Tags
 #Character/Rog 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

@@ -5,5 +5,5 @@ One's burden is another's gift.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

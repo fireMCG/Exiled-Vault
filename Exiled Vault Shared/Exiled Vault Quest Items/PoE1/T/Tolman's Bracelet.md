@@ -6,5 +6,5 @@ fresh hope, a new love.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

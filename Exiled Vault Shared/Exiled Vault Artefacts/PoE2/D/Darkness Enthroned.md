@@ -8,5 +8,5 @@ No conqueror, no conquered, only searing Light.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

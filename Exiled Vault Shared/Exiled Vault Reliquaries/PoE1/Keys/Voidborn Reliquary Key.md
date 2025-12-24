@@ -9,4 +9,4 @@ Born of a starry void from which time cannot escape
 ---
 ## Tags
 #PoE1 
-#Reliquary
+#Category/Reliquary

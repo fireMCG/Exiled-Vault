@@ -8,5 +8,5 @@ A spell only broken by the spilling of blood.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

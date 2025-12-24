@@ -6,6 +6,6 @@ There was a time I saw the Atlas as a miracle a gateway to infinite potential. H
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

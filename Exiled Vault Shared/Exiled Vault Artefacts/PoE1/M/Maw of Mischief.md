@@ -7,5 +7,5 @@ is as thin as a whisper.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

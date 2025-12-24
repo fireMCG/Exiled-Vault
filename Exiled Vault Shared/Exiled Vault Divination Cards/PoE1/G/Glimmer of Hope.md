@@ -12,5 +12,5 @@ Gold Ring
 #Concept/Darkness 
 #Concept/Hope 
 #Concept/Light 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

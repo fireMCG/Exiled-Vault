@@ -7,5 +7,5 @@ Apply with trepidation.
 ---
 ## Tags
 #Concept/Thaumaturgy
-#QuestItem
+#Item/QuestItem
 #PoE1

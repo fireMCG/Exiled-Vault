@@ -33,5 +33,5 @@ Dannig: To be fair, we did have local help...
 ---
 ## Tags
 #Character/Dannig 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

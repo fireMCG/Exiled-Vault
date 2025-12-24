@@ -11,6 +11,6 @@ Area contains memories of 20 Atzoatl Architects
 #
 ---
 ## Tags
-#Area
+#Category/Area
 #Society/VaalEmpire 
-#Timeline 
+#Attributes/Timeline 

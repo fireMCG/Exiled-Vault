@@ -5,5 +5,5 @@ Arohongui, Daughter of the Moon, was preparing for a feast to celebrate Tukohama
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act5

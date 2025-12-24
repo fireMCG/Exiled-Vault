@@ -9,5 +9,5 @@ Veritania the Pure
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1 

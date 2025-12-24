@@ -12,4 +12,4 @@ You will be ambushed by the Plaguemaw's followers after you kill a certain very 
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

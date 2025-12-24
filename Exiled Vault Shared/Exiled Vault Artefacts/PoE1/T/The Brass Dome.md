@@ -5,5 +5,5 @@ The turtle's shell one day becomes its tomb.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

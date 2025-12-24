@@ -7,5 +7,5 @@ That is what we're dealing with.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

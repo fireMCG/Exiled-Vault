@@ -12,5 +12,5 @@ Energy Shield Recharge instead applies to Life
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

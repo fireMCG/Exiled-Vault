@@ -15,6 +15,6 @@ Servitor Marius: Ah, the spirit of rebellion burns strong in Ezomyte blood. We c
 ---
 ## Tags
 #Character/ServitorMarius
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 
 #Society/TwilightOrder 

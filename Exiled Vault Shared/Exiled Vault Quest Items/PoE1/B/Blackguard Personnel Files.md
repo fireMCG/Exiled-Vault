@@ -7,5 +7,5 @@ Just want to see how he's doing.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

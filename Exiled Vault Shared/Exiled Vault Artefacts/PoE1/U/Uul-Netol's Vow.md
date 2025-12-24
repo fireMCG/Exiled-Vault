@@ -7,5 +7,5 @@ We dream as one.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

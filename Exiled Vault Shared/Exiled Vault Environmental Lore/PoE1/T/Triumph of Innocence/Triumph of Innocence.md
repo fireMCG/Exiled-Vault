@@ -4,5 +4,5 @@ Waves crashed upon the shores of Oriath. Waves of Hunger. Waves of Desire. The R
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act5

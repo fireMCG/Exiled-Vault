@@ -6,7 +6,7 @@ Let this be a testament for all time. The Eternal Empire stakes claim over this 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/EternalEmpire 

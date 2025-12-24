@@ -6,5 +6,5 @@ A scar of the mind you'll never remember.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

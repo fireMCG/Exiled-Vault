@@ -6,5 +6,5 @@ but the scream and the strike.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,6 +6,6 @@ Belief can elevate. It can also erase. I've seen it in men... and in those who r
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

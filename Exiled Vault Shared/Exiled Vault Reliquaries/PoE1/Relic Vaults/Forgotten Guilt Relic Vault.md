@@ -6,4 +6,4 @@ merely the child of my sins.
 ---
 ## Tags
 #PoE1 
-#Reliquary 
+#Category/Reliquary 

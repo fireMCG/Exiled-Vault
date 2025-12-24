@@ -6,5 +6,5 @@ I am certain he will have recorded his misdeeds.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

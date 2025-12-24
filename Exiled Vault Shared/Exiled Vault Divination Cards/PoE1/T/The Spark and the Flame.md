@@ -9,5 +9,5 @@ Berek's Respite
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

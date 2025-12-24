@@ -9,5 +9,5 @@ You simply lack the means to see it."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

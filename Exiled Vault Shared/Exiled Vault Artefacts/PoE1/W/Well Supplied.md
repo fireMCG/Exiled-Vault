@@ -5,5 +5,5 @@ When the armory is full there is more to go around.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -10,5 +10,5 @@ He would trade it all away and then some to have him back.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

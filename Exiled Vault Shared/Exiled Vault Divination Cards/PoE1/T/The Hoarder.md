@@ -9,5 +9,5 @@ Exalted Orb
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

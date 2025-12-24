@@ -9,5 +9,6 @@ Body Armour
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Blood 
+#Item/DivinationCard
 #PoE1

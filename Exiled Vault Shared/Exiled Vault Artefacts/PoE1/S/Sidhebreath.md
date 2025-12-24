@@ -5,5 +5,5 @@ The breath of life is yours to give.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

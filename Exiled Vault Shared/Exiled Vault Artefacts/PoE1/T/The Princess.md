@@ -6,5 +6,5 @@ want to be with her long after you're dead."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -11,6 +11,6 @@ of whole cultures, of entire worlds.
 #Character/Eldritch/EaterOfWorlds
 #Concept/Hunger 
 #Concept/World 
-#Entity/Tangle 
+#Concept/Tangle 
 #PoE1 
-#Reliquary
+#Category/Reliquary

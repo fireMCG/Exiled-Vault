@@ -6,5 +6,5 @@ but lasts a lifetime... and beyond.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

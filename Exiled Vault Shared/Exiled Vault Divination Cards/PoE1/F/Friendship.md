@@ -15,5 +15,5 @@ Aul's Uprising
 ## Tags
 #Character/Aul 
 #Character/Rumi
-#DivinationCard
+#Item/DivinationCard
 #PoE1

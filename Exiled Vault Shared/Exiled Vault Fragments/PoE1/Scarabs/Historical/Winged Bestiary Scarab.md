@@ -4,7 +4,7 @@ Without an experienced Beastmaster to find them new realms, the First Ones' rava
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

@@ -13,5 +13,5 @@ I forfeit. He wins. I'm going to bed.
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1 

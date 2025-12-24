@@ -33,5 +33,5 @@ Makoru: It's a horrible place. You can still hear them pounding at the bars of t
 ---
 ## Tags
 #Character/Makoru
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

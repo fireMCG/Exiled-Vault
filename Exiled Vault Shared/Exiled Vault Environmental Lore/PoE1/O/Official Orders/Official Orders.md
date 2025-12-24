@@ -4,5 +4,5 @@ Captain Alsarus, Remain in the warehouse until I personally send for you. In the
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act8

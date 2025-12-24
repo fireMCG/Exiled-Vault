@@ -8,5 +8,5 @@ Lurking Creature: Kulemak calls to you. Do you hear him? He waits below...
 ## Tags
 #Character/Kulemak 
 #Character/LurkingCreature
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

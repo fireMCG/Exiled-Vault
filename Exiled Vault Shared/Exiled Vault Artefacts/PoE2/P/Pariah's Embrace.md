@@ -6,5 +6,5 @@ their companionship all the more.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

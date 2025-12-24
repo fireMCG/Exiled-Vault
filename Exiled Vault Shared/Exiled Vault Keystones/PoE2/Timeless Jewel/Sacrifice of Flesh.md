@@ -10,5 +10,5 @@ When taking damage from Hits, 20% of Life Loss is prevented, then 150% of Life L
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE2 

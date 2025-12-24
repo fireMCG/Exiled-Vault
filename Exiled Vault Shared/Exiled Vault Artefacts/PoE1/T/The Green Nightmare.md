@@ -6,5 +6,5 @@ and strangle those who tread upon it.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

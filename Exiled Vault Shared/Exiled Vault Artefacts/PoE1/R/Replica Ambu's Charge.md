@@ -6,5 +6,5 @@ though at considerable cost to the long-term survival rate of the user."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

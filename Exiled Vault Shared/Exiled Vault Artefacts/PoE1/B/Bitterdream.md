@@ -7,5 +7,5 @@ Be still.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -13,5 +13,8 @@ Item Level: 83
 
 ---
 ## Tags
-#DivinationCard
+#Character/God/Sin
+#Concept/Virtue/Patience
+#Concept/Wing 
+#Item/DivinationCard
 #PoE1

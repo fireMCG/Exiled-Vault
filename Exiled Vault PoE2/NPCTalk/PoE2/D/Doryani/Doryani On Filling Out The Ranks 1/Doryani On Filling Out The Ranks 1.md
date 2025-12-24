@@ -6,5 +6,5 @@ Doryani: The Cataclysm came sooner than I'd hoped. The full complement of origin
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

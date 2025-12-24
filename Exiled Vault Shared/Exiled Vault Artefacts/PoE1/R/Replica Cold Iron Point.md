@@ -7,5 +7,5 @@ Prototype #141. Sooner or later, someone's going to lose an eye."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

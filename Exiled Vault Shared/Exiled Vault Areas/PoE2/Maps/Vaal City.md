@@ -4,5 +4,5 @@ Hubris convinces men they can survive the mistakes of their forebears.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

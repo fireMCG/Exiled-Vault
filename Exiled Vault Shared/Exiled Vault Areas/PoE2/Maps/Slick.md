@@ -4,5 +4,5 @@ Stagnant oils mix to form a deadly concoction.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

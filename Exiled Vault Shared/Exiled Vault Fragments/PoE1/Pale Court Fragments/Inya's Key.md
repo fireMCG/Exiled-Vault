@@ -8,6 +8,6 @@ whose every word stands our hair on end.
 
 ---
 ## Tags
-#Fragment 
-#Historical 
+#Item/Fragment 
+#Attributes/Historical 
 #PoE1 

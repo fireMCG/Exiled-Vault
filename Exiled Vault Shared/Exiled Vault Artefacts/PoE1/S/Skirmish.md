@@ -7,5 +7,5 @@ nothing would remain unconquered.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -11,11 +11,11 @@ in the Well... perhaps walking among them even now, unseen.
 ## Tags
 #Character/Tecrod
 #Concept/Blood 
-#Concept/Flesh 
+#Concept/Body/Flesh 
 #Concept/Lich 
 #Concept/Vengeance
-#Concept/WellOfSouls
-#Lineage
+#Item/Lineage
+#Item/SupportGem
+#Location/Wraeclast/WellOfSouls 
 #PoE2
-#Society/Abyssal 
-#SupportGem
+#Society/Lightless 

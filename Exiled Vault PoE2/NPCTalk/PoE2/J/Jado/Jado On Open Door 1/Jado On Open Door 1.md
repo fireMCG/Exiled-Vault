@@ -7,5 +7,5 @@ Jado: This is where the Gifting would normally be enacted. It seems they have ma
 ---
 ## Tags
 #Character/Jado
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh

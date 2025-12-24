@@ -9,5 +9,5 @@ The Goddess Bound
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

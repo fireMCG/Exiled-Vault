@@ -5,4 +5,4 @@ Let me teach you the laws of war.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

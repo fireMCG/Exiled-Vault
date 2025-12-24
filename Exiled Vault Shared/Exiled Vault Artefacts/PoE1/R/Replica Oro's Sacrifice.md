@@ -7,5 +7,5 @@ What once burned now chills the soul."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

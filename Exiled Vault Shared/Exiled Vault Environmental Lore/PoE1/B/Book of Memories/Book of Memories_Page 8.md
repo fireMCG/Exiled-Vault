@@ -4,6 +4,6 @@ Months have now passed since my horrifying descent into that fox-hole, since the
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

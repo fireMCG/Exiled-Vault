@@ -4,7 +4,7 @@ The time is finally nigh. I've spent most of my life in service to our ideals, a
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/TwilightOrder 

@@ -6,5 +6,5 @@ Below the snow, adrift wanderers sleep.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -4,5 +4,5 @@ The grandest sculptures are carved with neither hammer nor chisel.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

@@ -5,5 +5,5 @@ A plan without a deadline stays a plan.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

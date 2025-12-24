@@ -6,5 +6,5 @@ debilitating effect from poisons. This could be very useful."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

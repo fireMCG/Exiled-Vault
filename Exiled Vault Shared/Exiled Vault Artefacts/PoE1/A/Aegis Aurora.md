@@ -6,7 +6,7 @@ the aurora evokes both awe and power.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Element/Ice 
 #Concept/Power 
 #Concept/Sky 

@@ -7,5 +7,5 @@ Alva: It's a long journey... but relatively safe once we're clear of the jungle.
 ## Tags
 #Character/Alva 
 #Location/Wraeclast/Kingsmarch 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

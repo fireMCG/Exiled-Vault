@@ -6,5 +6,5 @@ Terror makes you run.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

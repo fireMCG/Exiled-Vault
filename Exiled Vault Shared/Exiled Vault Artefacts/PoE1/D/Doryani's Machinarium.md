@@ -5,6 +5,6 @@ We are ever the makers of our own undoing.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
 #Society/VaalEmpire 

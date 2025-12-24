@@ -4,5 +4,5 @@ Hulls crash and splinter upon the shores.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

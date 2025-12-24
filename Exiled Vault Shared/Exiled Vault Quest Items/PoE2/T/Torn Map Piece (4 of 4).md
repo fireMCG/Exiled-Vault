@@ -5,5 +5,5 @@ No light touched it for centuries.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE2

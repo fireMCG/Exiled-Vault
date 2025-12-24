@@ -7,5 +7,5 @@ Memory? Cease testing and lock this away immediately!"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

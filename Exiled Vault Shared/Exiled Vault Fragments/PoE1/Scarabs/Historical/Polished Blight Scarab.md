@@ -4,7 +4,7 @@ For using the techniques of your homeland to contain the fungal plague, honoured
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

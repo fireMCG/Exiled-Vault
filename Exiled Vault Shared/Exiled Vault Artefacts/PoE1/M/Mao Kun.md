@@ -6,5 +6,5 @@ in agony at the End of the World.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

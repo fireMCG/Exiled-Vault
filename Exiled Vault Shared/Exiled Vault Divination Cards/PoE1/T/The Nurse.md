@@ -9,5 +9,5 @@ The Doctor
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

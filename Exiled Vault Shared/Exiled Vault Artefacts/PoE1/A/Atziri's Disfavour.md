@@ -6,7 +6,7 @@
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Atziri 
 #PoE1
 #Society/VaalEmpire 

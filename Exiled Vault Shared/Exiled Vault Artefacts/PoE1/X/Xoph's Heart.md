@@ -6,5 +6,5 @@ To its beat we are all driven.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

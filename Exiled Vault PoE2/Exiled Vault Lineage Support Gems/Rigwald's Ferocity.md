@@ -13,8 +13,8 @@ fight! So, I bring you his head. I am now your Wolven King!"
 #Character/Skothe
 #Concept/King 
 #Concept/Slavery 
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/Ezomyte 
-#SupportGem
-#Timeline 
+#Item/SupportGem
+#Attributes/Timeline 

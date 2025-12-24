@@ -11,7 +11,7 @@ A scavenging warrior found Tawhoa meditating in a grove.
 ## Tags
 #Character/God/Tawhoa 
 #Character/God/Tawhoa 
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/Karui/Tribe/Tawhoa 
-#SupportGem
+#Item/SupportGem

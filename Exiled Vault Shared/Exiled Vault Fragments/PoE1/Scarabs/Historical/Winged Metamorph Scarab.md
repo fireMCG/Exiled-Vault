@@ -4,7 +4,7 @@ Though the Necromancer of Weeping Black fell in the desert by the hand of Garukh
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

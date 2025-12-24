@@ -11,5 +11,5 @@ Tasalio smiles upon your fluidity.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

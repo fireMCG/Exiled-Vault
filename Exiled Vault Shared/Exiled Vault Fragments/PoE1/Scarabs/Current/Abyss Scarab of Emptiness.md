@@ -6,7 +6,7 @@ They stare back, with hollow hypnotising eyes.
 
 ---
 ## Tags
-#Concept/Eye 
-#DropDisabled
+#Concept/Body/Eye 
+#Attributes/Disabled
 #League/Abyss 
-#Scarab
+#Item/Scarab

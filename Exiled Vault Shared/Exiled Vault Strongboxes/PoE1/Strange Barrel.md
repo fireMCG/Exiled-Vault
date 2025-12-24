@@ -8,4 +8,4 @@ Not swarms of things.
 ---
 ## Tags
 #PoE1 
-#Strongbox
+#Category/Strongbox

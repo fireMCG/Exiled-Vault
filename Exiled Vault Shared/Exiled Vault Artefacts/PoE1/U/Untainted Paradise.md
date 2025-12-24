@@ -7,5 +7,5 @@ chokes out life.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

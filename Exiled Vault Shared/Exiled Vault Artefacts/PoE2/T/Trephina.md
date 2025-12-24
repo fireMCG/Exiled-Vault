@@ -5,5 +5,5 @@ The art of surgery advances one mistake at a time.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

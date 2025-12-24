@@ -5,5 +5,5 @@ One warrior alone survived to face the Arbiter.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

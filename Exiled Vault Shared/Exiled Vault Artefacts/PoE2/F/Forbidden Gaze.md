@@ -6,5 +6,5 @@ lest your passions stir.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

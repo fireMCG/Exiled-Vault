@@ -6,5 +6,5 @@ steal Prototype #659. What do they know that we do not?"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

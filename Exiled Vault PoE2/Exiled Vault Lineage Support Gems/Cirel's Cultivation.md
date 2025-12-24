@@ -11,7 +11,7 @@ Now, the gate of the Taisce is unassailable, yet open to all.
 ## Tags
 #Character/Cirel
 #Concept/Ash 
-#Lineage 
+#Item/Lineage 
 #Location/Wraeclast/Taisce
 #Society/Azmeri 
 #Society/Ezomyte 

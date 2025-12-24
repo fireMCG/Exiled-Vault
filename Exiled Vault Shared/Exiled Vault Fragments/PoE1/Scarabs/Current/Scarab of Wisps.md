@@ -6,4 +6,4 @@ The Draíocht connects everything that lives.
 
 ---
 ## Tags
-#Scarab
+#Item/Scarab

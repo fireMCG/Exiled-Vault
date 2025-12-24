@@ -5,5 +5,5 @@ The Monkey King names you 'slave'. No. You are the gems of Wraeclast, not the tr
 ##
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act3

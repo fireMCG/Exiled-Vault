@@ -11,5 +11,5 @@ Alone and free."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

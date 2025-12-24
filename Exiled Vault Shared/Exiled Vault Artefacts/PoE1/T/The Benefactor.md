@@ -6,5 +6,5 @@ And the warrior readies his blade.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -5,5 +5,5 @@ Bleeding just means you're still alive.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

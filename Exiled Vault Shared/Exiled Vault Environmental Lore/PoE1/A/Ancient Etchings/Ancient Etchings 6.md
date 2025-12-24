@@ -6,5 +6,5 @@ But once they understood the truth of this place, they took steps to make it har
 ##
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

@@ -5,6 +5,6 @@ A shooting star may bring great fortune.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE2
 #Society/Kalguur 

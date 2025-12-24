@@ -7,4 +7,4 @@ Unconventional criminals require unconventional prisons.
 ---
 ## Tags
 #PoE1 
-#Strongbox
+#Category/Strongbox

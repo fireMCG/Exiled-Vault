@@ -7,5 +7,5 @@ It will consume all that lives, and more!"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

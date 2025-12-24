@@ -21,5 +21,5 @@ Nay. Just a statement o' fact. But that were then. Now, the Spirit calls on us t
 ---
 ## Tags
 #Character/Delwyn
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri 

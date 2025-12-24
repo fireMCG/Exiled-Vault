@@ -12,5 +12,5 @@ Nightmare Bascinet
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

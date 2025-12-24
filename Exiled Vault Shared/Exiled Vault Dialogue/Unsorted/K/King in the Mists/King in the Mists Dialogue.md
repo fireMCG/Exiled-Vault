@@ -277,4 +277,4 @@ Gate to nothingness!
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

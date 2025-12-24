@@ -7,5 +7,5 @@ The temptation is obvious, but the results can be... unpredictable."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

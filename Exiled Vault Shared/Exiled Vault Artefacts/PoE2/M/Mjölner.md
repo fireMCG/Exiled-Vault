@@ -5,5 +5,5 @@ Look the storm in the eye and you will have its respect.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

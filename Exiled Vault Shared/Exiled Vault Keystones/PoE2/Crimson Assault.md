@@ -11,5 +11,5 @@ Base Bleeding Duration is 1 second
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE2 

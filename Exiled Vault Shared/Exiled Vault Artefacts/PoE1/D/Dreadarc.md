@@ -6,5 +6,5 @@ is through his sternum.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

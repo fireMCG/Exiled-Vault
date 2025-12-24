@@ -8,6 +8,6 @@ a single soul imprisoned eternally for his crimes.
 ## Tags
 #Concept/Crystal
 #Concept/Soul
-#QuestItem
+#Item/QuestItem
 #PoE2
 #Society/VaalEmpire 

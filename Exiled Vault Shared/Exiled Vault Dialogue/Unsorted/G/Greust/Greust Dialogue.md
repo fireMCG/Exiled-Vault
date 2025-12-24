@@ -65,4 +65,4 @@ You have made peace with our land. For now, my spear is lowered.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

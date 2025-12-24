@@ -9,5 +9,5 @@ Will you accept?"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

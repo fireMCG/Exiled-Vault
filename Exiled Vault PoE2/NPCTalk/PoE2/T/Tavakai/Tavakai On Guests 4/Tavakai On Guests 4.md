@@ -57,5 +57,5 @@ Tavakai: Strength is the key! And yet here we are... Slowly but surely, outsider
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

@@ -7,5 +7,5 @@ can be recaptured and... reappropriated."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

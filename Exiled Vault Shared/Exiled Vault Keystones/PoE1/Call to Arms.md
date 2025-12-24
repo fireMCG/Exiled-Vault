@@ -11,5 +11,5 @@ Your Warcries do not grant Buffs or Charges to You
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

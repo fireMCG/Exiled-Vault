@@ -4,7 +4,7 @@ The Ember-dwellers sought to throw you to their volcanic god, young Omid, but we
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

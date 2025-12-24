@@ -14,5 +14,5 @@ Chayula Item
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

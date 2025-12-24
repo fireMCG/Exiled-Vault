@@ -11,5 +11,5 @@ Corrupted
 ---
 ## Tags
 #Concept/Sin/Vanity
-#DivinationCard
+#Item/DivinationCard
 #PoE1

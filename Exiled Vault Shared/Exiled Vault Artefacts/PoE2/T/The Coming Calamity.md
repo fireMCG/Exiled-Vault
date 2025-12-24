@@ -8,5 +8,5 @@ By your hand they dance and bend, wield them and brook no end.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -5,5 +5,5 @@ I haven't slept. No one has slept. Not for three days, not since the black storm
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act2

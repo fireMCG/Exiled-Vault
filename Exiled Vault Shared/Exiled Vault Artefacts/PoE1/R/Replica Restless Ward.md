@@ -6,5 +6,5 @@ There is power here, if it can be tapped."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

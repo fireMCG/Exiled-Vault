@@ -5,6 +5,6 @@ Golden Treasure lies forgotten...
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE2
 #Society/VaalEmpire 

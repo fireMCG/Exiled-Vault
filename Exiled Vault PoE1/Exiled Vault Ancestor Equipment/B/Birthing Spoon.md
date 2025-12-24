@@ -7,7 +7,7 @@ With each new life, the entire tribe is invigorated.
 
 ---
 ## Tags
-#AncestorEquipment
+#Item/AncestorEquipment
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Hinekora 

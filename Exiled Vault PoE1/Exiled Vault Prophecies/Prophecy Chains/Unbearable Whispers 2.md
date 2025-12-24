@@ -12,4 +12,4 @@ You will discover a tome upon slaying a monster in the Sceptre of God, Palace Ma
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

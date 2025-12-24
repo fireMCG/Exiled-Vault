@@ -5,5 +5,5 @@ The higher you soar, the further you must fall.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

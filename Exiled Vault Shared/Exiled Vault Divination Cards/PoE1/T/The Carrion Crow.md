@@ -12,5 +12,9 @@ Life Armour
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Animal/Bird/Crow
+#Concept/Death 
+#Concept/Life 
+#Concept/Rebirth 
+#Item/DivinationCard
 #PoE1

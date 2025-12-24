@@ -9,5 +9,5 @@ Doryani's Fist
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

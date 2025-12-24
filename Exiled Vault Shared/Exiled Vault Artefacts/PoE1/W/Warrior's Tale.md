@@ -5,5 +5,5 @@ The story of a life, written in blood and ink.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

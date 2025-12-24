@@ -33,5 +33,5 @@ Lurking Creature: The Well was not. The Master Below All raged. Then, the Well w
 #Character/Kulemak 
 #Character/LurkingCreature
 #Location/Wraeclast/WellOfSouls 
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

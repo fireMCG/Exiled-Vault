@@ -145,5 +145,5 @@ Approach, and claim your reward.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #Society/VaalEmpire 

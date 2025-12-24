@@ -6,7 +6,7 @@ One day soon, the Vaal will spread from this place like wildfire. The decline in
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/VaalEmpire 

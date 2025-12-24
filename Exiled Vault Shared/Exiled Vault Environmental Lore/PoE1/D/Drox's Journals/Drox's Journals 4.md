@@ -7,5 +7,5 @@ Drox the Warlord
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1 

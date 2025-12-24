@@ -6,5 +6,5 @@ As the forest fades, the twilight hunt begins.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -10,5 +10,5 @@ Hilda: Best not ask me about that codswallop, friend. I fear you'll not think to
 ---
 ## Tags
 #Character/Hilda
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri

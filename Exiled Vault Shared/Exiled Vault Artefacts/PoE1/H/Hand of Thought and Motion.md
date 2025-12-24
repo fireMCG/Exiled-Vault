@@ -6,5 +6,5 @@ until we must feed upon each other.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

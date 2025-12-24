@@ -7,5 +7,5 @@ It is our duty to keep it so.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -11,7 +11,7 @@ Bottled Faith
 ## Tags
 #Concept/Blood 
 #Concept/Damnation 
-#Concept/Sanctification
+#Concept/Sanctity
 #Concept/Sin 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

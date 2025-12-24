@@ -31,5 +31,5 @@ Druid: Ye've done what's asked. That's service enough.
 ---
 ## Tags
 #Character/LurkingCreature
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

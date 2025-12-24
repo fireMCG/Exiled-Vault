@@ -6,5 +6,5 @@ The battlefields have been left barren.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

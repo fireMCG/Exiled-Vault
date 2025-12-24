@@ -7,5 +7,5 @@ biding his time, waiting for his chance...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

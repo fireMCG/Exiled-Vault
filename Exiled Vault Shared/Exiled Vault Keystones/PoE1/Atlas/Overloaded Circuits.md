@@ -12,5 +12,5 @@ League Map Crafting Options also choose 3 random Notable Atlas Passive Skills as
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

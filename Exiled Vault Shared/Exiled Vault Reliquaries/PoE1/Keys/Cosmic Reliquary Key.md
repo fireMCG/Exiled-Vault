@@ -13,6 +13,6 @@ Through transcendence, bend reality to your will.
 #Character/ValdoCaeserius
 #Concept/Light 
 #Concept/Mind 
-#Concept/Star 
+#Concept/Space/Star 
 #Concept/Within 
-#Reliquary
+#Category/Reliquary

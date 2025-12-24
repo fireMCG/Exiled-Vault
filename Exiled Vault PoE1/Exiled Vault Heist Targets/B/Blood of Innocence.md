@@ -9,10 +9,10 @@ enjoy eternal life. If that power holds in his ancient ichor, I hope that it can
 #Character/God/Innocence 
 #Character/RingClient/MidnightTinkerer
 #Concept/Blood 
-#Concept/Immortality 
+#Concept/Life/Immortality 
 #Concept/Religion 
 #Concept/Resurrection 
 #Character/God/Innocence 
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 

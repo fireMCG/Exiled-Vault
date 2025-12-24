@@ -6,5 +6,5 @@ long after they have been made
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

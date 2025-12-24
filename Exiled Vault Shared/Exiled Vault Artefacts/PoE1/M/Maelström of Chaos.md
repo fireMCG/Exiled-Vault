@@ -8,5 +8,5 @@ Will they grant me strength or doom?
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -7,5 +7,5 @@ to fight his way out. I don't know what we expected."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,5 +6,5 @@ I fight so that the children may remain ignorant.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

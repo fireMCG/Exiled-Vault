@@ -4,6 +4,6 @@ The shade spluttered into a great shimmering blaze, moving rapidly forward into 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

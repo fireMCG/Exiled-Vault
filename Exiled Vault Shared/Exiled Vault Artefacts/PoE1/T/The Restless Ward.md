@@ -8,5 +8,5 @@ One lapse and all for naught.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

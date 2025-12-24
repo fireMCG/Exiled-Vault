@@ -10,8 +10,8 @@ bind, not to dominate, but to protect... and guide."
 ---
 ## Tags
 #Character/Varashta
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/Maraketh 
-#SupportGem
-#Timeline 
+#Item/SupportGem
+#Attributes/Timeline 

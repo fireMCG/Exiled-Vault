@@ -6,10 +6,10 @@ and engulfs the leaking mind of Man.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/God/Apep
 #Concept/Mind 
 #Concept/Poison
-#Concept/Rage 
+#Concept/Emotion/Rage 
 #Character/God/Apep
 #PoE1

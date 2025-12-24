@@ -4,5 +4,5 @@ No living hands ever stoked these flames.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

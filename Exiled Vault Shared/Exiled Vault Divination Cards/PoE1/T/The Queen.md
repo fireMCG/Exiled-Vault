@@ -10,6 +10,6 @@ Atziri's Acuity
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1
 #Society/VaalEmpire 

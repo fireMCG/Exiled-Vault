@@ -5,5 +5,5 @@ A wall of steel and muscle.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

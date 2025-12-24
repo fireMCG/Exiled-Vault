@@ -6,5 +6,5 @@ Doryani: In my youth, all I wanted was power. I was the smartest. The sharpest. 
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

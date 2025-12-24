@@ -33,5 +33,5 @@ Missionary Lorandis: Utopia is a dream, but Wraeclast is a nightmare. Let us cho
 ---
 ## Tags
 #Character/MissionaryLorandis
-#NPCTalk
+#Category/NPCTalk
 #Society/TwilightOrder 

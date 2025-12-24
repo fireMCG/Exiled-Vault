@@ -7,6 +7,6 @@ With relish, we did exactly as she instructed."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
 #Society/VaalEmpire 

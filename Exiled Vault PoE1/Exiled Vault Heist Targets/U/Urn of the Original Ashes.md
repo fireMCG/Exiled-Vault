@@ -8,7 +8,7 @@ The urn contains exactly what you think it does, and serves as proof of our long
 ## Tags
 #Character/Geonor 
 #Event/GreatFire
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 
 #Society/Ezomyte 

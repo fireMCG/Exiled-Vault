@@ -5,5 +5,5 @@ Ancient worshippers of the Greatwolf were overtaken by a ravenous hunger for all
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

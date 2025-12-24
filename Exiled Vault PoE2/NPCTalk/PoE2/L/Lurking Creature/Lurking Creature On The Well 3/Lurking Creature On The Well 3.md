@@ -56,5 +56,5 @@ Druid: If there's no rest in death... then she's still sufferin'. Because o' me.
 ## Tags
 #Character/LurkingCreature
 #Location/Wraeclast/WellOfSouls
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

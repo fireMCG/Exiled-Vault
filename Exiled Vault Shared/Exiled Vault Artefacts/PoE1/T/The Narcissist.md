@@ -7,5 +7,5 @@ striving invariably for improvement.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

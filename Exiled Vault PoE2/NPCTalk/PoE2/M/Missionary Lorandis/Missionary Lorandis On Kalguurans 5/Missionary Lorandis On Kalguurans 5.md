@@ -60,5 +60,5 @@ Missionary Lorandis: The Kalguuran King seeks Vaal artefacts. I know not why, bu
 ---
 ## Tags
 #Character/MissionaryLorandis
-#NPCTalk
+#Category/NPCTalk
 #Society/TwilightOrder 

@@ -9,7 +9,7 @@ My beloved daughter, we shall never forget what the Ezomytes did to you. We will
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/EternalEmpire 

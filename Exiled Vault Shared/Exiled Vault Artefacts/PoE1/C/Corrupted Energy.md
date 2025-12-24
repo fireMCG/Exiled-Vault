@@ -5,5 +5,5 @@ Nothing is immune to the Nightmare's twisted influence.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

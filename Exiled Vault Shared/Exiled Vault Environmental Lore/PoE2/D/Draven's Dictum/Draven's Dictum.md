@@ -6,7 +6,7 @@ Our victory is never complete, so long as the Ezomytes resist us. Let this grave
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/EternalEmpire 

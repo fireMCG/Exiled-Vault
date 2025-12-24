@@ -6,5 +6,5 @@ They fuel the fires within in, driving us on.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

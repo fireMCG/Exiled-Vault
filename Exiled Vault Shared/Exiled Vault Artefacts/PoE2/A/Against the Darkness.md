@@ -7,6 +7,6 @@ Thus, the Third Pact was born.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2
-#Timeline 
+#Attributes/Timeline 

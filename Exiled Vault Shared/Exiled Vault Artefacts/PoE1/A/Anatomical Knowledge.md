@@ -6,5 +6,5 @@ you can't help but treat it better.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

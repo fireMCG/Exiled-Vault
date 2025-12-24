@@ -9,5 +9,5 @@ Ryslatha's Coil
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

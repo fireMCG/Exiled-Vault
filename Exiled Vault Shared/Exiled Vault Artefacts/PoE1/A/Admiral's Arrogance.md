@@ -6,6 +6,6 @@ to produce Admirals with, shall we say... quick tempers.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
 #Society/TemplarOrder 

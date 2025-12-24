@@ -4,7 +4,7 @@ Young Tsarsk, you were a broken and forgotten child lying glassy-eyed in a flesh
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

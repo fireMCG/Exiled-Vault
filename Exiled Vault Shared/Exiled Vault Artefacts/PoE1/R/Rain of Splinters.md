@@ -7,5 +7,5 @@ then a hundred is a threat."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

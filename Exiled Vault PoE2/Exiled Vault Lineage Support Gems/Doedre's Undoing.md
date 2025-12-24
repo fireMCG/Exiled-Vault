@@ -10,9 +10,9 @@ meat shall lead us down the path to true enlightenment."
 ---
 ## Tags
 #Character/Doedre
-#Concept/Divinity 
-#Concept/Flesh 
-#Lineage
+#Concept/Religion/Divinity 
+#Concept/Body/Flesh 
+#Item/Lineage
 #PoE2
 #Society/EternalEmpire 
-#SupportGem
+#Item/SupportGem

@@ -8,5 +8,5 @@ Blind to the damnation in his hands.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

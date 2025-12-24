@@ -6,5 +6,5 @@ but when we failed to make any progress on resurrection, he continued his search
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

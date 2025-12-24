@@ -11,6 +11,6 @@ Sekhema Asala: To keep the reserves from running dry, Rashi collects water from 
 #Concept/Blood 
 #Concept/Water 
 #Concept/Wind 
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh 
 #Society/SelKhari

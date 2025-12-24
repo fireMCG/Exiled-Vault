@@ -9,5 +9,5 @@ Pledge of Hands
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

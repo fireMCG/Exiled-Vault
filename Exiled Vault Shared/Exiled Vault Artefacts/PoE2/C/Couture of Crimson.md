@@ -5,5 +5,5 @@ It's often said of nobles that they live off their peasants... sometimes, it's t
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

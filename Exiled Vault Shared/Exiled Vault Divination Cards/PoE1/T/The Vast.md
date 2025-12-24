@@ -13,5 +13,5 @@ Song of the Sirens
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

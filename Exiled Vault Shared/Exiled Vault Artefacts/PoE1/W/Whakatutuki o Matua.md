@@ -5,5 +5,5 @@ As you guided me, now I guide others.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

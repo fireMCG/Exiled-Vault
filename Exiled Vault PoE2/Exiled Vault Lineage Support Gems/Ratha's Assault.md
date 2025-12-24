@@ -10,7 +10,7 @@ only way for us to earn their respect... and their fear."
 ---
 ## Tags
 #Character/Ratha
-#Concept/Fear 
-#Lineage
+#Concept/Emotion/Fear 
+#Item/Lineage
 #PoE2
-#SupportGem
+#Item/SupportGem

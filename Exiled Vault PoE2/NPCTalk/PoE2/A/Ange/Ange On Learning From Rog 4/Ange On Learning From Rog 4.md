@@ -58,5 +58,5 @@ Ange: Years ago, he'd drive a hard bargain. He was a great negotiator. Then he w
 ## Tags
 #Character/Ange
 #Character/Rog 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

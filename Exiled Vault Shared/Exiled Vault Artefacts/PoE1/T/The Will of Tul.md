@@ -6,5 +6,5 @@ but stillness will find them... and bury them.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

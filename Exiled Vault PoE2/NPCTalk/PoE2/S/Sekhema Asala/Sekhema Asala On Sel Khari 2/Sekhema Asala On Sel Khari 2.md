@@ -9,7 +9,7 @@ Sekhema Asala: Long ago, when the bounty of the land began to shift against us, 
 ---
 ## Tags
 #Character/Sekhema/Asala
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh 
 #Society/SelKhari
-#Timeline 
+#Attributes/Timeline 

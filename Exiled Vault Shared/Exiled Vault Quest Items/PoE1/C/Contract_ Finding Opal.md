@@ -6,5 +6,5 @@ I just want to know she's safe.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

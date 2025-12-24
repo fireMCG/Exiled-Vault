@@ -5,5 +5,5 @@ See creation as it was, aflame and frantic.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

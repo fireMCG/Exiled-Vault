@@ -5,5 +5,5 @@ Natural grace is born, not earned.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -12,6 +12,6 @@ offerings of adoration. We hope that, in its mercy, it shall pass us by."
 #Concept/Soul
 #Concept/Storm
 #Concept/Tyranny
-#QuestItem
+#Item/QuestItem
 #PoE1
 #Society/Maraketh 

@@ -6,5 +6,5 @@ as if it were somehow lit from within.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

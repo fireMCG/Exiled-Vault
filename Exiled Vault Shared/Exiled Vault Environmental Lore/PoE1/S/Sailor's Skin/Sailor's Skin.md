@@ -4,5 +4,5 @@ Welcome, husband. We knew in our hearts that you would find us. Come, Daresso, A
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act1

@@ -5,6 +5,6 @@ It isn't fair to either of us to keep chasing this dream.
 
 ---
 ## Tags
-#Concept/Dream
-#QuestItem
+#Concept/Night/Dream
+#Item/QuestItem
 #PoE1

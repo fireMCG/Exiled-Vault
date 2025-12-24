@@ -7,5 +7,5 @@ Gwennen: Chaos? Why would you ask me about {them?}
 ---
 ## Tags
 #Character/Gwennen
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur  

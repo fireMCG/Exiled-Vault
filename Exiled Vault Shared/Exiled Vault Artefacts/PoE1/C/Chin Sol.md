@@ -6,5 +6,5 @@ That is not the case when fighting the Maraketh.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

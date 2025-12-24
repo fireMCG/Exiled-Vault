@@ -15,5 +15,5 @@ Item Level: 100
 ---
 ## Tags
 #Character/God/Tukohama
-#DivinationCard
+#Item/DivinationCard
 #PoE1

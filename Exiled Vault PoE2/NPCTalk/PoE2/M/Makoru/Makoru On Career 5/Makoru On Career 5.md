@@ -39,5 +39,5 @@ Makoru: Now I've just got to get out there and make a name for myself. I've put 
 ---
 ## Tags
 #Character/Makoru
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

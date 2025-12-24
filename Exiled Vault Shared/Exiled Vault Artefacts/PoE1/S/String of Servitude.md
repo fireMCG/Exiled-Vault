@@ -5,5 +5,5 @@ For the Vaal, the relationship between slave and master was as intimate and vola
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

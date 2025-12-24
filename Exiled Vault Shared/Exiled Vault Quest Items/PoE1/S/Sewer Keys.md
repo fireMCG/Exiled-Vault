@@ -6,5 +6,5 @@ privy to its best-kept secrets.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

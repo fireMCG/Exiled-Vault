@@ -11,7 +11,7 @@ as old as civilisation itself."
 #Character/Emperor/ChitusPerandus
 #Character/IciusPerandus
 #Concept/Gemling
-#Concept/VirtueGem 
-#QuestItem
+#Concept/Virtue/Gem 
+#Item/QuestItem
 #PoE1
 #Society/VaalEmpire 

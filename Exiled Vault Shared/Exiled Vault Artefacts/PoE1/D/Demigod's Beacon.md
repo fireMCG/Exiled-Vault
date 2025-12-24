@@ -5,5 +5,5 @@ The light of victory burns eternally.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

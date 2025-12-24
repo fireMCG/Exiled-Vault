@@ -6,5 +6,5 @@ test subject by timing their arrows between his explosive dashes."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

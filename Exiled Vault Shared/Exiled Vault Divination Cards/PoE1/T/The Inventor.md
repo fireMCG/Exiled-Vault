@@ -12,5 +12,5 @@ Or beyond compare.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

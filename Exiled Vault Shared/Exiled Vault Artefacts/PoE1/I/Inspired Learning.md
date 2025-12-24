@@ -6,5 +6,5 @@ then you have already lost the war.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

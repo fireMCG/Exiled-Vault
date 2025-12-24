@@ -7,5 +7,5 @@ The First of the Plains teaches us that the largest prey can still be whittled a
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

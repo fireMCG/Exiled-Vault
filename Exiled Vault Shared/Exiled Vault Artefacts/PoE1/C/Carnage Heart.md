@@ -6,5 +6,5 @@ its thirst has only begun.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

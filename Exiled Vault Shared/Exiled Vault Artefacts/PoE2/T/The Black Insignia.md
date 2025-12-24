@@ -6,5 +6,5 @@ pushing their luck right to the end.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -5,5 +5,5 @@ We bury the dead. Insects feed on the flesh and bone... Rot takes hold... An ent
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1

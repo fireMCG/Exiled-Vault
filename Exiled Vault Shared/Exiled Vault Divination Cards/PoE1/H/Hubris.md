@@ -11,5 +11,5 @@ Ring
 ---
 ## Tags
 #Concept/Sin/Hubris
-#DivinationCard
+#Item/DivinationCard
 #PoE1

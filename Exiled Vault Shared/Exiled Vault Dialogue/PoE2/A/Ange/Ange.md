@@ -151,5 +151,5 @@ Look at this! Isn't it wonderful!
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

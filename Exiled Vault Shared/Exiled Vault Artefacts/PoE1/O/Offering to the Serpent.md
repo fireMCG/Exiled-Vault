@@ -7,5 +7,5 @@ Perhaps it can be yours, if you are willing to make an offering of their blood..
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

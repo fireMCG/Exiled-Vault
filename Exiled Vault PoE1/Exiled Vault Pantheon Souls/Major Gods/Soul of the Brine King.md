@@ -10,11 +10,11 @@
 ## Tags
 #Character/God/Tsoagoth
 #Concept/Abyss
-#Concept/Dream
-#Concept/Fish 
+#Concept/Night/Dream
+#Concept/Animal/Fish 
 #Concept/Fracture
-#Concept/Hate 
-#Concept/Realm
+#Concept/Emotion/Hate 
+#Concept/World
 #Concept/Soul 
 #Character/God/Tsoagoth
 #PoE1 

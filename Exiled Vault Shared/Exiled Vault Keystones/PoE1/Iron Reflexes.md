@@ -10,5 +10,5 @@ Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Ra
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

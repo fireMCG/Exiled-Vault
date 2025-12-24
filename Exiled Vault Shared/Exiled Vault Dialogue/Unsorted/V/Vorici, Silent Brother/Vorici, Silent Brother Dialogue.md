@@ -469,4 +469,4 @@ You... only delay our inexorable rise.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

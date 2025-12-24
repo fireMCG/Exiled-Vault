@@ -6,7 +6,7 @@ and experience true freedom.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Freedom

@@ -7,5 +7,5 @@ Before he collapsed, he uttered:
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

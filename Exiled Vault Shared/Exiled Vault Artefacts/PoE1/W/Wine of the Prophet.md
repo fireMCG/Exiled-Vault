@@ -7,5 +7,5 @@ for those that have the will, and the way!"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

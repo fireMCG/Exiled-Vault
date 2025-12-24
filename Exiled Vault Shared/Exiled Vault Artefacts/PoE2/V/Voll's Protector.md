@@ -6,5 +6,5 @@ Voll proved disastrous in times of peace.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

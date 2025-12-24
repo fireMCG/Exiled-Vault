@@ -1049,5 +1049,5 @@ The Spirit bid me leave my forests, only to find violence and death. Give me a s
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #Society/VaalEmpire 

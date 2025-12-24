@@ -7,5 +7,5 @@ But in the great freeze we are forged anew.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

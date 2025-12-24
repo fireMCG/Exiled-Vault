@@ -8,4 +8,4 @@ and I am trying with all my strength to get back to you.
 #Character/Sirus
 #Character/Zana
 #PoE1 
-#Reliquary 
+#Category/Reliquary 

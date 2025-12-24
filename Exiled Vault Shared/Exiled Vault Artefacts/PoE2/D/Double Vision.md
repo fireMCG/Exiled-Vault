@@ -6,5 +6,5 @@ hot day is harsh, but the chill night is far worse.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

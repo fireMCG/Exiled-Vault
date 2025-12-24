@@ -11,7 +11,7 @@ And fled."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Berek 
 #Concept/Element/Fire 
 #Concept/Sky 

@@ -6,5 +6,5 @@ the safest place to be is the centre.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

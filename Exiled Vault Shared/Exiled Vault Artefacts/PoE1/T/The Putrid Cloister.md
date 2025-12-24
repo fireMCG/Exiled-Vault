@@ -7,5 +7,5 @@ Class is now in session.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

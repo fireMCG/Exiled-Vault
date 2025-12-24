@@ -29,6 +29,6 @@ Finn: I friggin' knew it!
 ## Tags
 #Character/Finn 
 #Character/Una 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 
-#Timeline 
+#Attributes/Timeline 

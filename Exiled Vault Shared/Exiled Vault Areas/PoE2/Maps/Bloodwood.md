@@ -4,5 +4,5 @@ Poisoned trees bear pestilent fruits.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

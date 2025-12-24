@@ -6,5 +6,5 @@ quite like desperation.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -19,5 +19,5 @@ Jado: That might be the case... If there is indeed a plan at work, we must be ca
 ---
 ## Tags
 #Character/Jado
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh

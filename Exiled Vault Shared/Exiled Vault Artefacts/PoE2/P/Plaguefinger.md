@@ -5,5 +5,5 @@ Ulcers, scabs, and pocks, the third army makes its claim.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

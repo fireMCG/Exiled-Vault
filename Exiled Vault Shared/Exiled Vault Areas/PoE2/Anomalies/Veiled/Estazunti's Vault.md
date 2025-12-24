@@ -4,6 +4,6 @@ Closed and forgotten to time, the Vault holds living secrets.
 #
 ---
 ## Tags
-#Area
-#Map
+#Category/Area
+#Item/Map
 #PoE2 

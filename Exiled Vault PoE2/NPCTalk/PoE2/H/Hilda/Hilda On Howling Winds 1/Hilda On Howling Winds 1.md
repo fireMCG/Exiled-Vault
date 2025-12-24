@@ -7,5 +7,5 @@ Hilda: There's one beast I've not been able to best. A yeti deep within the cave
 ---
 ## Tags
 #Character/Hilda
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri

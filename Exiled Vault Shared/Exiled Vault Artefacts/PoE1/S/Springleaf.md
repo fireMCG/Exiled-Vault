@@ -5,5 +5,5 @@ From death springs life.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

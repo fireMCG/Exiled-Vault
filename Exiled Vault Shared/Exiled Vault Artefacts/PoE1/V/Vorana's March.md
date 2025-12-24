@@ -6,5 +6,5 @@ called out for aid... and the Black Scythe answered.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

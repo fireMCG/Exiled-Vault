@@ -9,5 +9,5 @@ Publicly, he lived a pious and chaste life of poverty. Privately, tithes and tri
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

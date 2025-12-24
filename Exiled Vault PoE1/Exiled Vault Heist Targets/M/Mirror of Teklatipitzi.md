@@ -11,7 +11,7 @@ if he thinks he loves her like I do.
 #Character/AntonLaffrey
 #Character/SelwynEddard
 #Concept/Mirror
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 
 #Society/VaalEmpire 

@@ -4,7 +4,7 @@ Though you were swallowed by your own darkness, you saved countless others from 
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

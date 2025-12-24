@@ -50,7 +50,7 @@ Alva: You're really getting in the spirit of treasure hunting!
 ---
 ## Tags
 #Character/Alva 
-#NPCTalk
+#Category/NPCTalk
 #Society/Maji 
 #Society/Precursor 
-#Timeline 
+#Attributes/Timeline 

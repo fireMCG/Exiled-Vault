@@ -16,5 +16,5 @@ and its bounty was shared equally by all.
 #Location/Wraeclast/Vastiri/Keth
 #PoE2
 #Society/Maraketh
-#Strongbox
-#Timeline 
+#Category/Strongbox
+#Attributes/Timeline 

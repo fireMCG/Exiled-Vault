@@ -12,4 +12,4 @@ Drops [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/H/Hinekora'
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

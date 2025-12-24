@@ -11,7 +11,7 @@ It accomplished all of these things... most horribly.
 ## Tags
 #Character/Atziri 
 #Concept/Communion 
-#Concept/Immortality 
+#Concept/Life/Immortality 
 #Concept/Soul 
-#Lineage 
+#Item/Lineage 
 #Society/VaalEmpire 

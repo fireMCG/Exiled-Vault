@@ -4,7 +4,7 @@ Betucia, Bearer of the Sealing Blade, the Order of the Djinn survives because of
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

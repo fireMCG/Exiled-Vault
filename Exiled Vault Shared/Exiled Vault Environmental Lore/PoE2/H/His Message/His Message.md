@@ -6,7 +6,7 @@ My dearest Elswyth, His Voice grows clearer by the day. I can feel his presence.
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Ezomyte 

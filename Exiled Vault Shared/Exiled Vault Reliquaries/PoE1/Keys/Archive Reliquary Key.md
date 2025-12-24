@@ -8,8 +8,8 @@ the Cleansing Fire keeps eternal...
 ---
 ## Tags
 #Character/Eldritch/SearingExarch 
-#Concept/Eternity 
+#Concept/Time/Eternity 
 #Concept/Mind 
-#Entity/CleansingFire 
+#Concept/Cleansing 
 #PoE1 
-#Reliquary
+#Category/Reliquary

@@ -4,6 +4,6 @@ The device lay on my work table, shattered and in pieces. I'm ashamed to admit n
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

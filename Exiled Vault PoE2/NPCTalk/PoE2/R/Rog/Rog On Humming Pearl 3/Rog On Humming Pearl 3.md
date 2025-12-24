@@ -33,5 +33,5 @@ Rog, the Dealer: That's not just any pearl... Hmm. I've an idea. I know I've got
 ---
 ## Tags
 #Character/Rog 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

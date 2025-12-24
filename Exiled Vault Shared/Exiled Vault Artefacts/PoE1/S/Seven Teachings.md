@@ -6,5 +6,5 @@ perfection of the body and the will.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

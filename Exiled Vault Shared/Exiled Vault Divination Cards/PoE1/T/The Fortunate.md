@@ -10,5 +10,5 @@ generosity in the divine.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

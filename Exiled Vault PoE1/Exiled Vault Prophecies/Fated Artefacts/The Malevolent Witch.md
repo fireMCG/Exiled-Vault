@@ -17,4 +17,4 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/D/Doedre
 #Concept/Witch 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

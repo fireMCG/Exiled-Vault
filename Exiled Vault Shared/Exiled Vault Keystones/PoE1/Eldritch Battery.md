@@ -13,5 +13,5 @@ Energy Shield protects Mana instead of Life
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

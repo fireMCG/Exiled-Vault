@@ -4,7 +4,7 @@ This is a far cry from the saline depths of Tsoatha, a place which harboured bou
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Karui 

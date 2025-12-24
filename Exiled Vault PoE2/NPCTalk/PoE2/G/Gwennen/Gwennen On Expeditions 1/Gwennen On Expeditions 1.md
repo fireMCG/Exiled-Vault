@@ -7,5 +7,5 @@ Gwennen: The relics of our ancestors are where they're supposed to be, at least.
 ---
 ## Tags
 #Character/Gwennen
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur  

@@ -12,5 +12,5 @@ Jewel of Potency
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

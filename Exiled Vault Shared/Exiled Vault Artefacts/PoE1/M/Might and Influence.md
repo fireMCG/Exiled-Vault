@@ -8,5 +8,5 @@ mixture of fear and admiration among the masses.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

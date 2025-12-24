@@ -7,7 +7,7 @@ A Leader. A Conquerer. A Viper.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Napuatzi 
 #PoE1
 #Society/VaalEmpire 

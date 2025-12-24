@@ -29,5 +29,5 @@ Mercenary: Yeah! Yeah it was him. I'm pretty sure it was.
 #Character/Alva
 #Character/God/Tangmazu
 #Character/God/Tangmazu
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

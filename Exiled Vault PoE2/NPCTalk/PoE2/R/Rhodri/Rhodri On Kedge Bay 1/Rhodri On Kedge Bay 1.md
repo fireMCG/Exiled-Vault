@@ -5,4 +5,4 @@ Rhodri: Well... the fog is gone. But... you let out some fearsome thing. Win som
 ---
 ## Tags
 #Character/Rhodri
-#NPCTalk
+#Category/NPCTalk

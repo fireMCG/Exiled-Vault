@@ -13,4 +13,4 @@ Now we shall paint with inks of savagery.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Talisman 
+#Item/Talisman 

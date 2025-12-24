@@ -6,5 +6,5 @@ Then, they begin again.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

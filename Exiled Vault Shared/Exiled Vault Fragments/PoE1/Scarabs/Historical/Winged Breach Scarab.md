@@ -4,7 +4,7 @@ The Master Researcher's final commandment has failed. The High Templar has seen 
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

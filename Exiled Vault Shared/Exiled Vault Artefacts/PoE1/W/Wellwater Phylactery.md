@@ -7,5 +7,5 @@ so long as you never speak my name..."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

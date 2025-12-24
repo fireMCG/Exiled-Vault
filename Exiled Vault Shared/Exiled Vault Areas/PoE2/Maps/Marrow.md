@@ -4,5 +4,5 @@ Darkness enshrouds these endless chasms.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

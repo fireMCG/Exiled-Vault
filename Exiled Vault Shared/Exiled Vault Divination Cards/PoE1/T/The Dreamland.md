@@ -9,5 +9,5 @@ Poorjoy's Asylum
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

@@ -9,6 +9,6 @@ Horned Scarab
 
 ---
 ## Tags
-#Concept/Cycle 
-#DivinationCard
+#Concept/Time/Cycle 
+#Item/DivinationCard
 #PoE1

@@ -828,5 +828,5 @@ Good one for disenchanting.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

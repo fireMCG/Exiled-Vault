@@ -7,10 +7,10 @@ they fought to the death for every last drop.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Maven 
-#Concept/Cosmos 
+#Concept/Space 
 #Concept/Creation
 #Concept/Death 
-#Concept/Mother 
+#Concept/Family/Mother 
 #PoE1

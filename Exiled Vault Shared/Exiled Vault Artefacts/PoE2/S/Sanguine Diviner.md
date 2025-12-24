@@ -5,5 +5,5 @@ One way or another, it will find what it seeks.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -9,5 +9,5 @@ If the path to divinity were simple, we'd all be gods.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

@@ -8,5 +8,5 @@ and pray we never learn of what comes next.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

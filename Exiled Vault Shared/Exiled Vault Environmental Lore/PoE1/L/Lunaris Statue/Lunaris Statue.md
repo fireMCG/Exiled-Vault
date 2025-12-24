@@ -13,5 +13,5 @@ Hid 'neath the ice and shimmering snow. Lunaris healed from her wounds and ponde
 #Character/God/Lunaris 
 #Concept/Moon 
 #Character/God/Lunaris 
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act8

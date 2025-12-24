@@ -7,6 +7,6 @@ who feeds the starving with the starved, the strong with the weak.
 
 ---
 ## Tags
-#Fragment 
-#Historical 
+#Item/Fragment 
+#Attributes/Historical 
 #PoE1 

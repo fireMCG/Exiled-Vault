@@ -8,6 +8,6 @@ Zelina: The Azmeri hold the oldest wisdom. They were already in their mountains 
 ## Tags
 #Character/Xibaqua 
 #Character/Zelina
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 
 #Society/Azmeri 

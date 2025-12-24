@@ -12,4 +12,4 @@ Each leader drops a unique of the corresponding warband.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

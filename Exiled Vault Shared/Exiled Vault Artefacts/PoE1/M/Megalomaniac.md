@@ -5,5 +5,5 @@ If you're going to act like you're better than everyone else, make sure you are.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

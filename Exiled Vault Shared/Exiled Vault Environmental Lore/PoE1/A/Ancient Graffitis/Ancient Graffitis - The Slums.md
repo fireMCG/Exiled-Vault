@@ -5,5 +5,5 @@ The Monkey King has built his throne on your back. A throne of gold and gem, pol
 ##
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act3

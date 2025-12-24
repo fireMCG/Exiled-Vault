@@ -5,5 +5,5 @@ My eternity passed unnoticed within the Sanctum. I knew I needed to amass great 
 ##
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

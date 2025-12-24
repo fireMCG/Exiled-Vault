@@ -16,5 +16,5 @@ Other Modifiers to Movement Speed do not apply
 ## Tags
 #Character/Amanamu
 #PoE2
-#Society/Abyssal 
-#Socketable
+#Society/Lightless 
+#Item/Socketable

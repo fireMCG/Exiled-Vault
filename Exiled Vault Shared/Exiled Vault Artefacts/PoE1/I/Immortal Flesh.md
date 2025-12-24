@@ -9,5 +9,5 @@ And out of spite They plotted."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

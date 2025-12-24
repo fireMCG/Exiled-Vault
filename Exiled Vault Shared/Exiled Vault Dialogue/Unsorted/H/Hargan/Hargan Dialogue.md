@@ -168,5 +168,5 @@ Well, they're forged from solid gold, I can tell you that much. But I suppose th
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #Society/VaalEmpire 

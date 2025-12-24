@@ -4,7 +4,7 @@ Darkness surges in the shadows of the past. Ancient evils stir. The stars watch,
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

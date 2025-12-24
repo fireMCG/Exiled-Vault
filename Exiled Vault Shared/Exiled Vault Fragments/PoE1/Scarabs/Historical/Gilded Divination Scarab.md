@@ -4,7 +4,7 @@ Your centuries of service have been invaluable to us, Narumoa. Go now, return to
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

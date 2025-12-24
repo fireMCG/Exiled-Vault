@@ -5,5 +5,5 @@ Winter provides us with her own weapons, hanging from the eaves of our homes.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

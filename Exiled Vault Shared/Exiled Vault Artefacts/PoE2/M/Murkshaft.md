@@ -8,5 +8,5 @@ They're actually for brewing poisons."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

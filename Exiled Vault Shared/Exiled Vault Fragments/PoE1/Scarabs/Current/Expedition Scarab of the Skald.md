@@ -6,6 +6,6 @@ Lead from the front, and your men will follow you anywhere.
 
 ---
 ## Tags
-#DropDisabled
+#Attributes/Disabled
 #League/Expedition
-#Scarab
+#Item/Scarab

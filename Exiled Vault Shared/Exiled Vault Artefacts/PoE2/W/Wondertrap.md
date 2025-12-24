@@ -5,5 +5,5 @@ Wonders abound at death's door.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

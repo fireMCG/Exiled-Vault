@@ -5,5 +5,5 @@ The warrior who fears will fall.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

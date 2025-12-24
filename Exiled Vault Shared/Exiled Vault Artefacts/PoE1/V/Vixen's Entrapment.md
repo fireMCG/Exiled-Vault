@@ -6,5 +6,5 @@ One night I wish I'd forget."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

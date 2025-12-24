@@ -39,5 +39,5 @@ Kaimana: Yes! That is a beautiful aspect of the Way. Seen like this, the tribes 
 ---
 ## Tags
 #Character/Kaimana
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

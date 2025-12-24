@@ -10,6 +10,6 @@ cycle after a Count's soul is laid to rest.
 #Concept/Moon
 #Concept/Rune 
 #Concept/Soul 
-#QuestItem
+#Item/QuestItem
 #PoE2
 #Society/Ezomyte 

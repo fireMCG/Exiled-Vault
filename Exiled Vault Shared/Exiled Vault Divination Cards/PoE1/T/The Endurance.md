@@ -12,5 +12,5 @@ Vivid Crimson Jewel
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

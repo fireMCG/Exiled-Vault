@@ -5,5 +5,5 @@ The gemmed genteel are an infestation. They are the Monkey King's fleas that dri
 ##
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act3

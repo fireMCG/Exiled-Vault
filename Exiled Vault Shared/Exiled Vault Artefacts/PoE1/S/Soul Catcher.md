@@ -5,5 +5,5 @@ Freedom is for the privileged, even in death.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,7 +6,7 @@ On the night of the full moon, one among us vanished. When the second month pass
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Karui 

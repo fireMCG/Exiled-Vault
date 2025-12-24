@@ -8,5 +8,5 @@ Nature is an eternal tug of war.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

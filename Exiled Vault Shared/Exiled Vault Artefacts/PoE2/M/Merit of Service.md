@@ -5,5 +5,5 @@ Lead by example, and you shall never be alone.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

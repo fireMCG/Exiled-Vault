@@ -7,4 +7,4 @@ A good season brings bounty.
 ---
 ## Tags
 #League/Harvest
-#Scarab
+#Item/Scarab

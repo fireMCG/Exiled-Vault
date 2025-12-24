@@ -5,5 +5,5 @@ Lead by example.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -8,8 +8,8 @@ Sunlight is belief. Sunlight is life."
 
 ---
 ## Tags
-#Concept/Mother
+#Concept/Family/Mother
 #Concept/Religion
 #Concept/Sun
-#QuestItem
+#Item/QuestItem
 #PoE1

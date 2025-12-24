@@ -7,5 +7,5 @@ Of the towns they founded and the lives they lived, little remains...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

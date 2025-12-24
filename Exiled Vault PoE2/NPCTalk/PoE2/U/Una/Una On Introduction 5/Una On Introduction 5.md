@@ -20,5 +20,5 @@ Una: Much has happened since you've been gone. Please, speak to Renly. He's our 
 ## Tags
 #Character/Finn
 #Character/Una 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 

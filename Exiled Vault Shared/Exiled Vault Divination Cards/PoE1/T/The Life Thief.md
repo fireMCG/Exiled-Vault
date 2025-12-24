@@ -10,6 +10,6 @@ Zerphi's Heart
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1
 #Society/VaalEmpire 

@@ -7,5 +7,5 @@ Fragments of the whole that washes clean the skies.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

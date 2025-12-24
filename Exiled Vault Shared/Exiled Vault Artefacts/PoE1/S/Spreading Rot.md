@@ -6,5 +6,5 @@ The dead lingered, and the living began to rot.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

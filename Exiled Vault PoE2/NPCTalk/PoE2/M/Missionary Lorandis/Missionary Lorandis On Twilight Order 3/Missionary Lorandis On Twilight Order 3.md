@@ -33,5 +33,5 @@ Missionary Lorandis: Friend, we are on the same side! Surely, you will pledge yo
 ---
 ## Tags
 #Character/MissionaryLorandis
-#NPCTalk
+#Category/NPCTalk
 #Society/TwilightOrder 

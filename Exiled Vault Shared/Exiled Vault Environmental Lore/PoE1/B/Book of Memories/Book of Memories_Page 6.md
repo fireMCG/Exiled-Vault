@@ -4,6 +4,6 @@ The day came when the missing part of the great device had finally been formed. 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

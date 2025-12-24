@@ -7,10 +7,10 @@ descended upon her enemies and their armies of darkness.
 ---
 ## Tags
 #Character/God/Garukhan 
-#Concept/Bird
+#Concept/Animal/Bird
 #Concept/Darkness
 #Concept/Wing
 #Character/God/Garukhan
-#QuestItem
+#Item/QuestItem
 #PoE1
 #Society/Maraketh 

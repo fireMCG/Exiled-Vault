@@ -33,5 +33,5 @@ Kaimana: It is probably best that you're gone before Tavakai gets back...
 ---
 ## Tags
 #Character/Kaimana
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

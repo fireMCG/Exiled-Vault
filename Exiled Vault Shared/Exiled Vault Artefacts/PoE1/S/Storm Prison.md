@@ -6,5 +6,5 @@ You can barely even leash it.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -11,5 +11,5 @@ Reflecting Mist
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

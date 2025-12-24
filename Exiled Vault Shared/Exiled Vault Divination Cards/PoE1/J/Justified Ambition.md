@@ -11,8 +11,8 @@ Synthesis Map
 ---
 ## Tags
 #Character/HighTemplar/Venarius 
-#Concept/Ambition 
-#DivinationCard
+#Concept/Virtue/Ambition 
+#Item/DivinationCard
 #League/Synthesis 
 #Location/Wraeclast 
 #PoE1

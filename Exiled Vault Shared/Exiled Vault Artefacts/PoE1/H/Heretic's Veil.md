@@ -8,5 +8,5 @@ Carry your blade into their hearts.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

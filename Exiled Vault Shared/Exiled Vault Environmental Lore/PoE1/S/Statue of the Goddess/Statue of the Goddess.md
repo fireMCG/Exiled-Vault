@@ -4,5 +4,5 @@ We honour the Goddess, \[........{illegible}........] the Sisters Three, \[.....
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

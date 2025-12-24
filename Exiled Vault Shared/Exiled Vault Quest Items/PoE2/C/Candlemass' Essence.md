@@ -7,6 +7,6 @@ A sense of gratefulness and peace radiates with warmth.
 ## Tags
 #Character/Candlemass
 #Concept/Essence 
-#QuestItem
+#Item/QuestItem
 #PoE2
 #Society/Ezomyte 

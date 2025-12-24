@@ -7,5 +7,5 @@ Zelina: Hello, outlander. I've spent my life studying you in our archives... I c
 ---
 ## Tags
 #Character/Zelina
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

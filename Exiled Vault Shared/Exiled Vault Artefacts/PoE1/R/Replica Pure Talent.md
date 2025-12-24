@@ -6,5 +6,5 @@ Was it worth the expense? Only time will tell."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

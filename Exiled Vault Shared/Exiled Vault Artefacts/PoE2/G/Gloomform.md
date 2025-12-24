@@ -6,5 +6,5 @@ that thieves, murderers, and outcasts, sought refuge.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

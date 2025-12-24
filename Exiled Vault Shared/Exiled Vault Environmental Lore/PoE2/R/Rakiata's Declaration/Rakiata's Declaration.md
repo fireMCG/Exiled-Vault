@@ -6,7 +6,7 @@ Tasalio is the Father of Water, but he does not require you to believe. He is th
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Karui 

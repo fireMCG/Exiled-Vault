@@ -13,4 +13,4 @@ Eber also has a chance to drop [[Breath of the Council]].
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

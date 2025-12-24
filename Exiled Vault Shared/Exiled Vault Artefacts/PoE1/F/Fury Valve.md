@@ -5,5 +5,5 @@ A single act of anger travels countless paths of destruction.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

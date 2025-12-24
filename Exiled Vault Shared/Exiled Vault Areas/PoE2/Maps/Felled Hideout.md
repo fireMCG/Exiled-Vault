@@ -4,5 +4,5 @@ A fortress of fallen wood.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

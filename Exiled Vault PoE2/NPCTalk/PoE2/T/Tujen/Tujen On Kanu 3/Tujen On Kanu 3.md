@@ -33,5 +33,5 @@ Tujen: That's right. He's a tough one. Best not to cross him.
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

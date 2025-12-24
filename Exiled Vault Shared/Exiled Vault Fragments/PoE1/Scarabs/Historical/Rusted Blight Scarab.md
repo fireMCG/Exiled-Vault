@@ -4,7 +4,7 @@ We pulled you from the raging ocean, young Dhunan, but we cannot return you to y
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

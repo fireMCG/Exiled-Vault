@@ -7,11 +7,11 @@ consuming the knowledge of fallen civilisations.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/SearingExarch 
-#Concept/Dawn
-#Concept/Knowledge 
-#Concept/Star 
+#Concept/Time/Dawn
+#Concept/Virtue/Knowledge 
+#Concept/Space/Star 
 #Concept/Void 
-#Entity/CleansingFire 
+#Concept/Cleansing 
 #PoE1

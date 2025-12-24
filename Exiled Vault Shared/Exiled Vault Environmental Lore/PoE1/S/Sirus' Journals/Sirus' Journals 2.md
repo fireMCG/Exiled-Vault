@@ -9,5 +9,5 @@ I understand now just how great the stakes are. I wanted a purpose... well, now 
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1 

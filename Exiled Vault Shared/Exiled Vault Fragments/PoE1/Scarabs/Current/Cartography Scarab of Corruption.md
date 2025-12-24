@@ -6,4 +6,4 @@ Corruption bleeds between realities.
 
 ---
 ## Tags
-#Scarab
+#Item/Scarab

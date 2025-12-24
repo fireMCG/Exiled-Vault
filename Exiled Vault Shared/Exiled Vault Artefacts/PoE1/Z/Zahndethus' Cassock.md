@@ -8,5 +8,5 @@ Twice as strong and twice as thick
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -9,6 +9,6 @@ A great Silence falls...
 #Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius 
-#Entity/Decay
+#Concept/Decay
 #PoE1 
-#Reliquary
+#Category/Reliquary

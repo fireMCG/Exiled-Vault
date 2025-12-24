@@ -6,5 +6,5 @@ was as elegant as it was deadly.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

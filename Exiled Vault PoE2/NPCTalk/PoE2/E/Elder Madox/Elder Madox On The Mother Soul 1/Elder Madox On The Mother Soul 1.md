@@ -7,7 +7,7 @@ Elder Madox: The Mother Soul was hope. The will to carry on, no matter the cost.
 ---
 ## Tags
 #Character/ElderMadox
-#Concept/FirstChildren
-#Entity/Mothersoul
-#NPCTalk
+#Concept/Mothersoul/FirstChildren
+#Concept/Mothersoul
+#Category/NPCTalk
 #Society/Azmeri 

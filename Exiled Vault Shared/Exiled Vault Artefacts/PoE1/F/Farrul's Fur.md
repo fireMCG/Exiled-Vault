@@ -6,5 +6,5 @@ It was she who showed us that there is honour in waiting in the shadows and pick
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

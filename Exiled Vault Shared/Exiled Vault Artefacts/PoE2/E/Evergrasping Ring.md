@@ -6,5 +6,5 @@ Death comes to those who reach
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

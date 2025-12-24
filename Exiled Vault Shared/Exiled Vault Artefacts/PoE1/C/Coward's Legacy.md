@@ -6,6 +6,6 @@ Face it, or curse your bloodline for all eternity.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1
 #Society/VaalEmpire 

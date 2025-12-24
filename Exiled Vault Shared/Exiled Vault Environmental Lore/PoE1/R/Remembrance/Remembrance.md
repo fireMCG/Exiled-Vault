@@ -5,5 +5,5 @@ When I was young, I never questioned our faith. We pile the bones of former Temp
 ##
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

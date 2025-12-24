@@ -6,5 +6,5 @@ and left a mountain of twitching dead.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

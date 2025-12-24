@@ -7,5 +7,5 @@ Jado: We are a small but dedicated group. Orphans, only. One from each culture o
 ---
 ## Tags
 #Character/Jado
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh

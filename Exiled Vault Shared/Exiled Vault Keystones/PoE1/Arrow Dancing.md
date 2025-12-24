@@ -11,5 +11,5 @@ Evasion Rating is Doubled against Projectile Attacks
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

@@ -11,5 +11,5 @@ Non-Favoured Maps found in your Maps drop as Basic Currency Items instead
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

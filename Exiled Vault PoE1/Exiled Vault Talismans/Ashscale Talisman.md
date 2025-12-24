@@ -16,4 +16,4 @@ wild and free.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Talisman 
+#Item/Talisman 

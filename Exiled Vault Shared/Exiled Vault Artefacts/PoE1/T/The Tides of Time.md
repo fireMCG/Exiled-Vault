@@ -6,7 +6,7 @@ tangible to those who watch and wait.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Shaper 
 #Character/ValdoCaeserius
 #Concept/Time 

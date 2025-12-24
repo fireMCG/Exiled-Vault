@@ -6,6 +6,6 @@ It is the smile, the nod... the handshake... of a former friend.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Treason
 #PoE1

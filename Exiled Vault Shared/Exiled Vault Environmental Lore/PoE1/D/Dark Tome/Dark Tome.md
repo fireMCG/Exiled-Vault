@@ -4,5 +4,5 @@ My Council, The sky turns black as ink. We must gather at once, for I fear the e
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1

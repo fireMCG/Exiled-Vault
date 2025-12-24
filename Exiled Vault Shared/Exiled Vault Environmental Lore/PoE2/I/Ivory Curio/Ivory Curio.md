@@ -4,7 +4,7 @@ The spirits... they move... they rise. Unhallowed things from the nightmares of 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Unknown 

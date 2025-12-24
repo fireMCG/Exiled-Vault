@@ -6,8 +6,8 @@ act of eating becomes the only solace.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/EaterOfWorlds 
 #Concept/Hunger 
-#Entity/Tangle 
+#Concept/Tangle 
 #PoE1

@@ -6,5 +6,5 @@ Evil forged and Hope forsworn.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

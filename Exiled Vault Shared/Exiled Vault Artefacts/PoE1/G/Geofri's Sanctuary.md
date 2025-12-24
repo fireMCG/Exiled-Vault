@@ -6,5 +6,5 @@ It makes us immortal.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

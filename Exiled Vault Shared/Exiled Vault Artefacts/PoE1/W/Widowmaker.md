@@ -6,5 +6,5 @@ For she shall never let you go.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

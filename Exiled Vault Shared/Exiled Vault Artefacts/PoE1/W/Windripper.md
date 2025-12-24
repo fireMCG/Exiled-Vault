@@ -5,5 +5,5 @@ It hunts; as silent as falling snow, as deadly as the tempest.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

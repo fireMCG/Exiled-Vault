@@ -4,5 +4,5 @@ A song so exquisite it can only be heard once.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

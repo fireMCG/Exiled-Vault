@@ -4,5 +4,5 @@ Our mountain was once overrun by various human tribes vying amongst themselves f
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

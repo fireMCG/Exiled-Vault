@@ -6,7 +6,7 @@
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Atziri 
 #Concept/Death 
 #Concept/Loyalty

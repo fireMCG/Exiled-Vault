@@ -14,6 +14,6 @@ The cuts to my legs were shallow, yet still they bleed, even now so many hours l
 #
 ---
 ## Tags
-#EnvironmentalLore 
-#Historical 
+#Category/Lore/Environmental 
+#Attributes/Historical 
 #PoE1 

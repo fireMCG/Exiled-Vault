@@ -7,5 +7,5 @@ brothers and sisters, we are finally free!"
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,7 +6,7 @@ Ngamahu is the mother of Fire. She lends it to us in life, but here, in death, w
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Karui 

@@ -10,5 +10,5 @@ The Surrender
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

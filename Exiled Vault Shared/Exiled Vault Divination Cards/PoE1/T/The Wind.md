@@ -10,5 +10,5 @@ Windripper
 ---
 ## Tags
 #Concept/Wind 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

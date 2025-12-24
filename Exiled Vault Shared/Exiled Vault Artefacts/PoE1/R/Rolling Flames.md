@@ -8,5 +8,5 @@ With every land they consumed.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

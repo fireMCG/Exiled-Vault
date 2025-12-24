@@ -45,5 +45,5 @@ Kaimana: {Ati-ati!} Said with love, my Chieftain.
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

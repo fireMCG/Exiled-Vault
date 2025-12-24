@@ -7,5 +7,5 @@ with an unpredictable sense of humour.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

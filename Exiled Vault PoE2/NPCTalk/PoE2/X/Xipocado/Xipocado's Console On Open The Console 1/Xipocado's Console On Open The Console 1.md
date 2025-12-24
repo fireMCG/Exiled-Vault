@@ -7,5 +7,5 @@ Doryani: Good... I can see the configuration at this end. It is done. Return to 
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

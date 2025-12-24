@@ -9,5 +9,5 @@ It is with the smallest of words that we find the largest of truths.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

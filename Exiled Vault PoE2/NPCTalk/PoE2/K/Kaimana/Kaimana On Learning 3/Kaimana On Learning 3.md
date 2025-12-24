@@ -33,5 +33,5 @@ Kaimana: I am... a simple medicine woman. I know my place, yes!
 ---
 ## Tags
 #Character/Kaimana
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

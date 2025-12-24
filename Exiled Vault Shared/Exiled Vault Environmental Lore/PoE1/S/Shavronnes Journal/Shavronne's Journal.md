@@ -4,5 +4,5 @@ Still the Karui barbarians advance upon us. Lioneye is dead, his legion slaughte
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act1

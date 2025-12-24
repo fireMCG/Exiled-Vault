@@ -9,5 +9,5 @@ to celebrate the massacre."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

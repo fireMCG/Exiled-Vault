@@ -9,9 +9,9 @@ Doesn't have to be your own blood, does it?
 ## Tags
 #Character/CastorPollinius
 #Concept/Blood 
-#Concept/Immortality 
+#Concept/Life/Immortality 
 #Concept/Whisper 
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 
 #Society/VaalEmpire 

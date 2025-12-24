@@ -5,5 +5,5 @@ Control comes at a price.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

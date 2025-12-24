@@ -9,5 +9,5 @@ For she's the one that got away
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

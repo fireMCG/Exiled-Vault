@@ -21,5 +21,5 @@ Alva: Alright then. I'll do it. {We} will meet you at the Royal Access Chamber.
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

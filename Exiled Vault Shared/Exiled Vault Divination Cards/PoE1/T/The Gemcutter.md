@@ -9,5 +9,5 @@ Gemcutter's Prism
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

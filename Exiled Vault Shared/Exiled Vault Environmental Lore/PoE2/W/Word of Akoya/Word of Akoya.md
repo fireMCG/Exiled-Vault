@@ -6,7 +6,7 @@ The {Ngakuramakoi} are those who truly embody our culture. If you wish to become
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Karui 

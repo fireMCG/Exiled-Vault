@@ -5,5 +5,5 @@ It isn't fair to either of us to keep chasing this dream.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

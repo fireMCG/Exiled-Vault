@@ -349,4 +349,4 @@ There is a flow to the world, to the sea, and to battle. I could lose myself for
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

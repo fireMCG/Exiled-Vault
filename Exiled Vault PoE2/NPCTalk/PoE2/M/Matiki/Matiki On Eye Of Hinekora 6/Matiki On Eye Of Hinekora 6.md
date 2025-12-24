@@ -21,5 +21,5 @@ Matiki: Yes, yes... that's fine.
 ---
 ## Tags
 #Character/Matiki
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

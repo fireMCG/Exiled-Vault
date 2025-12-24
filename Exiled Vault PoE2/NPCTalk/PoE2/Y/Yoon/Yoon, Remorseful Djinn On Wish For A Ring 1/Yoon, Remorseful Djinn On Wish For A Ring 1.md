@@ -6,5 +6,5 @@ Yoon, Remorseful Djinn: A ring, you shall have.
 ---
 ## Tags
 #Character/Djinn/Yoon
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh 

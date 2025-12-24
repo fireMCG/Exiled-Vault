@@ -8,5 +8,5 @@ Free thinking leads to free action.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

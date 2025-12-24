@@ -8,5 +8,5 @@ forever makes me the public enemy.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

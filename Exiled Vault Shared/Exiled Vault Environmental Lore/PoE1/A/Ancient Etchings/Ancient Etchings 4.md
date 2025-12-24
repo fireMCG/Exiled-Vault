@@ -4,5 +4,5 @@ I look away from Wraeclast for but a moment, and the scampering little ones have
 ##
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

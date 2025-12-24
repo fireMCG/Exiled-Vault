@@ -6,11 +6,11 @@ A blessing upon all those trees touched by the sacred spirit.
 
 ---
 ## Tags
-#AncestorEquipment
+#Item/AncestorEquipment
 #Concept/Animal/Insect
 #Concept/Colour/White
 #Concept/Spirit 
-#Concept/Tree
+#Concept/Nature/Tree
 #League/Ancestor
 #PoE1 
 #Society/Karui 

@@ -8,5 +8,5 @@ who dream of enlightenment
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

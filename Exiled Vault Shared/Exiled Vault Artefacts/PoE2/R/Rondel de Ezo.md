@@ -6,5 +6,5 @@ will lose his will. Then, you've won."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -60,5 +60,5 @@ Makoru: We can take you wherever you need. Places other captains would never dre
 ---
 ## Tags
 #Character/Makoru
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

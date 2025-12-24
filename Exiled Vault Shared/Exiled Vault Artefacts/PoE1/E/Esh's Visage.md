@@ -7,5 +7,5 @@ And she was still.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -8,7 +8,7 @@ but the men who are guarding it obviously believe the tale, so I do, too.
 ## Tags
 #Character/RingClient/AlineKoltz
 #Concept/Sky 
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 
-#Timeline 
+#Attributes/Timeline 

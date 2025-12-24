@@ -45,5 +45,5 @@ Matiki: We have not known the Ancestors to reveal their Will to us in such a way
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

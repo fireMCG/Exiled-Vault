@@ -33,5 +33,5 @@ Dannig: All that, and more. The greatest smiths became known as artificers, and 
 ---
 ## Tags
 #Character/Dannig 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

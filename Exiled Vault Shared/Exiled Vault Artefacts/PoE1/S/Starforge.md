@@ -5,11 +5,11 @@ The end is written into the beginning.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Shaper 
 #Character/ValdoCaeserius
-#Concept/BeginningOfTime 
-#Concept/Cycle 
-#Concept/EndOfTime 
-#Concept/Star 
+#Concept/Time/Beginning 
+#Concept/Time/Cycle 
+#Concept/Time/Ending 
+#Concept/Space/Star 
 #PoE1

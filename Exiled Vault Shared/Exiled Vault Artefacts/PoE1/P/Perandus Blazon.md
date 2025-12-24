@@ -7,5 +7,5 @@ had more debtors than anyone.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

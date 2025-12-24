@@ -20,6 +20,6 @@ By an Emperor of Sarn.
 #
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1
-#Timeline 
+#Attributes/Timeline 

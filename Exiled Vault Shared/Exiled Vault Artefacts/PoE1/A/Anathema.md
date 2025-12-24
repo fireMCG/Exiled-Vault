@@ -7,7 +7,7 @@ Unleashing a litany of pain upon the world.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Concept/Damnation 
 #Concept/Demon 
 #Concept/Mortality

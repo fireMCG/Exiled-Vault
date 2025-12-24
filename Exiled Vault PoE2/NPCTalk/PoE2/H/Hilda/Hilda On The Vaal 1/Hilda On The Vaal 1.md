@@ -7,5 +7,5 @@ Hilda: There's {living} Vaal in Mount Kriar? Well, I'll be damned. The stories a
 ---
 ## Tags
 #Character/Hilda
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri

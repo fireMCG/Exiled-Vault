@@ -8,6 +8,6 @@ reaches out for control of the Atlas.
 ## Tags
 #Concept/AtlasOfWorlds
 #Character/Eldritch/EaterOfWorlds 
-#Entity/Tangle
-#QuestItem
+#Concept/Tangle
+#Item/QuestItem
 #PoE1

@@ -5,6 +5,6 @@ High Lord Ralakesh, I am but lowly outlaw scum, yet you, a god of a thousand fac
 ## Tags
 #Character/God/Ralakesh 
 #Character/God/Ralakesh 
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act7
 #Society/VaalEmpire 

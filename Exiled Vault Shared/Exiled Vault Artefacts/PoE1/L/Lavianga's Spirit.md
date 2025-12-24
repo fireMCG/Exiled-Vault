@@ -7,5 +7,5 @@ It is only good manners to drink your fill."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

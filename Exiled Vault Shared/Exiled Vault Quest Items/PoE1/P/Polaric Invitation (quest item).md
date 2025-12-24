@@ -7,6 +7,6 @@ there can be no escape.
 ---
 ## Tags
 #Character/Eldritch/BlackStar
-#Entity/CleansingFire 
-#QuestItem
+#Concept/Cleansing 
+#Item/QuestItem
 #PoE1

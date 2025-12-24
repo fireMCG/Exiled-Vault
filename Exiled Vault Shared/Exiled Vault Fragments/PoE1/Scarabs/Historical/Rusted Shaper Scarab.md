@@ -4,7 +4,7 @@ The Peak-dwellers saw you as impure, young Qianga, but the Order of the Djinn se
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

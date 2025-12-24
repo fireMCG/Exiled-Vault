@@ -8,5 +8,5 @@ So red and so sleek
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

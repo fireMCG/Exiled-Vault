@@ -8,5 +8,5 @@ Three lunari gone now, since it all began. Perhaps I am the only one who still l
 #Character/God/Lunaris 
 #Concept/Moon 
 #Character/God/Lunaris 
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act2

@@ -33,5 +33,5 @@ Makoru: Well... what could possibly go wrong?
 ---
 ## Tags
 #Character/Makoru
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

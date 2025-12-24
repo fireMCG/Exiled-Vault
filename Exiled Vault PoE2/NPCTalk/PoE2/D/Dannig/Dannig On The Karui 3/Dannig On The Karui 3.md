@@ -30,5 +30,5 @@ Dannig: The Tukohama Tribe, the largest in the region, welcomed us at first. We 
 ---
 ## Tags
 #Character/Dannig 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

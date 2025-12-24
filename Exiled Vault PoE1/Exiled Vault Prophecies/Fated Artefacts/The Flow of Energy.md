@@ -14,4 +14,4 @@ Upgrades [[Shavronne's Pace]] to [[Shavronne's Gambit]] upon completion.
 #Character/Shavronne 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

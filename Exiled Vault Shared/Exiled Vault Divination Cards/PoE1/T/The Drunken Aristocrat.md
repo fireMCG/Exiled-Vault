@@ -9,5 +9,5 @@ Divination Distillate
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

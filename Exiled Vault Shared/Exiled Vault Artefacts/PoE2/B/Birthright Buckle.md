@@ -5,5 +5,5 @@ Some families have peculiar gifts...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

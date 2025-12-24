@@ -7,7 +7,7 @@ There is no use trying to escape destiny.
 
 ---
 ## Tags
-#AncestorEquipment
+#Item/AncestorEquipment
 #Concept/Fate
 #League/Ancestor
 #PoE1 

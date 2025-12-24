@@ -6,5 +6,5 @@ He merely grinned... and the foolish warrior charged.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

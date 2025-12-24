@@ -51,4 +51,4 @@ Alva: Great! We can leave whenever you're ready, just let me know.
 #Location/Wraeclast/Kingsmarch
 #Location/Wraeclast/KaruiArchipelago/Ngamakanui
 #Location/Wraeclast/Utzaal 
-#NPCTalk
+#Category/NPCTalk

@@ -6,5 +6,5 @@ against the Winter of the World.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

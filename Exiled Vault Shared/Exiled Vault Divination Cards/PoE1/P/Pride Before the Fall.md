@@ -15,6 +15,6 @@ Corrupted
 ## Tags
 #Character/Kaom
 #Concept/Corruption 
-#Concept/Heart 
-#DivinationCard
+#Concept/Body/Heart 
+#Item/DivinationCard
 #PoE1

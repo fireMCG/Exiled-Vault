@@ -9,7 +9,7 @@ they dedicate their lives to a singular purpose.
 #
 ---
 ## Tags
-#Entity/Dreamer
-#Lineage 
+#Concept/Night/Dreamer
+#Item/Lineage 
 #Society/Hiveborn 
 #Society/KeepersOfTheFlame 

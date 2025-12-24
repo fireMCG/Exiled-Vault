@@ -6,5 +6,5 @@ For there may never be another chance to eat.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

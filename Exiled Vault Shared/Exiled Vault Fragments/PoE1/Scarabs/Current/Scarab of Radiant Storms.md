@@ -6,4 +6,4 @@ The great cacophony of life roars to a crescendo.
 
 ---
 ## Tags
-#Scarab
+#Item/Scarab

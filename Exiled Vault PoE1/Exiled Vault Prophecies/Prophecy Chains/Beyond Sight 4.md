@@ -12,4 +12,4 @@ You will slay the Herald of Bameth and the very powerful foe it summons.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

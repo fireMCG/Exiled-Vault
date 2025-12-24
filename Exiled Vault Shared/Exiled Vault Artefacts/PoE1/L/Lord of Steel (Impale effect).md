@@ -9,5 +9,5 @@ She knows the path well.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

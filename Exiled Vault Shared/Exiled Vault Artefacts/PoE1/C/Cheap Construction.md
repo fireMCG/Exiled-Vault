@@ -5,5 +5,5 @@ Why waste the good stuff on something that's going to blow up?
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

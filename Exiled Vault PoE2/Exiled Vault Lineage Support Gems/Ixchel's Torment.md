@@ -10,8 +10,8 @@ unthinkable and the unimaginable made manifest.
 ---
 ## Tags
 #Character/Ixchel
-#Concept/Chaos 
-#Lineage
+#Concept/Balance/Chaos 
+#Item/Lineage
 #PoE2
 #Society/VaalEmpire 
-#SupportGem
+#Item/SupportGem

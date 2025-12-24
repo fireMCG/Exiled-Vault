@@ -7,5 +7,5 @@ Ange: You cleared out all the... {problems}... on Whakapanu Island. Quite remark
 ## Tags
 #Character/Ange
 #Location/Wraeclast/KaruiArchipelago/WhakapanuIsland
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

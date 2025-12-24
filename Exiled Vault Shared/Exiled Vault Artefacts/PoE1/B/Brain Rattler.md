@@ -5,5 +5,5 @@ The mind may have no limits, but the skull sure does.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

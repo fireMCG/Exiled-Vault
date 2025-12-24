@@ -5,5 +5,5 @@ The smell is bad enough to make a veteran warrior faint.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE2

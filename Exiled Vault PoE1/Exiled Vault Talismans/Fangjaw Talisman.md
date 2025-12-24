@@ -15,4 +15,4 @@ To drink of their blood is to drink of time itself.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Talisman 
+#Item/Talisman 

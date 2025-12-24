@@ -5,5 +5,5 @@ The mark of the smith was widely known.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

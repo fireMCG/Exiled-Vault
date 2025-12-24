@@ -6,5 +6,5 @@ which persistence grows.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

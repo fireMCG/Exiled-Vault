@@ -41,4 +41,4 @@ This world is an illusion, exile.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

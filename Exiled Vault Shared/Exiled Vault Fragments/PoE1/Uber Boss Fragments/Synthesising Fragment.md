@@ -8,9 +8,9 @@ history is rewritten, time after time.
 ---
 ## Tags
 #Character/HighTemplar/Venarius 
-#Concept/Cycle 
+#Concept/Time/Cycle 
 #Concept/Memory 
 #Concept/Mind 
 #Concept/Time 
-#Fragment
+#Item/Fragment
 #PoE1 

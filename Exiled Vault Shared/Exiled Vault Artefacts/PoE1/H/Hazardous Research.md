@@ -6,5 +6,5 @@ The simple passage of energy from one to another could result in profound power,
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

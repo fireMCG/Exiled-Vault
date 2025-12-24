@@ -13,8 +13,8 @@ paranoid. Now, only two remained... Olroth and Vorana.
 #Character/Olroth 
 #Character/Uhtred
 #Character/Vorana 
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/Kalguur 
-#SupportGem
-#Timeline 
+#Item/SupportGem
+#Attributes/Timeline 

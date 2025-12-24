@@ -7,7 +7,7 @@ in knowing the answer: all of them.
 
 ---
 ## Tags
-#Artefact
-#Entity/Chaos 
+#Item/Artefact
+#Concept/Balance/Chaos 
 #Concept/Fate 
 #PoE1

@@ -5,5 +5,5 @@ Nothing stabs colder than pure hatred.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

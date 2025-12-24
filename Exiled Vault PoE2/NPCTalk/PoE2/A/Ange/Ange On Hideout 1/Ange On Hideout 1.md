@@ -6,5 +6,5 @@ Ange: Well done! So... what do you think? I love it! The pier could go there... 
 ---
 ## Tags
 #Character/Ange
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

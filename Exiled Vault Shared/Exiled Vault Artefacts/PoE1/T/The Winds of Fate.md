@@ -6,5 +6,5 @@ The whim of the cosmos.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

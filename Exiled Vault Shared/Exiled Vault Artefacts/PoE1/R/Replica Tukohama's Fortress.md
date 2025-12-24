@@ -6,5 +6,5 @@ Prototype #10 bore unexpectedly positive results."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

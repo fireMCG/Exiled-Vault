@@ -91,5 +91,5 @@ You will be remembered.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

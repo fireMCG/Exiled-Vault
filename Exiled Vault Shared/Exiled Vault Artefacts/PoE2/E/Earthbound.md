@@ -5,5 +5,5 @@ An ancient Azmeri staff, overgrown by roots...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

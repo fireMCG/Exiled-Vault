@@ -7,5 +7,5 @@ present into past, life into death."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

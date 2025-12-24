@@ -5,10 +5,10 @@ Be not stirred by the Void.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Void 
-#Entity/Decay
+#Concept/Decay
 #PoE1

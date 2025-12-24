@@ -10,5 +10,5 @@ Modifiers to Quantity of Items found in your Maps instead apply to Rarity of Ite
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

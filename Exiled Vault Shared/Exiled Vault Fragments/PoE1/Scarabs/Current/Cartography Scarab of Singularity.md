@@ -6,5 +6,5 @@ Some regions of the Atlas never change.
 
 ---
 ## Tags
-#DropDisabled
-#Scarab
+#Attributes/Disabled
+#Item/Scarab

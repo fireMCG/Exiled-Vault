@@ -4,7 +4,7 @@ None among us understand the beasts of this world better than you, honoured Agna
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

@@ -7,4 +7,4 @@ The silent wall and the raging storm oppose the endless swarm.
 ---
 ## Tags
 #League/Beyond
-#Scarab
+#Item/Scarab

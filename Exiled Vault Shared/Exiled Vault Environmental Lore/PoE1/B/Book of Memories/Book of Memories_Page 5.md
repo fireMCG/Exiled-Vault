@@ -4,6 +4,6 @@ Weeks passed. The sun set and the moon rose countless times. And every night, I 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

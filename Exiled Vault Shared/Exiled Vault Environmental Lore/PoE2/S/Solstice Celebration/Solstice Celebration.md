@@ -6,7 +6,7 @@ Dear mountain-born of Kriar, Another solstice is upon us. We shall be joined at 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Azmeri 

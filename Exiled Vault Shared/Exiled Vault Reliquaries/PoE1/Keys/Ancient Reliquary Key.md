@@ -8,6 +8,6 @@ Forgotten no more.
 
 ---
 ## Tags
-#DropDisabled 
+#Attributes/Disabled 
 #PoE1 
-#Reliquary
+#Category/Reliquary

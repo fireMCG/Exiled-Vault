@@ -8,7 +8,7 @@ it is what we make that makes us."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Ahn 
 #Character/Aul 
 #PoE1

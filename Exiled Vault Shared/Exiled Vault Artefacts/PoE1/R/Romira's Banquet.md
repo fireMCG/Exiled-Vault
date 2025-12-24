@@ -8,5 +8,5 @@ A perfidious meal indeed.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

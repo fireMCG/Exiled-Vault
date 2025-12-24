@@ -52,5 +52,5 @@ Alva: The patterns in the gold are quite unique. See there? The mark of the reno
 #Character/Atziri 
 #Character/God/Kamasa 
 #Character/God/Kamasa 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

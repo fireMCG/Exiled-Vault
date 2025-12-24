@@ -7,5 +7,5 @@ Jado: We have been watching you since you helped slay Jamanra. Sometimes, a cata
 ---
 ## Tags
 #Character/Jado
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh

@@ -7,8 +7,8 @@ With the blood of the weak
 
 ---
 ## Tags
-#Artefact
-#Concept/Animal/Wolf
+#Item/Artefact
+#Concept/Animal/Canidae/Wolf
 #Concept/Blood 
 #Concept/Nature 
 #Concept/Power 

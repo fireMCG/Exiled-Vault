@@ -10,6 +10,6 @@ Rigwald's Quills
 ---
 ## Tags
 #Character/Rigwald 
-#Concept/Animal/Wolf 
-#DivinationCard
+#Concept/Animal/Canidae/Wolf 
+#Item/DivinationCard
 #PoE1

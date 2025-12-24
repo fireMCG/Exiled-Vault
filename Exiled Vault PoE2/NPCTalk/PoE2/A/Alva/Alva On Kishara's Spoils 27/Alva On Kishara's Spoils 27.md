@@ -91,10 +91,10 @@ Duelist: [DNT]
 #Location/Middengard
 #Location/Wildwood 
 #Location/Wraeclast/Phaaryl
-#NPCTalk
+#Category/NPCTalk
 #Society/Brinerot
 #Society/Ezomyte 
 #Society/Kalguur 
 #Society/Maraketh 
 #Society/VaalEmpire 
-#Timeline 
+#Attributes/Timeline 

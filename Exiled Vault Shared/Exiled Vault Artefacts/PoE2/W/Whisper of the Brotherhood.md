@@ -6,5 +6,5 @@ to return all that was once given.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

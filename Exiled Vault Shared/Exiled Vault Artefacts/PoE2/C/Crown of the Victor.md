@@ -5,5 +5,5 @@ An endless river of bodies lie in the wake of ambition.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

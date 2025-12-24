@@ -5,5 +5,5 @@ A curious find...
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE2

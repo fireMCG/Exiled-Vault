@@ -6,5 +6,5 @@ I must help my people... let this be my declaration. I exist, and I {will} save 
 
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

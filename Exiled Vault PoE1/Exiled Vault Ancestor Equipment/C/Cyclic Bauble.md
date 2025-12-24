@@ -7,10 +7,10 @@ The end of Time is also its beginning.
 
 ---
 ## Tags
-#AncestorEquipment
-#Concept/BeginningOfTime
-#Concept/Cycle 
-#Concept/EndOfTime 
+#Item/AncestorEquipment
+#Concept/Time/Beginning
+#Concept/Time/Cycle 
+#Concept/Time/Ending 
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Hinekora 

@@ -70,6 +70,6 @@ Zarka: Yes, in times of need. This surely qualifies. You earned our trust by you
 #Concept/Barya 
 #Location/Wraeclast/Vastiri/Deshar
 #Location/Wraeclast/Vastiri/Qimah
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh 
 #Society/SelKhari

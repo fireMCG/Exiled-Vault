@@ -7,5 +7,5 @@ Our plan. Perfect pawn in OUR plan.
 
 ---
 ## Tags
-#QuestItem
+#Item/QuestItem
 #PoE1

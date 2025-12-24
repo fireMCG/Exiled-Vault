@@ -6,4 +6,4 @@ Glory draws ever tighter its own doom.
 
 ---
 ## Tags
-#Scarab
+#Item/Scarab

@@ -6,7 +6,7 @@ By the order of the Red Thane, They still resist our new master's message. Hunge
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Ezomyte 

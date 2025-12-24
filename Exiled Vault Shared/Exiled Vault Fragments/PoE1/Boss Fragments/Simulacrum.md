@@ -6,5 +6,5 @@ How do you defeat that which dwells within you?
 
 ---
 ## Tags
-#Fragment
+#Item/Fragment
 #PoE1 

@@ -7,5 +7,5 @@ we must begin the process before expiry."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

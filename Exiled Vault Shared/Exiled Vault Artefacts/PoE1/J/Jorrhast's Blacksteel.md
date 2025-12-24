@@ -7,5 +7,5 @@ in every scrap of iron he touched.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -9,5 +9,5 @@ The Twilight Temple
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

@@ -5,5 +5,5 @@ A virulent brew of death and decay.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

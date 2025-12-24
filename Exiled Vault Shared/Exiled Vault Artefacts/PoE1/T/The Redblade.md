@@ -6,5 +6,5 @@ and Titan against the rising darkness.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

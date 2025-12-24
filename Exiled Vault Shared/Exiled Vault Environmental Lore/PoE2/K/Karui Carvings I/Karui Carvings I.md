@@ -6,7 +6,7 @@ We reached these shores under the first full moon. Tasalio made the sea here ric
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Karui 

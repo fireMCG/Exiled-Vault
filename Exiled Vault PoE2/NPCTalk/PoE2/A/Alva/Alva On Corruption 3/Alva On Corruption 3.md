@@ -35,5 +35,5 @@ Alva: Every bit of Corruption you cleanse helps rebuild the Wraeclast we knew. W
 #Character/Alva
 #Concept/Cataclysm 
 #Concept/Corruption 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

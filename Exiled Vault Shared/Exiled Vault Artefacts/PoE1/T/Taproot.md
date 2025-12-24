@@ -5,5 +5,5 @@ Some things must die so that others can live.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

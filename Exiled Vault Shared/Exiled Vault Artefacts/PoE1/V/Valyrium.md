@@ -5,5 +5,5 @@ They will rise and fall in fire and blood.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

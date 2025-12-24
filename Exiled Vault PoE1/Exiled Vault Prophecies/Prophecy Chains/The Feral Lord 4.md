@@ -12,4 +12,4 @@ You will discover and slay a very powerful Vulture within Sarn's borders or Maps
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

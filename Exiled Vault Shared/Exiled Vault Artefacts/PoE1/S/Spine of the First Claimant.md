@@ -8,5 +8,5 @@ To mark the occasion, Izaro had the Champion's remains gilded.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

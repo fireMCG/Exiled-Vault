@@ -7,5 +7,5 @@ Lurking Creature: You are no Lich. You are no Lightless. What are you?
 ---
 ## Tags
 #Character/LurkingCreature
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

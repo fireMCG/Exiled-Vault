@@ -6,5 +6,5 @@ colliding as many and emerging as one.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

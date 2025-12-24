@@ -4,6 +4,6 @@ The land was as beautiful as it'd been when last I'd visited. The breeze rippled
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

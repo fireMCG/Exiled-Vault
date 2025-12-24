@@ -29,4 +29,4 @@ Alva: Hmm... we once excavated a ruin where the engraved pictures told a peculia
 #Character/Alva 
 #Concept/Emotion 
 #League/Delirium 
-#NPCTalk
+#Category/NPCTalk

@@ -9,5 +9,5 @@ The Gull gives us our Way."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

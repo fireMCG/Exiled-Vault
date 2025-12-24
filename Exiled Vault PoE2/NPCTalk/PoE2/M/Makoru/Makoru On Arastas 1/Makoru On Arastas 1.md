@@ -6,5 +6,5 @@ Makoru: I can't believe the Twilight Order are responsible for bringing the Beas
 ---
 ## Tags
 #Character/Makoru
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

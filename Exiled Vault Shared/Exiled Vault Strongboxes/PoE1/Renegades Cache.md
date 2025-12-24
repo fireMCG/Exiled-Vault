@@ -9,4 +9,4 @@ breaking any morals and laws that might stand in the way.
 ---
 ## Tags
 #PoE1 
-#Strongbox
+#Category/Strongbox

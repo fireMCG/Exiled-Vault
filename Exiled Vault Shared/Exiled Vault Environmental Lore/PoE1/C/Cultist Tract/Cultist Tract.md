@@ -10,5 +10,5 @@ This is how it shall end. Kitava will rise, and a great cloud of black smoke wil
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act10

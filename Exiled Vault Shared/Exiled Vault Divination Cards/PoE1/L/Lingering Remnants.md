@@ -14,9 +14,9 @@ Corrupted
 ---
 ## Tags
 #Concept/Eclipse 
-#Concept/Harvest 
+#Concept/Nature/Harvest 
 #Concept/Moon 
 #Concept/Undead
-#DivinationCard
-#Important 
+#Item/DivinationCard
+#Attributes/Important 
 #PoE1

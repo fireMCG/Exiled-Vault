@@ -13,7 +13,7 @@ no redemption, for he had broken his only barya.
 #Concept/Barya 
 #Concept/Djinn 
 #Concept/Prison
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/Maraketh 
-#SupportGem
+#Item/SupportGem

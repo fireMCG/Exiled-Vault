@@ -5,5 +5,5 @@ Mortality is the mother of life. We have turned our backs on her.
 ##
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act3

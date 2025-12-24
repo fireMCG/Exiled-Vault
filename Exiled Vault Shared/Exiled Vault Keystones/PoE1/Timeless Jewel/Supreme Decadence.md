@@ -11,5 +11,5 @@ Life Recovery from Flasks also applies to Energy Shield
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

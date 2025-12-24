@@ -6,5 +6,5 @@ for any fleeting pleasure which might dull the pain.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

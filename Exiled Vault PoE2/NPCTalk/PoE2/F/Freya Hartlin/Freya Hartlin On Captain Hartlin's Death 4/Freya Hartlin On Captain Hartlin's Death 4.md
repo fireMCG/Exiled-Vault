@@ -43,5 +43,5 @@ Tujen: Of course, Freya. Newcomer - get the Verisium to Dannig. Quickly!
 #Concept/Rune 
 #Concept/Verisium
 #Character/God/Tangmazu 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur  

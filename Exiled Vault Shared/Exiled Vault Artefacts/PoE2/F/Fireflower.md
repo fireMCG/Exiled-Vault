@@ -6,5 +6,5 @@ Fire, they learn, springs from agony.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

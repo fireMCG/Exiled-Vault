@@ -12,4 +12,4 @@ Two [[Anarchy's Price]] will drop.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

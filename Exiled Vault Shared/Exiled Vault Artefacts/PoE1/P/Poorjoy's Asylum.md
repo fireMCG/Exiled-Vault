@@ -8,5 +8,5 @@ They wander, forever uncontrolled.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

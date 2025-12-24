@@ -11,5 +11,5 @@ Maps found in your Maps have +1% chance to have a special Implicit Modifier for 
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

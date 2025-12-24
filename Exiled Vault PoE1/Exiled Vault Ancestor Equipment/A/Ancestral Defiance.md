@@ -7,7 +7,7 @@ The warriors of the Tukohama Tribe call the brink of death home.
 
 ---
 ## Tags
-#AncestorEquipment
+#Item/AncestorEquipment
 #Concept/Death 
 #League/Ancestor
 #PoE1 

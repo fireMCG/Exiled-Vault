@@ -57,5 +57,5 @@ Tavakai: Now, we must rise, stronger than ever! We will not stray again from the
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

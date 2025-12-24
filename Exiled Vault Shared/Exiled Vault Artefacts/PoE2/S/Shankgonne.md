@@ -7,5 +7,5 @@ meself, if it weren't for that damn leg of his... crafty shite..."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -7,6 +7,6 @@ Zelina: The histories are confusing when it comes to the culture I believe you'r
 ---
 ## Tags
 #Character/Zelina
-#NPCTalk
+#Category/NPCTalk
 #Society/Primeval 
 #Society/VaalEmpire 

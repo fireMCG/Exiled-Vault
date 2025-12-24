@@ -33,5 +33,5 @@ Servitor Marius: You need not decide immediately, of course. Dine with us. Come 
 ---
 ## Tags
 #Character/ServitorMarius
-#NPCTalk
+#Category/NPCTalk
 #Society/TwilightOrder 

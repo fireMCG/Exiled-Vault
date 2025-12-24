@@ -6,5 +6,5 @@ nourishing only the worms.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

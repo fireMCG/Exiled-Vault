@@ -7,5 +7,5 @@ Laughing.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

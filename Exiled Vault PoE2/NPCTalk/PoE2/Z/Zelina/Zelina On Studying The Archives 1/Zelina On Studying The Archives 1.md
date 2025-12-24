@@ -7,5 +7,5 @@ Zelina: In the vault, we had our duties, and little else. I spent my free time r
 ---
 ## Tags
 #Character/Zelina
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

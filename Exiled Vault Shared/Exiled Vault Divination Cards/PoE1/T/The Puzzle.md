@@ -9,5 +9,5 @@ As countless fractures weaken the divide, nightmares seep through from the other
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

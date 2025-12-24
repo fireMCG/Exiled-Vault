@@ -6,8 +6,8 @@ Our people have lived in the shadows of the dunes for too long. Countless genera
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Faridun 
 #Society/Maraketh 

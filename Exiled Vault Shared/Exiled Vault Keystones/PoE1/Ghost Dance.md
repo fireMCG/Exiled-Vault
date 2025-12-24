@@ -13,5 +13,5 @@ When Hit, lose a Ghost Shroud to Recover Energy Shield equal to 3% of your Evasi
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

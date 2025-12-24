@@ -9,8 +9,6 @@ he clung to that, never finding the courage to light it.
 #
 ---
 ## Tags
-#AtzoatlArchitect 
-#BackgroundStory
 #Character/Hayoxi
-#Lineage 
-#Society/VaalEmpire 
+#Item/Lineage 
+#Society/VaalEmpire/Architects 

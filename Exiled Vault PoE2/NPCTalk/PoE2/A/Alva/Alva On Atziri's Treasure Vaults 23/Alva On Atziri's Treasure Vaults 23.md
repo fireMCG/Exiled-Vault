@@ -83,5 +83,5 @@ Mercenary: I'll give it a good look. See what I can scrounge up.
 #Character/Alva
 #Character/Atziri 
 #Concept/Lust 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

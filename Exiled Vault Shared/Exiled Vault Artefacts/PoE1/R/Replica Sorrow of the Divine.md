@@ -6,5 +6,5 @@ Faith fuels the flesh, and the flesh fuels the fire..."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

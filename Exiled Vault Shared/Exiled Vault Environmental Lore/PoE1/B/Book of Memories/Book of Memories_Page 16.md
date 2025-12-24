@@ -4,6 +4,6 @@ My dearest Zana, Where are you now? I hope, as a father often does, that you are
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

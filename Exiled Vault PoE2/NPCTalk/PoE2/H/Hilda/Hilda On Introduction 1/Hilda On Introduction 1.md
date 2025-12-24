@@ -10,5 +10,5 @@ Hilda: Good day, fellow mountain-born. I'm Hilda. Been roaming the world for som
 ---
 ## Tags
 #Character/Hilda
-#NPCTalk
+#Category/NPCTalk
 #Society/Azmeri

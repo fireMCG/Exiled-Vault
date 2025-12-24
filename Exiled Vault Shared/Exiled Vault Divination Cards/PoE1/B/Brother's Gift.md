@@ -10,5 +10,5 @@ he will never fade away.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

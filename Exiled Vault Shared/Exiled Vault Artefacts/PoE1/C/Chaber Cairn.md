@@ -6,5 +6,5 @@ Yet it is never borne alone.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

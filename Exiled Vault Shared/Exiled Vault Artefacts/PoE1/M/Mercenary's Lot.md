@@ -5,5 +5,5 @@ The target changes, but the job's always the same.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

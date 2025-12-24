@@ -77,5 +77,5 @@ Doryani: A waste of a great mind, but... he made his choice. That bastard... he 
 ---
 ## Tags
 #Character/Doryani 
-#NPCTalk
+#Category/NPCTalk
 #Society/VaalEmpire 

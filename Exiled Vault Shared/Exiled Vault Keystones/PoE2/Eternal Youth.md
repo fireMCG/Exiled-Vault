@@ -11,5 +11,5 @@ Life Recharges instead of Energy Shield
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE2 

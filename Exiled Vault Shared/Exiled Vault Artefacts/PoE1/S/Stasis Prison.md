@@ -5,5 +5,5 @@ Those that can never die have but one wish.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

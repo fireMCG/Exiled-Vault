@@ -7,7 +7,7 @@
 
 ---
 ## Tags
-#AncestorEquipment
+#Item/AncestorEquipment
 #Character/Utula 
 #Concept/Blood 
 #League/Ancestor

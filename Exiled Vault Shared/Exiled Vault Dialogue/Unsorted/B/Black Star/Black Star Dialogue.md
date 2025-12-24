@@ -45,4 +45,4 @@ The Cleansing Fire prevails...
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

@@ -26,6 +26,6 @@ Una: {Two} kitchens, {four} bedrooms... yes, I know.
 ## Tags
 #Character/Finn 
 #Character/Una 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 
-#Timeline 
+#Attributes/Timeline 

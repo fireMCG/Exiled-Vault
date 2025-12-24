@@ -12,5 +12,5 @@ If you believe hard enough, you'll win.
 #Concept/Luck
 #Concept/Rune 
 #Concept/Triskelion
-#DivinationCard
+#Item/DivinationCard
 #PoE1

@@ -5,9 +5,9 @@ All that is will one day come to naught.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius 
-#Entity/Decay
+#Concept/Decay
 #PoE1

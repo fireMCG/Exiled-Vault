@@ -6,5 +6,5 @@ Life of sorrow, lived apart.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

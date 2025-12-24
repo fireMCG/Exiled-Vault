@@ -6,5 +6,5 @@ themselves changing, only subtly at first...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

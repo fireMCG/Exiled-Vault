@@ -221,4 +221,4 @@ And with his burning gaze, God swept clean the Land of Sin.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

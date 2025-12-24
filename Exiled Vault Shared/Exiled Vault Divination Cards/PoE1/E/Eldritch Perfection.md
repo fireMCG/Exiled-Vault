@@ -12,5 +12,5 @@ Perfect Eldritch Implicit Modifier
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

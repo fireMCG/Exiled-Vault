@@ -25,5 +25,5 @@ Jado: What impressive work. You may not see the Order of the Djinn in Oriath, bu
 ---
 ## Tags
 #Character/Jado
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh

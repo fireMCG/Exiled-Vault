@@ -239,5 +239,5 @@ You should have pledged, friend.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

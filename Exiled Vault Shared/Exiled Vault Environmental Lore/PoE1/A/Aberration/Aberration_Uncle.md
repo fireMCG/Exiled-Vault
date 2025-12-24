@@ -6,6 +6,6 @@ A man came to visit today. Father called him Uncle Eramir, but I know that mothe
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

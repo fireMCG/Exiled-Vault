@@ -10,5 +10,5 @@ Trypanon
 ---
 ## Tags
 #Concept/Mind 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

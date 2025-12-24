@@ -5,5 +5,5 @@ Fight with the ferocity of the First Ones.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

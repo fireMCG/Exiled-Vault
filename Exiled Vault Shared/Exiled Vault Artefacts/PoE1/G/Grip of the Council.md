@@ -6,5 +6,5 @@ Death only brings you closer.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

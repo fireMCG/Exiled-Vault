@@ -10,8 +10,8 @@ your hearts would be filled with wonder.
 
 ---
 ## Tags
-#Concept/Eye
+#Concept/Body/Eye
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Talisman 
+#Item/Talisman 

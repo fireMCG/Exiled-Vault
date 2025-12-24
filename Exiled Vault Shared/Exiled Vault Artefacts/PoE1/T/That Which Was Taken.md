@@ -5,5 +5,5 @@ Faith given under false pretenses still carries the same power.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

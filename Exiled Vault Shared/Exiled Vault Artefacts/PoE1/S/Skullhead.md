@@ -6,5 +6,5 @@ Yet it was all the Iron King needed.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

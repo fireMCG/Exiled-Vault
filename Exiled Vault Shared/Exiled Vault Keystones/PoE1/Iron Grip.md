@@ -10,5 +10,5 @@ Strength's Damage bonus applies to Projectile Attack Damage as well as Melee Dam
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

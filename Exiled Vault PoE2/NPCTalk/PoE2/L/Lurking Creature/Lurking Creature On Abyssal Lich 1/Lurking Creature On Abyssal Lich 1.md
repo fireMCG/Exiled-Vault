@@ -7,5 +7,5 @@ Lurking Creature: You... are remade. A new master. I bow to you.
 ---
 ## Tags
 #Character/LurkingCreature
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

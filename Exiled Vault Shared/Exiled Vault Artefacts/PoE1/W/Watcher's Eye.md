@@ -7,10 +7,10 @@ and one by one, they became a part of it.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius 
-#Concept/Eye 
-#Entity/Decay
+#Concept/Body/Eye 
+#Concept/Decay
 #PoE1

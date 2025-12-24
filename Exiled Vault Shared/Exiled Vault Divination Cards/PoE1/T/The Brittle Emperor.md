@@ -1,6 +1,6 @@
 ## The Brittle Emperor
 "When Voll spared Malachai, accepting his aid in pursuit of Purity, the strongest faith was infected by Corruption and made brittle as glass."
-- Victario, the People's Poet
+\- Victario, the People's Poet
 ## 
 ![[The Brittle Emperor.png]]
 
@@ -11,5 +11,10 @@ Corrupted
 
 ---
 ## Tags
-#DivinationCard
+#Character/Emperor/VollOfThebrus 
+#Character/Malachai
+#Concept/Corruption 
+#Concept/Religion/Faith 
+#Concept/Purity 
+#Item/DivinationCard
 #PoE1

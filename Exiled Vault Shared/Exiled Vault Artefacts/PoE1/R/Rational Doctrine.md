@@ -7,5 +7,5 @@ But can they not be one and the same?
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,5 +6,5 @@ Prototype #4 achieved identical results through brute force alone."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

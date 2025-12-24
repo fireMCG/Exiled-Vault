@@ -6,6 +6,6 @@ The Nameless begin to slip their bonds of nonexistence...
 
 ---
 ## Tags
-#DropDisabled
+#Attributes/Disabled
 #League/Bestiary 
-#Scarab
+#Item/Scarab

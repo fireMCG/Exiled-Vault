@@ -8,5 +8,5 @@ but not the way the Templar believed.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

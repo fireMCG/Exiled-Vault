@@ -8,5 +8,5 @@ races of Wraeclast. In the centuries that followed, his Will began to subtly cha
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

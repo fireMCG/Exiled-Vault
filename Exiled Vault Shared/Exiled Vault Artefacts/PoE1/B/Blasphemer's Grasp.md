@@ -6,8 +6,8 @@ many sought power in the unnatural.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Elder 
 #Concept/Nature 
-#Entity/Decay
+#Concept/Decay
 #PoE1

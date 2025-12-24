@@ -7,4 +7,4 @@ The Hooded One: Let us seek out Doryani's reserves... whatever they may be.
 ## Tags
 #Character/God/Sin 
 #Character/God/Sin 
-#NPCTalk
+#Category/NPCTalk

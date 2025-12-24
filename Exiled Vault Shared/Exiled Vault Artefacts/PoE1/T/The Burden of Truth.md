@@ -6,5 +6,5 @@ but a hollow soul can never be healed.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

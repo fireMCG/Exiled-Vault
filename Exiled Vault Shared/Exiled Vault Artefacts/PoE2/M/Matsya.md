@@ -5,5 +5,5 @@ In our tales, and in our hearts, the rivers still flow.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

@@ -6,5 +6,5 @@ Just simpler motivations.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

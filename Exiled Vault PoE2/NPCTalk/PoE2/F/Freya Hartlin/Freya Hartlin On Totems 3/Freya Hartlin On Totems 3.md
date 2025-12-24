@@ -37,5 +37,5 @@ Freya Hartlin: Something about these Karui totems keeps the malice of the fog at
 #Character/God/Tangmazu 
 #Character/Tujen 
 #Character/God/Tangmazu 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur  

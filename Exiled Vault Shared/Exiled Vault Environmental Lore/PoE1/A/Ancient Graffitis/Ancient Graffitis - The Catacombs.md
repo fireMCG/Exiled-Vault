@@ -5,5 +5,5 @@ There is nothing 'eternal' in this empire of ours but the names of our day that 
 ##
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act3

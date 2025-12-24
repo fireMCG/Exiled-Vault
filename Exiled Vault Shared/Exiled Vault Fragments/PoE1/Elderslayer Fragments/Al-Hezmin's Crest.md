@@ -9,5 +9,5 @@ but lost his family.
 ## Tags
 #Character/Al-Hezmin
 #Concept/Family
-#Fragment
+#Item/Fragment
 #PoE1 

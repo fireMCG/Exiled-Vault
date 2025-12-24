@@ -252,5 +252,5 @@ It's a deal.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #Society/VaalEmpire 

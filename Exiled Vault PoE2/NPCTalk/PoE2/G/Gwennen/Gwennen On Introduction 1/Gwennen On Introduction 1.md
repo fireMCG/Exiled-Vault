@@ -7,5 +7,5 @@ Gwennen: Hello again! I... I mean, that is to say, my husband's told me all abou
 ---
 ## Tags
 #Character/Gwennen
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur  

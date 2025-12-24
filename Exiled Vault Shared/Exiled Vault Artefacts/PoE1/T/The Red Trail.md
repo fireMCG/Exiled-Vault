@@ -6,5 +6,5 @@ where never we will return.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -7,4 +7,4 @@ The strong are never truly alone.
 ---
 ## Tags
 #League/Torment
-#Scarab
+#Item/Scarab

@@ -57,5 +57,5 @@ Tavakai: We cannot afford to lose more of our young to these {dangerous} ideas..
 ---
 ## Tags
 #Character/Tavakai
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

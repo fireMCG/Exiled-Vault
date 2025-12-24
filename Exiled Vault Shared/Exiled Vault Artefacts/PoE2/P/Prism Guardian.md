@@ -5,5 +5,5 @@ When blood is paid, the weak think twice.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

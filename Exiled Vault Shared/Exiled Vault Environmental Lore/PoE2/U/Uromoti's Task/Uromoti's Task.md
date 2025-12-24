@@ -6,7 +6,7 @@ Etched into the mountain Kriar for the glory of the Vaal Two hundred gave their 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/VaalEmpire 

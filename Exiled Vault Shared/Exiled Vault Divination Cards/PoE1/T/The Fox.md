@@ -10,5 +10,5 @@ Level 20 Gem
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

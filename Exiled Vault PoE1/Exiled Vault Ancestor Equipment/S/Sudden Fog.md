@@ -7,9 +7,9 @@ A clear day dawns only for the lucky.
 
 ---
 ## Tags
-#AncestorEquipment
-#Concept/Dawn
-#Concept/Day
+#Item/AncestorEquipment
+#Concept/Time/Dawn
+#Concept/Time/Day
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Tasalio 

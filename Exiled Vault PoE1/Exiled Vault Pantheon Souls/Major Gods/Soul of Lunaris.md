@@ -10,7 +10,7 @@
 ## Tags
 #Character/God/Lunaris 
 #Concept/Moon 
-#Concept/Pride 
+#Concept/Vice/Pride 
 #Concept/Sky 
 #Concept/Soul 
 #Concept/Water 

@@ -5,5 +5,5 @@ Is it better to find new lands - or to create them?
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

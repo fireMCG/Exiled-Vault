@@ -6,5 +6,5 @@ the Ardura were the first to answer.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

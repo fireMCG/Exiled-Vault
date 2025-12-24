@@ -14,6 +14,6 @@ Two men, and only one emperor.
 #
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1
-#Timeline 
+#Attributes/Timeline 

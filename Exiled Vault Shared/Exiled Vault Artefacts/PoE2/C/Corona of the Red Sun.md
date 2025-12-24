@@ -6,6 +6,6 @@ but all who witnessed shared in exultation.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2
 #Society/VaalEmpire 

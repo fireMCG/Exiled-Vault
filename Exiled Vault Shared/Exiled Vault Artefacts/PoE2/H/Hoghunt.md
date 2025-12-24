@@ -7,5 +7,5 @@ stop their flight and settle in Phaaryl.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

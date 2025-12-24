@@ -5,5 +5,5 @@ May it echo through the halls.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

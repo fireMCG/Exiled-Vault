@@ -7,5 +7,5 @@ continuing to dream, and know not why.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

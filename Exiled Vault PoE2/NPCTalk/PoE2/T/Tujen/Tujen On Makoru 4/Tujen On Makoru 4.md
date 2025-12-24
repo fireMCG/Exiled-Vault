@@ -57,5 +57,5 @@ Druid: I'll not stand by and watch her fade.
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

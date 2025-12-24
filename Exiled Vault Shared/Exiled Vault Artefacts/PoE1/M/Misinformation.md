@@ -8,5 +8,5 @@ It was always just a little farther.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

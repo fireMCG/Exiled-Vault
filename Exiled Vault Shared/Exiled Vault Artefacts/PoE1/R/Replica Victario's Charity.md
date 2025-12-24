@@ -7,5 +7,5 @@ close is not what we are looking for. Keep trying."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

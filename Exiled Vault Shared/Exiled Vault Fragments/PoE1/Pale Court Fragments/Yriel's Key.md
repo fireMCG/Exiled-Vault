@@ -7,6 +7,6 @@ of the uncivilized, the untamed, the untouched.
 
 ---
 ## Tags
-#Fragment 
-#Historical 
+#Item/Fragment 
+#Attributes/Historical 
 #PoE1 

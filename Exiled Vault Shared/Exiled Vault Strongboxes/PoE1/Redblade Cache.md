@@ -11,4 +11,4 @@ Financial Power is real and loyal."
 ## Tags
 #PoE1 
 #Society/Redblade
-#Strongbox
+#Category/Strongbox

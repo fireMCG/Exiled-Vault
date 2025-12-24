@@ -61,5 +61,5 @@ Yama The White: Ahahahaha!
 ---
 ## Tags
 #Character/Yama
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

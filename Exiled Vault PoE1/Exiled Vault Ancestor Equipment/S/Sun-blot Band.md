@@ -7,7 +7,7 @@ Let us graciously allow the enemy to fight in the shade.
 
 ---
 ## Tags
-#AncestorEquipment
+#Item/AncestorEquipment
 #Concept/Shadow
 #Concept/Sun 
 #League/Ancestor

@@ -8,5 +8,5 @@ be destroyed by savages."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

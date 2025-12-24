@@ -8,7 +8,7 @@ One day you eat the fish. One day you feed the fish."
 ## Tags
 #Character/God/Valako
 #Character/God/Valako
-#Concept/Fish
-#QuestItem
+#Concept/Animal/Fish
+#Item/QuestItem
 #PoE1
 #Society/Karui/Tribe/Valako

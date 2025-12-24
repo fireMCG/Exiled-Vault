@@ -6,5 +6,5 @@ life passes quickly.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

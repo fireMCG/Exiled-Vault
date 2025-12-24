@@ -7,5 +7,5 @@ Gwennen: Her pluckiness really gets on a persons nerves over the years... Or so 
 ---
 ## Tags
 #Character/Gwennen
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur  

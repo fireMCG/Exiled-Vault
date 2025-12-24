@@ -7,5 +7,5 @@ One day, spring will return the rains."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

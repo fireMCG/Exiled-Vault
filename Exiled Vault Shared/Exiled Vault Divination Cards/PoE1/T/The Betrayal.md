@@ -9,5 +9,6 @@ Maligaro's Virtuosity
 
 ---
 ## Tags
-#DivinationCard
+#Character/Maligaro 
+#Item/DivinationCard
 #PoE1

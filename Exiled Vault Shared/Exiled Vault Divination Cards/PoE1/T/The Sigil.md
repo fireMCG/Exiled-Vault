@@ -14,5 +14,5 @@ Unassailable Amulet
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

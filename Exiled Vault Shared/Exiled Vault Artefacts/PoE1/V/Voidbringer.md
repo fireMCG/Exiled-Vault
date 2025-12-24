@@ -5,5 +5,5 @@ Absolute corruption empowers absolutely.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

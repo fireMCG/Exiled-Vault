@@ -6,7 +6,7 @@ Dear Oswin, The Red Thane and I are thrilled with your attention to detail. The 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Ezomyte 

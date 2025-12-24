@@ -12,5 +12,5 @@ Rigwald's Curse
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

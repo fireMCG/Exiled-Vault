@@ -6,6 +6,6 @@ Their very flesh exudes Corruption.
 
 ---
 ## Tags
-#DropDisabled
+#Attributes/Disabled
 #League/Beyond
-#Scarab
+#Item/Scarab

@@ -16,5 +16,5 @@ Finn: Yeah... I do.
 ---
 ## Tags
 #Character/Una 
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 

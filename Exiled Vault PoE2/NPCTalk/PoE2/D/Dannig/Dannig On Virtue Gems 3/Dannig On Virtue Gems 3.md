@@ -33,5 +33,5 @@ Dannig: Believe me, I've tried. We have our own methods of mystical power, to be
 ---
 ## Tags
 #Character/Dannig 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

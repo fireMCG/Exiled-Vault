@@ -5,5 +5,5 @@ Fly like a Storm Crow, crush like a Rhoa
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

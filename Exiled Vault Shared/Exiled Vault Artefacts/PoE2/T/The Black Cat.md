@@ -6,5 +6,5 @@ is the one that refuses to do any actual work.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

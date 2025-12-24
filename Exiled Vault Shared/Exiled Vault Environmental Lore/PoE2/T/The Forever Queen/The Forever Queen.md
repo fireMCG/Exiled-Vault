@@ -6,7 +6,7 @@ Our gods abandoned us long ago. Now, we live in a forsaken time... in a world go
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/VaalEmpire 

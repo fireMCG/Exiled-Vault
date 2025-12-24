@@ -12,10 +12,10 @@ living with time and happenstance, as must we.
 ## Tags
 #Concept/Drought
 #Concept/FirstOnes
-#Concept/Frost
+#Concept/Element/Frost
 #Concept/Moon 
 #Concept/Storm
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Talisman 
+#Item/Talisman 

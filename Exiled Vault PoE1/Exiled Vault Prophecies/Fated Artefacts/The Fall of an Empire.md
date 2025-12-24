@@ -14,5 +14,5 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/Q/Quecho
 #Concept/Darkness 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy
 #Society/VaalEmpire 

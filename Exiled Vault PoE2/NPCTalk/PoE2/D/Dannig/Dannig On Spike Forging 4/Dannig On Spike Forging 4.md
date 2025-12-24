@@ -36,5 +36,5 @@ Dannig: There we go. That should do it. Be careful out there.
 ---
 ## Tags
 #Character/Dannig 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

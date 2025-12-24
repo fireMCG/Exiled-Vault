@@ -6,7 +6,7 @@ I do know a way out. If we fail, and the Empire falls, I have one last resort. I
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/VaalEmpire 

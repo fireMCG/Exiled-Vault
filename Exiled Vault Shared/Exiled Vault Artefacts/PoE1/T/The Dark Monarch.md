@@ -7,5 +7,5 @@ How it chokes the heart. Withers the soul. Judge me, and you judge yourself."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

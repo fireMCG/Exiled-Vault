@@ -6,6 +6,6 @@ Little moments... few and far between... mountains, canyons apart... twisting an
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE1

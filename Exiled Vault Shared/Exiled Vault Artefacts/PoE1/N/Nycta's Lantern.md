@@ -7,5 +7,5 @@ and so did hers.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

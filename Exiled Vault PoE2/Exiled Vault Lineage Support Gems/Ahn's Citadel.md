@@ -11,14 +11,14 @@ crystals to rupture and grow throughout his doomed citadel.
 ## Tags
 #Character/Ahn
 #Character/Aul
-#Concept/Azurite
+#Concept/Crystal/Azurite
 #Concept/Blood
 #Concept/Crystal
 #Concept/Damnation 
 #Concept/Golem
 #Concept/Tyranny 
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/Primeval
-#SupportGem
-#Timeline 
+#Item/SupportGem
+#Attributes/Timeline 

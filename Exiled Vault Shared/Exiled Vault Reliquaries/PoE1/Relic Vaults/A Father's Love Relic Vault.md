@@ -9,4 +9,4 @@ I forgive you.
 #Character/Shaper
 #Character/Zana
 #PoE1 
-#Reliquary
+#Category/Reliquary

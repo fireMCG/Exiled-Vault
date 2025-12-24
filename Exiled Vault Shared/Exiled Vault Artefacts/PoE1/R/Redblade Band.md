@@ -7,5 +7,5 @@ ashes of their father.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

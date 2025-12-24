@@ -6,5 +6,5 @@ in the field between you and the archers.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

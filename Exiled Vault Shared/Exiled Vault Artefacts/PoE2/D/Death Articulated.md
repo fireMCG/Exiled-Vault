@@ -7,5 +7,5 @@ the thinking... but it has only one thought... hate."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

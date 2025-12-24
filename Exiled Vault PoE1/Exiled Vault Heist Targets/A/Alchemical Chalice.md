@@ -7,6 +7,6 @@ It's best if you don't ask too many questions about this one.
 ---
 ## Tags
 #Character/HeistResearcher/Qotra
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 

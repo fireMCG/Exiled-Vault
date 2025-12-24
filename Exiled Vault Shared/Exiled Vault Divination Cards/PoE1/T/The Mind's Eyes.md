@@ -12,5 +12,5 @@ Astral Projector
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

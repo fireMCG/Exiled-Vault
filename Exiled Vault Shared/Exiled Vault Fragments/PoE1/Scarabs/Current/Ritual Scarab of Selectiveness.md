@@ -7,4 +7,4 @@ Pick and choose which sacred tenets you prefer...
 ---
 ## Tags
 #League/Ritual
-#Scarab
+#Item/Scarab

@@ -9,5 +9,5 @@ You'll never know the things you miss if you keep your eyes closed
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

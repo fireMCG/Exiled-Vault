@@ -8,5 +8,5 @@ it was there, at every turn, waiting for him."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

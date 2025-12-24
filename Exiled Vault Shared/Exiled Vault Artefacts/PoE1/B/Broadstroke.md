@@ -6,5 +6,5 @@ their heavy shields... and paid dearly for their mistake.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,5 +6,5 @@ Where rest the truest colours of life.
 ---
 ## Tags
 #Concept/Life
-#QuestItem
+#Item/QuestItem
 #PoE1

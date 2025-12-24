@@ -10,5 +10,5 @@ House of Mirrors
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

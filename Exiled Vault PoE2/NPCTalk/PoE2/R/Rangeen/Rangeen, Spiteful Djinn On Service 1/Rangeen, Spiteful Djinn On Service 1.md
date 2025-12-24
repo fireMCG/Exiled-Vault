@@ -6,5 +6,5 @@ Rangeen, Spiteful Djinn: What do you care? You're not going to free me. Fine. I 
 ---
 ## Tags
 #Character/Djinn/Rangeen
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh 

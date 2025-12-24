@@ -6,5 +6,5 @@ If it's the former, they will tear you into pieces like rabid dogs.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

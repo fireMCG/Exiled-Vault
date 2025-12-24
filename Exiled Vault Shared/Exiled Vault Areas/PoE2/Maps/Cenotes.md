@@ -4,5 +4,5 @@ The ground shifts underfoot with disturbing ease.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

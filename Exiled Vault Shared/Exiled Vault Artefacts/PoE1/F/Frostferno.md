@@ -7,5 +7,5 @@ You will be transformed.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

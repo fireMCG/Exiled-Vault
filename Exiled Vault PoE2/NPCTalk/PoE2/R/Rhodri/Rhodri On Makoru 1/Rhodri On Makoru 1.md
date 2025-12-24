@@ -6,4 +6,4 @@ Rhodri: You saved Makoru? Good on ya! She's the heart of this crew. I can go bac
 ---
 ## Tags
 #Character/Rhodri
-#NPCTalk
+#Category/NPCTalk

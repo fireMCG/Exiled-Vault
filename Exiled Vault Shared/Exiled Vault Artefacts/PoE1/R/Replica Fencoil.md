@@ -6,5 +6,5 @@ still eludes me. Perhaps if I attach some string and a hook..."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -34,5 +34,5 @@ Tujen: Tell it to the skalds, will ya? I'd rather not know! Bugger off!
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

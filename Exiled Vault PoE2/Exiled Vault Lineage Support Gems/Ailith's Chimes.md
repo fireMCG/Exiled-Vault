@@ -12,8 +12,8 @@ seen... thus was born the Keepers of the Pale Vision.
 #Character/Ailith
 #Concept/Element/Fire 
 #Concept/Mind 
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/KeepersOfTheFlame
-#SupportGem
-#Timeline 
+#Item/SupportGem
+#Attributes/Timeline 

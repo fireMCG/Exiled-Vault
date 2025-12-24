@@ -10,7 +10,7 @@ Rigwald Item
 ---
 ## Tags
 #Character/Rigwald 
-#Concept/Animal/Wolf 
-#DivinationCard
+#Concept/Animal/Canidae/Wolf 
+#Item/DivinationCard
 #Character/God/Greatwolf 
 #PoE1

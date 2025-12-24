@@ -15,4 +15,4 @@ Upgrades [[The Stormheart]] to [[The Stormwall]] upon completion.
 #Concept/Wind 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

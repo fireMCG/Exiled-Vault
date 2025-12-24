@@ -19,5 +19,5 @@ Jado: Neither will I.
 ---
 ## Tags
 #Character/Jado
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh

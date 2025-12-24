@@ -4,5 +4,5 @@ I am the One Who Watches. I observe from afar as flowers blossom and fade, as tr
 ##
 ---
 ## Tags
-#EnvironmentalLore 
+#Category/Lore/Environmental 
 #PoE1

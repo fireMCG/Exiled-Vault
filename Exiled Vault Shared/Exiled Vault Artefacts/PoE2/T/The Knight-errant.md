@@ -5,5 +5,5 @@ Some search forever for their path.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

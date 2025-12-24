@@ -16,4 +16,4 @@ and then never crawl again.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Talisman 
+#Item/Talisman 

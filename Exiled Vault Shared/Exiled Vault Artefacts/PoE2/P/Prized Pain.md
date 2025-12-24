@@ -5,5 +5,5 @@ Agony brings clarity to those of pure mind.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

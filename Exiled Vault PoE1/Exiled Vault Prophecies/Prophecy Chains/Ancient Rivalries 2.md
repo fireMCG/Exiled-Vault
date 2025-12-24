@@ -12,4 +12,4 @@ You will slay Voll while wearing one of Doedre's items.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

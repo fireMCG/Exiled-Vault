@@ -7,5 +7,5 @@ Dost thou believe in love at first sight?
 ---
 ## Tags
 #Character/Bestel
-#QuestItem
+#Item/QuestItem
 #PoE1

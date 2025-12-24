@@ -4,7 +4,7 @@ Without a speaker of the dead, the countless anguished spirits only grow in numb
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

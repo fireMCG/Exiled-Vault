@@ -8,5 +8,5 @@ None could stop it.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

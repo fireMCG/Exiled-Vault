@@ -7,4 +7,4 @@ The taller the tree, the better the fruit.
 ---
 ## Tags
 #League/Harvest
-#Scarab
+#Item/Scarab

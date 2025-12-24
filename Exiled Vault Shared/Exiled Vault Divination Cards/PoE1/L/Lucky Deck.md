@@ -9,5 +9,5 @@ When the outcome is the same, does it matter if it is fortune or trickery?
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

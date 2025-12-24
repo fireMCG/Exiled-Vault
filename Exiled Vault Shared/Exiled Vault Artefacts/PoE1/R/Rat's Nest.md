@@ -9,5 +9,5 @@ Was naught but a vermin-filled nest!
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

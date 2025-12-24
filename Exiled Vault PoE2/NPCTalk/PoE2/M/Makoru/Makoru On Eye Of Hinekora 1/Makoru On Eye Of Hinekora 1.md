@@ -6,5 +6,5 @@ Makoru: You spoke to the Mother of Death, herself? You're really getting a reput
 ---
 ## Tags
 #Character/Makoru
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

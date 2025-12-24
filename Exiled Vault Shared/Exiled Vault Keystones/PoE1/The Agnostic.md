@@ -11,5 +11,5 @@ While not on Full Life, Sacrifice 20% of Mana per Second to Recover that much Li
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

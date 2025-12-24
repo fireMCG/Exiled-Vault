@@ -7,7 +7,7 @@ Only a fool fights the tide.
 
 ---
 ## Tags
-#AncestorEquipment
+#Item/AncestorEquipment
 #Concept/Water
 #League/Ancestor
 #PoE1 

@@ -6,7 +6,7 @@ We have one task, and one task alone: to survive with our dignity in-tact. It is
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/VaalEmpire 

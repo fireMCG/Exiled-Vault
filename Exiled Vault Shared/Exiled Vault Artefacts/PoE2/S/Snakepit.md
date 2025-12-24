@@ -5,5 +5,5 @@ They wrap around you until your blood turns as cold as theirs.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

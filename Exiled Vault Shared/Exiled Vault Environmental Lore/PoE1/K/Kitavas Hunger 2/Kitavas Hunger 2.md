@@ -5,5 +5,5 @@ To replace the feast of birds that Kitava had greedily consumed, Tukohama, our F
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act5

@@ -5,5 +5,5 @@ Captivity breeds creativity.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

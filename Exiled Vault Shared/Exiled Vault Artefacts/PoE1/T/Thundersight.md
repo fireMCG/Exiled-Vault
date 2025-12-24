@@ -5,5 +5,5 @@ See creation as it is, energetic and storming.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

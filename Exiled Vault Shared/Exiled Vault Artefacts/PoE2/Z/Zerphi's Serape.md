@@ -6,6 +6,6 @@ The cure is simple.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2
 #Society/VaalEmpire 

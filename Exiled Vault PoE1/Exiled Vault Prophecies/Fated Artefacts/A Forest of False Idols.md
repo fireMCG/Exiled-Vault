@@ -14,4 +14,4 @@ Upgrades [[Araku Tiki]] to [[Ngamahu Tiki]] upon completion.
 #Concept/Sin/Idolatry
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

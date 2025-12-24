@@ -8,5 +8,5 @@ while the ignorant fight to win.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,5 +6,5 @@ Breaking it with a hammer takes about three seconds.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -8,5 +8,5 @@ For rout of foe, for turn of tide.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

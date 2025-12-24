@@ -9,5 +9,5 @@ Granite Flask
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

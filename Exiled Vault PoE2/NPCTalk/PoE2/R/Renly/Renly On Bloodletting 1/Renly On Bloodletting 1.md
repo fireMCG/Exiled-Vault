@@ -6,5 +6,5 @@ Renly: Travellers report terrible things happening in Holten. Those who refuse t
 ---
 ## Tags
 #Character/Renly
-#NPCTalk
+#Category/NPCTalk
 #Society/Ezomyte 

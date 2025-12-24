@@ -6,5 +6,5 @@ unknown and snarled to the very last.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

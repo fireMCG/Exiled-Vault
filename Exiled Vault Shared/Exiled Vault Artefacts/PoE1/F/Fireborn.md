@@ -6,5 +6,5 @@ Leaders are born in ruins and flames.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -7,5 +7,5 @@ Before the congregation I found purpose.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

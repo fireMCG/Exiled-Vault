@@ -34,5 +34,5 @@ Tujen: Nothing is a secret around here for long, see. At least, not to me. Just 
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

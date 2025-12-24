@@ -6,5 +6,5 @@ the seas, deep under the ground, and even beyond death.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

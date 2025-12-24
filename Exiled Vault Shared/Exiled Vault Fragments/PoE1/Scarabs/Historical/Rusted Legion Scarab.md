@@ -4,7 +4,7 @@ Your faith and our Order are not in opposition, young Eutychus. Let this be the 
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

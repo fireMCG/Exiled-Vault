@@ -6,6 +6,6 @@ only under the blessed veil of ignorance.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2
 #Society/VaalEmpire 

@@ -9,7 +9,7 @@ This individual, it seems, was all but deified.
 ## Tags
 #Character/Uthelius
 #Concept/Slavery 
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 
 #Society/VaalEmpire 

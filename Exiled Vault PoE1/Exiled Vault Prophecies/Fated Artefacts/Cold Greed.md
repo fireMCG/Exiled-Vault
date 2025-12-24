@@ -11,9 +11,9 @@ Upgrades [[Cameria's Maul]] to [[Cameria's Avarice]] upon completion.
 
 ---
 ## Tags
-#Concept/Fragment 
-#Concept/Heart 
+#Concept/Fracture/Fragment 
+#Concept/Body/Heart 
 #Concept/Season/Winter 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

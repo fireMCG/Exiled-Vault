@@ -6,7 +6,7 @@ By decree of the Count of Ogham, Those condemned to hang from these branches are
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Ezomyte 

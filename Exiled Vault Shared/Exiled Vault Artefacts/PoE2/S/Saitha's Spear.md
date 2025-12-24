@@ -6,5 +6,5 @@ fused to her hand by her last mistake.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

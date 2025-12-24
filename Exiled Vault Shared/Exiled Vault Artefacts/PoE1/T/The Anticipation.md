@@ -7,5 +7,5 @@ she will reach into us.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

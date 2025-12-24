@@ -6,5 +6,5 @@ but few have the resolve to attempt it.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -5,5 +5,5 @@ If they had ever completed the tower network, it could have changed the face of 
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

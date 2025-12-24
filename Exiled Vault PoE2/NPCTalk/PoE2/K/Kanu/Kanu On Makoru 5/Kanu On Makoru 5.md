@@ -60,5 +60,5 @@ Druid: Aye. A fine boss she is.
 ---
 ## Tags
 #Character/Kanu
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

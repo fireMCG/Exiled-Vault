@@ -5,5 +5,5 @@ Each life taken makes the next a little easier.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

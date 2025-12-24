@@ -7,5 +7,5 @@ Don't waste a drop.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

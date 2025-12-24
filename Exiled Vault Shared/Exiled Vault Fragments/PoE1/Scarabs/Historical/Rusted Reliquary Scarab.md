@@ -4,7 +4,7 @@ The Maraketh left you to die alone in the desert, young Sumei, but we saw the po
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

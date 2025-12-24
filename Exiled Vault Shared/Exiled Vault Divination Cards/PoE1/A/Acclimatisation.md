@@ -12,5 +12,5 @@ Adapt or perish.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

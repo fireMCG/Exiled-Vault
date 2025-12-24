@@ -8,5 +8,5 @@ They track their new prey
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

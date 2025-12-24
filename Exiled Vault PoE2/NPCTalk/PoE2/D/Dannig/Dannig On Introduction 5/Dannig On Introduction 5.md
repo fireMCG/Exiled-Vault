@@ -60,5 +60,5 @@ Dannig: I'm sure she had her reasons to cut and run. There's all manner of monst
 ---
 ## Tags
 #Character/Dannig 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

@@ -6,5 +6,5 @@ All the travelers had to give him was their devotion...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

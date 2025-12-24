@@ -6,5 +6,5 @@ It is the warmth that draws you ever inward.
 ---
 ## Tags
 #Concept/Within
-#QuestItem
+#Item/QuestItem
 #PoE1

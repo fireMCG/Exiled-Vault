@@ -13,5 +13,5 @@ Monsters Sacrificed at Ritual Altars in your Maps grant 100% more Tribute
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

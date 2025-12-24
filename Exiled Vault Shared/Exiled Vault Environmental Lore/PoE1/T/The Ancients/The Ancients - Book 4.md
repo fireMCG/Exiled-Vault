@@ -6,11 +6,11 @@ Drain a cup of Azmerian tea and then try to read your future in the leaves. You'
 ---
 ## Tags
 #Concept/Ancestor 
-#Concept/Future 
+#Concept/Time/Future 
 #Concept/Gemling 
-#Concept/VirtueGem/TearsOfMaji
-#EnvironmentalLore
+#Concept/Virtue/Gem/TearsOfMaji
+#Category/Lore/Environmental
 #PoE1/Act3
 #Society/Azmeri 
 #Society/VaalEmpire 
-#Timeline 
+#Attributes/Timeline 

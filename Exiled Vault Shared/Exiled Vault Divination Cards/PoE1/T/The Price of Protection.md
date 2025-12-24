@@ -14,5 +14,5 @@ Corrupted
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

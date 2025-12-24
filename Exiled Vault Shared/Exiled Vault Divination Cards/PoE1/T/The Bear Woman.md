@@ -14,5 +14,12 @@ Warlord Item
 
 ---
 ## Tags
-#DivinationCard
+#Concept/Animal/Bear
+#Concept/Animal/Feline/Tiger
+#Concept/Darkness
+#Concept/Time/Day 
+#Concept/Moon 
+#Concept/Rebirth
+#Concept/Silence
+#Item/DivinationCard
 #PoE1

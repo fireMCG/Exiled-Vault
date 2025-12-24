@@ -6,5 +6,5 @@ of sundered, severed, missing things.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

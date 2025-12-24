@@ -5,5 +5,5 @@ All creatures have the potential for greatness or unequivocal failure.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

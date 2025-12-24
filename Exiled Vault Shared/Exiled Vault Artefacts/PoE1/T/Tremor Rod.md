@@ -7,5 +7,5 @@ and execute them - twice.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

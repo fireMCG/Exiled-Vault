@@ -4,7 +4,7 @@ Given the fate of Deacon Eutychus and the men under Cardinal Sanctus Vox, let no
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

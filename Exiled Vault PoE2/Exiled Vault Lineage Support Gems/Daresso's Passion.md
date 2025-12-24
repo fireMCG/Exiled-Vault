@@ -12,9 +12,9 @@ fight became about something much greater... love."
 #Character/Daresso 
 #Character/Merveil
 #Concept/Death 
-#Concept/Eye 
-#Concept/Love 
-#Lineage
+#Concept/Body/Eye 
+#Concept/Emotion/Love 
+#Item/Lineage
 #PoE2
-#SupportGem
-#Timeline 
+#Item/SupportGem
+#Attributes/Timeline 

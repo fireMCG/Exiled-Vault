@@ -5,5 +5,5 @@ Under its influence, shards of metal take on a life of their own, wriggling into
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

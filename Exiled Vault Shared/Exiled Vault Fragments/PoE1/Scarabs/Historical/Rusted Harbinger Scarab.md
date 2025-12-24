@@ -4,7 +4,7 @@ Your ancestry has been much maligned by history, young Sarina Titucius, but to t
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

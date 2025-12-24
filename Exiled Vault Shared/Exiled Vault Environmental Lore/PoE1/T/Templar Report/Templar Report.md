@@ -4,5 +4,5 @@ General Marcovius, Commander of the Templar Fleet Operation Ocean Blades An urge
 
 ---
 ## Tags
-#EnvironmentalLore
+#Category/Lore/Environmental
 #PoE1/Act6

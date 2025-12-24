@@ -6,5 +6,5 @@ Life always springs anew.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

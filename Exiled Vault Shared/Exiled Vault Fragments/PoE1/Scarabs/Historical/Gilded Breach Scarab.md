@@ -4,7 +4,7 @@ Omid, Master Researcher, has left a final commandment upon his death: the world 
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

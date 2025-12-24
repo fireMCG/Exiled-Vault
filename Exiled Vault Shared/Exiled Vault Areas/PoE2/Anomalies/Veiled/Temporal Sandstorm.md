@@ -4,6 +4,6 @@ The Temporal's tongue captures the ear of those vying for power.
 #
 ---
 ## Tags
-#Area
-#Map
+#Category/Area
+#Item/Map
 #PoE2 

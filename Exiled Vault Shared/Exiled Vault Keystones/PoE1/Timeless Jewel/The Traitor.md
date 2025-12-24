@@ -10,5 +10,5 @@ Flasks Gain 4 Charges per empty Flask Slot every 5 seconds
 
 ---
 ## Tags
-#Keystone 
+#Category/Keystone 
 #PoE1

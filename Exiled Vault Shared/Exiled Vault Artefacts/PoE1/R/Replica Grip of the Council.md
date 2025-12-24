@@ -7,5 +7,5 @@ Somehow, I find that disturbing."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

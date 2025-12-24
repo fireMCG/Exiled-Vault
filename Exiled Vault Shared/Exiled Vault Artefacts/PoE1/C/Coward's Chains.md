@@ -6,5 +6,5 @@ the Empire will have your blood.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,5 +6,5 @@ His greatest success took three entire legions to capture.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

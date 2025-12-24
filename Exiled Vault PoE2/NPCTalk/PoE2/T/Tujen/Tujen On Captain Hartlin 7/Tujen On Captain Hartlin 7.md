@@ -60,5 +60,5 @@ Tujen: Hahaha! I know exactly what you're gettin' at!
 ---
 ## Tags
 #Character/Tujen 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 

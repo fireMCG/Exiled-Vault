@@ -30,5 +30,5 @@ Servitor Marius: A servitor knows his place. Utopia awaits!
 ---
 ## Tags
 #Character/ServitorMarius
-#NPCTalk
+#Category/NPCTalk
 #Society/TwilightOrder 

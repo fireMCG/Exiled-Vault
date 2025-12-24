@@ -6,5 +6,5 @@ their own personal mockeries, most cruel.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

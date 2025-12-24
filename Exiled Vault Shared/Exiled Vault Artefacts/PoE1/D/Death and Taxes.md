@@ -7,5 +7,5 @@ towards certain death.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -16,4 +16,4 @@ Upgrades [[Craghead]] to [[Cragfall]] upon completion.
 #Concept/Stone 
 #League/Prophecy
 #PoE1 
-#Prophecy
+#Item/Prophecy

@@ -8,5 +8,5 @@ Lurking Creature: Kulemak stirs below. Kulemak grows once more. Cast remains int
 ## Tags
 #Character/Kulemak 
 #Character/LurkingCreature
-#NPCTalk
-#Society/Abyssal 
+#Category/NPCTalk
+#Society/Lightless 

@@ -10,6 +10,6 @@ and the same. But the crystal... it shouldn't exist. It's not from here. We must
 #Concept/Crystal 
 #Concept/Science 
 #Concept/Thaumaturgy 
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 

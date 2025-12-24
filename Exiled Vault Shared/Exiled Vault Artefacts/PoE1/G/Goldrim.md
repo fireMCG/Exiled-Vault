@@ -5,5 +5,5 @@ No metal slips as easily through the fingers as gold.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

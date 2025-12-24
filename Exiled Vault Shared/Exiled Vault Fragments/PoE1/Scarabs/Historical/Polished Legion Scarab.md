@@ -4,7 +4,7 @@ As our hand in the Chamber, we grant you, Deacon Eutychus, access to a domain we
 #
 ---
 ## Tags
-#Fragment
-#Historical 
+#Item/Fragment
+#Attributes/Historical 
 #PoE1 
-#Scarab 
+#Item/Scarab 

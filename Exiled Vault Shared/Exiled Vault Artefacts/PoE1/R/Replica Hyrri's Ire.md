@@ -7,5 +7,5 @@ to stop the experiment... but you know how I am with screams."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

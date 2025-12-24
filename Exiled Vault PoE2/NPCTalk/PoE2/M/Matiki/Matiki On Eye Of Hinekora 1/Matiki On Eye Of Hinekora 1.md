@@ -6,5 +6,5 @@ Matiki: Yes... there it is. The Eye of Hinekora. Gateway... to the Halls of the 
 ---
 ## Tags
 #Character/Matiki
-#NPCTalk
+#Category/NPCTalk
 #Society/Karui 

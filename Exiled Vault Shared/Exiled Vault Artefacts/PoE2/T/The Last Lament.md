@@ -8,5 +8,5 @@ Artist and Composer, their fates entwined for all of time."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

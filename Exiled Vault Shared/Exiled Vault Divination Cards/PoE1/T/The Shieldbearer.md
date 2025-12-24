@@ -9,5 +9,5 @@ The Squire
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

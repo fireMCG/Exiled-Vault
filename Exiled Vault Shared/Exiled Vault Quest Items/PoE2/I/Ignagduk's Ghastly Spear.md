@@ -6,6 +6,6 @@ The skulls of stolen children adorn carved wood.
 ---
 ## Tags
 #Character/Ignagduk
-#QuestItem
+#Item/QuestItem
 #PoE2
 #Society/Azak

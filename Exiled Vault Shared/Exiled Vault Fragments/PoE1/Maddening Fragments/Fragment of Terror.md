@@ -7,9 +7,9 @@ Fear drives survival.
 ---
 ## Tags
 #Character/Eldritch/Elder 
-#Concept/Fear 
+#Concept/Emotion/Fear 
 #Concept/Survival
 #Concept/Horror 
-#Entity/Decay
-#Fragment
+#Concept/Decay
+#Item/Fragment
 #PoE1 

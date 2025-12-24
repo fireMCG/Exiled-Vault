@@ -7,5 +7,5 @@ there was a price to pay...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

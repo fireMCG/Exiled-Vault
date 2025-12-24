@@ -6,5 +6,5 @@ is all you need to win.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -377,4 +377,4 @@ Like many others, the Karui gods have awakened, but aside from Tukohama and Kita
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue

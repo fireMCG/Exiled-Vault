@@ -15,5 +15,5 @@ Divine.
 
 ---
 ## Tags
-#DivinationCard
+#Item/DivinationCard
 #PoE1

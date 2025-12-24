@@ -8,6 +8,6 @@ and grows. We must control it properly, lest it spread across all of Wraeclast.
 ## Tags
 #Character/HeistResearcher/Qotra
 #Concept/Element/Ice
-#HeistTarget
+#Item/HeistTarget
 #League/Heist
 #PoE1 

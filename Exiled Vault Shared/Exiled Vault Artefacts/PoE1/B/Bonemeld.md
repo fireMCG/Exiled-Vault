@@ -8,5 +8,5 @@ though sees you, it does, indeed.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

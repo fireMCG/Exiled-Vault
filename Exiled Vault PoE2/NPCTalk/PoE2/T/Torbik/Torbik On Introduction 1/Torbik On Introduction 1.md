@@ -9,4 +9,4 @@ Torbik: Amazing work— Oh. I didn't realize I was in the presence of someone su
 ---
 ## Tags
 #Character/Torbik
-#NPCTalk
+#Category/NPCTalk

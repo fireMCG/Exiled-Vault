@@ -6,10 +6,10 @@ for the true end follows when the great eye closes.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/SearingExarch 
 #Concept/Element/Fire 
-#Concept/Eye 
-#Concept/EndOfTime 
-#Entity/CleansingFire 
+#Concept/Body/Eye 
+#Concept/Time/Ending 
+#Concept/Cleansing 
 #PoE1

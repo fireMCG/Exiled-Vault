@@ -7,5 +7,5 @@ and choose our moments to move wisely.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

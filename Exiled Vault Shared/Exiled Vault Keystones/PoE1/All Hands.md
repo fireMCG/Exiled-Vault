@@ -10,6 +10,6 @@ Your Maps have +40% chance to contain a random Master encounter.
 
 ---
 ## Tags
-#Historical
-#Keystone
+#Attributes/Historical
+#Category/Keystone
 #PoE1 

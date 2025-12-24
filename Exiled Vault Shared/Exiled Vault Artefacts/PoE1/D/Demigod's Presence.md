@@ -6,5 +6,5 @@ the challengers crushed at your feet.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -28,5 +28,5 @@ Sekhema Asala: Hmm... these {are} strange times...
 ---
 ## Tags
 #Character/Jado
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh

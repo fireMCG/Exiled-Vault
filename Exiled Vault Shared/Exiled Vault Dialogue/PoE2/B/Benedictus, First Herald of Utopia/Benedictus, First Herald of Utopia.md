@@ -163,5 +163,5 @@ Your corpse will feed the New Tomorrow.
 
 ---
 ## Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

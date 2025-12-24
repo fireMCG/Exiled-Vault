@@ -6,8 +6,8 @@ Too long have the Faridun bent beneath the Maraketh bootheel. We were penned to 
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Faridun 
 #Society/Maraketh 

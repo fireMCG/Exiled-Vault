@@ -12,5 +12,5 @@ it cannot be contained.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -7,5 +7,5 @@ Today I am wise, so I am changing myself."
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

@@ -6,5 +6,5 @@ You feel a strange sense of déjà vu when you gaze upon its hideous visage...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

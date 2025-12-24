@@ -5,5 +5,5 @@ The dawn of a new era is set into motion
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

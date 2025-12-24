@@ -13,12 +13,12 @@ heavens. One cross word, and the sky will rain down her fury.
 #Concept/Crystal 
 #Concept/Desire
 #Concept/Moon 
-#Concept/Shatter
-#Concept/Silver 
+#Concept/Fracture
+#Concept/Colour/Silver 
 #Concept/Sky 
 #Concept/Vision
 #Character/God/Sione
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/Karui 
-#SupportGem
+#Item/SupportGem

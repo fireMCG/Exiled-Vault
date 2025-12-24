@@ -6,5 +6,5 @@ but neither knows the other exists...
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

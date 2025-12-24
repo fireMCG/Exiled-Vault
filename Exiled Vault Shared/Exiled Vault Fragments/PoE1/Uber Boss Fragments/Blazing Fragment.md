@@ -8,6 +8,6 @@ in the wake of an ever-expanding archive of minds.
 ---
 ## Tags
 #Character/Eldritch/SearingExarch 
-#Entity/CleansingFire 
-#Fragment
+#Concept/Cleansing 
+#Item/Fragment
 #PoE1 

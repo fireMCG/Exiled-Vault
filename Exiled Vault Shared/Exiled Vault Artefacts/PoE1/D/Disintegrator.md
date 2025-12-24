@@ -6,10 +6,10 @@ between creator and destroyer.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #Character/Eldritch/Elder 
 #Character/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Creation 
-#Entity/Decay
+#Concept/Decay
 #PoE1

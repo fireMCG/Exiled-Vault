@@ -5,5 +5,5 @@ Poison the land and they'll have nothing to defend.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

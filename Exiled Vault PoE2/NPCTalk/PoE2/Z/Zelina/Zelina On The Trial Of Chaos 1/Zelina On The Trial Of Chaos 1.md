@@ -7,7 +7,7 @@ Zelina: We did not have access to the Trial in the Cuachic Vault. We entreated t
 ---
 ## Tags
 #Character/Zelina
-#Entity/Chaos 
-#NPCTalk
+#Concept/Balance/Chaos 
+#Category/NPCTalk
 #Society/VaalEmpire/Cuachic 
 #Trial/Chaos 

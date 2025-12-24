@@ -8,5 +8,5 @@ and proof against hate.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

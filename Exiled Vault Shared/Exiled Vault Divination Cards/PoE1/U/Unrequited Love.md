@@ -11,11 +11,11 @@ Ambitious, and unfinished.
 
 ---
 ## Tags
-#Concept/Heart
-#Concept/Love 
+#Concept/Body/Heart
+#Concept/Emotion/Love 
 #Concept/Mirror 
 #Concept/Pale
-#Concept/Shatter 
+#Concept/Fracture 
 #Concept/Sun 
-#DivinationCard
+#Item/DivinationCard
 #PoE1

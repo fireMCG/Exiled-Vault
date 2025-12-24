@@ -6,5 +6,5 @@ Yoon, Remorseful Djinn: Thank you for returning me to my place of service. Pleas
 ---
 ## Tags
 #Character/Djinn/Yoon
-#NPCTalk
+#Category/NPCTalk
 #Society/Maraketh 

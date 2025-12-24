@@ -12,10 +12,10 @@ Immortal! But she soon realized there was one piece missing...
 #Character/Brutus
 #Character/Shavronne
 #Concept/Element/Lightning
-#Concept/Immortality 
+#Concept/Life/Immortality 
 #Concept/Sky 
-#Lineage
+#Item/Lineage
 #PoE2
 #Society/EternalEmpire 
-#SupportGem
-#Timeline 
+#Item/SupportGem
+#Attributes/Timeline 

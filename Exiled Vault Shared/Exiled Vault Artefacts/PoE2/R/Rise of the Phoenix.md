@@ -6,5 +6,5 @@ for I am the phoenix, forever radiant in glory.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

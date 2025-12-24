@@ -6,7 +6,7 @@ My Voltaxic Canaries! How is it that you're runnin' scared of this blind beasty?
 #
 ---
 ## Tags
-#EnvironmentalLore
-#IgnoreGraph
+#Category/Lore/Environmental
+#Attributes/IgnoreGraph
 #PoE2
 #Society/Unknown 

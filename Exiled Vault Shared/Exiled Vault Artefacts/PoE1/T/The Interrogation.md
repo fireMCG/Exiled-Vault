@@ -7,5 +7,5 @@ Fear of pain unknown has no parallel.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE1

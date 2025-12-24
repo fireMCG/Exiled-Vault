@@ -8,5 +8,5 @@ Our fate was carved soon."
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

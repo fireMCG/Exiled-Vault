@@ -4,5 +4,5 @@ Sturdy walls held out an armada, but not the famine it brought.
 #
 ---
 ## Tags
-#Map
+#Item/Map
 #PoE2 

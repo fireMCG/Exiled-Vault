@@ -5,5 +5,5 @@ The druids walk the Grelwood without fear.
 
 ---
 ## Tags
-#Artefact
+#Item/Artefact
 #PoE2

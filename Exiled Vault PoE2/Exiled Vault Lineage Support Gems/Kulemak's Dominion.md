@@ -13,8 +13,8 @@ a single golem. "After all, what harm could one servant do?"
 #Character/Kulemak
 #Concept/Golem 
 #Concept/Shadow 
-#Lineage
+#Item/Lineage
 #PoE2
-#Society/Abyssal
-#SupportGem
-#Timeline 
+#Society/Lightless
+#Item/SupportGem
+#Attributes/Timeline 

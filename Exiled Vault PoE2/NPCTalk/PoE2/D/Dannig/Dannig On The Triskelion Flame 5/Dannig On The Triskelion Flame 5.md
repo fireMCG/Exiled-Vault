@@ -60,5 +60,5 @@ Dannig: One day, there will be a glorious return! One day, we Grand Four will fi
 ---
 ## Tags
 #Character/Dannig 
-#NPCTalk
+#Category/NPCTalk
 #Society/Kalguur 
