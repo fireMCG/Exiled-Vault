@@ -10,6 +10,7 @@ And that no beast can truly cover their tracks.
 ---
 ## Tags
 #Concept/FirstOnes 
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

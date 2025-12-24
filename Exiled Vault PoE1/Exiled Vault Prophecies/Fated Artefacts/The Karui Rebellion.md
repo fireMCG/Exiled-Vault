@@ -11,6 +11,10 @@ Upgrades [[Karui Ward]] to [[Karui Charge]] upon completion.
 
 ---
 ## Tags
+#Concept/Faith
+#Concept/Rebellion
+#Concept/Thaumaturgy 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 
+#Society/Karui 

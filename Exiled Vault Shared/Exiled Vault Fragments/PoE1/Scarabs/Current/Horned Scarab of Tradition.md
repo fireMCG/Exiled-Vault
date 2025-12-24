@@ -7,4 +7,3 @@ To the strongest, prosperity be thine.
 ---
 ## Tags
 #Scarab
-#WiP 

@@ -7,5 +7,5 @@ A ghastly fruit, but twice as sweet.
 ---
 ## Tags
 #DropDisabled
+#League/Blight
 #Scarab
-#WiP 

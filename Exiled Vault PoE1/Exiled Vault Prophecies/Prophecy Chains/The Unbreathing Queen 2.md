@@ -10,6 +10,6 @@ You will encounter the spirit of a hero in the Lord's Labyrinth and defeat it.
 
 ---
 ## Tags
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

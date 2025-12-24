@@ -6,5 +6,5 @@ The core grows larger with each cycle, doomed to spill forth...
 
 ---
 ## Tags
+#League/Blight
 #Scarab
-#WiP 

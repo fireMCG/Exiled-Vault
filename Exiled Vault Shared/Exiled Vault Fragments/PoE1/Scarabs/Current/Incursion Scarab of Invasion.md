@@ -6,5 +6,5 @@ A gate, once opened, may swing in either direction.
 
 ---
 ## Tags
+#League/Incursion 
 #Scarab
-#WiP 

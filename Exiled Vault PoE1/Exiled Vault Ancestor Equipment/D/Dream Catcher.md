@@ -10,6 +10,6 @@ Tawhoa gifted humanity the ability to dream, so that they may aspire to greater 
 #AncestorEquipment
 #Character/God/Tawhoa 
 #Concept/Dream
-#Character/God/Tawhoa 
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Tawhoa 

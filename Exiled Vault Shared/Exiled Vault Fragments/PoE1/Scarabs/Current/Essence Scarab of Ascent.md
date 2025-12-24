@@ -7,4 +7,3 @@ A more perfect facet cannot be achieved.
 ---
 ## Tags
 #Scarab
-#WiP 

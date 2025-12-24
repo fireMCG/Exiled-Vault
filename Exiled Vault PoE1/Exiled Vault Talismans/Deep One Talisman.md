@@ -9,6 +9,7 @@ Now the First Ones harden us against the numbing chill of despair so that freedo
 ---
 ## Tags
 #Concept/FirstOnes 
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

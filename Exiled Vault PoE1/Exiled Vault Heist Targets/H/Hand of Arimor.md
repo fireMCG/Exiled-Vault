@@ -13,5 +13,6 @@ We shall see whether he was a prophet - or a charlatan.
 #Concept/Immortality 
 #Concept/Sacrifice 
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/EternalEmpire 

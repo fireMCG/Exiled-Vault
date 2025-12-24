@@ -9,5 +9,6 @@ glory of the world. Protectors at the massive toll gates wore these.
 #Character/Bazira
 #Concept/Dekhara
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/Maraketh 

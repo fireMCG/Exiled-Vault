@@ -11,6 +11,8 @@ Upgrades [[The Magnate]] to [[The Tactician]] upon completion.
 
 ---
 ## Tags
+#Character/HectorTitucius 
+#Concept/Blood 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

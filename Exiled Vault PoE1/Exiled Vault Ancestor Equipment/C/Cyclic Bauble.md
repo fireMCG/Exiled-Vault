@@ -11,5 +11,6 @@ The end of Time is also its beginning.
 #Concept/BeginningOfTime
 #Concept/Cycle 
 #Concept/EndOfTime 
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Hinekora 

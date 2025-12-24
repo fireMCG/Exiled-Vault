@@ -13,4 +13,3 @@ a One-Handed Martial Weapon equipped in your Main Hand
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

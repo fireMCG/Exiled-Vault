@@ -6,5 +6,5 @@ Uncover the secrets of the Vaal one incursion at a time.
 
 ---
 ## Tags
+#League/Incursion 
 #Scarab
-#WiP 

@@ -10,6 +10,6 @@ You will slay Brutus while wearing one of Shavronne's items.
 
 ---
 ## Tags
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

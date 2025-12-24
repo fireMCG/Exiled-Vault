@@ -10,5 +10,6 @@ The lunar plains are cold, but the silver palace is always warm and welcoming.
 #AncestorEquipment
 #Concept/Moon 
 #Concept/Silver 
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Arohongui 

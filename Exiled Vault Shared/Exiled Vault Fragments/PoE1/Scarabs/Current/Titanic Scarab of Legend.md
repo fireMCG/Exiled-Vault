@@ -7,4 +7,3 @@ Power accumulates.
 ---
 ## Tags
 #Scarab
-#WiP 

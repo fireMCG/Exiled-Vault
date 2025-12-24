@@ -11,6 +11,7 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/W/Windsc
 
 ---
 ## Tags
+#Character/Doedre 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

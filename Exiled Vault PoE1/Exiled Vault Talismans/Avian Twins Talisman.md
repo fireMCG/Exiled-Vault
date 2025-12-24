@@ -15,6 +15,7 @@ living with time and happenstance, as must we.
 #Concept/Frost
 #Concept/Moon 
 #Concept/Storm
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

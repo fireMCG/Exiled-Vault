@@ -6,5 +6,5 @@ Delve into darkness in search of the truth...
 
 ---
 ## Tags
+#League/Delve
 #Scarab
-#WiP 

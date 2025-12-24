@@ -11,6 +11,7 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/B/Briskw
 
 ---
 ## Tags
+#Concept/Lineage 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

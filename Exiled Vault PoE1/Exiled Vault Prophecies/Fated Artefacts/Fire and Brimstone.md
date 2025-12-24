@@ -11,6 +11,8 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/B/Blackg
 
 ---
 ## Tags
+#Concept/Element/Fire 
+#Concept/Stone 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

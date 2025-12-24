@@ -11,6 +11,6 @@ Upgrades [[Silverbranch]] to [[Silverbough]] upon completion.
 
 ---
 ## Tags
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

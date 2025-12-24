@@ -8,4 +8,3 @@ The carvings it holds are too worn to decipher.
 ## Tags
 #Fragment 
 #PoE2 
-#WiP 

@@ -9,5 +9,6 @@ Only a fool fights the tide.
 ## Tags
 #AncestorEquipment
 #Concept/Water
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Valako 

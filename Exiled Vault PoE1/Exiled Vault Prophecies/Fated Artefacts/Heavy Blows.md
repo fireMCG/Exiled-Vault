@@ -11,6 +11,9 @@ Upgrades [[Craghead]] to [[Cragfall]] upon completion.
 
 ---
 ## Tags
+#Concept/Nature/Earth 
+#Concept/Soul 
+#Concept/Stone 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

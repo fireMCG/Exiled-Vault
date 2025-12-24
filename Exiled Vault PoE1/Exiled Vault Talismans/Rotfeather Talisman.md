@@ -11,6 +11,7 @@ For while pain might delight the mind, it does not fill the belly.
 #Concept/Death
 #Concept/FirstOnes
 #Concept/Mercy
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

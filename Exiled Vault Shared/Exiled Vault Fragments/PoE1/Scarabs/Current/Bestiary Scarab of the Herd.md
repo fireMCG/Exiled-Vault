@@ -6,5 +6,5 @@ The First Ones ran rampant and free in the forests of old.
 
 ---
 ## Tags
+#League/Bestiary 
 #Scarab
-#WiP 

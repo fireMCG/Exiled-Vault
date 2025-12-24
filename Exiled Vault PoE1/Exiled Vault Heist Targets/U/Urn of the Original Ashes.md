@@ -9,5 +9,6 @@ The urn contains exactly what you think it does, and serves as proof of our long
 #Character/Geonor 
 #Event/GreatFire
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/Ezomyte 

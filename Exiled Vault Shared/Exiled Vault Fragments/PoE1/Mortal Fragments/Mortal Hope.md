@@ -8,4 +8,3 @@ Look to our Queen, for she will lead us from the darkness.
 ## Tags
 #Fragment
 #PoE1 
-#WiP 

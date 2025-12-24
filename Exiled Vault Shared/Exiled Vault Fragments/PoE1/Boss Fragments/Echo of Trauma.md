@@ -8,4 +8,3 @@ A single harsh word can haunt us forever.
 ## Tags
 #Fragment
 #PoE1 
-#WiP 

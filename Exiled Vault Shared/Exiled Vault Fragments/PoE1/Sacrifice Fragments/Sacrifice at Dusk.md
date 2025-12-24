@@ -8,4 +8,3 @@ The Vaal shall never fear the setting of our sun.
 ## Tags
 #Fragment
 #PoE1 
-#WiP 

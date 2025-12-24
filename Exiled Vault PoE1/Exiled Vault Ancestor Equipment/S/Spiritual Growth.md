@@ -9,5 +9,6 @@ That which is wounded may become whole again in time.
 ## Tags
 #AncestorEquipment
 #Concept/Spirituality
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Tawhoa 

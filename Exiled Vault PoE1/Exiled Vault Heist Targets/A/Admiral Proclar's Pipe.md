@@ -9,4 +9,5 @@ it's a matter of thieves' honour to check whether my product was in his pipe.
 #Character/Proclar
 #Character/TsvetMatvei
 #HeistTarget
+#League/Heist
 #PoE1 

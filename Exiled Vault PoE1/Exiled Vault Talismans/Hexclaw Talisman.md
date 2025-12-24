@@ -10,6 +10,7 @@ The First One bared its fangs and savoured its final breath.
 ## Tags
 #Concept/FirstOnes 
 #Concept/Hunt 
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

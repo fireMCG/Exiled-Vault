@@ -7,6 +7,6 @@ but lost himself.
 
 ---
 ## Tags
+#Character/Baran
 #Fragment
 #PoE1 
-#WiP 

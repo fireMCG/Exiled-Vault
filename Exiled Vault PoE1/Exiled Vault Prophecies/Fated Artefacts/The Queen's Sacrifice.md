@@ -11,6 +11,11 @@ Upgrades [[Atziri's Mirror]] to [[Atziri's Reflection]] upon completion.
 
 ---
 ## Tags
+#Character/Atziri 
+#Concept/Curse 
+#Concept/Queen 
+#Concept/Mirror 
+#League/Prophecy
 #PoE1 
 #Prophecy
 #Society/VaalEmpire 

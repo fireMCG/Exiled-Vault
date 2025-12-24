@@ -9,6 +9,7 @@ we learn to feed and run and breathe as the First Ones have always done.
 ---
 ## Tags
 #Concept/FirstOnes 
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

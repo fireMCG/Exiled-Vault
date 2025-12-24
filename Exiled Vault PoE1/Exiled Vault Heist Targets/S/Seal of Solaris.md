@@ -13,6 +13,7 @@ myths. If I can prove that, I can begin piecing together a true history of the W
 #Event/WinterOfTheWorld
 #Character/God/Solaris
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/Azmeri 
 #Society/Maraketh 

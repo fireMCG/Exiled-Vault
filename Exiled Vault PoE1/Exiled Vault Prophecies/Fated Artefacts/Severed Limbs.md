@@ -11,6 +11,9 @@ Upgrades [[Limbsplit]] to [[The Cauteriser]] upon completion.
 
 ---
 ## Tags
+#Concept/Blood 
+#Concept/Stone 
+#Concept/Storm 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

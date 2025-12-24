@@ -7,4 +7,3 @@ Beyond the light lies only the void.
 ---
 ## Tags
 #Scarab
-#WiP 

@@ -8,4 +8,5 @@ Assembling it and turning it on is all I have left.
 ## Tags
 #Character/MarcineClavus
 #HeistTarget
+#League/Heist
 #PoE1 

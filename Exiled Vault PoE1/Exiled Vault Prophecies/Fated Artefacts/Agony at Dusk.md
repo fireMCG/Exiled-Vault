@@ -11,6 +11,9 @@ Upgrades [[Dusktoe]] to [[Duskblight]] upon completion.
 
 ---
 ## Tags
+#Concept/Beast
+#Concept/Dusk 
+#Concept/Light 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

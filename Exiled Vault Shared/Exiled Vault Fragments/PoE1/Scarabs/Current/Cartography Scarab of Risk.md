@@ -7,4 +7,3 @@ What we see in the mirror can only be our own reflection.
 ---
 ## Tags
 #Scarab
-#WiP 

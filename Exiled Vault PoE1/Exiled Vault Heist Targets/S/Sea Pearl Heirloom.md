@@ -11,4 +11,5 @@ to know our culture, just like you full-blooded humans do.
 #Concept/Humanoid
 #Concept/Siren
 #HeistTarget
+#League/Heist
 #PoE1 

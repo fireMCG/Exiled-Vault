@@ -11,6 +11,8 @@ Upgrades [[Winterweave]] to [[Winterweave]] upon completion.
 
 ---
 ## Tags
+#Concept/Blood 
+#Concept/Season/Winter 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

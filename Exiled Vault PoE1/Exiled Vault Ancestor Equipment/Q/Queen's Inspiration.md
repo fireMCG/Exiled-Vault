@@ -10,5 +10,6 @@ Her courage was contagious.
 #AncestorEquipment
 #Concept/Courage
 #Concept/Queen
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Ramako 

@@ -8,4 +8,3 @@ Freedom is won, not given.
 ## Tags
 #Fragment
 #PoE1 
-#WiP 

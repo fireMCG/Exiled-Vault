@@ -11,6 +11,11 @@ Upgrades [[Eclipse Solaris]] to [[Corona Solaris]] upon completion.
 
 ---
 ## Tags
+#Concept/Blindness 
+#Concept/Eclipse/Solar 
+#Concept/Light 
+#Concept/Sky 
+#Concept/Sun 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

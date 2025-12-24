@@ -9,5 +9,6 @@ They have other ways of keeping the dead.
 #Concept/Death 
 #Concept/Sky 
 #HeistTarget
+#League/Heist
 #PoE1 
 #Society/Faridun

@@ -6,5 +6,5 @@ The truly noble wage war from the front.
 
 ---
 ## Tags
+#League/Harbinger
 #Scarab
-#WiP 

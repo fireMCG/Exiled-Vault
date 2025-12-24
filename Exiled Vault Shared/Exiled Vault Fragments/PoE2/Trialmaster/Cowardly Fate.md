@@ -8,4 +8,3 @@ The ignoblest of choices.
 ## Tags
 #Fragment 
 #PoE2 
-#WiP 

@@ -11,6 +11,6 @@ Inya also has a chance to drop [[Exiled-Vault/Exiled Vault Shared/Exiled Vault A
 
 ---
 ## Tags
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

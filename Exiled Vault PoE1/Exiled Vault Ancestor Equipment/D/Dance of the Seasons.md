@@ -10,5 +10,6 @@ Winter is inevitable, but so is the spring.
 #AncestorEquipment
 #Concept/Season/Spring
 #Concept/Season/Winter
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Arohongui

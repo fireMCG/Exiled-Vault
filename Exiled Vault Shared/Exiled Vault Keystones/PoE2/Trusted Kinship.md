@@ -14,4 +14,3 @@ Companions have +1 to each Defence for every 2 of that Defence you have
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

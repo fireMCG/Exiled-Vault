@@ -6,5 +6,5 @@ A properly refined pinch makes all the difference.
 
 ---
 ## Tags
+#League/Expedition
 #Scarab
-#WiP 

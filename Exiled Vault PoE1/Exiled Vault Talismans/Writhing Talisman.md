@@ -13,6 +13,7 @@ and then never crawl again.
 #Concept/Darkness 
 #Concept/FirstOnes 
 #Concept/Hunt
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

@@ -6,5 +6,5 @@
 
 ---
 ## Tags
+#League/Bestiary 
 #Scarab
-#WiP 

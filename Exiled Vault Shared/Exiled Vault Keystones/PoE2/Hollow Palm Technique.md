@@ -16,4 +16,3 @@ Unarmed Attacks that would use your Quarterstaff's damage gain:
 ## Tags
 #Keystone 
 #PoE2 
-#WiP 

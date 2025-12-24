@@ -7,5 +7,5 @@ Their very flesh exudes Corruption.
 ---
 ## Tags
 #DropDisabled
+#League/Beyond
 #Scarab
-#WiP 

@@ -9,6 +9,7 @@ The people felt their stamping rage and cowered as the fury rained down.
 ---
 ## Tags
 #Concept/FirstOnes 
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

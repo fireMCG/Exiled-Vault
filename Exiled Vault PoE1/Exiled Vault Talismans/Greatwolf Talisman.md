@@ -14,6 +14,7 @@ And the king paid for it in blood.
 #Concept/Light
 #Concept/Moon
 #Character/God/Greatwolf
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman

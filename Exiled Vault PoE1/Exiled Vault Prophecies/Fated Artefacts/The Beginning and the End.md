@@ -11,6 +11,8 @@ Upgrades [[Realmshaper]] to [[Realm Ender]] upon completion.
 
 ---
 ## Tags
+#Character/Geofri
+#Concept/Religion 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

@@ -7,4 +7,3 @@ When something is cut in half, which half is the original?
 ---
 ## Tags
 #Scarab
-#WiP 

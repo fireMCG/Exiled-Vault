@@ -7,5 +7,5 @@ Storms of blood-stained sand will drown the enemies of the Maraketh.
 ---
 ## Tags
 #DropDisabled
+#League/Legion
 #Scarab
-#WiP 

@@ -11,6 +11,8 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/B/Blackh
 
 ---
 ## Tags
+#Concept/Heart 
+#Concept/Void 
+#League/Prophecy
 #PoE1 
 #Prophecy
-#WiP 

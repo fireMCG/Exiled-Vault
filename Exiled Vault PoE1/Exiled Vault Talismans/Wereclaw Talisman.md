@@ -12,6 +12,7 @@ and caper with untamed glee.
 ## Tags
 #Concept/FirstOnes 
 #Concept/Taming
+#League/Talisman
 #PoE1
 #Society/Ezomyte 
 #Talisman 

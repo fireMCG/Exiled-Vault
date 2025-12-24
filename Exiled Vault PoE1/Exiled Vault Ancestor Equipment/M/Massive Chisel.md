@@ -8,5 +8,6 @@ Ancestral wood splinters freely under the heavy weight of jade.
 ---
 ## Tags
 #AncestorEquipment
+#League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Tukohama 

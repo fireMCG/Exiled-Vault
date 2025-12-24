@@ -7,5 +7,5 @@ If it could end, it wouldn't really be damnation.
 ---
 ## Tags
 #DropDisabled
+#League/Torment
 #Scarab
-#WiP 

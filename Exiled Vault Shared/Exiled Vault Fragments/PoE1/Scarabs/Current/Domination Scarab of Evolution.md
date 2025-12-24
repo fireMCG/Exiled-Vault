@@ -6,5 +6,5 @@ The Atlas and Wraeclast share one terrifying secret.
 
 ---
 ## Tags
+#League/Domination
 #Scarab
-#WiP 

@@ -7,4 +7,3 @@ The crystalline lattice expands in directions alien to the mortal mind.
 ---
 ## Tags
 #Scarab
-#WiP 
