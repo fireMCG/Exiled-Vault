@@ -9,5 +9,10 @@ Delirium Orb
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Body/Eye 
+#Concept/Eclipse 
+#Concept/Element/Fire 
+#Concept/Religion/Hell
+#League/Delirium 
 #PoE1

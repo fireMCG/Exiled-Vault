@@ -7,5 +7,5 @@ and to receive everything in return."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -6,4 +6,4 @@ Power accumulates.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

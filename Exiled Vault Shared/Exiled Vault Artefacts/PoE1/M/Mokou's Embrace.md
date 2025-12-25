@@ -5,5 +5,5 @@ Fire makes the perfect blossom in the endless night.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -6,5 +6,6 @@ Voll proved disastrous in times of peace.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/Emperor/VollOfThebrus 
 #PoE2

@@ -5,5 +5,5 @@ Even after she harvested their tongues, they were still able to scream.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

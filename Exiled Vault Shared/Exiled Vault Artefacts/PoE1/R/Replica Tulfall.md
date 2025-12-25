@@ -1,11 +1,12 @@
 ## Replica Tulfall
 "Are we mad for attempting to build an engine out of this?
 Looping cycles, power and pain..."
-- Researcher Arn
+\- Researcher Arn
 ##
 ![[Replica Tulfall.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/HeistResearcher/Arn 
 #PoE1

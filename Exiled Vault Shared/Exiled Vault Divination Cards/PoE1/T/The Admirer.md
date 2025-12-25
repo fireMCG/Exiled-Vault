@@ -12,6 +12,6 @@ Atziri Item
 #Character/Atziri 
 #Character/Lucian
 #Concept/Emotion/Love 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1
 #Society/VaalEmpire 

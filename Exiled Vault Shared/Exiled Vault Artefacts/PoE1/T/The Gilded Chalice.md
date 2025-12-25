@@ -6,5 +6,5 @@ Finally, he had the power and wealth he so desired." - Lycia, the Heretic
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

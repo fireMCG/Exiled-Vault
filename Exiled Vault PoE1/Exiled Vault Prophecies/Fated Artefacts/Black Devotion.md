@@ -16,4 +16,4 @@ Upgrades [[Geofri's Baptism]] to [[Geofri's Devotion]] upon completion.
 #Concept/Religion 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

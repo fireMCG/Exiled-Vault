@@ -8,5 +8,5 @@ The head is where the Man is."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

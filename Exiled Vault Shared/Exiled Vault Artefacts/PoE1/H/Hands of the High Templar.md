@@ -5,5 +5,5 @@ The laws of the faith do not apply to its leader.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

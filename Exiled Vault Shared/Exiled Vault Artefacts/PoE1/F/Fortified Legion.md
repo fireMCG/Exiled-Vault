@@ -6,5 +6,5 @@ you only make the wall grow thicker.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

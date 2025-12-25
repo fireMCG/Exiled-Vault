@@ -7,5 +7,5 @@ across any distance of time or travel.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

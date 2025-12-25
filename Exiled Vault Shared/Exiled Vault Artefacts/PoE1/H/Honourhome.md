@@ -7,5 +7,5 @@ The honourable mind is much easier to manipulate."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

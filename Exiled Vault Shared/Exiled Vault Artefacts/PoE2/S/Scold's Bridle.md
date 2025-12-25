@@ -7,5 +7,5 @@ A curious paradox."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

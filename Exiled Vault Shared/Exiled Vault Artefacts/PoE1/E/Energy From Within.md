@@ -6,5 +6,5 @@ of going without the body's ordinary cravings.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

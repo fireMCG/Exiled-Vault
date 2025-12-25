@@ -10,12 +10,12 @@ with gems and set forth alone to face the endless hordes.
 ---
 ## Tags
 #Character/Uhtred
-#Character/Vorana
+#Character/Conqueror/Vorana
 #Concept/Body/Flesh 
 #Concept/Gemling 
 #Concept/Virtue/Gem 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/Kalguur 
-#Item/SupportGem
+#Category/SupportGem
 #Attributes/Timeline 

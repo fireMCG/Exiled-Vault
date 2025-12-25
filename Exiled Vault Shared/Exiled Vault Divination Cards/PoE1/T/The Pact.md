@@ -9,5 +9,7 @@ Pledge of Hands
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Body/Hand 
+#League/Breach 
 #PoE1

@@ -6,5 +6,5 @@ will burn in the minds of men forever.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

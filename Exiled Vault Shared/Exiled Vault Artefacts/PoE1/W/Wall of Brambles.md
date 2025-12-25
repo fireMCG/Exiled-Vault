@@ -5,5 +5,5 @@ There is no wall thicker or stronger than fear.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

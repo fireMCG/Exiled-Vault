@@ -12,5 +12,5 @@ Corrupted
 ## Tags
 #Concept/Animal/Feline/Cat
 #Concept/Light 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -11,5 +11,6 @@ Elder Item
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Moon 
 #PoE1

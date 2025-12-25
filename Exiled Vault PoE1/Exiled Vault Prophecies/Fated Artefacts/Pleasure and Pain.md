@@ -14,4 +14,4 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/C/Crown 
 #Character/Shavronne 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

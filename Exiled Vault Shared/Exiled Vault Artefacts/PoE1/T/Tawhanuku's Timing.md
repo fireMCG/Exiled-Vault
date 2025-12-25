@@ -5,5 +5,5 @@ The soul still beats, even when the heart never did.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

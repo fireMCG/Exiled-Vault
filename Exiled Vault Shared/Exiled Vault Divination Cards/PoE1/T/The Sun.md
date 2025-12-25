@@ -9,5 +9,12 @@ Rise of the Phoenix
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Animal/Mythological/Phoenix
+#Concept/Colour/Gold 
+#Concept/Light 
+#Concept/Night
+#Concept/Rebirth 
+#Concept/Sun 
+#Concept/Wing 
 #PoE1

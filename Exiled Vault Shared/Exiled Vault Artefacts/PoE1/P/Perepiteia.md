@@ -6,5 +6,5 @@ but Oriathan scholars dare not open it to find out why.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

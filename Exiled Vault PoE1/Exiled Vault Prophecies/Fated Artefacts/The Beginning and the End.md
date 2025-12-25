@@ -15,4 +15,4 @@ Upgrades [[Realmshaper]] to [[Realm Ender]] upon completion.
 #Concept/Religion 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

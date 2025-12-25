@@ -7,6 +7,6 @@ means 'to strike true' or 'truth.'
 ---
 ## Tags
 #Concept/Rune 
-#Item/QuestItem
+#Category/QuestItem
 #PoE2
 #Society/Ezomyte 

@@ -7,4 +7,4 @@ They seek to establish an unknown pattern.
 ---
 ## Tags
 #League/Harbinger
-#Item/Scarab
+#Category/Scarab

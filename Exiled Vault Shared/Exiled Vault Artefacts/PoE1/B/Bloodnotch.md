@@ -7,5 +7,5 @@ igniting their capacity to endure.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

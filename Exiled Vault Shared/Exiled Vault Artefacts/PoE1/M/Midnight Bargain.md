@@ -8,5 +8,5 @@ To crush the very light of day.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

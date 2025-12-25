@@ -6,4 +6,4 @@ There is no end, no horizon.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

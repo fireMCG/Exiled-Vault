@@ -9,5 +9,5 @@ I don't know when to quit."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

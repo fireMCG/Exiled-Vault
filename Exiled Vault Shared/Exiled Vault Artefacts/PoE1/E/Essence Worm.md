@@ -7,5 +7,5 @@ Like any part of nightmare, it has found a way to make its price... acceptable."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

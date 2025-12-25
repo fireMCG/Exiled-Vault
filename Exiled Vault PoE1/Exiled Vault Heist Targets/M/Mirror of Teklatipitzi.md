@@ -8,10 +8,10 @@ if he thinks he loves her like I do.
 
 ---
 ## Tags
-#Character/AntonLaffrey
+#Character/RingClient/AntonLaffrey
 #Character/SelwynEddard
 #Concept/Mirror
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/VaalEmpire 

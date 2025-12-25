@@ -9,5 +9,8 @@ Life isn't what you make of it, it's already been made for you.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Balance/Chaos 
+#Concept/Fate 
+#Concept/Life 
 #PoE1

@@ -7,4 +7,4 @@ can be made predictable.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

@@ -8,5 +8,5 @@ The rest do not return at all.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

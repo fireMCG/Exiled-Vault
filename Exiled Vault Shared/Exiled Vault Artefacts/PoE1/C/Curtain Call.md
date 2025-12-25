@@ -8,5 +8,5 @@ before we all must die.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

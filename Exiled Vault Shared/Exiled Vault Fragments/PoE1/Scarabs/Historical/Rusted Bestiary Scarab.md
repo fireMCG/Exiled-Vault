@@ -4,7 +4,7 @@ Feuding Ezomytes slaughtered your kin, young Agnar, but we pulled you from the f
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

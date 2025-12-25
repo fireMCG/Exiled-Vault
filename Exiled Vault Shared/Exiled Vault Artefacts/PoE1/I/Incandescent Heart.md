@@ -6,5 +6,5 @@ And the black lies wrapped around your heart
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

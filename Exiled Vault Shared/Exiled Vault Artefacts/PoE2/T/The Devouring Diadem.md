@@ -5,5 +5,5 @@ The spirit hungers for the flesh.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

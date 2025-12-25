@@ -35,6 +35,11 @@ Sorceress: Could it be? Hmm... perhaps the old enemy has returned. We Maraketh f
 
 ---
 ## Tags
-#Character/Mortimer
 #Category/NPCTalk
+#Character/Mortimer
+#Concept/Blood 
+#Concept/Colour/Black 
+#Concept/Colour/Green
+#Concept/Body/Eye 
+#Event/ThirdPact 
 #Society/Lightless 

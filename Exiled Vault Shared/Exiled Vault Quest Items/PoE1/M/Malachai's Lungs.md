@@ -10,5 +10,5 @@ yet another step removed from them.
 #Character/Malachai 
 #Concept/Body/Flesh 
 #Concept/Life/Immortality 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

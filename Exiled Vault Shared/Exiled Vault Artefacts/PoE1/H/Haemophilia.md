@@ -7,5 +7,5 @@ Unfortunately, my kind doesn't often have that luxury."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

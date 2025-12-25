@@ -7,5 +7,5 @@ Fear is the wound left untended.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

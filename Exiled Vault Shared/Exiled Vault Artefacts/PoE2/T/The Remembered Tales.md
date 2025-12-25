@@ -6,5 +6,5 @@ the tale-women began to see the tapestry of Time.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

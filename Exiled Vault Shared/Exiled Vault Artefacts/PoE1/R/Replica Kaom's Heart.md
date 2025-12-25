@@ -6,5 +6,5 @@ to an archmage to fund other experiments."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

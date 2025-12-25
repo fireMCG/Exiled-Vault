@@ -8,5 +8,5 @@ To listen.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

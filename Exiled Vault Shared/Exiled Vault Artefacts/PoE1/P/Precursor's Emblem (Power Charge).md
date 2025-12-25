@@ -5,5 +5,5 @@ History teaches humility.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

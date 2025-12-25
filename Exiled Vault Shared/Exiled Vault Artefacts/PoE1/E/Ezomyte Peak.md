@@ -6,5 +6,5 @@ of glory, an eternity of death.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

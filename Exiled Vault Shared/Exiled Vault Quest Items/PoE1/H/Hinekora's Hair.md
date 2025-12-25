@@ -10,6 +10,6 @@ What we steal in life we repay in death."
 #Concept/Life 
 #Concept/Death
 #Character/God/Hinekora 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Society/Karui 

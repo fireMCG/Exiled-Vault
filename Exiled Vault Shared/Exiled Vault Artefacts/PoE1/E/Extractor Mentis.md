@@ -6,5 +6,5 @@ the soul may yet scream on.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

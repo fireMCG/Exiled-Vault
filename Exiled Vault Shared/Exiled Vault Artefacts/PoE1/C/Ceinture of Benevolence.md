@@ -7,5 +7,5 @@ Our god demands it."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

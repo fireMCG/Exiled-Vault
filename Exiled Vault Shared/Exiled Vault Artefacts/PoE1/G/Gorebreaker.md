@@ -6,5 +6,5 @@ But this'll soften them up.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,6 +5,6 @@ The forge is ready. Flesh is only waiting.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE2
 #Society/Karui/Tribe/Ngamahu 

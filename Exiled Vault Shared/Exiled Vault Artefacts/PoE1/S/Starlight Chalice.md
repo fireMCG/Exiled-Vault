@@ -6,5 +6,5 @@ to empower runes... and themselves.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

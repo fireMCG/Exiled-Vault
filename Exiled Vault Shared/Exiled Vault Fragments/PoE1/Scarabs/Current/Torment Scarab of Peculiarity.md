@@ -7,4 +7,4 @@ Now there's a blood-curdling wail I haven't heard before!
 ---
 ## Tags
 #League/Torment
-#Item/Scarab
+#Category/Scarab

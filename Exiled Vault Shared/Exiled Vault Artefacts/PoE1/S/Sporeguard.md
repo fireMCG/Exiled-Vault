@@ -5,5 +5,5 @@ Shrouded in seed, a conduit of contagion, yet the source of septicity remains un
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

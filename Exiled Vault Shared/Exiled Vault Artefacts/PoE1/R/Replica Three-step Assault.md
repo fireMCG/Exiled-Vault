@@ -6,5 +6,5 @@ system in the hallway functioned as expected."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

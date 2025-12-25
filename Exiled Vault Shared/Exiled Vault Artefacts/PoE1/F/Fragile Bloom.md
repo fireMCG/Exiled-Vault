@@ -6,5 +6,5 @@ and the most vulnerable.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

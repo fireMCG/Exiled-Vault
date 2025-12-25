@@ -6,5 +6,5 @@ The First of the Sky teaches us to put aside our possessions so that we may live
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

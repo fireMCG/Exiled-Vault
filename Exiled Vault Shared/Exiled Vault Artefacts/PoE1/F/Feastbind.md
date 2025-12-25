@@ -7,5 +7,5 @@ So the First Ones filled the sky with fire.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

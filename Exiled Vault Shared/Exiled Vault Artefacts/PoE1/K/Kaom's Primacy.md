@@ -6,5 +6,5 @@ leaders until the others leapt to join his cause.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

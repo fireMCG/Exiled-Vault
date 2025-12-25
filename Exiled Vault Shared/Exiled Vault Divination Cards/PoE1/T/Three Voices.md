@@ -11,5 +11,5 @@ The village elders had a curious rule: If you hear three voices scream for aid, 
 ## Tags
 #Concept/Number/Three 
 #Concept/Scream
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

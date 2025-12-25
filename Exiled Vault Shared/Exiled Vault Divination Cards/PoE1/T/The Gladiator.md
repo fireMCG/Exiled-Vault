@@ -1,8 +1,6 @@
 ## The Gladiator
-The thumb turns down
-and the crowd roars, 
-they want death 
-and the blood is yours.
+The thumb turns down and the crowd roars, 
+they want death and the blood is yours.
 ## 
 ![[The Gladiator.png]]
 
@@ -12,5 +10,8 @@ Nightmare Bascinet
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Blood 
+#Concept/Death 
+#Concept/Night/Nightmare 
 #PoE1

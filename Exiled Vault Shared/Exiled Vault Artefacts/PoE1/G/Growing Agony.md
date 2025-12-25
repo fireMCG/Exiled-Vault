@@ -8,5 +8,5 @@ And very painful.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

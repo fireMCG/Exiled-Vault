@@ -4,7 +4,7 @@ Speaker of unclean truths, Egrin of the Dark Between Stars. We curse you whose s
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

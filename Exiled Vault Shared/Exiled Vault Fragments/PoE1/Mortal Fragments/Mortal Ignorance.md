@@ -6,5 +6,5 @@ It is only the blind who can live in darkness.
 
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #PoE1 

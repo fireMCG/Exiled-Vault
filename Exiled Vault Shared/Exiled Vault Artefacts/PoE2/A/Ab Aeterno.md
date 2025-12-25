@@ -5,5 +5,5 @@ His enemy was for endurance forged. His own waned.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

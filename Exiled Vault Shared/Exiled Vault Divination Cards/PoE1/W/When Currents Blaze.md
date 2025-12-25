@@ -14,5 +14,5 @@ Corrupted
 #Concept/Element/Fire 
 #Concept/Storm 
 #Concept/Water 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

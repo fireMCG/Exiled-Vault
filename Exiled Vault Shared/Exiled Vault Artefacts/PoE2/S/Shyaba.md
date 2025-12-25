@@ -5,5 +5,5 @@ Be not deceived by the treachery of men.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

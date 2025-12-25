@@ -6,5 +6,5 @@ is to extend all the maladies that come with it.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

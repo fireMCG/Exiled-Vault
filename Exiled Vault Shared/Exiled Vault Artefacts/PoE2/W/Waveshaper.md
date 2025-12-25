@@ -2,11 +2,13 @@
 "Move in ways your enemy does not expect.
 Confuse them with elegance and grace.
 They'll never see the axe coming."
-- Rakiata, Chieftain of the Tasalio Tribe
+\- Rakiata, Chieftain of the Tasalio Tribe
 ##
 ![[Waveshaper.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/Rakiata 
 #PoE2
+#Society/Karui/Tribe/Tasalio 

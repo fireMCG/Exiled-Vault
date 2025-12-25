@@ -6,5 +6,5 @@ without the usual depravities of necromancy.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

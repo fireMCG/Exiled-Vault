@@ -9,6 +9,6 @@ All that lives is destined to serve.'
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

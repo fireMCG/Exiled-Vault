@@ -14,4 +14,4 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/D/Deidbe
 #Character/Gravicius
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

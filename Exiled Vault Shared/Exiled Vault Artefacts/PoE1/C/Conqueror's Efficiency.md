@@ -5,5 +5,5 @@ The stone may yet bleed.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

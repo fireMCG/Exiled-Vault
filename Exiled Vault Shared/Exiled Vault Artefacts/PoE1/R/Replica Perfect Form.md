@@ -1,11 +1,13 @@
 ## Replica Perfect Form
-""This is what I've been trying to tell you. This prototype
+This is what I've been trying to tell you. This prototype
 was different before. Now, it's always been this way!"
-- Researcher Graven"
+/- Researcher Graven"
 ##
 ![[Replica Perfect Form.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/HeistResearcher/Graven 
+#Concept/Enigma 
 #PoE1

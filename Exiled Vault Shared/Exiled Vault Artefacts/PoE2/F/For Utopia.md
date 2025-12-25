@@ -6,5 +6,5 @@ The Savior will rise, and mankind will be free."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -6,7 +6,7 @@
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Atziri 
 #Concept/Mirror 
 #Concept/Sin/Vanity 

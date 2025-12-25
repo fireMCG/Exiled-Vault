@@ -5,7 +5,7 @@ Maximum power fueled by science gone mad.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Concept/Madness 
 #Concept/Power 
 #Concept/Science 

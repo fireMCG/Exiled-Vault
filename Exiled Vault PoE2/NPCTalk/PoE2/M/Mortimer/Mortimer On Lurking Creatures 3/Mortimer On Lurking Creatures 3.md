@@ -29,6 +29,8 @@ Mortimer: We have to hold them back. Perhaps if we can keep them below ground...
 
 ---
 ## Tags
-#Character/Mortimer
 #Category/NPCTalk
+#Character/Mortimer
+#Concept/Spirit 
+#Event/ThirdPact 
 #Society/Lightless 

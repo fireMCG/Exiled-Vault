@@ -12,5 +12,5 @@ Corrupted
 ---
 ## Tags
 #Concept/Prison
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

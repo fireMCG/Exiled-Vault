@@ -14,5 +14,5 @@ Shaper Item
 #Concept/Body/Eye 
 #Concept/Space 
 #Concept/Stone 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

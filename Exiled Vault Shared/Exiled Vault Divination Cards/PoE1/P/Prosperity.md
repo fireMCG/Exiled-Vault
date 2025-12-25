@@ -12,5 +12,5 @@ Perandus' Gold Ring
 #Bloodline/Perandus 
 #Concept/Animal/Fish 
 #Concept/Wealth 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

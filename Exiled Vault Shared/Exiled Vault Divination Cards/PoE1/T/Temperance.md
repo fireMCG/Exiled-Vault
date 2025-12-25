@@ -16,5 +16,5 @@ Item Level: 83
 #Character/God/Sin
 #Concept/Virtue/Patience
 #Concept/Wing 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

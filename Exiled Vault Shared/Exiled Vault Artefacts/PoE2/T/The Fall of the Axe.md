@@ -7,5 +7,5 @@ your last moments stretch to eternity."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -5,5 +5,5 @@ For none of us are as cruel as all of us.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

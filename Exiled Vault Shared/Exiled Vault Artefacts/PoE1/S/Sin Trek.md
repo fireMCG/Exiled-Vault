@@ -5,5 +5,5 @@ Do not let them step on your feet. Keep them at bay.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -4,7 +4,7 @@ For your valour beyond the Gate, Sarina Titucius, we honour you with the first G
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

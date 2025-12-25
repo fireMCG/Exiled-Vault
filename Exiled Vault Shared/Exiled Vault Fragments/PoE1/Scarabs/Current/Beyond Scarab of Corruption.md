@@ -8,4 +8,4 @@ Their very flesh exudes Corruption.
 ## Tags
 #Attributes/Disabled
 #League/Beyond
-#Item/Scarab
+#Category/Scarab

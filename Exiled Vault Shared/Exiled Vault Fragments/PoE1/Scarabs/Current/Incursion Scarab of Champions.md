@@ -7,4 +7,4 @@ Only the best served in Atzoatl.
 ---
 ## Tags
 #League/Incursion 
-#Item/Scarab
+#Category/Scarab

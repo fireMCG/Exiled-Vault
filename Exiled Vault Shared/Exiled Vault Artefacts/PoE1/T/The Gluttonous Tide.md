@@ -6,7 +6,7 @@ if but for a moment... only to disgorge and do it all again...
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/EaterOfWorlds 
 #Concept/Time/Eternity 
 #Concept/Horror 

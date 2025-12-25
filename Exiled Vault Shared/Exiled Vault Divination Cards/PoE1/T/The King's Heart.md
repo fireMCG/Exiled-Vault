@@ -9,5 +9,5 @@ Kaom's Heart
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

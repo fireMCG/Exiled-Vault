@@ -6,7 +6,7 @@ and engulfs the leaking mind of Man.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/God/Apep
 #Concept/Mind 
 #Concept/Poison

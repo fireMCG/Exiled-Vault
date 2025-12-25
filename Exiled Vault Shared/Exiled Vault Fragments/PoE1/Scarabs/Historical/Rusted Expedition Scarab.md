@@ -4,7 +4,7 @@ Your people no longer walk this continent, young Revna, but the Order of the Dji
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

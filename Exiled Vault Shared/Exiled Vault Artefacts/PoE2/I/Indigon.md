@@ -6,9 +6,9 @@ the mind's limits end.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Elder 
-#Character/Shaper 
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Body/Flesh 
 #Concept/Mind 

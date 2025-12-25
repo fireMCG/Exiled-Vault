@@ -1,8 +1,6 @@
 ## The Cursed King
-The First Ones
-may be blasphemy,
-but they are
-powerful blasphemy.
+The First Ones may be blasphemy,
+but they are powerful blasphemy.
 ## 
 ![[The Cursed King.png]]
 
@@ -12,5 +10,10 @@ Rigwald's Curse
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Rigwald 
+#Concept/Eclipse/Lunar 
+#Concept/FirstOnes 
+#Concept/Moon 
+#Concept/Power 
 #PoE1

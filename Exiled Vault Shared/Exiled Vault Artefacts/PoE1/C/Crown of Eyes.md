@@ -8,5 +8,5 @@ your mind is destroyed.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

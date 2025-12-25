@@ -5,5 +5,6 @@ Horrific experiments with corrupted flesh require careful management.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/HeistResearcher/Qotra
 #PoE1

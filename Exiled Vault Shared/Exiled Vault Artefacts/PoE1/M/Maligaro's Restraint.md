@@ -7,5 +7,5 @@ May all who are worthy be improved!"
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

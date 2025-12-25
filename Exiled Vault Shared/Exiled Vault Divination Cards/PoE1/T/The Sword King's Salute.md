@@ -12,5 +12,10 @@ Daresso's Salute
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Daresso
+#Concept/Blood 
+#Concept/King 
+#Concept/Sun 
+#Concept/Virtue/Honour 
 #PoE1

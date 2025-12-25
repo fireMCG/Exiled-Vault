@@ -6,5 +6,5 @@ that sacrifices soon welcomed their death.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

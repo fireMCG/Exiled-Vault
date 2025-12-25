@@ -7,5 +7,5 @@ A crystalline, perfectly still utopia.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

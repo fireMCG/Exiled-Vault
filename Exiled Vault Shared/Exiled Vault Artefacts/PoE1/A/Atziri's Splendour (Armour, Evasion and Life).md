@@ -7,5 +7,5 @@ you have nothing to fear."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

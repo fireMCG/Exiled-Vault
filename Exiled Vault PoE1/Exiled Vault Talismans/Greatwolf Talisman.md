@@ -13,8 +13,8 @@ And the king paid for it in blood.
 #Concept/Nature/Harvest
 #Concept/Light
 #Concept/Moon
-#Character/God/Greatwolf
+#Character/FirstOne/Greatwolf
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Item/Talisman
+#Category/Talisman

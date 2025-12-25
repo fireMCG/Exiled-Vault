@@ -7,6 +7,6 @@ will be a weapon to rival the gods! It must be... it has to be...
 ---
 ## Tags
 #Character/MarcineClavus
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 

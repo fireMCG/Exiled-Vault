@@ -4,7 +4,7 @@ Madness marches in machine form. Harnessed lightning, grim faces, and cold ambit
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

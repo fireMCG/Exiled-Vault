@@ -9,5 +9,5 @@ Mao Kun
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

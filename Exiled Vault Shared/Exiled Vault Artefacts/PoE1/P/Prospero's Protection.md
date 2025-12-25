@@ -9,5 +9,5 @@ nothing can harm the Empire... or me."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -8,6 +8,6 @@ That is what we're dealing with.
 ---
 ## Tags
 #Character/Hapihapi
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Society/Karui 

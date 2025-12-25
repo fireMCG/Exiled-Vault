@@ -14,8 +14,8 @@ swung his axe at his own men, slaughtering hundreds.
 #Concept/King
 #Concept/Madness
 #Concept/Night/Nightmare 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/Karui 
-#Item/SupportGem
+#Category/SupportGem
 #Attributes/Timeline 

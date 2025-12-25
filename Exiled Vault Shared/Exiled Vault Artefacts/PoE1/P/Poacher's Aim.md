@@ -5,5 +5,5 @@ A sharp eye can be more deadly than a sharp blade.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

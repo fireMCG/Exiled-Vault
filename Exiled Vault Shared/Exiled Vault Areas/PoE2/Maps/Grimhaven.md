@@ -4,5 +4,5 @@ Avarice in the conqueror builds contempt among the conquered.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

@@ -6,5 +6,5 @@ Let the Abyss coil within.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

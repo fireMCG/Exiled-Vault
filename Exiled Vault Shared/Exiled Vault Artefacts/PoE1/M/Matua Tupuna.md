@@ -6,5 +6,5 @@ The least I can do is carry you through death.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

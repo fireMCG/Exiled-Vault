@@ -1,11 +1,12 @@
 ## Replica Bones of Ullr
 "Outpost Twelve has been abandoned. On the bright side, I expect the plague of apparitions
 to serve as ample defence for the relics we left behind."
-- Administrator Qotra
+\- Administrator Qotra
 ##
 ![[Replica Bones of Ullr.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/HeistResearcher/Qotra 
 #PoE1

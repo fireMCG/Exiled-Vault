@@ -7,5 +7,5 @@ Life... or something like it, engineered in its image.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

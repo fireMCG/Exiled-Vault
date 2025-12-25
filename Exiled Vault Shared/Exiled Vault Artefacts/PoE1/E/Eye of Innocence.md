@@ -8,5 +8,5 @@ and let black smoke sweep the Sinners away."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

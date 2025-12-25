@@ -1,11 +1,12 @@
 ## Replica Last Resort
 "An absurdly vicious weapon in the hands of our test subjects. It seems to
 channel the desperate will to live. Intriguing."
-- Researcher Olesya
+/- Researcher Olesya
 ##
 ![[Replica Last Resort.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/HeistResearcher/Olesya 
 #PoE1

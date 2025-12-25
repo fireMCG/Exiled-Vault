@@ -4,5 +4,5 @@ A travelling merchant offers wares in perilous times.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

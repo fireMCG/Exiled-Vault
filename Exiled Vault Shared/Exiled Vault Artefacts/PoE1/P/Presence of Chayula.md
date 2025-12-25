@@ -5,5 +5,5 @@ The dreamer stirs, the world trembles.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

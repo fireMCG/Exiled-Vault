@@ -11,5 +11,5 @@ Corrupted
 ---
 ## Tags
 #Concept/Power 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

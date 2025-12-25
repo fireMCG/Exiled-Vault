@@ -14,4 +14,4 @@ Poisons our children with servitude.
 #PoE1
 #Society/EternalEmpire 
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

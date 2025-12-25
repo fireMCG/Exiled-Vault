@@ -9,7 +9,7 @@ heavens. One cross word, and the sky will rain down her fury.
 #
 ---
 ## Tags
-#Character/Sione
+#Character/God/Sione
 #Concept/Crystal 
 #Concept/Desire
 #Concept/Moon 
@@ -18,7 +18,7 @@ heavens. One cross word, and the sky will rain down her fury.
 #Concept/Sky 
 #Concept/Vision
 #Character/God/Sione
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/Karui 
-#Item/SupportGem
+#Category/SupportGem

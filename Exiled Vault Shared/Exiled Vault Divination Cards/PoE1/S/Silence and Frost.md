@@ -10,5 +10,5 @@ The Pandemonius
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

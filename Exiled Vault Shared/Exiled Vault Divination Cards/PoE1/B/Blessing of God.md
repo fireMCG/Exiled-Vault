@@ -10,5 +10,9 @@ Item Level: 85
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Elreon
+#Concept/Darkness 
+#Concept/Light 
+#Concept/Within 
 #PoE1

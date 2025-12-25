@@ -6,5 +6,5 @@ that it was even edible.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

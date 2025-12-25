@@ -7,7 +7,7 @@ The Sun chases the Moon across the sky, thirsting for a momentary touch.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Concept/Time/Eternity
 #Concept/Moon
 #Concept/Sky 

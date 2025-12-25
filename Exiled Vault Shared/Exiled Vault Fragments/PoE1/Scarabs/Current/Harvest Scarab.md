@@ -7,4 +7,4 @@ Hidden routes lead to vales of shadow and light...
 ---
 ## Tags
 #League/Harvest
-#Item/Scarab
+#Category/Scarab

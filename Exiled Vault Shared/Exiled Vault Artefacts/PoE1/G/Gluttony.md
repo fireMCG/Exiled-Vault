@@ -6,5 +6,5 @@ became a desire to learn...
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

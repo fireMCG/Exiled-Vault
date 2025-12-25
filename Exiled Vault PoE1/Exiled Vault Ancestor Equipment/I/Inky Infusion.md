@@ -7,7 +7,7 @@ They slip through shadows of their own making.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Tasalio 

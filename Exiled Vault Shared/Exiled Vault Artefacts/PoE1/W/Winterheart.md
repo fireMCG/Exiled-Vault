@@ -6,5 +6,5 @@ enjoy a special kind of madness.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

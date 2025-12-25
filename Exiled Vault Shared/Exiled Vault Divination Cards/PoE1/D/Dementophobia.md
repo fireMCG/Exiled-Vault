@@ -11,5 +11,12 @@ were none other than my own.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Demon/Kosis 
+#Character/Demon/Omniphobia
+#Character/God/Tangmazu 
+#Concept/Abyss 
+#Concept/Demon 
+#Concept/Whisper 
+#League/Delirium 
 #PoE1

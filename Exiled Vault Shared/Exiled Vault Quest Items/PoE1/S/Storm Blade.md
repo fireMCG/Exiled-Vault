@@ -13,6 +13,6 @@ stratosphere divulged unto her eldritch secrets of its tumultuous past.
 #Concept/Vice/Pride
 #Concept/Sky
 #Character/God/Garukhan 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Society/Maraketh 

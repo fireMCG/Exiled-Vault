@@ -5,5 +5,5 @@ Yes... but what if?
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

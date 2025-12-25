@@ -6,5 +6,5 @@ and night will be eternally banished.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -11,6 +11,9 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Doryani 
+#Concept/Body/Eye 
+#Concept/Virtue/Gem 
 #PoE1
 #Society/VaalEmpire 

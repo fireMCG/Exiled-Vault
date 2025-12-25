@@ -5,5 +5,5 @@ The light that reveals is the glare that blinds.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

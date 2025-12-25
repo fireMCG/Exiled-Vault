@@ -6,5 +6,5 @@ but merely a long sleep made eternal.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

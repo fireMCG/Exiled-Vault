@@ -4,5 +4,5 @@ Life grows strong in this realm of plenty.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

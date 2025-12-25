@@ -7,6 +7,6 @@ Ancient facets remain warm to the touch.
 ## Tags
 #Concept/Crystal 
 #Concept/Soul 
-#Item/QuestItem
+#Category/QuestItem
 #PoE2
 #Society/VaalEmpire 

@@ -7,5 +7,5 @@ Explodes from its cage.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -7,6 +7,6 @@ Somewhere, a distant scream echoes.
 ## Tags
 #Concept/Crystal 
 #Concept/Soul 
-#Item/QuestItem
+#Category/QuestItem
 #PoE2
 #Society/VaalEmpire 

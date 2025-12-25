@@ -7,7 +7,7 @@ I must have it if I am to return my family to its rightful place.
 ---
 ## Tags
 #Character/Geonor
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/Ezomyte 

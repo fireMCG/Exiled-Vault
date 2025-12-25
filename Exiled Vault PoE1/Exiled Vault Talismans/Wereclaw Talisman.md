@@ -15,4 +15,4 @@ and caper with untamed glee.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

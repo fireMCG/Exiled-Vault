@@ -9,5 +9,10 @@ Seraphim's Armour
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Ash 
+#Concept/Balance/Chaos 
+#Concept/Death 
+#Concept/Religion/CelestialHierarchy
+#Concept/Sky 
 #PoE1

@@ -5,5 +5,5 @@ We are as much shaped by what we do as what is done to us.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

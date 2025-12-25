@@ -9,5 +9,5 @@ still. It need only be reawakened.
 #Bloodline/Titan 
 #Character/MoltenOne
 #Concept/Crystal 
-#Item/QuestItem
+#Category/QuestItem
 #PoE2

@@ -5,5 +5,5 @@ On judgement day, only those who are worthy will survive.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

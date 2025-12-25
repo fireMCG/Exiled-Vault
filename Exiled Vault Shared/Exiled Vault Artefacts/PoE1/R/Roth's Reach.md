@@ -7,5 +7,5 @@ I'm more free than I've ever been."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

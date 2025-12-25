@@ -1,6 +1,5 @@
 ## Damnation
-Blood and death lead
-the way to hell.
+Blood and death lead the way to hell.
 ## 
 ![[Damnation.png]]
 
@@ -11,5 +10,9 @@ Item Level: 83
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Blood 
+#Concept/Damnation 
+#Concept/Death 
+#Concept/Religion/Hell 
 #PoE1

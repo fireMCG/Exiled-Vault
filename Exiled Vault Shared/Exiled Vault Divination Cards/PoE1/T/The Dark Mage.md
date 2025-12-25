@@ -1,8 +1,6 @@
 ## The Dark Mage
-With staff in hand
-and wrath in heart,
-your soul and corpse
-shall surely part.
+With staff in hand and wrath in heart,
+your soul and corpse shall surely part.
 ## 
 ![[The Dark Mage.png]]
 
@@ -13,5 +11,11 @@ Item Level: 55
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Body/Flesh
+#Concept/Body/Heart 
+#Concept/Darkness 
+#Concept/Eclipse 
+#Concept/Emotion/Wrath 
+#Concept/Soul 
 #PoE1

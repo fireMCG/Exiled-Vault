@@ -8,5 +8,5 @@ and Kitava swallowed the entire lake, fish and all, with a single gulp.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

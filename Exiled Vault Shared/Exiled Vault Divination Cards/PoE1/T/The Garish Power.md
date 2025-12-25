@@ -9,5 +9,6 @@ Jewel
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Maligaro 
 #PoE1

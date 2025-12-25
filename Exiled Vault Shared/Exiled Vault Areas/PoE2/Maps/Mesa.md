@@ -4,5 +4,5 @@ Bleak heights overlook a devastated land.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

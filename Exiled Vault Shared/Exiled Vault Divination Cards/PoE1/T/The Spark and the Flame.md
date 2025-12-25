@@ -9,5 +9,10 @@ Berek's Respite
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Unknown/Berek 
+#Concept/Element/Fire 
+#Concept/Element/Lightning 
+#Concept/Sky 
+#Concept/Taming 
 #PoE1

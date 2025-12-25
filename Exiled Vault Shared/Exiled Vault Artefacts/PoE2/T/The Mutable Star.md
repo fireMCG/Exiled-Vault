@@ -6,5 +6,5 @@ the Twilight Order endured in secret.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

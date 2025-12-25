@@ -4,7 +4,7 @@ We are all equally fools for our childish notions. That dread force Decay cannot
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

@@ -15,5 +15,5 @@ Corrupted
 #Concept/Time/Dawn 
 #Concept/Hope 
 #Concept/Light 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

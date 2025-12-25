@@ -8,6 +8,6 @@ abominations others believe us to be. The word 'human' may have a broader meanin
 ## Tags
 #Character/Nishem
 #Concept/Humanoid 
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 

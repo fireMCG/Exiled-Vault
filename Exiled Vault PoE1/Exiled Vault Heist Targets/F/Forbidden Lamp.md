@@ -10,7 +10,7 @@ is true, but I cannot allow one of our artifacts to fall into Kondor's hands.
 #Character/Bazira
 #Concept/Djinn
 #Concept/Water
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/Maraketh 

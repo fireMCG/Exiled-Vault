@@ -7,5 +7,5 @@ to lead his Karui to Wraeclast.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

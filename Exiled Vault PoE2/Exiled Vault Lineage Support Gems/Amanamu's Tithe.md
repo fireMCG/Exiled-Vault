@@ -15,9 +15,9 @@ Under a Lich Lord, not even death is an escape.
 #Concept/Body/Flesh
 #Concept/Lich
 #Concept/Soul 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/Lightless
 #Society/Lightless
-#Item/SupportGem
+#Category/SupportGem
 #Attributes/Unreleased

@@ -6,5 +6,5 @@ A trial is only as incorruptible as its judge.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab
 #Society/VaalEmpire 

@@ -5,5 +5,5 @@ The Blackblooded seeks dominion over darkness itself.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

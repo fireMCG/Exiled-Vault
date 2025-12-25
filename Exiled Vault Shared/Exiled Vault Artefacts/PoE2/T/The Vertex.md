@@ -6,6 +6,6 @@
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2
 #Society/VaalEmpire 

@@ -10,5 +10,11 @@ Elder Item
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Body/Bone 
+#Concept/Darkness 
+#Concept/Family/Mother
+#Concept/Necromancy 
+#Concept/Night/Dream 
+#Concept/Undead 
 #PoE1

@@ -4,5 +4,5 @@ Spirits gather where the world falls away.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

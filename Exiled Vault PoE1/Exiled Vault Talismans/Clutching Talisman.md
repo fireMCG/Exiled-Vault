@@ -14,4 +14,4 @@ And let the dullard speak of bravery when the First Ones come for him.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

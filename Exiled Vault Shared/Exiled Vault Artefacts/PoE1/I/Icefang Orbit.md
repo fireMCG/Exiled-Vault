@@ -5,5 +5,5 @@ Those members of the Brotherhood who employ the venom of Trarthan ice snakes mus
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

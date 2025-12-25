@@ -6,5 +6,5 @@ when borne on wings of divine providence.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

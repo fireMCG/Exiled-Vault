@@ -5,5 +5,5 @@ The soul cannot flourish in a doubting mind.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

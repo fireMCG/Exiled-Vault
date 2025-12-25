@@ -5,9 +5,9 @@ There can be no defence against the celestial siblings entropy and time.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Elder 
-#Character/Shaper 
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Space/Entropy
 #Concept/Time/Eternity 

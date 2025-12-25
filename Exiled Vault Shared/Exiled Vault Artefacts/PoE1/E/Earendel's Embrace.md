@@ -8,5 +8,5 @@ some will go up, some down, filled with misery.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

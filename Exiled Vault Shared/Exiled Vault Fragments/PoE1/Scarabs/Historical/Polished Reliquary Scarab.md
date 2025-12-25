@@ -4,7 +4,7 @@ As the best of our lorekeepers, honoured Sumei, it is now your task to investiga
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

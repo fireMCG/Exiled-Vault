@@ -7,7 +7,7 @@ Her courage was contagious.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Concept/Virtue/Courage
 #Concept/Queen
 #League/Ancestor

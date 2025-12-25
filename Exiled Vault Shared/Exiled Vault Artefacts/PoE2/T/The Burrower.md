@@ -8,5 +8,5 @@ It lies in our minds
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

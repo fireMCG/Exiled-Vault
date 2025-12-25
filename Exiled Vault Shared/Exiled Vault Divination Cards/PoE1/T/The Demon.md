@@ -11,5 +11,8 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Demon 
+#Concept/Whisper 
+#Concept/Within 
 #PoE1

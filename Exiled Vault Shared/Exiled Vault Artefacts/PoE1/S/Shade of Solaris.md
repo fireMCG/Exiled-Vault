@@ -5,5 +5,5 @@ Without light, there can be no shadow.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

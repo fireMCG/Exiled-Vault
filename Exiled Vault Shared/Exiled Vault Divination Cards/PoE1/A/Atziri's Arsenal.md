@@ -10,6 +10,6 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1
 #Society/VaalEmpire 

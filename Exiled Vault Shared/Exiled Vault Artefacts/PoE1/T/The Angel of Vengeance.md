@@ -5,5 +5,5 @@ She stands grim, wreathed in flame, awaiting the crusader's call.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

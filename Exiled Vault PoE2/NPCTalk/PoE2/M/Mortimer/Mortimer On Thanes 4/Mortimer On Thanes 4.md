@@ -50,6 +50,6 @@ Mortimer: Those relationships were vital! Built on the very blood and bones of t
 
 ---
 ## Tags
+#Category/NPCTalk 
 #Character/Mortimer
-#Category/NPCTalk
-#Society/Lightless 
+#Society/Ezomyte 

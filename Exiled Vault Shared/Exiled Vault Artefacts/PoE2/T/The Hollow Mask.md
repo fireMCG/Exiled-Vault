@@ -5,5 +5,5 @@ The roots take hold within...
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

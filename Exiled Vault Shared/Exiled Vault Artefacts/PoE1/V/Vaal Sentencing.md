@@ -6,6 +6,6 @@ Atziri's empire ran on blood, but the blood was running dry.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

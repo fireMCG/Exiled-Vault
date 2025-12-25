@@ -6,9 +6,9 @@ can only create more nothingness.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Elder 
-#Character/Shaper 
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Void 
 #Concept/Decay

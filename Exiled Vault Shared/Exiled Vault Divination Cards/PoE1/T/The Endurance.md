@@ -12,5 +12,8 @@ Vivid Crimson Jewel
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Blood 
+#Concept/Body/Flesh 
+#Concept/Colour/Red 
 #PoE1

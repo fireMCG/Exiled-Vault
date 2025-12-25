@@ -6,5 +6,5 @@ and drown the undeserving beneath our might.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

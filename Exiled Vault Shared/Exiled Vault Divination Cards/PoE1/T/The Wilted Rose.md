@@ -14,5 +14,5 @@ Corrupted
 #Concept/Hope 
 #Concept/Nature/Flower
 #Concept/Within 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

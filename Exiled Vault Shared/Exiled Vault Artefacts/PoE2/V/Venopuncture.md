@@ -6,5 +6,6 @@ but few have the resolve to attempt it.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Animal/Snake 
 #PoE2

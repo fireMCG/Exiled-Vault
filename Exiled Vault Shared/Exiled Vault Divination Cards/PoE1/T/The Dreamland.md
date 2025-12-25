@@ -9,5 +9,7 @@ Poorjoy's Asylum
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Night/Dream 
+#Concept/Night/Dreamer 
 #PoE1

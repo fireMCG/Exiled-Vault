@@ -7,7 +7,7 @@ Though you might not see it, the forest is always growing.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Tawhoa 

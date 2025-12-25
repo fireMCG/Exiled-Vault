@@ -6,5 +6,5 @@ harms all those we hold dear.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

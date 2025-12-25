@@ -7,5 +7,5 @@ And a tenacious sense of justice.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

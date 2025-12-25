@@ -5,5 +5,5 @@ Hurt as you would be hurt.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ Strike true, strike hard, and leave no survivors to retaliate.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

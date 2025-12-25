@@ -5,5 +5,5 @@ The malice in her gaze froze blood and shattered bone.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

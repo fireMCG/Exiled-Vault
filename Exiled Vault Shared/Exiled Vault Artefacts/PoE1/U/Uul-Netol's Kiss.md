@@ -6,5 +6,5 @@ And beg to return to her womb.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

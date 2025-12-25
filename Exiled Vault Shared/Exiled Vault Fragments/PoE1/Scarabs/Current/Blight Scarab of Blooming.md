@@ -7,4 +7,4 @@ Once a century, the Blight spills forth...
 ---
 ## Tags
 #League/Blight
-#Item/Scarab
+#Category/Scarab

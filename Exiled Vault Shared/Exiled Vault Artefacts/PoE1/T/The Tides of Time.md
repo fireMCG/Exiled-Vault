@@ -6,8 +6,8 @@ tangible to those who watch and wait.
 
 ---
 ## Tags
-#Item/Artefact
-#Character/Shaper 
+#Category/Artefact
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius
 #Concept/Time 
 #PoE1

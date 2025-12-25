@@ -6,5 +6,5 @@ However, when a trained guard tried it..."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

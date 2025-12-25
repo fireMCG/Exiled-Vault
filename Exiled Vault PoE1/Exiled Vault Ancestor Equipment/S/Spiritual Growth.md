@@ -7,7 +7,7 @@ That which is wounded may become whole again in time.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Concept/Spirit
 #League/Ancestor
 #PoE1 

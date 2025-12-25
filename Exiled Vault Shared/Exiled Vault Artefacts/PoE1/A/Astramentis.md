@@ -8,7 +8,7 @@ And into darkness send it.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Concept/Darkness 
 #Concept/Fracture 
 #Concept/Emotion/Hate 

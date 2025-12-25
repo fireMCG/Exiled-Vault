@@ -7,4 +7,4 @@ Reality weakens with each new wound.
 ---
 ## Tags
 #League/Breach
-#Item/Scarab
+#Category/Scarab

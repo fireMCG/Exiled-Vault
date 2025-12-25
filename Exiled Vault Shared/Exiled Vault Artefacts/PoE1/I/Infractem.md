@@ -6,5 +6,5 @@ Execute us steadily, notch away at our despair.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -12,4 +12,4 @@ You will complete a Master's mission.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

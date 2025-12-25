@@ -9,7 +9,7 @@ Through transcendence, bend reality to your will.
 ---
 ## Tags
 #PoE1 
-#Character/Shaper 
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius
 #Concept/Light 
 #Concept/Mind 

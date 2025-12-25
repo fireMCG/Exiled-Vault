@@ -10,5 +10,8 @@ Quality: +20%
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Horror 
+#Concept/Mirror 
+#Concept/Moon 
 #PoE1

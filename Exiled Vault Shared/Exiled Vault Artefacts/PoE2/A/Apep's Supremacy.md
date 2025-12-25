@@ -5,5 +5,5 @@ Give him your body, and your burdens will follow.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

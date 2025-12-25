@@ -4,5 +4,5 @@ The barges stopped, and the atrocity began.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

@@ -5,5 +5,5 @@ Even the loneliest of souls can aid a friend in times of darkness.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

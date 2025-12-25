@@ -4,5 +4,5 @@ Aeons of wear have rotted steel to its core.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

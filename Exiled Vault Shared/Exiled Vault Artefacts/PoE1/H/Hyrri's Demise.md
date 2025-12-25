@@ -6,5 +6,5 @@ but it came at the cost of respect.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ All the world is my home.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

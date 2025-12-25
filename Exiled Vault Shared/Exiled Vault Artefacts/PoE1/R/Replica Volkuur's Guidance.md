@@ -6,5 +6,6 @@ are due to some unknown polarity we have yet to discover."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Mirror 
 #PoE1

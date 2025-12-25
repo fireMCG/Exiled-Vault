@@ -5,5 +5,5 @@ Life and death ooze from the same sap.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

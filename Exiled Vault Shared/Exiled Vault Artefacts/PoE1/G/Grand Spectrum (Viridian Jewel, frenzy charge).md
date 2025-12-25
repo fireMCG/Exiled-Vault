@@ -5,5 +5,5 @@ A spirit that never rests.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ Stolen power is still power.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

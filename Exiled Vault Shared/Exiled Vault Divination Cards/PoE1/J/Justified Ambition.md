@@ -12,7 +12,7 @@ Synthesis Map
 ## Tags
 #Character/HighTemplar/Venarius 
 #Concept/Virtue/Ambition 
-#Item/DivinationCard
+#Category/DivinationCard
 #League/Synthesis 
 #Location/Wraeclast 
 #PoE1

@@ -8,5 +8,5 @@ And an eerie silence purred.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

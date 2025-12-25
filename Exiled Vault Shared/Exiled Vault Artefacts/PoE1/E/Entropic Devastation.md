@@ -6,8 +6,8 @@ by the shards of obliterated worlds.
 
 ---
 ## Tags
-#Item/Artefact
-#Character/Shaper 
+#Category/Artefact
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius
 #Concept/Fracture/Shard
 #Concept/World 

@@ -11,7 +11,7 @@ figure as the Azmeri and Eternal goddess Lunaris. The Seal may prove that.
 #Character/Sekhema/Lundara 
 #Concept/Sekhema 
 #Character/God/Lunaris
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/Azmeri 

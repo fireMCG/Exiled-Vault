@@ -12,5 +12,9 @@ Astral Projector
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Body/Eye 
+#Concept/Mind 
+#Concept/Soul 
+#Concept/World 
 #PoE1

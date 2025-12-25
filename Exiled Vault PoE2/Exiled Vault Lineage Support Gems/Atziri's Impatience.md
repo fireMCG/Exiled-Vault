@@ -10,5 +10,5 @@ erasing their life. So, no matter the cost... none kept her waiting."
 ---
 ## Tags
 #Character/Atziri 
-#Item/Lineage 
+#Category/Lineage 
 #Society/VaalEmpire 

@@ -6,5 +6,5 @@ The visions it shows the wearer... are beyond mortal endurance..."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

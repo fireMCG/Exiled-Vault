@@ -5,5 +5,5 @@ The darker the eye, the more diligent the watched.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -6,5 +6,5 @@ The talented know who to learn from.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -10,7 +10,7 @@ She nodded, and began relearning the way of the wilds.
 ---
 ## Tags
 #Character/Einhar
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/Ezomyte 
-#Item/SupportGem
+#Category/SupportGem

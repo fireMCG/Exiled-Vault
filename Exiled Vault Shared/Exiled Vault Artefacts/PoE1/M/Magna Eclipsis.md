@@ -8,5 +8,5 @@ Solaris rose to meet her, feeling her pull.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

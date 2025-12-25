@@ -6,5 +6,5 @@ As succulent as blood, as sweet as power.
 ---
 ## Tags
 #Character/Emperor/ChitusPerandus
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

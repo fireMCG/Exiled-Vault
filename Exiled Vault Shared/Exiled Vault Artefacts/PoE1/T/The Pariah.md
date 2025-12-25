@@ -6,5 +6,5 @@ soon finds he has none.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

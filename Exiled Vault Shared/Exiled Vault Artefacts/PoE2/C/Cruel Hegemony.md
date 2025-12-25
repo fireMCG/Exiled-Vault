@@ -7,5 +7,5 @@ the press of the boot.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

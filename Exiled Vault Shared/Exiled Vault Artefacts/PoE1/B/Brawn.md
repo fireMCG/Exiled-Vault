@@ -7,5 +7,5 @@ Then tell me which plan pulls my axe from your ribs."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

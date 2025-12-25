@@ -9,5 +9,5 @@ The Poet's Pen
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

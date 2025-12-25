@@ -11,5 +11,5 @@ Sunlight is belief. Sunlight is life."
 #Concept/Family/Mother
 #Concept/Religion
 #Concept/Sun
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

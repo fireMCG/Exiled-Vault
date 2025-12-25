@@ -6,9 +6,9 @@ We must go to the Trial of the Sekhemas!
 
 ---
 ## Tags
-#Character/Balbala
+#Character/Djinn/Balbala
 #Concept/Barya 
-#Item/QuestItem
+#Category/QuestItem
 #PoE2
 #Society/Maraketh 
 #Trial/Sekhema

@@ -7,5 +7,5 @@ Come, let me show you.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

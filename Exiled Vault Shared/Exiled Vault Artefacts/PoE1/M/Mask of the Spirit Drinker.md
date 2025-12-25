@@ -6,5 +6,5 @@ Taint it not with the occult.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

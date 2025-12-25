@@ -9,5 +9,9 @@ The Whispering Ice
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Animal/Rabbit
+#Concept/Element/Ice 
+#Concept/Storm 
+#Concept/Whisper 
 #PoE1

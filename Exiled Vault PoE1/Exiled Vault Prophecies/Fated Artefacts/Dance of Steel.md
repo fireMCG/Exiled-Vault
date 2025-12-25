@@ -15,4 +15,4 @@ Upgraded [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/T/The Da
 #Concept/Soul 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

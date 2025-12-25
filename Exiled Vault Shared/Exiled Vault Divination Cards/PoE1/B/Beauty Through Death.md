@@ -10,6 +10,11 @@ Atziri's Reflection
 
 ---
 ## Tags
-#Item/DivinationCard
+#Character/Atziri 
+#Category/DivinationCard
+#Concept/Death 
+#Concept/Demon 
+#Concept/Sin/Vanity
+#Concept/Mirror 
 #PoE1
 #Society/VaalEmpire 

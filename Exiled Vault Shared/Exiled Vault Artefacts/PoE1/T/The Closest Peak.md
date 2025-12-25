@@ -6,5 +6,5 @@ and watched with wonder as the land undulated, crashed and twisted."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

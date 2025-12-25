@@ -5,8 +5,8 @@ The end is written into the beginning.
 
 ---
 ## Tags
-#Item/Artefact
-#Character/Shaper 
+#Category/Artefact
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius
 #Concept/Time/Beginning 
 #Concept/Time/Cycle 

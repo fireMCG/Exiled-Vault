@@ -8,5 +8,5 @@ there can be no escape.
 ## Tags
 #Character/Eldritch/BlackStar
 #Concept/Cleansing 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

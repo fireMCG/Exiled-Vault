@@ -6,5 +6,7 @@ but when we failed to make any progress on resurrection, he continued his search
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/RikerMaloney 
+#Concept/Rebirth 
 #PoE1

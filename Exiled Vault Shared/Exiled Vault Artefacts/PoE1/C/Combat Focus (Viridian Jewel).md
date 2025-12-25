@@ -9,5 +9,5 @@ But when the arena gate lifted, he thought only of the fight.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

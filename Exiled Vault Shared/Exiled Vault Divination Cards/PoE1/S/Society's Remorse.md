@@ -12,5 +12,5 @@ The world is already beautiful, there's no need to dream.
 ## Tags
 #Concept/Night/Dream 
 #Concept/Soul 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

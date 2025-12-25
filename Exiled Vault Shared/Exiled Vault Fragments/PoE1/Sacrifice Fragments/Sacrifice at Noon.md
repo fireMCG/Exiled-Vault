@@ -6,5 +6,5 @@ The light without pales in comparison to the light within.
 
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #PoE1 

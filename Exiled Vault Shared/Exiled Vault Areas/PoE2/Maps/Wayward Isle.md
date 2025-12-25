@@ -4,5 +4,5 @@ The bones of marooned wanderers assemble here.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

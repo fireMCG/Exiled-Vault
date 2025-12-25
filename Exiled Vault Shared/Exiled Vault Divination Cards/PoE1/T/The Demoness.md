@@ -9,5 +9,8 @@ Death's Hand
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Death 
+#Concept/Demon 
+#Exile/PoE1/Ranger
 #PoE1

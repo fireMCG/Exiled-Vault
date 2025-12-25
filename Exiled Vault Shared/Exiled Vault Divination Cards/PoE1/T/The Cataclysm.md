@@ -14,5 +14,5 @@ Corrupted
 #Concept/Element/Fire 
 #Concept/Element/Lightning 
 #Concept/Thaumaturgy 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

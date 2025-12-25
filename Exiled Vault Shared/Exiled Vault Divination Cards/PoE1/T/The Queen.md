@@ -10,6 +10,11 @@ Atziri's Acuity
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Atziri
+#Concept/Nature/Earth 
+#Concept/Power 
+#Concept/Queen 
+#Concept/World 
 #PoE1
 #Society/VaalEmpire 

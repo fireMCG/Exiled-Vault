@@ -9,5 +9,7 @@ Offering to the Goddess
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Goddess 
+#Concept/Religion/Devotion 
 #PoE1

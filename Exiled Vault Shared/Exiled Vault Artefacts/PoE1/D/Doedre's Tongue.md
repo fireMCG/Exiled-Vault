@@ -6,5 +6,5 @@ In the new void, a malevolent power emerged.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -7,5 +7,5 @@ until she was not what she saw.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

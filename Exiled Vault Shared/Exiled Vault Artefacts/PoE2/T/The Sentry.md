@@ -6,5 +6,5 @@ Erian was asleep at his post.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

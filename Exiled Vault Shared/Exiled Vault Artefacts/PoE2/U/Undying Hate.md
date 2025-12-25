@@ -6,5 +6,8 @@ but that desperation made them monstrous.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Emotion/Hate 
+#League/Abyss 
 #PoE2
+#Society/Lightless 

@@ -6,5 +6,5 @@ driven by the passions and tragedies of those who seek.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -17,5 +17,5 @@ Ambitious, and unfinished.
 #Concept/Pale
 #Concept/Fracture 
 #Concept/Sun 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

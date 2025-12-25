@@ -6,5 +6,5 @@ Stinger raised, dodge or die.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

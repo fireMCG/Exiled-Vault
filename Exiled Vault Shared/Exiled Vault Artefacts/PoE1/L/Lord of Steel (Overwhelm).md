@@ -7,5 +7,5 @@ But when it breaks, its service will continue.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

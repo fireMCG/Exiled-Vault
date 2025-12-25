@@ -7,7 +7,7 @@ does not like to share its master's attention
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Concept/Master 
 #Concept/Spirit 
 #PoE1

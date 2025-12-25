@@ -7,5 +7,5 @@ mountains for lands unknown." - Lycia, the Heretic
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

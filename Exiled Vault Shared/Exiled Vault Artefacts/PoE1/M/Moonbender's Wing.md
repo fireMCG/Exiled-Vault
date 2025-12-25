@@ -6,5 +6,5 @@ the wing moves faster than the eye.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

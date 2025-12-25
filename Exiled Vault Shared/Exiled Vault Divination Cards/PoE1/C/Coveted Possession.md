@@ -9,5 +9,7 @@ A taste of power brings a hunger for more.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Hunger 
+#Concept/Power 
 #PoE1

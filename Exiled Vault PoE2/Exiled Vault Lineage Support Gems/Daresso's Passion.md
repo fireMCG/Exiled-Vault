@@ -14,7 +14,7 @@ fight became about something much greater... love."
 #Concept/Death 
 #Concept/Body/Eye 
 #Concept/Emotion/Love 
-#Item/Lineage
+#Category/Lineage
 #PoE2
-#Item/SupportGem
+#Category/SupportGem
 #Attributes/Timeline 

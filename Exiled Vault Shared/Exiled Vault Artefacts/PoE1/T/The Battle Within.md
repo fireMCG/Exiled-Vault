@@ -5,5 +5,5 @@ The struggle for balance never ends.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

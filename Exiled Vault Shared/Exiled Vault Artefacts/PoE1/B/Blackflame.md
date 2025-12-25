@@ -6,7 +6,7 @@ by whose light night is borne.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Concept/Death 
 #Concept/Element/Fire 
 #Concept/Light 

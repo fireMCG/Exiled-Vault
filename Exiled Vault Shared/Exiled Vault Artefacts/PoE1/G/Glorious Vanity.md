@@ -5,5 +5,5 @@ They believed themselves the pinnacle of civilisation, but that height toppled t
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

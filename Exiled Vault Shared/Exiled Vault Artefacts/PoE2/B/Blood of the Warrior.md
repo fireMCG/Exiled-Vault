@@ -7,5 +7,5 @@ will more than survive the coming battle... you will thrive."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

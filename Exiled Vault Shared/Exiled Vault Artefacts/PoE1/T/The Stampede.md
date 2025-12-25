@@ -5,5 +5,5 @@ Relentlessness. Nothing more, nothing less.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -7,5 +7,5 @@ We must remember our place, and play to our strengths.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

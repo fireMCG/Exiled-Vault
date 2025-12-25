@@ -16,4 +16,4 @@ Upgrades [[Cameria's Maul]] to [[Cameria's Avarice]] upon completion.
 #Concept/Season/Winter 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

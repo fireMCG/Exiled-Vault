@@ -6,5 +6,5 @@ Many a confession was found in the bowels of Axiom.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

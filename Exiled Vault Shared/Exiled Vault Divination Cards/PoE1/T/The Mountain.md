@@ -12,5 +12,10 @@ Jewel of Potency
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Beauty
+#Concept/Darkness 
+#Concept/Nature/Mountain 
+#Concept/Perfection 
+#Concept/Stone 
 #PoE1

@@ -6,5 +6,5 @@ They stood against the end.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

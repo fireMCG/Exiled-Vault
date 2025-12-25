@@ -10,5 +10,5 @@ she found peace at last.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

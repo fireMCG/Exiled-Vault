@@ -5,5 +5,5 @@ A single taste leaves you wanting more.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

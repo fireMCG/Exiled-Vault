@@ -6,5 +6,5 @@ one rule: never let them see you flinch.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

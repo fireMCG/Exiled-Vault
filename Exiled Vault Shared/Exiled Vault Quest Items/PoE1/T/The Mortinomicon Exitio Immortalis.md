@@ -14,6 +14,6 @@ deus meus non sit tam divinus quam ipse petit...
 #Concept/Life/Immortality
 #Concept/Soul 
 #Character/God/Innocence
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Attributes/Timeline 

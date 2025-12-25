@@ -9,5 +9,5 @@ Trying to bring your vision to life is enough to drive you mad.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

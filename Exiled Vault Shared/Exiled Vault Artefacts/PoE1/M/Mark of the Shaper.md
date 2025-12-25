@@ -5,8 +5,8 @@ Let madness take control.
 
 ---
 ## Tags
-#Item/Artefact
-#Character/Shaper 
+#Category/Artefact
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius
 #Concept/Madness 
 #PoE1

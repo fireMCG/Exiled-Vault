@@ -1,10 +1,11 @@
 ## Replica Paradoxica
 "This is one riddle I can't solve."
-- Researcher Graven
+/- Researcher Graven
 ##
 ![[Replica Paradoxica.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/HeistResearcher/Graven 
 #PoE1

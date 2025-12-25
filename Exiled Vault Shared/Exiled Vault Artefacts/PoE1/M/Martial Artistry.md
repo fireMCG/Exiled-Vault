@@ -5,5 +5,5 @@ A gentle hand rarely leaves a mark on the world.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ Bring mystery to life. Again and again.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

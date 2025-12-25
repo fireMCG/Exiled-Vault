@@ -1,6 +1,6 @@
 ## Deadly Joy
 "Be fast. That is all that matters."
-- Rita of the Asylum
+\- Rita of the Asylum
 ## 
 ![[Deadly Joy.png]]
 
@@ -12,5 +12,5 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -5,5 +5,5 @@ Clutched tight, even in death.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE2

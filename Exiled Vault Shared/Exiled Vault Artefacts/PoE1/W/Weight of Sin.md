@@ -5,5 +5,5 @@ Ill will is the greatest of burdens.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

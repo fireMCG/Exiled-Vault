@@ -5,5 +5,5 @@ Power is a matter of perspective.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

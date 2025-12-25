@@ -6,5 +6,5 @@ Make those lands your own, and the mistake becomes theirs.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -6,13 +6,12 @@ enjoy eternal life. If that power holds in his ancient ichor, I hope that it can
 
 ---
 ## Tags
+#Category/HeistTarget
 #Character/God/Innocence 
 #Character/RingClient/MidnightTinkerer
 #Concept/Blood 
 #Concept/Life/Immortality 
 #Concept/Religion 
 #Concept/Resurrection 
-#Character/God/Innocence 
-#Item/HeistTarget
 #League/Heist
 #PoE1 

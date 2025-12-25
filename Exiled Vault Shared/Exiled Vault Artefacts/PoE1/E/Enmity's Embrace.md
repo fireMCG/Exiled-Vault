@@ -8,5 +8,5 @@ They know.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

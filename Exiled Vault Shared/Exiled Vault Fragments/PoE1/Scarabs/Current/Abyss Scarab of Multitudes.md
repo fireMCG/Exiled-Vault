@@ -8,4 +8,4 @@ They ceaselessly sprout from the murderous earth.
 ## Tags
 #Concept/Nature/Earth
 #League/Abyss 
-#Item/Scarab
+#Category/Scarab

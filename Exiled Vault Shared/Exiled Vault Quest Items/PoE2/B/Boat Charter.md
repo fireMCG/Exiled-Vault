@@ -5,5 +5,5 @@ Bound by ink, upheld by trust.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE2

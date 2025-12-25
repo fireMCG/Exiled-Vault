@@ -6,5 +6,5 @@ The Sin of one became the Sin of many.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

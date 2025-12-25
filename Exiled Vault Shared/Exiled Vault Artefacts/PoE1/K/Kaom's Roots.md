@@ -5,5 +5,5 @@ Don't flinch. It's a waste of good hitting time.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

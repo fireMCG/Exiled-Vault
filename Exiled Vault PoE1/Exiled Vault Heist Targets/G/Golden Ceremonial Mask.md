@@ -5,7 +5,7 @@ The last shimmering face witnessed by many a sacrifice.
 
 ---
 ## Tags
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/VaalEmpire 

@@ -8,5 +8,5 @@ From Kaom's skulking horde.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

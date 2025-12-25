@@ -6,5 +6,5 @@ It is my gift to humanity.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

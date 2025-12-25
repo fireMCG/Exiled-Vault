@@ -7,5 +7,5 @@ It knows only destruction."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

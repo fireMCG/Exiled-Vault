@@ -15,7 +15,7 @@ but by the Molten One's will, the fires would rage again.
 #Concept/Alliance
 #Concept/Element/Fire 
 #Concept/Nature/Volcano 
-#Item/Lineage
+#Category/Lineage
 #PoE2
-#Item/SupportGem
+#Category/SupportGem
 #Attributes/Timeline 

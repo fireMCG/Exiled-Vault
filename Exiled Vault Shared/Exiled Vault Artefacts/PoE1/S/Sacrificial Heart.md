@@ -5,5 +5,5 @@ The seed of life, saved and savoured.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

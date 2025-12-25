@@ -5,5 +5,5 @@ Torture something enough, and you just might force a reaction.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

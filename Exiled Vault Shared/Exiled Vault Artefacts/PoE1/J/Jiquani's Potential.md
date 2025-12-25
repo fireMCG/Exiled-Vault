@@ -7,5 +7,5 @@ must, let us tear apart the very foundations of reality!"
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

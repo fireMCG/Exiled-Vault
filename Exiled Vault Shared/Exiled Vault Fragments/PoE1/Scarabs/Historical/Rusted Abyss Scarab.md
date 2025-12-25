@@ -4,7 +4,7 @@ As the hordes of bone and blood and foul magic surge across the Vastiri Plains, 
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

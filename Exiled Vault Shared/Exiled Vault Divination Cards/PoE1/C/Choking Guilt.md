@@ -9,5 +9,7 @@ Stranglegasp
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Darkness 
+#Concept/Emotion/Guilt
 #PoE1

@@ -6,5 +6,5 @@ Let the righteous become the Hand of God.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

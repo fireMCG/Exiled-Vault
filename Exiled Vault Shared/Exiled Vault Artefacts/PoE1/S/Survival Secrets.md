@@ -5,5 +5,5 @@ Nature provides its own solutions.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

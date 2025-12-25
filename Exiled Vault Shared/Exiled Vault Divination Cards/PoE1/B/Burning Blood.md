@@ -13,5 +13,8 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Breachlord/Xoph 
+#Concept/Blood 
+#Concept/Mirror 
 #PoE1

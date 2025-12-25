@@ -11,6 +11,6 @@ poison the blood of all Karui."
 #Character/God/Tukohama 
 #Concept/Conquest
 #Concept/Body/Eye
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Society/Karui 

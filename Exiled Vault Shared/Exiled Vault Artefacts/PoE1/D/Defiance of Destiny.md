@@ -6,5 +6,5 @@ Astonished, the raiding warlord ordered the man's family spared.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

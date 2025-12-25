@@ -6,6 +6,6 @@ The last few drops from veins dry as sand.
 ---
 ## Tags
 #Concept/Essence
-#Item/QuestItem
+#Category/QuestItem
 #PoE2
 #Society/Maraketh 

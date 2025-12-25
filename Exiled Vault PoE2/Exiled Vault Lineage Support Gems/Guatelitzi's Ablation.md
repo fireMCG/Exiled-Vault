@@ -10,5 +10,5 @@ recognised his inclinations, and gave him a higher calling.
 ---
 ## Tags
 #Character/Guatelitzi
-#Item/Lineage 
+#Category/Lineage 
 #Society/VaalEmpire/Architects 

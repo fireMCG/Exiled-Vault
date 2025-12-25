@@ -5,5 +5,5 @@ Kaom was not known for his restraint.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

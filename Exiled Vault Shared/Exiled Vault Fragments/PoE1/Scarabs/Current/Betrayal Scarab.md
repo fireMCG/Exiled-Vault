@@ -7,5 +7,5 @@ The Syndicate must pay for what they have done.
 ---
 ## Tags
 #League/Betrayal
-#Item/Scarab
+#Category/Scarab
 #Society/ImmortalSyndicate

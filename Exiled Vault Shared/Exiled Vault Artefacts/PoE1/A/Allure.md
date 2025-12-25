@@ -8,7 +8,7 @@ What drives us to leave this world for the Abyss?
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Concept/Abyss 
 #Concept/Death 
 #Concept/Emotion/Love 

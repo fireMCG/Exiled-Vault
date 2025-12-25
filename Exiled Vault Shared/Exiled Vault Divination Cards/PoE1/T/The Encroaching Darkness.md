@@ -10,5 +10,8 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Darkness 
+#Concept/Night/Dream 
+#Concept/Night/Nightmare 
 #PoE1

@@ -6,5 +6,5 @@ We sought the shadows, but none remained.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

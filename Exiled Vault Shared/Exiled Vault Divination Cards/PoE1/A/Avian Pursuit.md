@@ -11,5 +11,5 @@ Awaiting dawn's first light
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

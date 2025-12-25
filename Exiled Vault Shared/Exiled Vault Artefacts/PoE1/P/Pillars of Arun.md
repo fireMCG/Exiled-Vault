@@ -5,5 +5,5 @@ Man creates where nature cannot.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

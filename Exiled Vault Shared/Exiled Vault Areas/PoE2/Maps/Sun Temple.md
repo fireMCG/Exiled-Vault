@@ -4,5 +4,5 @@ Wet stone emanates an inner warmth. Vaal brilliance lies in wait.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

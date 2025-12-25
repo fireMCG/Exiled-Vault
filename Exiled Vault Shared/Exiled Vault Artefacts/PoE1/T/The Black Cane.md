@@ -5,5 +5,5 @@ Lead the army of the damned from the front.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

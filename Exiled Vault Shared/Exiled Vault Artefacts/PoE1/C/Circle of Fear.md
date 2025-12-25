@@ -5,5 +5,5 @@ My subordinates circled me eternally, attuned to the slightest weakness, ready t
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

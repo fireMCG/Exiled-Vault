@@ -8,5 +8,5 @@ with a thick, black scab.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

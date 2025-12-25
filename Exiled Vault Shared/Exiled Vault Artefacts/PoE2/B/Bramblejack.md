@@ -5,5 +5,5 @@ It is safer to be feared than to be loved.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

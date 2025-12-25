@@ -5,5 +5,5 @@ They believed themselves the most ordered, but that tradition turned their fores
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

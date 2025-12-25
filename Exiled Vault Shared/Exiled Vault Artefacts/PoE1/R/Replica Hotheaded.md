@@ -1,11 +1,12 @@
 ## Replica Hotheaded
 "Does this jewel accomplish nothing? If only we could somehow
 master cold and turn it to our own ends..."
-- Lead Researcher Ksaret
+/- Lead Researcher Ksaret
 ##
 ![[Replica Hotheaded.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/HeistResearcher/Ksaret 
 #PoE1

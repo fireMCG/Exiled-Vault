@@ -6,5 +6,5 @@ Free from our hunger for dominion.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

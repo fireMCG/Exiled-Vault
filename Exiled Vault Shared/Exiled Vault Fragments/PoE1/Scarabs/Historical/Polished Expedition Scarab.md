@@ -4,7 +4,7 @@ As you delve into the mysteries of this world, apprentice Revna, remember to lea
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

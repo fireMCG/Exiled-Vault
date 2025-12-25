@@ -8,6 +8,6 @@ it's a matter of thieves' honour to check whether my product was in his pipe.
 ## Tags
 #Character/Proclar
 #Character/TsvetMatvei
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 

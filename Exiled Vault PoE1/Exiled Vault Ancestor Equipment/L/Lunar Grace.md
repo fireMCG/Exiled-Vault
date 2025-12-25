@@ -7,7 +7,7 @@ The lunar plains are cold, but the silver palace is always warm and welcoming.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Concept/Moon 
 #Concept/Colour/Silver 
 #League/Ancestor

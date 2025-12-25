@@ -10,5 +10,5 @@ They know your mind, because they remember
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -7,5 +7,5 @@ With a single stroke, she ended the Winter of the World."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

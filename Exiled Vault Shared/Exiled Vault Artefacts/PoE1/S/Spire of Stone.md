@@ -7,5 +7,5 @@ after their creators had been buried deep beneath the earth.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

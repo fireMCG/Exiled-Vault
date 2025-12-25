@@ -6,4 +6,4 @@ The crystalline lattice expands in directions alien to the mortal mind.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

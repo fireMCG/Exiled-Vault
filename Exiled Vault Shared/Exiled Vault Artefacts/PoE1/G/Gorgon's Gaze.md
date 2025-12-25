@@ -6,5 +6,5 @@ and broke when they hit the ground.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

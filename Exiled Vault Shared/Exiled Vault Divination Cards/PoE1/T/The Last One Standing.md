@@ -9,6 +9,7 @@ Atziri's Disfavour
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Atziri 
 #PoE1
 #Society/VaalEmpire 

@@ -9,5 +9,5 @@ Alpha's Howl
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

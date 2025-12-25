@@ -6,5 +6,5 @@ Fight till death, never hide.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

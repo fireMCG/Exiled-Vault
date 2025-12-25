@@ -11,6 +11,6 @@ its gates barred against the unfaithful.
 #Concept/Body/Eye
 #Concept/Religion 
 #Concept/Sky 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Attributes/Timeline 

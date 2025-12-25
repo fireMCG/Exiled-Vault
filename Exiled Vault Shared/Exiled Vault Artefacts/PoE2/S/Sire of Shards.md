@@ -5,5 +5,5 @@ That which was broken may yet break.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

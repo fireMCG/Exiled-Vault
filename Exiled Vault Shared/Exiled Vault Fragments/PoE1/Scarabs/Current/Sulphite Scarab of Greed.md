@@ -8,4 +8,4 @@ There is no such thing as 'enough'.
 ## Tags
 #Attributes/Disabled
 #League/Delve
-#Item/Scarab
+#Category/Scarab

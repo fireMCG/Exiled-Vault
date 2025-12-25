@@ -5,5 +5,5 @@ New life will follow, but first come the flames.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -4,5 +4,5 @@ In these lands, a pure water source is the most valuable treasure.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

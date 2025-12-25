@@ -4,5 +4,5 @@ By that era, Kamasa was just a name. Gold was their true god.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

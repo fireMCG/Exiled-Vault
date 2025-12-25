@@ -7,5 +7,5 @@ made crimson by crystallised Corruption.
 
 ---
 ## Tags
-#Item/Fragment 
+#Category/Fragment 
 #PoE2 

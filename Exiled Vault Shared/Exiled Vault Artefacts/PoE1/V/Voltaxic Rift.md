@@ -7,5 +7,5 @@ arcane power. There was no escape, no shelter. Only despair.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

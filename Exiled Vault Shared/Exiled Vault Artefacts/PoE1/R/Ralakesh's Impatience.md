@@ -6,6 +6,6 @@ between an age and an instant?
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

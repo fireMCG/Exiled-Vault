@@ -7,7 +7,7 @@ A great Silence falls...
 ---
 ## Tags
 #Character/Eldritch/Elder 
-#Character/Shaper 
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Decay
 #PoE1 

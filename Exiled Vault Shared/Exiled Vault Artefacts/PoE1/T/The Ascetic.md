@@ -5,5 +5,5 @@ Many things come to one who has nothing.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

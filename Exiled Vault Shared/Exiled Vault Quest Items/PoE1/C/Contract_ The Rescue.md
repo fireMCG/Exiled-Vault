@@ -6,5 +6,5 @@ We must get Hana back.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

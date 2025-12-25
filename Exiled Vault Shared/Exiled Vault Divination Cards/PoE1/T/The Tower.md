@@ -9,5 +9,8 @@ Staff
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Time/Eternity 
+#Concept/Tower 
+#Concept/Virtue/Knowledge 
 #PoE1

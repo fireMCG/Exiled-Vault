@@ -6,5 +6,5 @@ but on those that did not.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

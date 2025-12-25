@@ -6,4 +6,4 @@ It is perfectly safe, the creatures trapped inside couldn't possibly still be li
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

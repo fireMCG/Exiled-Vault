@@ -5,5 +5,5 @@ A faith born of flesh.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

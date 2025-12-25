@@ -7,5 +7,5 @@ united against a common enemy.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

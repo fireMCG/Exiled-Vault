@@ -9,5 +9,11 @@ Chayula's Flawless Breachstone
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Breachlord/Chayula 
+#Concept/Balance/Chaos 
+#Concept/Body/Eye 
+#Concept/Horror 
+#Concept/Night/Dream 
+#Concept/Night/Dreamer 
 #PoE1

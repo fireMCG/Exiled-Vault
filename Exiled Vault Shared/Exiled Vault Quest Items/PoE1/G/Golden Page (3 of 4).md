@@ -12,6 +12,6 @@ Or madness of the flesh?"
 #Concept/Body/Flesh 
 #Concept/Mind
 #Concept/Night/Nightmare
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Society/VaalEmpire 

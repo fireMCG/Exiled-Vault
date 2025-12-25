@@ -7,9 +7,9 @@ oral history. That's nonsense, of course, but it's still very old, and therefore
 ---
 ## Tags
 #Character/RingClient/CrimsonScribe
-#Character/Kalandra
+#Character/Unknown/Kalandra
 #Concept/Animal/Bird 
 #Concept/Time/BeforeTime
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 

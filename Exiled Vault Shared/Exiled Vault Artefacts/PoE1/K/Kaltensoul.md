@@ -6,5 +6,5 @@ but the soul remains unbroken.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

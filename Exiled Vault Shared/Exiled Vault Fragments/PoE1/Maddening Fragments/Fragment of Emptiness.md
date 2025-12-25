@@ -8,5 +8,5 @@ What is not cannot cause harm.
 ## Tags
 #Character/Eldritch/Elder 
 #Concept/Decay
-#Item/Fragment
+#Category/Fragment
 #PoE1 

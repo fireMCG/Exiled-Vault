@@ -5,7 +5,7 @@ At once horrid and beautiful, awkward and alluring, silly and overwhelmingly mys
 
 ---
 ## Tags
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/VaalEmpire 

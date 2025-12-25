@@ -7,5 +7,5 @@ I just pray I am long dead before they arrive."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

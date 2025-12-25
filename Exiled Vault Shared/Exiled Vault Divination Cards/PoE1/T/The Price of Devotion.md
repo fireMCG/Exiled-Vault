@@ -12,6 +12,10 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Atziri 
+#Concept/Blood 
+#Concept/Religion/Devotion 
+#Concept/Thaumaturgy 
 #PoE1
 #Society/VaalEmpire 

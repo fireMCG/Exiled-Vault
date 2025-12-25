@@ -10,7 +10,7 @@ without casting a bitter shadow."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/CadiroPerandus
 #Concept/Light 
 #Concept/Shadow 

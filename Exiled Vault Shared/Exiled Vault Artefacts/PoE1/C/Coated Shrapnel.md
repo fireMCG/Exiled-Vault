@@ -6,5 +6,5 @@ Take everything and waste nothing.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

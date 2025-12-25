@@ -5,5 +5,5 @@ Be not where death falls.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

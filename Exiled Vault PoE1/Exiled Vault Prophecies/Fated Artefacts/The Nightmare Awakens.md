@@ -17,4 +17,4 @@ Upgrades [[Malachai's Simula]] to [[Malachai's Awakening]] upon completion.
 #Concept/Soul 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

@@ -6,5 +6,5 @@ Something awaits you in the Well.
 
 ---
 ## Tags
-#Item/Fragment 
+#Category/Fragment 
 #PoE2 

@@ -6,4 +6,4 @@ What we see in the mirror can only be our own reflection.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

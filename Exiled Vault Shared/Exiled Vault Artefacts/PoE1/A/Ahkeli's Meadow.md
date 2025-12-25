@@ -8,7 +8,7 @@ Some had once been her family.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Ahkeli
 #Concept/Fracture/Splinter 
 #Concept/Golem 

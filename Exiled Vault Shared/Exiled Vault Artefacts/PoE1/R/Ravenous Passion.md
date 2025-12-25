@@ -6,7 +6,7 @@ consume all that you have... and more.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/EaterOfWorlds 
 #Concept/Hunger 
 #Concept/Power 

@@ -5,5 +5,5 @@ In truth, they point the finger at themselves.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

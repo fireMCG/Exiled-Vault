@@ -6,5 +6,5 @@ binds in both directions.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

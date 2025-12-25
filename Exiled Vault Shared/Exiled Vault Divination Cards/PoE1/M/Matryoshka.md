@@ -21,5 +21,5 @@ Corrupted
 #Concept/Animal/Feline/Cat 
 #Concept/Silence
 #Concept/Talisman
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

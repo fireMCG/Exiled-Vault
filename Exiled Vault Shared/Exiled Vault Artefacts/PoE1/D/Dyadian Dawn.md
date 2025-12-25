@@ -7,5 +7,5 @@ The Eternal twins arose.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

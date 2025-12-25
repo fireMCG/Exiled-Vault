@@ -6,5 +6,5 @@ We are but dogs, howling at an uncaring moon.
 
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #PoE1 

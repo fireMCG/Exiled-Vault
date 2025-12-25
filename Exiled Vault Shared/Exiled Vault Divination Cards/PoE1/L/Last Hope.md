@@ -11,6 +11,6 @@ Mortal Hope
 ## Tags
 #Character/Atziri 
 #Concept/Prison 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1
 #Society/VaalEmpire 

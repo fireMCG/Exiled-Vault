@@ -10,5 +10,5 @@ he clung to that, never finding the courage to light it.
 ---
 ## Tags
 #Character/Hayoxi
-#Item/Lineage 
+#Category/Lineage 
 #Society/VaalEmpire/Architects 

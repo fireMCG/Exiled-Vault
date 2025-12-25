@@ -10,5 +10,8 @@ Quality: +20%
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Necromancy
+#Concept/Night/Nightmare 
+#Concept/Undead 
 #PoE1

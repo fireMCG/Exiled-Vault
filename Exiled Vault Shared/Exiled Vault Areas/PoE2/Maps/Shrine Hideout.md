@@ -4,5 +4,5 @@ A fragment of a glorious past.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

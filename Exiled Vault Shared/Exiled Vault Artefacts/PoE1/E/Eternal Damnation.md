@@ -5,5 +5,5 @@ The price of immortality is isolation.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

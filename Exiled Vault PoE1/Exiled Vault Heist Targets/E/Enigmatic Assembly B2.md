@@ -7,6 +7,6 @@ have made it my life's work. There must be a deeper meaning!
 ---
 ## Tags
 #Character/MarcineClavus
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 

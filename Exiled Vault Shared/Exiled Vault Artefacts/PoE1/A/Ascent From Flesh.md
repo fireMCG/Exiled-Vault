@@ -7,7 +7,7 @@ Reborn into freedom eternal
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Concept/Time/Cycle 
 #Concept/Time/Eternity 
 #Concept/Prison 

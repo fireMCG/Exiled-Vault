@@ -8,5 +8,5 @@ healing, no revenge. There was only... emptiness."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

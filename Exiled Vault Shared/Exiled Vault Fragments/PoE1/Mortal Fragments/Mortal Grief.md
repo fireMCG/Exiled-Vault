@@ -6,5 +6,5 @@ When we prostrate ourselves to the night, we worship mortality.
 
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #PoE1 

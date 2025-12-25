@@ -5,5 +5,5 @@ The Banished Architect sought to employ the darkest secrets of the Vaal.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

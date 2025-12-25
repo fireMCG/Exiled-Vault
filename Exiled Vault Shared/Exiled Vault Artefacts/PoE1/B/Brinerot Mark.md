@@ -7,5 +7,5 @@ still wrapped around a severed finger.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

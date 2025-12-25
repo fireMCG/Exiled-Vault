@@ -6,5 +6,5 @@ Don't waste it.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -10,5 +10,5 @@ from my true potential.
 #Character/Malachai 
 #Concept/Body/Flesh
 #Concept/Life/Immortality 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

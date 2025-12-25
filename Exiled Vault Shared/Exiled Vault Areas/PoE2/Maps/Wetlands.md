@@ -4,5 +4,5 @@ Mud and air seethes with warped life.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

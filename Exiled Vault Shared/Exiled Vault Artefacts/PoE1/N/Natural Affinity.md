@@ -5,5 +5,5 @@ You can take the girl out of the woods, but you can't take the woods out of the 
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

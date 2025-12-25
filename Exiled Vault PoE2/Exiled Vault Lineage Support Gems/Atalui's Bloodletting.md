@@ -12,8 +12,8 @@ show them what happens to those who challenge the Vaal?"
 #Character/Atalui
 #Character/Atazek
 #Concept/Blood 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/VaalEmpire 
-#Item/SupportGem
+#Category/SupportGem
 #Attributes/Timeline 

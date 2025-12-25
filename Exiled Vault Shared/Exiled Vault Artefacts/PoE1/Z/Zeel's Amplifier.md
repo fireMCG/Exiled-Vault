@@ -8,5 +8,5 @@ Creation, the act of Matter Metamorphosis, is the only secret worth discovering.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -8,5 +8,5 @@ There is no flame
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

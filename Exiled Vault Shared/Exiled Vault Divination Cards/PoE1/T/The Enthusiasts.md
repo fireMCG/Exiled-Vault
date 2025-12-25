@@ -13,5 +13,7 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Victario 
+#Concept/Power 
 #PoE1

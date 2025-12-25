@@ -7,7 +7,7 @@ Arohongui looks after all those in need.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Character/God/Arohongui 
 #Concept/Colour/Silver 
 #League/Ancestor

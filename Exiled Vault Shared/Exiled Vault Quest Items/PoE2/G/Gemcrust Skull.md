@@ -6,5 +6,5 @@ The mind springs forth eternal.
 ---
 ## Tags
 #Concept/Crystal 
-#Item/QuestItem
+#Category/QuestItem
 #PoE2

@@ -13,5 +13,15 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Ahkeli 
+#Concept/Body/Bone 
+#Concept/Body/Eye 
+#Concept/Body/Heart 
+#Concept/Element/Fire 
+#Concept/Element/Ice 
+#Concept/Element/Lightning 
+#Concept/Golem 
+#Concept/Mind 
+#Concept/Stone 
 #PoE1

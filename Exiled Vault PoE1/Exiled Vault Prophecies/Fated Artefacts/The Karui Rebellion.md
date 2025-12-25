@@ -16,5 +16,5 @@ Upgrades [[Karui Ward]] to [[Karui Charge]] upon completion.
 #Concept/Thaumaturgy 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy
 #Society/Karui 

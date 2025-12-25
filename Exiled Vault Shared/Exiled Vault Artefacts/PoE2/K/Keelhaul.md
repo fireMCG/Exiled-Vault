@@ -6,5 +6,5 @@ there exists a flow...
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

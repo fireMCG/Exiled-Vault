@@ -12,5 +12,5 @@ See the hope is gone, no prize shall ye get.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

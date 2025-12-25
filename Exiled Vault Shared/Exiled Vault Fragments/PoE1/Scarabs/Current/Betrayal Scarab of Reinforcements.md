@@ -7,4 +7,4 @@ Move and countermove.
 ---
 ## Tags
 #League/Betrayal
-#Item/Scarab
+#Category/Scarab

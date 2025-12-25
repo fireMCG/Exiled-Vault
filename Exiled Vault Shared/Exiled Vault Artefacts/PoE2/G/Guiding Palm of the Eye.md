@@ -8,5 +8,5 @@ The Dreamer whispered with fogging breath, ice creeping down his hand.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

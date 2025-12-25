@@ -7,5 +7,5 @@ and all in his path were obliterated.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

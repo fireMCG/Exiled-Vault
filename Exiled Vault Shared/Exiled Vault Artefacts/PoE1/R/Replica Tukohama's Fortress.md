@@ -6,5 +6,6 @@ Prototype #10 bore unexpectedly positive results."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Mirror 
 #PoE1

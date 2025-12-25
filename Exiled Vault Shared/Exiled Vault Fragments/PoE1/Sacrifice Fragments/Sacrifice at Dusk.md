@@ -6,5 +6,5 @@ The Vaal shall never fear the setting of our sun.
 
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #PoE1 

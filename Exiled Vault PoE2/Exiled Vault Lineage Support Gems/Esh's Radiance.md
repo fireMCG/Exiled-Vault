@@ -13,7 +13,7 @@ now sourceless thought whispers numbers in the dark."
 #Concept/Breachlord
 #Concept/Darkness 
 #Concept/Whisper 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/Hiveborn
-#Item/SupportGem
+#Category/SupportGem

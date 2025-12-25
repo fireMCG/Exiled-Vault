@@ -7,5 +7,5 @@ Scatter the dust to the wind.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

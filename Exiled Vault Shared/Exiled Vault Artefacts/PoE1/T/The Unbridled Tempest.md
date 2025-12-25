@@ -5,5 +5,5 @@ Lightning always strikes twice.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

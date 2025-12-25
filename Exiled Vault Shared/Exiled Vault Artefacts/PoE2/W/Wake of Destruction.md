@@ -6,5 +6,6 @@ Flee before the walking storm.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Storm 
 #PoE2

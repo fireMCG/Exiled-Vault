@@ -5,5 +5,5 @@ An eye for an eye.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

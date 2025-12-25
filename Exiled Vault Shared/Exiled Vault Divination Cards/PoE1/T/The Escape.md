@@ -9,5 +9,11 @@ Seven-League Step
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Madness 
+#Concept/Mirror 
+#Concept/Night/Dream 
+#Concept/Night/Nightmare 
+#Concept/Sun 
+#Concept/World 
 #PoE1

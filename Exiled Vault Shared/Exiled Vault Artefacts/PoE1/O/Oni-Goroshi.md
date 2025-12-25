@@ -8,5 +8,5 @@ She said: Every single time, Charan. And still...you'll bathe me, and you'll dri
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

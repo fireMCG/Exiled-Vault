@@ -6,5 +6,5 @@ and death laid waste to all around him.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

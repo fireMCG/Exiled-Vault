@@ -7,5 +7,5 @@ For the master of fire fears nothing.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

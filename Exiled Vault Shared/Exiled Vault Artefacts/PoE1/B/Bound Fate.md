@@ -7,5 +7,5 @@ are two very different things.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

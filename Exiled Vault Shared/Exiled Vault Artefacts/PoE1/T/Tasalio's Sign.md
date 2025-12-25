@@ -8,5 +8,5 @@ so that his warriors' axes might rise and fall like the waves.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

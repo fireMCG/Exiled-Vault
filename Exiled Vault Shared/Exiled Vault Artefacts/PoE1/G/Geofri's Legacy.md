@@ -7,5 +7,5 @@ his embers may yet light our way."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

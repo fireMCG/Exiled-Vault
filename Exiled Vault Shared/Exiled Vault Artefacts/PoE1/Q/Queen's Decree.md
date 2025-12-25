@@ -10,5 +10,5 @@ She sat on her throne and wept.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

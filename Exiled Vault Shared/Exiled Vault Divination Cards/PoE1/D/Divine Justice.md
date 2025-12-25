@@ -10,5 +10,10 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/God/GoddessOfJustice 
+#Concept/Balance/Justice 
+#Concept/Blindness 
+#Concept/Religion/Divinity 
+#Concept/Mirror 
 #PoE1

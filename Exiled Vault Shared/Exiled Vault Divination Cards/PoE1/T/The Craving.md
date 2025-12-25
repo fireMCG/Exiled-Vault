@@ -9,5 +9,12 @@ Unending Hunger
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Desire
+#Concept/Eclipse 
+#Concept/Hunger 
+#Concept/Mind 
+#Concept/Moon 
+#Concept/Night/Dream
+#Concept/Sun 
 #PoE1

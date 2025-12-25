@@ -5,5 +5,5 @@ A burden shared is a burden made lighter. The First of the Night teaches us that
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

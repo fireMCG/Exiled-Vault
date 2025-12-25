@@ -8,7 +8,7 @@ They have other ways of keeping the dead.
 ## Tags
 #Concept/Death 
 #Concept/Sky 
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/Faridun

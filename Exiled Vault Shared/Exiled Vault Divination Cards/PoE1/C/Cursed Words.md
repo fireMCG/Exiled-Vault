@@ -9,5 +9,6 @@ Maw of Mischief
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Curse 
 #PoE1

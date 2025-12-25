@@ -9,4 +9,4 @@ They stare back, with hollow hypnotising eyes.
 #Concept/Body/Eye 
 #Attributes/Disabled
 #League/Abyss 
-#Item/Scarab
+#Category/Scarab

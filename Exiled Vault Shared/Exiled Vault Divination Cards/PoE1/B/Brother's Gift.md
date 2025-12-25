@@ -10,5 +10,7 @@ he will never fade away.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Family/Brother
+#Concept/Sun 
 #PoE1

@@ -6,5 +6,5 @@ So goes the descent.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

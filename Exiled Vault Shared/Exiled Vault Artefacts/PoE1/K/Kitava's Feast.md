@@ -8,5 +8,5 @@ he would devour every soul in Hinekora's domain.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

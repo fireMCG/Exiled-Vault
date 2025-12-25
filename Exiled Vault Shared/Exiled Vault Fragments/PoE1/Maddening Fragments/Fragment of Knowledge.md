@@ -6,8 +6,8 @@ Understanding leads to mastery.
 
 ---
 ## Tags
-#Character/Shaper 
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius
 #Concept/Virtue/Knowledge 
-#Item/Fragment
+#Category/Fragment
 #PoE1 

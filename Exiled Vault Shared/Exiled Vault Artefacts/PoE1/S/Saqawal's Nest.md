@@ -6,5 +6,5 @@ It was he who showed us that our limits are self-imposed, that what we take for 
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

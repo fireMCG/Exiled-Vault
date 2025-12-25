@@ -11,7 +11,7 @@ The Lords were alone, so they grew us, to serve them."
 ## Tags
 #Character/Breachlord/UulNetol
 #Concept/Breachlord 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/Hiveborn 
-#Item/SupportGem
+#Category/SupportGem

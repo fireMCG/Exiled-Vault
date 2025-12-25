@@ -11,5 +11,6 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Animal/Canidae/Fox 
 #PoE1

@@ -16,4 +16,4 @@ Upgrades [[Storm Cloud]] to [[The Tempest]] upon completion.
 #Concept/Storm 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

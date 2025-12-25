@@ -16,4 +16,4 @@ From flesh and ferocity, the First Ones roamed through the realm of Spirit, and 
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

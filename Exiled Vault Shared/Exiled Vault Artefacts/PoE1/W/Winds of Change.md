@@ -7,5 +7,5 @@ a captain sailing his own ship into rocks.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

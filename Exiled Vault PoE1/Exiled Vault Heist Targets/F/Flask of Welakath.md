@@ -6,10 +6,10 @@ believing it exists, but if it does... I would certainly like to take a sip and 
 
 ---
 ## Tags
-#Character/Balbala 
+#Character/Djinn/Balbala 
 #Character/Bazira
 #Concept/Treason
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/Maraketh 

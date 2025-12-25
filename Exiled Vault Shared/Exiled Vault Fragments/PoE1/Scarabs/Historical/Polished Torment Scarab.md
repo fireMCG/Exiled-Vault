@@ -4,7 +4,7 @@ Your tortured soul long kept you isolated from your peers, Tsarsk, but has attra
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

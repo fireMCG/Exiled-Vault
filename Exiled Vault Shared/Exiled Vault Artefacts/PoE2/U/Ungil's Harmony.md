@@ -5,5 +5,5 @@ Gentle anger, raging calm.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

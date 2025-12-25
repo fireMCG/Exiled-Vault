@@ -6,5 +6,5 @@ and spilled their blood on foreign soil
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

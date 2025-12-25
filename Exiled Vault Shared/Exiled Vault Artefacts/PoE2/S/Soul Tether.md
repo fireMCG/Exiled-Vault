@@ -7,5 +7,5 @@ desperately cling to any other source of life.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -6,5 +6,5 @@ What key fundamental secret are we missing?"
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

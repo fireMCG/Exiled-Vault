@@ -9,5 +9,8 @@ Orb of Annulment
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/God/Innocence 
+#Character/God/Sin 
+#Concept/Luck 
 #PoE1

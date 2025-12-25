@@ -13,5 +13,5 @@ Bow
 ---
 ## Tags
 #Concept/Hunt 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

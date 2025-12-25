@@ -7,6 +7,6 @@ I'm just evening things out."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

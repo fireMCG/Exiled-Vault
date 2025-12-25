@@ -12,5 +12,8 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Body/Flesh 
+#Concept/Body/Skin 
+#Concept/Soul 
 #PoE1

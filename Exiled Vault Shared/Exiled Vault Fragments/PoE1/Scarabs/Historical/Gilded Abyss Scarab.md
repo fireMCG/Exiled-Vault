@@ -4,8 +4,8 @@ The Winter of the World has ended at the hands of the Three Sisters. We lay this
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 
 #Attributes/Timeline 

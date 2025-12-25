@@ -8,5 +8,5 @@ never to return, and the waters turned sour.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

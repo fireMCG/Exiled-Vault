@@ -8,7 +8,7 @@ their grasp stretches ever farther.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Bloodline/Titan 
 #Concept/Cataclysm 
 #Concept/Darkness 

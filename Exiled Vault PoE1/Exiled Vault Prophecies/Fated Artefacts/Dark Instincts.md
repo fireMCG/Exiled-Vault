@@ -15,4 +15,4 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/F/Foxsha
 #Concept/Animal/Insect/Spider 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

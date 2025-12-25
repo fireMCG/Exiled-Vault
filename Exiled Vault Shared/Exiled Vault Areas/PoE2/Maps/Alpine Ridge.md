@@ -4,5 +4,5 @@ The path grows treacherous as the world falls away.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

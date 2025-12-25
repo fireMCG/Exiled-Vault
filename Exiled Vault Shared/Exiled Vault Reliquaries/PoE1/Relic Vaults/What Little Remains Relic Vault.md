@@ -5,7 +5,7 @@ and I am trying with all my strength to get back to you.
 #
 ---
 ## Tags
-#Character/Sirus
+#Character/Conqueror/Sirus
 #Character/Zana
 #PoE1 
 #Category/Reliquary 

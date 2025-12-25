@@ -5,5 +5,5 @@ Cold winds whirl at the crown of the world.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

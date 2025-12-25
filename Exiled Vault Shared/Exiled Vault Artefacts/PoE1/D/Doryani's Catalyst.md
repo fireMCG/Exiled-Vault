@@ -6,6 +6,6 @@ or death for all. It was a risk Doryani was willing to take.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

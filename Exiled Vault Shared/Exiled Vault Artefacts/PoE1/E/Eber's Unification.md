@@ -8,5 +8,5 @@ and inexorably we inch towards oneness.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

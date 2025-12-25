@@ -5,5 +5,5 @@ A keen mind sees what others do not, makes connections where others do not, and 
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

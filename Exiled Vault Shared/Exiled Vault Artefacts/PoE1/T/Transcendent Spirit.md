@@ -5,5 +5,5 @@ Take comfort knowing that, even in death, we may serve our Queen and fuel her em
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

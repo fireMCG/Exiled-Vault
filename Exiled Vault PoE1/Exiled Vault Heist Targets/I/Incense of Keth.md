@@ -7,7 +7,7 @@ Nothing since its disappearance has smelled as wondrous.
 ---
 ## Tags
 #Character/Bazira
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/Maraketh 

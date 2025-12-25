@@ -6,5 +6,5 @@ They stab their own hearts and cry out in ecstasy, only to rise again.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ A hundred blind heads, each seeking the taste of prey on the air.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

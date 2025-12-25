@@ -6,9 +6,9 @@ but hollow husks filled with virulent void...
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Elder 
-#Character/Shaper 
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Void 
 #Concept/Decay

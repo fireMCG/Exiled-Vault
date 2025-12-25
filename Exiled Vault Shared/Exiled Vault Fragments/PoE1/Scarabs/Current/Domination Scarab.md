@@ -7,4 +7,4 @@ A simple exchange. Blood for power.
 ---
 ## Tags
 #League/Domination
-#Item/Scarab
+#Category/Scarab

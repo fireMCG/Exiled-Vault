@@ -5,5 +5,5 @@ Lost in the Black Fen, Erian hoped that dawn would save him. He had no idea how 
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

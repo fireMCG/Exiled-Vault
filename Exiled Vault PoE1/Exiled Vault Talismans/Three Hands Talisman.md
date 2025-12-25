@@ -12,4 +12,4 @@ While the First Ones bring to bear anything that the wildlands provide.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

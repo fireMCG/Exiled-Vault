@@ -6,5 +6,5 @@ For him, there was no doubt that the end would justify the means.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

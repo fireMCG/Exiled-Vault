@@ -5,5 +5,5 @@ Never blinking, always watching.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

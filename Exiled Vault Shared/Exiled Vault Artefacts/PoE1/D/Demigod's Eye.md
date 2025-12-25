@@ -6,5 +6,5 @@ unwavering, unblinking, unstoppable.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

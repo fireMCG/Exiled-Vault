@@ -6,5 +6,5 @@ It was earned by comrades in arms.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

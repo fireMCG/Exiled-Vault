@@ -10,5 +10,7 @@ Item Level: 91
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Night/Dream 
+#League/Harbinger 
 #PoE1

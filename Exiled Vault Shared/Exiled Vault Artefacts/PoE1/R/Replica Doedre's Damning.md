@@ -6,5 +6,6 @@ resulted when a lead researcher used an epithet in its presence."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Mirror 
 #PoE1

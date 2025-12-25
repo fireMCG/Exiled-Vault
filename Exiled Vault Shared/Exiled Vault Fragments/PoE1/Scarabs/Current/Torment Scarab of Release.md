@@ -8,4 +8,4 @@ If it could end, it wouldn't really be damnation.
 ## Tags
 #Attributes/Disabled
 #League/Torment
-#Item/Scarab
+#Category/Scarab

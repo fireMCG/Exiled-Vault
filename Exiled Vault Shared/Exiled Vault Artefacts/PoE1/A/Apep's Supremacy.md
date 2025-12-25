@@ -5,7 +5,7 @@ Give him your body, and your burdens will follow.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/God/Apep
 #Concept/Body/Flesh 
 #Character/God/Apep

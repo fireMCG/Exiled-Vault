@@ -4,5 +4,5 @@ Even the sparse vegetation does not linger here long.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

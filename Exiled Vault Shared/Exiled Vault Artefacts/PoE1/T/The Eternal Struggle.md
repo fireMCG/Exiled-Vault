@@ -5,5 +5,5 @@ Simply the way it must be, so that existence may be.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,7 +5,7 @@ The future holds infinite promise... as does she.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Maven 
 #Concept/Time/Future
 #Concept/Power 

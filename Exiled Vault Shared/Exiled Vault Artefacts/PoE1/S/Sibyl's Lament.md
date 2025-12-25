@@ -6,5 +6,5 @@ a pain that she could never see.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

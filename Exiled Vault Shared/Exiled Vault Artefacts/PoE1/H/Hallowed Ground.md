@@ -8,5 +8,5 @@ In return, they give only suffering.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

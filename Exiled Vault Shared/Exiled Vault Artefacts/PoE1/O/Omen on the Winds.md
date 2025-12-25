@@ -7,5 +7,5 @@ One final, feeble attempt to save what was meant to be eternal.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

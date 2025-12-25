@@ -17,6 +17,6 @@ Corrupted
 #Concept/Nature/Harvest 
 #Concept/Moon 
 #Concept/Undead
-#Item/DivinationCard
+#Category/DivinationCard
 #Attributes/Important 
 #PoE1

@@ -6,5 +6,5 @@ In order to receive, one must give... without hesitation.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

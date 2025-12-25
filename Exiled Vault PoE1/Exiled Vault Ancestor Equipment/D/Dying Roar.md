@@ -7,7 +7,7 @@ When Ngamahu's chosen truly wish to destroy an enemy, nothing can stop them.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Character/God/Ngamahu 
 #League/Ancestor
 #PoE1 

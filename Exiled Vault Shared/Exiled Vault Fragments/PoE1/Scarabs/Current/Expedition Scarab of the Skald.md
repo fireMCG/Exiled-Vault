@@ -8,4 +8,4 @@ Lead from the front, and your men will follow you anywhere.
 ## Tags
 #Attributes/Disabled
 #League/Expedition
-#Item/Scarab
+#Category/Scarab

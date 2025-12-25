@@ -16,5 +16,5 @@ Corrupted
 #Concept/Corruption 
 #Concept/Religion/Faith 
 #Concept/Purity 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -7,4 +7,4 @@ A keen eye sorts the worthy from the chaff.
 ---
 ## Tags
 #League/Ambush
-#Item/Scarab
+#Category/Scarab

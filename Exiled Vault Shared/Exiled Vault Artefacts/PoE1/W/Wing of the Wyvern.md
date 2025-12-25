@@ -8,5 +8,5 @@ of hope's whisper.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

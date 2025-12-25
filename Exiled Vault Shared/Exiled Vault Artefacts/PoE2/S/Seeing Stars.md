@@ -5,5 +5,5 @@ Within lies a window.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

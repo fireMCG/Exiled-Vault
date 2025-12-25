@@ -6,5 +6,5 @@ Then carry it far and wide.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

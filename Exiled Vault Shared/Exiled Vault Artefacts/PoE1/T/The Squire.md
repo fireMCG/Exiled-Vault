@@ -6,5 +6,5 @@ they empower the strong.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

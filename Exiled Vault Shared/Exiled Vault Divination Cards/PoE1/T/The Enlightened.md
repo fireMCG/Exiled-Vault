@@ -12,5 +12,9 @@ Level 3 Enlighten
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Crown/Halo 
+#Concept/Nature/Flower 
+#Concept/Number/Six
+#Concept/Virtue 
 #PoE1

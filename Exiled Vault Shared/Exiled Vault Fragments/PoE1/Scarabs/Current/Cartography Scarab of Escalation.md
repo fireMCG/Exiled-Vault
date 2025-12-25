@@ -6,4 +6,4 @@ Opportunity thrives where dreams are most perilous.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

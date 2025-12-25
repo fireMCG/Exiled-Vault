@@ -7,5 +7,5 @@ Driving you on long past agony and despair
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

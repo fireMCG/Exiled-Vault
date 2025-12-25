@@ -9,5 +9,9 @@ Doryani's Fist
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Body/Hand 
+#Concept/Element/Lightning 
+#Concept/Sacrifice 
+#Concept/Tower
 #PoE1

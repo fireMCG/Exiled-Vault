@@ -6,5 +6,5 @@ feign weakness to open up a lethal blow.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

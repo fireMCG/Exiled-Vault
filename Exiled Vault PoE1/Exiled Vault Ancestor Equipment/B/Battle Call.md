@@ -6,7 +6,7 @@ If you hear the call, you must answer.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #League/Ancestor
 #PoE1 
 #Society/Karui 

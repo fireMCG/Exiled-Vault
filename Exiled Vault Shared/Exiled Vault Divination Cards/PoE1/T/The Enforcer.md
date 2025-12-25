@@ -1,6 +1,6 @@
 ## The Enforcer
 "Boss said to get rid of him, didn't say not to make a mess."
-- Rune The Goon
+\- Rune The Goon
 ## 
 ![[The Enforcer.png]]
 
@@ -12,5 +12,5 @@ Warlord Item
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

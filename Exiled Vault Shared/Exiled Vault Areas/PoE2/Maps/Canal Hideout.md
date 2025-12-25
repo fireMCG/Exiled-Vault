@@ -4,5 +4,5 @@ A moment in time, on the eve of the end.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

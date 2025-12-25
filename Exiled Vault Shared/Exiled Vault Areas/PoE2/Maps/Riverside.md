@@ -4,5 +4,5 @@ Rushing waters threaten to move the earth.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

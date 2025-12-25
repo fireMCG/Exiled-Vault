@@ -4,7 +4,7 @@ Hinekora has sent the world another herald, but this hatungo walks another path.
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

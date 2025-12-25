@@ -5,5 +5,5 @@ See creation as it will be, frozen and silent.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

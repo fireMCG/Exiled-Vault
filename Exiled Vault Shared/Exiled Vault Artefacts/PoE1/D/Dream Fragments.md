@@ -6,6 +6,6 @@ And awoke its Master.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

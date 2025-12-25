@@ -5,5 +5,5 @@ A swift mind solves problems before they occur.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

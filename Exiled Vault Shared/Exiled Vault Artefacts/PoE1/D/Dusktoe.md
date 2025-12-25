@@ -7,5 +7,5 @@ the petty frictions of one's life."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

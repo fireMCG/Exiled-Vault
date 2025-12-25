@@ -10,5 +10,14 @@ Dying Sun
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/God/Lunaris 
+#Character/God/Innocence
+#Character/God/Sin 
+#Character/God/Solaris
+#Concept/Colour/Silver
+#Concept/Darkness 
+#Concept/Light 
+#Concept/Mirror 
+#Concept/Moon 
 #PoE1

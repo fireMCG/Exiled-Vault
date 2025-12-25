@@ -1,6 +1,5 @@
 ## The Eye of the Dragon
-Some powers are far too great even for the
-gods of old.
+Some powers are far too great even for the gods of old.
 ## 
 ![[The Eye of the Dragon.png]]
 
@@ -11,5 +10,9 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Animal/Mythological/Dragon 
+#Concept/Body/Eye 
+#Concept/God 
+#Concept/Power 
 #PoE1

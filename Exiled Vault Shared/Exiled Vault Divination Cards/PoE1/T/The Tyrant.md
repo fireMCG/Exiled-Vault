@@ -1,6 +1,6 @@
 ## The Tyrant
 "Fear controls the masses."
-- Laszlo, the Scourge
+\- Laszlo, the Scourge
 ## 
 ![[The Tyrant.png]]
 
@@ -11,5 +11,6 @@ Item Level: 100
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Tyranny 
 #PoE1

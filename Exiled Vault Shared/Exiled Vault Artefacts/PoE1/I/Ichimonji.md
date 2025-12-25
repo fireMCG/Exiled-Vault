@@ -5,5 +5,5 @@ Master yourself before you seek to master others.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

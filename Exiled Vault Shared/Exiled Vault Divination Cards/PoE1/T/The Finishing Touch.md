@@ -9,5 +9,5 @@ A little extra flair never hurts.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

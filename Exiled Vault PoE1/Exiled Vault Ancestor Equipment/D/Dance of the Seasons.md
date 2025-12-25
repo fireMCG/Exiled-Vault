@@ -7,7 +7,7 @@ Winter is inevitable, but so is the spring.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Concept/Season/Spring
 #Concept/Season/Winter
 #League/Ancestor

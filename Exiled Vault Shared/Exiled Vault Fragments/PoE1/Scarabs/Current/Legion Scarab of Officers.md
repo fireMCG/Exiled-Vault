@@ -7,4 +7,4 @@ Even a battlefield has middle management.
 ---
 ## Tags
 #League/Legion
-#Item/Scarab
+#Category/Scarab

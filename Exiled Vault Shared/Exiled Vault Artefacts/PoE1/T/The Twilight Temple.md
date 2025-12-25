@@ -6,5 +6,5 @@ all are eclipsed.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

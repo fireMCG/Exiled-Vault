@@ -6,7 +6,7 @@ A blessing upon all those trees touched by the sacred spirit.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Concept/Animal/Insect
 #Concept/Colour/White
 #Concept/Spirit 

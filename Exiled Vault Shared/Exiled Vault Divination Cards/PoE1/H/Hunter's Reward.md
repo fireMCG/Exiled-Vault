@@ -13,5 +13,5 @@ The Taming
 #Concept/Body/Heart 
 #Concept/Hunt 
 #Concept/Taming 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -7,4 +7,4 @@ The locksmith dreams of building a better box.
 ---
 ## Tags
 #League/Ambush
-#Item/Scarab
+#Category/Scarab

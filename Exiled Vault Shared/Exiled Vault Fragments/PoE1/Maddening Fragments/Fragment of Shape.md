@@ -6,9 +6,9 @@ Beauty is in the eye of the creator.
 
 ---
 ## Tags
-#Character/Shaper 
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius
 #Concept/Creation 
 #Concept/Body/Eye 
-#Item/Fragment
+#Category/Fragment
 #PoE1 

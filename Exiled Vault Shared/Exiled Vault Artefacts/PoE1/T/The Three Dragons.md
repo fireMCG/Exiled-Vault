@@ -9,5 +9,5 @@ That roused him to vengeance."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

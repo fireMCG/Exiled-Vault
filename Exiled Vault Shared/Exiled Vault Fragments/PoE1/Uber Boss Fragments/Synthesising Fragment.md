@@ -12,5 +12,5 @@ history is rewritten, time after time.
 #Concept/Memory 
 #Concept/Mind 
 #Concept/Time 
-#Item/Fragment
+#Category/Fragment
 #PoE1 

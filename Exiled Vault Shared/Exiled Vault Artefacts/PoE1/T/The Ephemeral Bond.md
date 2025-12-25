@@ -6,5 +6,5 @@ their love was all the more powerful.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

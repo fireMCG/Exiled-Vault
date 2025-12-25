@@ -5,7 +5,7 @@ A common figure adorning Vaal ruins, but exquisitely crafted from gold.
 
 ---
 ## Tags
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/VaalEmpire 

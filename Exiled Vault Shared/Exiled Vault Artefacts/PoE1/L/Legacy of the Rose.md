@@ -8,5 +8,5 @@ but I will never leave your side.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -10,6 +10,6 @@ they dedicate their lives to a singular purpose.
 ---
 ## Tags
 #Concept/Night/Dreamer
-#Item/Lineage 
+#Category/Lineage 
 #Society/Hiveborn 
 #Society/KeepersOfTheFlame 

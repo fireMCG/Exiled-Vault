@@ -9,5 +9,5 @@ Skittering Delirium Orb
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

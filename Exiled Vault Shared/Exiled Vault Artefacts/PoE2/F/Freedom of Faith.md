@@ -7,5 +7,5 @@ we pray for death.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

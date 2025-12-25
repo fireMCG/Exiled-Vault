@@ -8,4 +8,4 @@ The Beastmaster answers the call.
 ## Tags
 #Character/Einhar 
 #League/Bestiary 
-#Item/Scarab
+#Category/Scarab

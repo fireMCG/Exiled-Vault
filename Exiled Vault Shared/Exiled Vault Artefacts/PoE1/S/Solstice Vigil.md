@@ -6,8 +6,8 @@ The first shade is beautiful, but the last will drive the unwary insane.
 
 ---
 ## Tags
-#Item/Artefact
-#Character/Shaper 
+#Category/Artefact
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Light 
 #Concept/Madness 

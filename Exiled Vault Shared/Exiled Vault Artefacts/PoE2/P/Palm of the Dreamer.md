@@ -8,5 +8,5 @@ And yet, I have hope for a new truth. And I will see it... made real."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

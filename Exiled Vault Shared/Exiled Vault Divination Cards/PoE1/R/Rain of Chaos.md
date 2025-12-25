@@ -19,5 +19,5 @@ Chaos Orb
 #Concept/Fracture 
 #Concept/Sky 
 #Concept/Wing 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

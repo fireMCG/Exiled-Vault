@@ -14,8 +14,8 @@ in the Well... perhaps walking among them even now, unseen.
 #Concept/Body/Flesh 
 #Concept/Lich 
 #Concept/Vengeance
-#Item/Lineage
-#Item/SupportGem
+#Category/Lineage
+#Category/SupportGem
 #Location/Wraeclast/WellOfSouls 
 #PoE2
 #Society/Lightless 

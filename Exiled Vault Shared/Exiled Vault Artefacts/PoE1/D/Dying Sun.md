@@ -6,8 +6,8 @@ Whether you burn out or explode is up to you.
 
 ---
 ## Tags
-#Item/Artefact
-#Character/Shaper 
+#Category/Artefact
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius
 #Concept/Death 
 #Concept/Sun 

@@ -4,7 +4,7 @@ We few who remain live in the envy of those who do not. The land rots, the water
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

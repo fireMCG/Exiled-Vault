@@ -6,8 +6,8 @@ and experience true freedom.
 
 ---
 ## Tags
-#Item/Artefact
-#Character/Shaper 
+#Category/Artefact
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Freedom
 #Concept/Void 

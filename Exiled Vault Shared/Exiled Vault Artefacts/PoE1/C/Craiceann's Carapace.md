@@ -6,5 +6,5 @@ who stood guard as land rose from sea.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

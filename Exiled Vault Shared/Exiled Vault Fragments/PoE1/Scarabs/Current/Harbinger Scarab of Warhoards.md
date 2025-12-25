@@ -7,4 +7,4 @@ For those who can leverage it, war can be as much a machine of profit as it is d
 ---
 ## Tags
 #League/Harbinger
-#Item/Scarab
+#Category/Scarab

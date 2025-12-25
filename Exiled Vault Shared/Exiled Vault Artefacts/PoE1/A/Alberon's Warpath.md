@@ -6,7 +6,7 @@ and they welcomed him.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Alberon
 #Concept/Curse 
 #PoE1

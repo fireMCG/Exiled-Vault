@@ -6,4 +6,4 @@ We must not forget those who came before.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

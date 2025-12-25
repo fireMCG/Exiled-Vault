@@ -4,7 +4,7 @@ You were a casualty of callous Karui warfare, ageless Narumoa, but the Order men
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

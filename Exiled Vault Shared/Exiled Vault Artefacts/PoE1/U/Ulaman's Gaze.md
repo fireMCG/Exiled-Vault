@@ -5,5 +5,5 @@ The Sovereign of the Well seeks dominion over the light.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

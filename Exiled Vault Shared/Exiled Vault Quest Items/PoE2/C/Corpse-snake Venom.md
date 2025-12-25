@@ -6,5 +6,5 @@ Nature has given them the means to acquire a new dwelling.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE2

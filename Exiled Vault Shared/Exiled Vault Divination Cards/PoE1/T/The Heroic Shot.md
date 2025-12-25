@@ -9,5 +9,5 @@ Try a thousand times, and eventually you'll have to give up.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

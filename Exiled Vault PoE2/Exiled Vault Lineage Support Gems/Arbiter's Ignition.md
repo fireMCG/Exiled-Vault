@@ -9,8 +9,8 @@ trying to do? It seems they kept trying... kept experimenting..."
 #
 ---
 ## Tags
-#Character/ArbiterOfAsh
-#Item/Lineage
+#Character/Unknown/ArbiterOfAsh
+#Category/Lineage
 #PoE2
 #Society/Precursor
-#Item/SupportGem
+#Category/SupportGem

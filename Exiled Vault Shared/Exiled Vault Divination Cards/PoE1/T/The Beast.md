@@ -11,5 +11,5 @@ Belly of the Beast
 ## Tags
 #Concept/Beast 
 #Concept/Communion 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

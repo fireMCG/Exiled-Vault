@@ -10,5 +10,5 @@ and so she fled to the woods.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

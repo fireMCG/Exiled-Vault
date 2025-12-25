@@ -5,5 +5,5 @@ In the Atlas, you do not go mad. You are rewritten.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

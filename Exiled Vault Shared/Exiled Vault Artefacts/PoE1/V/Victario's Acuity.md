@@ -7,5 +7,5 @@ Grind your thoughts into the sharpest of deeds."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

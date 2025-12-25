@@ -9,5 +9,7 @@ Cartography Scarab
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Power 
+#Concept/Wealth 
 #PoE1

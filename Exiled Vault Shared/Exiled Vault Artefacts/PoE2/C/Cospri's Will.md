@@ -7,5 +7,5 @@ If they only knew the power I possess.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

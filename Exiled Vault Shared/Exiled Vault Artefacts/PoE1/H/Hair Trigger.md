@@ -6,5 +6,5 @@ Try catching a bird before it has even landed.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

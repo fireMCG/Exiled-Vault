@@ -13,8 +13,8 @@ but in her presence, he could feel naught but lust.
 #Character/Tacati
 #Concept/Lust 
 #Concept/Queen 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/VaalEmpire 
-#Item/SupportGem
+#Category/SupportGem
 #Attributes/Timeline 

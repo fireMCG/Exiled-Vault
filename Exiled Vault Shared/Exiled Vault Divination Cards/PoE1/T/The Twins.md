@@ -13,5 +13,7 @@ Item Level: 83
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Mirror 
+#Concept/Sun 
 #PoE1

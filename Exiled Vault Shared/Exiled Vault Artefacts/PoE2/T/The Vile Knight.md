@@ -5,5 +5,5 @@ Familiarity breeds contempt.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

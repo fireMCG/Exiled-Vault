@@ -12,5 +12,5 @@ from Martyr to Maker."
 #Character/Kaom
 #Character/Malachai
 #Concept/Crystal 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

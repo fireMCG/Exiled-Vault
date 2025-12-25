@@ -12,4 +12,4 @@ You will encounter shadowy monsters in the Crypt, Bone Crypt Map, Cursed Crypt M
 ## Tags
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

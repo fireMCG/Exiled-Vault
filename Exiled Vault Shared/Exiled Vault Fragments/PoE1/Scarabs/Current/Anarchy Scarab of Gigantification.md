@@ -7,4 +7,4 @@ The consumption of sulphite can cause strange growth.
 ---
 ## Tags
 #League/Anarchy
-#Item/Scarab
+#Category/Scarab

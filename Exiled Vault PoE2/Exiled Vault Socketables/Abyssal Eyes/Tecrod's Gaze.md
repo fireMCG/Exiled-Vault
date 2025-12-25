@@ -16,4 +16,4 @@ The Hated Slave seeks dominion for the revenge it enables.
 #Character/Tecrod 
 #PoE2
 #Society/Lightless 
-#Item/Socketable
+#Category/Socketable

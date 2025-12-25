@@ -5,5 +5,5 @@ The strong grow stronger still.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

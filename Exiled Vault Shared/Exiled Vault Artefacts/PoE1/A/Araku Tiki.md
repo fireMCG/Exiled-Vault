@@ -6,7 +6,7 @@ Spirit comes to take you on your final journey.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Concept/Death 
 #Concept/Spirit 
 #PoE1

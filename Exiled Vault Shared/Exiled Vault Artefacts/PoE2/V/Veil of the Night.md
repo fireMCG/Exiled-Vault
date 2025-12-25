@@ -8,5 +8,8 @@ And bloom steel flowers of victory.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Darkness 
+#Concept/Night 
+#Concept/Veil
 #PoE2

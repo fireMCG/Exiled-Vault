@@ -16,5 +16,5 @@ when it is dark?"
 #Concept/Light 
 #Concept/Night 
 #Concept/Mirror 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

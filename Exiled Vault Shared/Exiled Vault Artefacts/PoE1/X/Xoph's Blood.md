@@ -6,5 +6,5 @@ Through us he carries his burning message.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

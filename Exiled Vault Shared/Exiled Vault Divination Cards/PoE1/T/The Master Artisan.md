@@ -9,5 +9,5 @@ Perfection is the standard, excellence will be handled on a case by case basis.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

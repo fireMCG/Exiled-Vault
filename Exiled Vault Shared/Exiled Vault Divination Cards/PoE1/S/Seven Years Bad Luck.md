@@ -11,5 +11,5 @@ Mirror Shard
 ## Tags
 #Concept/Mirror 
 #Concept/Fracture 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

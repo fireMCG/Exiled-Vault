@@ -12,7 +12,7 @@ The roar of the storm... that's them, as they hunt and call."
 #Character/Eonyr
 #Concept/Moon 
 #Concept/Storm 
-#Item/Lineage 
+#Category/Lineage 
 #Society/Azmeri 
 #Society/Ezomyte 
 #Society/Maji

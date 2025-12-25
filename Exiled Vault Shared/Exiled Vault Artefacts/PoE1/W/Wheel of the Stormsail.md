@@ -5,5 +5,5 @@ Doomed to plunder forever.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

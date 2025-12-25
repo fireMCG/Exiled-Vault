@@ -6,5 +6,5 @@ the Mind Sublimator, and the Unbreakable...!
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

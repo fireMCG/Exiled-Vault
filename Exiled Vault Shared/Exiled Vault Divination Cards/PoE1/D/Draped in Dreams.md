@@ -13,5 +13,6 @@ Influenced Item
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Night/Dream 
 #PoE1

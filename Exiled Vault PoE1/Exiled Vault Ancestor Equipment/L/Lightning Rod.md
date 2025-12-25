@@ -7,7 +7,7 @@ Valako's gifts are unpredictable, but welcome.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Character/God/Valako 
 #League/Ancestor
 #PoE1 

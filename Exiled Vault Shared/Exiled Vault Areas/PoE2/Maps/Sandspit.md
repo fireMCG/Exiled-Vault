@@ -4,5 +4,5 @@ A haven for seabirds. A hazard for sailors.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

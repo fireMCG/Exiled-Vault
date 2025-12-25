@@ -17,8 +17,8 @@ crystals to rupture and grow throughout his doomed citadel.
 #Concept/Damnation 
 #Concept/Golem
 #Concept/Tyranny 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/Primeval
-#Item/SupportGem
+#Category/SupportGem
 #Attributes/Timeline 

@@ -6,4 +6,4 @@ When something is cut in half, which half is the original?
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

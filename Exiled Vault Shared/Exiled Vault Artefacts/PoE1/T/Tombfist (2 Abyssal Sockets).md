@@ -6,5 +6,5 @@ Hard to feel hope after that."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

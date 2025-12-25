@@ -7,5 +7,5 @@ I'm rather inclined to believe them."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

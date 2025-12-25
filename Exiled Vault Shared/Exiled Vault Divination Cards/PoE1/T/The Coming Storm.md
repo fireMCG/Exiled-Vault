@@ -18,5 +18,7 @@ to galvanize one's purpose in life."
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Element/Lightning 
+#Concept/Storm 
 #PoE1

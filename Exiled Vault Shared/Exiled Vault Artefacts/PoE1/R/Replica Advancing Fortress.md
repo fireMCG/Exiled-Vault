@@ -6,5 +6,5 @@ need to be endured to activate Prototype #612's energies."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

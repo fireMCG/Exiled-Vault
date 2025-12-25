@@ -13,5 +13,5 @@ Nothing can be heard above the din or seen amongst the turmoil. The senses are s
 #Concept/Fate 
 #Concept/Scream 
 #Concept/Fracture 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

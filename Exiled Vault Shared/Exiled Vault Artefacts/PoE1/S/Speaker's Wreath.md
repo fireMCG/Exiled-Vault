@@ -7,5 +7,5 @@ can take you to the edge of the world.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

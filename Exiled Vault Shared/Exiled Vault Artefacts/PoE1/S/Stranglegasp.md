@@ -5,5 +5,5 @@ Death's approach brings clarity.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -7,5 +7,5 @@ that you might actually succeed.
 
 ---
 ## Tags
-#Item/Fragment 
+#Category/Fragment 
 #PoE2 

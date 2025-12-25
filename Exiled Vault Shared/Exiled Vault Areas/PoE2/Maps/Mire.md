@@ -4,5 +4,5 @@ These waters devour the same souls they feed.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

@@ -6,5 +6,5 @@ slashing and hewing with utmost abandon.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

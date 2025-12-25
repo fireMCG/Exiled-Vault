@@ -5,7 +5,7 @@ Cool the head and cool the blade.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Sekhema/Asenath
 #PoE1
 #Society/Maraketh 

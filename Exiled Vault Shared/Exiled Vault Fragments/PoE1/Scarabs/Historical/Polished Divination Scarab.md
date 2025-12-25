@@ -4,7 +4,7 @@ Though your peers fear you, Narumoa, the elders have decided that your second si
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

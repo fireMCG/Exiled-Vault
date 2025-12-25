@@ -10,6 +10,6 @@ Made vessels of wrath, they are damned by holy design."
 #Concept/Damnation
 #Concept/Purity
 #Concept/Soul 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Society/TemplarOrder

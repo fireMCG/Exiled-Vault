@@ -6,5 +6,5 @@ A light unbroken, endlessly reborn.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

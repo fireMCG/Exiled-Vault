@@ -4,5 +4,5 @@ A dark labyrinth of steel and stone.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

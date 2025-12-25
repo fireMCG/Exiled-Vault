@@ -5,5 +5,5 @@ Expand one single ambition to crystal clarity... and beyond.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

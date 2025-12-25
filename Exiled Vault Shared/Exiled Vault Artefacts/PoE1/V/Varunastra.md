@@ -7,5 +7,5 @@ Creative death in the hands of a master."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

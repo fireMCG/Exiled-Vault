@@ -6,5 +6,5 @@ What underlying physics are at play here, I wonder?"
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

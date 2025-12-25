@@ -14,5 +14,5 @@ Weapon of Crafting
 ---
 ## Tags
 #Concept/Animal/Insect/Spider
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

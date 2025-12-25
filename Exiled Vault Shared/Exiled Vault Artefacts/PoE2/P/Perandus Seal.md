@@ -5,5 +5,5 @@ A pact with Prospero always comes at a price.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

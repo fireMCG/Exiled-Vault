@@ -6,5 +6,5 @@ and killed several guards, but their fury only lasted a short time."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

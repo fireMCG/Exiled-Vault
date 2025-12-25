@@ -7,5 +7,5 @@ into the throats of our oppressors.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

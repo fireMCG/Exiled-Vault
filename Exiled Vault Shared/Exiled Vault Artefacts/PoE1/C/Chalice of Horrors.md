@@ -5,5 +5,5 @@ An eye for an eye. A curse for a curse.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

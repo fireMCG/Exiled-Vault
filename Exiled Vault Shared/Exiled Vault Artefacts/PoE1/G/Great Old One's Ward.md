@@ -6,5 +6,5 @@ compared to the horrors we haven't.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

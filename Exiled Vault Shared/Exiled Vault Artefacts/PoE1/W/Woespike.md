@@ -7,5 +7,5 @@ making every smile half-hearted.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

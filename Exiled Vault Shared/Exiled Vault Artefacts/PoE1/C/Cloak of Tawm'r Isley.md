@@ -8,5 +8,5 @@ and watches from beneath the city.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

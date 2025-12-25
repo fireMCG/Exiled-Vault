@@ -13,5 +13,5 @@ Nimis
 ## Tags
 #Concept/Element/Fire 
 #Concept/Wind 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

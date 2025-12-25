@@ -5,6 +5,6 @@ Mortimer: I am curious to learn more about these creatures... do let me know wha
 
 ---
 ## Tags
-#Character/Mortimer
 #Category/NPCTalk
+#Character/Mortimer
 #Society/Lightless 

@@ -9,5 +9,5 @@ Lioneye's Vision
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

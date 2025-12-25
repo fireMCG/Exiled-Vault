@@ -6,5 +6,5 @@ What hope have you?
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

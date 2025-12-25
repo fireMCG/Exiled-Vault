@@ -7,4 +7,4 @@ An eternity of blood. Glorious.
 ---
 ## Tags
 #League/Legion
-#Item/Scarab
+#Category/Scarab

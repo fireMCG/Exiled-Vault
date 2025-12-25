@@ -6,5 +6,5 @@ On their hopeless, last endeavour.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

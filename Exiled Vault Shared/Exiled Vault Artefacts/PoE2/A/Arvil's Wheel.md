@@ -7,5 +7,5 @@ at body and mind.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

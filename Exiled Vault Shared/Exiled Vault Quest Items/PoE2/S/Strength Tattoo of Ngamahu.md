@@ -7,6 +7,6 @@ When Ngamahu's chosen truly wish to destroy an enemy, nothing can stop them.
 ## Tags
 #Character/God/Ngamahu
 #Character/God/Ngamahu
-#Item/QuestItem
+#Category/QuestItem
 #PoE2
 #Society/Karui/Tribe/Ngamahu

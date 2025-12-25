@@ -6,7 +6,7 @@ irrevocably bound together in perpetual torture.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/EaterOfWorlds 
 #Concept/Tangle 
 #PoE1

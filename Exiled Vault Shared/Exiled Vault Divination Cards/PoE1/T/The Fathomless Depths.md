@@ -9,5 +9,8 @@ Lightpoacher
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Light 
+#Concept/Night 
+#Concept/Void 
 #PoE1

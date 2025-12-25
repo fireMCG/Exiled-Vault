@@ -5,5 +5,5 @@ Look to the darkness for nourishment and you will never go hungry.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

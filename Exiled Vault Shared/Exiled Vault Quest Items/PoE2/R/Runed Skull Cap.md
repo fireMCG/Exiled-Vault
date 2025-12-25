@@ -7,6 +7,6 @@ The rune emblazoned on the crest means
 ---
 ## Tags
 #Concept/Rune 
-#Item/QuestItem
+#Category/QuestItem
 #PoE2
 #Society/Ezomyte 

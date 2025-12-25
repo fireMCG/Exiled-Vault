@@ -13,5 +13,5 @@ Kiara's Determination
 ---
 ## Tags
 #Concept/Witch
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

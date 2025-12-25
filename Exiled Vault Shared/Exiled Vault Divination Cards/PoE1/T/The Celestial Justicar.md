@@ -14,5 +14,5 @@ Six-Link Astral Plate
 #Concept/Balance/Justice
 #Concept/Space 
 #Concept/Wing 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

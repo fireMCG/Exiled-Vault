@@ -1,7 +1,7 @@
 ## The Easy Stroll
 "I'm going for a walk. I'll be back soon."
 
- - Blonca's last words
+ \- Blonca's last words
 ## 
 ![[The Easy Stroll.png]]
 
@@ -14,5 +14,5 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

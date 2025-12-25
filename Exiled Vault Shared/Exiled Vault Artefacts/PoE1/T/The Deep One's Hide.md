@@ -6,5 +6,5 @@ the greater the beast that hunts it.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

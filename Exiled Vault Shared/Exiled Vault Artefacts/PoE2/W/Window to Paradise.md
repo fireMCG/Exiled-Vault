@@ -1,10 +1,14 @@
 ## Window to Paradise
-"Beyond fire, blood, and nightmare,
-the Savior will build utopia."
+"Beyond fire, blood, and nightmare, the Savior will build utopia."
 ##
 ![[Window to Paradise.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Blood 
+#Concept/Element/Fire 
+#Concept/Night/Nightmare 
+#Concept/Religion/Heaven 
+#Concept/Hero
 #PoE2

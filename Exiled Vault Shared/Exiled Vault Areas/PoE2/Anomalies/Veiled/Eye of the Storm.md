@@ -5,5 +5,5 @@ Within the storm, warriors can be seen, heard and feared.
 ---
 ## Tags
 #Category/Area
-#Item/Map
+#Category/Map
 #PoE2 

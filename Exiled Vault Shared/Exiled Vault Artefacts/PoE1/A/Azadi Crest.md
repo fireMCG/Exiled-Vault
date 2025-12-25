@@ -7,7 +7,7 @@ I say we attack head-on, like madmen. Let the fates decide."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Azadi
 #Character/Keita
 #PoE1

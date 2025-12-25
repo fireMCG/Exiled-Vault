@@ -6,7 +6,7 @@ naught remains but ash.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Maven 
 #Concept/Ash 
 #Concept/Emotion/Hate 

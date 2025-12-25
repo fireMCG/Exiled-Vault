@@ -6,5 +6,5 @@ live their entire lives in snow and ice.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

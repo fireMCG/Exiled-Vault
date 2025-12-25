@@ -4,5 +4,5 @@ The final court for aristocrats no longer deemed fit to rule.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

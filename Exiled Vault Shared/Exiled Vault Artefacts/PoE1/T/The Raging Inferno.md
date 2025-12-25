@@ -7,5 +7,5 @@ Don't fall in...
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

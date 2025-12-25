@@ -4,5 +4,5 @@ Bright colours hide the rot beneath.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

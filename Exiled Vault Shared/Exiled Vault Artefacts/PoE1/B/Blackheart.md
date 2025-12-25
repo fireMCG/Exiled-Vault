@@ -5,5 +5,5 @@ Fear is highly infectious.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

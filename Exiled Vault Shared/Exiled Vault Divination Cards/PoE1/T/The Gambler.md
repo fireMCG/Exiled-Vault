@@ -9,5 +9,6 @@ Divination Card
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Luck 
 #PoE1

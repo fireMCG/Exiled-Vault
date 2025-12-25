@@ -6,5 +6,5 @@ hardened, twisted.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ Darkness can never be sated.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

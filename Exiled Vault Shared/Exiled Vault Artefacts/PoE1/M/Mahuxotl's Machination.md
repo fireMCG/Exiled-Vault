@@ -6,5 +6,5 @@ darkest secrets of the Vaal... at the same time.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -6,5 +6,5 @@ that suffocates the unworthy.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

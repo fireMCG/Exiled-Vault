@@ -16,5 +16,5 @@ Item Level: 60
 ## Tags
 #Character/Emperor/VollOfThebrus
 #Concept/Purity 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

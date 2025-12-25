@@ -5,5 +5,5 @@ No one likes a quiet encore.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

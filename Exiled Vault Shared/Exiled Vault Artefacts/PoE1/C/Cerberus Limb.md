@@ -5,5 +5,5 @@ The greatest of guardians make the greatest of sacrifices.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

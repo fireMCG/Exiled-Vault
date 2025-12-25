@@ -6,5 +6,5 @@ as her body and soul became ever more corrupted.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

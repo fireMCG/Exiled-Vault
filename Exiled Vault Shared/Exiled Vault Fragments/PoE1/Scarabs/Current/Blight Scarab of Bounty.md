@@ -8,4 +8,4 @@ A ghastly fruit, but twice as sweet.
 ## Tags
 #Attributes/Disabled
 #League/Blight
-#Item/Scarab
+#Category/Scarab

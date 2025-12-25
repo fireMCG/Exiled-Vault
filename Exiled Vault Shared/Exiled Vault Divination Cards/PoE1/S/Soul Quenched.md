@@ -11,5 +11,5 @@ Disabled
 ## Tags
 #Concept/Darkness 
 #Concept/Soul 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

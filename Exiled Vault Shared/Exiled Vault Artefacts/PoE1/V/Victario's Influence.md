@@ -8,5 +8,5 @@ you'd better know who's writing it for you!"
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

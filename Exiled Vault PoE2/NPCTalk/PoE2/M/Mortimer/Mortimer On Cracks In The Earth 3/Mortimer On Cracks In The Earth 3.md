@@ -29,6 +29,6 @@ Mortimer: I see. Well, it is my duty to defend our kin from these monsters, and 
 
 ---
 ## Tags
-#Character/Mortimer
 #Category/NPCTalk
+#Character/Mortimer
 #Society/Lightless 

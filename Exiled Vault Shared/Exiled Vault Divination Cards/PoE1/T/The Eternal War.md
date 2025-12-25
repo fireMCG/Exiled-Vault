@@ -11,5 +11,9 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Corruption 
+#Concept/Power 
+#Concept/War 
+#League/Legion 
 #PoE1

@@ -7,5 +7,5 @@ It is its ability to hide in plain sight.
 
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #PoE1 

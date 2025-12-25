@@ -5,5 +5,5 @@ The giant cares not for the ants.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

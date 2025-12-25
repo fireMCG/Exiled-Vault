@@ -7,5 +7,5 @@ blissfully unaware of their flight from the sirens.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

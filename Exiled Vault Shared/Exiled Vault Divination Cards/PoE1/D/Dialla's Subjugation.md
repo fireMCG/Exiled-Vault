@@ -15,5 +15,14 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Dialla 
+#Character/Malachai 
+#Concept/Beauty 
+#Concept/Corruption
+#Concept/Gemling 
+#Concept/Madness 
+#Concept/Mind 
+#Concept/Virtue/Gem 
+#Concept/Virtue/Innocence 
 #PoE1

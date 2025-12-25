@@ -13,4 +13,4 @@ The strongbox contains a Sacrifice at Noon fragment.
 #Concept/Sacrifice 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

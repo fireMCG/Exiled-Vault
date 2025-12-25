@@ -6,7 +6,7 @@ Only to watch in horror as it ruptured and shattered under a tide of limbs.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/InfiniteHunger 
 #Concept/Body/Hand 
 #Concept/Fracture 

@@ -9,5 +9,5 @@ Wake of Destruction
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

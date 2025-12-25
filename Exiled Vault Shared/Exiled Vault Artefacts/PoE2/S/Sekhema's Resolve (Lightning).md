@@ -6,5 +6,5 @@ Vastiri, we shall remain, unchanged.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

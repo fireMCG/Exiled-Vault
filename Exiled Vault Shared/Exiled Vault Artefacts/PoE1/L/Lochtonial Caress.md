@@ -6,5 +6,5 @@ Surrender to me, and I will grant you everything.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

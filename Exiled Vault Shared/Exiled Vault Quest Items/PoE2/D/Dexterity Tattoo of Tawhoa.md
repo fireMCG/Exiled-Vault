@@ -7,6 +7,6 @@ Tawhoa rewards those who grow.
 ## Tags
 #Character/God/Tawhoa 
 #Character/God/Tawhoa
-#Item/QuestItem
+#Category/QuestItem
 #PoE2
 #Society/Karui/Tribe/Tawhoa 

@@ -14,5 +14,5 @@ I make a path in my heart.
 #Concept/Family/Son
 #Concept/Body/Heart 
 #Concept/Map 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

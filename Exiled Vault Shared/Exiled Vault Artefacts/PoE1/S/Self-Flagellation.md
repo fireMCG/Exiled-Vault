@@ -5,5 +5,5 @@ Beg for forgiveness.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -1,10 +1,14 @@
 ## Replica Shroud of the Lightless
 "Eyes of black, three by three, staring ever darker into me..."
-- Researcher Arn
+\- Researcher Arn
 ##
 ![[Replica Shroud of the Lightless.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/HeistResearcher/Arn 
+#Concept/Body/Eye 
+#Concept/Number/Three 
 #PoE1
+#Society/Lightless 

@@ -6,5 +6,5 @@ and surround yourself with people who know the rest.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
