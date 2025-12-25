@@ -7,5 +7,5 @@ I am certain he will have recorded his misdeeds.
 ---
 ## Tags
 #Character/Darnaw
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

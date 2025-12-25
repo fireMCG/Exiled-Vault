@@ -6,5 +6,5 @@ but that other than that, it is very good.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

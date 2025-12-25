@@ -7,5 +7,5 @@ Cut gently, lest their spirit haunt you.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

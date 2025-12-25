@@ -5,5 +5,5 @@ Though we cannot touch; one thought, one wish, through centuries alone in darkne
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

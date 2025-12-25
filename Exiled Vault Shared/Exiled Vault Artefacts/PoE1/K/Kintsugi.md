@@ -7,5 +7,5 @@ For it is these that set us apart.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

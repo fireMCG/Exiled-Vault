@@ -9,5 +9,5 @@ Tainted Mythic Orb
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

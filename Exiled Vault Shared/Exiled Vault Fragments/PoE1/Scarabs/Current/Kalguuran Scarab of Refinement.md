@@ -7,4 +7,4 @@ Ore's true worth lies not in stone, but in what it becomes.
 ---
 ## Tags
 #League/SettlersOfKalguur
-#Item/Scarab
+#Category/Scarab

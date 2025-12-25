@@ -8,5 +8,10 @@ Rest alone, my grand nightfall.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/RikerMaloney 
+#Concept/Darkness 
+#Concept/Emotion/Fear 
+#Concept/Music/Song 
+#Concept/Night 
 #PoE1

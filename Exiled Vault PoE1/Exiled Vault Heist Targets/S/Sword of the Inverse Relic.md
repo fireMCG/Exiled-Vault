@@ -6,7 +6,7 @@ but is becoming less weathered over time. We really must study its properties.
 
 ---
 ## Tags
+#Category/HeistTarget
 #Character/HeistResearcher/Qotra
-#Item/HeistTarget
 #League/Heist
 #PoE1 

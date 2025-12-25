@@ -6,5 +6,5 @@ drowning out the whispers of the defeated.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

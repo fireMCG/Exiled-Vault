@@ -13,5 +13,5 @@ The Vaal who survived the Cataclysm must now survive each other.
 ---
 ## Tags
 #Category/Area
-#Item/Map
+#Category/Map
 #PoE2 

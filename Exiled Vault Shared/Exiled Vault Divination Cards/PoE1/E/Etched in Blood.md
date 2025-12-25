@@ -13,5 +13,5 @@ Corrupted
 ## Tags
 #Character/Rigwald 
 #Concept/Virtue/Ambition 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

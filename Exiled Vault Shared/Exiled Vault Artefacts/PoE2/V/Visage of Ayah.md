@@ -1,10 +1,12 @@
 ## Visage of Ayah
 Tale-women do not fight as dekharas.
-They command a power all thier own.
+They command a power all their own.
 ##
 ![[Visage of Ayah.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Warrior 
 #PoE2
+#Society/Maraketh 

@@ -10,5 +10,7 @@ He would trade it all away and then some to have him back.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Family/Brother
+#Concept/Sun 
 #PoE1

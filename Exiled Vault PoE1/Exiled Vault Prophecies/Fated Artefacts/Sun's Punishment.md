@@ -18,4 +18,4 @@ Upgrades [[Sundance]] to [[Sunspite]] upon completion.
 #Concept/Sun 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

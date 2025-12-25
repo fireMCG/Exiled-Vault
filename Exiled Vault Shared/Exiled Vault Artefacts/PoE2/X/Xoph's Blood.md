@@ -6,5 +6,7 @@ Through us he carries his burning message.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/Breachlord/Xoph 
+#Concept/Blood 
 #PoE2

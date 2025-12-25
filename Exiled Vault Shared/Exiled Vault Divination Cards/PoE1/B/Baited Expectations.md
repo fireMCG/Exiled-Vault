@@ -9,5 +9,8 @@ Fishing Item
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Animal/Fish
+#Concept/Sun 
+#Concept/Water 
 #PoE1

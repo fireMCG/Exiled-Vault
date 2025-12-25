@@ -13,4 +13,4 @@ And there is no fish bigger than the Empire, and no bait as tempting as Ezomyr.
 #PoE1
 #Society/EternalEmpire 
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

@@ -15,5 +15,5 @@ Item Level: 83
 #Concept/Corruption 
 #Concept/Goddess 
 #Concept/Fracture 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

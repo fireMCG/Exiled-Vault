@@ -10,5 +10,5 @@ There is no mistake so great that it cannot be undone.
 ---
 ## Tags
 #Concept/Space/Entropy 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

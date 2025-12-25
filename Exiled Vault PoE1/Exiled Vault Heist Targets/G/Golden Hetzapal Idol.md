@@ -7,7 +7,7 @@ Reckon it'll make a fine trophy for my efforts.
 ---
 ## Tags
 #Character/GrondIroneye
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/VaalEmpire 

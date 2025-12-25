@@ -4,7 +4,7 @@ We task you, honoured Omid, with the investigation of this mysterious 'Xoph' and
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

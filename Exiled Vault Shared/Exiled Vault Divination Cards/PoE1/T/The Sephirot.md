@@ -9,5 +9,9 @@ If the path to divinity were simple, we'd all be gods.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Crown/Halo 
+#Concept/God 
+#Concept/Religion/Divinity 
+#Concept/Sun 
 #PoE1

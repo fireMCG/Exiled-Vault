@@ -4,5 +4,5 @@ As separate worlds draw ever closer, the Nameless gather at the edge of existenc
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

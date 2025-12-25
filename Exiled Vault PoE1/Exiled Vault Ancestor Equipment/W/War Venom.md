@@ -7,7 +7,7 @@ The fire in the blood is like no other thrill.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Concept/Blood 
 #League/Ancestor
 #PoE1 

@@ -1,11 +1,13 @@
 ## Replica Harvest
 "Why is Prototype #67 never in the vault it should be?
 Either we're keeping faulty logs, or..."
-- Researcher Graven
+/- Researcher Graven
 ##
 ![[Replica Harvest.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/HeistResearcher/Graven 
+#Concept/Nature/Harvest 
 #PoE1

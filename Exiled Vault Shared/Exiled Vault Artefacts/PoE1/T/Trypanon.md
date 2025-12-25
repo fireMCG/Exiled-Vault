@@ -8,5 +8,5 @@ was not so delicate."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

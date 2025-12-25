@@ -11,5 +11,7 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Animal/Feline/Cat 
+#Concept/Madness 
 #PoE1

@@ -13,5 +13,5 @@
 #Character/Quintoon
 #Concept/Balance/Chaos 
 #Concept/Family/Mother 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -14,5 +14,5 @@ Corrupted
 #Concept/Body/Flesh 
 #Concept/Prison 
 #Concept/Virtue/Gem 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

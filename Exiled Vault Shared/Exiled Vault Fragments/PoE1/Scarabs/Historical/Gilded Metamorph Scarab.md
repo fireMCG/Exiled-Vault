@@ -4,7 +4,7 @@ There was a man of bone, rotting flesh, and weeping black, but his name, his ill
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

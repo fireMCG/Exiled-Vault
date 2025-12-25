@@ -7,7 +7,7 @@ they fought to the death for every last drop.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Maven 
 #Concept/Space 
 #Concept/Creation

@@ -7,5 +7,5 @@ or blood." - Keita's proclaimation, 872 IC
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

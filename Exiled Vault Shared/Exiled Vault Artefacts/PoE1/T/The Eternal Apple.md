@@ -7,5 +7,5 @@ The idea, and our ideals, take root.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

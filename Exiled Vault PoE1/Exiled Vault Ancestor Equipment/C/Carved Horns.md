@@ -7,7 +7,7 @@ Passed down through the generations, they protect those who seek Valako's grace.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Character/God/Valako 
 #Character/God/Valako 
 #League/Ancestor

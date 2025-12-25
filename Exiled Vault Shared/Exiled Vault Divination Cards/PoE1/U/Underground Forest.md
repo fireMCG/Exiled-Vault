@@ -11,5 +11,5 @@
 ## Tags
 #Concept/Nature/Forest
 #Concept/Underground
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

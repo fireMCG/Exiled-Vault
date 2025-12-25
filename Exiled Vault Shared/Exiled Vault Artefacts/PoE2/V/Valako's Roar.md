@@ -6,5 +6,9 @@ Flashes of light show only swinging axes... and a grin.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/God/Valako
+#Concept/Element/Lightning 
+#Concept/Sky 
+#Concept/Water/Sea 
 #PoE2

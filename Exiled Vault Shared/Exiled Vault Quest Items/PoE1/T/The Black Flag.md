@@ -7,5 +7,5 @@ nethers, and may our blades follow."
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

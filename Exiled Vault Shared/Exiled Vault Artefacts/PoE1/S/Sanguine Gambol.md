@@ -8,5 +8,5 @@ Your soul letting go
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

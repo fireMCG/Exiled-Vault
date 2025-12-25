@@ -12,5 +12,11 @@ Varunastra
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Beauty 
+#Concept/God 
+#Concept/Mirror 
+#Concept/Moon 
+#Concept/Taming 
+#Concept/Water/Sea 
 #PoE1

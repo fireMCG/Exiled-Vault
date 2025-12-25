@@ -9,5 +9,8 @@ When you find what you're looking for, it's never quite right. When you have wha
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Darkness 
+#Concept/Desire 
+#Concept/Eldritch
 #PoE1

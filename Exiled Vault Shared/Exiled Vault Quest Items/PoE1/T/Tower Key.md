@@ -6,5 +6,5 @@ Man must choose whether to open it.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

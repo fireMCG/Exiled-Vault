@@ -7,6 +7,6 @@ It will tell me when it is best to strike."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2
 #Society/VaalEmpire 

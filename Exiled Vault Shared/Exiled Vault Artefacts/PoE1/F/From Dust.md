@@ -7,5 +7,5 @@ A cemetery is no different."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

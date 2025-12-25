@@ -5,5 +5,5 @@ Nothing stops the pain like a courageous rush into battle.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

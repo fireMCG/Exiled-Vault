@@ -1,6 +1,6 @@
 ## The Thaumaturgist
 "Mastery of thaumaturgy is like any other pursuit; it requires dedication and sacrifice. Sometimes several sacrifices."
-- Shavronne of Umbra
+\- Shavronne of Umbra
 ## 
 ![[The Thaumaturgist.png]]
 
@@ -11,5 +11,8 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Shavronne 
+#Concept/Sacrifice 
+#Concept/Thaumaturgy 
 #PoE1

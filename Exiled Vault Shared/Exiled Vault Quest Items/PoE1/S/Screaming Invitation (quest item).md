@@ -9,5 +9,5 @@ reaches out for control of the Atlas.
 #Concept/AtlasOfWorlds
 #Character/Eldritch/EaterOfWorlds 
 #Concept/Tangle
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

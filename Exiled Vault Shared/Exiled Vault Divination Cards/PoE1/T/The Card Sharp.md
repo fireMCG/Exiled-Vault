@@ -10,5 +10,5 @@ Divination Scarab
 ---
 ## Tags
 #Concept/Aztec
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

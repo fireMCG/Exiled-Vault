@@ -6,7 +6,7 @@ of countless disintegrated worlds.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/EaterOfWorlds 
 #Concept/Ash 
 #Concept/World 

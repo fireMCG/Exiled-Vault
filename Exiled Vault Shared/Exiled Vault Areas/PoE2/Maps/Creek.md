@@ -4,5 +4,5 @@ Dark energies congeal the lifeblood of the forest.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

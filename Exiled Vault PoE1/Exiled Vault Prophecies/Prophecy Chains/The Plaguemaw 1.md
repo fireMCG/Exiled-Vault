@@ -12,4 +12,4 @@ You will encounter a powerful golem in a Vaal side area and defeat it.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

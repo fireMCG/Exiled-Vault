@@ -7,5 +7,5 @@ Outlast the rewards of the Flesh.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

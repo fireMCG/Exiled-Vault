@@ -6,5 +6,5 @@ in every skin the great beasts shed.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ May your resolve never waver.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

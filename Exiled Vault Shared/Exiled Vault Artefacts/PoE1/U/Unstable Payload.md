@@ -5,5 +5,5 @@ Saboteurs, like chefs, have their own secret recipes.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

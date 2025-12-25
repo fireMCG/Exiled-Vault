@@ -14,4 +14,4 @@ upon those that would make us their prey.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

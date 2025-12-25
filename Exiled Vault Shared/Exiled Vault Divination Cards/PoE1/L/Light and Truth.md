@@ -13,5 +13,5 @@ Crystal Sceptre
 ---
 ## Tags
 #Concept/Light 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -9,5 +9,7 @@ Tidebreaker
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Madness 
+#Concept/Water/Sea 
 #PoE1

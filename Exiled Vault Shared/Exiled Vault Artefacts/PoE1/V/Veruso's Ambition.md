@@ -6,5 +6,5 @@ families. Follow me if you hunger for more than this!"
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

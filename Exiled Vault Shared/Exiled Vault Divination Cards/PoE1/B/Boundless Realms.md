@@ -9,5 +9,8 @@ Map
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Border
+#Concept/Time/Cycle 
+#Concept/World 
 #PoE1

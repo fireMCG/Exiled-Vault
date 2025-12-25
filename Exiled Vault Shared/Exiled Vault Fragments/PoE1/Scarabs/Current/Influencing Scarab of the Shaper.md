@@ -6,4 +6,4 @@ A sea of stars awaits those who dare imagine.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

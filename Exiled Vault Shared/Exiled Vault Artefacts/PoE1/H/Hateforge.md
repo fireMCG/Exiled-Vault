@@ -5,6 +5,6 @@ The first Karui born on the fringes of the Vaal empire developed a blood fever b
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

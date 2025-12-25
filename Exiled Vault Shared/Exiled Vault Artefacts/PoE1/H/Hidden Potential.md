@@ -6,5 +6,5 @@ is what they see when they look at the same block of wood.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

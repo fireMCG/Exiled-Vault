@@ -5,5 +5,5 @@ What we give to others, we also give to ourselves.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

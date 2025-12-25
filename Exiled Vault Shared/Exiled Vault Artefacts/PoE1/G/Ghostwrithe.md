@@ -5,5 +5,5 @@ Faith springs abundant at the edge of death.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

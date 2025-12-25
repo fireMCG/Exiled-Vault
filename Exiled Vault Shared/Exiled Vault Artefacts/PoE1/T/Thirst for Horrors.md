@@ -5,5 +5,5 @@ What goes out must come in.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

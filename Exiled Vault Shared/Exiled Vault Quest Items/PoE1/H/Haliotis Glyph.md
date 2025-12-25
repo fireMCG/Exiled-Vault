@@ -6,5 +6,5 @@ to the fingertips. This is no mere decoration.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

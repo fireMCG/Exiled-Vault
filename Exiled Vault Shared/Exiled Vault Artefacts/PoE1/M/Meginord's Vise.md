@@ -7,5 +7,5 @@ live with honour.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

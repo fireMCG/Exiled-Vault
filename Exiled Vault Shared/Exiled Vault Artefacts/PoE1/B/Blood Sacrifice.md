@@ -5,5 +5,5 @@ Power always comes with a price.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ Like lightning, the Ezomyte cavalry need never strike twice.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

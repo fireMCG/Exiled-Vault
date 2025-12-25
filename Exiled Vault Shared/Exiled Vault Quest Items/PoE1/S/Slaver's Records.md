@@ -8,5 +8,5 @@ It's time we find who is leading them.
 ## Tags
 #Concept/Emotion/Hate
 #Concept/Slavery
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

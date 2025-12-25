@@ -12,5 +12,5 @@ Map Tier: 6
 ## Tags
 #Concept/Map 
 #Concept/Water 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

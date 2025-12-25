@@ -5,5 +5,5 @@ The desert is ever flowing.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

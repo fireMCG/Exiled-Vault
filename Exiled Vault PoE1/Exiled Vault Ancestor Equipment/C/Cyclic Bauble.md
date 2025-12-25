@@ -7,7 +7,7 @@ The end of Time is also its beginning.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Concept/Time/Beginning
 #Concept/Time/Cycle 
 #Concept/Time/Ending 

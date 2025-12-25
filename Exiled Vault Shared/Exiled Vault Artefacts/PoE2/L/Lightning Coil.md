@@ -7,5 +7,5 @@ but it was Valako that tamed the broken sky.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

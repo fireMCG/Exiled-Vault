@@ -13,5 +13,5 @@ Cospri's Malice
 ---
 ## Tags
 #Concept/Season/Winter 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

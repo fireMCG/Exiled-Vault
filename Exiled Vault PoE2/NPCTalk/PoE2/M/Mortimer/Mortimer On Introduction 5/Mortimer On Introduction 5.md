@@ -38,6 +38,6 @@ Mortimer: He is a very good dog, yes...
 
 ---
 ## Tags
+#Category/NPCTalk 
 #Character/Mortimer
-#Category/NPCTalk
-#Society/Lightless 
+#Location/Wraeclast/Phaaryl/Ogham 

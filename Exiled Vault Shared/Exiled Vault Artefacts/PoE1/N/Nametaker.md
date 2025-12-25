@@ -6,5 +6,5 @@ dearly held secrets spill forth in our blood.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

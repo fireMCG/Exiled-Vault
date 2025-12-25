@@ -9,5 +9,5 @@ corporeal and pellucid in crystal.
 #Concept/Corruption 
 #Concept/Crystal 
 #Concept/Virtue/Gem 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

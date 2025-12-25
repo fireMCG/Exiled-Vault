@@ -5,5 +5,5 @@ The end always comes sooner than we think.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

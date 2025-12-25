@@ -7,5 +7,5 @@ and so we give up our flesh.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

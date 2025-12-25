@@ -15,5 +15,5 @@ Corrupted
 #Concept/Life 
 #Concept/Luck 
 #Concept/Night/Dreamer 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

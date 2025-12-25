@@ -7,4 +7,4 @@ Their crimes in life haunt you in death.
 ---
 ## Tags
 #League/Torment
-#Item/Scarab
+#Category/Scarab

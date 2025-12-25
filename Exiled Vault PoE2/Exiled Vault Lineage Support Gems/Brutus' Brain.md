@@ -14,8 +14,8 @@ Immortal! But she soon realized there was one piece missing...
 #Concept/Element/Lightning
 #Concept/Life/Immortality 
 #Concept/Sky 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/EternalEmpire 
-#Item/SupportGem
+#Category/SupportGem
 #Attributes/Timeline 

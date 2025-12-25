@@ -6,7 +6,7 @@ We had nothing, yet to my mother's credit, I wanted for so little.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/HighTemplar/Venarius
 #Concept/Memory
 #Concept/Family/Mother 

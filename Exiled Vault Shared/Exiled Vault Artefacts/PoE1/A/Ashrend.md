@@ -5,6 +5,6 @@ The blasted oak stands forever.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Concept/Ash 
 #PoE1

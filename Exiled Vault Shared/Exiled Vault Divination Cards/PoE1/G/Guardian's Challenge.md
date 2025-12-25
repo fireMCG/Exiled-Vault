@@ -10,5 +10,5 @@ Shaper Guardian Map
 ---
 ## Tags
 #Concept/Void 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -5,5 +5,5 @@ The Order never lost sight of their mission, no matter the cost.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

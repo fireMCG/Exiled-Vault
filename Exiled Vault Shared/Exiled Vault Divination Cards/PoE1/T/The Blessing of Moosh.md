@@ -12,6 +12,6 @@ Corrupted
 ## Tags
 #Concept/Animal/Feline/Cat
 #Concept/Virtue/Gem 
-#Item/DivinationCard
+#Category/DivinationCard
 #Location/Wraeclast/EternalLabyrinth
 #PoE1

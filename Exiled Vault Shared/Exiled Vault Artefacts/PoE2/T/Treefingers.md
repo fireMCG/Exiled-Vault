@@ -6,5 +6,5 @@ are not flesh and blood.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

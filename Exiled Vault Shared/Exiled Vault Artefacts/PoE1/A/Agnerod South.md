@@ -5,5 +5,5 @@ One for each corner of the great Vinktar Square.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

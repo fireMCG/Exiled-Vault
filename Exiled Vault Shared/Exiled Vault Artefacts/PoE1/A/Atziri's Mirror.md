@@ -6,7 +6,7 @@
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Atziri 
 #Concept/Death 
 #Concept/Mirror 

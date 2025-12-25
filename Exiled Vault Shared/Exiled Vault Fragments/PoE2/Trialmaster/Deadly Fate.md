@@ -7,5 +7,5 @@ becomes all but inevitable.
 
 ---
 ## Tags
-#Item/Fragment 
+#Category/Fragment 
 #PoE2 

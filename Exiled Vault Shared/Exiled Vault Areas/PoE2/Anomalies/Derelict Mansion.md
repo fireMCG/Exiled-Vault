@@ -15,5 +15,5 @@ Darkness always finds its way into the minds of the weak.
 ---
 ## Tags
 #Category/Area
-#Item/Map
+#Category/Map
 #PoE2 

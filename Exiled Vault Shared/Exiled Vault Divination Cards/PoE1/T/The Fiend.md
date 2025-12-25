@@ -13,5 +13,9 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Animal/Mythological/Dragon 
+#Concept/Eclipse 
+#Concept/God 
+#Concept/Power 
 #PoE1

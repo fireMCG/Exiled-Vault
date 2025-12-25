@@ -1,10 +1,11 @@
 ## Wulfsbane
-The Counts of Ogham share a
-legacy of cunning and power.
+The Counts of Ogham share a legacy of cunning and power.
 ##
 ![[Wulfsbane.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Legacy 
+#Location/Wraeclast/Phaaryl/Ogham 
 #PoE2

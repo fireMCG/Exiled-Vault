@@ -12,5 +12,5 @@ Forbidden Shako
 #Concept/Demon 
 #Concept/Mind 
 #Concept/Within 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

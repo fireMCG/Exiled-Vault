@@ -7,4 +7,4 @@ Trust in the Draíocht, and you shall never be alone.
 ---
 ## Tags
 #League/Ritual
-#Item/Scarab
+#Category/Scarab

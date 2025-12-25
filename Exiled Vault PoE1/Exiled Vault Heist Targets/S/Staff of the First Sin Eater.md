@@ -8,7 +8,7 @@ Nevertheless, history demands truth, even if it takes centuries to be revealed.
 ## Tags
 #Character/RingClient/CrimsonScribe
 #Concept/Sin
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/OrderOfTheSinEaters

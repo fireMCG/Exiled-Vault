@@ -13,5 +13,5 @@ Corrupted
 ## Tags
 #Character/Atziri 
 #Character/Toggo
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -17,4 +17,4 @@ Upgrades [[Queen's Decree]] to [[Queen's Escape]] upon completion.
 #Concept/Undead 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

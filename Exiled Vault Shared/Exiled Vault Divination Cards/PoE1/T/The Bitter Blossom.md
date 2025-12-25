@@ -14,5 +14,5 @@ Corrupted
 #Concept/Demon 
 #Concept/Nature/Flower 
 #Concept/Virtue/Gem 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

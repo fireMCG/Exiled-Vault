@@ -5,5 +5,5 @@ I sacrificed a life of love for one of responsibility, so that she, and others l
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

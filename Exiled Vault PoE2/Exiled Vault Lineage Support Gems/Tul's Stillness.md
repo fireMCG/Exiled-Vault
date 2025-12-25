@@ -12,7 +12,7 @@ die. Their eyes remain open, their essence stilled, waiting."
 #Character/Breachlord/Tul
 #Concept/Essence 
 #Concept/Body/Eye 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/Hiveborn 
-#Item/SupportGem
+#Category/SupportGem

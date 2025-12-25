@@ -7,5 +7,5 @@ If you cannot tame it, embrace it.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -4,7 +4,7 @@ The books were burned, and the scribes set themselves aflame. What secret so ter
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

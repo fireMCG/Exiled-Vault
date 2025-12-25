@@ -5,5 +5,5 @@ In all things, control.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

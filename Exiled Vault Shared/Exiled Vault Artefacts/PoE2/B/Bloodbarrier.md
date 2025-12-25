@@ -6,5 +6,5 @@ where countless voices scream...
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

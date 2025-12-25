@@ -10,5 +10,10 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Colour/Red 
+#Concept/FirstOnes 
+#Concept/God
+#Concept/Sky 
 #PoE1
+#Society/Ezomyte 

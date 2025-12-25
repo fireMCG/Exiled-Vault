@@ -15,4 +15,4 @@ Upgrades [[Timeclasp]] to [[Timetwist]] upon completion.
 #Concept/Time 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

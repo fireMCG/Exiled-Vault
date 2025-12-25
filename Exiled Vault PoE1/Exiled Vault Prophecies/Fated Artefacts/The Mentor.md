@@ -14,4 +14,4 @@ Upgrades [[Matua Tupuna]] to [[Whakatutuki o Matua]] upon completion.
 #Concept/Light 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

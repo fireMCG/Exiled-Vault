@@ -7,5 +7,5 @@ sweeping across mountains and forests.
 
 ---
 ## Tags
-#Item/Fragment 
+#Category/Fragment 
 #PoE2 

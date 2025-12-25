@@ -7,5 +7,5 @@ continually leveraging the power of each against the next.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

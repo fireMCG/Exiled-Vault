@@ -6,5 +6,5 @@ The first spark is never the last.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

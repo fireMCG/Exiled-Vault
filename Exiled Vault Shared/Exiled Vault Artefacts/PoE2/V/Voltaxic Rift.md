@@ -7,5 +7,8 @@ arcane power. There was no escape, no shelter. Only despair.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Body/Flesh 
+#Concept/Element/Lightning 
+#Concept/Storm 
 #PoE2

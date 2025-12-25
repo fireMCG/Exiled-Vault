@@ -6,5 +6,5 @@ The spikes point out and in, you know.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

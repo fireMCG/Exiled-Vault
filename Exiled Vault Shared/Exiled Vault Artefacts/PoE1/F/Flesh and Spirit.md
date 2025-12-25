@@ -5,5 +5,5 @@ What is greed but trading a mountain of death for a sliver of life?
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

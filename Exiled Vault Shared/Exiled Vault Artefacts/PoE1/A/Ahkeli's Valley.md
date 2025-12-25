@@ -8,7 +8,7 @@ Dammed by the coagulating dead.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Ahkeli
 #Concept/Damnation 
 #Concept/Water/River

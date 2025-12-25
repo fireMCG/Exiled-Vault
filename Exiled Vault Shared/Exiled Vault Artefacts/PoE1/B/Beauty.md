@@ -6,6 +6,6 @@ but victorious. You have overcome.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

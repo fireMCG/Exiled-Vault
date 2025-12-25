@@ -11,5 +11,5 @@ Inspired Learning
 ---
 ## Tags
 #Concept/Virtue/Knowledge 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

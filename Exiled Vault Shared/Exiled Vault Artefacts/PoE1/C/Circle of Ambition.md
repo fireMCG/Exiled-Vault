@@ -6,5 +6,5 @@ The day is coming... I have seen it.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

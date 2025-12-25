@@ -6,5 +6,5 @@ but something much greater is needed to unleash the wildfire of true divine flam
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

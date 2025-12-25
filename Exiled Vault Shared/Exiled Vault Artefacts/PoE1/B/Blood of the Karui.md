@@ -9,5 +9,5 @@ So their King might go on."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

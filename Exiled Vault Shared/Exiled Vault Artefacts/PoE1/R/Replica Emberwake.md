@@ -1,11 +1,12 @@
 ## Replica Emberwake
 "The flames raced through Lab Five with incredible speed, but were extinguished
 just as quickly. This could have been much worse."
-- Lead Researcher Ksaret
+/- Lead Researcher Ksaret
 ##
 ![[Replica Emberwake.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/HeistResearcher/Ksaret 
 #PoE1

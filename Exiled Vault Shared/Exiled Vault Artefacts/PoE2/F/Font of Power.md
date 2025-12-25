@@ -6,5 +6,5 @@ for they have a much higher purpose.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

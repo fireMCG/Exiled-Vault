@@ -5,7 +5,7 @@ The body stands, but the spirit soars.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Concept/Body/Flesh 
 #Concept/Spirit 
 #PoE1

@@ -7,7 +7,7 @@ consuming the knowledge of fallen civilisations.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/SearingExarch 
 #Concept/Time/Dawn
 #Concept/Virtue/Knowledge 

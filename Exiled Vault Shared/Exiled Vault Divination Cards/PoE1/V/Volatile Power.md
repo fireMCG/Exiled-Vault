@@ -15,5 +15,5 @@ Corrupted
 #Concept/Mind 
 #Concept/Power
 #Concept/Virtue/Gem 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

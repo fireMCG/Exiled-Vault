@@ -7,4 +7,4 @@ Some regions of the Atlas never change.
 ---
 ## Tags
 #Attributes/Disabled
-#Item/Scarab
+#Category/Scarab

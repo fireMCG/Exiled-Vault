@@ -7,8 +7,8 @@ Inflicting pain beyond measure
 
 ---
 ## Tags
-#Item/Artefact
-#Character/Shaper 
+#Category/Artefact
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius
 #Concept/Creation
 #Concept/Time 

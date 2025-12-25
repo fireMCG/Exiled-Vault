@@ -7,5 +7,5 @@ of liquid courage.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ Those who could flee did so. The rest fought bravely, and died horrifically.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

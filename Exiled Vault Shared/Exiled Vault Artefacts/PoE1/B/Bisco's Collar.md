@@ -8,5 +8,5 @@ until fate pulled you away.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

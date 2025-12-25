@@ -6,5 +6,5 @@ one must be ever vigilant.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -6,5 +6,5 @@ It mattered little. When Erqi's maul fell true, so did its target.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ Entropy can be reversed.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

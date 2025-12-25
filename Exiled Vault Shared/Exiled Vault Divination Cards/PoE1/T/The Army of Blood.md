@@ -19,5 +19,5 @@ Bloodbond
 #Concept/Light 
 #Concept/Mind 
 #Concept/Number/Twelve
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

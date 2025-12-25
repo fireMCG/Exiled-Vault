@@ -5,5 +5,5 @@ Not even the storm knows when lightning will strike.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -17,4 +17,4 @@ are one and the same.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

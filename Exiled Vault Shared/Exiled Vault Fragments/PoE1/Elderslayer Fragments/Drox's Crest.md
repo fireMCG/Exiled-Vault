@@ -8,5 +8,5 @@ but lost his people.
 ---
 ## Tags
 #Character/Drox
-#Item/Fragment
+#Category/Fragment
 #PoE1 

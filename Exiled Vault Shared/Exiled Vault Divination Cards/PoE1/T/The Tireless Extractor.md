@@ -1,6 +1,6 @@
 ## The Tireless Extractor
 "I am not alone in this. I have God by my side! And... you help sometimes, I suppose."
-- Sister Cassia
+\- Sister Cassia
 ## 
 ![[The Tireless Extractor.png]]
 
@@ -10,5 +10,7 @@
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Cassia
+#Concept/God 
 #PoE1

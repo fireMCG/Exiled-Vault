@@ -7,4 +7,4 @@ Delve into darkness in search of the truth...
 ---
 ## Tags
 #League/Delve
-#Item/Scarab
+#Category/Scarab

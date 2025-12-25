@@ -6,7 +6,7 @@ I forgive you.
 #
 ---
 ## Tags
-#Character/Shaper
+#Character/Eldritch/Shaper
 #Character/Zana
 #PoE1 
 #Category/Reliquary

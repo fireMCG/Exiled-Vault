@@ -1,10 +1,10 @@
 ## Replica Quill Rain
 "How did you manage to lodge arrows in every single test subject and researcher in Lab Three simultaneously?"
-- Doctor Bircus
+\- Doctor Bircus
 ##
 ![[Replica Quill Rain.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

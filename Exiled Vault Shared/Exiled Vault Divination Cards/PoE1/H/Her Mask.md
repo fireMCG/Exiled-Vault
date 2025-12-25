@@ -14,5 +14,5 @@ Sacrifice Fragment
 #Concept/Fracture/Fragment 
 #Concept/Sacrifice 
 #Concept/Sin/Vanity 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

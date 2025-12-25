@@ -16,8 +16,8 @@ for eternity. Surely we can seek perfection together?"
 #Concept/Emotion/Love 
 #Concept/Queen 
 #Concept/Virtue/Gem 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/EternalEmpire 
-#Item/SupportGem
+#Category/SupportGem
 #Attributes/Timeline 

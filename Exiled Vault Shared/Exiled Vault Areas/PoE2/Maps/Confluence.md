@@ -4,5 +4,5 @@ Where nomads share tales of a time before drought.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

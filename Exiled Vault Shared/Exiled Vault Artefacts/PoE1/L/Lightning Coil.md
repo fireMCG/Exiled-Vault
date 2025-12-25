@@ -7,5 +7,5 @@ to galvanize one's purpose in life."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ Be not blinded by the light.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

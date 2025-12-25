@@ -6,5 +6,5 @@ There is always a wager to be made... if you can afford it.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab
 #Society/VaalEmpire 

@@ -11,5 +11,5 @@ Nebulis
 ## Tags
 #Concept/Memory 
 #Concept/Void 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

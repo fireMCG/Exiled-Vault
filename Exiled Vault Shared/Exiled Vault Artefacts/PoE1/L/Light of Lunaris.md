@@ -5,5 +5,5 @@ Without night, there can be no day.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

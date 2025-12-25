@@ -5,5 +5,5 @@ The hunt continues when the prey falls.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

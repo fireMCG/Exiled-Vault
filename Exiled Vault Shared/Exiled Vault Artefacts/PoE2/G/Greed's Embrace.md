@@ -6,5 +6,5 @@ The rest were already dead.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

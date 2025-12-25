@@ -17,5 +17,5 @@ Upgrades [[Atziri's Mirror]] to [[Atziri's Reflection]] upon completion.
 #Concept/Mirror 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy
 #Society/VaalEmpire 

@@ -12,4 +12,4 @@ You will find Zana and complete her mission.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

@@ -8,5 +8,5 @@ To the wily Kishara's eye, a star brighter than the sun.
 #Character/Kishara
 #Concept/Light
 #Concept/Space/Star
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

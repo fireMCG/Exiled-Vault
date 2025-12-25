@@ -6,6 +6,6 @@ unknown and snarled to the very last.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

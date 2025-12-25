@@ -7,5 +7,5 @@ One day, justice would fall upon them...
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

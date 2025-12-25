@@ -6,5 +6,5 @@ Not so, the battle for survival.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

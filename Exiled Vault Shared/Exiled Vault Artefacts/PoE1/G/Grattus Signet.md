@@ -5,5 +5,5 @@ The first Grattus patriarch had only one tell. When he slowly turned his ring, a
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

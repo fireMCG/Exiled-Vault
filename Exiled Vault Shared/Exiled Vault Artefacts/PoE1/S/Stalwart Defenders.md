@@ -6,5 +6,5 @@ They crashed and clamoured like waves against rocks, and were swept back out to 
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -11,6 +11,6 @@ Beyond Item
 ## Tags
 #Concept/Blood 
 #Concept/World 
-#Item/DivinationCard
+#Category/DivinationCard
 #League/Beyond 
 #PoE1

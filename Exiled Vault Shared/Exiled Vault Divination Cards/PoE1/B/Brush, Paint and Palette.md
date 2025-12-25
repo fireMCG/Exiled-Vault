@@ -1,5 +1,6 @@
 ## Brush, Paint and Palette
-"Man may shape the world, but these? These shape the man." -Inquisitor Maligaro
+"Man may shape the world, but these? These shape the man."
+\- Inquisitor Maligaro
 ## 
 ![[Brush, Paint and Palette.png]]
 
@@ -9,5 +10,7 @@ The Artist
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Maligaro 
+#Concept/World 
 #PoE1

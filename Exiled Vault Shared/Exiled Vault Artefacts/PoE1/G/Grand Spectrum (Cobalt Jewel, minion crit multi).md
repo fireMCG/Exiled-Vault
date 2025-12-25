@@ -5,5 +5,5 @@ A mass of flesh writhing with savage fury.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

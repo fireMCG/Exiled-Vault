@@ -8,5 +8,5 @@ in watching the struggle for survival.
 ---
 ## Tags
 #Character/Eldritch/Maven 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

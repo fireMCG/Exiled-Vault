@@ -11,6 +11,6 @@ descended upon her enemies and their armies of darkness.
 #Concept/Darkness
 #Concept/Wing
 #Character/God/Garukhan
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Society/Maraketh 

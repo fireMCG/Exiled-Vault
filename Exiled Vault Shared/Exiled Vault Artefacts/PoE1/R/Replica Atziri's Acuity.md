@@ -6,6 +6,6 @@ and he has not stopped screaming for months..."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

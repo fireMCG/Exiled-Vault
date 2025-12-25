@@ -8,7 +8,7 @@ and Matatl soared above their best.
 ---
 ## Tags
 #Character/RemusHestor
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/VaalEmpire 

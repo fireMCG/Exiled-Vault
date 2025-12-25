@@ -6,5 +6,5 @@ but as a divine saviour trapped in a man's body.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -8,5 +8,5 @@ That Ondar felt the full weight of his guilt.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

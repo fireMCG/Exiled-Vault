@@ -15,7 +15,7 @@ as blood, bright as flame, and bubbled with strange heat.
 #Concept/Element/Fire 
 #Concept/Body/Flesh 
 #Concept/Water 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/VaalEmpire 
-#Item/SupportGem
+#Category/SupportGem

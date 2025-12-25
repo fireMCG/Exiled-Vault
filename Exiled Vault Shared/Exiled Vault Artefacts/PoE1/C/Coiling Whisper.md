@@ -6,5 +6,5 @@ My promises were hollow ever after.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ Who can tell when whispers are truly from a god?
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

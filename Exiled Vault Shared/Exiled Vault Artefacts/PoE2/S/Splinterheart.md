@@ -7,5 +7,5 @@ lest they return with a strange new purpose.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

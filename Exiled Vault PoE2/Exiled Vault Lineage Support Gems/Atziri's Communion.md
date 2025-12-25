@@ -13,5 +13,5 @@ It accomplished all of these things... most horribly.
 #Concept/Communion 
 #Concept/Life/Immortality 
 #Concept/Soul 
-#Item/Lineage 
+#Category/Lineage 
 #Society/VaalEmpire 

@@ -5,5 +5,5 @@ In the coldest depths of the Winter of the World, overrun by darkness and fighti
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

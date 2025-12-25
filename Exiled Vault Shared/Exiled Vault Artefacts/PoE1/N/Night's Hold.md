@@ -8,5 +8,5 @@ seek shelter from their grasp until daybreak.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

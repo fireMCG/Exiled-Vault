@@ -8,5 +8,5 @@ It is suffering that forges the greatest warriors.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

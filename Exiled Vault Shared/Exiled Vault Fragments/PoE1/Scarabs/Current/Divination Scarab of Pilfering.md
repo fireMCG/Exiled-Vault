@@ -6,4 +6,4 @@ If you do not seize your fate, someone else will.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

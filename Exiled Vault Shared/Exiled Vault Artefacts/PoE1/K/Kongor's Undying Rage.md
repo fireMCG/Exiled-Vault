@@ -5,5 +5,5 @@ Command like a king and nothing will stand in your way.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

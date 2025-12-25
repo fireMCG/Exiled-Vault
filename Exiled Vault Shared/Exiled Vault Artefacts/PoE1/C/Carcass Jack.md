@@ -7,5 +7,5 @@ can deny that my work has made quite the splash..."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

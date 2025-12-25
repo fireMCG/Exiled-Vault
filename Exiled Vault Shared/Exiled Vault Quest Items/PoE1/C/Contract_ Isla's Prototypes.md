@@ -5,5 +5,5 @@ My inventions, my babies, deserve to be in better hands!
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

@@ -14,4 +14,4 @@ They should tear our enemies asunder.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

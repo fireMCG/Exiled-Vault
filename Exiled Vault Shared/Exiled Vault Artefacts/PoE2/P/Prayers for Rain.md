@@ -7,5 +7,5 @@ should the opportunity arise.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

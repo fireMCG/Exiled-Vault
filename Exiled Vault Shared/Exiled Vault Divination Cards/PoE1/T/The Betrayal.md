@@ -10,5 +10,5 @@ Maligaro's Virtuosity
 ---
 ## Tags
 #Character/Maligaro 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

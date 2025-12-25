@@ -5,6 +5,6 @@ Blow it all down! The emperor must have his gems, no matter the cost!
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Society/EternalEmpire 

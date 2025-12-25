@@ -8,5 +8,5 @@ just to capture thee.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

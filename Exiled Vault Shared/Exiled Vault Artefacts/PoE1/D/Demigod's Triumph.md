@@ -5,5 +5,5 @@ To stand triumphant you must serve no master other than your own ambition.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

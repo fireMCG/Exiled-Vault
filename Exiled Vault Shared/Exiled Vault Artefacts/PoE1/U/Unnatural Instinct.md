@@ -6,5 +6,5 @@ I just know that I know."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

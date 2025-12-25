@@ -9,5 +9,10 @@ Voidforge
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Body/Eye 
+#Concept/Border 
+#Concept/Darkness 
+#Concept/Space/Star 
+#Concept/Void 
 #PoE1

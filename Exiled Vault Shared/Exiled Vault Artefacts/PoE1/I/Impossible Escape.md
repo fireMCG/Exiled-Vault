@@ -7,7 +7,7 @@ for supremacy. She alone reached her limit... and broke through.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Maven
 #Concept/Space 
 #Concept/Death 

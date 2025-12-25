@@ -8,5 +8,5 @@ So that it would not consume her world.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

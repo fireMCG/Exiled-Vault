@@ -4,7 +4,7 @@ Your outlaw camp abandoned you when their surprise attack failed, young Rindwik.
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

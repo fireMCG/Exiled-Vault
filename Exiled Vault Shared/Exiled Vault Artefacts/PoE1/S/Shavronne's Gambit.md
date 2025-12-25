@@ -6,5 +6,5 @@ but Shavronne had laid for them one final trap.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

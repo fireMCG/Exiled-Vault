@@ -6,5 +6,5 @@ when you do it yourself.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

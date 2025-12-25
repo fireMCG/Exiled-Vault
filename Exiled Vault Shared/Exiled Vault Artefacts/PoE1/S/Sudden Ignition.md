@@ -7,5 +7,5 @@ Finally, Victario lit the match.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -7,5 +7,5 @@ I would rather see the end of the Vaal than help it tread water."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -7,5 +7,5 @@ Let the sinners come, for we - the Pure - shall endure!"
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

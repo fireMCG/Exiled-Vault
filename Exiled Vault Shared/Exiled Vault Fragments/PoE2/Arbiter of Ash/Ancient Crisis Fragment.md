@@ -6,5 +6,5 @@ A carved piece of something older than the Vaal.
 
 ---
 ## Tags
-#Item/Fragment 
+#Category/Fragment 
 #PoE2 

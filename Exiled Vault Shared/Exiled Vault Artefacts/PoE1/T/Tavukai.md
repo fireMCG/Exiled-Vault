@@ -7,5 +7,5 @@ Kaom seized her sacrifice, and in doing so, seized victory."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

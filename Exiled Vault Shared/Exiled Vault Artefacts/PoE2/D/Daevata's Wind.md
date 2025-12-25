@@ -5,5 +5,5 @@ As the flow of battle demanded, she became a sudden storm or a vanishing wind.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

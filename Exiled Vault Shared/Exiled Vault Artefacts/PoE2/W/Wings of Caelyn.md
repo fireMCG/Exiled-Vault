@@ -1,9 +1,9 @@
 ## Wings of Caelyn
-The older brother rtetained calm in the midst of fury.
+The older brother retained calm in the midst of fury.
 ##
 ![[Wings of Caelyn.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -21,5 +21,5 @@ Warlord Item
 #Concept/Moon 
 #Concept/Rebirth
 #Concept/Silence
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

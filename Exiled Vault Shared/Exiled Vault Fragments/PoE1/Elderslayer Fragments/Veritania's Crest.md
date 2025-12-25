@@ -7,5 +7,5 @@ but lost her compassion.
 
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #PoE1 

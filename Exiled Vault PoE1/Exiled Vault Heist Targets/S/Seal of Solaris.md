@@ -12,7 +12,7 @@ myths. If I can prove that, I can begin piecing together a true history of the W
 #Concept/Sekhema 
 #Event/WinterOfTheWorld
 #Character/God/Solaris
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/Azmeri 

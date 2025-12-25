@@ -5,5 +5,5 @@ As death arrives, so too does instinct.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

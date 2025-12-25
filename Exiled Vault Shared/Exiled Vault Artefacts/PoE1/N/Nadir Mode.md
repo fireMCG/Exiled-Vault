@@ -5,5 +5,5 @@ Indiscriminate destruction fueled by science gone mad.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

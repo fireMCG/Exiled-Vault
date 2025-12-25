@@ -4,5 +4,5 @@ A heart of corruption, borne of stone.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

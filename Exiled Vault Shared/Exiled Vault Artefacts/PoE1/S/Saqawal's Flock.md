@@ -6,5 +6,5 @@ The First of the Sky teaches us that unity and selflessness, not division and gr
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

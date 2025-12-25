@@ -8,5 +8,5 @@ And will change the world through me.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

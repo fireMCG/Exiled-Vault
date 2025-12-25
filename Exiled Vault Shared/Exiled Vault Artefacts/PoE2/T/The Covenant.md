@@ -6,5 +6,5 @@ My Price is your Blood
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

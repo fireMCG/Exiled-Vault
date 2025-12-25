@@ -4,9 +4,9 @@ It was our error, Ixchel Godstealer, that led to your fate. Chaos is not asleep,
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 
 #Society/VaalEmpire 
 #Attributes/Timeline 

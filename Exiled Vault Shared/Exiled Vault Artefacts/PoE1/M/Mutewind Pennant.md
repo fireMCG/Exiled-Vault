@@ -5,5 +5,5 @@ Embrace the snow or be buried.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

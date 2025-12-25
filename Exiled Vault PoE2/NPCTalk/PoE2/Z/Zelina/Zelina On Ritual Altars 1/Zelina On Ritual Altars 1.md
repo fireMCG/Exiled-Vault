@@ -6,7 +6,7 @@ Zelina: The texts talk of these altars. In the last days before the fall, they b
 #
 ---
 ## Tags
-#Character/KingInTheMists 
+#Character/Changeling/KingInTheMists 
 #Character/Zelina
 #Event/VaalCataclysm 
 #Category/NPCTalk

@@ -6,5 +6,5 @@ and even then, it knows to keep its distance.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

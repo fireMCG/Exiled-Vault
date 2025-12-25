@@ -6,5 +6,5 @@ and every moment in the light was agony.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

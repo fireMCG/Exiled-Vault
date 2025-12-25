@@ -5,5 +5,5 @@ What mother wouldn't give her life for that of her children?
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -7,4 +7,4 @@ Care where you step.
 ---
 ## Tags
 #League/Breach
-#Item/Scarab
+#Category/Scarab

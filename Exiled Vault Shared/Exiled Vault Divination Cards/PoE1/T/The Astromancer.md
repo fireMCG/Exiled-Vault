@@ -18,5 +18,5 @@ Corrupted
 #Concept/Emotion/Love 
 #Concept/Morality
 #Concept/Space/Astral
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

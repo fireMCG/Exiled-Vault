@@ -6,5 +6,5 @@ thus: strike true and survive.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ We are born raw and untested, and we are shaped by life.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

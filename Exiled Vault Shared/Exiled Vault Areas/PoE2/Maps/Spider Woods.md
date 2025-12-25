@@ -4,5 +4,5 @@ Vast lairs of silk span the treetops.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

@@ -5,5 +5,5 @@ Even the mightiest tree was once just a sapling.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

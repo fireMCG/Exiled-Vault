@@ -7,5 +7,5 @@ The reason, remembered.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

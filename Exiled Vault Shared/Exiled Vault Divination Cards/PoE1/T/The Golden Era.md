@@ -10,5 +10,9 @@ Item Level: 100
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Colour/Gold 
+#Concept/Gemling 
+#Concept/Moon 
+#Concept/Thaumaturgy 
 #PoE1

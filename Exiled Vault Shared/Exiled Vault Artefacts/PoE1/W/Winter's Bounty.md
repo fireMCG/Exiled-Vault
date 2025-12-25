@@ -8,5 +8,5 @@ And see nothing but the long slumber ahead.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

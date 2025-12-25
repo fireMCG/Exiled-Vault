@@ -1,7 +1,7 @@
 ## Cameria's Cut
 "There are two ways to pay, Gold and Blood. I'll take my share in both."
 
--Cameria the Coldblooded
+\- Cameria the Coldblooded
 ## 
 ![[Cameria's Cut.png]]
 
@@ -11,5 +11,8 @@ Scarab
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Cameria
+#Concept/Blood 
+#Concept/Colour/Gold 
 #PoE1

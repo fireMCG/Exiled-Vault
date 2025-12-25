@@ -11,5 +11,11 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCardç
+#Concept/Damnation 
+#Concept/Eclipse/Solar 
+#Concept/Hunger 
+#Concept/Light 
+#Concept/Soul 
 #PoE1
+#Society/VaalEmpire 

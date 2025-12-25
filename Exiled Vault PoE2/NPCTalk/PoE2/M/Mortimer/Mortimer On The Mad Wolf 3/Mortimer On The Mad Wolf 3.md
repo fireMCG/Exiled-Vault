@@ -29,6 +29,6 @@ Mortimer: Yes. Once we called him 'The Wolf' for his sense of kinship. Now... 'T
 
 ---
 ## Tags
-#Character/Mortimer
 #Category/NPCTalk
-#Society/Lightless 
+#Character/Mortimer
+#Society/Ezomyte 

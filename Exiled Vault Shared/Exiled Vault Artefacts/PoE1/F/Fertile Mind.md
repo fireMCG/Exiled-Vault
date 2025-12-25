@@ -9,5 +9,5 @@ Your mind is like this seed."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

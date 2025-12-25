@@ -12,5 +12,10 @@ Perfect Eldritch Implicit Modifier
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Eldritch/EaterOfWorlds 
+#Character/Eldritch/SearingExarch 
+#Concept/Bathe
+#Concept/Beauty
+#Concept/Horror 
 #PoE1

@@ -8,5 +8,5 @@ The cool blanket of shadows preserves our treasures."
 ## Tags
 #Character/Maligaro
 #Concept/Shadow
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

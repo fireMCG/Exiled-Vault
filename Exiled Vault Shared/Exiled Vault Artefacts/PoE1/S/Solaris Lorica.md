@@ -8,5 +8,5 @@ So that I may begin my bright pursuit.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -1,5 +1,6 @@
 ## The Doctor
-"They said I needed my head examined, but I'd rather just take yours." - Klopek the Cannibal
+"They said I needed my head examined, but I'd rather just take yours."
+\- Klopek the Cannibal
 ## 
 ![[The Doctor.png]]
 
@@ -9,5 +10,5 @@ Headhunter
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

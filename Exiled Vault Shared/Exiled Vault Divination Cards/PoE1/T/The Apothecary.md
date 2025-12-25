@@ -10,5 +10,5 @@ Mageblood
 ---
 ## Tags
 #Concept/Blood 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

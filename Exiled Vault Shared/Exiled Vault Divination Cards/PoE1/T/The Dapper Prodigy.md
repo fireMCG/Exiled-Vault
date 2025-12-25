@@ -10,5 +10,6 @@ Item Level: 100
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Crime 
 #PoE1

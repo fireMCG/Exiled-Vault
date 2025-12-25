@@ -53,6 +53,8 @@ Mortimer: Depose them. Cave in the cracks. Cave in whatever you find. We've got 
 
 ---
 ## Tags
-#Character/Mortimer
 #Category/NPCTalk
+#Character/Mortimer
+#Concept/Darkness 
+#Concept/Soul 
 #Society/Lightless 

@@ -5,5 +5,5 @@ Lay bare paths to pain you never knew you had.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

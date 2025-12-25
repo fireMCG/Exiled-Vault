@@ -6,4 +6,4 @@ Faith transforms.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

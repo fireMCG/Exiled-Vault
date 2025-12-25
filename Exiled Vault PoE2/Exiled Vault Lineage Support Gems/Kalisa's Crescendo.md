@@ -11,7 +11,7 @@ fellow punters, I knew that they felt it, too."
 ## Tags
 #Character/Kalisa
 #Concept/Body/Heart 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/EternalEmpire 
-#Item/SupportGem
+#Category/SupportGem

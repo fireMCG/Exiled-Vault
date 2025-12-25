@@ -6,5 +6,5 @@ for no one survives to contest them.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

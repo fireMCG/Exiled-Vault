@@ -6,5 +6,5 @@ with great speed and terrible consequences.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

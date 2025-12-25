@@ -11,5 +11,9 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Ancestor 
+#Concept/Death 
+#Concept/Virtue 
+#Concept/Virtue/Honour 
 #PoE1

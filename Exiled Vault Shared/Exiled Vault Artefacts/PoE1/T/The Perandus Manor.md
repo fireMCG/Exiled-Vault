@@ -6,5 +6,5 @@ He who holds the coin holds all the power.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

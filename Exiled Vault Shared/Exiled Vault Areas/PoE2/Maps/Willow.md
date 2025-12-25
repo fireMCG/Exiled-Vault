@@ -4,5 +4,5 @@ Leaves cling to trees as souls cling to life.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

@@ -8,5 +8,5 @@ And each sound tangled with pleas for mercy."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

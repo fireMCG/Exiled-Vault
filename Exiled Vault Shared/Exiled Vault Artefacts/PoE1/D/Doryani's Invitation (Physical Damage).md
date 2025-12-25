@@ -7,5 +7,5 @@ sure who will come knocking."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

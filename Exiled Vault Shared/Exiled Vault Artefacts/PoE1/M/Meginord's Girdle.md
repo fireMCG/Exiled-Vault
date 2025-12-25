@@ -6,5 +6,5 @@ the great Meginord of the north.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

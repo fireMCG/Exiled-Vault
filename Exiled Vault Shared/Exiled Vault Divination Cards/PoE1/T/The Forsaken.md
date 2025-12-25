@@ -9,5 +9,9 @@ Umbilicus Immortalis
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Curse 
+#Concept/Emotion/Love 
+#Concept/Family/Mother 
+#Concept/Life/Immortality 
 #PoE1

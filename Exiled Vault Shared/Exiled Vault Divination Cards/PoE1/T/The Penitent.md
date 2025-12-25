@@ -9,5 +9,11 @@ Unset Ring
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Body/Eye
+#Concept/Family 
+#Concept/Home 
+#Concept/Hunger 
+#Concept/Night/Dream
+#Concept/Wealth 
 #PoE1

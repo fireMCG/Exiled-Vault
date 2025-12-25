@@ -6,5 +6,5 @@ They bore this burden to empower their hidden Order.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

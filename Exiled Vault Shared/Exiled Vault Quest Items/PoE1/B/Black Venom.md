@@ -8,5 +8,5 @@ it lives, but by how it kills."
 ---
 ## Tags
 #Character/Maligaro
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

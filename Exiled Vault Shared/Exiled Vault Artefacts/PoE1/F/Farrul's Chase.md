@@ -7,5 +7,5 @@ To do otherwise is to arm your foes.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

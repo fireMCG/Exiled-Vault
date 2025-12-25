@@ -7,4 +7,4 @@ Their kingdoms always seek expansion.
 ---
 ## Tags
 #League/Breach
-#Item/Scarab
+#Category/Scarab

@@ -5,5 +5,5 @@ The gleam of the night and the howling teeth alike could not abate the rising of
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -8,5 +8,5 @@ And even the immortal may fall.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

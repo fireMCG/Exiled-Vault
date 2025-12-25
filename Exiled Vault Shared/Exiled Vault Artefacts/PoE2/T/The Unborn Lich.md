@@ -8,5 +8,5 @@ Not all of his abominations survive.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

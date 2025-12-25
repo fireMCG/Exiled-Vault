@@ -12,5 +12,5 @@ Vaults of Atziri
 #Character/Atziri 
 #Concept/Animal/Canidae/Wolf
 #Concept/Moon 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

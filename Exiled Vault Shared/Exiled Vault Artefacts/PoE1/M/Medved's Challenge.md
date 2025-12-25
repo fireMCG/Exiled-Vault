@@ -7,5 +7,5 @@ None could match his might.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

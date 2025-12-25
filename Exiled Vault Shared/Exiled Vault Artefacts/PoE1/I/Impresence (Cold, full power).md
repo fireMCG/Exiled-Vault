@@ -7,5 +7,5 @@ learning, and preparing.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

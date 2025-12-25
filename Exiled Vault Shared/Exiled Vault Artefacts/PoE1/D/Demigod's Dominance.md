@@ -6,5 +6,5 @@ the rest only servitude.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

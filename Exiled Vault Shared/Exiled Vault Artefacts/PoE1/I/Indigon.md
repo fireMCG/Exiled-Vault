@@ -6,5 +6,5 @@ the mind's limits end.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

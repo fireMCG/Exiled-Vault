@@ -6,7 +6,7 @@ it was his leadership that earned Aul, the Last King, his crown.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Aul 
 #Character/Ahn 
 #Concept/Emotion/Fear 

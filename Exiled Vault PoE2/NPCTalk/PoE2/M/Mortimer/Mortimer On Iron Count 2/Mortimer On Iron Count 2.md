@@ -26,6 +26,5 @@ Mercenary: Yeah I could probably do with a lift at some point...
 
 ---
 ## Tags
-#Character/Mortimer
 #Category/NPCTalk
-#Society/Lightless 
+#Character/Mortimer

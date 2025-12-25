@@ -7,6 +7,6 @@ he watches with ire.
 
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE2 

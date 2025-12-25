@@ -5,5 +5,5 @@ Nothing spreads as quickly as an idea.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

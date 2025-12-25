@@ -11,5 +11,5 @@ spiritual can we hope to taste the full body of life."
 #Character/Malachai 
 #Concept/Blindness
 #Concept/Body/Flesh 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

@@ -7,5 +7,5 @@ been suicide for any culture to rouse them to war.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

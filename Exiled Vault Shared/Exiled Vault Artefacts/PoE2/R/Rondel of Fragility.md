@@ -6,5 +6,5 @@ for they care not for their own survival.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

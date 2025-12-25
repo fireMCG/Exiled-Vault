@@ -6,5 +6,5 @@ before the battle has begun.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

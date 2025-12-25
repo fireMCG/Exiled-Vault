@@ -4,5 +4,5 @@ The tears of a ravaged earth.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

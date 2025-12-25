@@ -6,5 +6,10 @@ Valako rode the clouds of ash into the thundering sky.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/God/Valako 
+#Concept/Ash 
+#Concept/Nature/Volcano 
+#Concept/Sky 
+#Concept/Storm 
 #PoE2

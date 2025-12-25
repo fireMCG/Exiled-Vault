@@ -9,5 +9,5 @@ and we must know how to recognize them."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

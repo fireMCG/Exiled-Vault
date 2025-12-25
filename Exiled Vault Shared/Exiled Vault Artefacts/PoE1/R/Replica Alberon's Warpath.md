@@ -6,5 +6,5 @@ However, after being fed, he began to poison everything he touched..."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

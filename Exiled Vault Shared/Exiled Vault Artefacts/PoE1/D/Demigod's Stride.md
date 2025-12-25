@@ -5,5 +5,5 @@ Victory is on the march and nothing can stop it.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

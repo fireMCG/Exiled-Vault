@@ -6,5 +6,5 @@ beneath which all are buried.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

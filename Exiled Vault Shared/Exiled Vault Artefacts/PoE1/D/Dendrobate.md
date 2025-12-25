@@ -7,5 +7,5 @@ are the ones who don't bother to hide.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -19,5 +19,5 @@ Corrupted
 #Concept/Body/Eye 
 #Concept/Balance/Justice
 #Concept/Vengeance 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

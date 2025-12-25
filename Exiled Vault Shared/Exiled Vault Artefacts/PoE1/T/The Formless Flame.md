@@ -6,5 +6,5 @@ and we are swallowed by his brilliant red light.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

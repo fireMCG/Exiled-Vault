@@ -13,5 +13,9 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Attributes/Important 
+#Category/DivinationCard
+#Concept/Balance/Chaos 
+#Concept/King 
+#Concept/Shadow 
 #PoE1

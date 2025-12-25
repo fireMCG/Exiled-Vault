@@ -7,4 +7,4 @@ A perfectly innocuous Scarab that does nothing at all.
 ---
 ## Tags
 #League/Delirium 
-#Item/Scarab
+#Category/Scarab

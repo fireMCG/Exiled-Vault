@@ -6,7 +6,7 @@ for the true end follows when the great eye closes.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/SearingExarch 
 #Concept/Element/Fire 
 #Concept/Body/Eye 

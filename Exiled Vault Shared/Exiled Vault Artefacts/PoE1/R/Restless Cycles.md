@@ -8,5 +8,5 @@ Seasons of birth and decay that seemed untethered to cause."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -4,7 +4,7 @@ Qianga of the Stars, Deliverer of the Sealing Blade to the Watchers, go now, and
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

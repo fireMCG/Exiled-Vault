@@ -16,5 +16,5 @@ Influenced Item
 #Concept/Exile
 #Concept/Home
 #Concept/Power 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

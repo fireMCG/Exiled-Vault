@@ -12,4 +12,4 @@ You will encounter a rival Exile imbued with Nemesis powers.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

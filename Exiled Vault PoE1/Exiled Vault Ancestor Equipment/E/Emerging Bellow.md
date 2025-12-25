@@ -7,7 +7,7 @@
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Rongokurai

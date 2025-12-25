@@ -13,6 +13,6 @@ Synthesised
 ---
 ## Tags
 #Concept/Memory 
-#Item/DivinationCard
+#Category/DivinationCard
 #League/Synthesis 
 #PoE1

@@ -6,5 +6,5 @@ which the horrors of Wraeclast have never adapted.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

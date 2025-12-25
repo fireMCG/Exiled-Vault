@@ -7,7 +7,7 @@ Rongokurai gifts his strength to protect the weak.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Character/God/Rongokurai
 #League/Ancestor
 #PoE1 

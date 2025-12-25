@@ -4,5 +4,5 @@ The remains of a time before Time.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

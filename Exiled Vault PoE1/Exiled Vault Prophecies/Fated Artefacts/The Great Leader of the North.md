@@ -13,4 +13,4 @@ Upgrades [[The Magnate]] to [[The Nomad]] upon completion.
 ## Tags
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

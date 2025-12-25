@@ -7,7 +7,7 @@ A clear day dawns only for the lucky.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Concept/Time/Dawn
 #Concept/Time/Day
 #League/Ancestor

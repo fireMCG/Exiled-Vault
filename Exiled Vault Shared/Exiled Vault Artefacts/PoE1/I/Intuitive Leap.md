@@ -6,5 +6,5 @@ He's ambitious.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

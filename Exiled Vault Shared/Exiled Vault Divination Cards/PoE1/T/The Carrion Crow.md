@@ -16,5 +16,5 @@ Life Armour
 #Concept/Death 
 #Concept/Life 
 #Concept/Rebirth 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -5,5 +5,5 @@ No man burns alone.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -12,4 +12,4 @@ Yet as is the way of the wildlands, only the strong may grow stronger.
 #PoE1
 #Society/EternalEmpire 
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

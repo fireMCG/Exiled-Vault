@@ -8,5 +8,5 @@ than I could ever wish for."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -6,5 +6,5 @@ Each time, Solaris emerges from Lunaris, born anew.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -10,5 +10,5 @@ Body Armour
 ---
 ## Tags
 #Concept/Blood 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

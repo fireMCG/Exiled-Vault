@@ -6,5 +6,5 @@ The myriad wet rainbow of the Spirit's domain.
 ---
 ## Tags
 #Concept/Spirit 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

@@ -5,5 +5,5 @@ As battle calms, blood turns to rust.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

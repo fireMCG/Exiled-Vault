@@ -12,4 +12,4 @@ That should we stray too far from the path, we find ourselves severed.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

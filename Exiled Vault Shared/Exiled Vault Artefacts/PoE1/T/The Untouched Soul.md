@@ -6,5 +6,5 @@ but the Maji rejected that temptation as well.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -9,5 +9,5 @@ decided that they wanted to be able to leave."
 
 ---
 ## Tags
-#Item/Fragment 
+#Category/Fragment 
 #PoE2 

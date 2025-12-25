@@ -6,5 +6,6 @@ to make it work. A jewel, a talisman, an armour... or the Font..."
 
 ---
 ## Tags
-#Item/Artefact
+#Attributes/Important 
+#Category/Artefact
 #PoE1

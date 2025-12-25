@@ -6,4 +6,4 @@ The bloodlines evolve faster than they can be culled.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

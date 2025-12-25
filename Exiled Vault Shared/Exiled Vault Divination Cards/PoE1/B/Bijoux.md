@@ -10,5 +10,8 @@ Item Level: 84
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/God/Tangmazu 
+#Concept/Crown/Halo 
+#Concept/Jewel
 #PoE1

@@ -15,4 +15,4 @@ Upgrades [[Goredrill]] to [[Sanguine Gambol]] upon completion.
 #Concept/Stone 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

@@ -6,5 +6,5 @@ the Maji more than they ever expected.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -7,8 +7,8 @@ may cascade destruction across the cosmos.
 
 ---
 ## Tags
-#Character/Shaper 
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Emotion/Love 
-#Item/Fragment
+#Category/Fragment
 #PoE1 

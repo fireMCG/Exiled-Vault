@@ -5,5 +5,5 @@ The sacred sap flows slowly, but surely.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

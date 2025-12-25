@@ -5,5 +5,5 @@ Death creeps closer; unseen, inexorable, hungry.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

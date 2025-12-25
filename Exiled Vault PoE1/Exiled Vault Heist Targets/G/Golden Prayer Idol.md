@@ -5,7 +5,7 @@ Silently keeps innumerable secrets whispered in moments of desperation.
 
 ---
 ## Tags
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/VaalEmpire 

@@ -7,5 +7,5 @@ the world will perish in ice.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

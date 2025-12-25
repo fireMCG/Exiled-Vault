@@ -8,5 +8,5 @@ But control, like all things in that place, was an illusion."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

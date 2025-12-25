@@ -5,5 +5,5 @@ A steady hand can hold back an army.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

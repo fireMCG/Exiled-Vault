@@ -6,5 +6,5 @@ We broke free from the chains within.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

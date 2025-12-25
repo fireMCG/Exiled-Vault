@@ -7,5 +7,5 @@ beyond the flesh and into the demon's soul.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

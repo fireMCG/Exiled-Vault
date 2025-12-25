@@ -5,5 +5,5 @@ The edges bend, the world flexes, the infinite spills into view.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

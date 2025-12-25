@@ -9,5 +9,7 @@ Granite Flask
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Nature/Earth 
+#Concept/Power 
 #PoE1

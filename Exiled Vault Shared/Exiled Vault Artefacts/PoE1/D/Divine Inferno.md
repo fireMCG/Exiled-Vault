@@ -8,5 +8,5 @@ but using it had cost him absolutely everything.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

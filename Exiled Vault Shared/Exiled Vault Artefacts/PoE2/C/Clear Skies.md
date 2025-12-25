@@ -5,5 +5,5 @@ A simple instruction that will purify an entire region, making it safe and kind 
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -5,5 +5,5 @@ Beyond madness lies inspiration.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

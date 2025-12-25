@@ -8,7 +8,7 @@ at turning life into ash.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/God/Abberath
 #Concept/Ash 
 #Concept/King 

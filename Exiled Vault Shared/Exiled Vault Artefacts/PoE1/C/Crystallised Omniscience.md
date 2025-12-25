@@ -7,7 +7,7 @@ symbol of power, not out of love, but out of fear.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/SearingExarch 
 #Concept/Crystal 
 #Concept/Emotion/Fear 

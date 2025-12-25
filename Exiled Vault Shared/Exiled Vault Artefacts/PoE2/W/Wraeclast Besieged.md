@@ -6,5 +6,8 @@ reaching out to wreak pain and ruination.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/Breachlord/Xesht
+#Concept/Madness 
+#League/Breach 
 #PoE2

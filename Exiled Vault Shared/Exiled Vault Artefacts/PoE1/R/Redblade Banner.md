@@ -5,5 +5,5 @@ Blood shed is blood shared.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -6,5 +6,5 @@ each journey is different.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

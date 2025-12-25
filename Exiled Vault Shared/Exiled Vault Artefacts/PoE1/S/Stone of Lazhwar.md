@@ -6,5 +6,5 @@ I am not.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

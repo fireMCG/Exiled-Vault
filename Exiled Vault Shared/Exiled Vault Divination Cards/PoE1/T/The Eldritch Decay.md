@@ -9,5 +9,9 @@ Uber Elder Fragment
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Decay 
+#Character/Eldritch/Elder 
+#Character/Eldritch/Shaper 
+#Concept/Time 
 #PoE1

@@ -4,5 +4,5 @@ A garden bereft of its gardener still grows as it pleases.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

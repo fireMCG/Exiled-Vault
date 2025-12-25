@@ -6,5 +6,7 @@ chaos and cold. Perhaps we should consult an occultist."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Balance/Chaos 
+#Concept/Element/Ice 
 #PoE1

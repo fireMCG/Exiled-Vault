@@ -7,7 +7,7 @@ Tawhoa gifted humanity the ability to dream, so that they may aspire to greater 
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Character/God/Tawhoa 
 #Concept/Night/Dream
 #League/Ancestor

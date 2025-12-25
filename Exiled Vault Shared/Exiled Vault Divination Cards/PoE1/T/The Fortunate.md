@@ -10,5 +10,8 @@ generosity in the divine.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Luck 
+#Concept/Religion/Divinity 
+#Concept/Sun 
 #PoE1

@@ -8,4 +8,4 @@ Dreams quickly sour into Nightmare.
 ## Tags
 #Attributes/Disabled
 #League/Breach
-#Item/Scarab
+#Category/Scarab

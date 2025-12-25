@@ -4,5 +4,5 @@ A wound carved into the world, never to heal.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

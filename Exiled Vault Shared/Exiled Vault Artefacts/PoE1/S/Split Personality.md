@@ -5,5 +5,5 @@ You need not go looking for a second opinion.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

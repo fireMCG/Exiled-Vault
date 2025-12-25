@@ -12,7 +12,7 @@ We shall see whether he was a prophet - or a charlatan.
 #Character/RingClient/MidnightTinkerer
 #Concept/Life/Immortality 
 #Concept/Sacrifice 
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/EternalEmpire 

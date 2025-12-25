@@ -5,5 +5,5 @@ Every clash leaves one more scar.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

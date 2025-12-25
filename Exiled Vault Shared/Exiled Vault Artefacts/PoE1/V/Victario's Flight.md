@@ -6,5 +6,5 @@ as slaughter blossomed at the gates.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

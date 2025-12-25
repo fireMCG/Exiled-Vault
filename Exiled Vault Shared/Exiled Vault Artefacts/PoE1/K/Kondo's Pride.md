@@ -10,5 +10,5 @@ wreaking havoc like a steel squall.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

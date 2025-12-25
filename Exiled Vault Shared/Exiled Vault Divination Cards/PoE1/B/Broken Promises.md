@@ -12,5 +12,7 @@ Synthesised
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Jewel 
+#Concept/Night/Dream 
 #PoE1

@@ -6,5 +6,5 @@ the armies of Saresh were just as relentless.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

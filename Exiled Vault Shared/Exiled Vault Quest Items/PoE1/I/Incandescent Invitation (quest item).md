@@ -11,5 +11,5 @@ the Searing Exarch seeks to master the Atlas.
 #Concept/Crown
 #Concept/Space/Star 
 #Concept/Cleansing 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

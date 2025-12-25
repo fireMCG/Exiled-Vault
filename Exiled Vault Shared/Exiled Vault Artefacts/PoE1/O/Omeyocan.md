@@ -6,5 +6,5 @@ in a life so fleeting.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

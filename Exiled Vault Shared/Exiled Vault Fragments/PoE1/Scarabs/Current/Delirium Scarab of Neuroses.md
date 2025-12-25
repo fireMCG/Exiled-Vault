@@ -7,4 +7,4 @@ Toothy grins shine in the dark.
 ---
 ## Tags
 #League/Delirium 
-#Item/Scarab
+#Category/Scarab

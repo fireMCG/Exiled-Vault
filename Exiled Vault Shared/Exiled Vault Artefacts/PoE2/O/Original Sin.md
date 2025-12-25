@@ -6,5 +6,5 @@ but on the vilification and hatred of another.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

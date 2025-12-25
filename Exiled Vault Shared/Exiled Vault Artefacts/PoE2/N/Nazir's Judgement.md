@@ -5,5 +5,5 @@ The first witch hunter knew one critical tactic: never let your enemy have a cle
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -13,5 +13,5 @@ Six-Link Body Armour
 #Concept/Balance/Justice 
 #Concept/Vengeance 
 #Concept/Prison 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

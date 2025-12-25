@@ -12,5 +12,5 @@ Charan's Sword
 ---
 ## Tags
 #Concept/Fracture 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

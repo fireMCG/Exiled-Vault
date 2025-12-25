@@ -6,5 +6,5 @@ giving birth to four lightning children of hate.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

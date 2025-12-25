@@ -6,5 +6,5 @@ and perhaps you shall be found worthy.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

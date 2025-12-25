@@ -6,5 +6,5 @@ bursting forth from the flesh.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

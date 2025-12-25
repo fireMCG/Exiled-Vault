@@ -7,5 +7,5 @@ Is there sweeter music?"
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

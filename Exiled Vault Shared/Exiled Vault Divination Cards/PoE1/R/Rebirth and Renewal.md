@@ -10,5 +10,5 @@ Horned Scarab
 ---
 ## Tags
 #Concept/Time/Cycle 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -8,5 +8,5 @@ But Wraeclast had not heard the last of her.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

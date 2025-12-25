@@ -5,5 +5,5 @@ When cornered and desperate, look within for the rage to break loose.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

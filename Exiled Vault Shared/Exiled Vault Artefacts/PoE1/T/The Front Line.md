@@ -5,5 +5,5 @@ It was a great honour to fight at the front. The few that survived the initial c
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

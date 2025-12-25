@@ -6,5 +6,5 @@ Wielding anarchy and destruction as our tools of genesis.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

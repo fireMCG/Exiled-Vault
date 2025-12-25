@@ -5,5 +5,5 @@ The wyrm draws warmth from the fires of desire.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

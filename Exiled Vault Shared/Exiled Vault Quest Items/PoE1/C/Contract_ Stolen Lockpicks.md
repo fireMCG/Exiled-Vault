@@ -6,5 +6,5 @@ Could break into any house as quick and silent as a Cardinal's fart.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

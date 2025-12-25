@@ -6,7 +6,7 @@ many sought power in the unnatural.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Elder 
 #Concept/Nature 
 #Concept/Decay

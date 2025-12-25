@@ -9,5 +9,8 @@ Gemcutter's Prism
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Crown 
+#Concept/King 
+#Concept/Virtue/Gem 
 #PoE1

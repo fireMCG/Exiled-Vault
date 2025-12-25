@@ -5,5 +5,5 @@ The secret was lost with its maker.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -5,11 +5,13 @@ Until malice for a Brother
 Slew the hatred of the Other
 And Berek did hunt
 Alone and free."
-- Berek and the Untamed
+\- Berek and the Untamed
 ##
 ![[The Taming.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#League/Domination
+#League/Nemesis
 #PoE1

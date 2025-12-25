@@ -9,7 +9,7 @@ united against a common enemy.
 ## Tags
 #Concept/Alliance
 #Event/PurityRebellion
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Society/EternalEmpire 
 #Society/Ezomyte 

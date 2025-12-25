@@ -1,7 +1,7 @@
 ## Destined to Crumble
 "Let us not forget the most important lesson the Vaal taught us:
 Nothing is eternal."
-- Siosa Foaga, Imperial Scholar
+\- Siosa Foaga, Imperial Scholar
 ## 
 ![[Destined to Crumble.png]]
 
@@ -12,5 +12,7 @@ Item Level: 100
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Ash 
+#Concept/Body 
 #PoE1

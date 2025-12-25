@@ -4,9 +4,9 @@ For infiltrating the Priesthood of Yaomac and returning with their sleeping form
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 
 #Society/VaalEmpire 
 #Attributes/Timeline 

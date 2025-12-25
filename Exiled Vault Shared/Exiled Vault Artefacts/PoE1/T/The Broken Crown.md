@@ -5,5 +5,5 @@ Every rule has an exception.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

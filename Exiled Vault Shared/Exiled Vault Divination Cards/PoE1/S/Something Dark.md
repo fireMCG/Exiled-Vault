@@ -12,6 +12,6 @@ Fully Revealed
 ---
 ## Tags
 #Concept/Darkness 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1
 #Society/Hiveborn 

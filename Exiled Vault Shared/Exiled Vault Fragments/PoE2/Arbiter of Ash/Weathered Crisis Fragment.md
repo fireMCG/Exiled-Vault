@@ -6,5 +6,5 @@ Pictographs seem to convey a dire warning.
 
 ---
 ## Tags
-#Item/Fragment 
+#Category/Fragment 
 #PoE2 

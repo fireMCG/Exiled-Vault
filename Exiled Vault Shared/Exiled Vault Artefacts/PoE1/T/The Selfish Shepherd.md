@@ -5,5 +5,5 @@ And when you are no longer useful, you will discover how much you truly mean.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

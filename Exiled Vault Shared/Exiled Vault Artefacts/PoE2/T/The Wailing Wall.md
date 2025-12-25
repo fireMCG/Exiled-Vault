@@ -5,5 +5,5 @@ Some stories are never told.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

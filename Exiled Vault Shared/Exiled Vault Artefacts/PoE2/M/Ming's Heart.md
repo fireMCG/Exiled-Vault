@@ -8,5 +8,5 @@ He placed his Heart
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

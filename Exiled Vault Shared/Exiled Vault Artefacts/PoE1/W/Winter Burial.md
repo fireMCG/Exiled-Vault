@@ -8,5 +8,5 @@ that the elite were all to happy to sustain.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

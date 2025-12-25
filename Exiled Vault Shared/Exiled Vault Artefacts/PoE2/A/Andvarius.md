@@ -5,5 +5,5 @@ Danger is the price of wealth.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

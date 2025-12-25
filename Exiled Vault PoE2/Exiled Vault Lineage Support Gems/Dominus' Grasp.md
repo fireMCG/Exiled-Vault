@@ -11,5 +11,5 @@ matter, they decided to revive an age old tradition... exile.
 ## Tags
 #Character/HighTemplar/Dominus 
 #Character/Piety 
-#Item/Lineage 
+#Category/Lineage 
 #Society/TemplarOrder 

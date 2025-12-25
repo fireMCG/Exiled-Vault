@@ -7,6 +7,6 @@ but lost himself.
 
 ---
 ## Tags
-#Character/Baran
-#Item/Fragment
+#Character/Conqueror/Baran
+#Category/Fragment
 #PoE1 

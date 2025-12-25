@@ -7,7 +7,7 @@ Tasalio bids you take a moment to stop and enjoy the calm of the ocean.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Character/God/Tasalio 
 #Concept/Water
 #League/Ancestor

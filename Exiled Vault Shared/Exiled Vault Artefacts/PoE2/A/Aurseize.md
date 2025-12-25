@@ -5,5 +5,5 @@ Wealth is not to be borne lightly.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

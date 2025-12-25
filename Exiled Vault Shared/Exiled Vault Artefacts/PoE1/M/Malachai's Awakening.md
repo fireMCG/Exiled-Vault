@@ -6,5 +6,5 @@ Merely men who lack the conviction to pay it.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

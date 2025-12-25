@@ -8,5 +8,5 @@ In all things living, the light burns bright.
 #Concept/Light 
 #Concept/Life 
 #Concept/Light 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

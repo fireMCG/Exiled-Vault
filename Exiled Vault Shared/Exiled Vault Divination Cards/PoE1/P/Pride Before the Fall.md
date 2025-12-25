@@ -16,5 +16,5 @@ Corrupted
 #Character/Kaom
 #Concept/Corruption 
 #Concept/Body/Heart 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

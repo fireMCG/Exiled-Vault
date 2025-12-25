@@ -26,6 +26,5 @@ Mortimer: I knew I could count on you!
 
 ---
 ## Tags
-#Character/Mortimer
 #Category/NPCTalk
-#Society/Lightless 
+#Character/Mortimer

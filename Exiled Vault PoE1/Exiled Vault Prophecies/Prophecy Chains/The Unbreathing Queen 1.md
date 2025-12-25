@@ -12,4 +12,4 @@ You will encounter spectres in the Fellshrine Ruins, Cemetery Map, or Graveyard 
 ## Tags
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

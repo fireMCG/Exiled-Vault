@@ -5,5 +5,5 @@ Let the rider's aim be true.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

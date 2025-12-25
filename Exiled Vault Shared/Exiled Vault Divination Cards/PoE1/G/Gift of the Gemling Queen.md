@@ -14,5 +14,5 @@ Level 20 Support Gem
 #Character/Dialla 
 #Concept/Gemling 
 #Concept/Virtue/Gem 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

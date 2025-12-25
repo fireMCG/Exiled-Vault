@@ -8,5 +8,5 @@ that pushed a monster to power.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

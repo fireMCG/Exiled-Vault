@@ -6,5 +6,5 @@ comes an increasing desire for it.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

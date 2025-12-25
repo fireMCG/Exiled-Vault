@@ -7,9 +7,9 @@ and one by one, they became a part of it.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Elder 
-#Character/Shaper 
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Body/Eye 
 #Concept/Decay

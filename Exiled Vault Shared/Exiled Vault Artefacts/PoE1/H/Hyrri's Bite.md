@@ -7,5 +7,5 @@ Hyrri changed all of that.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

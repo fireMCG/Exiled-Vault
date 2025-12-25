@@ -11,7 +11,7 @@ Your Humanity will shame us all."
 #Character/IciusPerandus
 #Character/Siosa
 #Concept/Slavery 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Society/Karui 
 #Society/VaalEmpire 

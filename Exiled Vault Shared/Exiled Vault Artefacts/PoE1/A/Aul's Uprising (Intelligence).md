@@ -6,6 +6,6 @@ it was his leadership that earned Aul, the Last King, his crown.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Attributes/Timeline 

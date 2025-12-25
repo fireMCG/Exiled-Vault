@@ -6,5 +6,5 @@ Quench the holy light.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

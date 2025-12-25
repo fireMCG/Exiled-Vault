@@ -13,6 +13,6 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/D/Doomfl
 ## Tags
 #Concept/Soul 
 #League/Prophecy
-#Item/Prophecy
+#Category/Prophecy
 #PoE1 
 #Society/VaalEmpire 

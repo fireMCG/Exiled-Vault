@@ -5,5 +5,5 @@ God blesses those who bless themselves.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

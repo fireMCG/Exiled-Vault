@@ -7,5 +7,5 @@ I theorise the sacrificial vessel's level of anguish is a key variable.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

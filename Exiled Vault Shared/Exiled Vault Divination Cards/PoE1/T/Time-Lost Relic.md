@@ -12,5 +12,5 @@ League-Specific Item
 #Concept/Crown
 #Concept/Symbol/Descry
 #Concept/Body/Skull
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

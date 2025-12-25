@@ -16,5 +16,5 @@ Corrupted
 #Concept/Secret
 #Concept/Space
 #Concept/Virtue/Gem 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

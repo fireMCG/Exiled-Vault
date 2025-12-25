@@ -7,5 +7,5 @@ Can't try a man for murder if you can't find him."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

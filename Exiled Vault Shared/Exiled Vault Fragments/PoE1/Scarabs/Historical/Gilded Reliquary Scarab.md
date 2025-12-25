@@ -4,7 +4,7 @@ Go to your rest now, Sumei, Master Lorekeeper. The Order shall keep contained th
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

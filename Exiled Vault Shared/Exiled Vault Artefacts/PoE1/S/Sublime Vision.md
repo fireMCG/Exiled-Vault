@@ -7,9 +7,9 @@ matters but the pursuit of perfection.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Elder 
-#Character/Shaper 
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius
 #Concept/Decay
 #Concept/Vision 

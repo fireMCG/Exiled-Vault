@@ -13,4 +13,4 @@ growing lean and strong while our masters grow fat and weak.
 #PoE1
 #Society/EternalEmpire 
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

@@ -8,5 +8,5 @@ And into darkness send it.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -5,5 +5,5 @@ For dead men require no answer.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ All roads lead to that destined doom.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

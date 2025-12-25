@@ -7,7 +7,7 @@
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #Concept/Death 
 #Concept/Master
 #League/Ancestor

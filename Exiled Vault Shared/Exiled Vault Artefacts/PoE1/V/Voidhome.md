@@ -5,5 +5,5 @@ Cursed is the star whence it came.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

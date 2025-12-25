@@ -7,7 +7,7 @@ unveiling forms no sound mind could grasp.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Elder 
 #Concept/Mind 
 #Concept/Decay

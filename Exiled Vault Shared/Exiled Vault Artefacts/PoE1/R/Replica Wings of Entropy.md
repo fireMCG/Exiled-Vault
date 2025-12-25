@@ -6,5 +6,10 @@ power or speed when striking."
 
 ---
 ## Tags
-#Item/Artefact
+#Attributes/Important 
+#Category/Artefact
+#Concept/Balance 
+#Concept/Power 
+#Concept/Space/Entropy 
+#Concept/Wing 
 #PoE1

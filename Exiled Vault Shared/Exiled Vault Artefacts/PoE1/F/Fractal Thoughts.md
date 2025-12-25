@@ -7,5 +7,5 @@ His dreams were filled with divine laughter."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -6,5 +6,5 @@ One strike, one corpse.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

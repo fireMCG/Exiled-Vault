@@ -6,5 +6,5 @@ Though countless corpses lie in wake.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

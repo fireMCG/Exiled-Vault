@@ -15,4 +15,4 @@ Upgrades [[The Magnate]] to [[The Tactician]] upon completion.
 #Concept/Blood 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

@@ -5,5 +5,5 @@ What man does not wish for immortality?
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

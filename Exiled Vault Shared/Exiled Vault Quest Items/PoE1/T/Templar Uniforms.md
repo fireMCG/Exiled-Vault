@@ -7,6 +7,6 @@ And check for stains! Knew a few people who'd use them for-...
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Society/TemplarOrder 

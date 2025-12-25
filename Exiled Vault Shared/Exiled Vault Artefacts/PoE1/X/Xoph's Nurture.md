@@ -5,5 +5,5 @@ Upon the grey winds his love spreads.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

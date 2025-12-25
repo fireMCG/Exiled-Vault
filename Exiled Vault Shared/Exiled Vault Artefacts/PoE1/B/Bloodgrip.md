@@ -7,5 +7,5 @@ Take theirs out.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

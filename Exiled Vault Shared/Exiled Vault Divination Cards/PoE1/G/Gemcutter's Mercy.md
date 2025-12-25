@@ -13,5 +13,5 @@ Exceptional Gem
 ---
 ## Tags
 #Concept/Virtue/Gem 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

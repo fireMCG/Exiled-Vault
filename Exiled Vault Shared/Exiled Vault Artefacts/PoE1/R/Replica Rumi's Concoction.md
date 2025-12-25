@@ -1,10 +1,11 @@
 ## Replica Rumi's Concoction
 "The most terrifying split second of my life."
-- Researcher Graven
+/- Researcher Graven
 ##
 ![[Replica Rumi's Concoction.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/HeistResearcher/Graven 
 #PoE1

@@ -7,4 +7,4 @@ They are never far.
 ---
 ## Tags
 #League/Breach
-#Item/Scarab
+#Category/Scarab

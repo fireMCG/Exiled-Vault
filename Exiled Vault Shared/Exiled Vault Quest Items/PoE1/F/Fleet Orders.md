@@ -8,5 +8,5 @@ Our plan. Perfect pawn in OUR plan.
 ---
 ## Tags
 #Character/Fidium
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

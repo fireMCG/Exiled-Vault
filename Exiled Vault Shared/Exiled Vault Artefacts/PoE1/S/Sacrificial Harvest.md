@@ -7,5 +7,5 @@ make their machines run more efficiently.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

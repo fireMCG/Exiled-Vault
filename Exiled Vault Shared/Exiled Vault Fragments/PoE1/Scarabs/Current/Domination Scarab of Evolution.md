@@ -7,4 +7,4 @@ The Atlas and Wraeclast share one terrifying secret.
 ---
 ## Tags
 #League/Domination
-#Item/Scarab
+#Category/Scarab

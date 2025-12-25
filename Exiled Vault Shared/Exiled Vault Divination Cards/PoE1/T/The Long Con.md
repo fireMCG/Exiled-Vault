@@ -11,5 +11,5 @@ Elderslayer's Exalted Orb
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

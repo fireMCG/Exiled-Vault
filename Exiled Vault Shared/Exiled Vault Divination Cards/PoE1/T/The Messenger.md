@@ -9,5 +9,6 @@ Harbinger Piece
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#League/Harbinger 
 #PoE1

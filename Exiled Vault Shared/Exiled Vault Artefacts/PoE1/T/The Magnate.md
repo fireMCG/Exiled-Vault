@@ -6,5 +6,5 @@ than the Great Meginord of the North.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

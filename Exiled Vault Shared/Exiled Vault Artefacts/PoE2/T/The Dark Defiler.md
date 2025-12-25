@@ -5,5 +5,5 @@ Rare is the Necromancer who leads his undead armies from the front.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

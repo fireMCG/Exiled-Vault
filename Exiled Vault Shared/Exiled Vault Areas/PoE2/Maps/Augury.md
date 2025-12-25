@@ -4,5 +4,5 @@ They watched the birds to foretell what any fool could see.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

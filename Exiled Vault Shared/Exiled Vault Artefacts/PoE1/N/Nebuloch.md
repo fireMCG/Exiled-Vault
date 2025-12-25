@@ -7,7 +7,7 @@ But time would not touch the fiend.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Elder 
 #Concept/Prison 
 #Concept/Time 

@@ -7,5 +7,5 @@ you for what you've done... no. You've a debt to repay."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

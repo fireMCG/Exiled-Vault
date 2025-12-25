@@ -6,7 +6,7 @@ Zarka: The {sel khari} were attacked? This is exactly why we keep their location
 #
 ---
 ## Tags
-#Character/Balbala
+#Character/Djinn/Balbala
 #Character/TaleWoman/Zarka
 #Category/NPCTalk
 #Society/Maraketh 

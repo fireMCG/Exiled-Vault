@@ -12,7 +12,7 @@ the trees, breaking his oath, to save the Ezomyte Queen.
 #Character/HelbrymOfTarth
 #Character/LysandaOfMyr
 #Concept/Queen 
-#Item/Lineage 
+#Category/Lineage 
 #Society/Ezomyte 
 #Society/Kalguur 
 #Society/Maji/WardenOfEaves 

@@ -6,5 +6,5 @@ Robbing breath from the weak and worthless.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

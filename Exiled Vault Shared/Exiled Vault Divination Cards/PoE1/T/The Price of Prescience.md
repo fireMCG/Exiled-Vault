@@ -12,5 +12,9 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Aul 
+#Character/God/Tangmazu 
+#Concept/Legacy 
+#Concept/World 
 #PoE1

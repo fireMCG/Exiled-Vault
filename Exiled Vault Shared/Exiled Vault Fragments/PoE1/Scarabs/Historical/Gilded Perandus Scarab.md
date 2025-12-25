@@ -4,7 +4,7 @@ The dark day has come, Icius Perandus. Today either we succeed or humanity dies.
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

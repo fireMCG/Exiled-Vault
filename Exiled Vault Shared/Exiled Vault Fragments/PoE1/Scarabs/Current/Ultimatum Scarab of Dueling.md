@@ -6,5 +6,5 @@ Victory is meaningless, failure will be mocked.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab
 #Society/VaalEmpire 

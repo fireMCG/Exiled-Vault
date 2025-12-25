@@ -8,5 +8,5 @@ Yet Viridi remained, trapped within, forever more."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

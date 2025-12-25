@@ -6,5 +6,5 @@ Darkness cleansed, pure and new.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -6,5 +6,5 @@ My will remains, emboldened and empowered by the righteousness of my cause.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

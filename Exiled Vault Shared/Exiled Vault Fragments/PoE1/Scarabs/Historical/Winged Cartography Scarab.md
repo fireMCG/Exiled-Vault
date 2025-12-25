@@ -4,7 +4,7 @@ The Sealing Blade has been removed, and the agent of Decay shall feed upon this 
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

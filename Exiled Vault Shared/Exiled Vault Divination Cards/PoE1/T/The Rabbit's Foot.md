@@ -9,5 +9,10 @@ It is said anyone who bears this trinket is the luckiest exile in all of Wraecla
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Animal/Rabbit 
+#Concept/Curse 
+#Concept/God 
+#Concept/Luck 
+#Location/Wraeclast 
 #PoE1

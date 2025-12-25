@@ -10,5 +10,11 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Animal/Mythological/Dragon 
+#Concept/Ash 
+#Concept/Body/Flesh 
+#Concept/Body/Heart 
+#Concept/Death 
+#Concept/Element/Fire 
 #PoE1

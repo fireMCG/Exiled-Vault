@@ -8,5 +8,5 @@ And it will embrace you back.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

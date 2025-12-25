@@ -7,7 +7,7 @@ Hunters of the Tasalio Tribe are just as effective on land.
 
 ---
 ## Tags
-#Item/AncestorEquipment
+#Category/AncestorEquipment
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Tasalio 

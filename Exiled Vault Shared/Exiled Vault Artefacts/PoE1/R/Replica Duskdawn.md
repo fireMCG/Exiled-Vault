@@ -6,5 +6,8 @@ Prototype #77. It is, however, the closest we've come to perfection."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Balance 
+#Concept/Time/Dawn 
+#Concept/Time/Dusk 
 #PoE1

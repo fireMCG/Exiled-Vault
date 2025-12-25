@@ -6,7 +6,7 @@ than the scintillating light of utter clarity.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/SearingExarch 
 #Concept/Religion/Heaven 
 #Concept/Light 

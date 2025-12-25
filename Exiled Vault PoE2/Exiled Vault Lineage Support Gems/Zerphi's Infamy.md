@@ -10,5 +10,5 @@ while the victim was still alive. Perhaps this was the key."
 ---
 ## Tags
 #Character/Zerphi 
-#Item/Lineage 
+#Category/Lineage 
 #Society/VaalEmpire 

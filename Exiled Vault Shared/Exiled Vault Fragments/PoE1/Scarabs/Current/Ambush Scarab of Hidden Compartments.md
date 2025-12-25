@@ -7,4 +7,4 @@ Beneath the obvious lies the real treasure...
 ---
 ## Tags
 #League/Ambush
-#Item/Scarab
+#Category/Scarab

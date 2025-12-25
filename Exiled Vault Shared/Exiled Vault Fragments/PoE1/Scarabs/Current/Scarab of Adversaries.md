@@ -6,4 +6,4 @@ They stand against you with equal enmity.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

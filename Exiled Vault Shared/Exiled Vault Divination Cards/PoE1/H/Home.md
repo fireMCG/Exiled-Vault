@@ -12,5 +12,5 @@ Quality: +1-20%
 ## Tags
 #Concept/Emotion/Love 
 #Concept/Virtue
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

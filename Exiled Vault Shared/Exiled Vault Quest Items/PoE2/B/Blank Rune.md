@@ -6,6 +6,6 @@ Untouched by fate. Its power waits for a purpose.
 ---
 ## Tags
 #Concept/Rune 
-#Item/QuestItem
+#Category/QuestItem
 #PoE2
 #Society/Ezomyte 

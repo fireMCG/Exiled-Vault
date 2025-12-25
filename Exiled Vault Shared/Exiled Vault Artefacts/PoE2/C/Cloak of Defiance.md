@@ -12,5 +12,5 @@ Of the Defiant Heart.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

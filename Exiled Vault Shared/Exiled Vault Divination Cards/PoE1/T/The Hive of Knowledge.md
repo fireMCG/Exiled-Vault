@@ -11,5 +11,7 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Power 
+#Concept/Virtue/Knowledge 
 #PoE1

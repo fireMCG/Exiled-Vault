@@ -7,5 +7,5 @@ but I feel in this case that I owe him a little gift.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

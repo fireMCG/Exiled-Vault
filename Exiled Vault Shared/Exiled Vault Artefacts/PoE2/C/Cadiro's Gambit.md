@@ -7,5 +7,5 @@ machinations, all the outcomes may be turned in your favour..."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

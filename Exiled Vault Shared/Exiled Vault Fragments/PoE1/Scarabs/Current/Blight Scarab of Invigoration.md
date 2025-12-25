@@ -7,4 +7,4 @@ Reversing the polarity of the compression modulator seems to have intriguing eff
 ---
 ## Tags
 #League/Blight
-#Item/Scarab
+#Category/Scarab

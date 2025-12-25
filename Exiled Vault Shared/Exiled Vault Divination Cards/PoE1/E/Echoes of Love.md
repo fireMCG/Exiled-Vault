@@ -11,5 +11,7 @@ Fidelitas' Spike
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Fidelitas
+#Concept/Emotion/Love 
 #PoE1

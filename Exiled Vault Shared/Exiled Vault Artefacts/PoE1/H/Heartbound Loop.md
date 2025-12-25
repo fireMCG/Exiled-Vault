@@ -7,5 +7,5 @@ fading mind was her broken, shattered scream.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

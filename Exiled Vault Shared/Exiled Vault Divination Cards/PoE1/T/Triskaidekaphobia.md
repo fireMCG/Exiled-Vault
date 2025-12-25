@@ -17,5 +17,5 @@ Corrupted
 #Concept/Emotion/Fear 
 #Concept/Madness 
 #Concept/Mist 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

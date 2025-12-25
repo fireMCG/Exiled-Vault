@@ -7,4 +7,4 @@ Is it still an ambush if you're expecting it?
 ---
 ## Tags
 #League/Ambush
-#Item/Scarab
+#Category/Scarab

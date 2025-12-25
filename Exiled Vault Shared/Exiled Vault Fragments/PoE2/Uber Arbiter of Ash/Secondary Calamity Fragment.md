@@ -7,5 +7,5 @@ being placed at the foot of a great tower.
 
 ---
 ## Tags
-#Item/Fragment 
+#Category/Fragment 
 #PoE2 

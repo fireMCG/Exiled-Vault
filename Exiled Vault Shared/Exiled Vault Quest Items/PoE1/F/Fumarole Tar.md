@@ -8,5 +8,5 @@ Or it had no 'B'.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

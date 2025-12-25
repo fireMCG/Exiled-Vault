@@ -7,5 +7,5 @@ but my enemies as close as the hilt."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

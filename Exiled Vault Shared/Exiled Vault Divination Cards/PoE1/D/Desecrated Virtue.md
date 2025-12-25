@@ -13,5 +13,9 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Sin/Greed 
+#Concept/Tyranny 
+#Concept/Virtue/Gem 
+#Concept/Void 
 #PoE1

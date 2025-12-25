@@ -5,5 +5,5 @@ It is a fool who strikes the turtle's shell. The First of the Plains teaches us 
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

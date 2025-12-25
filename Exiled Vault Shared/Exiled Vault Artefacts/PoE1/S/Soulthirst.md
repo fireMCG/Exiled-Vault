@@ -8,6 +8,6 @@ I have found this to be true on all counts."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

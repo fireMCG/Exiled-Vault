@@ -7,4 +7,4 @@ Among exiles, alliances shift and change constantly.
 ---
 ## Tags
 #League/Anarchy
-#Item/Scarab
+#Category/Scarab

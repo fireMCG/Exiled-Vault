@@ -10,6 +10,6 @@ in his heart and wet the forest floor with its blood."
 #Character/Greust
 #Concept/Body/Heart 
 #Concept/Within
-#Item/QuestItem
+#Category/QuestItem
 #PoE1
 #Society/Azmeri 

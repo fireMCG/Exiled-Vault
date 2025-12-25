@@ -7,4 +7,4 @@ Reality itself begins to bleed.
 ---
 ## Tags
 #League/Beyond
-#Item/Scarab
+#Category/Scarab

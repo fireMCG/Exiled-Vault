@@ -12,5 +12,5 @@ Veiled Exalted Orb
 ---
 ## Tags
 #Concept/Animal/Canidae/Fox
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

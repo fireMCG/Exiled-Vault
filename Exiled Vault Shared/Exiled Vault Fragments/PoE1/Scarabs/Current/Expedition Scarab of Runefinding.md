@@ -7,4 +7,4 @@ That which came from the stars longs to return.
 ---
 ## Tags
 #League/Expedition
-#Item/Scarab
+#Category/Scarab

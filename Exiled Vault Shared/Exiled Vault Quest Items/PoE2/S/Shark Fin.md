@@ -5,5 +5,5 @@ The sea gave it strength. Now it serves a greater purpose.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE2

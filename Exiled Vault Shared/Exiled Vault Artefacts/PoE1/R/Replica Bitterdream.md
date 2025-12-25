@@ -6,5 +6,5 @@ Convinced this assignment is retribution from my superior..."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

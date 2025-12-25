@@ -5,5 +5,5 @@ He burns us to keep us from harm.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

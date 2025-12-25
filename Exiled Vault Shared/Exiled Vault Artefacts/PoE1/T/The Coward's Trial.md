@@ -8,5 +8,5 @@ another to walk the path of true atonement.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

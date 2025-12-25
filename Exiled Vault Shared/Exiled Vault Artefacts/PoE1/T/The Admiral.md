@@ -5,5 +5,5 @@ The Oriathans built their empire on naval mobility, which allowed them to wage w
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

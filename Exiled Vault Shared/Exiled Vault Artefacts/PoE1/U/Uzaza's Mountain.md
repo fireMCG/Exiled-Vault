@@ -7,6 +7,6 @@ to find a land they could call home.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Attributes/Timeline 

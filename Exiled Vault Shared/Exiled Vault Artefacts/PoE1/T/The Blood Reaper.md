@@ -7,5 +7,5 @@ Both life and land feel the thirst.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

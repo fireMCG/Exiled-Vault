@@ -4,8 +4,8 @@ Your golems and your leadership have slowed the tide of death, Clayshaper. The r
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 
 #Attributes/Timeline 

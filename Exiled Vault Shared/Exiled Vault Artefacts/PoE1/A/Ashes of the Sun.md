@@ -6,7 +6,7 @@ So goes the descent.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Concept/Ash 
 #Concept/Darkness 
 #Concept/Horror

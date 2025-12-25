@@ -5,5 +5,5 @@ Hit them hard. Hit them once.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

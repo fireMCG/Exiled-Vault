@@ -7,7 +7,7 @@ And those that made the trek realised the folly of their desire for greatness."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Concept/Desire 
 #Concept/AtlasOfWorlds
 #Concept/Light 

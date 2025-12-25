@@ -9,5 +9,8 @@ The Goddess Bound
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Curse 
+#Concept/Goddess 
+#Concept/Number/Three 
 #PoE1

@@ -9,5 +9,5 @@ Simulacrum
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

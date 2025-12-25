@@ -6,5 +6,5 @@ Trarthan ice snakes must take great care with the volatile substance.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

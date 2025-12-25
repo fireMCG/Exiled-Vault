@@ -9,5 +9,5 @@ When the world burned, the greedy burned with it, while the clever left as paupe
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

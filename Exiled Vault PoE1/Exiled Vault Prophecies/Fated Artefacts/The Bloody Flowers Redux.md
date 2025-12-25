@@ -16,5 +16,5 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/E/Ezomyt
 #Concept/Slavery 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy
 #Society/Ezomyte 

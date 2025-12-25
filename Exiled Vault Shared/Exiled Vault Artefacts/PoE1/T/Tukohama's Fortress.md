@@ -6,5 +6,5 @@ So he carried his fortress to the fight.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

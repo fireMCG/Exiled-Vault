@@ -12,5 +12,12 @@ Farrul Item
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/FirstOne/Farrul 
+#Concept/Animal/Feline/Cat
+#Concept/Emotion/Love 
+#Concept/Hunt 
+#Concept/King 
+#Concept/Night 
+#Concept/Shadow 
 #PoE1

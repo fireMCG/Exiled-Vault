@@ -6,5 +6,5 @@ Death collects you in the end.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

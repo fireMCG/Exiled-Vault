@@ -8,4 +8,4 @@ All you can do is scream!
 ---
 ## Tags
 #League/Delirium 
-#Item/Scarab
+#Category/Scarab

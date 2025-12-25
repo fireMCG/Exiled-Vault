@@ -8,6 +8,6 @@ avoid revealing who it was intended for.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE2
 #Society/Maraketh 

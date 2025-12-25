@@ -10,5 +10,11 @@ Item Level: 100
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Atziri 
+#Concept/Demon 
+#Concept/Element/Fire
+#Concept/Mirror 
+#Concept/Power 
+#Concept/Sacrifice 
 #PoE1

@@ -7,5 +7,5 @@ Thus began the War of the Great Families.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

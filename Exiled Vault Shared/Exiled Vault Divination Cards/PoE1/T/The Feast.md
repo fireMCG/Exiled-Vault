@@ -10,5 +10,7 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Cannibalism 
+#Character/Emperor/RomiraPhrecia 
 #PoE1

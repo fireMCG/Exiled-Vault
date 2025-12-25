@@ -8,5 +8,9 @@ And Ventor met his latest trophy.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/Ventor 
+#Concept/Beast 
+#Concept/Luck 
+#Concept/Religion/Divinity 
 #PoE2

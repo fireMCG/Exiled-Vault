@@ -11,5 +11,8 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Animal/Canidae/Dog 
+#Concept/Body/Eye 
+#Concept/Sun 
 #PoE1

@@ -18,4 +18,4 @@ living with time and happenstance, as must we.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

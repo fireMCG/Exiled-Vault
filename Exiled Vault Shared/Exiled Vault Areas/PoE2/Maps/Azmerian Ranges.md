@@ -4,5 +4,5 @@ The Spirit guides the mountain-born.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

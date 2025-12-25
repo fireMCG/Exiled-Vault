@@ -5,5 +5,5 @@ Great works take time.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

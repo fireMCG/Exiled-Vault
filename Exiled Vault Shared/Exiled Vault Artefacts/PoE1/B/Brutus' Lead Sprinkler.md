@@ -7,5 +7,5 @@ to garnish the perfect confession."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -6,5 +6,5 @@ Look to our Queen, for she will lead us from the darkness.
 
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #PoE1 

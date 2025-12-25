@@ -12,12 +12,12 @@ Elder Item
 ---
 ## Tags
 #Character/Eldritch/Elder
-#Character/Shaper 
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Element 
 #Concept/Emotion/Fear 
 #Concept/Nature
 #Concept/Void
-#Item/DivinationCard
+#Category/DivinationCard
 #Concept/Decay
 #PoE1

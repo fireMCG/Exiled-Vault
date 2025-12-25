@@ -5,5 +5,5 @@ The vastness of the cosmos holds energies beyond comprehension, should one have 
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -5,5 +5,5 @@ In the end, even heroes fade away.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

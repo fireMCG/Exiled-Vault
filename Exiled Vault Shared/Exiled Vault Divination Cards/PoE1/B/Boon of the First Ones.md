@@ -12,5 +12,11 @@ Bestiary Item
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Body/Bone 
+#Concept/Body/Skin 
+#Concept/Beast 
+#Concept/FirstOnes
+#Concept/Humanity
+#League/Bestiary 
 #PoE1

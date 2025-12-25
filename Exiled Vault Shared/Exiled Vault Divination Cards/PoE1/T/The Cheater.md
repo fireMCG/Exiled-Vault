@@ -13,5 +13,5 @@ Corrupted
 ## Tags
 #Concept/Awakening
 #Concept/Trickery 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

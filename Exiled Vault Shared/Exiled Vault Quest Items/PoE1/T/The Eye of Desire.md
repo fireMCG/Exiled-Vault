@@ -11,5 +11,5 @@ Intent than Life."
 #Character/Daresso
 #Character/Malachai
 #Concept/Crystal 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

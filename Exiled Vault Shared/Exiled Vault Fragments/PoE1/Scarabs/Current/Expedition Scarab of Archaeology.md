@@ -7,4 +7,4 @@ Curiosity leads to wisdom. Wisdom leads to power.
 ---
 ## Tags
 #League/Expedition
-#Item/Scarab
+#Category/Scarab

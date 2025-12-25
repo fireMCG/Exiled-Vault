@@ -12,5 +12,9 @@ Primordial
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/God 
+#Concept/Necromancy 
+#Concept/Power 
+#Concept/Stone 
 #PoE1

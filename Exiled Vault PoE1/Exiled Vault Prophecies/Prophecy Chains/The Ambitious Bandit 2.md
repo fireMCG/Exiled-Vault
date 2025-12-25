@@ -12,4 +12,4 @@ You will encounter and slay bandits in the Marketplace, Arcade Map, Bazaar Map, 
 ## Tags
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

@@ -6,5 +6,5 @@ stands astride innocent bones.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

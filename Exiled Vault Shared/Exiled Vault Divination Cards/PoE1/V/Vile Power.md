@@ -19,5 +19,5 @@ Doomfletch
 #Concept/Power 
 #Concept/Sleep 
 #Concept/Virtue/Gem 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

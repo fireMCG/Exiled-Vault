@@ -6,4 +6,4 @@ To the strongest, prosperity be thine.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

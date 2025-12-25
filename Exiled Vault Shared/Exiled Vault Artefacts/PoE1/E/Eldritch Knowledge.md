@@ -7,5 +7,5 @@ by the brilliant or the mad."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

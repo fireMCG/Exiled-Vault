@@ -6,5 +6,5 @@ For some, that is by design.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

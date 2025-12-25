@@ -5,5 +5,5 @@ The storm cannot break that which bends.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

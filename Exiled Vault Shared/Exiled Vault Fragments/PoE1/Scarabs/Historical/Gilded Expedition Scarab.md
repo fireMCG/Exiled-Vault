@@ -4,7 +4,7 @@ We lay you to rest in the forest deep, Runesmith Revna, so that you may be forev
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

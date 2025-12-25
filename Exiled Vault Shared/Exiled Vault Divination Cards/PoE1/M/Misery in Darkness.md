@@ -10,7 +10,7 @@ Shroud of the Lightless
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #League/Abyss
 #PoE1
 #Society/Lightless 

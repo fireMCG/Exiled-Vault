@@ -12,4 +12,4 @@ Now the First Ones harden us against the numbing chill of despair so that freedo
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Item/Talisman 
+#Category/Talisman 

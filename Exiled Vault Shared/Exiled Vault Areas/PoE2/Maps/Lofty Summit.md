@@ -4,5 +4,5 @@ The last vestiges of earth, lost beyond the sky.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

@@ -16,4 +16,4 @@ Upgrades [[Limbsplit]] to [[The Cauteriser]] upon completion.
 #Concept/Storm 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

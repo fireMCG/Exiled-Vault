@@ -6,4 +6,4 @@ Nothing is as unforgiveable.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

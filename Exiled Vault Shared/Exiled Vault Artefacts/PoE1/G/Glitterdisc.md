@@ -6,5 +6,5 @@ resulted in some surprising material discoveries.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

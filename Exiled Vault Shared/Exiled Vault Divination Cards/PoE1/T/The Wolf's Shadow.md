@@ -10,5 +10,5 @@ Hyaon's Fury
 ---
 ## Tags
 #Concept/Animal/Canidae/Wolf 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

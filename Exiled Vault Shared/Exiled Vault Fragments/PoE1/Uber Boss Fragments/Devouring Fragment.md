@@ -10,5 +10,5 @@ as the Tangle's champion devours a myriad of worlds...
 #Character/Eldritch/EaterOfWorlds 
 #Concept/World 
 #Concept/Tangle 
-#Item/Fragment
+#Category/Fragment
 #PoE1 

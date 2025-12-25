@@ -7,5 +7,5 @@ a splinter of your own shattered heart.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -12,5 +12,6 @@ the setting sun.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Attributes/Timeline 
+#Category/DivinationCard
 #PoE1

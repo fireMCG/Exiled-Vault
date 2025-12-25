@@ -7,5 +7,5 @@ And stood her ground.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

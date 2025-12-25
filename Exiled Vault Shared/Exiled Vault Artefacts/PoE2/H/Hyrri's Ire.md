@@ -7,5 +7,5 @@ only oppression can ferment.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

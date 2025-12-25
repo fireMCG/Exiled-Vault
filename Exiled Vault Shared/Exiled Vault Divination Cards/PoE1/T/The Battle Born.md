@@ -11,5 +11,5 @@ Axe
 ## Tags
 #Concept/Demon 
 #Concept/Warrior
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

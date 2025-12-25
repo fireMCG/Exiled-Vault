@@ -12,5 +12,11 @@ Coruscating Elixir
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Animal/Mythological/Dragon
+#Concept/Beast 
+#Concept/Colour/Gold 
+#Concept/Shadow 
+#Concept/Sky 
+#Concept/Sun/Broken 
 #PoE1

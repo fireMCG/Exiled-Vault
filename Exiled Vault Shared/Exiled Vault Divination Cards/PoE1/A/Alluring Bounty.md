@@ -10,5 +10,5 @@ is a treasure worth dying for.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

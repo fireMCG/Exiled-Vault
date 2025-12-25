@@ -8,5 +8,5 @@ Through endless storms of fervent devotion.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

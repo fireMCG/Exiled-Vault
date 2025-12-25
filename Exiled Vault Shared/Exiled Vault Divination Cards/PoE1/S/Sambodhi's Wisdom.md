@@ -20,5 +20,5 @@ Corrupted
 #Concept/Sin 
 #Concept/Virtue
 #Concept/Wing 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

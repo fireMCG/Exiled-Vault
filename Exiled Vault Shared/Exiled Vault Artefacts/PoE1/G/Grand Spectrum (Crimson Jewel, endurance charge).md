@@ -5,5 +5,5 @@ A body that never falters.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

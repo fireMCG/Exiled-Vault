@@ -6,6 +6,6 @@
 ---
 ## Tags
 #Character/Draven
-#Item/QuestItem
+#Category/QuestItem
 #PoE2
 #Society/EternalEmpire

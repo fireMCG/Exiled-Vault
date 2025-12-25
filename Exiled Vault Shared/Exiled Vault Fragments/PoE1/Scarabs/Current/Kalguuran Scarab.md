@@ -7,4 +7,4 @@ Rich veins run deeper still.
 ---
 ## Tags
 #League/SettlersOfKalguur
-#Item/Scarab
+#Category/Scarab

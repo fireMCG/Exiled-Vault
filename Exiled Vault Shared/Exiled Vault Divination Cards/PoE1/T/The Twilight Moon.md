@@ -9,5 +9,9 @@ The Twilight Temple
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Moon 
+#Concept/Night 
+#Concept/Sky 
+#Concept/Time/Day 
 #PoE1

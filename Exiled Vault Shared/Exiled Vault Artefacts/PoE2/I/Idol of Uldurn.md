@@ -6,5 +6,5 @@ in Oriath, so long as it remained private.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

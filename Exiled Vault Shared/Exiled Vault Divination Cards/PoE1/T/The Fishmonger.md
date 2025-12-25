@@ -9,5 +9,8 @@ Albino Rhoa Feather
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Animal/Fish 
+#Concept/Animal/Rhoa
+#Concept/Sun 
 #PoE1

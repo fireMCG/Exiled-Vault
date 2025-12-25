@@ -6,5 +6,5 @@ and deadly in Ungil's nimble hands.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

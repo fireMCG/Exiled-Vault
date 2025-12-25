@@ -5,5 +5,5 @@ When your thoughts flow like a river, why build a dam?
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

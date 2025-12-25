@@ -5,5 +5,5 @@ To truly appreciate life you must be there when it ends
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

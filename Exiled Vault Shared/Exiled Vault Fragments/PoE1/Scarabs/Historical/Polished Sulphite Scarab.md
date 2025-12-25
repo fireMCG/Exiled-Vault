@@ -4,7 +4,7 @@ For harnessing and controlling the power of lightning, you, Raethan, are now cha
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

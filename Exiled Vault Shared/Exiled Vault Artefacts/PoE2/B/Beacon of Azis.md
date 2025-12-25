@@ -7,5 +7,5 @@ It was Solerai herself.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

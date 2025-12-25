@@ -7,6 +7,6 @@ so shall all of my treasures."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

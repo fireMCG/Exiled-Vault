@@ -8,5 +8,9 @@ It is suffering that forges the greatest warriors.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/Yriel
+#Concept/Beast 
+#Concept/Hunt 
+#Concept/Warrior 
 #PoE2

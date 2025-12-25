@@ -6,4 +6,4 @@ Punctured dreams bleed into the mind.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

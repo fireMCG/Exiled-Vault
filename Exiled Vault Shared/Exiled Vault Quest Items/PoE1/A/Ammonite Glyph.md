@@ -6,5 +6,5 @@ the sea, but long dead incantations.
 
 ---
 ## Tags
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

@@ -7,5 +7,5 @@ Fuel my boiling blood
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

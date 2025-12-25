@@ -4,7 +4,7 @@ We plucked you from Malachai's torturous grasp, Icius Perandus, for a reason. Ma
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

@@ -10,6 +10,6 @@ to know our culture, just like you full-blooded humans do.
 #Character/Nishem
 #Concept/Humanoid
 #Concept/Siren
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 

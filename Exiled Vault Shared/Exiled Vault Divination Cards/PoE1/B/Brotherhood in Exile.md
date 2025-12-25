@@ -13,5 +13,7 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Night 
+#Concept/Sun 
 #PoE1

@@ -5,5 +5,5 @@ Anticipation is a gift.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

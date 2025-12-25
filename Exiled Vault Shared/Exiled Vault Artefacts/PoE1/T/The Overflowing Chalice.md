@@ -5,5 +5,5 @@ Empty cup, full of promise.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

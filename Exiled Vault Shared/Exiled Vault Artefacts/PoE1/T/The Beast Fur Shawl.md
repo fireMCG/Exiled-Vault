@@ -7,5 +7,5 @@ is to walk in the skin of another.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

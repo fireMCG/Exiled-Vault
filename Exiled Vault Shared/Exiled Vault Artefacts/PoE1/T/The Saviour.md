@@ -6,5 +6,5 @@ But which one am I?
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

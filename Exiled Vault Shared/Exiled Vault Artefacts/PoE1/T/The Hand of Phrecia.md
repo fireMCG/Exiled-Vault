@@ -5,5 +5,5 @@ To drive back the darkness, to bring peace, we must fight side by side as brothe
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -15,5 +15,5 @@ Maloney's Mechanism
 #Concept/Moon 
 #Concept/Sun 
 #Concept/Time 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -5,5 +5,5 @@ May you never hear it toll.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -7,5 +7,5 @@ the other has sprouted fresh roots!
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

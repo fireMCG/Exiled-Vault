@@ -14,5 +14,5 @@ Map Tier: 15
 #Concept/AtlasOfWorlds 
 #Concept/Map 
 #Concept/World 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

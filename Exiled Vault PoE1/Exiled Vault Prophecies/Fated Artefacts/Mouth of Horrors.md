@@ -16,4 +16,4 @@ Upgrades [[Chalice of Horrors]] to [[Thirst for Horrors]] upon completion.
 #Concept/Witch 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

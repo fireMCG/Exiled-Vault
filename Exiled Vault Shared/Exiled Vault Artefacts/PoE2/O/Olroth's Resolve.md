@@ -8,5 +8,5 @@ he fights for you!
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

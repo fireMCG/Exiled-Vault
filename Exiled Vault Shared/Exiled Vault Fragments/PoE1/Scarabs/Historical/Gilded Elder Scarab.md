@@ -4,7 +4,7 @@ Egrin of the Dark Between Stars, Forger of the Sealing Blade, let your name be r
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 

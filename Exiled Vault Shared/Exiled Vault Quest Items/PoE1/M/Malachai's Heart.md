@@ -11,5 +11,5 @@ death is no fitting end to genius.
 #Concept/Body/Flesh 
 #Concept/Body/Heart 
 #Concept/Life/Immortality 
-#Item/QuestItem
+#Category/QuestItem
 #PoE1

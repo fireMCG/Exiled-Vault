@@ -6,7 +6,7 @@ but nothing is eternal.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Atziri 
 #Concept/Time/Eternity 
 #Concept/Life/Immortality 

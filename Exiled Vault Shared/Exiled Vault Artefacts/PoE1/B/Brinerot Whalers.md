@@ -6,5 +6,5 @@ Let's see what they'll pay for their own.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

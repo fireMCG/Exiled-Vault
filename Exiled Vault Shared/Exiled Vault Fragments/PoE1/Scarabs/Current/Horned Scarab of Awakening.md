@@ -6,4 +6,4 @@ The Atlas can be anything you want... and everything you want.
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

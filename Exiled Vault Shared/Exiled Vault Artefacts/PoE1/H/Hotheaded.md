@@ -5,5 +5,5 @@ It's hard to stay still when you're engulfed in flames.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

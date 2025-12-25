@@ -13,5 +13,8 @@ Song of the Sirens
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Body/Heart 
+#Concept/Siren 
+#Concept/Water/Sea 
 #PoE1

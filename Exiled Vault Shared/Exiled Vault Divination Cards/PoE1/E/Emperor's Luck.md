@@ -9,5 +9,5 @@ The house always wins.
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

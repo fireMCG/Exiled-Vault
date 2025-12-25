@@ -8,5 +8,5 @@ Brutus chose the left hand."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

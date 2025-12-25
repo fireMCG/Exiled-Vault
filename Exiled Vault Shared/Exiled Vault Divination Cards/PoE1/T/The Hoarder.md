@@ -1,5 +1,6 @@
 ## The Hoarder
-"More! I want more!" - Faendris, the Insatiable
+"More! I want more!"
+\- Faendris, the Insatiable
 ## 
 ![[The Hoarder.png]]
 
@@ -9,5 +10,5 @@ Exalted Orb
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -7,5 +7,5 @@ Innocence. Maxarius was Innocence himself. A charlatan, a liar, and a power-seek
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

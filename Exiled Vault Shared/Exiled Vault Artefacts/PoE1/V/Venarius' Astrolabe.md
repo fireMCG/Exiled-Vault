@@ -7,5 +7,5 @@ Then we can all stand united against the demons at the door..."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

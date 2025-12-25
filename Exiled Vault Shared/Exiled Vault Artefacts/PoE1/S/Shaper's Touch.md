@@ -8,8 +8,8 @@ Nothing.
 
 ---
 ## Tags
-#Item/Artefact
-#Character/Shaper 
+#Category/Artefact
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius
 #Concept/Time/Cycle 
 #Concept/Life 

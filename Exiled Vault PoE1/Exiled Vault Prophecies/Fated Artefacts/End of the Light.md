@@ -16,4 +16,4 @@ Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/I/Icetom
 #Concept/Light 
 #League/Prophecy
 #PoE1 
-#Item/Prophecy
+#Category/Prophecy

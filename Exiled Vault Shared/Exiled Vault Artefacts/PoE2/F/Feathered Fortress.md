@@ -5,5 +5,5 @@ Ride the western wind, and take flight.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

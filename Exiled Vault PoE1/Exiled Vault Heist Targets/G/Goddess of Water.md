@@ -10,7 +10,7 @@ the context is. The important thing is that you steal it before Bazira does.
 #Character/God/Halani
 #Character/KondorLarcius
 #Character/God/Halani
-#Item/HeistTarget
+#Category/HeistTarget
 #League/Heist
 #PoE1 
 #Society/Maraketh 

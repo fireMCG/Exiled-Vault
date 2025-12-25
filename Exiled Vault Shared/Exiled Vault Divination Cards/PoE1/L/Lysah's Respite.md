@@ -16,5 +16,5 @@ Corrupted
 ## Tags
 #Concept/Blood 
 #Concept/Memory 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

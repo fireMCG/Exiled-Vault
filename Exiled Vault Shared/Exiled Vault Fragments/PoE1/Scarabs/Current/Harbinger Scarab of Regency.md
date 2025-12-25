@@ -7,4 +7,4 @@ The truly noble wage war from the front.
 ---
 ## Tags
 #League/Harbinger
-#Item/Scarab
+#Category/Scarab

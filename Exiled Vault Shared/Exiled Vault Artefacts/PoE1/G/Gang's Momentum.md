@@ -5,5 +5,5 @@ Become one with the unstoppable flame.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

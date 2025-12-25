@@ -6,7 +6,7 @@ Zelina: I know little of this entity's origin, only that he is described as emer
 #
 ---
 ## Tags
-#Character/KingInTheMists 
+#Character/Changeling/KingInTheMists 
 #Character/Zelina
 #Location/Wildwood
 #Category/NPCTalk

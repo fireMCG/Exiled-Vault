@@ -6,5 +6,5 @@ are the ones who dwell in total darkness.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

@@ -11,5 +11,9 @@ Elder Item
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Body/Heart 
+#Character/Eldritch/Elder 
+#Concept/Mind 
+#Concept/Power 
 #PoE1

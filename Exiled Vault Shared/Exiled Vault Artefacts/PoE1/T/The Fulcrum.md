@@ -6,5 +6,5 @@ the master must achieve perfect balance.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

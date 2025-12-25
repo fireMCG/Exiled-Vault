@@ -5,5 +5,5 @@ The single well-placed arrow that changes the world must be preceded by ten thou
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

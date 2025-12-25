@@ -6,7 +6,7 @@ continue to think and dream and beg for silence...
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/SearingExarch 
 #Concept/Night/Dream 
 #Concept/Mind 

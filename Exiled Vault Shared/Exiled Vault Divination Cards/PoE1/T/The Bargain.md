@@ -11,6 +11,6 @@ Flawless Breachstone
 ## Tags
 #Concept/Power 
 #Concept/Wealth 
-#Item/DivinationCard
+#Category/DivinationCard
 #League/Breach 
 #PoE1

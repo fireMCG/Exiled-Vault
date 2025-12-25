@@ -4,5 +4,5 @@ A sanctuary for the unsanctified.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

@@ -8,5 +8,5 @@ Are we any better?
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

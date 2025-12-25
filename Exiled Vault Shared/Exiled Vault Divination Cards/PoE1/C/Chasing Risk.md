@@ -9,5 +9,9 @@ Synthesis Item
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/HighTemplar/Venarius 
+#Concept/Emotion/Fear 
+#Concept/Virtue/Ambition 
+#League/Synthesis 
 #PoE1

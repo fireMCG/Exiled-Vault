@@ -6,5 +6,5 @@ but we must crawl on our own.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

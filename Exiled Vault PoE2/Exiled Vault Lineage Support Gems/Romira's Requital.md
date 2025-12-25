@@ -12,8 +12,8 @@ She looked 'round for her sons, but hers was the only chair.
 #Character/Emperor/RomiraPhrecia
 #Concept/Cannibalism
 #Event/NightOfAThousandRibbons
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/EternalEmpire 
-#Item/SupportGem
+#Category/SupportGem
 #Attributes/Timeline 

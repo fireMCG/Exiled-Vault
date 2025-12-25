@@ -7,5 +7,5 @@ only to spend eternity in the service of me."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

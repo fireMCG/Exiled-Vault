@@ -12,5 +12,5 @@ Item Level: 76
 ---
 ## Tags
 #Concept/Element/Lightning 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -4,5 +4,5 @@ Beware a chill colder than death itself.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

@@ -9,5 +9,7 @@ Disabled
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Hunger 
+#Concept/Witch 
 #PoE1

@@ -14,5 +14,5 @@ Valako kept them here, to perfect their skills for war... but the Blood Fever co
 ---
 ## Tags
 #Category/Area
-#Item/Map
+#Category/Map
 #PoE2 

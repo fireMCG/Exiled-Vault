@@ -6,5 +6,5 @@ equipment gets out of hand.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

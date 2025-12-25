@@ -12,5 +12,5 @@ Shavronne Item
 ## Tags
 #Character/Shavronne 
 #Concept/Body/Flesh 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

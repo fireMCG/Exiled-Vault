@@ -11,7 +11,7 @@ unthinkable and the unimaginable made manifest.
 ## Tags
 #Character/Ixchel
 #Concept/Balance/Chaos 
-#Item/Lineage
+#Category/Lineage
 #PoE2
 #Society/VaalEmpire 
-#Item/SupportGem
+#Category/SupportGem

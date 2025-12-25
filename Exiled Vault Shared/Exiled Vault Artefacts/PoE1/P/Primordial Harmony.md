@@ -7,5 +7,5 @@ It is but one part of a fortress."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

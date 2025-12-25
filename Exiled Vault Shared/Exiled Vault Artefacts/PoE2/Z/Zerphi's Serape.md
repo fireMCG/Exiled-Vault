@@ -6,6 +6,8 @@ The cure is simple.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Curse 
+#Concept/Life/Mortality 
 #PoE2
 #Society/VaalEmpire 

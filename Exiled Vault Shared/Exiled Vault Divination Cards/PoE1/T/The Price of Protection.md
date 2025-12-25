@@ -14,5 +14,9 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Fortress 
+#Concept/Moon 
+#Concept/Protection 
+#Concept/Symbol/Descry 
 #PoE1

@@ -6,5 +6,5 @@ and three generous cups of Might.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

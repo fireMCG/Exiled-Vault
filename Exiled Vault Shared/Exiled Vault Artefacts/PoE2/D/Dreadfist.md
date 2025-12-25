@@ -5,5 +5,5 @@ What is worse, the sting of the past, the pain of the present, or the fear of th
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

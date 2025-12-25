@@ -7,6 +7,6 @@ you may be spared from its wrath."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

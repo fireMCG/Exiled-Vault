@@ -5,5 +5,5 @@ Be careful where you put your finger.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

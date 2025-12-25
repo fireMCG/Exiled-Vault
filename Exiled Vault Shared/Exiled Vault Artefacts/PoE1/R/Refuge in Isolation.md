@@ -6,5 +6,5 @@ the pain of heartbreak might just destroy us.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

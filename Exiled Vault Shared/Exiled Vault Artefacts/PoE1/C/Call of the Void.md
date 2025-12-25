@@ -6,9 +6,9 @@ can the cold truth of existence take hold.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Eldritch/Elder 
-#Character/Shaper 
+#Character/Eldritch/Shaper 
 #Character/ValdoCaeserius 
 #Concept/Virtue/Ambition 
 #Concept/Mind 

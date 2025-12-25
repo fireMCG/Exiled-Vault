@@ -5,5 +5,5 @@ A power unknown aids your own.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

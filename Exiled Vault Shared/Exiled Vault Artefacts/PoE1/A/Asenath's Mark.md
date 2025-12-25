@@ -6,7 +6,7 @@ as the fingers that drew her bowstring.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Sekhema/Asenath
 #Concept/Mind 
 #PoE1

@@ -6,5 +6,6 @@ Was it worth the expense? Only time will tell."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Concept/Virtue/Gem 
 #PoE1

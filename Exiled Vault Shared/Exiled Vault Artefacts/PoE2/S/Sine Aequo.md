@@ -5,5 +5,5 @@ The greatest warrior of his era fought with honour.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

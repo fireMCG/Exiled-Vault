@@ -7,6 +7,6 @@ Her scales weigh only truth.
 ---
 ## Tags
 #Character/God/GoddessOfJustice
-#Item/QuestItem
+#Category/QuestItem
 #PoE2
 #Society/EternalEmpire 

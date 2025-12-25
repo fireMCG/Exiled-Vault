@@ -6,5 +6,5 @@ all meaning long since lost to dead-eyed lust.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

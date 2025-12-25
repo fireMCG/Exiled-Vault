@@ -14,7 +14,7 @@ Synthesised
 ## Tags
 #Character/HighTemplar/Venarius 
 #Concept/Mind
-#Item/DivinationCard
+#Category/DivinationCard
 #League/Synthesis
 #Location/Wraeclast
 #PoE1

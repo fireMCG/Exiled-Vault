@@ -6,5 +6,5 @@ Plagues are exhausted, not cured.
 
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #PoE1 

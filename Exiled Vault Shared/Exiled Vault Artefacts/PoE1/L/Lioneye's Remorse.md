@@ -6,5 +6,5 @@ to his arrogance... and his fate.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

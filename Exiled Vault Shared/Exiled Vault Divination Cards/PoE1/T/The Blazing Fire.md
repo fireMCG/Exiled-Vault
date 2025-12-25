@@ -10,5 +10,5 @@ Chin Sol
 ---
 ## Tags
 #Concept/Element/Fire 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

@@ -6,5 +6,5 @@ We just expedite the process.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

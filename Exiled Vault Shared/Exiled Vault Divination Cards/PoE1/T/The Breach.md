@@ -11,6 +11,6 @@ Breach Item
 ## Tags
 #Concept/Body/Eye 
 #Concept/Fracture 
-#Item/DivinationCard
+#Category/DivinationCard
 #League/Breach 
 #PoE1

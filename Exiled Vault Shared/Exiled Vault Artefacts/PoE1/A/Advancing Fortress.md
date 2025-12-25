@@ -8,7 +8,7 @@ In heart, in mind, in hand."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Sekhema/Deshret 
 #Concept/Body/Hand
 #Concept/Body/Heart 

@@ -10,5 +10,5 @@ Taste of Hate
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

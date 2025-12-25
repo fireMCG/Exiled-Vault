@@ -8,5 +8,5 @@ As they dance in the waters red."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

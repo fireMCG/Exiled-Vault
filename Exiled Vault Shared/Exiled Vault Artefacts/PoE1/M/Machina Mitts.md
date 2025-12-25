@@ -5,5 +5,5 @@ Biology is but a machine, begetting effusion of energies; death is but a curse, 
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

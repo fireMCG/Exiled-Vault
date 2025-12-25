@@ -10,5 +10,8 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Body/Heart 
+#Concept/Nature/Harvest 
+#Concept/Soul 
 #PoE1

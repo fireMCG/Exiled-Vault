@@ -6,4 +6,4 @@ What power lies in a name?
 
 ---
 ## Tags
-#Item/Scarab
+#Category/Scarab

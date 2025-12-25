@@ -8,4 +8,4 @@ Storms of blood-stained sand will drown the enemies of the Maraketh.
 ## Tags
 #Attributes/Disabled
 #League/Legion
-#Item/Scarab
+#Category/Scarab

@@ -11,5 +11,7 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Animal/Fish 
+#Concept/Virtue/Gem 
 #PoE1

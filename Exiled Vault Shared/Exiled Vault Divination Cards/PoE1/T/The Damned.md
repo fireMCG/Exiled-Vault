@@ -1,6 +1,5 @@
 ## The Damned
-Souls along a conduit of blood, 
-from one vessel to the next.
+Souls along a conduit of blood, from one vessel to the next.
 ## 
 ![[The Damned.png]]
 
@@ -10,5 +9,8 @@ Soul Ripper
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Concept/Blood 
+#Concept/Damnation 
+#Concept/Soul 
 #PoE1

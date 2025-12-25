@@ -5,5 +5,5 @@ Leave the world in flames behind you.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

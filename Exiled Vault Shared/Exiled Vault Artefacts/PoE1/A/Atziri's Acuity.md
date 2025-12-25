@@ -7,7 +7,7 @@ It will tell me when it is best to strike."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Atziri 
 #Concept/Body/Heart 
 #Concept/Herald

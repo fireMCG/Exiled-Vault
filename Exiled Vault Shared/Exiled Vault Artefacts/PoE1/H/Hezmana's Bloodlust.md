@@ -5,5 +5,5 @@ When a craving cannot be sated, any source will do.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

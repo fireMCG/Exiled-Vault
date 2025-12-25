@@ -8,5 +8,5 @@ And the skill of compulsion.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

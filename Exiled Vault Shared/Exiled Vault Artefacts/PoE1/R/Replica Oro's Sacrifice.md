@@ -1,11 +1,12 @@
 ## Replica Oro's Sacrifice
 "Ice and flame antagonized in the essence of a prototype.
 What once burned now chills the soul."
-- Researcher Arn
+/- Researcher Arn
 ##
 ![[Replica Oro's Sacrifice.png]]
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
+#Character/HeistResearcher/Arn 
 #PoE1

@@ -8,6 +8,6 @@ is to step into the mind of God."
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1
 #Society/VaalEmpire 

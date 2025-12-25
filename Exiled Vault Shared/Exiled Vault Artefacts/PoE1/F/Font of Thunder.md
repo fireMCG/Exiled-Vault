@@ -5,5 +5,5 @@ The lightning fears not the flame.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

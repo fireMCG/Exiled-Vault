@@ -6,5 +6,5 @@ You ensure you can't live without them.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

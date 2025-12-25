@@ -8,5 +8,5 @@ And gave them the freedom to choose corruption for themselves.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -11,5 +11,10 @@ Corrupted
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Rigwald 
+#Concept/Darkness 
+#Concept/Light 
+#Concept/Purity 
+#Concept/Spirit 
 #PoE1

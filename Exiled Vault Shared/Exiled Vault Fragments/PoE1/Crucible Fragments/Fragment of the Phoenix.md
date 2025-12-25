@@ -7,5 +7,5 @@ nothingness and equilibrium of eternity.
 
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #PoE1 

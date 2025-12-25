@@ -6,5 +6,5 @@ Your only consolation prize is your life.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

@@ -9,5 +9,5 @@ And so becomes part of her stew.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

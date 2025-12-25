@@ -4,5 +4,5 @@ A forgotten grotto, lost to the world.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

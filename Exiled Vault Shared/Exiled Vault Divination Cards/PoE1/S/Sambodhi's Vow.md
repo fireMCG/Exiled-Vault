@@ -14,5 +14,5 @@ Mortal Fragment
 #Concept/Darkness 
 #Concept/Light 
 #Concept/Wing 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

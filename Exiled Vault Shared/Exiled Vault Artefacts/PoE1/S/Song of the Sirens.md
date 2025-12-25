@@ -6,5 +6,5 @@ But give a fish a man, and you can feed it for a month.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

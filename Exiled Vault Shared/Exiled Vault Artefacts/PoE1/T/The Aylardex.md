@@ -6,5 +6,5 @@ Might within from force without.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

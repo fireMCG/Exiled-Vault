@@ -1,6 +1,6 @@
 ## The Surgeon
 "He might be lacking in vision, but his virtuosity is undeniable."
-- Malachai, on Maligaro
+\- Malachai, on Maligaro
 ## 
 ![[The Surgeon.png]]
 
@@ -10,5 +10,7 @@ Surgeon's Flask
 
 ---
 ## Tags
-#Item/DivinationCard
+#Category/DivinationCard
+#Character/Malachai 
+#Character/Maligaro 
 #PoE1

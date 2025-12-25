@@ -4,5 +4,5 @@ These caves offer scant protection from the elements.
 #
 ---
 ## Tags
-#Item/Map
+#Category/Map
 #PoE2 

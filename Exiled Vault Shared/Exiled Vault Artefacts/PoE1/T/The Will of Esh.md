@@ -6,5 +6,5 @@ mindless thought that seek a hollow truth.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

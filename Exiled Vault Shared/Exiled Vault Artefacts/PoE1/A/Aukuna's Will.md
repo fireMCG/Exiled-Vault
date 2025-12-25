@@ -5,7 +5,7 @@ The Black Sekhema's trial had only just begun.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #Character/Sekhema/Aukuna
 #Concept/Sekhema 
 #Trial/Sekhema 

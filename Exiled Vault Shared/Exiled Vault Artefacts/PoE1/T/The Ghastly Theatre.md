@@ -7,5 +7,5 @@ Strike when they least expect it.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

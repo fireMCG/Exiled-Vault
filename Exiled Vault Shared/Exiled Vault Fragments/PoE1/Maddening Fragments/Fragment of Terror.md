@@ -11,5 +11,5 @@ Fear drives survival.
 #Concept/Survival
 #Concept/Horror 
 #Concept/Decay
-#Item/Fragment
+#Category/Fragment
 #PoE1 

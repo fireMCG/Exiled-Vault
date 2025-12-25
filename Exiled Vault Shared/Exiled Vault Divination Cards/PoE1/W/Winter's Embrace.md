@@ -18,5 +18,5 @@ Synthesised
 #Concept/Time/Cycle 
 #Concept/Emotion/Fear 
 #Concept/Season/Winter 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

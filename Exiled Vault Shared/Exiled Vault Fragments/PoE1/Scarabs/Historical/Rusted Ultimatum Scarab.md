@@ -4,9 +4,9 @@ We pulled you from the piled dead, young Ixchel, while your people were going ma
 #
 ---
 ## Tags
-#Item/Fragment
+#Category/Fragment
 #Attributes/Historical 
 #PoE1 
-#Item/Scarab 
+#Category/Scarab 
 #Society/VaalEmpire 
 #Attributes/Timeline 

@@ -13,5 +13,5 @@ Bottled Faith
 #Concept/Damnation 
 #Concept/Sanctity
 #Concept/Sin 
-#Item/DivinationCard
+#Category/DivinationCard
 #PoE1

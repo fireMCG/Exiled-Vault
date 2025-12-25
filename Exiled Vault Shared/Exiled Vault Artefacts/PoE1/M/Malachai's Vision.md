@@ -5,5 +5,5 @@ Wicked men chase power like stray dogs chase a rat.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE1

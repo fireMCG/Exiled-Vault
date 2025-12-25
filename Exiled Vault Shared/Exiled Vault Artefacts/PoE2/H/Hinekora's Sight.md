@@ -5,5 +5,5 @@ Remember the past, anticipate the future.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

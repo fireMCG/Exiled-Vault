@@ -5,5 +5,5 @@ What is life, but a dreamlike spiral of panic?
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

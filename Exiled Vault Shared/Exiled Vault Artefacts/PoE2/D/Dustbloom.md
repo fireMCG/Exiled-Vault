@@ -6,5 +6,5 @@ but life always springs back anew.
 
 ---
 ## Tags
-#Item/Artefact
+#Category/Artefact
 #PoE2

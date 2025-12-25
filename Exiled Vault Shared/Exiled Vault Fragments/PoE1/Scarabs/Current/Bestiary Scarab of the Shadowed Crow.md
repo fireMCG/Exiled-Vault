@@ -8,4 +8,4 @@ The Nameless begin to slip their bonds of nonexistence...
 ## Tags
 #Attributes/Disabled
 #League/Bestiary 
-#Item/Scarab
+#Category/Scarab
