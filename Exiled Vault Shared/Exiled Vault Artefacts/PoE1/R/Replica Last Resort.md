@@ -8,5 +8,5 @@ channel the desperate will to live. Intriguing."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Olesya 
+#Character/Olesya 
 #PoE1

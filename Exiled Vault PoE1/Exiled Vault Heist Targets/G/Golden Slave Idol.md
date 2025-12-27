@@ -7,7 +7,7 @@ This individual, it seems, was all but deified.
 
 ---
 ## Tags
-#Character/Uthelius
+#Character/RingClient/Uthelius
 #Concept/Slavery 
 #Category/HeistTarget
 #League/Heist

@@ -8,7 +8,7 @@ I hear the silent whispers of their wings as they descend, for me, for me..."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Arn 
+#Character/Arn 
 #Concept/Beyond 
 #Concept/Darkness 
 #Concept/Wing 

@@ -33,5 +33,6 @@ Tujen: Her fate here on Wraeclast was unknown, but I have a feeling she's still 
 ---
 ## Tags
 #Character/Tujen 
+#Character/Vorana
 #Category/NPCTalk
 #Society/Kalguur 

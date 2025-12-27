@@ -6,7 +6,7 @@ glory of the world. Protectors at the massive toll gates wore these.
 
 ---
 ## Tags
-#Character/Bazira
+#Character/RingClient/Bazira
 #Concept/Warrior
 #Category/HeistTarget
 #League/Heist

@@ -8,5 +8,5 @@ place of his standard lab attire is... granted."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Ksaret
+#Character/Ksaret
 #PoE1

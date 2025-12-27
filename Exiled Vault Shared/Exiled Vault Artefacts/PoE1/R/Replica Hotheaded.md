@@ -8,5 +8,5 @@ master cold and turn it to our own ends..."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Ksaret 
+#Character/Ksaret 
 #PoE1

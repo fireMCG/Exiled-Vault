@@ -7,7 +7,7 @@
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Qotra 
+#Character/Qotra 
 #Character/Malachai 
 #Concept/Virtue
 #PoE1

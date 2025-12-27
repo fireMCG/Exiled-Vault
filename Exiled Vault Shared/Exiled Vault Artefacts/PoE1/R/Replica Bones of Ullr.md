@@ -8,5 +8,5 @@ to serve as ample defence for the relics we left behind."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Qotra 
+#Character/Qotra 
 #PoE1

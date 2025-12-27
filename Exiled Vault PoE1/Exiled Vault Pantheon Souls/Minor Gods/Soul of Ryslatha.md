@@ -6,7 +6,7 @@
 
 ---
 ## Tags
-#Character/Ryslatha
+#Character/God/Ryslatha
 #Concept/Hive
 #Concept/Vice/Pride 
 #Concept/Soul 

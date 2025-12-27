@@ -7,5 +7,5 @@
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Graven 
+#Character/Graven 
 #PoE1

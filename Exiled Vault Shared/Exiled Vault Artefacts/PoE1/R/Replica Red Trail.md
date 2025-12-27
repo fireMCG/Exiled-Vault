@@ -8,5 +8,5 @@ The temptation is obvious, but the results can be... unpredictable."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Qotra 
+#Character/Qotra 
 #PoE1

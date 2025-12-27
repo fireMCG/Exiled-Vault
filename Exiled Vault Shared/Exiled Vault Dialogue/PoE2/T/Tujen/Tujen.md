@@ -827,4 +827,6 @@ Ugh, we've been played, 'aven't we? I'm out of here!
 ---
 ## Tags
 #Category/Dialogue
+#Character/Uhtred
+#Character/Vorana
 #PoE2

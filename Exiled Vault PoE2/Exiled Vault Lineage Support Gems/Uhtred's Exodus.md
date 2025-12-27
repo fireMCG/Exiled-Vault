@@ -10,7 +10,7 @@ with gems and set forth alone to face the endless hordes.
 ---
 ## Tags
 #Character/Uhtred
-#Character/Conqueror/Vorana
+#Character/Vorana 
 #Concept/Body/Flesh 
 #Concept/Gemling 
 #Concept/Virtue/Gem 

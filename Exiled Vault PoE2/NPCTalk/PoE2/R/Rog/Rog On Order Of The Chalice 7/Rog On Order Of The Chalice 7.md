@@ -86,6 +86,8 @@ Rog, the Dealer: I've always wanted to join the Order. I quite like the idea of 
 
 ---
 ## Tags
-#Character/Rog 
 #Category/NPCTalk
+#Character/Rog 
+#Character/Uhtred
+#Concept/Science 
 #Society/Kalguur 

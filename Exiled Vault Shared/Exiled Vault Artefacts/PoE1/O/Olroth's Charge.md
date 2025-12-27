@@ -7,4 +7,5 @@ Olroth the Gallant fought deeper into battle.
 ---
 ## Tags
 #Category/Artefact
+#Character/Olroth 
 #PoE1

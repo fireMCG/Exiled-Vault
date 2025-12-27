@@ -7,7 +7,7 @@
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Arn 
+#Character/Arn 
 #Concept/Body/Eye 
 #Concept/Number/Three 
 #PoE1

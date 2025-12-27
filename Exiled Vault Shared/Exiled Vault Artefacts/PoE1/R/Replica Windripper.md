@@ -8,5 +8,5 @@ an odour of evil. Nothing can shield the senses."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Arn 
+#Character/Arn 
 #PoE1

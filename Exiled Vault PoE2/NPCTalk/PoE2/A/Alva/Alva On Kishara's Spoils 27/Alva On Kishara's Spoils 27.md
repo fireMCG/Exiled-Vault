@@ -89,7 +89,7 @@ Duelist: [DNT]
 #Character/Atziri 
 #Character/Kishara 
 #Location/Middengard
-#Location/Wildwood 
+#Location/ViridianWildwood 
 #Location/Wraeclast/Phaaryl
 #Category/NPCTalk
 #Society/Brinerot

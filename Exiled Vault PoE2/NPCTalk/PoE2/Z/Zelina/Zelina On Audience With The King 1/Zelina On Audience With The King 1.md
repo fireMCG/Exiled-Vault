@@ -6,7 +6,7 @@ Zelina: The King in the Mists would have conquered us long ago, if he was capabl
 #
 ---
 ## Tags
-#Character/Changeling/KingInTheMists
+#Character/KingInTheMists
 #Character/Zelina
 #Category/NPCTalk
 #Society/VaalEmpire 

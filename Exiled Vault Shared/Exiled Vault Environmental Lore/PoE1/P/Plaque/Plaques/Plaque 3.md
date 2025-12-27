@@ -1,0 +1,10 @@
+# Plaque 3
+At age thirteen, carving knife in hand, I killed beasts for the amusement of the filthy. At fifteen, they thought me worthy to fight a fellow man. A butcher he was, twice as big and twice as stupid as I. I butchered the butcher and many like him, earned my way, kill by kill, out of the offal pit and into the Grand Arena. I thought I would find wealth and glory in the arena. I was wrong. I found something far more precious. My Lady Merveil.
+![[Plaque - Read_3.ogg]]
+
+#
+---
+## Tags
+#Category/Lore/Environmental
+#MissingTags 
+#PoE1/Act2

@@ -41,7 +41,7 @@ Druid: Nay... none of it matters. Not without you.
 
 ---
 ## Tags
-#Character/Changeling/KingInTheMists 
+#Character/KingInTheMists 
 #Exile/PoE2/Druid
 #Category/NPCTalk
 #Society/Ezomyte 

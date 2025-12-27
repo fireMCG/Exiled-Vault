@@ -877,4 +877,8 @@ Of course.
 ---
 ## Tags
 #Category/Dialogue
+#Character/Medved 
+#Character/Olroth 
+#Character/Uhtred
+#Character/Vorana
 #PoE2
