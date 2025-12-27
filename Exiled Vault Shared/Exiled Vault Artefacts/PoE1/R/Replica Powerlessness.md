@@ -7,5 +7,5 @@ The suppression troops have stopped responding to my orders. I'm no longer in ch
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Ksaret 
+#Character/Ksaret 
 #PoE1

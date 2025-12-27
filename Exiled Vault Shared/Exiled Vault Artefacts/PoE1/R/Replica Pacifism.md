@@ -7,5 +7,5 @@
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Ksaret 
+#Character/Ksaret 
 #PoE1

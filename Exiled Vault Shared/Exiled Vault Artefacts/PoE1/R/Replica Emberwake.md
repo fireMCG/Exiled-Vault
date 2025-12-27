@@ -8,5 +8,5 @@ just as quickly. This could have been much worse."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Ksaret 
+#Character/Ksaret 
 #PoE1

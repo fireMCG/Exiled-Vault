@@ -33,5 +33,6 @@ Tujen: Used to think it might change something if I found out what happened to h
 ---
 ## Tags
 #Character/Tujen 
+#Character/Vorana
 #Category/NPCTalk
 #Society/Kalguur 

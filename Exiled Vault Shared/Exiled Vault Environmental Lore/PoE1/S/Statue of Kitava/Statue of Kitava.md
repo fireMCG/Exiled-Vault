@@ -4,14 +4,12 @@ Kitava {"A primal deity of Hunger. Defeated by a most unlikely alliance between 
 #
 ---
 ## Tags
+#Attributes/Timeline 
+#Category/Lore/Environmental 
 #Character/God/Innocence
 #Character/God/Kitava 
 #Character/God/Sin 
 #Concept/Light 
 #Concept/Shadow 
-#Character/God/Innocence 
-#Character/God/Kitava 
-#Character/God/Sin 
-#Category/Lore/Environmental 
+#MissingTags 
 #PoE1
-#Attributes/Timeline 

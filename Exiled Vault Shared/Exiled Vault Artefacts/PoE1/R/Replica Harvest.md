@@ -8,6 +8,6 @@ Either we're keeping faulty logs, or..."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Graven 
+#Character/Graven 
 #Concept/Nature/Harvest 
 #PoE1

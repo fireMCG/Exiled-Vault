@@ -9,5 +9,5 @@ close is not what we are looking for. Keep trying."
 ## Tags
 #Attributes/Important 
 #Category/Artefact
-#Character/HeistResearcher/Qotra 
+#Character/Qotra 
 #PoE1

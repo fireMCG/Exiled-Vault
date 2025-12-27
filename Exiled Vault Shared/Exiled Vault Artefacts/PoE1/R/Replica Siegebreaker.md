@@ -8,5 +8,5 @@ of deaths. Lab Twelve has been lost to the flames."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Ksaret 
+#Character/Ksaret 
 #PoE1

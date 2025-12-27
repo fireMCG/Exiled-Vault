@@ -1,0 +1,10 @@
+# The Coast
+Kaom's canoe struck this sand with the force of destiny. At his back, the greatest war host in Karui history tamed the wild sea, their canoes coupling with the land, one by one. Lioneye's Gemlings met us with shining metal and bold words. Hyrri's arrows withered their pride. Kaom's axes silenced their despair. Marceus Lioneye fought bravely, to the last. Kaom honoured him with a place on his belt. Kaom has shown Wraeclast our Karui strength. Kaom will teach Wraeclast the Karui Way.
+![[Weathered Carving - Read.ogg]]
+
+#
+---
+## Tags
+#Category/Lore/Environmental
+#Location/Wraeclast/TheCoast
+#PoE1/Act1

@@ -8,5 +8,5 @@ Looping cycles, power and pain..."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Arn 
+#Character/Arn 
 #PoE1

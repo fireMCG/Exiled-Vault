@@ -9,4 +9,5 @@ he fights for you!
 ---
 ## Tags
 #Category/Artefact
+#Character/Olroth 
 #PoE2

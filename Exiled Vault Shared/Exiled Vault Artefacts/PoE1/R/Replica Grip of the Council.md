@@ -8,6 +8,6 @@ Somehow, I find that disturbing."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Arn 
-#Character/HeistResearcher/Qotra 
+#Character/Arn 
+#Character/Qotra 
 #PoE1

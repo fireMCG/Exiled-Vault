@@ -1,0 +1,10 @@
+# The Tidal Island
+Kaom has removed the Eternal stain from this coast. The Empire's citizens decorate our meeting houses with their heads. Our warriors build homes for our families. Our families till the earth, fish the waters, fill the air with song. The Karui Way is yet a seedling here, but it grows, gains in pride and power every day. Kaom has kept his promise. The time of the Karui has come.
+![[Weathered Carving - Read_2.ogg]]
+
+#
+---
+## Tags
+#Category/Lore/Environmental
+#Location/Wraeclast/TheTidalIsland
+#PoE1/Act1

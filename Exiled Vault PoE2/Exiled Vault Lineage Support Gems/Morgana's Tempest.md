@@ -9,7 +9,11 @@ wailing with unknown sorrows, her cries made the skies rage.
 #
 ---
 ## Tags
-#Character/Mythology/Morgana
 #Category/Lineage 
+#Character/Mythology/Morgana
+#Concept/Crying
+#Concept/Moon 
+#Concept/Sky 
+#Concept/Water/Rain 
 #Location/Wraeclast/Taisce 
 #Society/Ezomyte 

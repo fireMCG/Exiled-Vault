@@ -10,7 +10,7 @@ Replica Item
 ---
 ## Tags
 #Category/DivinationCard
-#Character/HeistResearcher/Qotra 
+#Character/Qotra 
 #Concept/Body/Eye 
 #Concept/Time/Future 
 #PoE1

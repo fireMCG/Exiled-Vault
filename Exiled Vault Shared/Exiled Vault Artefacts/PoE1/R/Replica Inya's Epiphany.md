@@ -8,6 +8,6 @@ and improved ability to micromanage us, I'm not so sure."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Graven 
-#Character/HeistResearcher/Qotra 
+#Character/Graven 
+#Character/Qotra 
 #PoE1

@@ -7,7 +7,7 @@ Doesn't have to be your own blood, does it?
 
 ---
 ## Tags
-#Character/CastorPollinius
+#Character/RingClient/CastorPollinius
 #Concept/Blood 
 #Concept/Life/Immortality 
 #Concept/Whisper 

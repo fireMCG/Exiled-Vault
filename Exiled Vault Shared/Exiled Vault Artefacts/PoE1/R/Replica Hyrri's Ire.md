@@ -8,7 +8,7 @@ to stop the experiment... but you know how I am with screams."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Olesya 
+#Character/Olesya 
 #Character/Hyrri 
 #Concept/Storm 
 #PoE1

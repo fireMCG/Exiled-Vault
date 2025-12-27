@@ -57,5 +57,7 @@ Druid: Truth will out, in the end.
 ---
 ## Tags
 #Character/Rog 
+#Character/Olroth 
+#Character/Uhtred
 #Category/NPCTalk
 #Society/Kalguur 

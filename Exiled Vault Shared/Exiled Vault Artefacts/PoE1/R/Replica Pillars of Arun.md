@@ -7,5 +7,5 @@
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Qotra 
+#Character/Qotra 
 #PoE1

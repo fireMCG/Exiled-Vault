@@ -1,0 +1,11 @@
+# Volume 4 - A Friend in Need
+It's one of those summer days in Sarn, when the sweat dries on your skin the moment it dares slither from your pores. Lorenzi and I are sipping coffees, iced with cubes from the North. There's a tremor in his voice as he announces that he is going to see Malachai tonight, to have a gem implanted in his hand. The palm of his left hand to be exact. Once I have run out of expletives and paused for breath while the waiter wipes spilled coffee from our table, I manage to ask him why. "So that I might have the fastest fingers in the Empire," is his reply. Lorenzi, first violinist of the Sarn Symphonic, and my dear friend, is going to become a Gemling. Ten days pass and Lorenzi's hand is healed. He plays for me, a piece that he has written during his convalescence, something he will debut this evening in God's Theatre. The gem casts a bloody hue over his violin as his fingers fly across the strings. They are an ephemeral blur, too quick for eye or mind to follow. And the music... there's only one experience in my life that compares. The night I had with Marylene before she died. It has been a month now, and once again Lorenzi and I sip iced coffees together in the Perandus Markets. Though we sit only a narrow table apart, Lorenzi is a world away. The nightmares began a couple of weeks back. He toys absently with the vial that I have bought for him from the apothecary, yet I know he won't drink from it. The soothing of his wits will mean the slowing of his fingers. The music is Lorenzi's life, and to Lorenzi, the music and the gem are one and the same. A year has gone, and the day is once again hot enough to dry the sweat on my skin the moment it dares slither from my pores. I sip an iced coffee and think of Lorenzi. He played last night, in God's Theatre. Fleet, furious, and wondrous, he was. We passed in the foyer, and I looked into his grey face, his pale blue eyes. I don't know what he saw, but it wasn't me. I don't know what I saw either, but it wasn't Lorenzi.
+
+\- Victario of Sarn
+
+#
+---
+## Tags
+#Category/Lore/Environmental
+#MissingTags 
+#PoE1/Act3

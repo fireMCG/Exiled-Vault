@@ -8,6 +8,6 @@ was different before. Now, it's always been this way!"
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Graven 
+#Character/Graven 
 #Concept/Enigma 
 #PoE1

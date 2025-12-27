@@ -8,7 +8,7 @@ There is nowhere we can run that our sins will not find us now.”
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Arn
+#Character/Arn
 #Concept/Fracture 
 #Concept/Sin 
 #Concept/Sky 

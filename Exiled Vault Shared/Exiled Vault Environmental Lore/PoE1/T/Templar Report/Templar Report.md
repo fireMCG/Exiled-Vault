@@ -1,8 +1,9 @@
-## Templar Report
-#### Read
+# Templar Report
 General Marcovius, Commander of the Templar Fleet Operation Ocean Blades An urgent Report on: The Massacre of Pondium Strait. "We were sent here to crush the Brinerot pirates, but something far more troubling has occupied our attentions. Of the surviving men, a few of the older, more superstitious types call it the Brine King. Apparently some false deity of the sea we've long since scoured from our holy scriptures. Whatever the damned thing is, it's big. I've seen it myself, though as little more than a vast shadow far below us, veritably dwarfing the hulls of our fleet. Most of our ships are gone, dragged beneath the waves by this malevolent leviathan. We could do little but watch in horror as the waters about us blossomed red. We are nearing the Beacon, what's left of us, and the wind blows strongly towards home. High Templar Avarius, please understand that I am not a man cut from the coward's cloth, but this situation... this game of cat and mouse has gone on too long. There is nothing to be gained in continuing on to Pondium. We shall turn our sails and catch the trade wind back to Oriath. I only pray we can outrun this thalassic fiend. May Innocence guide and protect us. General Marcovius
 
+#
 ---
 ## Tags
 #Category/Lore/Environmental
+#MissingTags 
 #PoE1/Act6

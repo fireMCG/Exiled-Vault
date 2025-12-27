@@ -6,6 +6,7 @@ They have other ways of keeping the dead.
 
 ---
 ## Tags
+#Character/RingClient/Bazira
 #Concept/Death 
 #Concept/Sky 
 #Category/HeistTarget

@@ -12,7 +12,7 @@ paranoid. Now, only two remained... Olroth and Vorana.
 #Character/Medved 
 #Character/Olroth 
 #Character/Uhtred
-#Character/Conqueror/Vorana 
+#Character/Vorana 
 #Category/Lineage
 #PoE2
 #Society/Kalguur 

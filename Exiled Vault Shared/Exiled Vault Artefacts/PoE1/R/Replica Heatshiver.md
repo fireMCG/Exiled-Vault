@@ -9,8 +9,8 @@ the plan won't work! Where's Arn?! I have to tell him!"
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Arn 
-#Character/HeistResearcher/Graven 
+#Character/Arn 
+#Character/Graven 
 #Concept/Element/Ice 
 #Concept/Element/Lightning 
 #Concept/Storm 

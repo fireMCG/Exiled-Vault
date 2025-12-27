@@ -1,19 +1,16 @@
-## Research Journal
-#### Journal Entry 1
-The artefacts which High Templar Dominus returned to our city have finally offered up to me one of their secrets. Though, I am certain there is much to be found within the relics, I'm exhilarated and brought to awe by what I have discovered as of yesterday's studies. I have uncovered a hidden frequency of corruption within the relics - oh, how they now sing to me! They are as mirrors, dimly reflecting shadows and echoings of the past. I have seen signs of blood and ancient sacrifice in the ghostings of our precious city! Such as what the Vaal would commit in their homelands. Could it be that these echoes point to Vaal culture having extended all the way to the shores of Oriath? Perhaps we are not the first empire to pull itself up from the mire of this land? I must listen to the relics further, I need to understand, but the singing, it pains me to listen for very long. My work must progress slowly, but it shall progress. Much is at stake here. I can feel it! - Templar Davaro of Theopolis
+# Research Journal
+## Journal Entries
+[[Research Journal - Entry 1]]
+[[Research Journal - Entry 2]]
+[[Research Journal - Entry 3]]
+[[Research Journal - Entry 4]]
 
-#### Journal Entry 2
-I am Templar Thaumaturgist Davaro, the ecstatic, the knower of hidden things, the key to ancient wonder! In such a short time, everything has changed. The singing of the relics to me no longer pains my ears, in fact, I hear music in them, songs revealing great truths to me. My theory that the Vaal once dwelt in this land has proven fruitful, one of their ancient sites lies not far from here. There is great power dormant in the ruins, one that I am yet to tap fully, but it will come soon enough. Through my thaumaturgy, I was granted special sight, I saw the ancient Vaal city that once stood in this place. All around me were signs of the legendary Queen Atziri ruling from afar. I saw, as I stood at the base of a great pyramid, the sacrifice of new harvest unfold. The steps ran red with a river of blood, a crimson tide, cascading towards me and washing over my skin. In it, I felt my being shake, as if lightning was reverberating through my body. I felt the strength of that blood ritual, and then returning to my senses, I found myself once more standing in ancient ruins. I thought it to be all a dream, only, when I reached up to touch my face, I found it both horrifyingly and marvelously, pelted with that same salted vermillion. - Templar Davaro of Theopolis, Key to Ancient Wonder
-
-#### Journal Entry 3
-I have been plagued by a sickness as of late. A kind of blood marking. This curse stalks me in both waking life and the world of dream. The relics no longer sing to me of power, they scream to me of hunger and the ruins call out like needy children for blood, oh, so much more blood! Now that I am aware of their ancient existence, they will not remain silent! What was - at first - revitalising, is now a torment. I can't, no matter how hard I try, clean the blood from my face and hands. Nobody ever sees the red, but for me, yet this does not mean it doesn't exist! I purchased three Karui slaves from the marketplace the other morning. Strapping young lads of seventeen. At the blood site in the ancient ruins, they pleaded with me. Something about the place, the corruption engrained in the stonework... it spoke to them, and they knew. The powers demand blood, so I gave it to them. I opened the throats of those Karui lads and poured out their essence onto Atziri's altar. As the sanguine liquid was sucked up by the stone, my mind frayed and I saw the Queen herself, naked and aroused, bathing in a pool of blood while her hand reached between her thighs. I... I can't shake her image from my mind, even now as I lay on my bed, I shiver with fear and anticipation. I have never felt lust for a woman in this magnitude. I fear the Queen shall be the death of me. When I close my eyes I see her, reaching out to embrace me. - Templar Davaro
-
-#### Journal Entry 4
-My beautiful Queen is all I see. She dwells in another world, I know this now. Our worlds are separate realities, but not entirely ones without doors and bridges to offer transport. In our dreams we make love amidst the coagulation of our victims' blood. The red is our passion and the gore has become our wedding bed. Soon, I will be with my love, she will be closer to me than my own flesh. I have learnt a spell. Blood Thaumaturgy - forbidden by the Templars, but they have no idea as to the power they have ignored... In the streets outside, Theopolis is in a panic. Two children belonging to noble families have gone missing in the night. As I look out my window, I see the guards questioning beggars and citizens alike. They will not find the boy or the girl. Such precious beings, they were. The young girl passed from consciousness before I took her. The boy, so brave, never screamed once, not even as my blade cut into the soft of his belly. They are both silent now. Unmoving. And shortly I will join them, and together we shall unite with my queen - a happy family. Husband, Wife, Daughter, Son. My knife still drips beside me. I leave this final account in hopes that those who may find us will yearn for the same pleasures I have found, and join us in eternity. - Templar Thaumaturgist, Davaro
-
+#
 ---
 ## Tags
 #Category/Lore/Environmental 
+#Index 
+#MissingTags 
 #PoE1
 #Society/TemplarOrder 
 #Society/VaalEmpire 

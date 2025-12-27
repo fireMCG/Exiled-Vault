@@ -7,7 +7,7 @@
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Graven 
+#Character/Graven 
 #Concept/Blindness 
 #Concept/Time/Cycle 
 #Concept/Time/Future 

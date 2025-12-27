@@ -7,7 +7,7 @@ believing it exists, but if it does... I would certainly like to take a sip and 
 ---
 ## Tags
 #Character/Djinn/Balbala 
-#Character/Bazira
+#Character/RingClient/Bazira
 #Concept/Treason
 #Category/HeistTarget
 #League/Heist

@@ -8,5 +8,5 @@ What once burned now chills the soul."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Arn 
+#Character/Arn 
 #PoE1

@@ -1,8 +1,10 @@
-## Maji Proclamation
+# Maji Proclamation
 We, the Maji, mark this land as the future home of the Azmeri. Our people will prosper in safety.
 ![[Maji Proclamation - Maji Proclamation.ogg]]
 
+#
 ---
 ## Tags
 #Category/Lore/Environmental 
+#MissingTags 
 #PoE1

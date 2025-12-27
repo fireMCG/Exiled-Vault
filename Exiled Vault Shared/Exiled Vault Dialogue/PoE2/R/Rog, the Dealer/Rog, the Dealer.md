@@ -829,4 +829,6 @@ Good one for disenchanting.
 ---
 ## Tags
 #Category/Dialogue
+#Character/Olroth 
+#Character/Uhtred
 #PoE2

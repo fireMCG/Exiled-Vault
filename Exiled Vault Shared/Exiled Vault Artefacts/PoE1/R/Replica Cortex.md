@@ -8,6 +8,6 @@ Memory? Cease testing and lock this away immediately!"
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Qotra 
+#Character/Qotra 
 #Concept/Memory 
 #PoE1

@@ -7,5 +7,5 @@
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Olesya
+#Character/Olesya
 #PoE1

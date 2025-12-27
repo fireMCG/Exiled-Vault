@@ -39,5 +39,6 @@ Dannig: I will be waiting.
 ---
 ## Tags
 #Character/Dannig 
+#Character/Olroth 
 #Category/NPCTalk
 #Society/Kalguur 

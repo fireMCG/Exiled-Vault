@@ -8,5 +8,5 @@ Prototype #141. Sooner or later, someone's going to lose an eye."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Qotra 
+#Character/Qotra 
 #PoE1

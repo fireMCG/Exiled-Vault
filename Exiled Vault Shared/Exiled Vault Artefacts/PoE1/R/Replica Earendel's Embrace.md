@@ -8,7 +8,7 @@ master turns to ash."
 ---
 ## Tags
 #Category/Artefact
-#Character/HeistResearcher/Arn 
+#Character/Arn 
 #Concept/Ash 
 #Concept/Body/Bone 
 #Concept/Body/Flesh 
