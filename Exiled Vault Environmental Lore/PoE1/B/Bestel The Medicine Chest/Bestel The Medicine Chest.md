@@ -1,0 +1,12 @@
+# Bestel The Medicine Chest
+
+## Lore
+There's an island, a hop, skip, and a wade offshore of the Terraces. That's where my Merry Gull ran aground. Watched the locals spit-roast the ship's doctor, but his medicine chest might still be there, amongst the splinters and bones. It'd have everything Nessa might need. Doctor 'Shaky Hands' Opden was lousy with a scalpel, and even worse with a saw... but he knew his apothecary. Explains the shaky hands, if you ask me.
+
+![[Exiled Vault Environmental Lore/PoE1/B/Bestel The Medicine Chest/_Audio/Bestel The Medicine Chest.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

@@ -1,0 +1,12 @@
+# Clarissa The Lunaris Temple
+
+## Lore
+You find a high enough spot and you can see the Lunaris Temple over the river, at the western edge of the city. Since the Blackguards arrived, the clouds above that temple have been stained with the blackest of smoke. You can see it sometimes, when the westerly blows. It stinks worse than death.
+
+![[Exiled Vault Environmental Lore/PoE1/C/Clarissa The Lunaris Temple/_Audio/Clarissa The Lunaris Temple.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

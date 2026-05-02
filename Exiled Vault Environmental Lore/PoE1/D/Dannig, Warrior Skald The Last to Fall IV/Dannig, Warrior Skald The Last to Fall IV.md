@@ -1,0 +1,12 @@
+# Dannig, Warrior Skald The Last to Fall IV
+
+## Lore
+Vorana sent messengers to the island-men and the mountain-men for aid, but their fate was unknown. The defenders were valiant, but new food could not be purified without the Flame. Famine set in, and the seasons refused to slow their passing. Thin and wasting away, Vorana realized that waiting meant death. She knew there was a way to increase her power, so she performed the forbidden rite and placed gems inside her own flesh.
+
+![[Exiled Vault Environmental Lore/PoE1/D/Dannig, Warrior Skald The Last to Fall IV/_Audio/Dannig, Warrior Skald The Last to Fall IV.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

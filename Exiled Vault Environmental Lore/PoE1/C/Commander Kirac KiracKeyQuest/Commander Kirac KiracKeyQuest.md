@@ -1,0 +1,12 @@
+# Commander Kirac KiracKeyQuest
+
+## Lore
+Rumour has it this was built by order of a previous High Templar, the name of Venarius. If the impossible components we need are anywhere in our mortal realm, they would be in the Vault of Venarius in the Reliquary. We're going to need to find the key to that Vault. Dominus was the next High Templar, and thus the one who declared his predecessor's pursuits heretical and had them sealed as blasphemous. A load of manure to secure the secrets for himself, no doubt. A man like him would have kept the key close. My gut tells me it's likely in his old office in the Templar Courts. Let's head there.
+
+![[Exiled Vault Environmental Lore/PoE1/C/Commander Kirac KiracKeyQuest/_Audio/Commander Kirac KiracKeyQuest.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

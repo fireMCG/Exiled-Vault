@@ -1,0 +1,13 @@
+# Ancient Etchings III
+
+## Lore
+#### Ancient Etchings III
+I am the One Who Watches. I observe from afar as flowers blossom and fade, as trees shoot skyward and then fall, and as whole animal breeds populate and change. They are growing smarter, in small ways, and watching their antics keeps me sane. One day, they will understand what it is to be alive, and they will wonder why they are. I will give them guidance. More than that, I will not say. I will spare them the pain of knowing.
+![[Exiled Vault Environmental Lore/PoE1/A/Ancient Etchings III/_Audio/Ancient Etchings III - Ancient Etchings III.ogg]]
+
+##
+---
+## Tags
+#Category/Lore/Environmental
+#EnvironmentalLore
+#PoE1

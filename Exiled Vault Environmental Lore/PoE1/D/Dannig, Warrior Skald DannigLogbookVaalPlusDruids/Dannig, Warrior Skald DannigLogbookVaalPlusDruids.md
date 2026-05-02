@@ -1,0 +1,12 @@
+# Dannig, Warrior Skald DannigLogbookVaalPlusDruids
+
+## Lore
+This logbook... I don't think I can repeat what I've read. The Druids of the Broken Circle claimed to have the ability to look into the past, so of course they tried to understand the fate of the Vaal Empire that lay dead and empty across Wraeclast. This logbook... No. I can face fear. If you give the word, we'll go, Exile.
+
+![[Exiled Vault Environmental Lore/PoE1/D/Dannig, Warrior Skald DannigLogbookVaalPlusDruids/_Audio/Dannig, Warrior Skald DannigLogbookVaalPlusDruids.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

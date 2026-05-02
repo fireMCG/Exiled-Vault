@@ -1,9 +1,0 @@
-## Grand Spectrum (Crimson Jewel, resistance)
-Skin like steel tempered by bright flames.
-##
-![[Grand Spectrum (Crimson Jewel, resistance).png]]
-
----
-## Tags
-#Category/Artefact
-#PoE1

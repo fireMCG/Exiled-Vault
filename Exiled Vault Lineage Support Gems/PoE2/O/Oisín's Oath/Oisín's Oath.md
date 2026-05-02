@@ -1,0 +1,23 @@
+# Oisín's Oath
+
+![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Oisín's Oath.webp]]
+
+## Description
+The first Warden of Eaves swore to patrol the border twixt the worlds forevermore, so that the tragedy of Gruthkul's stampede would never recur. In time, his vigil on the edge began to... change him.
+
+## Effects
+Mana Leech from Supported Skills recovers based on Elemental Damage Types instead of Physical Damage
+Mana: 100%
+
+##
+---
+## Tags
+#Character/God/Gruthkul
+#Character/Oisín
+#Category/Lineage
+#Location/ViridianWildwood
+#Society/Maji/WardenOfEaves
+#Attributes/Timeline
+#Lineage
+#SupportGem
+#PoE2

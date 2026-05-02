@@ -1,0 +1,26 @@
+# Pillars of Arun
+
+![[Exiled Vault Artefacts/_Images/PoE1 - Pillars of Arun.png]]
+
+## Description
+Man creates where nature cannot.
+
+## Details
+- Monster Level: 68
+- Item Quantity: +(100-150)%
+- Item Rarity: +(200-300)%
+- (60-100)% increased Experience gain
+- Area contains unbridged gaps to cross
+- Monsters have 50% chance to Avoid Ailments
+- (20-25)% increased Monster Movement Speed
+- (20-25)% increased Monster Attack Speed
+- (20-25)% increased Monster Cast Speed
+- Players have 200% increased Cooldown Recovery Rate for Movement Skills
+- Travel to a Map by using this in a personal Map Device. Maps can only be used once.
+
+##
+---
+## Tags
+#Category/Artefact
+#Artefact
+#PoE1

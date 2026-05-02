@@ -1,0 +1,17 @@
+# The Horn of the Vastiri
+
+![[Exiled Vault Quest Items/_Images/PoE2 - The Horn of the Vastiri.png]]
+
+## Description
+When Orbala drew in a mighty breath and sounded the Horn,
+every tent in the whole of the Plains blew wildly open.
+
+##
+---
+## Tags
+#Character/Sekhema/Orbala
+#Category/QuestItem
+#Society/Maraketh
+#Attributes/Timeline
+#QuestItem
+#PoE2

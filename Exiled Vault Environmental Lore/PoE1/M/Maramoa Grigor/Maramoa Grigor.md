@@ -1,0 +1,12 @@
+# Maramoa Grigor
+
+## Lore
+Grigor is the butterfly that has lost its wings to a cruel child, and this place of respite has become a cage for his pain, a breeding ground of bad memory. We spoke and Grigor shared his resolve with me. He can no longer live with the torment that Piety has injected into his heart. Like the warrior-poet he is, Grigor has ventured into the unknown, to find a cure for his body and mind, or die in the attempt.
+
+![[Exiled Vault Environmental Lore/PoE1/M/Maramoa Grigor/_Audio/Maramoa Grigor.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

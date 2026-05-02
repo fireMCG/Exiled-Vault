@@ -1,0 +1,21 @@
+# Bound By Destiny
+
+![[Exiled Vault Artefacts/_Images/PoE1 - Bound By Destiny.png]]
+
+## Description
+The future weaves ever forward, twisting into itself forever,
+driven by the passions and tragedies of those who seek.
+
+## Details
+- Limited to: 1
+- Attacks have +(1-1.5)% to Critical Strike Chance if 4 Elder Items are Equipped+(1-1.5)% to Spell Critical Strike Chance if 4 Shaper Items are EquippedYou can apply an additional Curse if 6 Hunter Items are EquippedProjectiles Pierce 2 additional Targets if 2 Hunter Items are EquippedSkills fire an additional Projectile if 6 Hunter Items are EquippedCannot be Frozen if 6 Redeemer Items are EquippedCannot be Stunned if 6 Elder Items are EquippedConsecrated Ground around you while stationary if 2 Crusader Items are Equipped(5-10)% of Elemental Damage taken as Chaos Damage if 4 Hunter Items are Equipped(1-3)% of Elemental Damage Leeched as Energy Shield if 2 Shaper Items are EquippedCannot take Reflected Elemental Damage if 4 Shaper Items are EquippedGain 1 Endurance Charge every second if you've been Hit Recently and
+- 4 Warlord Items are EquippedMelee Hits Fortify if 6 Warlord Items are Equipped(10-15)% chance to gain a Frenzy Charge on Hit if 4 Redeemer Items are Equipped+1 to Level of all Chaos Skill Gems if 6 Hunter Items are Equipped+1 to Level of all Cold Skill Gems if 6 Redeemer Items are Equipped(10-20)% increased Cooldown Recovery Rate if 2 Shaper Items are Equipped+1 to Level of all Fire Skill Gems if 6 Warlord Items are Equipped+1 to Level of all Lightning Skill Gems if 6 Crusader Items are Equipped+1 to Level of all Physical Skill Gems if 6 Elder Items are Equipped+1 to Level of all non-Exceptional Support Gems if 6 Shaper Items are Equipped+1 to Maximum Power Charges if 6 Crusader Items are Equipped+3% to maximum Chance to Block Attack Damage if 4 Elder Items are Equipped+(2-3)% to maximum Chaos Resistance if 4 Hunter Items are Equipped+(2-3)% to maximum Cold Resistance if 4 Redeemer Items are Equipped+(1-2)% to all maximum Elemental Resistances if 6 Shaper Items are Equipped+1 to Maximum Endurance Charges if 6 Warlord Items are Equipped+(2-3)% to maximum Fire Resistance if 4 Warlord Items are Equipped+1 to Maximum Frenzy Charges if 6 Redeemer Items are Equipped(10-15)% increased maximum Life if 2 Elder Items are Equipped+(2-3)% to maximum Lightning Resistance if 4 Crusader Items are Equipped(10-15)% increased maximum Mana if 2 Shaper Items are Equipped+3% to maximum Chance to Block Spell Damage if 4 Shaper Items are Equipped(10-15)% increased Movement Speed if 4 Hunter Items are EquippedNearby Enemies are Blinded if 2 Redeemer Items are EquippedNearby Enemies are Intimidated if 2 Warlord Items are EquippedNearby Enemies are Unnerved if 2 Elder Items are Equipped(10-15)% increased Attributes if 6 Elder Items are Equipped(10-15)% increased Dexterity if 2 Redeemer Items are Equipped(10-15)% increased Intelligence if 2 Crusader Items are Equipped(10-15)% increased Strength if 2 Warlord Items are EquippedGain (10-15)% of Physical Damage as Extra Damage of each Element if
+- 6 Shaper Items are Equipped(1.0-3.0)% of Physical Damage Prevented Recently is Regenerated as Energy Shield Per Second if 6 Crusader Items are Equipped(5-10)% of Physical Damage taken as Cold Damage if 4 Redeemer Items are Equipped(5-10)% of Physical Damage taken as Fire Damage if 4 Warlord Items are Equipped(5-10)% of Physical Damage taken as Lightning Damage if 4 Crusader Items are Equipped(1-3)% of Physical Damage Leeched as Energy Shield if 2 Elder Items are EquippedCannot take Reflected Physical Damage if 4 Elder Items are Equipped(10-15)% chance to gain a Power Charge on Hit if 4 Crusader Items are EquippedEvery 4 seconds, Regenerate 35% of Life over one second if 2 Hunter Items are EquippedUnaffected by Chill if 2 Redeemer Items are EquippedUnaffected by Ignite if 2 Warlord Items are EquippedUnaffected by Poison if 2 Hunter Items are EquippedUnaffected by Shock if 2 Crusader Items are Equipped
+- Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
+
+##
+---
+## Tags
+#Category/Artefact
+#Artefact
+#PoE1

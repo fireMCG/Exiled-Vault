@@ -1,0 +1,12 @@
+# Tarkleigh Tukohama
+
+## Lore
+You've killed the Karui war god? Can you kill a god? Look, I can't even begin to understand what you've just done. Bestel will be able to put our gratitude into words more fitting of a legend. Me, I'll work with what I know. A solid reward for a damn fine deed.
+
+![[Exiled Vault Environmental Lore/PoE1/T/Tarkleigh Tukohama/_Audio/Tarkleigh Tukohama.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

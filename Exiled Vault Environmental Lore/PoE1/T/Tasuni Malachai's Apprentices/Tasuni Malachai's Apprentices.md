@@ -1,0 +1,12 @@
+# Tasuni Malachai's Apprentices
+
+## Lore
+If Deshret were able, she'd thank you for dispatching her tormentors, Malachai's wicked little trio. You'll have to content yourself with my thanks, instead. Deshret has been avenged, as is the way of the Maraketh. Tidiness helps one sleep at night, don't you think?
+
+![[Exiled Vault Environmental Lore/PoE1/T/Tasuni Malachai's Apprentices/_Audio/Tasuni Malachai's Apprentices.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

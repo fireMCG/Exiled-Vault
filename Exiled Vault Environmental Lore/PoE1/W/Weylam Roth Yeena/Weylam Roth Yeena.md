@@ -1,0 +1,12 @@
+# Weylam Roth Yeena
+
+## Lore
+Yeena's a pretty young thing ain't she. Bosoms to eclipse the sun, she has! Might be that I spend some time here, get to know the lass a tad more. Never mind that she's young and alive and I be... argh, old and dead. Once she hears me poetry, that is. Not a girlie alive who won't want for a bit of ol' rot tooth once he breaks out the... heh, tongue twisters and... word plays! Not that she'd likely hold much interest in an old ghost like me. Still, a man can dream. Even a dead one.
+
+![[Exiled Vault Environmental Lore/PoE1/W/Weylam Roth Yeena/_Audio/Weylam Roth Yeena.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

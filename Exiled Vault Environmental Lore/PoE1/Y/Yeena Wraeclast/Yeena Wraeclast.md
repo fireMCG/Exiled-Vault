@@ -1,0 +1,12 @@
+# Yeena Wraeclast
+
+## Lore
+Wraeclast has changed. Once, I knew my place in this world. I knew my place within the Spirit. Now, doorways have opened. Doorways I can neither see, nor touch, but through which the spiritless ones pass all the same. The spiritless ones must be driven back, their doors must be closed. May the Great Spirit guide you in your battles against these ancients that mean us nothing but ill.
+
+![[Exiled Vault Environmental Lore/PoE1/Y/Yeena Wraeclast/_Audio/Yeena Wraeclast.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

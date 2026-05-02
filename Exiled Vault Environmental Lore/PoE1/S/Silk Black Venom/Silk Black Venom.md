@@ -1,0 +1,12 @@
+# Silk Black Venom
+
+## Lore
+The Black Venom! Oh, Great Dreamer who has done great deeds, I shall see to it that my queen rewards you with honour and mercy when she rises up to claim what is hers. Yes, this elixir, so aged and potent, shall be life-giving draught that she sips upon first waking. It is my gift to her... my wedding gift! Great Dreamer, you be wrapped in silken finery and made welcome at our wedding feast. Guest of honour, and oh what a feast we all shall enjoy!
+
+![[Exiled Vault Environmental Lore/PoE1/S/Silk Black Venom/_Audio/Silk Black Venom.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

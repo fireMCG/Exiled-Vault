@@ -1,0 +1,12 @@
+# The Envoy Mortal Edifice Undone
+
+## Lore
+I set my eyes upon the great peaks of fire and light and watched them unravelled and devoured by the black sky above. I heard the choir of darkness sing as they drank their fill, and left the world below a frozen, lifeless shell. This was their gift to me, their eternal servant: to walk among the countless silent screaming dead and witness.
+
+![[Exiled Vault Environmental Lore/PoE1/T/The Envoy Mortal Edifice Undone/_Audio/The Envoy Mortal Edifice Undone.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

@@ -1,0 +1,12 @@
+# Sister Cassia
+
+## Dialogue
+#### BlightBuilderIntroduction
+Hm? What do we have here? Yet another of Oriath's cast-offs? With the problems we're facing here, I do wish they'd send someone with a little more... utility. Alas, we have useless exiles blowing in like spores on the wind. Cassia, by the by. Pleasure.
+![[Exiled Vault Dialogue/PoE2/S/Sister Cassia/_Audio/Sister Cassia - BlightBuilderIntroduction.ogg]]
+
+##
+---
+## Tags
+#Dialogue
+#PoE2

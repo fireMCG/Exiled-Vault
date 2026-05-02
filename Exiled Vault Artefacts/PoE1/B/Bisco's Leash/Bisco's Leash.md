@@ -1,0 +1,24 @@
+# Bisco's Leash
+
+![[Exiled Vault Artefacts/_Images/PoE1 - Bisco's Leash.png]]
+
+## Description
+You were always there, by my side,
+whether we sat or played.
+Our friendship was a joyful ride,
+I wish you could have stayed.
+
+## Details
+- Requires Level 30
+- +(25-35) to Strength
+- +(10-15) to all Attributes
+- +(20-40)% to Cold Resistance
+- 1% increased Rarity of Items found per 15 Rampage Kills
+- Rampage
+
+##
+---
+## Tags
+#Category/Artefact
+#Artefact
+#PoE1

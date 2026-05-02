@@ -1,0 +1,12 @@
+# Helena Niko
+
+## Lore
+He's well-intentioned. That's the foremost thing I can say about him. I've never seen any trace of hostility in his actions, but his words sometimes stray from the path he set for them, and his laughter can be a little too gleeful. I fear that Voltaxic Sulphite exposure is poisoning his mind. But despite that, he may be the most qualified person on Wraeclast when it comes to the mysteries under the earth - and under the earth is exactly where thousands of years of history have sunk over time.
+
+![[Exiled Vault Environmental Lore/PoE1/H/Helena Niko/_Audio/Helena Niko.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

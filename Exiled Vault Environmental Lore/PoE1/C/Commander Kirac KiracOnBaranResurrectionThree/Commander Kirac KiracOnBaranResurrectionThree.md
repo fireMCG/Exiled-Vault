@@ -1,0 +1,12 @@
+# Commander Kirac KiracOnBaranResurrectionThree
+
+## Lore
+You've taught The Maven a lesson, but she has not been defeated, if we can ever truly defeat an entity like her. I'm not even certain we can communicate with her on a meaningful level, but I have to maintain hope. Keep playing her games, Exile. Maybe one day she will recognise you as a peer, and then perhaps we can ask her to give Baran back to us.
+
+![[Exiled Vault Environmental Lore/PoE1/C/Commander Kirac KiracOnBaranResurrectionThree/_Audio/Commander Kirac KiracOnBaranResurrectionThree.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

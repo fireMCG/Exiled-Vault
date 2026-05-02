@@ -1,0 +1,12 @@
+# Sin Solaris
+
+## Lore
+Self-loving Solaris. All the light in the world, yet blinded by her own pride. Not once did she pause to question the truth of her sister's betrayal. Instead, she gloated over her sister's transgressions, proclaiming herself greater and more honourable than Lunaris could ever be. I suppose one shouldn't be surprised when a sun deity takes the higher ground.
+
+![[Exiled Vault Environmental Lore/PoE1/S/Sin Solaris/_Audio/Sin Solaris.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

@@ -1,0 +1,28 @@
+# Matryoshka
+
+![[Exiled Vault Divination Cards/_Images/PoE1 - Matryoshka.png]]
+
+## Description
+I cannot contain myself,
+but I can barely squeak,
+so many words I'd have for you,
+if I could only speak!
+
+## Reward
+Onyx Amulet
+Item Level: 85
+Quality: +20%
+Influenced Item
+Four Anointments
+Incubating Talisman Item
+Corrupted
+
+##
+---
+## Tags
+#Concept/Animal/Feline/Cat
+#Concept/Silence
+#Concept/Talisman
+#Category/DivinationCard
+#DivinationCard
+#PoE1

@@ -1,0 +1,11 @@
+# Isolation
+
+## Dialogue
+#### Lycia_Glyph_07
+I bargained with an entity far greater than the Templars, far greater than myself, far greater than any of the civilisations that have risen and fallen throughout Wraeclast. It blessed me immeasurably and cursed me insufferably. And, in a sense, it was a companion... almost a comfort. The adventurers will never understand the true price of having dominion over the Sanctum, nor of immortality. It is isolation. This is where the true torture lies.
+
+##
+---
+## Tags
+#Dialogue
+#PoE2

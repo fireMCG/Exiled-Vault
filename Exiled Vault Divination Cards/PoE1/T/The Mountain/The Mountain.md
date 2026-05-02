@@ -1,0 +1,24 @@
+# The Mountain
+
+![[Exiled Vault Divination Cards/_Images/PoE1 - The Mountain.png]]
+
+## Description
+Charmed by beautiful stones 
+Consumed with the 
+pursuit of perfection 
+Ever deeper into the waiting dark
+
+## Reward
+Jewel of Potency
+
+##
+---
+## Tags
+#Category/DivinationCard
+#Concept/Beauty
+#Concept/Darkness
+#Concept/Nature/Mountain
+#Concept/Perfection
+#Concept/Stone
+#DivinationCard
+#PoE1

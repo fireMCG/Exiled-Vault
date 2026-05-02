@@ -1,0 +1,12 @@
+# Hargan Maramoa
+
+## Lore
+She's just so... ample, is our Maramoa. In my mind you'll find no saucier specimen of womanhood. It's her tattoos and that fancy talk she does. Intoxicating. She's a cool one though...
+
+![[Exiled Vault Environmental Lore/PoE1/H/Hargan Maramoa/_Audio/Hargan Maramoa.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

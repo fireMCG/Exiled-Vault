@@ -1,0 +1,12 @@
+# Siosa Archives
+
+## Lore
+It is the Karui Way to observe nature in nature. The fish without the sea is no longer a fish. It is dinner. The Eternals did not see it that way. An Eternal catches the fish, guts the fish, preserves the fish and places it in a box. Only then does the Eternal feel he truly understands the fish.
+
+![[Exiled Vault Environmental Lore/PoE1/S/Siosa Archives/_Audio/Siosa Archives.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

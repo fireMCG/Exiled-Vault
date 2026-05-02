@@ -1,0 +1,26 @@
+# Replica Bones of Ullr
+
+![[Exiled Vault Artefacts/_Images/PoE1 - Replica Bones of Ullr.png]]
+
+## Description
+"Outpost Twelve has been abandoned. On the bright side, I expect the plague of apparitions
+to serve as ample defence for the relics we left behind."
+- Administrator Qotra
+
+## Details
+- Energy Shield: (23-33)
+- Requires Level 22, 42 Int
+- (40-60)% increased Energy Shield
+- +20 to maximum Life
+- +20 to maximum Mana
+- (5-15)% increased Movement Speed
+- Summoned Phantasms have 10% chance to refresh their Duration when they Hit a Rare or Unique Enemy
+- Summoned Raging Spirits have 10% chance to refresh their Duration when they Hit a Rare or Unique Enemy
+
+##
+---
+## Tags
+#Category/Artefact
+#Character/Qotra
+#Artefact
+#PoE1

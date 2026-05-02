@@ -1,0 +1,12 @@
+# Siosa Queen Atziri
+
+## Lore
+Malachai would never have risen so far without the patronage of an emperor like Chitus. It would appear that Doryani and Queen Atziri shared a similar relationship. It was said of the beautiful Atziri that she "wished to see her likeness reflected in the still waters of history". Chitus was no less self-impressed. Of all the Sins, Vanity is the most hideous.
+
+![[Exiled Vault Environmental Lore/PoE1/S/Siosa Queen Atziri/_Audio/Siosa Queen Atziri.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

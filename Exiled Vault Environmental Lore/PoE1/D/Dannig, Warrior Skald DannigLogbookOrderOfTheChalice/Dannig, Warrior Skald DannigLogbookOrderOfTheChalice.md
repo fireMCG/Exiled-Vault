@@ -1,0 +1,12 @@
+# Dannig, Warrior Skald DannigLogbookOrderOfTheChalice
+
+## Lore
+Uhtred and his priests had their own secret agendas. Hard to decipher overly religious logbook text that might not even be truthful. Not knocking religion, just their bombastic choice of words. Everything's 'pure' and 'starlit' and 'gleaming.' Makes piecing together a trail an exercise in frustration. There's at least one Order of the Chalice site mentioned. What shall we pursue, Exile?
+
+![[Exiled Vault Environmental Lore/PoE1/D/Dannig, Warrior Skald DannigLogbookOrderOfTheChalice/_Audio/Dannig, Warrior Skald DannigLogbookOrderOfTheChalice.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

@@ -1,0 +1,12 @@
+# Commander Kirac KiracOnUnknownAwakener
+
+## Lore
+While you've been tracking the Conquerors, I've continually noticed swaths of devastation left by a force unknown. The land reshapes and awakens with riotous power afterwards, so I thought it might simply be a property of the Atlas, but now I see there's a pattern: a storm. There's a storm somewhere out there, massive beyond anything we've ever seen, and roaring with enough force to disintegrate anything in its path. That storm... I'd bet my eye we'll find our enigmatic Awakener right at the center.
+
+![[Exiled Vault Environmental Lore/PoE1/C/Commander Kirac KiracOnUnknownAwakener/_Audio/Commander Kirac KiracOnUnknownAwakener.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

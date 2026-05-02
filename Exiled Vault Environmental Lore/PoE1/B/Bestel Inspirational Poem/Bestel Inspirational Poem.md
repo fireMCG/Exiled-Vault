@@ -1,0 +1,12 @@
+# Bestel Inspirational Poem
+
+## Lore
+A stranger like no other, Faced the wall of the Umbra, Opened a pass in a sorry land, Gave some hope to a sorry band Of exiles and death-soaked castaways. A chance at life on a brand new day.
+
+![[Exiled Vault Environmental Lore/PoE1/B/Bestel Inspirational Poem/_Audio/Bestel Inspirational Poem.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

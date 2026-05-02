@@ -1,0 +1,12 @@
+# Eramir Oak
+
+## Lore
+You have done what none of us could, not even the fierce Greust. And while we are grateful, we dare not sleep with both eyes shut just yet. The balance of power has gone. In overthrowing a Lord and a Lady, you have created a despot in Oak.
+
+![[Exiled Vault Environmental Lore/PoE1/E/Eramir Oak/_Audio/Eramir Oak.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

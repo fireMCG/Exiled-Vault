@@ -1,0 +1,12 @@
+# Lani Introduction
+
+## Lore
+An exile returned? How is that even possible? Rising out of the darkness to claim the souls of our enemies like Hinekora in the stories my mother used to tell me. Well, your 'divine intervention' gave us just the diversion we needed to take this tower, so if you keep doing things like that then I might have to start believing in the gods again.
+
+![[Exiled Vault Environmental Lore/PoE1/L/Lani Introduction/_Audio/Lani Introduction.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

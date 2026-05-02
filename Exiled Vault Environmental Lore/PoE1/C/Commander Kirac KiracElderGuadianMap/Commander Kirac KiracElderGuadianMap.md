@@ -1,0 +1,12 @@
+# Commander Kirac KiracElderGuadianMap
+
+## Lore
+This one's not your usual romp, Godslayer. This map leads to a raw memory, a battle against a guardian of the being known as The Elder. This happened long ago, but, somehow, memories can remain real in the Atlas... and lethal. Be careful.
+
+![[Exiled Vault Environmental Lore/PoE1/C/Commander Kirac KiracElderGuadianMap/_Audio/Commander Kirac KiracElderGuadianMap.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

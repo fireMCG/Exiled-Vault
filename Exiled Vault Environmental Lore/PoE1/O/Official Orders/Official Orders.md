@@ -1,0 +1,15 @@
+# Official Orders
+
+## Lore
+#### Read
+Captain Alsarus, Remain in the warehouse until I personally send for you. In the unlikely event that Chitus should fall, you and your fellow legionnaires will be safely beyond the perimeter of his heart gem's influence. You men and women are my finest work yet. I would not lose you all to some aberration of chance. Malachai, Thaumaturge Laureate
+![[Exiled Vault Environmental Lore/PoE1/O/Official Orders/_Audio/Official Orders - Read.ogg]]
+
+##
+---
+## Tags
+#Category/Lore/Environmental
+#MissingTags
+#PoE1/Act8
+#EnvironmentalLore
+#PoE1

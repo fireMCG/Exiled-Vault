@@ -1,0 +1,12 @@
+# Eramir Ralakesh
+
+## Lore
+You truly are a hero of the modern age, succeeding where even the ancient Vaal could not! I must say, I'm really quite relieved. For a while there I feared we were headed towards another theocratic dictatorship. Exile allowed me to be free of one. I had no wish to experience another. You deserve to be rewarded for your efforts. Here, something with a little insight would suit your purposes nicely.
+
+![[Exiled Vault Environmental Lore/PoE1/E/Eramir Ralakesh/_Audio/Eramir Ralakesh.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

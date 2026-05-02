@@ -1,0 +1,12 @@
+# Commander Kirac KiracBeyondMission
+
+## Lore
+We've clashed more than a few times with invaders from beyond the Atlas, but this map has an uncommon concentration of bloodthirsty creatures. I suspect they're up to something, and I suggest you put an end to them before they can summon anything worse.
+
+![[Exiled Vault Environmental Lore/PoE1/C/Commander Kirac KiracBeyondMission/_Audio/Commander Kirac KiracBeyondMission.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

@@ -1,0 +1,12 @@
+# Commander Kirac KiracIntroduction
+
+## Lore
+Kirac's my name, tracker and officer in Oriath's new Citizen Vanguard. We're the front line, ensuring the likes of Kitava and Innocence never blindside us again. The Templar kept the true nature of the world hidden from the populace, but now the rhoa's out of the sack, and we'll keep both eyes open. Or the one eye open, in my case.
+
+![[Exiled Vault Environmental Lore/PoE1/C/Commander Kirac KiracIntroduction/_Audio/Commander Kirac KiracIntroduction.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

@@ -1,0 +1,25 @@
+# Font of Power
+
+![[Exiled Vault Artefacts/_Images/PoE2 - Font of Power.png]]
+
+## Description
+Tale-women may not fight directly,
+for they have a much higher purpose.
+
+## Details
+- Sceptre
+- Spirit: (130-150)
+- Requires Level 16
+- Grants Skill: Level (5-20) Malice
+- (30-50)% increased Spirit
+- +(40-60) to maximum Mana
+- (20-30)% increased Mana Regeneration Rate
+- When a Party Member in your Presence Casts a Spell, you
+- Sacrifice 20% of Mana and they Leech that Mana
+
+##
+---
+## Tags
+#Category/Artefact
+#Artefact
+#PoE2

@@ -1,0 +1,12 @@
+# Dannig, Warrior Skald Colonisation III
+
+## Lore
+Trade began with island-men and mountain-men along distant routes, although we shared no language and could not understand one another. I recorded some of the island-men's songs for future deciphering, and I met survivors of the fallen empire among the mountain-men.
+
+![[Exiled Vault Environmental Lore/PoE1/D/Dannig, Warrior Skald Colonisation III/_Audio/Dannig, Warrior Skald Colonisation III.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

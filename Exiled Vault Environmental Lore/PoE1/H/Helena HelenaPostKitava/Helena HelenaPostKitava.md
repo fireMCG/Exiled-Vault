@@ -1,0 +1,12 @@
+# Helena HelenaPostKitava
+
+## Lore
+We are all in your debt for what you've done. Oriath stands today only because of your heroism. For my part, I will continue to help you whatever way I can.
+
+![[Exiled Vault Environmental Lore/PoE1/H/Helena HelenaPostKitava/_Audio/Helena HelenaPostKitava.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

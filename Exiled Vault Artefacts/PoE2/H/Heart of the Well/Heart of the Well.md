@@ -1,0 +1,19 @@
+# Heart of the Well
+
+![[Exiled Vault Artefacts/_Images/PoE2 - Heart of the Well.png]]
+
+## Description
+Countless souls scream in agonising harmony,
+forever sinking under the weight of the newly dead.
+
+## Details
+- Limited to: 1
+- (5-10)% chance to Aggravate Bleeding on targets you Hit with Attacks(5-8)% increased Attack Speed while a Rare or Unique Enemy is in your Presence(40-60)% increased Armour from Equipped Body Armour(30-50)% chance to Pierce an Enemy(10-15)% chance when a Charm is used to use another Charm without consuming ChargesCharms applied to you have (15-25)% increased EffectRecover (5-10)% of maximum Mana when a Charm is used(15-25)% increased Culling Strike ThresholdGain (9-15)% of Damage as Extra Lightning DamageGain (7-13)% of Damage as Extra Chaos DamageGain (9-15)% of Damage as Extra Fire DamageGain (9-15)% of Damage as Extra Cold Damage(15-25)% increased Damage while your Companion is in your Presence(15-25)% increased Exposure Effect(40-60)% increased Evasion Rating from Equipped Body ArmourRegenerate (1-1.5)% of maximum Life per Second if you've used a Life Flask in the past 10 seconds(10-18)% increased Cooldown Recovery Rate(40-60)% increased Ice Crystal Life(4-8)% increased Skill Speed(15-25)% chance for Lightning Damage with Hits to be Lucky(8-16)% increased Mana Cost Efficiency(20-30)% increased Mana Regeneration Rate while moving+1% to all Maximum Elemental Resistances(40-60)% increased Energy Shield from Equipped Body ArmourMinions gain (10-15)% of their maximum Life as Extra maximum Energy ShieldMinions Regenerate (1-3)% of maximum Life per secondMinions Revive (5-10)% faster(8-15)% of Leech is Instant(5-10)% of Physical Damage prevented Recouped as Life(8-14)% increased speed of Recoup EffectsRecover (2-4)% of maximum Life on Killing a Poisoned Enemy(10-15)% increased Skill Effect Duration+(2-4)% to Thorns Critical Hit ChanceGain Physical Thorns damage equal to (4-6)% of Item Armour on Equipped Body Armour(6-12)% chance for Trigger skills to refund half of Energy Spent(4-8)% increased chance to inflict AilmentsGain additional Ailment Threshold equal to (4-10)% of maximum Energy Shield(5-10)% chance to inflict Bleeding on Hit(5-10)% chance to Poison on Hit(4-8)% increased Critical Hit Chance(6-12)% increased Critical Damage Bonus(2-3)% of Damage is taken from Mana before LifeDebuffs on you expire (4-8)% fasterDamaging Ailments deal damage (2-4)% faster(4-8)% increased Flask Effect DurationGain (1-2) Rage when Hit by an Enemy(2-3)% increased Cooldown Recovery Rate(6-12)% increased Elemental Ailment Threshold(2-3)% increased Attack Speed(2-3)% increased Cast Speed(4-8)% increased Flask Charges gained(5-10)% increased Stun Threshold(2-3)% of Skill Mana Costs Converted to Life Costs(2-3)% of Damage taken Recouped as Life(6-12)% increased Life Regeneration rateRecover (1-2)% of maximum Mana on Kill(4-8)% increased Mana Regeneration Rate+1% to Maximum Cold Resistance+1% to Maximum Fire ResistanceRecover (1-2)% of maximum Life on Kill+1% to Maximum Lightning ResistanceMinions have (2-3)% increased Attack and Cast SpeedMinions have (6-12)% increased Critical Hit ChanceMinions have +(3-4)% to all Elemental ResistancesMinions have (3-12)% additional Physical Damage Reduction(1-2)% increased Movement SpeedGain 1 Rage on Melee Hit(3-8)% increased Skill Effect Duration(10-5)% reduced Slowing Potency of Debuffs on You(4-8)% increased Critical Hit Chance for Spells(6-12)% increased Critical Spell Damage Bonus(6-12)% increased Stun BuildupGain additional Stun Threshold equal to (4-10)% of maximum Energy Shield
+- Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
+
+##
+---
+## Tags
+#Category/Artefact
+#Artefact
+#PoE2

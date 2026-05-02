@@ -1,0 +1,12 @@
+# Maramoa Hargan
+
+## Lore
+Hargan is a man of many claims, and those claims seldom dance harmoniously together. A lie is a death sentence in Ngamakanui, so I was raised a daughter of Truth. Hargan is a son of self interest. He's no warrior nor spirit-singer; He's a {korangi}. I don't know the right word in Oriathan, but in Karui it means 'he who wins wars with false promises'.
+
+![[Exiled Vault Environmental Lore/PoE1/M/Maramoa Hargan/_Audio/Maramoa Hargan.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

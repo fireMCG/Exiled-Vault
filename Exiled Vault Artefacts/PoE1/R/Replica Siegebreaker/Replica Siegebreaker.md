@@ -1,0 +1,25 @@
+# Replica Siegebreaker
+
+![[Exiled Vault Artefacts/_Images/PoE1 - Replica Siegebreaker.png]]
+
+## Description
+"Recommend extreme caution on any prototypes that can lead to a chain reaction
+of deaths. Lab Twelve has been lost to the flames."
+- Lead Researcher Ksaret
+
+## Details
+- Requires Level 44
+- +(25-35) to Strength
+- (6-10)% increased maximum Energy Shield
+- (6-10)% increased maximum Life
+- +(15-25)% to Fire Resistance
+- Your Minions spread Burning Ground on Death, dealing 20% of their maximum Life as Fire Damage per second
+- Minions have 5% chance to Maim Enemies on Hit with Attacks
+
+##
+---
+## Tags
+#Category/Artefact
+#Character/Ksaret
+#Artefact
+#PoE1

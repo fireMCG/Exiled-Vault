@@ -1,0 +1,12 @@
+# Bannon Overseer's Tower
+
+## Lore
+I'm having a little trouble explaining it myself. I've never been the most devout of men, especially for a Templar. More of a soldier than a believer. But now? Innocence himself rests within me. His voice is weak, barely a whisper, yet still he has the power to keep us safe from Kitava's hunger... at least for now. For my part, I'm simply grateful. Grateful that I have a god watching my back, and grateful that He's given me the power to watch others in return.
+
+![[Exiled Vault Environmental Lore/PoE1/B/Bannon Overseer's Tower/_Audio/Bannon Overseer's Tower.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

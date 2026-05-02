@@ -1,0 +1,12 @@
+# Sirus' Journal I
+
+## Lore
+#### Read
+I always wanted a purpose. I wanted to find my place in life. Had I known just what it would entail, I probably would have tried to enjoy my purposeless life a little more. I hate this place. I hate what it makes us do. I don't want to be in charge of these people, because I don't believe we will survive this, and it will be my fault. If it weren't for Zana... If it weren't for Zana, I'd probably still be miserable. I'll do it for her.
+![[Exiled Vault Environmental Lore/PoE1/S/Sirus' Journal I/_Audio/Sirus' Journal I - Read.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

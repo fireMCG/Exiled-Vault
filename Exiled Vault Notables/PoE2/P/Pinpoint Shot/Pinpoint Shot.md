@@ -1,0 +1,10 @@
+# Pinpoint Shot
+
+## Effects
+Attacks gain increased Accuracy Rating equal to their Critical Hit Chance
+
+##
+---
+## Tags
+#Notable
+#PoE2

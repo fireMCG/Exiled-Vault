@@ -1,0 +1,12 @@
+# Strength of the Deep
+
+## Effects
+2% chance that if you would gain Endurance Charges, you instead gain up to maximum Endurance Charges
++1 to Maximum Endurance Charges
+Requires The Unseen Path
+
+##
+---
+## Tags
+#Notable
+#PoE2

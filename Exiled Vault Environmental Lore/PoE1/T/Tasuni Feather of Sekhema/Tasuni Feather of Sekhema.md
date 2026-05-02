@@ -1,0 +1,12 @@
+# Tasuni Feather of Sekhema
+
+## Lore
+It seems as though fate shan't be content with just the taking of my eyes. It is pernicious enough to steal my vision from me as well! I had planned to lead my people into a brighter, better future with the passing of our dear Oyun, but fate uses you to torment me. Still, I must not despair, time is on my side, and in Wraeclast, nobody remains as Sekhema for long.
+
+![[Exiled Vault Environmental Lore/PoE1/T/Tasuni Feather of Sekhema/_Audio/Tasuni Feather of Sekhema.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

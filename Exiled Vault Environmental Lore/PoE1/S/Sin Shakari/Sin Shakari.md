@@ -1,0 +1,12 @@
+# Sin Shakari
+
+## Lore
+A mother's keen heart shall bleed into the dreams of her daughter. Once a beauty who held captive the hearts of men and women alike, Shakari's splendour decayed into lust... for the power possessed by her skyborn mother. My daughter once sought out such power within the great sands of this desert. Ever determined, she found it, and it made of her the twisted creature you so mercifully dispatched. Driven by agony and shame, she built an army out here in these sweltering lands and would have conquered the very sky had not the Beast soothed her into peaceful oblivion. A babe once more sleeping in her cradle.
+
+![[Exiled Vault Environmental Lore/PoE1/S/Sin Shakari/_Audio/Sin Shakari.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

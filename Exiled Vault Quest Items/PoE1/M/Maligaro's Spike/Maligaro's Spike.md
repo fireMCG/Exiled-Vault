@@ -1,0 +1,15 @@
+# Maligaro's Spike
+
+![[Exiled Vault Quest Items/_Images/PoE1 - Maligaro's Spike.png]]
+
+## Description
+Maligaro loved his tools, and took great
+pains to keep them excruciatingly sharp.
+
+##
+---
+## Tags
+#Character/Maligaro
+#Category/QuestItem
+#QuestItem
+#PoE1

@@ -1,0 +1,12 @@
+# Lilly Roth Karui Shores
+
+## Lore
+I should have never come back here. That Kirac is a mighty convincing salesman. I spent so much of my life voyaging across the briny deep, looting and pillaging, I never thought I'd end up working as a naval officer for the Citizen Vanguard. They're forgiving my pirating crimes in exchange for helping to build this town, as well as providing trade and transport. It'll be a quiet life, but rewarding in its own way. I'd rather be a seafarer than a footsoldier.
+
+![[Exiled Vault Environmental Lore/PoE1/L/Lilly Roth Karui Shores/_Audio/Lilly Roth Karui Shores.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

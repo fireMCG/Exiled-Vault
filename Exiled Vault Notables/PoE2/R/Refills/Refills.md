@@ -1,0 +1,10 @@
+# Refills
+
+## Effects
+Life Flasks gain 0.15 charges per Second
+
+##
+---
+## Tags
+#Notable
+#PoE2

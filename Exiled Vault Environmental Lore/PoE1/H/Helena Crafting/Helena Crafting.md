@@ -1,0 +1,12 @@
+# Helena Crafting
+
+## Lore
+I retrieved the Transmutia Device from the Chamber of Sins, and I believe I can rig it to imbue equipment with magical modifications. This may involve minor meddling with dark forces we don't understand, but we'll have to take that risk. Wraeclast is a dangerous place, and we'll never get anywhere by playing it safe. As long as we treat the process scientifically and approach it methodically, we should be able to craft equipment to our needs.
+
+![[Exiled Vault Environmental Lore/PoE1/H/Helena Crafting/_Audio/Helena Crafting.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

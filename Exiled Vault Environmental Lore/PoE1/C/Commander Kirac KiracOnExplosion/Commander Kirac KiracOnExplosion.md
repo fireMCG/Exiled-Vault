@@ -1,0 +1,12 @@
+# Commander Kirac KiracOnExplosion
+
+## Lore
+My brother spoke of a device like that in his letters. He said they used it to open passage to distant lands, whatever that means... However it works, it's clearly dangerous if it can explode in such a manner. We must do our work somewhere away from civilians. I'm going to requisition a team of tinkerers and engineers. Using the notes in this laboratory, we can construct a similar device. Your hideout will do nicely as a base of operations. Yes, I know where it is. I came up the ranks as a tracker, mind you.
+
+![[Exiled Vault Environmental Lore/PoE1/C/Commander Kirac KiracOnExplosion/_Audio/Commander Kirac KiracOnExplosion.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

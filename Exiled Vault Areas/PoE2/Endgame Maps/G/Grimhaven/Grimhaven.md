@@ -1,0 +1,12 @@
+# Grimhaven
+
+## Description
+Avarice in the conqueror builds contempt among the conquered.
+
+##
+---
+## Tags
+#Category/Map
+#Area
+#EndgameMap
+#PoE2

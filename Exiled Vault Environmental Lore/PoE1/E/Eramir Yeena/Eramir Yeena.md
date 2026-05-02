@@ -1,0 +1,12 @@
+# Eramir Yeena
+
+## Lore
+A large heart yet so little sense to go with it. Yeena dabbles in things she should not. This 'Spirit' she obsesses over. If she is not careful, she will find herself joining it.
+
+![[Exiled Vault Environmental Lore/PoE1/E/Eramir Yeena/_Audio/Eramir Yeena.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

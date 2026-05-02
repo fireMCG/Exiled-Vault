@@ -1,0 +1,10 @@
+# In the Thick of It
+
+## Effects
+Regenerate 2.5% of maximum Life per second while Surrounded
+
+##
+---
+## Tags
+#Notable
+#PoE2

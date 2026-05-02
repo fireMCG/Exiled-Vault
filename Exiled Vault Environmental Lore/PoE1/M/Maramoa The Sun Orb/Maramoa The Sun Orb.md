@@ -1,0 +1,12 @@
+# Maramoa The Sun Orb
+
+## Lore
+These owl eyes of mine have been watching the sun goddess from afar. The Sun Orb lies within her temple, guarded by her most ardent devotee. An exile who, in his insanity, has taken to calling himself 'The Dawn'. That orb is the seed that must be stolen from this new son of hers, and planted at the feet of his ancient mother.
+
+![[Exiled Vault Environmental Lore/PoE1/M/Maramoa The Sun Orb/_Audio/Maramoa The Sun Orb.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

@@ -1,0 +1,10 @@
+# Natural Immunity
+
+## Effects
++4 to Ailment Threshold per Dexterity
+
+##
+---
+## Tags
+#Notable
+#PoE2

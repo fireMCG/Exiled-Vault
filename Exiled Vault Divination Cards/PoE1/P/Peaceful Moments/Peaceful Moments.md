@@ -1,0 +1,17 @@
+# Peaceful Moments
+
+![[Exiled Vault Divination Cards/_Images/PoE1 - Peaceful Moments.png]]
+
+## Description
+Savour these moments, for they may never return.
+
+## Reward
+Timeless Jewel
+
+##
+---
+## Tags
+#Concept/Mirror
+#Category/DivinationCard
+#DivinationCard
+#PoE1

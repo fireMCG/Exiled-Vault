@@ -1,0 +1,12 @@
+# Lady Dialla Chitus
+
+## Lore
+I was the emperor's favourite, for a time. But Chitus had many favourites. He filled the Sceptre of God with favourites. Every now and then, he cleared away the clutter. Those who pleased him, they were given to his lords and generals. Those who did not... were given to his thaumaturgists. I talked too much, asked too many difficult questions. I was gifted to Malachai. My dear, troubled Malachai.
+
+![[Exiled Vault Environmental Lore/PoE1/L/Lady Dialla Chitus/_Audio/Lady Dialla Chitus.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

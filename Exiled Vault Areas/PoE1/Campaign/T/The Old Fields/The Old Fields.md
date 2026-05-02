@@ -1,0 +1,16 @@
+# The Old Fields
+
+## Description
+Sick pastures, feverish to the touch.
+
+## Connected Areas
+- The Forest Encampment
+- The Den
+- The Crossroads
+
+##
+---
+## Tags
+#Area
+#CampaignArea
+#PoE1

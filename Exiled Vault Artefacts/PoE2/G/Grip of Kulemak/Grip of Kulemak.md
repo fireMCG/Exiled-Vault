@@ -1,0 +1,20 @@
+# Grip of Kulemak
+
+![[Exiled Vault Artefacts/_Images/PoE2 - Grip of Kulemak.png]]
+
+## Description
+Drink deeply of the Well.
+Let the Abyss coil within.
+
+## Details
+- Inflict Abyssal Wasting on Hit
+- (30-20)% reduced Presence Area of Effect
+- (30-20)% reduced Light Radius
+- Desecrated Modifiers> (Hidden)(60-100)% increased Magnitude of Abyssal Wasting you inflictAbyssal Wasting you inflict has Infinite DurationAbyssal Wasting also applies -(8-6)% to Fire Resistance+(20-30)% of Armour also applies to Elemental DamageGain (8-12)% of Damage as Extra Fire Damage(20-10)% faster Curse Activation+(20-25) to Spirit while you have at least 200 Strength(20-30)% increased Ignite Magnitude(30-40)% increased Armour(15-25)% increased Area of Effect of CursesDebuffs you inflict have (12-20)% increased Slow Magnitude(6-10)% increased Spirit(4-6)% increased Strength+1 to Maximum Endurance ChargesHits against you have (20-30)% reduced Critical Damage Bonus(20-10)% reduced Slowing Potency of Debuffs on You(10-16)% increased Skill Effect Duration(6-10)% increased Spirit Reservation Efficiency of Skills(30-50)% increased Thorns damage if you've consumed an Endurance Charge RecentlyYou and Allies in your Presence have +(17-23)% to Chaos ResistanceYou and Allies in your Presence have (10-14)% increased Cooldown Recovery Rate(30-40)% increased Accuracy Rating against Enemies affected by Abyssal Wasting(20-30)% of Mana Leeched from targets affected by Abyssal Wasting is InstantAbyssal Wasting also applies -(8-6)% to Cold Resistance(20-30)% increased Magnitude of Chill you inflict(25-40)% increased Critical Hit ChanceGain (8-12)% of Damage as Extra Cold Damage(10-14)% of Damage is taken from Mana before LifeRecover (3-5)% of your maximum Mana when an Enemy dies in your Presence(15-25)% faster start of Energy Shield Recharge+(20-25) to Spirit while you have at least 200 IntelligenceGain Arcane Surge when a Minion Dies(30-40)% increased maximum Energy Shield(4-6)% increased IntelligenceSpell Skills have (9-18)% increased Area of Effect(40-60)% increased Mana Regeneration Rate while Surrounded(5-10)% increased maximum Mana+1 to Maximum Power ChargesMeta Skills gain (10-16)% increased Energy2% increased Cast Speed per 20 Spirit(10-20)% increased Cost Efficiency of Skills if you've consumed a Power Charge RecentlyTriggered Spells deal (25-40)% increased Spell DamageYou and Allies in your Presence have (11-16)% increased Cast Speed(30-40)% increased chance to inflict Ailments against Enemies affected by Abyssal Wasting(20-30)% of Life Leeched from targets affected by Abyssal Wasting is InstantAbyssal Wasting also applies -(8-6)% to Lightning ResistanceProjectiles have (40-50)% chance for an additional Projectile when Forking(15-25)% increased Critical Damage BonusGain (8-12)% of Damage as Extra Lightning DamageRecover (2-3)% of your maximum Life when an Enemy dies in your PresenceGain Deflection Rating equal to (10-20)% of Evasion Rating+(20-25) to Spirit while you have at least 200 DexterityGain Onslaught for 4 seconds when a Minion Dies(9-18)% increased Area of Effect for Attacks(4-6)% increased Dexterity(30-40)% increased Evasion Rating(20-30)% increased amount of Life Leeched if you've consumed a Frenzy Charge Recently(30-40)% increased Life Regeneration rate while Surrounded+1 to Maximum Frenzy Charges(5-10)% increased maximum Life1% increased Attack Speed per 20 SpiritProjectiles have (10-16)% chance to Chain an additional time from terrain(15-25)% increased Magnitude of Shock you inflictYou and Allies in your Presence have (20-28)% increased Accuracy RatingYou and Allies in your Presence have (7-12)% increased Attack Speed
+
+##
+---
+## Tags
+#Category/Artefact
+#Artefact
+#PoE2

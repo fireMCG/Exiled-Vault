@@ -1,0 +1,12 @@
+# Sin Trarthan Powder
+
+## Lore
+Within the ruins of Highgate Refinery you shall find it. Trarthan Powder, a slightly more unstable blend to the kind found within the celebratory rockets and illuminations of Trarthus, this devious mixture of crumbled chemistry was once used to blast holes through even the thickest mountainsides. It will ensure that our mixture has the brute force required. Though one should tread carefully within the refinery, for General Adus and his elite legionnaires sought refuge there during the first moments of Malachai's Cataclysm. If they remain, they will be creatures of darkest discipline. Strong men in health and life made even stronger in corruption and death.
+
+![[Exiled Vault Environmental Lore/PoE1/S/Sin Trarthan Powder/_Audio/Sin Trarthan Powder.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

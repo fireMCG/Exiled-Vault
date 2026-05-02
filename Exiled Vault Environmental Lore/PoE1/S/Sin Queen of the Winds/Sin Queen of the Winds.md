@@ -1,0 +1,12 @@
+# Sin Queen of the Winds
+
+## Lore
+I weep for my poor Garukhan. Together we experienced the loftiest moments that this world could offer. Alas, it was my heavy heart that she could no longer bear. I knew her pride would one day be the storm that would ravage my precious humanity. In truth, it was for Garukhan that I sowed the Dark Ember within the depths of Highgate. When love cannot be slain, it must be laid down to sleep.
+
+![[Exiled Vault Environmental Lore/PoE1/S/Sin Queen of the Winds/_Audio/Sin Queen of the Winds.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

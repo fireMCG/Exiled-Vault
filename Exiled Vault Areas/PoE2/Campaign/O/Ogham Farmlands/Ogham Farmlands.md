@@ -1,0 +1,15 @@
+# Ogham Farmlands
+
+## Description
+Those on the fringes were the first to draw the ire of the Count.
+
+## Connected Areas
+- Hunting Grounds
+- Ogham Village
+
+##
+---
+## Tags
+#Area
+#CampaignArea
+#PoE2

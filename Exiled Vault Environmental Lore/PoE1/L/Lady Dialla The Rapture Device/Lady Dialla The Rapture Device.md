@@ -1,0 +1,12 @@
+# Lady Dialla The Rapture Device
+
+## Lore
+Take this. I've given everything else to him. My youth and beauty. My body and mind. My heart. And at last, the only thing he ever gave to me in return... my gemling power. This is all I have left. I entrust it to you, Not-a-Cockroach. Malachai taught me not to trust anyone. It is time to forget everything that Malachai taught me.
+
+![[Exiled Vault Environmental Lore/PoE1/L/Lady Dialla The Rapture Device/_Audio/Lady Dialla The Rapture Device.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

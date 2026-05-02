@@ -1,0 +1,12 @@
+# Captain Fairgraves Fairgraves2OnEmpire
+
+## Lore
+I came to Sarn looking for an answer. The question? How did the Eternal Empire die? On a previous excursion I picked up a few notes from Axiom Prison, written by the witch, Shavronne of Umbra. They pointed to Sarn and Malachai as being the height of all things preternatural at the time. Never did find out if Malachai was the instigator of the cataclysm, but I'd be damned surprised if he didn't play at least some part in it.
+
+![[Exiled Vault Environmental Lore/PoE1/C/Captain Fairgraves Fairgraves2OnEmpire/_Audio/Captain Fairgraves Fairgraves2OnEmpire.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

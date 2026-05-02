@@ -1,0 +1,12 @@
+# The Envoy Perpetuation
+
+## Lore
+The Maven fixates on struggle and suffering. Such was the agony it created that it seeped deep into the fabric of the void. Its influence unseen but pervasive, filling every empty space with the recurring torment The Maven wrought. You feel it. You are filled with it. You are perpetuating it.
+
+![[Exiled Vault Environmental Lore/PoE1/T/The Envoy Perpetuation/_Audio/The Envoy Perpetuation.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

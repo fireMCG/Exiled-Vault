@@ -1,0 +1,12 @@
+# Lady Dialla Highgate
+
+## Lore
+Of course, there will be more. You know that, don't you? Emperors. Avaricious little pests scrabbling to steal the legacy of their betters. Unless we burn that legacy, sear its infection from the flesh of existence. Go north, my lovely Unbug. Go to Highgate, to the beginning of the end. Dive headlong into the nightmare sea. Catch and roast yourself a nice, big fishy.
+
+![[Exiled Vault Environmental Lore/PoE1/L/Lady Dialla Highgate/_Audio/Lady Dialla Highgate.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

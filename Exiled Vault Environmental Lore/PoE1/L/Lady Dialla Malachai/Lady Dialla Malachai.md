@@ -1,0 +1,12 @@
+# Lady Dialla Malachai
+
+## Lore
+It was said that Malachai was the greatest mind of our age. Our age is gone. This new age, it belongs to you. It was also said that 'great minds think alike'. Let's hope not. So my Malachai is dead? Yes... I knew it, felt it, understood it the moment you struck the final blow. I am, I was... the Gemling Queen, and now my King is dead.
+
+![[Exiled Vault Environmental Lore/PoE1/L/Lady Dialla Malachai/_Audio/Lady Dialla Malachai.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

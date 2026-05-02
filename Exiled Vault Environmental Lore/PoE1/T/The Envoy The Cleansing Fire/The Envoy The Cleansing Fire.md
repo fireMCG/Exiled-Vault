@@ -1,0 +1,12 @@
+# The Envoy The Cleansing Fire
+
+## Lore
+An intellect of blazing suns and black stars scours the firmament in search of all that is and all that shall be. The Cleansing Fire desires omniscience, but it does not understand what it learns, nor does it care to. The minds etched into ashen captivity by the disintegrating light of clarity are nothing more than motes, droplets amidst the tempest, a fan to the flames of the inferno. This obsession leaves it blind to the path set before it by the lightkeeper.
+
+![[Exiled Vault Environmental Lore/PoE1/T/The Envoy The Cleansing Fire/_Audio/The Envoy The Cleansing Fire.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

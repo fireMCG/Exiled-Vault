@@ -1,0 +1,10 @@
+# Shattered Crystal
+
+## Effects
+60% reduced Ice Crystal Life
+
+##
+---
+## Tags
+#Notable
+#PoE2

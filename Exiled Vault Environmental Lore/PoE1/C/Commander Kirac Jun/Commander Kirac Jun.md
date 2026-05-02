@@ -1,0 +1,12 @@
+# Commander Kirac Jun
+
+## Lore
+That one's a bottled up flask of rage, if I've ever seen it. I've known some good men who've suffered the same. When certain things happen to a soldier on the campaign trail, he returns home changed. Civilians will never understand. Let her work through her pain and revenge before we ask her to help us with the Conquerors.
+
+![[Exiled Vault Environmental Lore/PoE1/C/Commander Kirac Jun/_Audio/Commander Kirac Jun.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

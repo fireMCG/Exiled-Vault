@@ -1,0 +1,12 @@
+# Nessa Merveil
+
+## Lore
+I thought you were a fool for seeking out Merveil. A fool in love with death. Now... I don't know. Still, you've delivered this coast from the terrors that long held sway here. We may now find some respite and that's more than any of us could have hoped for. But please... consider this. What have you become when even nightmares fear you?
+
+![[Exiled Vault Environmental Lore/PoE1/N/Nessa Merveil/_Audio/Nessa Merveil.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

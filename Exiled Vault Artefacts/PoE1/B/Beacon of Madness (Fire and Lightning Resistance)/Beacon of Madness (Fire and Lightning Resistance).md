@@ -1,0 +1,24 @@
+# Beacon of Madness (Fire and Lightning Resistance)
+
+![[Exiled Vault Artefacts/_Images/PoE1 - Beacon of Madness (Fire and Lightning Resistance).png]]
+
+## Description
+Nothing spreads as quickly as an idea.
+
+## Details
+- Armour: (126-145)
+- Energy Shield: (26-30)
+- Requires Level 70, 62 Str, 62 Int
+- +(8-12)% to Fire and Lightning Resistances
+- Grants Level 1 Embrace Madness Skill
+- 30% increased Movement Speed
+- (20-40)% increased Effect of Non-Damaging Ailments
+- You have Igniting, Chilling and Shocking Conflux while affected by Glorious Madness
+- Immune to Elemental Ailments while affected by Glorious Madness
+
+##
+---
+## Tags
+#Category/Artefact
+#Artefact
+#PoE1

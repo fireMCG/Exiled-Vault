@@ -1,0 +1,12 @@
+# Tane Octavius Catalysts
+
+## Lore
+In alchemy, some changes are almost instantaneous, while others require patience. It probably comes as no surprise that a profession that pursues such fantastical goals as alchemy does not attract the most patient of people. Thus, the discovery of the catalyst -- an additive which accelerates the transformation without influencing it. You might find such an additive useful for seeking out, for example, specific latent properties in certain materials. The sort of thing that could normally take many years.
+
+![[Exiled Vault Environmental Lore/PoE1/T/Tane Octavius Catalysts/_Audio/Tane Octavius Catalysts.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

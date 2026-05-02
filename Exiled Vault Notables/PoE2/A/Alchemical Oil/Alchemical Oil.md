@@ -1,0 +1,10 @@
+# Alchemical Oil
+
+## Effects
+30% increased Exposure Effect
+
+##
+---
+## Tags
+#Notable
+#PoE2

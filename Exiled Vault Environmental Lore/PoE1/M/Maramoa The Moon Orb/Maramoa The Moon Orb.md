@@ -1,0 +1,12 @@
+# Maramoa The Moon Orb
+
+## Lore
+I've been keeping a close eye on that exile-turned-sycophant who calls himself, 'The Dusk'. Dusk carried the Moon Orb into the Lunaris Temple and has not returned with it, not as far as I have seen. No doubt he clings to that orb like it's his adopted mother's own nurturing breast. If you were to wean him from the teat, and place that orb at the bereft mother's feet, we may yet see the moon itself fall.
+
+![[Exiled Vault Environmental Lore/PoE1/M/Maramoa The Moon Orb/_Audio/Maramoa The Moon Orb.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

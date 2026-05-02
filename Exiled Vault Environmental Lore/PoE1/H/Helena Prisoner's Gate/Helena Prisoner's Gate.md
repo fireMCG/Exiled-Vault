@@ -1,0 +1,12 @@
+# Helena Prisoner's Gate
+
+## Lore
+Our expedition made camp in the western forest while Piety took a few men through the pass to Axiom Prison. She was after the research notes of one Shavronne of Umbra, a witch who devoted herself to the study of transfiguration during the latter days of the Eternal Empire. Piety returned alone and disturbingly happy with her findings. I've learned that when Piety is happy, misery is soon to follow for everyone else.
+
+![[Exiled Vault Environmental Lore/PoE1/H/Helena Prisoner's Gate/_Audio/Helena Prisoner's Gate.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

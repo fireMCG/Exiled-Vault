@@ -1,9 +1,0 @@
-## Flesh and Spirit
-What is greed but trading a mountain of death for a sliver of life?
-##
-![[Flesh and Spirit.png]]
-
----
-## Tags
-#Category/Artefact
-#PoE1

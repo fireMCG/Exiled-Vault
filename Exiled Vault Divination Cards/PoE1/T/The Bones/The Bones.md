@@ -1,0 +1,21 @@
+# The Bones
+
+![[Exiled Vault Divination Cards/_Images/PoE1 - The Bones.png]]
+
+## Description
+The flesh is a prison, and we are finally free.
+
+## Reward
+Level 21 Vaal Summon Skeletons
+Corrupted
+
+##
+---
+## Tags
+#Concept/Body/Bone
+#Concept/Body/Flesh
+#Concept/Prison
+#Concept/Virtue/Gem
+#Category/DivinationCard
+#DivinationCard
+#PoE1

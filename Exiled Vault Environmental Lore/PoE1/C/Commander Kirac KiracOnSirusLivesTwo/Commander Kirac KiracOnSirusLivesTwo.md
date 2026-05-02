@@ -1,0 +1,12 @@
+# Commander Kirac KiracOnSirusLivesTwo
+
+## Lore
+If my brother spent his last words warning us against Sirus, then he must truly pose a tremendous threat. I hadn't even considered what his storms could do to mankind if they were ravaging Wraeclast instead of the Atlas...
+
+![[Exiled Vault Environmental Lore/PoE1/C/Commander Kirac KiracOnSirusLivesTwo/_Audio/Commander Kirac KiracOnSirusLivesTwo.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

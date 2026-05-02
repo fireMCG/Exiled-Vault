@@ -1,0 +1,12 @@
+# Faustus, the Fence The Admiral's Records
+
+## Lore
+Let's see what you've fished up. Hmm. Love letters? Well, nearly everyone's had their hand in Piety's cookiejar, so-to-speak, so that won't do. But these... Yes, these might work. Exile, have you already perused these papers? Perhaps of little consequence to a layperson like yourself, these papers are irrefutable proof that Darnaw has been personally funding the activities of the Brinerot Pirates! What? Don't look at me like that. This is an entirely different situation. The Brinerot are awful, bootlegging buccaneers! You are a ragtag bunch of down-on-your-luck ne'er-do-wells just trying to make the best life you can in this crazy world. Plus, I do no business with the Brinerot. Completely different.
+
+![[Exiled Vault Environmental Lore/PoE1/F/Faustus, the Fence The Admiral's Records/_Audio/Faustus, the Fence The Admiral's Records.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

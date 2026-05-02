@@ -1,0 +1,12 @@
+# Helena Fidelitas
+
+## Lore
+Maligaro had an assistant, a man named Raulo. If Maligaro's records spoke truly, Raulo offered himself freely as a test subject. With the Spike, Maligaro injected Raulo with a high dose of calibric extantia, thus gifting the poor man with both endless life and horrific deformity. In honour of his sacrifice to Maligaro's work, the Inquisitor gave Raulo a new name. Fidelitas.
+
+![[Exiled Vault Environmental Lore/PoE1/H/Helena Fidelitas/_Audio/Helena Fidelitas.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

@@ -1,0 +1,25 @@
+# Tasalio's Sign
+
+![[Exiled Vault Artefacts/_Images/PoE1 - Tasalio's Sign.png]]
+
+## Description
+A gift from Tasalio, God of Water,
+to the chieftain Rakiata.
+Kaom took Rakiata's head and hand
+so that his warriors' axes might rise and fall like the waves.
+
+## Details
+- Requires Level 20
+- +(20-30)% to Cold Resistance
+- Adds (7-10) to (15-20) Cold Damage to Spells and Attacks
+- +(200-300) to Evasion Rating
+- 50% chance to Avoid being Chilled
+- 10% chance to Freeze
+- Adds 40 to 60 Cold Damage against Chilled Enemies
+
+##
+---
+## Tags
+#Category/Artefact
+#Artefact
+#PoE1

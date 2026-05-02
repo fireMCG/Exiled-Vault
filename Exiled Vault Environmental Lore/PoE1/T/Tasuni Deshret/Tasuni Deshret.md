@@ -1,0 +1,12 @@
+# Tasuni Deshret
+
+## Lore
+I felt it, {saw} it... the storm of her release. Our Red Sekhema is free to mingle once more with the red earth of our birthplace. Deshret was the howling wind, the lash and bite of the driving dust. Our wild Vastiri is weakened by her absence no longer. You've done yourself proud today, exile. Righted a wrong that we Maraketh have borne for far too long. And of course, as promised, you shall be rewarded.
+
+![[Exiled Vault Environmental Lore/PoE1/T/Tasuni Deshret/_Audio/Tasuni Deshret.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

@@ -1,0 +1,12 @@
+# Lani Sin
+
+## Lore
+A dark angel on your shoulder perhaps? In another time the presence of this god would trouble me, perhaps even frighten me, but in these days, I cannot afford the sensation of surprise. If he has helped you this far as you say, then one might expect he will help you all the way to the bitter end, and that is good enough for me.
+
+![[Exiled Vault Environmental Lore/PoE1/L/Lani Sin/_Audio/Lani Sin.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

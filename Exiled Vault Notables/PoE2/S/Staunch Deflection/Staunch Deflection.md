@@ -1,0 +1,11 @@
+# Staunch Deflection
+
+## Effects
+Deflected Hits cannot inflict Maim on you
+Deflected Hits cannot inflict Bleeding on you
+
+##
+---
+## Tags
+#Notable
+#PoE2

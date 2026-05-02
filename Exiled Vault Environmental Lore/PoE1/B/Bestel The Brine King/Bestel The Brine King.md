@@ -1,0 +1,12 @@
+# Bestel The Brine King
+
+## Lore
+Clearly the old Brine King wasn't worth his salt! A fish out of water if ever there was. But I suppose, as someone wise once said, 'you can't teach a crab to walk straight'. Too much? Yeah, be honest with you, all this fishy mirth is me just swimming around a tricky topic. Nessa. She's not coming back to us, is she? Can't say I'm surprised, what with everything she's been through... what she's become. I wish her all the happiness she can find out there in the sea. More than she could muster on this gods-awful land of ours.
+
+![[Exiled Vault Environmental Lore/PoE1/B/Bestel The Brine King/_Audio/Bestel The Brine King.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

@@ -1,0 +1,26 @@
+# Pledge of Hands
+
+![[Exiled Vault Artefacts/_Images/PoE1 - Pledge of Hands.png]]
+
+## Description
+"To shake a hand is to double your power."
+- Jaetai, Queen's Advisor
+
+## Details
+- Warstaff
+- Physical Damage: 73-136
+- Critical Strike Chance: 8.00%
+- Attacks per Second: 1.30
+- Weapon Range: 1.3 metres
+- Requires Level 68, 113 Str, 113 Int
+- +25% Chance to Block Attack Damage while wielding a Staff
+- Socketed Gems are Supported by Level 1 Greater Spell Echo
+- (120-160)% increased Spell Damage
+- (50-100)% increased maximum Mana
+
+##
+---
+## Tags
+#Category/Artefact
+#Artefact
+#PoE1

@@ -1,0 +1,12 @@
+# Lani Innocence
+
+## Lore
+Bannon was a man whom I greatly admired, possibly even loved. My heart is grieved to see him depart from us and journey to the home of Hinekora. Yet, he sacrificed himself so that we might live, and stood true to his convictions. This god, this born-again Innocence fills me with unease. Though he appears repentant of his past transgressions, I do not believe he should be forgiven, nor that he should tread this earth any longer than is required.
+
+![[Exiled Vault Environmental Lore/PoE1/L/Lani Innocence/_Audio/Lani Innocence.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

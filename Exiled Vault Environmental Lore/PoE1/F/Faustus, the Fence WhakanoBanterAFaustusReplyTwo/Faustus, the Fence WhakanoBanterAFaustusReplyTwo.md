@@ -1,0 +1,12 @@
+# Faustus, the Fence WhakanoBanterAFaustusReplyTwo
+
+## Lore
+Well they don't exactly know I'm here, per se, but I imagine, rapscallions that they are, they savour any time where the man-in-charge is absent. In my day, we'd tie up the first mate, break into the swill, and see who could down the most before passing out or dying.
+
+![[Exiled Vault Environmental Lore/PoE1/F/Faustus, the Fence WhakanoBanterAFaustusReplyTwo/_Audio/Faustus, the Fence WhakanoBanterAFaustusReplyTwo.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

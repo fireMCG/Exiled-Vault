@@ -1,0 +1,12 @@
+# Yeena Weylam
+
+## Lore
+I belong to no one but the Spirit, I have no need for the sweet words and caresses of a ghost. Weylam, he makes me laugh, and he hears the voice of the Spirit. Not in the same way I do. His Spirit speaks of the great waters beyond this land. He pays heed to the Spirit and the Spirit loves him for it. I do not. It is better to speak to the dead than no one at all. Weylam knows the Spirit but he will not know me.
+
+![[Exiled Vault Environmental Lore/PoE1/Y/Yeena Weylam/_Audio/Yeena Weylam.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

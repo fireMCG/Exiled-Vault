@@ -1,0 +1,12 @@
+# Grigor Maramoa
+
+## Lore
+Maramoa's sure of herself, and that kind of surety gets you killed in Sarn. You and all those around you. Hargan's got the right idea. Don't believe in anything that you can't trade or eat.
+
+![[Exiled Vault Environmental Lore/PoE1/G/Grigor Maramoa/_Audio/Grigor Maramoa.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

@@ -1,0 +1,24 @@
+# Demigod's Authority
+
+![[Exiled Vault Artefacts/_Images/PoE1 - Demigod's Authority.png]]
+
+## Description
+Stories of Heroism by the victor persist,
+for no one survives to contest them.
+
+## Details
+- One Handed Sword
+- Physical Damage: 3-23
+- Critical Strike Chance: 5.00%
+- Attacks per Second: 1.10
+- Weapon Range: 1.1 metres
+- +(16-24) to all Attributes
+- You and Nearby Allies have 30% increased Item Rarity
+- 5% increased Character Size
+
+##
+---
+## Tags
+#Category/Artefact
+#Artefact
+#PoE1

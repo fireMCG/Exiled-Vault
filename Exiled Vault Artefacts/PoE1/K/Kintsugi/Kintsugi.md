@@ -1,0 +1,24 @@
+# Kintsugi
+
+![[Exiled Vault Artefacts/_Images/PoE1 - Kintsugi.png]]
+
+## Description
+Do not hide your flaws, your cracks,
+mend them, and display them proudly.
+For it is these that set us apart.
+
+## Details
+- Evasion: (1830-2592)
+- Movement Speed: -3%
+- Requires Level 62, 170 Dex
+- (160-220)% increased Evasion Rating
+- +(30-50)% to Fire Resistance
+- 35% less Damage taken if you have not been Hit Recently
+- 100% increased Evasion Rating if you have been Hit Recently
+
+##
+---
+## Tags
+#Category/Artefact
+#Artefact
+#PoE1

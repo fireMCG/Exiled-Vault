@@ -1,0 +1,12 @@
+# Vilenta Gods
+
+## Lore
+People have talked about the 'return of the gods' since the birth of Oriath. It's a gambit, employed by charlatans to fleece the weak minded and morally desperate. Or so it seemed. Avarius and his Templar drones now greet the dawn filled with power and glorious purpose. Kitava has risen from whatever ethereal cesspit he's been hiding in for the last few millennia. So what let the cats out of their proverbial bags? I'm a scholar, not a prophet, yet there's one occurrence that absolutely reeks with evidential causality. You killed the Beast.
+
+![[Exiled Vault Environmental Lore/PoE1/V/Vilenta Gods/_Audio/Vilenta Gods.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

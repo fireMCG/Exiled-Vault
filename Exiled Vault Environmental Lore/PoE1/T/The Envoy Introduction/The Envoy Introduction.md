@@ -1,0 +1,12 @@
+# The Envoy Introduction
+
+## Lore
+Good tidings, Nomad. I am a simple messenger from a place of great darkness and great distance, in a form most pleasing for those who must listen. Those great and unreachable have heard the Silence echoing from that which once hunted here, and they have turned their gaze to this place. Rejoice, Nomad, for she approaches, and she seeks to witness your struggle.
+
+![[Exiled Vault Environmental Lore/PoE1/T/The Envoy Introduction/_Audio/The Envoy Introduction.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

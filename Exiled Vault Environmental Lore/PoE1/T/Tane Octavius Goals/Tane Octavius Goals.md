@@ -1,0 +1,12 @@
+# Tane Octavius Goals
+
+## Lore
+The task I have given you is dangerous. To face the cruelty that dwells in the living, distilled and manifested, is not a task I wish upon anyone. Yet it is what I have asked of you. So you may be asking yourself, for what purpose do I seek to isolate this darkness? I once thought it was a symptom of the corruption that pervades Wraeclast, but now, now I believe it to be something more primeval and universal. An element of our very beings hitherto unknown. To better understand it is to better understand life as a whole. Is that not enough? Very well. There is more to this story, but it may take some time.
+
+![[Exiled Vault Environmental Lore/PoE1/T/Tane Octavius Goals/_Audio/Tane Octavius Goals.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

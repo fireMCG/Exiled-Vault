@@ -1,0 +1,29 @@
+# Bound Fate
+
+![[Exiled Vault Artefacts/_Images/PoE1 - Bound Fate.png]]
+
+## Description
+Knowing what will happen
+and knowing when it will happen
+are two very different things.
+
+## Details
+- Requires Level 49
+- (15-25)% increased Stun and Block Recovery
+- +(20-30) to Dexterity
+- +(20-30) to Intelligence
+- +(60-80) to maximum Life
+- Every 5 seconds, gain one of the following for 5 seconds:
+- Your Hits are always Critical Strikes
+- Hits against you are always Critical Strikes
+- Attacks cannot Hit you
+- Attacks against you always Hit
+- Your Damage with Hits is Lucky
+- Damage of Hits against you is Lucky
+
+##
+---
+## Tags
+#Category/Artefact
+#Artefact
+#PoE1

@@ -1,0 +1,12 @@
+# Bestel Marceus Lioneye
+
+## Lore
+Marceus commanded the southernmost of the Eternal Legions, here at Lioneye's Watch. Why was he called Lioneye? Crazy fool had his left eye taken out and a golden-hued gem put in its place. His head must have made quite the pretty adornment for King Kaom's belt.
+
+![[Exiled Vault Environmental Lore/PoE1/B/Bestel Marceus Lioneye/_Audio/Bestel Marceus Lioneye.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

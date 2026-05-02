@@ -1,0 +1,12 @@
+# The Last to Die The Nightmare
+
+## Lore
+You see now, don't you? The Scourge are countless in number and infinite in hunger. I've fought them for most of my life, and accomplished nothing except outliving... everyone else. The Crucible is yours now. You must carry on the war. When you assault them in the ravaged lands, you can steal some of their power. The Crucible will absorb the Corruption of those you slay. Do what you know you must.
+
+![[Exiled Vault Environmental Lore/PoE1/T/The Last to Die The Nightmare/_Audio/The Last to Die The Nightmare.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

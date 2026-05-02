@@ -1,0 +1,12 @@
+# The Envoy Her Progenitor
+
+## Lore
+Creation begets creation begets creation. Order and ambition urge progress, and time and entropy stay progress' hand. Her progenitor sought to test the limits of limitless power, to bear the burden of the creator and wade through time's mire. A meaningless obstacle in the face of eternity. But the Silence deafened all.
+
+![[Exiled Vault Environmental Lore/PoE1/T/The Envoy Her Progenitor/_Audio/The Envoy Her Progenitor.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1

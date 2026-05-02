@@ -1,8 +1,0 @@
-# Sump
-Humanity trapped within a cage of desperation and agony.
-
-#
----
-## Tags
-#Category/Map
-#PoE2 

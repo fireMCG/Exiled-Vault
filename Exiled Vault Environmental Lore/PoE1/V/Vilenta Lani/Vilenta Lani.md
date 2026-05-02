@@ -1,0 +1,12 @@
+# Vilenta Lani
+
+## Lore
+In contrast to the company she keeps, Lani has quite an astute mind. I put it down to that Oriathan education she's managed somehow to procure. Whilst quelling whatever resistance you might meet in this 'noble' coup of yours, you'd be well-advised to look to Lani for counsel. She'd make the finest of advisers, second only to myself, of course.
+
+![[Exiled Vault Environmental Lore/PoE1/V/Vilenta Lani/_Audio/Vilenta Lani.ogg]]
+
+##
+---
+## Tags
+#EnvironmentalLore
+#PoE1
