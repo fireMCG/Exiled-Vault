@@ -1,13 +1,11 @@
-# Sacred Reservoir
-
-## Description
+# Bosses
+[[Zahmir, the Blade Sovereign]]
+# Flavour Text
 The Temporal's tongue captures the ear of those vying for power.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Area
 #Category/Map
-#Area
-#EndgameMap
 #PoE2

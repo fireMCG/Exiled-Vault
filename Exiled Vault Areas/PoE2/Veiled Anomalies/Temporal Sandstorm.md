@@ -1,6 +1,8 @@
-# Temporal Sandstorm
-**Unveiled:** [[Exiled Vault Areas/PoE2/Anomalies/Sacred Reservoir]]
+# Description
+**Unveiled:** [[Sacred Reservoir]]
+# Flavour Text
 The Temporal's tongue captures the ear of those vying for power.
+
 #
 ---
 ## Tags

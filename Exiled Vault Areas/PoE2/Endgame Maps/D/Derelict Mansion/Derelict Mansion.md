@@ -1,13 +1,12 @@
-# Derelict Mansion
-
-## Description
+# Bosses
+[[Varloch, the Ashen Lord]]
+[[Avelyne, the Withered Rose]]
+# Flavour Text
 Darkness always finds its way into the minds of the weak.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Area
 #Category/Map
-#Area
-#EndgameMap
 #PoE2

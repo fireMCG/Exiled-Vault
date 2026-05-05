@@ -1,6 +1,8 @@
-# Eye of the Storm
-**Unveiled:** [[Exiled Vault Areas/PoE2/Anomalies/The Jade Isles]]
+# Description
+**Unveiled:** [[The Jade Isles]]
+# Flavour Text
 Within the storm, warriors can be seen, heard and feared.
+
 #
 ---
 ## Tags

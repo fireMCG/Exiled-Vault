@@ -1,6 +1,8 @@
-# Estazunti's Vault
-**Unveiled:** [[Exiled Vault Areas/PoE2/Endgame Maps/S/Sealed Vault/Sealed Vault]]
+# Description
+**Unveiled:** [[Sealed Vault]]
+# Flavour Text
 Closed and forgotten to time, the Vault holds living secrets.
+
 #
 ---
 ## Tags
