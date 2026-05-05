@@ -1,15 +1,16 @@
-# Unbearable Whispers 4
+# Flavour Text
 Forbidden words ring in the ears of the powerful; the Whisperer's influence spreads.
-## Prophecy
+# Prophecy
 You will slay a certain powerful monster and it will drop a tome.
-## Reward
+# Reward
 \- None -
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

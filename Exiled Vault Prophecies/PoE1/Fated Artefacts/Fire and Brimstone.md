@@ -1,18 +1,18 @@
-# Fire and Brimstone
+# Flavour Text
 Living cinders set the stone alight, a gleaming signal in the blackness where husks are burned.
-#
-## Prophecy
+# Prophecy
 You will defeat Hatebeat while holding Blackgleam.
-## Reward
-Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/B/Blackgleam]] to [[The Signal Fire]] upon completion. 
+# Reward
+Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/B/Blackgleam/Blackgleam|Blackgleam]] to [[The Signal Fire]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Element/Fire 
 #Concept/Stone 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

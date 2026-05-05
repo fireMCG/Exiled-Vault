@@ -1,16 +1,17 @@
-# Blinding Light
+# Flavour Text
 The light fades from one source but grows in another, blinding those who approach.
-#
-## Prophecy
+# Prophecy
 You will defeat Jorus, Sky's Edge while holding Eclipse Solaris.
-## Reward
+# Reward
 Upgrades [[Eclipse Solaris]] to [[Corona Solaris]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Blindness 
 #Concept/Eclipse/Solar 
 #Concept/Light 
@@ -18,4 +19,3 @@ Upgrades [[Eclipse Solaris]] to [[Corona Solaris]] upon completion.
 #Concept/Sun 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

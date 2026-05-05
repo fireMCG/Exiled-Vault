@@ -1,18 +1,18 @@
-# Crimson Hues
+# Flavour Text
 The ruins hide an artist whose own crimson ink coats the stone.
-#
-## Prophecy
+# Prophecy
 You will defeat Visceris while holding Goredrill.
-## Reward
+# Reward
 Upgrades [[Goredrill]] to [[Sanguine Gambol]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Colour/Red 
 #Concept/Stone 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

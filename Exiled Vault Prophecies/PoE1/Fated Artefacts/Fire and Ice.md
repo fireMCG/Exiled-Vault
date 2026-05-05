@@ -1,18 +1,18 @@
-# Fire and Ice
+# Flavour Text
 Cold sorrow turns to burning fury that hails across the shattered ship.
-#
-## Prophecy
+# Prophecy
 You will defeat Hailrake while holding Hrimsorrow.
-## Reward
+# Reward
 Upgrades [[Hrimsorrow]] to [[Hrimburn]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Element/Fire 
 #Concept/Element/Ice 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

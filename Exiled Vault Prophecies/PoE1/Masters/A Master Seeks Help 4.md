@@ -1,4 +1,4 @@
-# A Master Seeks Help
+# Flavour Text
 Maniacally digging in endless darkness, a master miner seeks aid.
 ## Prophecy
 You will find Niko and complete his mission.
@@ -8,8 +8,9 @@ You will find Niko and complete his mission.
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

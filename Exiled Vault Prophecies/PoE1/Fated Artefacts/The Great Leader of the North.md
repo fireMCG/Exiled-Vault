@@ -1,16 +1,16 @@
-# The Great Leader of the North
+# Flavour Text
 The boulder is crushed atop the hill, letting the great leader's people pass.
-#
-## Prophecy
+# Prophecy
 You will defeat Boulderback while holding The Magnate.
-## Reward
+# Reward
 Upgrades [[The Magnate]] to [[The Nomad]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

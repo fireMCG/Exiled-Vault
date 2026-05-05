@@ -1,19 +1,19 @@
-# Severed Limbs
+# Flavour Text
 A storm of stone stops when the last of the limbs are severed and blood flows no more.
-#
-## Prophecy
+# Prophecy
 You will defeat Hammerstorm while holding Limbsplit.
-## Reward
+# Reward
 Upgrades [[Limbsplit]] to [[The Cauteriser]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Blood 
 #Concept/Stone 
 #Concept/Storm 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

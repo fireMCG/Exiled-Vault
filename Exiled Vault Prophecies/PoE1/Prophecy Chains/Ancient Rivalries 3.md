@@ -1,15 +1,16 @@
-# Ancient Rivalries 3
+# Flavour Text
 Cut down on the shores, the Lion's fangs will sink into the Betraying King's flesh one last time.
-## Prophecy
+# Prophecy
 You will slay Kaom while wearing one of Lioneye's items.
-## Reward
+# Reward
 \- None -
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

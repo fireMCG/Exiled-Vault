@@ -1,15 +1,16 @@
-# The Ambitious Bandit 3
+# Flavour Text
 Where relics and tomes gather dust, a bandit's eyes see great value.
-## Prophecy
+# Prophecy
 You will encounter and slay bandits in the Library, Academy Map, Museum Map, or Scriptorium Map.
-## Reward
+# Reward
 The last bandit drops [[The Ascetic]].
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

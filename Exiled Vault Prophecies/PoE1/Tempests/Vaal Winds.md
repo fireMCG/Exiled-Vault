@@ -1,15 +1,16 @@
-# Vaal Winds
+# Flavour Text
 Corruption is carried on a red wind, and spreads to all who are touched.
-## Prophecy
+# Prophecy
 You will discover an area with a Corrupting Tempest.
-## Reward
+# Reward
 \- None -
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

@@ -1,15 +1,16 @@
-# Thaumaturgical History 4
+# Flavour Text
 Where the Soulless One left his physical form behind, a dangerous new threat emerges.
-## Prophecy
+# Prophecy
 You will read [[Malachai's Dedication]] in The Harvest.
-## Reward
+# Reward
 The [[Ascent From Flesh]] will drop.
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

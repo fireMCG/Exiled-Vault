@@ -1,16 +1,16 @@
-# Day of Sacrifice 2
+# Flavour Text
 Beneath the midday sun, treasure, stained by corruption, invites an ambush.
-## Prophecy
+# Prophecy
 You will open a corrupted rare strongbox that will contain a Sacrifice at Noon fragment.
-## Reward
+# Reward
 The strongbox contains a Sacrifice at Noon fragment. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
-#Concept/Sacrifice 
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

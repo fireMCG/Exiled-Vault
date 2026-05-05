@@ -1,18 +1,18 @@
-# The Beginning and the End
+# Flavour Text
 The archbishop plays witness to his own cold death and cremation.
-#
-## Prophecy
+# Prophecy
 You will defeat Archbishop Geofri while holding Realmshaper.
-## Reward
+# Reward
 Upgrades [[Realmshaper]] to [[Realm Ender]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Character/Geofri
 #Concept/Religion 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

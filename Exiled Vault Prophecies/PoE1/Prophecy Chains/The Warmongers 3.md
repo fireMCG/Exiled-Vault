@@ -1,15 +1,16 @@
-# The Warmongers 3
+# Flavour Text
 Failure twice draws the ire of higher ranking soldiers. They come to spill blood.
-## Prophecy
+# Prophecy
 You will encounter and slay several Warbands and their elite soldiers.
-## Reward
+# Reward
 \- None -
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

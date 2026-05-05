@@ -1,15 +1,16 @@
-# Anarchy's End 2
+# Flavour Text
 Two criminals carry the fortuneteller's tools as they hunt for the body of their dreaming ally.
-## Prophecy
+# Prophecy
 You will enter a map and slay two Rogue Exiles who are each carrying a Divination Card.
-## Reward
+# Reward
 Two [[Anarchy's Price]] will drop. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

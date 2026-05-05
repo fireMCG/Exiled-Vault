@@ -1,20 +1,20 @@
-# The Misunderstood Queen
+# Flavour Text
 A queen of bone raises an army and flees among walls of flesh.
-#
-## Prophecy
+# Prophecy
 You will defeat the Bone Queen while holding Queen's Decree.
-## Reward
+# Reward
 Upgrades [[Queen's Decree]] to [[Queen's Escape]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Body/Bone 
 #Concept/Body/Flesh 
 #Concept/Queen 
 #Concept/Undead 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

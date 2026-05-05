@@ -1,18 +1,18 @@
-# A Rift in Time
+# Flavour Text
 The rift is torn open, and time's clasp is twisted.
-#
-## Prophecy
+# Prophecy
 You will defeat Riftwalker while holding Timeclasp.
-## Reward
+# Reward
 Upgrades [[Timeclasp]] to [[Timetwist]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Portal 
 #Concept/Time 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

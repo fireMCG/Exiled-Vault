@@ -1,17 +1,17 @@
-# A Forest of False Idols
+# Flavour Text
 A grove of wooden faces spit fire, a cheap mockery of unimaginable power.
-#
-## Prophecy
+# Prophecy
 You will defeat Torchoak Grove while holding Araku Tiki.
-## Reward
+# Reward
 Upgrades [[Araku Tiki]] to [[Ngamahu Tiki]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Sin/Idolatry
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

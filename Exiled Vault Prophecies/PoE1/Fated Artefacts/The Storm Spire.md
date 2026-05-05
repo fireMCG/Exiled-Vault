@@ -1,18 +1,18 @@
-# The Storm Spire
+# Flavour Text
 Cold ocean winds whip across the sharp stones where two yet battle for control.
-#
-## Prophecy
+# Prophecy
 You will defeat Poporo, the Highest Spire while holding The Stormheart.
-## Reward
+# Reward
 Upgrades [[The Stormheart]] to [[The Stormwall]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Storm 
 #Concept/Wind 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

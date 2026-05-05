@@ -1,16 +1,16 @@
-# Day of Sacrifice 1
+# Flavour Text
 The ancient red champion is fallen, but a killing blow reveals his final sacrifice beneath the morning sun.
-## Prophecy
+# Prophecy
 You will slay a powerful Vaal Fallen who will drop a Sacrifice at Dawn fragment.
-## Reward
+# Reward
 The slain Vaal Fallen will drop a Sacrifice at Dawn fragment. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
-#Concept/Sacrifice 
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

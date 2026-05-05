@@ -1,17 +1,17 @@
-# Burning Dread
+# Flavour Text
 The Empyrian faces her dread and perishes; her arc now complete.
-#
-## Prophecy
+# Prophecy
 You will defeat Piety the Empyrean or Piety while holding Dreadarc.
-## Reward
+# Reward
 Upgrades [[Dreadarc]] to [[Dreadsurge]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Character/Piety 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

@@ -1,17 +1,17 @@
-# Last of the Wildmen
+# Flavour Text
 The Master's blade strikes the ground, and his body briskly follows. The line of the Wild Men ends.
-#
-## Prophecy
+# Prophecy
 You will defeat Master of the Blade while holding Briskwrap.
-## Reward
-Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/B/Briskwrap]] to [[Wildwrap]] upon completion. 
+# Reward
+Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/B/Briskwrap/Briskwrap|Briskwrap]] to [[Wildwrap]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Lineage 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

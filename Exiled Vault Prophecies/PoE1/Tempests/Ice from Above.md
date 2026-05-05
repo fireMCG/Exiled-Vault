@@ -1,15 +1,16 @@
-# Ice from Above
+# Flavour Text
 The cold blusters from above, chilling the unwary to the bone.
-## Prophecy
+# Prophecy
 You will discover an area with an Arctic Tempest.
-## Reward
+# Reward
 Areas with this prophecy active have 30% increased item quantity and rarity.
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

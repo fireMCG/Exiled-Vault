@@ -1,4 +1,4 @@
-# A Gracious Master
+# Flavour Text
 A desperate ally seeks your aid, and will lavish you with appreciation.
 ## Prophecy
 You will complete a Master's mission.
@@ -8,8 +8,9 @@ You will complete a Master's mission.
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

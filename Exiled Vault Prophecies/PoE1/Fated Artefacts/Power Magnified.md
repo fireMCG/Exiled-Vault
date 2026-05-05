@@ -1,19 +1,19 @@
-# Power Magnified
+# Flavour Text
 The pious grow powerful surrounded by a sea of blood and empty husks.
-#
-## Prophecy
+# Prophecy
 You will defeat Piety while holding Reverberation Rod.
-## Reward
+# Reward
 Upgrades [[Reverberation Rod]] to [[Amplification Rod]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Character/Piety 
 #Concept/Blood 
 #Concept/Pious
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

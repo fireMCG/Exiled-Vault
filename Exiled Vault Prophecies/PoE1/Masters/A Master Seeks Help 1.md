@@ -1,4 +1,4 @@
-# A Master Seeks Help
+# Flavour Text
 Blind to all but gold, a master treasure hunter seeks aid.
 ## Prophecy
 You will find Alva and complete her mission.
@@ -8,8 +8,9 @@ You will find Alva and complete her mission.
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

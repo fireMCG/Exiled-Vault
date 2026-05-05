@@ -1,15 +1,16 @@
-# Deadly Rivalry 2
+# Flavour Text
 Their defeat will not stand, renewed and fueled by blind rage.
-## Prophecy
+# Prophecy
 You will encounter the rival Exile, now also imbued with Onslaught.
-## Reward
+# Reward
 \- None -
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

@@ -1,4 +1,4 @@
-# A Master Seeks Help
+# Flavour Text
 Lost in the miasma of dream, a master of many realms seeks aid.
 ## Prophecy
 You will find Zana and complete her mission.
@@ -8,8 +8,9 @@ You will find Zana and complete her mission.
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

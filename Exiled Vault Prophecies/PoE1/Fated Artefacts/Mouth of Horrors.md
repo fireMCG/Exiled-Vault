@@ -1,19 +1,19 @@
-# Mouth of Horrors
+# Flavour Text
 The vile witch whispers words of horror, and sups from the chalice one final time.
-#
-## Prophecy
+# Prophecy
 You will defeat Doedre while holding Chalice of Horrors.
-## Reward
+# Reward
 Upgrades [[Chalice of Horrors]] to [[Thirst for Horrors]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Character/Doedre 
 #Concept/Horror 
 #Concept/Witch 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

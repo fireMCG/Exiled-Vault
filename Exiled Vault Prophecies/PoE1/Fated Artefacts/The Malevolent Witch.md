@@ -1,20 +1,20 @@
-# The Malevolent Witch
+# Flavour Text
 Silence and darkness harbour growing malevolence as the blood eater meets her maker.
-#
-## Prophecy
+# Prophecy
 You will defeat Erythrophagia while holding Doedre's Tenure.
-## Reward
-Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/D/Doedre's Tenure]] to [[Doedre's Malevolence]] upon completion. 
+# Reward
+Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/D/Doedre's Tenure/Doedre's Tenure|Doedre's Tenure]] to [[Doedre's Malevolence]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Character/Doedre 
 #Concept/Blood 
 #Concept/Darkness 
 #Concept/Witch 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

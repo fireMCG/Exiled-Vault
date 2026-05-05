@@ -1,19 +1,19 @@
-# Heavy Blows
+# Flavour Text
 Living stone strides across the field, each step shakes the earth and rattles the soul.
-#
-## Prophecy
+# Prophecy
 You will defeat Gneiss while holding Craghead.
-## Reward
+# Reward
 Upgrades [[Craghead]] to [[Cragfall]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Nature/Earth 
 #Concept/Soul 
 #Concept/Stone 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

@@ -1,20 +1,20 @@
-# Blind Faith
+# Flavour Text
 Two sides, light and dark, collide, and leave all but one blind.
-#
-## Prophecy
+# Prophecy
 You will defeat Barthol, the Pure while holding The Ignomon.
-## Reward
+# Reward
 Upgrades [[The Ignomon]] to [[The Effigon]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Darkness 
 #Concept/Religion/Faith 
 #Concept/Light 
 #Concept/Religion/Zealotry
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

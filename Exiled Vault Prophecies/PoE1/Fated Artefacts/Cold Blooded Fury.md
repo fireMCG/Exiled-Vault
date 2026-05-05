@@ -1,18 +1,18 @@
-# Cold Blooded Fury
+# Flavour Text
 Winter weaves the cannibal's cold fury until his blood boils over.
-#
-## Prophecy
+# Prophecy
 You will defeat Glace or Hailrake while holding Bloodboil.
-## Reward
+# Reward
 Upgrades [[Winterweave]] to [[Winterweave]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Blood 
 #Concept/Season/Winter 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

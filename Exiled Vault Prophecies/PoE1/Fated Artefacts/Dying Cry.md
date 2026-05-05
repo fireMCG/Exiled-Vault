@@ -1,17 +1,17 @@
-# Dying Cry
+# Flavour Text
 The bell tolls, the people gather, the General is executed. The militia cries out and charges forth.
-#
-## Prophecy
+# Prophecy
 You will defeat General Gravicius while holding Deidbell.
 ## Reward
-Upgrades [[Exiled-Vault/Exiled Vault Shared/Exiled Vault Artefacts/PoE1/D/Deidbell]] to [[Deidbellow]] upon completion. 
+Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/D/Deidbell/Deidbell|Deidbell]] to [[Deidbellow]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Character/Gravicius
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

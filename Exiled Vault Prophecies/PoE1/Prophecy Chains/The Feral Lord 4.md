@@ -1,15 +1,16 @@
-# The Feral Lord 4
+# Flavour Text
 The Feral Lord senses your presence. In the shell of the snail, the vulture seeks a fresh carcass.
-## Prophecy
+# Prophecy
 You will discover and slay a very powerful Vulture within Sarn's borders or Maps of Sarn.
-## Reward
+# Reward
 \- None -
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

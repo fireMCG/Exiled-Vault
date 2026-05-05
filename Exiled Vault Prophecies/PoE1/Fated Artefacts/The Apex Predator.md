@@ -1,20 +1,20 @@
-# The Apex Predator
+# Flavour Text
 The eagle battles the vulture in the shadow of a dying sun, and becomes something greater.
-#
-## Prophecy
+# Prophecy
 You will defeat the Hundred Foot Shadow while holding Screaming Eagle.
-## Reward
+# Reward
 Upgrades [[The Screaming Eagle]] to [[The Gryphon]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Animal/Bird/Eagle
 #Concept/Light 
 #Concept/Shadow 
 #Concept/Sun/Broken
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

@@ -1,16 +1,17 @@
-# Sun's Punishment
+# Flavour Text
 Death's dance with dawn leads to the midday sun, whose spiteful zenith burns indiscriminately.
-#
-## Prophecy
+# Prophecy
 You will defeat Dawn, Harbinger of Solaris while holding Sundance.
-## Reward
+# Reward
 Upgrades [[Sundance]] to [[Sunspite]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Character/Dawn
 #Character/God/Solaris 
 #Concept/Time/Dawn 
@@ -18,4 +19,3 @@ Upgrades [[Sundance]] to [[Sunspite]] upon completion.
 #Concept/Sun 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

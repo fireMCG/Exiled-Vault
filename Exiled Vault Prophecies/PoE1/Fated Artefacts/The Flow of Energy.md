@@ -1,17 +1,17 @@
-# The Flow of Energy
+# Flavour Text
 The Aesthete sustains herself in unnatural ways. When movement fails, energy flows.
-#
-## Prophecy
+# Prophecy
 You will defeat Shavronne while holding Shavronne's Pace.
-## Reward
+# Reward
 Upgrades [[Shavronne's Pace]] to [[Shavronne's Gambit]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Character/Shavronne 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

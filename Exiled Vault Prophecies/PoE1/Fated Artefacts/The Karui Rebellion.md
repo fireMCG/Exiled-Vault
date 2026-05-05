@@ -1,20 +1,20 @@
-# The Karui Rebellion
+# Flavour Text
 Thaumaturgy and faith clash among giant ruins; a recreation of a long-gone rebellion.
-#
-## Prophecy
+# Prophecy
 You will defeat the Gemling Legionnaires while holding Karui Ward.
-## Reward
+# Reward
 Upgrades [[Karui Ward]] to [[Karui Charge]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Concept/Religion/Faith
 #Concept/Rebellion
 #Concept/Thaumaturgy 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy
 #Society/Karui 

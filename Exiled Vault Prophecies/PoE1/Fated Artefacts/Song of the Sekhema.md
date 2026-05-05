@@ -1,19 +1,19 @@
-# Song of the Sekhema
+# Flavour Text
 The Sekhema's whispers fight back the wind, leaving no mark remaining.
-#
-## Prophecy
+# Prophecy
 You will defeat Garukhan, Queen of the Winds while holding Asenath's Mark.
-## Reward
+# Reward
 Upgrades [[Asenath's Mark]] to [[Asenath's Chant]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Character/God/Garukhan 
 #Character/Sekhema/Asenath 
 #Concept/Wind 
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

@@ -1,15 +1,16 @@
-# The Plaguemaw 1
+# Flavour Text
 The Plaguemaw enters the red realm and leaves a swirling mass of living stone.
-## Prophecy
+# Prophecy
 You will encounter a powerful golem in a Vaal side area and defeat it.
-## Reward
+# Reward
 \- None -
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

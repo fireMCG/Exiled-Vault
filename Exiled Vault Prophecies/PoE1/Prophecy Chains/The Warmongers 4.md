@@ -1,15 +1,16 @@
-# The Warmongers 4
+# Flavour Text
 The leader arrives, and lays plans to paint the land red with your blood.
-## Prophecy
+# Prophecy
 You will encounter and slay several Warbands and their leader.
-## Reward
+# Reward
 Each leader drops a unique of the corresponding warband. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
 ## Tags
+#Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Category/Prophecy

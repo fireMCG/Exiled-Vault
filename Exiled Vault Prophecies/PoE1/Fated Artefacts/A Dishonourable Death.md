@@ -1,18 +1,18 @@
-# A Dishonourable Death
+# Flavour Text
 The dishonoured niece of the king is decisively laid to rest by her own bite.
-#
-## Prophecy
+# Prophecy
 You will defeat The Dishonoured Queen while holding Hyrri's Bite.
-## Reward
+# Reward
 Upgrades [[Hyrri's Bite]] to [[Hyrri's Demise]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Prophecy
 #Character/Hyrri
 #Concept/Virtue/Honour
 #League/Prophecy
 #PoE1 
-#Category/Prophecy
