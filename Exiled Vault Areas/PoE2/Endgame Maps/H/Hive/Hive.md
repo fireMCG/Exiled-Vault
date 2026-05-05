@@ -10,3 +10,4 @@ The work of an invisible empire.
 #Area
 #EndgameMap
 #PoE2
+#Interesting

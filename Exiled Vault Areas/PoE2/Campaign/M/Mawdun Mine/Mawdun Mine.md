@@ -12,3 +12,4 @@ To keep their plans secret, defectors were sealed away to die.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

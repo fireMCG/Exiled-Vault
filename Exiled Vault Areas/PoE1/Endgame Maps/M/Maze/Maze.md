@@ -11,3 +11,4 @@ and confusion. We are no different.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

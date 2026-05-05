@@ -11,3 +11,4 @@ which so desperately needs it.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

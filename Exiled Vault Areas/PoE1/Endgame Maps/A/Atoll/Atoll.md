@@ -11,3 +11,4 @@ volcanoes to hollow shells.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

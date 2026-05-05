@@ -12,3 +12,4 @@ The faithful dead watch over the city with hollow eyes.
 #Area
 #CampaignArea
 #PoE1
+#Interesting

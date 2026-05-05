@@ -11,3 +11,4 @@ in a land where none lived long.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

@@ -12,3 +12,4 @@ The dead slowly become one with the wind.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

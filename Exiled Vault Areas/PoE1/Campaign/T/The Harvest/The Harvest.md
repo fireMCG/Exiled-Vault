@@ -15,3 +15,4 @@ Don't waste a drop.
 #Area
 #CampaignArea
 #PoE1
+#Interesting

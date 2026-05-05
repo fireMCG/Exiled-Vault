@@ -11,3 +11,4 @@ and were promptly put in their place.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

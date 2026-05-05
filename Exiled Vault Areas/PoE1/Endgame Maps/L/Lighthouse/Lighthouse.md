@@ -13,3 +13,4 @@ An invitation to invade.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

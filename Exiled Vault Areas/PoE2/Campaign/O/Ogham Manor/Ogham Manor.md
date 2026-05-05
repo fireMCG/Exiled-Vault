@@ -12,3 +12,4 @@ Paranoia and tyranny go hand in hand.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

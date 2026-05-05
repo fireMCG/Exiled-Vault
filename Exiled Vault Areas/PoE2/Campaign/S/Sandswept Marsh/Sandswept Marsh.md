@@ -13,3 +13,4 @@ When the city flooded, the peasants fled quickly... but not quickly enough.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

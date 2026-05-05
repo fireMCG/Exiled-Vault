@@ -10,3 +10,4 @@ The fetid home of foul generations.
 #Area
 #EndgameMap
 #PoE2
+#Interesting

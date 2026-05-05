@@ -15,3 +15,4 @@ Vaal Vessel contains an additional The Adorned, Crimson Jewel
 #Attributes/Timeline 
 #Category/Area
 #Society/VaalEmpire 
+#Interesting

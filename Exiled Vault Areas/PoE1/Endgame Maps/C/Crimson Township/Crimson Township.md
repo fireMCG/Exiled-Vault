@@ -11,3 +11,4 @@ but the madness and memories will never fade.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

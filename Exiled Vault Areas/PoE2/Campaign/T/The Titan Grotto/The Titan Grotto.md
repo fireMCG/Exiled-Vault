@@ -12,3 +12,4 @@ Eons of silence can wear away even the strongest alliances.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

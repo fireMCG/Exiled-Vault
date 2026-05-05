@@ -13,3 +13,4 @@ Atop this burning monument to arrogance, Oriath's final hope remains.
 #Area
 #CampaignArea
 #PoE1
+#Interesting

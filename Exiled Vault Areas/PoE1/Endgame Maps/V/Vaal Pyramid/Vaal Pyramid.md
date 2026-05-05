@@ -13,3 +13,4 @@ service and sacrifice.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

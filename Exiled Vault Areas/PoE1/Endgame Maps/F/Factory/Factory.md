@@ -11,3 +11,4 @@ Creation distilled to perfection.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

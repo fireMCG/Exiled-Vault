@@ -12,3 +12,4 @@ Men furiously killed each other in droves long before madness came.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

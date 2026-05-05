@@ -13,3 +13,4 @@ In this holiest of sanctums, the High Templar communes with God and delivers His
 #Area
 #CampaignArea
 #PoE1
+#Interesting

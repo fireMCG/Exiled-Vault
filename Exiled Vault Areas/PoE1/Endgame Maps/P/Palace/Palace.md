@@ -13,3 +13,4 @@ pass the crown.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

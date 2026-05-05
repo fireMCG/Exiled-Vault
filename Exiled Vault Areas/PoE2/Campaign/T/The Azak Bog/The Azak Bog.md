@@ -12,3 +12,4 @@ Death wears a mostly human face.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

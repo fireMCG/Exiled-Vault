@@ -12,3 +12,4 @@ When the end came, the nobles flooded the city to spite would-be looters.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

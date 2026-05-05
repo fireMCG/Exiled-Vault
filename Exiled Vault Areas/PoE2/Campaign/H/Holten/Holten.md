@@ -14,3 +14,4 @@ The fallen Thane and Lady of Holten serve a dark master.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

@@ -13,3 +13,4 @@ The fog hides dangers both real and imagined.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

@@ -14,3 +14,4 @@ Conquered by the fog of war.
 #Area
 #CampaignArea
 #PoE1
+#Interesting

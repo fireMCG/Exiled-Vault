@@ -13,3 +13,4 @@ The pinnacle of power. The height of hubris.
 #Area
 #CampaignArea
 #PoE1
+#Interesting

@@ -11,3 +11,4 @@ but only for the chosen few.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

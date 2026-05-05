@@ -10,3 +10,4 @@ By that era, Kamasa was just a name. Gold was their true god.
 #Area
 #EndgameMap
 #PoE2
+#Interesting

@@ -11,3 +11,4 @@ as those beneath its veil can attest.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

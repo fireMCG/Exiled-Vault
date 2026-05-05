@@ -11,3 +11,4 @@ even the stars must be harvested.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

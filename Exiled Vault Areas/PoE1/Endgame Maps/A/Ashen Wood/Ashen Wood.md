@@ -15,3 +15,4 @@ eternal struggle.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

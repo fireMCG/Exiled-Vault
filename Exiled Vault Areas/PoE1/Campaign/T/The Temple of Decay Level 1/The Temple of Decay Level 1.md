@@ -13,3 +13,4 @@ Arachnoid servants dribble and drool, coveting pilgrim flesh to feed abhorrent d
 #Area
 #CampaignArea
 #PoE1
+#Interesting

@@ -13,3 +13,4 @@ Enter the Nightmare.
 #Area
 #CampaignArea
 #PoE1
+#Interesting

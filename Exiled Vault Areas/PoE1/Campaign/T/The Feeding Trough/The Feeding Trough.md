@@ -13,3 +13,4 @@ Cries of torment and pathetic moans as the unholy banquet of flesh continues.
 #Area
 #CampaignArea
 #PoE1
+#Interesting

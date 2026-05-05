@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "599dd28d0058b9d3",
+        "id": "48fd8dcede1d08ac",
         "type": "tabs",
         "children": [
           {
-            "id": "b3e2dfacd97766c7",
+            "id": "f3f37a4cb2a77216",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Workspace/The Cycle of Time.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "The Cycle of Time"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "corruption cleanse",
+                "query": "berek",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -165,53 +169,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b3e2dfacd97766c7",
+  "active": "f3f37a4cb2a77216",
   "lastOpenFiles": [
-    "Exiled Vault PoE2/NPCTalk/PoE2/A/Alva/Alva On Juatalotli's Hoard 11/Alva On Juatalotli's Hoard 11.md",
-    "Exiled Vault PoE2/NPCTalk/PoE2/A/Alva/Alva On Atziri's Treasure Vaults 23/Alva On Atziri's Treasure Vaults 23.md",
-    "Exiled Vault PoE2/Exiled Vault Socketables/Abyssal Eyes/Amanamu's Gaze.md",
-    "Exiled Vault PoE2/Exiled Vault Socketables/Abyssal Eyes/Kurgal's Gaze.md",
-    "Exiled Vault PoE2/Exiled Vault Socketables/Abyssal Eyes/Tecrod's Gaze.md",
-    "Exiled Vault PoE2/Exiled Vault Socketables/Abyssal Eyes/Ulaman's Gaze.md",
-    "Exiled Vault Quest Items/PoE2/M/Mastodon Tusks/Mastodon Tusks.md",
-    "Exiled Vault Socketables/PoE2/Q/Quipolatl's Thesis/Quipolatl's Thesis.md",
+    "Exiled Vault Artefacts/PoE1/B/Berek's Pass/Berek's Pass.md",
+    "Workspace/The Cycle of Time.md",
+    "Exiled Vault Artefacts/PoE1/I/Immortal Flesh/Immortal Flesh.md",
+    "Exiled Vault Divination Cards/PoE1/T/The Spark and the Flame/The Spark and the Flame.md",
+    "Exiled Vault Artefacts/PoE1/T/The Taming/The Taming.md",
+    "Exiled Vault Artefacts/PoE1/B/Berek's Respite/Berek's Respite.md",
+    "Exiled Vault Artefacts/PoE1/B/Berek's Grip/Berek's Grip.md",
+    "Workspace/Research/The Cycle of Time.md",
+    "Workspace/Research/Zerphi's Riddle.md",
+    "Exiled Vault Dialogue/PoE1/I/Ikiaho/Ikiaho.md",
+    "Exiled Vault Dialogue/PoE1/C/Chieftain Ancestor/Chieftain Ancestor.md",
+    "Exiled Vault Dialogue/PoE1/A/Ahuana/Ahuana.md",
+    "Workspace/Research/Notes.md",
+    "Exiled Vault Artefacts/PoE2/M/Mask of the Stitched Demon/Mask of the Stitched Demon.md",
+    "Exiled Vault Artefacts/PoE1/M/Mask of the Stitched Demon/Mask of the Stitched Demon.md",
+    "Exiled Vault Dialogue/PoE2/K/Ketzuli, High Priest of the Sun/Ketzuli, High Priest of the Sun.md",
+    "Exiled Vault Artefacts/PoE2/D/Demon Stitcher/Demon Stitcher.md",
+    "Exiled Vault Artefacts/PoE1/D/Demon Stitcher/Demon Stitcher.md",
+    "Exiled Vault Lineage Support Gems/PoE2/X/Xibaqua's Rending/Xibaqua's Rending.md",
+    "Exiled Vault NPCTalk/PoE2/A/Alva/Alva.md",
+    "Exiled Vault Dialogue/PoE2/K/Kalandra/Kalandra.md",
+    "Exiled Vault Dialogue/PoE1/C/Cavas, Forgotten Spirit/Cavas, Forgotten Spirit.md",
+    "Exiled Vault Dialogue/PoE1/K/Kahuturoa/Kahuturoa.md",
+    "Exiled Vault Ancestor Equipment/PoE1/D/Dance of the Seasons.md",
+    "Exiled Vault Dialogue/PoE1/H/Hinekora/Hinekora.md",
+    "Exiled Vault Environmental Lore/PoE2/B/Broken Canister/Broken Canister.md",
+    "Workspace/Research",
+    "Workspace/Indices/Untitled",
+    "Workspace/Indices/Entities",
+    "Workspace/Indices/Time",
+    "Workspace/Indices",
+    "Workspace",
     "Exiled Vault Socketables/PoE2/Q/Quipolatl's Thesis",
     "Exiled Vault Socketables/_Images/PoE2 - Quipolatl's Thesis.webp",
-    "Exiled Vault Socketables/PoE2/J/Jiquani's Thesis/Jiquani's Thesis.md",
     "Exiled Vault Socketables/PoE2/J/Jiquani's Thesis",
     "Exiled Vault Socketables/PoE2/J",
     "Exiled Vault Socketables/_Images/PoE2 - Jiquani's Thesis.webp",
-    "Exiled Vault Socketables/PoE2/C/Citaqualotl's Thesis/Citaqualotl's Thesis.md",
     "Exiled Vault Socketables/PoE2/C/Citaqualotl's Thesis",
     "Exiled Vault Socketables/_Images/PoE2 - Citaqualotl's Thesis.webp",
-    "Exiled Vault Socketables/PoE2/G/Guatelitzi's Thesis/Guatelitzi's Thesis.md",
-    "Exiled Vault Socketables/PoE2/G/Guatelitzi's Thesis",
     "Exiled Vault Socketables/_Images/PoE2 - Guatelitzi's Thesis.webp",
-    "Exiled Vault Socketables/PoE2/U/Ulaman's Gaze/Ulaman's Gaze.md",
-    "Exiled Vault Socketables/PoE2/U/Ulaman's Gaze",
     "Exiled Vault Socketables/_Images/PoE2 - Ulaman's Gaze.webp",
-    "Exiled Vault Socketables/PoE2/K/Kurgal's Gaze/Kurgal's Gaze.md",
-    "Exiled Vault Socketables/PoE2/K/Kurgal's Gaze",
-    "Exiled Vault Socketables/PoE2/K",
     "Exiled Vault Socketables/_Images/PoE2 - Kurgal's Gaze.webp",
-    "Exiled Vault Socketables/PoE2/T/Tecrod's Gaze/Tecrod's Gaze.md",
-    "Exiled Vault Socketables/PoE2/T/Tecrod's Gaze",
     "Exiled Vault Socketables/_Images/PoE2 - Tecrod's Gaze.webp",
-    "Exiled Vault Socketables/PoE2/A/Amanamu's Gaze/Amanamu's Gaze.md",
-    "Exiled Vault Socketables/PoE2/A/Amanamu's Gaze",
     "Exiled Vault Socketables/_Images/PoE2 - Amanamu's Gaze.webp",
-    "Exiled Vault Socketables/PoE2/F/Fox Idol/Fox Idol.md",
     "Exiled Vault Socketables/_Images/PoE2 - Fox Idol.webp",
-    "Exiled Vault Socketables/PoE2/R/Rabbit Idol/Rabbit Idol.md",
-    "Exiled Vault Socketables/_Images/PoE2 - Rabbit Idol.webp",
-    "Exiled Vault Socketables/PoE2/O/Ox Idol/Ox Idol.md",
-    "Exiled Vault Socketables/PoE2/B/Bear Idol/Bear Idol.md",
-    "Exiled Vault Socketables/PoE2/B/Boar Idol/Boar Idol.md",
-    "Exiled Vault Socketables/PoE2/S/Stag Idol/Stag Idol.md",
-    "Exiled Vault Socketables/PoE2/W/Wolf Idol/Wolf Idol.md",
-    "Exiled Vault Socketables/PoE2/C/Cat Idol/Cat Idol.md",
-    "Exiled Vault Socketables/PoE2/O/Owl Idol/Owl Idol.md",
-    "Exiled Vault Socketables/PoE2/P/Primate Idol/Primate Idol.md",
-    "Exiled Vault Socketables/PoE2/S/Snake Idol/Snake Idol.md"
+    "Exiled Vault Socketables/_Images/PoE2 - Rabbit Idol.webp"
   ]
 }

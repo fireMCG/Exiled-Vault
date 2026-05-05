@@ -13,3 +13,4 @@ Vengeance is the slave's ultimate reward.
 #Area
 #CampaignArea
 #PoE1
+#Interesting

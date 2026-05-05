@@ -11,3 +11,4 @@ One that will never heal.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

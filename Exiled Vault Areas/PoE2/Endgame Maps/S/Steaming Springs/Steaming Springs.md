@@ -10,3 +10,4 @@ The tears of a ravaged earth.
 #Area
 #EndgameMap
 #PoE2
+#Interesting

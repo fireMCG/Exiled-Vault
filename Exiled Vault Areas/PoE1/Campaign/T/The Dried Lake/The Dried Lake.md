@@ -12,3 +12,4 @@ Bones of betrayal, ashes of purity.
 #Area
 #CampaignArea
 #PoE1
+#Interesting

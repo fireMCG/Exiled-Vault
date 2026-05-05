@@ -13,3 +13,4 @@ An empire at its height, reflected in polished gold.
 #Area
 #CampaignArea
 #PoE1
+#Interesting

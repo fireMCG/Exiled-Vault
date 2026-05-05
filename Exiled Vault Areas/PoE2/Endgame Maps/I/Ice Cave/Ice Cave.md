@@ -10,3 +10,4 @@ These caves offer scant protection from the elements.
 #Area
 #EndgameMap
 #PoE2
+#Interesting

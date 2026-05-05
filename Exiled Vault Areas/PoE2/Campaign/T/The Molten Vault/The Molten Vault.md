@@ -13,3 +13,4 @@ The cult of Kamasa exploited Utzaal long before its fall.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

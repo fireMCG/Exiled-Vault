@@ -10,3 +10,4 @@ Humanity trapped within a cage of desperation and agony.
 #Area
 #EndgameMap
 #PoE2
+#Interesting

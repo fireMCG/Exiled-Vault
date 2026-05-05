@@ -12,3 +12,4 @@ Ancient visitors brought magicks born of the stars themselves.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

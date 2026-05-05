@@ -11,3 +11,4 @@ they were valuable. Pathetic.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

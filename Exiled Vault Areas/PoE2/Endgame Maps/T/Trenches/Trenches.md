@@ -10,3 +10,4 @@ The Cataclysm tore the land asunder.
 #Area
 #EndgameMap
 #PoE2
+#Interesting

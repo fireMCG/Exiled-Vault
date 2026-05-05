@@ -13,3 +13,4 @@ The ground aches with desecration. The rain tastes of blight.
 #Area
 #CampaignArea
 #PoE1
+#Interesting

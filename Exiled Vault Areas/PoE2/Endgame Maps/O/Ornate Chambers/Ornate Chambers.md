@@ -10,3 +10,4 @@ A sanctuary for the unsanctified.
 #Area
 #EndgameMap
 #PoE2
+#Interesting

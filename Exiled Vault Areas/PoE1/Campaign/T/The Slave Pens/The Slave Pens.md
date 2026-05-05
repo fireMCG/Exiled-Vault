@@ -13,3 +13,4 @@ In Oriath's darkest corner, the spark of rebellion ignites.
 #Area
 #CampaignArea
 #PoE1
+#Interesting

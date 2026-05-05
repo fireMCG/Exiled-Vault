@@ -11,3 +11,4 @@ only to match his indifference.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

@@ -23,3 +23,4 @@ Brutal restraint makes life in the desert possible.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

@@ -13,3 +13,4 @@ The fatal weakness of a great bastion is usually one of its supposed defenders.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

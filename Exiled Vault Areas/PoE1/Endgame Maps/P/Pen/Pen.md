@@ -11,3 +11,4 @@ revolution, just waiting to happen.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

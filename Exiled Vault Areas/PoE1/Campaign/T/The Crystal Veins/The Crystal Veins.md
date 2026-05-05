@@ -15,3 +15,4 @@ Gifts of the Beast, awaiting plunder.
 #Area
 #CampaignArea
 #PoE1
+#Interesting

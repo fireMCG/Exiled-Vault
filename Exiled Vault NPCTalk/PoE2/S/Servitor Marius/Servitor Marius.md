@@ -48,7 +48,8 @@ Druid: Nothin' I care to speak of. The Druids are gone. That's all there is to s
 ![[Exiled Vault NPCTalk/PoE2/S/Servitor Marius/_Audio/Servitor Marius - S2 - L7 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/S/Servitor Marius/_Audio/Servitor Marius - S2 - L7 - A2.ogg]]
 
-Druid: Only fragments... fog and fear and screamin' in the dark.  Bah. The Druids are gone. That's all there is to say.
+Druid: Only fragments... fog and fear and screamin' in the dark. 
+ Bah. The Druids are gone. That's all there is to say.
 ![[Exiled Vault NPCTalk/PoE2/S/Servitor Marius/_Audio/Servitor Marius - S2 - L8 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/S/Servitor Marius/_Audio/Servitor Marius - S2 - L8 - A2.ogg]]
 

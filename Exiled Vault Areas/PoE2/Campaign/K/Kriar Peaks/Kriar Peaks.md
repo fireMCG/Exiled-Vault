@@ -13,3 +13,4 @@ The Vaal left their mark at the top of the world.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

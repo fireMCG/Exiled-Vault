@@ -12,3 +12,4 @@
 #Area
 #CampaignArea
 #PoE2
+#Interesting

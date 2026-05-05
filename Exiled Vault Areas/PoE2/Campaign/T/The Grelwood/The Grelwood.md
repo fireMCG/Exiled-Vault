@@ -15,3 +15,4 @@ A shadow waits and watches with mysterious intent.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

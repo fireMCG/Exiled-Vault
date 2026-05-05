@@ -11,3 +11,4 @@ with no thought of what awaits us at the peak.
 #Area
 #EndgameMap
 #PoE1
+#Interesting

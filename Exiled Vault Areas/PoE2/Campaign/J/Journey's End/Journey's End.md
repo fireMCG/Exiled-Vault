@@ -12,3 +12,4 @@ They sailed far, but here, found rest.
 #Area
 #CampaignArea
 #PoE2
+#Interesting

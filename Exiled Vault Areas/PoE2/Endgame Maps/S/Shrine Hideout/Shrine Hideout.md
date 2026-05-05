@@ -10,3 +10,4 @@ A fragment of a glorious past.
 #Area
 #EndgameMap
 #PoE2
+#Interesting
