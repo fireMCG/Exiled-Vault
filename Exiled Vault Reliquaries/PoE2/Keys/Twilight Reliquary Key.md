@@ -1,10 +1,10 @@
-# Twilight Reliquary Key
+# Flavour Text
 They knew the truth, but had no choice.
 Generations hence, perhaps, one day, there would be a chance.
 
 #
 ---
-## Tags
-#PoE2 
+# Tags
 #Category/Reliquary 
+#PoE2 
 #Society/TwilightOrder 

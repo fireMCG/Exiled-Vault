@@ -1,10 +1,11 @@
-# Golden Ceremonial Mask
+# Flavour Text
 The last shimmering face witnessed by many a sacrifice.
 #
 ![[Golden Ceremonial Mask.png]]
 
+#
 ---
-## Tags
+# Tags
 #Category/HeistTarget
 #League/Heist
 #PoE1 

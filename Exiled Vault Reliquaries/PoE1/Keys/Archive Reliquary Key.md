@@ -1,15 +1,16 @@
-# Archive Reliquary Key
+# Flavour Text
 Minds are not the only thing  
 the Cleansing Fire keeps eternal...
 
 #
 ![[Archive Reliquary Key.png]]
 
+#
 ---
-## Tags
-#Character/Eldritch/SearingExarch 
-#Concept/Time/Eternity 
-#Concept/Mind 
-#Concept/Cleansing 
-#PoE1 
+# Tags
 #Category/Reliquary
+#Character/Eldritch/SearingExarch 
+#Concept/Cleansing 
+#Concept/Mind 
+#Concept/Time/Eternity 
+#PoE1 

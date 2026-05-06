@@ -1,10 +1,11 @@
-# Crested Golden Idol
+# Flavour Text
 A common figure adorning Vaal ruins, but exquisitely crafted from gold.
 #
 ![[Crested Golden Idol.png]]
 
+#
 ---
-## Tags
+# Tags
 #Category/HeistTarget
 #League/Heist
 #PoE1 

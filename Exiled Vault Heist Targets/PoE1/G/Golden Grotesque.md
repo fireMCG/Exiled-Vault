@@ -1,10 +1,11 @@
-# Golden Grotesque
+# Flavour Text
 At once horrid and beautiful, awkward and alluring, silly and overwhelmingly mysterious.
 #
 ![[Golden Grotesque.png]]
 
+#
 ---
-## Tags
+# Tags
 #Category/HeistTarget
 #League/Heist
 #PoE1 

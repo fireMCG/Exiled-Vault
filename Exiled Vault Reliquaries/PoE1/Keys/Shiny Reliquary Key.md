@@ -1,12 +1,13 @@
-# Shiny Reliquary Key
+# Flavour Text
 Champions of her collection may take what  
 they wish, so long as they use it to entertain her...
 
 #
 ![[Shiny Reliquary Key.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Reliquary
 #Character/Eldritch/Maven
 #PoE1 
-#Category/Reliquary

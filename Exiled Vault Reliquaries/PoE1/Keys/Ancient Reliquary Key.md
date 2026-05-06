@@ -1,4 +1,4 @@
-# Ancient Reliquary Key
+# Flavour Text
 Whispered memory,  
 A shimmer in the darkness.  
 Forgotten no more.
@@ -6,8 +6,9 @@ Forgotten no more.
 #
 ![[Ancient Reliquary Key.png]]
 
+#
 ---
-## Tags
+# Tags
 #Attributes/Disabled 
-#PoE1 
 #Category/Reliquary
+#PoE1 

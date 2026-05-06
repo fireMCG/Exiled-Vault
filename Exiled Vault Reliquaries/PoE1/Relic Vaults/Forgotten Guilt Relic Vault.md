@@ -1,9 +1,9 @@
-# Forgotten Guilt Relic Vault
+# Flavour Text
 It is not regret that stalks me now...  
 merely the child of my sins.
 
 #
 ---
-## Tags
-#PoE1 
+# Tags
 #Category/Reliquary 
+#PoE1 

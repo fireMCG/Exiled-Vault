@@ -1,10 +1,10 @@
-# Twilight Relic Vault
+# Flavour Text
 We cannot fight the gods today, nor tomorrow.
 Take this, our children of Time, and free mankind.
 
 #
 ---
-## Tags
-#PoE2 
+# Tags
 #Category/Reliquary 
+#PoE2 
 #Society/TwilightOrder 

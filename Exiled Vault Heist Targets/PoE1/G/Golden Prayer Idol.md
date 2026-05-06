@@ -1,10 +1,11 @@
-# Golden Prayer Idol
+# Flavour Text
 Silently keeps innumerable secrets whispered in moments of desperation.
 #
 ![[Golden Prayer Idol.png]]
 
+#
 ---
-## Tags
+# Tags
 #Category/HeistTarget
 #League/Heist
 #PoE1 

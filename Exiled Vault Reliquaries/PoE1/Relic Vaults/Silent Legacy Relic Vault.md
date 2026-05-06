@@ -1,8 +1,8 @@
-# Silent Legacy Relic Vault
+# Flavour Text
 There are holes in the sky....
 
 #
 ---
-## Tags
-#PoE1 
+# Tags
 #Category/Reliquary 
+#PoE1 

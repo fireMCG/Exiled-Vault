@@ -1,4 +1,4 @@
-# Visceral Reliquary Key
+# Flavour Text
 That which could not be digested  
 remains lost within, the buried remnants  
 of whole cultures, of entire worlds.
@@ -6,11 +6,12 @@ of whole cultures, of entire worlds.
 #
 ![[Visceral Reliquary Key.png]]
 
+#
 ---
-## Tags
+# Tags
+#Category/Reliquary
 #Character/Eldritch/EaterOfWorlds
 #Concept/Hunger 
-#Concept/World 
 #Concept/Tangle 
+#Concept/World 
 #PoE1 
-#Category/Reliquary

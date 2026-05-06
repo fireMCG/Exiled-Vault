@@ -1,11 +1,12 @@
-# Oubliette Reliquary Key
+# Flavour Text
 There is a place, a state of being,  
 where all that you love forgets you.
 
 #
 ![[Oubliette Reliquary Key.png]]
 
+#
 ---
-## Tags
-#PoE1 
+# Tags
 #Category/Reliquary
+#PoE1 

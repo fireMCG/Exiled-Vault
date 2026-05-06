@@ -1,8 +1,8 @@
-# Voidborn Chest Relic Vault
+# Flavour Text
 Time stands still, and a new champion ascends.
 
 #
 ---
-## Tags
-#PoE1 
+# Tags
 #Category/Reliquary 
+#PoE1 

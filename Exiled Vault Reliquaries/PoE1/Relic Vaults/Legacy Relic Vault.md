@@ -1,10 +1,10 @@
-# Legacy Relic Vault
+# Flavour Text
 The craftsman rots.  
 His tools rust.  
 But his legacy cuts through the ages.
 
 #
 ---
-## Tags
-#PoE1 
+# Tags
 #Category/Reliquary 
+#PoE1 

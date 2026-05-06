@@ -1,8 +1,8 @@
-# Visceral Remnant Relic Vault
+# Flavour Text
 Remember us.
 
 #
 ---
-## Tags
-#PoE1 
+# Tags
 #Category/Reliquary 
+#PoE1 
