@@ -1,11 +1,9 @@
-# Fortress
-
-## Description
+# Flavour Text
 Time overwhelms even the sturdiest walls.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

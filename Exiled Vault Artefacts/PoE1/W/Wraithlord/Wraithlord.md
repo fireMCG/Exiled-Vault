@@ -1,12 +1,10 @@
-# Wraithlord
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Wraithlord.png]]
 
-## Description
+# Flavour Text
 Countless men proclaimed themselves the masters of death,
 and each one succumbed to it.
 
-## Details
+# Details
 - Energy Shield: (79-100)
 - Requires Level 34, 73 Int
 - Has 4 Abyssal Sockets
@@ -15,9 +13,9 @@ and each one succumbed to it.
 - +1 to maximum number of Raised Spectres per Socketed Ghastly Eye Jewel
 - You cannot have Non-Spectre Minions
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

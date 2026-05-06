@@ -1,12 +1,10 @@
-# Twice Tempted
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Twice Tempted.webp]]
 
-## Effects
+# Effects
 Your Maps contain an additional Strongbox
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

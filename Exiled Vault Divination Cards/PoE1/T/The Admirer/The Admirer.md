@@ -1,16 +1,14 @@
-# The Admirer
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Admirer.png]]
 
-## Description
+# Flavour Text
 Lucian lost himself in ancient scrolls and found in those scrolls a love whose power bridged a millennium.
 
-## Reward
+# Reward
 Atziri Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Atziri
 #Character/Lucian
 #Concept/Emotion/Love

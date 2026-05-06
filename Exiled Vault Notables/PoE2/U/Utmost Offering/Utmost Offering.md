@@ -1,10 +1,8 @@
-# Utmost Offering
-
-## Effects
+# Effects
 Offerings cannot be damaged if they have been created Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

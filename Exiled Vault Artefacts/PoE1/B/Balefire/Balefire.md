@@ -1,13 +1,11 @@
-# Balefire
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Balefire.png]]
 
-## Description
+# Flavour Text
 After the fires swept down from the sky and swallowed the city,
 all that lingered, as if locked in time,
 was a memory of that which was gone, a whisper of deeds undone.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 49-73
 - Critical Strike Chance: 8.00%
@@ -21,9 +19,9 @@ was a memory of that which was gone, a whisper of deeds undone.
 - Recover (1-3)% of Mana on Kill
 - 10% increased Scorching Ray beam length
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Element/Fire
 #Concept/Hunger

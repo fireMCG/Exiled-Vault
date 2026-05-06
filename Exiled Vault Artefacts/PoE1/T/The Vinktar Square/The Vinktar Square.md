@@ -1,8 +1,6 @@
-# The Vinktar Square
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Vinktar Square.png]]
 
-## Description
+# Flavour Text
 To the east,
 it cannot be seen.
 To the west,
@@ -12,7 +10,7 @@ it cannot be remembered.
 And to the north,
 it cannot be contained.
 
-## Details
+# Details
 - Monster Level: 68
 - Item Quantity: +(100-150)%
 - Item Rarity: +(100-150)%
@@ -24,9 +22,9 @@ it cannot be contained.
 - Monsters deal 35% extra Physical Damage as Lightning
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

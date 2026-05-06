@@ -1,17 +1,15 @@
-# The Sacrifice
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Sacrifice.png]]
 
-## Description
+# Flavour Text
 For some, the price of power is never too great.
 
-## Reward
+# Reward
 Six-Link Sacrificial Garb
 Item Level: 100
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Atziri
 #Concept/Demon

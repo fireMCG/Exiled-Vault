@@ -1,12 +1,10 @@
-# Incandescent Heart
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Incandescent Heart.png]]
 
-## Description
+# Flavour Text
 Only light may banish the shadows from this land
 And the black lies wrapped around your heart
 
-## Details
+# Details
 - Armour: (1283-1567)
 - Energy Shield: (307-374)
 - Movement Speed: -5%
@@ -19,9 +17,9 @@ And the black lies wrapped around your heart
 - (20-30)% increased Light Radius
 - Light Radius is based on Energy Shield instead of Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

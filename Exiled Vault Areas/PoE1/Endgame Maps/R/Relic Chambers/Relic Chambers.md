@@ -1,13 +1,11 @@
-# Relic Chambers
-
-## Description
+# Flavour Text
 Relics of a forbidden past.
 
 Hidden away. Forgotten.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

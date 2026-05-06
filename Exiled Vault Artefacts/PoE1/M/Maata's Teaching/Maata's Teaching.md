@@ -1,11 +1,9 @@
-# Maata's Teaching
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Maata's Teaching.png]]
 
-## Description
+# Flavour Text
 What we give to others, we also give to ourselves.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 37-55
 - Critical Strike Chance: (8.05-9.10)%
@@ -19,9 +17,9 @@ What we give to others, we also give to ourselves.
 - Minions' Base Attack Critical Strike Chance is equal to the Critical
 - Strike Chance of your Main Hand Weapon
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

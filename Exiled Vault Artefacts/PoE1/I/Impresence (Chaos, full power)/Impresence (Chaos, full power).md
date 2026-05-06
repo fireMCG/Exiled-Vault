@@ -1,13 +1,11 @@
-# Impresence (Chaos, full power)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Impresence (Chaos, full power).png]]
 
-## Description
+# Flavour Text
 Though its body was locked in stone,
 its essence wandered the infinite,
 learning, and preparing.
 
-## Details
+# Details
 - Requires Level 64
 - +(10-16) to all Attributes
 - (30-40)% increased Damage over Time
@@ -18,9 +16,9 @@ learning, and preparing.
 - Gain Maddening Presence for 10 seconds when you Kill a Rare or Unique Enemy
 - has no Reservation if Cast as an AuraElemental Weakness has no Reservation if Cast as an AuraEnfeeble has no Reservation if Cast as an AuraPunishment has no Reservation if Cast as an AuraTemporal Chains has no Reservation if Cast as an Aura
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

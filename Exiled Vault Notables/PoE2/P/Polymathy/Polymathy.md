@@ -1,10 +1,8 @@
-# Polymathy
-
-## Effects
+# Effects
 7% increased Attributes
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

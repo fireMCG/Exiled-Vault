@@ -1,15 +1,13 @@
-# The Canals
-
-## Description
+# Flavour Text
 A man-made rupture from which both blood and water flow.
 
-## Connected Areas
+# Connected Areas
 - The Ravaged Square
 - The Feeding Trough
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

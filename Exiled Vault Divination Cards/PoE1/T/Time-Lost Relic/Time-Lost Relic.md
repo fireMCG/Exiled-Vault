@@ -1,16 +1,14 @@
-# Time-Lost Relic
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Time-Lost Relic.png]]
 
-## Description
+# Flavour Text
 Time cannot wash away that which cannot be forgotten.
 
-## Reward
+# Reward
 League-Specific Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Crown
 #Concept/Symbol/Descry
 #Concept/Body/Skull

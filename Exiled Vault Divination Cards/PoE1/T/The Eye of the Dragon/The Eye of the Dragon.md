@@ -1,18 +1,16 @@
-# The Eye of the Dragon
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Eye of the Dragon.png]]
 
-## Description
+# Flavour Text
 Some powers are far too great even for the
 gods of old.
 
-## Reward
+# Reward
 Jewel
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Animal/Mythological/Dragon
 #Concept/Body/Eye

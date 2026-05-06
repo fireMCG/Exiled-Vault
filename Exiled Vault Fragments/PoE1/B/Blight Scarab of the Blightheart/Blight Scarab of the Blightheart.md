@@ -1,11 +1,9 @@
-# Blight Scarab of the Blightheart
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Blight Scarab of the Blightheart.webp]]
 
-## Description
+# Flavour Text
 The core grows larger with each cycle, doomed to spill forth...
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -19,9 +17,9 @@ rewarding the more Blighted Enemies are slain
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Blight
 #Category/Scarab
 #Fragment

@@ -1,13 +1,11 @@
-# Lifesprig
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Lifesprig.png]]
 
-## Description
+# Flavour Text
 From the Smallest seeds
 To the tallest redwoods
 Life endures in Wraeclast.
 
-## Details
+# Details
 - Wand
 - Requires Level 2
 - Grants Skill: Level (1-20) Mana Drain
@@ -16,9 +14,9 @@ Life endures in Wraeclast.
 - (5-10)% increased Cast Speed
 - Leeches 1% of maximum Life when you Cast a Spell
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

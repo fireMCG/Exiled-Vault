@@ -1,13 +1,11 @@
-# Cospri's Will
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Cospri's Will.png]]
 
-## Description
+# Flavour Text
 Curse their vile Council,
 They cast me aside as if I am some bastard child.
 If they only knew the power I possess.
 
-## Details
+# Details
 - Evasion: (557-669)
 - Energy Shield: (210-252)
 - Movement Speed: -3.0%
@@ -20,9 +18,9 @@ If they only knew the power I possess.
 - Curses you inflict can affect Hexproof Enemies
 - Withered you inflict has infinite Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

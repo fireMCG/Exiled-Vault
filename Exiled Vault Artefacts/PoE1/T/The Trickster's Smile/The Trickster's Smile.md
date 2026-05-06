@@ -1,12 +1,10 @@
-# The Trickster's Smile
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Trickster's Smile.png]]
 
-## Description
+# Flavour Text
 The Raven Trickster made no move to defend himself.
 He merely grinned... and the foolish warrior charged.
 
-## Details
+# Details
 - Armour: (102-160)
 - Evasion: (102-160)
 - Requires Level 23, 28 Str, 28 Dex
@@ -16,9 +14,9 @@ He merely grinned... and the foolish warrior charged.
 - Reflects 100 Lightning Damage to Melee Attackers
 - When an Enemy Hit deals Elemental Damage to you, their Resistance to those Elements becomes zero for 4 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,19 +1,17 @@
-# The Cursed King
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Cursed King.png]]
 
-## Description
+# Flavour Text
 The First Ones
 may be blasphemy,
 but they are
 powerful blasphemy.
 
-## Reward
+# Reward
 Rigwald's Curse
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Rigwald
 #Concept/Eclipse/Lunar

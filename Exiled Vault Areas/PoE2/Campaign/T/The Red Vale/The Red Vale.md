@@ -1,15 +1,13 @@
-# The Red Vale
-
-## Description
+# Flavour Text
 Men furiously killed each other in droves long before madness came.
 
-## Connected Areas
+# Connected Areas
 - The Grelwood
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

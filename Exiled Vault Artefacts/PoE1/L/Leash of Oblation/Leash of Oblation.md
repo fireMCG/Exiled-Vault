@@ -1,11 +1,9 @@
-# Leash of Oblation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Leash of Oblation.png]]
 
-## Description
+# Flavour Text
 Those who offer up sacrifices to every deity entreat the full favour of none.
 
-## Details
+# Details
 - Requires Level 49
 - +(25-40) to maximum Life
 - +(15-20) to all Attributes
@@ -13,9 +11,9 @@ Those who offer up sacrifices to every deity entreat the full favour of none.
 - You can have an Offering of each type
 - Offering Skills have 50% reduced Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

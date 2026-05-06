@@ -1,12 +1,10 @@
-# Call of the Void
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Call of the Void.png]]
 
-## Description
+# Flavour Text
 Only when the mind is empty of ambition
 can the cold truth of existence take hold.
 
-## Details
+# Details
 - Requires Level 16
 - +(20-30)% to Cold Resistance
 - +(20-30)% to Cold Resistance
@@ -15,9 +13,9 @@ can the cold truth of existence take hold.
 - Enemies Chilled by your Hits can be Shattered as though Frozen
 - Enemies Chilled by your Hits lessen their Damage dealt by half of Chill Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

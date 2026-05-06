@@ -1,13 +1,11 @@
-# Hand of Wisdom and Action
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hand of Wisdom and Action.png]]
 
-## Description
+# Flavour Text
 She thinks and we act.
 She acts and we think.
 Fragments of the whole that washes clean the skies.
 
-## Details
+# Details
 - Claw
 - Physical Damage: 25-65
 - Critical Strike Chance: 7.00%
@@ -21,9 +19,9 @@ Fragments of the whole that washes clean the skies.
 - 1% increased Attack Speed per 25 Dexterity
 - 1% of Attack Damage Leeched as Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Beacon of Madness (Fire and Lightning Resistance)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Beacon of Madness (Fire and Lightning Resistance).png]]
 
-## Description
+# Flavour Text
 Nothing spreads as quickly as an idea.
 
-## Details
+# Details
 - Armour: (126-145)
 - Energy Shield: (26-30)
 - Requires Level 70, 62 Str, 62 Int
@@ -16,9 +14,9 @@ Nothing spreads as quickly as an idea.
 - You have Igniting, Chilling and Shocking Conflux while affected by Glorious Madness
 - Immune to Elemental Ailments while affected by Glorious Madness
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

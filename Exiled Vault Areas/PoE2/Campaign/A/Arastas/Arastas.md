@@ -1,14 +1,12 @@
-# Arastas
-
-## Description
+# Flavour Text
 A peaceful enclave of the Twilight Order.
 
-## Connected Areas
+# Connected Areas
 - Kingsmarch
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

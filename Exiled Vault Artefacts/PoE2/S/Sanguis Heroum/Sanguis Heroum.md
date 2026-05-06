@@ -1,12 +1,10 @@
-# Sanguis Heroum
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Sanguis Heroum.png]]
 
-## Description
+# Flavour Text
 Wraeclast has known too few true heroes.
 It remembers those that stood in defiance.
 
-## Details
+# Details
 - Lasts 3.00 Seconds
 - Consumes 30 of 40 Charges on use
 - You are Immune to Bleeding
@@ -16,9 +14,9 @@ It remembers those that stood in defiance.
 - Gains (0.15-0.20) Charges per Second
 - Used automatically when condition is met. Can only hold charges while in belt. Refill at Wells or by killing monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

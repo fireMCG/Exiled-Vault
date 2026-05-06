@@ -1,10 +1,8 @@
-# Enraged Reaver
-
-## Effects
+# Effects
 +10 to Maximum Rage while wielding an Axe
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

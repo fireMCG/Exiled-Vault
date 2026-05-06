@@ -1,12 +1,10 @@
-# Soul Mantle
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Soul Mantle.png]]
 
-## Description
+# Flavour Text
 The greatest mistakes cause suffering
 long after they have been made
 
-## Details
+# Details
 - Energy Shield: (202-257)
 - Movement Speed: -3%
 - Requires Level 49, 134 Int
@@ -16,9 +14,9 @@ long after they have been made
 - (20-30)% increased Totem Life
 - Inflicts a random Hex on you when your Totems die
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

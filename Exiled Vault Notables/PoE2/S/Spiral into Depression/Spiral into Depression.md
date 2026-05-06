@@ -1,12 +1,10 @@
-# Spiral into Depression
-
-## Effects
+# Effects
 3% increased Movement Speed
 25% increased Armour
 25% increased maximum Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

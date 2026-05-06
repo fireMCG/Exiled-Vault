@@ -1,20 +1,18 @@
-# The Rite of Elements
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Rite of Elements.png]]
 
-## Description
+# Flavour Text
 A mind as quick as lightning, 
 fists as hard as stone, 
 a heart that burns with fury, 
 and eyes that chill to the bone.
 
-## Reward
+# Reward
 Level 21 Golem Gem
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Ahkeli
 #Concept/Body/Bone

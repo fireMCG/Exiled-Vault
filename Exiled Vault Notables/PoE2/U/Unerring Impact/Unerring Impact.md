@@ -1,12 +1,10 @@
-# Unerring Impact
-
-## Effects
+# Effects
 16% increased Accuracy Rating with One Handed Melee Weapons
 16% increased Accuracy Rating with Two Handed Melee Weapons
 +2 to Melee Strike Range
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

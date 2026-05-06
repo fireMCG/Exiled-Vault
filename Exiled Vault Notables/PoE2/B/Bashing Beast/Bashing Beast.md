@@ -1,10 +1,8 @@
-# Bashing Beast
-
-## Effects
+# Effects
 Enemies you Heavy Stun while Shapeshifted are Intimidated for 6 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

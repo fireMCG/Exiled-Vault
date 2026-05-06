@@ -1,11 +1,9 @@
-# Manastorm
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Manastorm.png]]
 
-## Description
+# Flavour Text
 Fear not the fury of the storm.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Energy Shield: (47-55)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ Fear not the fury of the storm.
 - When you Cast a Spell, Sacrifice all Mana to gain Added Maximum Lightning Damage
 - equal to 50% of Sacrificed Mana for 4 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

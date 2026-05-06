@@ -1,13 +1,11 @@
-# Fractal Thoughts
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fractal Thoughts.png]]
 
-## Description
+# Flavour Text
 "The more the warrior understood Tangmazu's gift, the less the mask aided him.
 His dreams were filled with divine laughter."
 - Tenth Song of the Islands
 
-## Details
+# Details
 - Evasion: (496-669)
 - Energy Shield: (88-120)
 - Requires Level 62, 79 Dex, 72 Int
@@ -17,9 +15,9 @@ His dreams were filled with divine laughter."
 - 1% increased Elemental Damage per 10 Dexterity
 - +2 to Maximum Life per 10 Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

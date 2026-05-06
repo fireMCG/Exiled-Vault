@@ -1,11 +1,9 @@
-# Forge
-
-## Description
+# Flavour Text
 No living hands ever stoked these flames.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

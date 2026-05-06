@@ -1,12 +1,10 @@
-# Dustbloom
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Dustbloom.png]]
 
-## Description
+# Flavour Text
 Wraeclast has suffered many great disasters,
 but life always springs back anew.
 
-## Details
+# Details
 - Evasion: (300-375)
 - Movement Speed: -3.0%
 - Requires Level 26, 43 Dex
@@ -18,9 +16,9 @@ but life always springs back anew.
 - Lose all Fragile Regrowth when Hit
 - Gain 1 Fragile Regrowth each second
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

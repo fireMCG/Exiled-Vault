@@ -1,12 +1,10 @@
-# The Will of Uul-Netol
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Will of Uul-Netol.png]]
 
-## Description
+# Flavour Text
 They move and coil, gripped by painful ecstasy,
 all meaning long since lost to dead-eyed lust.
 
-## Details
+# Details
 - Requires Level 42
 - Cannot roll Modifiers of Non-Physical Damage Types
 - 3% additional Physical Damage Reduction
@@ -18,9 +16,9 @@ all meaning long since lost to dead-eyed lust.
 - Increases and Reductions to Physical Damage also apply to Effect of
 - Auras from Physical Skills at (10-15)% of their value, up to a maximum of 150%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

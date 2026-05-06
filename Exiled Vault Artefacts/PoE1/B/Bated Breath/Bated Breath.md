@@ -1,11 +1,9 @@
-# Bated Breath
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bated Breath.png]]
 
-## Description
+# Flavour Text
 At knifepoint, a moment's hesitation means death.
 
-## Details
+# Details
 - Requires Level 22
 - +(9-20) to maximum Energy Shield
 - +(15-25) to Intelligence
@@ -14,9 +12,9 @@ At knifepoint, a moment's hesitation means death.
 - 20% increased maximum Energy Shield
 - 50% increased Energy Shield Recharge Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

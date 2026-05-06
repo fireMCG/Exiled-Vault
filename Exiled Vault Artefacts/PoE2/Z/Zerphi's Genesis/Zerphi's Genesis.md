@@ -1,11 +1,9 @@
-# Zerphi's Genesis
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Zerphi's Genesis.png]]
 
-## Description
+# Flavour Text
 The most horrifying ideas often begin with a simple innovation.
 
-## Details
+# Details
 - Requires Level 56
 - Has (1-3) Charm Slots
 - (20-30)% increased Stun Threshold
@@ -14,9 +12,9 @@ The most horrifying ideas often begin with a simple innovation.
 - 50% of charges used by Charms granted to your Life Flasks
 - (10-30)% increased Charm Charges used
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

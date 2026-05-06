@@ -1,12 +1,10 @@
-# Veruso's Ambition
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Veruso's Ambition.png]]
 
-## Description
+# Flavour Text
 "Follow me if you desire better for yourself, and for your
 families. Follow me if you hunger for more than this!"
 
-## Details
+# Details
 - Evasion: (111-156)
 - Energy Shield: (23-33)
 - Requires Level 34, 34 Dex, 34 Int
@@ -16,9 +14,9 @@ families. Follow me if you hunger for more than this!"
 - +(13-23)% to Chaos Resistance
 - (20-30)% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

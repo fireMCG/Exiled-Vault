@@ -1,12 +1,10 @@
-# Mask of the Sanguimancer
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Mask of the Sanguimancer.png]]
 
-## Description
+# Flavour Text
 A terror of ancient times, his identity
 remains lost... but his power does not.
 
-## Details
+# Details
 - Evasion: (46-51)
 - Energy Shield: (25-30)
 - Requires Level 10, 10 Dex, 10 Int
@@ -17,9 +15,9 @@ remains lost... but his power does not.
 - +(10-20) to Intelligence
 - Blood Magic
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

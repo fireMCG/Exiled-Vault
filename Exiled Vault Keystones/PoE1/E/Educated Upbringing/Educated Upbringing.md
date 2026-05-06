@@ -1,12 +1,10 @@
-# Educated Upbringing
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Educated Upbringing.webp]]
 
-## Effects
+# Effects
 80% reduced chance for Memory Threads to lead towards the Incarnation of Fear
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

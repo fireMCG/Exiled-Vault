@@ -1,10 +1,8 @@
-# Efficient Loading
-
-## Effects
+# Effects
 30% chance when you Reload a Crossbow to be immediate
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

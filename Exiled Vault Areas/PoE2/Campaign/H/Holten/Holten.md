@@ -1,17 +1,15 @@
-# Holten
-
-## Description
+# Flavour Text
 The fallen Thane and Lady of Holten serve a dark master.
 
-## Connected Areas
+# Connected Areas
 - The Blackwood
 - Wolvenhold
 - Holten Estate
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

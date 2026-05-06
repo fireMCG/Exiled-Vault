@@ -1,11 +1,9 @@
-# Digsite
-
-## Description
+# Flavour Text
 The remains of a time before Time.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

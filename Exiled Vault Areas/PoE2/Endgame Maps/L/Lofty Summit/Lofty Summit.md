@@ -1,13 +1,11 @@
-# Lofty Summit
-
-## Description
+# Flavour Text
 The last vestiges of earth, lost beyond the sky.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

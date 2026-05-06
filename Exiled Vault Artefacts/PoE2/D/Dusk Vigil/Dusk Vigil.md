@@ -1,11 +1,9 @@
-# Dusk Vigil
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Dusk Vigil.png]]
 
-## Description
+# Flavour Text
 The candlemass tradition was born in a time of darkness and fear.
 
-## Details
+# Details
 - Staff
 - Grants Skill: Level (1-20) Firebolt
 - Grants Skill: Level (1-20) Ember Fusillade
@@ -15,9 +13,9 @@ The candlemass tradition was born in a time of darkness and fear.
 - 25% increased Mana Regeneration Rate
 - Trigger Ember Fusillade Skill on casting a Spell
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,12 +1,10 @@
-# Shadows and Dust
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Shadows and Dust.png]]
 
-## Description
+# Flavour Text
 What is fear but a snuffed torch
 and death in the wind?
 
-## Details
+# Details
 - Evasion: (114-149)
 - Energy Shield: (24-32)
 - Requires Level 31, 25 Dex, 25 Int
@@ -18,9 +16,9 @@ and death in the wind?
 - Gain Unholy Might for 3 seconds on Rampage
 - Rampage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

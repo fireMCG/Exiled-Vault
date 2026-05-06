@@ -1,13 +1,11 @@
-# Mask of the Stitched Demon
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mask of the Stitched Demon.png]]
 
-## Description
+# Flavour Text
 From the flesh of the gods, Xibaqua was born.
 From the carnage of Xibaqua, we were born.
 It is our duty to return to the gods what was once theirs.
 
-## Details
+# Details
 - Armour: (160-189)
 - Energy Shield: (193-219)
 - Requires Level 58, 64 Str, 64 Int
@@ -20,9 +18,9 @@ It is our duty to return to the gods what was once theirs.
 - Cannot gain Energy Shield
 - Regenerate 1% of Life per second per 500 Maximum Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Xibaqua
 #Society/VaalEmpire

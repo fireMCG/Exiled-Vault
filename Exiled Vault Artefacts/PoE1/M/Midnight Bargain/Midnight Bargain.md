@@ -1,14 +1,12 @@
-# Midnight Bargain
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Midnight Bargain.png]]
 
-## Description
+# Flavour Text
 A chilling hush, a scraping sound
 Of things no more entombed in ground.
 A shambling horde is on its way
 To crush the very light of day.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 13-23
 - Critical Strike Chance: 8.00%
@@ -24,9 +22,9 @@ To crush the very light of day.
 - Reserves 30% of Life
 - Cannot be used with Chaos Inoculation
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

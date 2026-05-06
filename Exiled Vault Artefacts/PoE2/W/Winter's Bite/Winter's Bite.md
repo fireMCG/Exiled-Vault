@@ -1,11 +1,9 @@
-# Winter's Bite
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Winter's Bite.png]]
 
-## Description
+# Flavour Text
 Nothing stabs colder than pure hatred.
 
-## Details
+# Details
 - Dagger
 - Elemental Damage: (8-10) to (15-18)
 - Critical Strike Chance: 15.00%
@@ -15,9 +13,9 @@ Nothing stabs colder than pure hatred.
 - Adds (8-10) to (15-18) Cold Damage
 - Freezes Enemies that are on Full Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

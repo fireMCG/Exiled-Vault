@@ -1,12 +1,10 @@
-# Blackened Heart
-
-## Effects
+# Effects
 4% increased Magnitude of Unholy Might Buffs you grant per 100 maximum Mana
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Lich
 #Witch
+#Notable
 #PoE2

@@ -1,12 +1,10 @@
-# Fateful Vision
-
-## Effects
+# Effects
 Grants Skill: Align Fate
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Oracle
 #Druid
+#Notable
 #PoE2

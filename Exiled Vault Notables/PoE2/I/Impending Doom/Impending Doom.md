@@ -1,11 +1,9 @@
-# Impending Doom
-
-## Effects
+# Effects
 40% faster Curse Activation
 Your Curses have 20% increased Magnitudes if 50% of Curse Duration expired
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,11 +1,9 @@
-# Sacrifice at Midnight
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Sacrifice at Midnight.webp]]
 
-## Description
+# Flavour Text
 Look to our Queen, for she will lead us into the light.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 10
 Limit: 1
@@ -20,9 +18,9 @@ map sacrifice fragment count [1]
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Fragment
 #Fragment
 #PoE1

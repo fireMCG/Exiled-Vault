@@ -1,11 +1,9 @@
-# Turn the Clock Back
-
-## Effects
+# Effects
 15% increased Spell Damage
 10% reduced Projectile Speed for Spell Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

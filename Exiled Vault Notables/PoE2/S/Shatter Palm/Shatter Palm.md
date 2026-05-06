@@ -1,11 +1,9 @@
-# Shatter Palm
-
-## Effects
+# Effects
 30% increased Stun Buildup
 10% chance to Daze on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

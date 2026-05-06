@@ -1,12 +1,10 @@
-# Infractem
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Infractem.png]]
 
-## Description
+# Flavour Text
 Mark us with mercy, then press on with care,
 Execute us steadily, notch away at our despair.
 
-## Details
+# Details
 - Bow
 - Physical Damage: (117.3-142.2) to (258.4-289.8)
 - Critical Strike Chance: (6.50-7.50)%
@@ -21,9 +19,9 @@ Execute us steadily, notch away at our despair.
 - Cannot Leech Life
 - Arrows Pierce all Targets
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,8 +1,6 @@
-# The Rippling Thoughts
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Rippling Thoughts.png]]
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (127.2-137.8) to (235.2-254.8)
 - Elemental Damage: 1 to (60-70)
@@ -19,9 +17,9 @@
 - Adds 1 to (60-70) Lightning Damage to Spells
 - 10% increased Area of Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

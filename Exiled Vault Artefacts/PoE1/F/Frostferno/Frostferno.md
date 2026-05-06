@@ -1,13 +1,11 @@
-# Frostferno
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Frostferno.png]]
 
-## Description
+# Flavour Text
 Embrace your burning ambition.
 Embrace your frozen heart.
 You will be transformed.
 
-## Details
+# Details
 - Evasion: (555-762)
 - Requires Level 60, 46 Dex
 - +2 to Level of Socketed Fire Gems
@@ -17,9 +15,9 @@ You will be transformed.
 - 60% increased Mana Regeneration Rate
 - +(20-30)% to Fire and Cold Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

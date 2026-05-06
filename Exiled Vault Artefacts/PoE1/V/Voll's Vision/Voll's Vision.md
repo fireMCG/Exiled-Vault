@@ -1,11 +1,9 @@
-# Voll's Vision
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Voll's Vision.png]]
 
-## Description
+# Flavour Text
 Righteous men seek virtue like tame pups seeking praise.
 
-## Details
+# Details
 - Armour: (421-485)
 - Energy Shield: (51-58)
 - Requires Level 68, 62 Str, 91 Int
@@ -16,9 +14,9 @@ Righteous men seek virtue like tame pups seeking praise.
 - (8-12)% increased Maximum Life if no Equipped Items are Corrupted
 - Regenerate 400 Life per second if no Equipped Items are Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Widowmaker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Widowmaker.png]]
 
-## Description
+# Flavour Text
 Love only death
 For she shall never let you go.
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: (50-55) to (114-119)
 - Critical Strike Chance: (10.37-11.05)%
@@ -20,9 +18,9 @@ For she shall never let you go.
 - 100% increased Critical Strike Chance against Enemies that are on Full Life
 - 1% of Attack Damage Leeched as Life on Critical Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

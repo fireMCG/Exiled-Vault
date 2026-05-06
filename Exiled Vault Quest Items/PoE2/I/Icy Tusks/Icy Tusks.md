@@ -1,13 +1,11 @@
-# Icy Tusks
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Icy Tusks.png]]
 
-## Description
+# Flavour Text
 Frozen trophies of a predator's reign.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE2

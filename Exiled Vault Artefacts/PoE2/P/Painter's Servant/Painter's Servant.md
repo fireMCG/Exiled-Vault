@@ -1,14 +1,12 @@
-# Painter's Servant
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Painter's Servant.png]]
 
-## Description
+# Flavour Text
 Bloodshed on the crimson shores,
 longing for the endless sea.
 Treasures, life, I'd give it all
 just to capture thee.
 
-## Details
+# Details
 - Energy Shield: 9
 - 33% of Elemental Damage Converted to Cold Damage
 - 33% of Elemental Damage Converted to Fire Damage
@@ -17,9 +15,9 @@ just to capture thee.
 - Gain (5-10)% of Elemental Damage as Extra Fire Damage
 - Gain (5-10)% of Elemental Damage as Extra Lightning Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Inpulsa's Broken Heart
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Inpulsa's Broken Heart.png]]
 
-## Description
+# Flavour Text
 Don't hesitate; bring death to all, conclusively and swiftly, or they will give you the same treatment.
 
-## Details
+# Details
 - Evasion: (427-491)
 - Energy Shield: (93-107)
 - Movement Speed: -3%
@@ -17,9 +15,9 @@ Don't hesitate; bring death to all, conclusively and swiftly, or they will give 
 - their Life as Lightning Damage which cannot Shock
 - Unaffected by Shock
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

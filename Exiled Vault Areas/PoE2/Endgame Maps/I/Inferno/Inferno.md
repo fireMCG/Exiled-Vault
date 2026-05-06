@@ -1,11 +1,9 @@
-# Inferno
-
-## Description
+# Flavour Text
 Embers swirl as bark crackles and sparks.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE2

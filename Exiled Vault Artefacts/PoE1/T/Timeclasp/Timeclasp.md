@@ -1,13 +1,11 @@
-# Timeclasp
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Timeclasp.png]]
 
-## Description
+# Flavour Text
 "To us mere mortals, time is slippery.
 I'm just evening things out."
 - Doryani, Queen's Thaumaturgist
 
-## Details
+# Details
 - Requires Level 25
 - +(15-25) to maximum Energy Shield
 - (10-15)% increased Attack Speed
@@ -17,9 +15,9 @@ I'm just evening things out."
 - (-20-20)% increased Skill Effect Duration
 - Unaffected by Temporal Chains
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

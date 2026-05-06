@@ -1,11 +1,9 @@
-# Elevore
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Elevore.png]]
 
-## Description
+# Flavour Text
 Ancient worshippers of the Greatwolf were overtaken by a ravenous hunger for all things mystical.
 
-## Details
+# Details
 - Evasion: (181-217)
 - Requires Level 33, 48 Dex
 - (50-80)% increased Evasion Rating
@@ -13,9 +11,9 @@ Ancient worshippers of the Greatwolf were overtaken by a ravenous hunger for all
 - Charms gain 0.5 charges per Second
 - +1 Charm Slot
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

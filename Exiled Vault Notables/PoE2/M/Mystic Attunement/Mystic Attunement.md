@@ -1,12 +1,10 @@
-# Mystic Attunement
-
-## Effects
+# Effects
 25% increased bonuses gained from Equipped Rings and Amulets
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Ritualist
 #Huntress
+#Notable
 #PoE2

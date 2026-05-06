@@ -1,12 +1,10 @@
-# Icefang Orbit
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Icefang Orbit.png]]
 
-## Description
+# Flavour Text
 Those members of the Brotherhood who employ the venom of
 Trarthan ice snakes must take great care with the volatile substance.
 
-## Details
+# Details
 - Requires Level 36
 - Adds 1 to 4 Physical Damage to Attacks
 - Adds (5-7) to (9-13) Physical Damage to Attacks
@@ -16,9 +14,9 @@ Trarthan ice snakes must take great care with the volatile substance.
 - All Damage from Hits against Poisoned targets Contributes to Chill Magnitude
 - (15-25)% increased Magnitude of Poison you inflict
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

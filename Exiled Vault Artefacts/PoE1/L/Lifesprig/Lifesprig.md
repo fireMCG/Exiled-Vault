@@ -1,13 +1,11 @@
-# Lifesprig
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Lifesprig.png]]
 
-## Description
+# Flavour Text
 From the smallest seeds
 To the tallest redwoods,
 Life endures in Wraeclast.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 5-9
 - Critical Strike Chance: 8.30%
@@ -20,9 +18,9 @@ Life endures in Wraeclast.
 - +(15-20) to maximum Mana
 - Regenerate (6-8) Life over 1 second when you Cast a Spell
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

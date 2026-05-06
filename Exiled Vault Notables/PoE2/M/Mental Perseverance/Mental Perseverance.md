@@ -1,11 +1,9 @@
-# Mental Perseverance
-
-## Effects
+# Effects
 10% of Damage is taken from Mana before Life
 +15 to Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

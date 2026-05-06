@@ -1,10 +1,8 @@
-# Volatile Grenades
-
-## Effects
+# Effects
 25% reduced Grenade Detonation Time
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,11 +1,9 @@
-# Kurgal's Gaze
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kurgal's Gaze.png]]
 
-## Description
+# Flavour Text
 The Blackblooded seeks dominion over darkness itself.
 
-## Details
+# Details
 - Abyss
 - Requires Level 40
 - +(10-20) to Intelligence
@@ -13,9 +11,9 @@ The Blackblooded seeks dominion over darkness itself.
 - Hypnotic Eye Jewel affecting you, up to a maximum of 40%
 - Place into an Abyssal Socket on an Item or into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

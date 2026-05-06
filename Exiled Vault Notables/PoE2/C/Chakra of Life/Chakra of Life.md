@@ -1,11 +1,9 @@
-# Chakra of Life
-
-## Effects
+# Effects
 3% increased maximum Life
 10% increased Life Recovery rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,11 +1,9 @@
-# Illuminated Crown
-
-## Effects
+# Effects
 20% increased Light Radius
 70% increased Energy Shield from Equipped Helmet
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,15 +1,13 @@
-# The Mines Level 2
-
-## Description
+# Flavour Text
 Disease in the darkness.
 
-## Connected Areas
+# Connected Areas
 - The Mines Level 1
 - The Crystal Veins
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

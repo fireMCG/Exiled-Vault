@@ -1,13 +1,11 @@
-# Victario's Acuity
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Victario's Acuity.png]]
 
-## Description
+# Flavour Text
 "Grind your words into sharp thoughts.
 Grind your thoughts into the sharpest of deeds."
 - Victario, the People's Poet
 
-## Details
+# Details
 - Requires Level 16
 - +(16-24) to Dexterity and Intelligence
 - +(30-40)% to Lightning Resistance
@@ -17,9 +15,9 @@ Grind your thoughts into the sharpest of deeds."
 - 5% increased Projectile Speed per Frenzy Charge
 - 5% increased Projectile Damage per Power Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

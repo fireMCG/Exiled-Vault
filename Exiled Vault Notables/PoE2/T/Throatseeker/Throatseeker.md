@@ -1,11 +1,9 @@
-# Throatseeker
-
-## Effects
+# Effects
 60% increased Critical Damage Bonus
 20% reduced Critical Hit Chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

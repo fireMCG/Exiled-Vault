@@ -1,11 +1,9 @@
-# Irongrasp
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Irongrasp.png]]
 
-## Description
+# Flavour Text
 A power unknown aids your own.
 
-## Details
+# Details
 - Armour: (134-167)
 - Evasion: (112-140)
 - Movement Speed: -4.0%
@@ -16,9 +14,9 @@ A power unknown aids your own.
 - Iron Grip
 - Iron Will
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

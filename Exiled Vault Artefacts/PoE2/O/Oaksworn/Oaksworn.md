@@ -1,11 +1,9 @@
-# Oaksworn
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Oaksworn.png]]
 
-## Description
+# Flavour Text
 The druids swore to protect the Grelwood with their very lives.
 
-## Details
+# Details
 - Shield
 - Chance to Block: (30-32)%
 - Armour: (30-37)
@@ -18,9 +16,9 @@ The druids swore to protect the Grelwood with their very lives.
 - 50% increased Life Regeneration rate
 - +(17-23)% to Chaos Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,12 +1,10 @@
-# Forsaken Bangle
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Forsaken Bangle.png]]
 
-## Description
+# Flavour Text
 Among the Templars, a secret few ate the sins of others.
 They bore this burden to empower their hidden Order.
 
-## Details
+# Details
 - Lasts 4.00 Seconds
 - Consumes 30 of 40 Charges on use
 - +18% to Chaos Resistance
@@ -16,9 +14,9 @@ They bore this burden to empower their hidden Order.
 - 50% of Chaos damage you prevent when Hit Recouped as Life and Mana during effect
 - Used automatically when condition is met. Can only hold charges while in belt. Refill at Wells or by killing monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

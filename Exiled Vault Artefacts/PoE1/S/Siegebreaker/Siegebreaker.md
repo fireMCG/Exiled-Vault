@@ -1,11 +1,9 @@
-# Siegebreaker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Siegebreaker.png]]
 
-## Description
+# Flavour Text
 Poison the land and they'll have nothing to defend.
 
-## Details
+# Details
 - Requires Level 44
 - +(25-35) to Strength
 - (6-10)% increased maximum Energy Shield
@@ -14,9 +12,9 @@ Poison the land and they'll have nothing to defend.
 - Minions have 5% chance to Taunt on Hit with Attacks
 - Your Minions spread Caustic Ground on Death, dealing 20% of their maximum Life as Chaos Damage per second
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

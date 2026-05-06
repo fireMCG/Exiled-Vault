@@ -1,10 +1,8 @@
-# Hale Heart
-
-## Effects
+# Effects
 15% increased Life Recovery rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

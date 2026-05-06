@@ -1,12 +1,10 @@
-# Replica Advancing Fortress
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Advancing Fortress.png]]
 
-## Description
+# Flavour Text
 "Additional test subjects approved. Determine exactly how many wounds
 need to be endured to activate Prototype #612's energies."
 
-## Details
+# Details
 - Claw
 - Physical Damage: (40-44) to (106-116.6)
 - Critical Strike Chance: 7.50%
@@ -21,9 +19,9 @@ need to be endured to activate Prototype #612's energies."
 - 50% increased Defences from Equipped Shield
 - Adds 45 to 75 Fire Damage if you've Blocked Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

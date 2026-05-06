@@ -1,13 +1,11 @@
-# Contract_ The Negotiation
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Contract_ The Negotiation.png]]
 
-## Description
+# Flavour Text
 An unusual request.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE1

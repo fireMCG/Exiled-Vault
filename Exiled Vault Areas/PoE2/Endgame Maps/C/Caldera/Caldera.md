@@ -1,11 +1,9 @@
-# Caldera
-
-## Description
+# Flavour Text
 An undrinkable lagoon girt in unbreathable air.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE2

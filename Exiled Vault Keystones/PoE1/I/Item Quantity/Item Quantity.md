@@ -1,12 +1,10 @@
-# Item Quantity
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Item Quantity.webp]]
 
-## Effects
+# Effects
 1% increased Quantity of Items found in your Maps
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

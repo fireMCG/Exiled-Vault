@@ -1,12 +1,10 @@
-# Against the Anvil
-
-## Effects
+# Effects
 Grants Skill: Temper Weapon
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Smith of Kitava
 #Warrior
+#Notable
 #PoE2

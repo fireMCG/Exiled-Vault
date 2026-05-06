@@ -1,11 +1,9 @@
-# Betrayal Scarab of Unbreaking
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Betrayal Scarab of Unbreaking.webp]]
 
-## Description
+# Flavour Text
 Dying over and over builds a tolerance to pain.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -15,8 +13,8 @@ not lose Rank upon completing Interrogation
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

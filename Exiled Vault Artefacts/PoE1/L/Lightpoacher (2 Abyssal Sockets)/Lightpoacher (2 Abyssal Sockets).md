@@ -1,12 +1,10 @@
-# Lightpoacher (2 Abyssal Sockets)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Lightpoacher (2 Abyssal Sockets).png]]
 
-## Description
+# Flavour Text
 The eyes of the living hold a glimmer of hope.
 Don't waste it.
 
-## Details
+# Details
 - Armour: (143-161)
 - Energy Shield: (29-33)
 - Requires Level 53, 59 Str, 59 Int
@@ -17,9 +15,9 @@ Don't waste it.
 - Gain a Spirit Charge on Kill
 - Gain 5% of Physical Damage as Extra Damage of each Element per Spirit Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

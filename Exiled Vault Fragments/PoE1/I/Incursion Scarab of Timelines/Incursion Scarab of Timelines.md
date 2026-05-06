@@ -1,11 +1,9 @@
-# Incursion Scarab of Timelines
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Incursion Scarab of Timelines.webp]]
 
-## Description
+# Flavour Text
 They say if you go far enough, you will meet yourself...
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,9 +13,9 @@ Itemised Temples dropped in Area are generated based on current Temple layout, b
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Incursion
 #Category/Scarab
 #Fragment

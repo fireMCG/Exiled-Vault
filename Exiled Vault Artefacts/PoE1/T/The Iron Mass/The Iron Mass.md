@@ -1,11 +1,9 @@
-# The Iron Mass
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Iron Mass.png]]
 
-## Description
+# Flavour Text
 Lead by example.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (148.5-162) to (214.5-234)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ Lead by example.
 - Summoned Skeleton Warriors and Soldiers deal Triple Damage with this
 - Weapon if you've Hit with this Weapon Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

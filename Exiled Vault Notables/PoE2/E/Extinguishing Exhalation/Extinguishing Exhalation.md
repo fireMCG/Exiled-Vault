@@ -1,10 +1,8 @@
-# Extinguishing Exhalation
-
-## Effects
+# Effects
 Remove Ignite when you Warcry
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

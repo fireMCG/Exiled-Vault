@@ -1,12 +1,10 @@
-# The Redblade
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Redblade.png]]
 
-## Description
+# Flavour Text
 Its forging marked the melding of man
 and Titan against the rising darkness.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (185-221.2) to (295-358.4)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ and Titan against the rising darkness.
 - Has a Two Handed Sword Crucible Passive Skill Tree
 - Crucible Passive Skill Tree is removed if this Modifier is removed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

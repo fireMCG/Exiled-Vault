@@ -1,16 +1,14 @@
-# Disdain
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Disdain.png]]
 
-## Description
+# Flavour Text
 No man sees all, but you'll see more than some see in a lifetime.
 
-## Reward
+# Reward
 Delirium Orb
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Body/Eye
 #Concept/Eclipse

@@ -1,12 +1,10 @@
-# Vix Lunaris
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Vix Lunaris.png]]
 
-## Description
+# Flavour Text
 Silent, silent night,
 Quench the holy light.
 
-## Details
+# Details
 - Chance to Block: 26%
 - Armour: (627-840)
 - Evasion: (627-840)
@@ -18,9 +16,9 @@ Quench the holy light.
 - +(60-80) to maximum Life
 - Cannot be Frozen
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

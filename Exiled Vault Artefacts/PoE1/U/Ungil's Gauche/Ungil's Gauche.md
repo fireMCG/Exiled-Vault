@@ -1,12 +1,10 @@
-# Ungil's Gauche
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ungil's Gauche.png]]
 
-## Description
+# Flavour Text
 Unwieldy and garish became graceful
 and deadly in Ungil's nimble hands.
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: (14.4-16) to (61.2-68)
 - Elemental Damage: 3-30
@@ -22,9 +20,9 @@ and deadly in Ungil's nimble hands.
 - 10% increased Attack Speed
 - 50% increased Global Critical Strike Chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

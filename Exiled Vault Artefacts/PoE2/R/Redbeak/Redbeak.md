@@ -1,11 +1,9 @@
-# Redbeak
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Redbeak.png]]
 
-## Description
+# Flavour Text
 As battle calms, blood turns to rust.
 
-## Details
+# Details
 - One Hand Sword
 - Physical Damage: (10-12) to (16-19)
 - Critical Strike Chance: 5.00%
@@ -16,9 +14,9 @@ As battle calms, blood turns to rust.
 - Gain 3 Life per enemy killed
 - 100% increased Attack Damage while on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

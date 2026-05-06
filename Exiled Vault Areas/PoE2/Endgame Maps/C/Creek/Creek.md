@@ -1,11 +1,9 @@
-# Creek
-
-## Description
+# Flavour Text
 Dark energies congeal the lifeblood of the forest.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

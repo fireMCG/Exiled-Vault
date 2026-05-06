@@ -1,13 +1,11 @@
-# The Golden Charlatan
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Golden Charlatan.png]]
 
-## Description
+# Flavour Text
 "He speaks, he leads, he stands tall...
 yet, what has he truly done, save
 spill our blood in pursuit of power?"
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: (207-276) to (345-460)
 - Critical Strike Chance: (10.00-15.00)%
@@ -23,9 +21,9 @@ spill our blood in pursuit of power?"
 - Gain a random Shrine Buff for 30 seconds when you Kill a Rare or Unique Enemy
 - +1 to maximum Mana per 2 Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

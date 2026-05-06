@@ -1,15 +1,13 @@
-# Immortal Flesh
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Immortal Flesh.png]]
 
-## Description
+# Flavour Text
 "She begged the Earth to spare her Son;
 Out of love the Earth agreed.
 To the other Elements she did not speak
 And out of spite They plotted."
 - Berek and the Untamed
 
-## Details
+# Details
 - Requires Level 50
 - +(25-40) to maximum Life
 - +(75-100) to maximum Life
@@ -19,9 +17,9 @@ And out of spite They plotted."
 - -(50-40) Physical Damage taken from Attack Hits
 - 40% increased Armour while not Ignited, Frozen or Shocked
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

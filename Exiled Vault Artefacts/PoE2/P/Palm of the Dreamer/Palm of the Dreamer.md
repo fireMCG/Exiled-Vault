@@ -1,14 +1,12 @@
-# Palm of the Dreamer
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Palm of the Dreamer.png]]
 
-## Description
+# Flavour Text
 "We sometimes fail. We sometimes succeed. Who determines one from the other?
 I now know we can never be made One, if we are bore of differing desires.
 And yet, I have hope for a new truth. And I will see it... made real."
 - The Benevolent Dreamer
 
-## Details
+# Details
 - Sceptre
 - Spirit: 100
 - Requires Level 65, 32 Str, 80 Int
@@ -21,9 +19,9 @@ And yet, I have hope for a new truth. And I will see it... made real."
 - Grants effect of Dreaming Gloom Shrine
 - Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

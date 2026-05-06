@@ -1,14 +1,12 @@
-# Lioneye's Vision
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Lioneye's Vision.png]]
 
-## Description
+# Flavour Text
 "The Virtue Gems are a gift from the land,
 our land, and we will not let our gifts
 be destroyed by savages."
 - Marceus Lioneye
 
-## Details
+# Details
 - Armour: (1803-2418)
 - Movement Speed: -5%
 - Requires Level 59, 160 Str, 160 Dex
@@ -19,9 +17,9 @@ be destroyed by savages."
 - +160 Dexterity Requirement
 - Enemy Projectiles Pierce you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Contract_ Isla's Prototypes
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Contract_ Isla's Prototypes.png]]
 
-## Description
+# Flavour Text
 My inventions, my babies, deserve to be in better hands!
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE1

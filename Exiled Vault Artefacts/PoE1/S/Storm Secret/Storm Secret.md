@@ -1,11 +1,9 @@
-# Storm Secret
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Storm Secret.png]]
 
-## Description
+# Flavour Text
 Lightning lives in an endless circle.
 
-## Details
+# Details
 - Requires Level 56
 - +(20-30)% to Lightning Resistance
 - +(20-30) to Intelligence
@@ -15,9 +13,9 @@ Lightning lives in an endless circle.
 - Herald of Thunder's Storms Hit Enemies with (30-50)% increased Frequency
 - Take 250 Lightning Damage when Herald of Thunder Hits an Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

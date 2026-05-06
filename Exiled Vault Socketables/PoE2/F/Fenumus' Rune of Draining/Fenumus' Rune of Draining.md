@@ -1,20 +1,18 @@
-# Fenumus' Rune of Draining
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Fenumus' Rune of Draining.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Gloves: 20% increased Withered Magnitude
 
-## Bonded Effects
+# Bonded Effects
 - Gloves: +7% to Chaos Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

@@ -1,12 +1,10 @@
-# Living Weapon
-
-## Effects
+# Effects
 Grants Skill: Manifest Weapon
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Smith of Kitava
 #Warrior
+#Notable
 #PoE2

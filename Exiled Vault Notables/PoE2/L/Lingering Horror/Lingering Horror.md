@@ -1,11 +1,9 @@
-# Lingering Horror
-
-## Effects
+# Effects
 23% increased Chaos Damage
 15% increased Skill Effect Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

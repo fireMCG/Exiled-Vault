@@ -1,12 +1,10 @@
-# Rathpith Globe
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Rathpith Globe.png]]
 
-## Description
+# Flavour Text
 The Vaal emptied their slaves of beating hearts,
 and left a mountain of twitching dead.
 
-## Details
+# Details
 - Focus
 - Energy Shield: (120-150)
 - Requires Level 75, 107 Int
@@ -16,9 +14,9 @@ and left a mountain of twitching dead.
 - Non-Channelling Spells have 3% increased Critical Hit Chance per 100 maximum Life
 - Non-Channelling Spells deal 6% increased Damage per 100 maximum Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

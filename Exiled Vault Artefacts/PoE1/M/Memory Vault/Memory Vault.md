@@ -1,11 +1,9 @@
-# Memory Vault
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Memory Vault.png]]
 
-## Description
+# Flavour Text
 Your memories are a bridge to the past. Let no one cross.
 
-## Details
+# Details
 - Armour: (161-185)
 - Energy Shield: (181-218)
 - Requires Level 68, 62 Str, 91 Int
@@ -16,9 +14,9 @@ Your memories are a bridge to the past. Let no one cross.
 - 20% reduced Reservation Efficiency of Skills
 - 1% increased Armour per 50 Reserved Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

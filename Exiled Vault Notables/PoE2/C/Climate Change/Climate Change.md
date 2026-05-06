@@ -1,11 +1,9 @@
-# Climate Change
-
-## Effects
+# Effects
 20% increased Freeze Buildup
 Gain 25% of Cold Damage as Extra Fire Damage against Frozen Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

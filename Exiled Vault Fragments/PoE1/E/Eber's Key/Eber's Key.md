@@ -1,21 +1,19 @@
-# Eber's Key
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Eber's Key.webp]]
 
-## Description
+# Flavour Text
 Mouth of the Masses, whose greatness spreads by our breath and touch,
 who feeds the starving with the starved, the strong with the weak.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 10
 Portal: NULL
 Can be used in a personal Map Device.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Fragment
 #Attributes/Historical
 #Fragment

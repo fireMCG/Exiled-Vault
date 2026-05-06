@@ -1,11 +1,9 @@
-# Electric Amplification
-
-## Effects
+# Effects
 Damage Penetrates 18% Lightning Resistance
 Gain 6% of Elemental Damage as Extra Lightning Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

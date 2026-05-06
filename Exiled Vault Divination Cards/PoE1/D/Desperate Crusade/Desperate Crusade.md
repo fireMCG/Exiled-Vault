@@ -1,16 +1,14 @@
-# Desperate Crusade
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Desperate Crusade.png]]
 
-## Description
+# Flavour Text
 Through despondent hardships, those strong of spirit shall claim the prize.
 
-## Reward
+# Reward
 Prism Guardian
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Spirit
 #DivinationCard

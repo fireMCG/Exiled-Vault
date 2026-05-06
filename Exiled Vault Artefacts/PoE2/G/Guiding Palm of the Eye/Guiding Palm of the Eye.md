@@ -1,14 +1,12 @@
-# Guiding Palm of the Eye
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Guiding Palm of the Eye.png]]
 
-## Description
+# Flavour Text
 "With piercing eyes, you saw through the Stillness.
 Undulating as one, you gloriously covered all in white.
 But... I can bear you no longer."
 The Dreamer whispered with fogging breath, ice creeping down his hand.
 
-## Details
+# Details
 - Sceptre
 - Spirit: 100
 - Requires Level 65, 32 Str, 80 Int
@@ -20,9 +18,9 @@ The Dreamer whispered with fogging breath, ice creeping down his hand.
 - 25% increased Light Radius
 - Grants effect of Guided Freezing Shrine
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

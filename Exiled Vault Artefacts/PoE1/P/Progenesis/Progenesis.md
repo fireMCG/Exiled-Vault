@@ -1,13 +1,11 @@
-# Progenesis
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Progenesis.png]]
 
-## Description
+# Flavour Text
 They were bred in a cosmic ocean of raw creation.
 Feasting and drinking of the milk of the mother,
 they fought to the death for every last drop.
 
-## Details
+# Details
 - Lasts (4.23-8.78) Seconds
 - Consumes (28-31) of 65 Charges on use
 - +35% to Chaos Resistance
@@ -17,9 +15,9 @@ they fought to the death for every last drop.
 - When Hit during effect, 25% of Life loss from Damage taken occurs over 4 seconds instead
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Maven
 #Concept/Space

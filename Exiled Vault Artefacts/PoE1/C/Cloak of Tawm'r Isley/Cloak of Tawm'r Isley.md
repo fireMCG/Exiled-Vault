@@ -1,14 +1,12 @@
-# Cloak of Tawm'r Isley
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cloak of Tawm'r Isley.png]]
 
-## Description
+# Flavour Text
 Renowned by those distinguished,
 Exalted by the few.
 He skulks in darkness,
 and watches from beneath the city.
 
-## Details
+# Details
 - Energy Shield: (287-396)
 - Movement Speed: -3%
 - Requires Level 56, 152 Int
@@ -18,9 +16,9 @@ and watches from beneath the city.
 - Minions have 15% chance to Blind Enemies on hit
 - Found Magic Items drop Identified
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

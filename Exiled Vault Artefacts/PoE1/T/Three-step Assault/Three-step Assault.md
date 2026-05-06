@@ -1,13 +1,11 @@
-# Three-step Assault
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Three-step Assault.png]]
 
-## Description
+# Flavour Text
 Move in with haste.
 Strike quick, strike hard.
 Vanish like smoke in the wind.
 
-## Details
+# Details
 - Evasion: (216-302)
 - Requires Level 55, 97 Dex
 - +(25-35) to Dexterity
@@ -17,9 +15,9 @@ Vanish like smoke in the wind.
 - 25% increased Movement Speed
 - 30% chance to Avoid Elemental Ailments while Phasing
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

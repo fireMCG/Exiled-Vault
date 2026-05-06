@@ -1,17 +1,15 @@
-# A Fate Worse Than Death
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - A Fate Worse Than Death.png]]
 
-## Description
+# Flavour Text
 "It was as though my very thoughts were breaking... fracturing into tiny motes to be lost on the wind."
 
-## Reward
+# Reward
 Cortex
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

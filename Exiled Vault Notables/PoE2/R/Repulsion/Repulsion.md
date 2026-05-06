@@ -1,11 +1,9 @@
-# Repulsion
-
-## Effects
+# Effects
 Area Skills have 20% chance to Knock Enemies Back on Hit
 20% increased Spell Area Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# Kaom's Primacy
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kaom's Primacy.png]]
 
-## Description
+# Flavour Text
 One by one, Kaom slaughtered the weakest tribe
 leaders until the others leapt to join his cause.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (242-290.4) to (378-453.6)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ leaders until the others leapt to join his cause.
 - Gain 5 Rage on Melee Hit
 - Every Rage also grants 1% of Physical Damage as Extra Fire Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

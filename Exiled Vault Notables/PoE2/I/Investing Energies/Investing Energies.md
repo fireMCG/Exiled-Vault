@@ -1,10 +1,8 @@
-# Investing Energies
-
-## Effects
+# Effects
 35% increased Mana Regeneration Rate while stationary
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

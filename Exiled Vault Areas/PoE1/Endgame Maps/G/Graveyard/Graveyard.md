@@ -1,13 +1,11 @@
-# Graveyard
-
-## Description
+# Flavour Text
 Unknown legacies.
 
 Untold stories.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

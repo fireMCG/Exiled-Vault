@@ -1,12 +1,10 @@
-# Abberath's Horn
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Abberath's Horn.png]]
 
-## Description
+# Flavour Text
 The Goat King drank the smoke and ate the flames
 as his ruin spread across the land.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 7-13
 - Critical Strike Chance: 8.00%
@@ -19,9 +17,9 @@ as his ruin spread across the land.
 - Gain 10 Life per Ignited Enemy Killed
 - 25% reduced Ignite Duration on Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/God/Abberath
 #Concept/Element/Fire

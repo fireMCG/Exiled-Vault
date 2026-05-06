@@ -1,11 +1,9 @@
-# The Chains of Castigation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Chains of Castigation.png]]
 
-## Description
+# Flavour Text
 "The mysterious traveller saw the vilified brother chained to a cliff, where all could point and shout and deride him. In one fell swing, she cracked the mountainside, freeing him." - Lycia, the Heretic
 
-## Details
+# Details
 - Requires Level 64
 - The Herald of the Scourge drops Sandstorm Visage
 - Rooms are unknown on the Sanctum Map
@@ -14,9 +12,9 @@
 - Unmodifiable
 - Place this item on the Relic Altar at the start of each Sanctum run
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

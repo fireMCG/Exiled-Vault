@@ -1,12 +1,10 @@
-# Mist Whisper
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Mist Whisper.png]]
 
-## Description
+# Flavour Text
 Sibilant promises surrounded them in the night.
 All the travelers had to give him was their devotion...
 
-## Details
+# Details
 - Crossbow
 - Physical Damage: 7-12
 - Elemental Damage: (8-10) to (13-15)
@@ -19,9 +17,9 @@ All the travelers had to give him was their devotion...
 - 30% increased Chill Duration on Enemies
 - Attacks Chain 2 additional times
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

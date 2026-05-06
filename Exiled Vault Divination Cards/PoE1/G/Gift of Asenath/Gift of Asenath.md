@@ -1,18 +1,16 @@
-# Gift of Asenath
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Gift of Asenath.png]]
 
-## Description
+# Flavour Text
 The Golden Sekhema's words could solve many a feud. Just what form that solution took was another matter.
 
-## Reward
+# Reward
 Asenath's Gentle Touch
 Two-Implicit
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Sekhema/Asenath
 #Category/DivinationCard
 #DivinationCard

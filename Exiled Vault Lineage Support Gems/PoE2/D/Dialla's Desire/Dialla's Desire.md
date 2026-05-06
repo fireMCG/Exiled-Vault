@@ -1,20 +1,18 @@
-# Dialla's Desire
-
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Dialla's Desire.webp]]
 
-## Description
+# Flavour Text
 "I will become your Gemling Queen, my love, but not
 with such dull stones. I want to give myself to you
 for eternity. Surely we can seek perfection together?"
 
-## Effects
+# Effects
 +1 to Level of Supported Skill Gems
 +10% to Quality of Supported Skills
 Mana: 90%
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Dialla
 #Character/Malachai
 #Concept/Time/Eternity

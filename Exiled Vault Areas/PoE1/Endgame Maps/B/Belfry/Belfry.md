@@ -1,13 +1,11 @@
-# Belfry
-
-## Description
+# Flavour Text
 Bells are rung in celebration, and in sorrow.
 
 And, finally, in despair.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

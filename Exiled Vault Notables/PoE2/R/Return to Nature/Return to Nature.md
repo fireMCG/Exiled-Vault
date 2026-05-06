@@ -1,10 +1,8 @@
-# Return to Nature
-
-## Effects
+# Effects
 Overgrown Plant Skills Break 50% increased Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

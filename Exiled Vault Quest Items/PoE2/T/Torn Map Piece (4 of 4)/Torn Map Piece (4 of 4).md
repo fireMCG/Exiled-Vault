@@ -1,13 +1,11 @@
-# Torn Map Piece (4 of 4)
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Torn Map Piece (4 of 4).png]]
 
-## Description
+# Flavour Text
 No light touched it for centuries.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE2

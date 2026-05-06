@@ -1,11 +1,9 @@
-# Relic of the Pact
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Relic of the Pact.png]]
 
-## Description
+# Flavour Text
 Crush your enemies with your essence, so that you may drink of theirs.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 17-32
 - Critical Strike Chance: 8.70%
@@ -15,9 +13,9 @@ Crush your enemies with your essence, so that you may drink of theirs.
 - Grants Level 1 Blood Sacrament Skill
 - Your Critical Strike Chance is Lucky while on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

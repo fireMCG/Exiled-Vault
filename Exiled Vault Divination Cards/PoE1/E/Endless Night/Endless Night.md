@@ -1,16 +1,14 @@
-# Endless Night
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Endless Night.png]]
 
-## Description
+# Flavour Text
 The sun shines not for me. I walk in darkness, never free. Time stopped when you both died in my arms.
 
-## Reward
+# Reward
 Maloney's Mechanism
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/RikerMaloney
 #Concept/Darkness
 #Concept/Mask

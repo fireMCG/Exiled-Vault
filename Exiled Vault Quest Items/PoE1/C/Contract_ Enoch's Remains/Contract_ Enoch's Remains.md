@@ -1,14 +1,12 @@
-# Contract_ Enoch's Remains
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Contract_ Enoch's Remains.png]]
 
-## Description
+# Flavour Text
 Enoch deserved better.
 This is the least I can do.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE1

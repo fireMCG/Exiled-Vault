@@ -1,11 +1,9 @@
-# Cursecarver
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Cursecarver.png]]
 
-## Description
+# Flavour Text
 Lost in the Black Fen, Erian hoped that dawn would save him. He had no idea how far away the light truly was.
 
-## Details
+# Details
 - Wand
 - Requires Level 33
 - Grants Skill: Level (9-20) Decompose
@@ -15,9 +13,9 @@ Lost in the Black Fen, Erian hoped that dawn would save him. He had no idea how 
 - (30-50)% increased Mana Regeneration Rate
 - +4 to Level of  Skills+4 to Level of Despair Skills+4 to Level of Elemental Weakness Skills+4 to Level of Enfeeble Skills+4 to Level of Temporal Chains Skills+4 to Level of Vulnerability Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

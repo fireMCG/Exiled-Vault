@@ -1,20 +1,18 @@
-# Hollow Palm Technique
-
 ![[Exiled Vault Keystones/_Images/PoE2 - Hollow Palm Technique.webp]]
 
-## Description
+# Flavour Text
 The body is a weapon waiting to be mastered.
 
-## Effects
+# Effects
 Can Attack as though using a Quarterstaff while both of your hand slots are empty
 Unarmed Attacks that would use your Quarterstaff's damage gain:
 • Physical damage based on their Skill Level
 • 1% more Attack Speed per 75 Item Evasion Rating on Equipped Armour Items
 • +0.1% to Critical Hit Chance per 10 Item Energy Shield on Equipped Armour Items
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE2

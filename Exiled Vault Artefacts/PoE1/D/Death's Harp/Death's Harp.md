@@ -1,14 +1,12 @@
-# Death's Harp
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Death's Harp.png]]
 
-## Description
+# Flavour Text
 The mournful music of the strings,
 The creaking arch, the arrow sings.
 A choking cry, a rattled breath,
 The Reaper's Song, the Harp of Death.
 
-## Details
+# Details
 - Bow
 - Physical Damage: (53.2-57.4) to (138.7-149.65)
 - Critical Strike Chance: (6.50-7.50)%
@@ -20,9 +18,9 @@ The Reaper's Song, the Harp of Death.
 - +50% to Global Critical Strike Multiplier
 - Bow Attacks fire 2 additional Arrows
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

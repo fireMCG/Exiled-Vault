@@ -1,11 +1,9 @@
-# Efficient Casting
-
-## Effects
+# Effects
 15% increased Mana Regeneration Rate
 20% increased Mana Cost Efficiency
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

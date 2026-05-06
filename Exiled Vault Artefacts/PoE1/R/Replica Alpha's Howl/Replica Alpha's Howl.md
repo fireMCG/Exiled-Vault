@@ -1,12 +1,10 @@
-# Replica Alpha's Howl
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Alpha's Howl.png]]
 
-## Description
+# Flavour Text
 "Test subject walked right through the poison gas defenses, and attempts to slow her
 failed. Suppression troop six, the 'Furious Flagellants,' have been sent to intervene."
 
-## Details
+# Details
 - Evasion: (664-850)
 - Requires Level 64, 138 Dex
 - +4 to Level of Socketed Herald Gems
@@ -16,9 +14,9 @@ failed. Suppression troop six, the 'Furious Flagellants,' have been sent to inte
 - 16% increased Mana Reservation Efficiency of Skills
 - You cannot be Hindered
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

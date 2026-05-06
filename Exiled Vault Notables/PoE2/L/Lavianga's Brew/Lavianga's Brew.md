@@ -1,10 +1,8 @@
-# Lavianga's Brew
-
-## Effects
+# Effects
 30% increased Mana Cost Efficiency of Attacks during any Mana Flask Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

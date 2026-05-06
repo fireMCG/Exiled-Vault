@@ -1,13 +1,11 @@
-# Jorrhast's Blacksteel
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Jorrhast's Blacksteel.png]]
 
-## Description
+# Flavour Text
 His flesh had long turned to dust,
 but his vengeance lived on
 in every scrap of iron he touched.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (135-162) to (202.5-243)
 - Critical Strike Chance: 5.00%
@@ -22,9 +20,9 @@ in every scrap of iron he touched.
 - 30% less Animate Weapon Duration
 - Weapons you Animate create an additional copy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Mao Kun
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mao Kun.png]]
 
-## Description
+# Flavour Text
 The Treasures of the Tides wait
 in agony at the End of the World.
 
-## Details
+# Details
 - Monster Level: 68
 - Item Quantity: +(100-120)%
 - (60-100)% increased Experience gain
@@ -15,9 +13,9 @@ in agony at the End of the World.
 - Monsters gain a Power Charge on Hit
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

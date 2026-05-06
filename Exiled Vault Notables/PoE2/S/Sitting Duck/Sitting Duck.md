@@ -1,11 +1,9 @@
-# Sitting Duck
-
-## Effects
+# Effects
 35% increased Critical Hit Chance against Immobilised enemies
 Your Hits cannot be Evaded by Pinned Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

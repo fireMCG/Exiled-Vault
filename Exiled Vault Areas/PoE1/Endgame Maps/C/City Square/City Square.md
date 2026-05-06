@@ -1,13 +1,11 @@
-# City Square
-
-## Description
+# Flavour Text
 Countless generations have
 
 walked these time-worn stones.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

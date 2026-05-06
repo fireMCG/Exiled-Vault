@@ -1,12 +1,10 @@
-# Incandescent Invitation
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Incandescent Invitation.webp]]
 
-## Details
+# Details
 Item Level:
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

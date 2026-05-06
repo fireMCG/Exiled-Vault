@@ -1,11 +1,9 @@
-# Perquil's Toe
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Perquil's Toe.png]]
 
-## Description
+# Flavour Text
 He was a lot luckier before he lost this.
 
-## Details
+# Details
 - Requires Level 29
 - (12-20)% increased Rarity of Items found
 - +(40-50) to Dexterity
@@ -13,9 +11,9 @@ He was a lot luckier before he lost this.
 - Lightning Damage of Enemies Hitting you is Lucky
 - Nearby Allies' Damage with Hits is Lucky
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Replica Prismweave
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Prismweave.png]]
 
-## Description
+# Flavour Text
 "A legion of forty soldiers attempted to break into Outpost Five and
 steal Prototype #659. What do they know that we do not?"
 
-## Details
+# Details
 - Requires Level 25
 - (12-24)% increased Global Physical Damage
 - Adds (14-16) to (30-32) Fire Damage to Spells
@@ -15,9 +13,9 @@ steal Prototype #659. What do they know that we do not?"
 - +(6-15)% to all Elemental Resistances
 - 30% increased Elemental Damage during any Flask Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

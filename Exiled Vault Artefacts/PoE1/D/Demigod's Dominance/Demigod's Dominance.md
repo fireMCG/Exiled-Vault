@@ -1,12 +1,10 @@
-# Demigod's Dominance
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Demigod's Dominance.png]]
 
-## Description
+# Flavour Text
 The victorious know only leadership,
 the rest only servitude.
 
-## Details
+# Details
 - Armour: (75-86)
 - Evasion: (75-86)
 - Energy Shield: (17-19)
@@ -15,9 +13,9 @@ the rest only servitude.
 - +1 to Level of Socketed Gems
 - +(30-50) to all Attributes
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

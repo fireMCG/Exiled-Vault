@@ -1,15 +1,13 @@
-# The Flooded Depths
-
-## Description
+# Flavour Text
 Darkness chilled into stillness.
 
-## Connected Areas
+# Connected Areas
 - The Submerged Passage
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

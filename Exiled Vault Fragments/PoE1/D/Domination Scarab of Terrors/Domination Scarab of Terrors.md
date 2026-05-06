@@ -1,11 +1,9 @@
-# Domination Scarab of Terrors
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Domination Scarab of Terrors.webp]]
 
-## Description
+# Flavour Text
 Whatever the prize, fight for it.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,9 +13,9 @@ Modifiers to the Final Map Boss also apply to these Atlas Bosses
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Domination
 #Category/Scarab
 #Fragment

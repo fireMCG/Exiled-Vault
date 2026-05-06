@@ -1,10 +1,8 @@
-# Marked for Death
-
-## Effects
+# Effects
 Culling Strike against Enemies you Mark
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

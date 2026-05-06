@@ -1,12 +1,10 @@
-# Now and Again
-
-## Effects
+# Effects
 Skills have 33% chance to not consume a Cooldown when used
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Chronomancer
 #Sorceress
+#Notable
 #PoE2

@@ -1,17 +1,15 @@
-# Last Stand
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Last Stand.png]]
 
-## Description
+# Flavour Text
 Return with your shield...
 or on it.
 
-## Reward
+# Reward
 The Surrender
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

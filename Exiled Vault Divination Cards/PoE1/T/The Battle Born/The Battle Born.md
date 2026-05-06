@@ -1,16 +1,14 @@
-# The Battle Born
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Battle Born.png]]
 
-## Description
+# Flavour Text
 "No man can best me, no demon can fell me. For I vanquish all with my axe!"
 
-## Reward
+# Reward
 Axe
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Demon
 #Concept/Warrior
 #Category/DivinationCard

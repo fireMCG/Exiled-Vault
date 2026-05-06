@@ -1,14 +1,12 @@
-# Innsbury Edge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Innsbury Edge.png]]
 
-## Description
+# Flavour Text
 A sword he brought, his foes to maim and rend,
 from places dark behind forbidden doors,
 but night by night he woke with frighten'd roars
 from ghoulish dreams, too strange to comprehend.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (72-86.4) to (132-158.4)
 - Critical Strike Chance: 5.00%
@@ -23,9 +21,9 @@ from ghoulish dreams, too strange to comprehend.
 - Attacks with this Weapon Maim on hit
 - Randomly cause Insanity effects (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,17 +1,15 @@
-# Faded Crisis Fragment
-
 ![[Exiled Vault Fragments/_Images/PoE2 - Faded Crisis Fragment.webp]]
 
-## Description
+# Flavour Text
 The carvings it holds are too worn to decipher.
 
-## Details
+# Details
 Pinnacle Keys
 Can be placed in a door in The Burning Monolith.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Fragment
 #Fragment
 #PoE2

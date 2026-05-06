@@ -1,15 +1,13 @@
-# Splinter of Tul
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Splinter of Tul.webp]]
 
-## Details
+# Details
 Stackable Currency
 Stack Size: 1 / 100
 Combine 100 Splinters to create Tul's Breachstone.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

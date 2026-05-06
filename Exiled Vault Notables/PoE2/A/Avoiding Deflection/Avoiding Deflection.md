@@ -1,11 +1,9 @@
-# Avoiding Deflection
-
-## Effects
+# Effects
 -5% to amount of Damage Prevented by Deflection
 20% increased Deflection Rating
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

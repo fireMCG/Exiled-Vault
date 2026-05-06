@@ -1,14 +1,12 @@
-# Crown of the Pale King
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Crown of the Pale King.png]]
 
-## Description
+# Flavour Text
 A lightless world
 a silent reign
 two sightless eyes
 feed on your pain.
 
-## Details
+# Details
 - Evasion: (352-474)
 - Energy Shield: (72-96)
 - Requires Level 52, 58 Dex, 58 Int
@@ -18,9 +16,9 @@ feed on your pain.
 - Reflects 100 to 150 Physical Damage to Melee Attackers
 - 100% of Damage you Reflect to Enemies when Hit is leeched as Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

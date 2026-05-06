@@ -1,13 +1,11 @@
-# Blank Tattoo of Tasalio
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Blank Tattoo of Tasalio.png]]
 
-## Description
+# Flavour Text
 What is written in water is never truly lost.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #Society/Karui/Tribe/Tasalio
 #QuestItem

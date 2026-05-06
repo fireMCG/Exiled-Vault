@@ -1,16 +1,14 @@
-# Soul Core of Zantipi
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Soul Core of Zantipi.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 
-## Effects
+# Effects
 - Martial Weapon: Convert 20% of Requirements to Intelligence
 - Armour: Convert 20% of Requirements to Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

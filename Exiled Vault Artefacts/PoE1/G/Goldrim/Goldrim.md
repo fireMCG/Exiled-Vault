@@ -1,11 +1,9 @@
-# Goldrim
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Goldrim.png]]
 
-## Description
+# Flavour Text
 No metal slips as easily through the fingers as gold.
 
-## Details
+# Details
 - Evasion: (49-77)
 - +(30-50) to Evasion Rating
 - 10% increased Rarity of Items found
@@ -13,9 +11,9 @@ No metal slips as easily through the fingers as gold.
 - Reflects 4 Physical Damage to Melee Attackers
 - Level Requirement reduced by 100 (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Untainted Paradise
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Untainted Paradise.png]]
 
-## Description
+# Flavour Text
 For this beauty,
 beauty without strength,
 chokes out life.
 
-## Details
+# Details
 - Monster Level: 81
 - (300-400)% increased Experience gain
 - Area has increased monster variety
@@ -15,9 +13,9 @@ chokes out life.
 - Monsters drop no Items
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

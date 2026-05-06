@@ -1,12 +1,10 @@
-# Inya's Epiphany
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Inya's Epiphany.png]]
 
-## Description
+# Flavour Text
 Though the path we walk is the same,
 each journey is different.
 
-## Details
+# Details
 - Energy Shield: (47-55)
 - Requires Level 61, 119 Int
 - +(50-70) to maximum Life
@@ -16,9 +14,9 @@ each journey is different.
 - 25% chance that if you would gain Power Charges, you instead gain up to
 - your maximum number of Power Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

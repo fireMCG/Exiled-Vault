@@ -1,13 +1,11 @@
-# Ghetto
-
-## Description
+# Flavour Text
 Amongst the rabble,
 
 brutality is the law.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

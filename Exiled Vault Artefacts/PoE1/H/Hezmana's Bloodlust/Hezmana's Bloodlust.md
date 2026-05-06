@@ -1,11 +1,9 @@
-# Hezmana's Bloodlust
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hezmana's Bloodlust.png]]
 
-## Description
+# Flavour Text
 When a craving cannot be sated, any source will do.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (222-256.5) to (378-447.75)
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ When a craving cannot be sated, any source will do.
 - 40% increased Attack Speed if you've taken a Savage Hit Recently
 - Attacks Cost Life instead of Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

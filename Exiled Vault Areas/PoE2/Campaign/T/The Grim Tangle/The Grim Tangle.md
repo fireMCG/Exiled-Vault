@@ -1,15 +1,13 @@
-# The Grim Tangle
-
-## Description
+# Flavour Text
 A simple ditch becomes a labyrinth when the mind twists upon itself.
 
-## Connected Areas
+# Connected Areas
 - The Grelwood
 - Cemetery of the Eternals
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

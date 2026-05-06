@@ -1,15 +1,13 @@
-# Volcanic Warrens
-
-## Description
+# Flavour Text
 The roar within the mountain is no earthly fire.
 
-## Connected Areas
+# Connected Areas
 - Isle of Kin
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

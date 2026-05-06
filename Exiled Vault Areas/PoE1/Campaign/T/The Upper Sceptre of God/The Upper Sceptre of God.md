@@ -1,15 +1,13 @@
-# The Upper Sceptre of God
-
-## Description
+# Flavour Text
 The pinnacle of power. The height of hubris.
 
-## Connected Areas
+# Connected Areas
 - The Sceptre of God
 - The Aqueduct
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

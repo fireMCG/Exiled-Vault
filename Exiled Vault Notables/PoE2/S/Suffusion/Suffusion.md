@@ -1,11 +1,9 @@
-# Suffusion
-
-## Effects
+# Effects
 30% increased amount of Mana Leeched
 Unaffected by Chill while Leeching Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

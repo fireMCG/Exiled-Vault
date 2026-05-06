@@ -1,13 +1,11 @@
-# Ngamahu's Sign
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ngamahu's Sign.png]]
 
-## Description
+# Flavour Text
 A gift from Ngamahu,
 a sign to the Karui to spread like fire.
 Given to Akoya, but inherited by Kaom with the swing of his axe.
 
-## Details
+# Details
 - Requires Level 28
 - +(20-30)% to Fire Resistance
 - +(15-25) to Strength
@@ -16,9 +14,9 @@ Given to Akoya, but inherited by Kaom with the swing of his axe.
 - 10% chance to Ignite
 - Recover (20-30) Life when you Ignite an Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

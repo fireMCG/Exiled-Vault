@@ -1,13 +1,11 @@
-# The Gnashing Sash
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Gnashing Sash.png]]
 
-## Description
+# Flavour Text
 "Ghorr knows only hunger, only ravenous feasting.
 It will consume all that lives, and more!"
 - Rantings of a Templar prisoner, page fourteen
 
-## Details
+# Details
 - Requires Level 60
 - Has (1-3) Charm Slots
 - (20-30)% increased Flask Charges gained
@@ -16,9 +14,9 @@ It will consume all that lives, and more!"
 - Lose 5% of maximum Life per second
 - Life Recovery from Flasks can Overflow Maximum Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

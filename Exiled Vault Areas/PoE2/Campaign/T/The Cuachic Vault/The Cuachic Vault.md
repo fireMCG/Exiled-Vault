@@ -1,14 +1,12 @@
-# The Cuachic Vault
-
-## Description
+# Flavour Text
 Deep within the vault, the Vaal lived on in solitude.
 
-## Connected Areas
+# Connected Areas
 - Etched Ravine
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

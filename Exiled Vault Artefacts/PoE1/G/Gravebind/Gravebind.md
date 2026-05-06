@@ -1,13 +1,11 @@
-# Gravebind
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Gravebind.png]]
 
-## Description
+# Flavour Text
 Try as you like to hide the
 blood on your hands. You'll
 still know the truth.
 
-## Details
+# Details
 - Armour: (212-305)
 - Evasion: (212-305)
 - Requires Level 59, 45 Str, 45 Dex
@@ -16,9 +14,9 @@ still know the truth.
 - Gain (15-25) Life per Enemy Killed
 - Nearby Enemies Killed by anyone count as being Killed by you instead
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Trephina
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Trephina.png]]
 
-## Description
+# Flavour Text
 The art of surgery advances one mistake at a time.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (38-41) to (57-60)
 - Critical Strike Chance: 5.00%
@@ -18,9 +16,9 @@ The art of surgery advances one mistake at a time.
 - Causes (30-50)% increased Stun Buildup
 - Always deals Critical Hits against Heavy Stunned Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# The Deepest Tower
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Deepest Tower.png]]
 
-## Description
+# Flavour Text
 Death crawls in darkness, closer than we think.
 
-## Details
+# Details
 - Armour: (164-223)
 - Energy Shield: (59-80)
 - Requires Level 45, 36 Str, 36 Int
@@ -16,9 +14,9 @@ Death crawls in darkness, closer than we think.
 - 10% reduced Light Radius
 - Enemies in your Presence count as being on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,12 +1,10 @@
-# Replica Voidwalker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Voidwalker.png]]
 
-## Description
+# Flavour Text
 "Test subject was able to walk into the walls of his chamber after breaking a rabbit's neck.
 He was not fast enough, however. Suggest we begin excavation to retrieve prototype."
 
-## Details
+# Details
 - Evasion: (444-596)
 - Energy Shield: (43-58)
 - Requires Level 69, 82 Dex, 42 Int
@@ -18,9 +16,9 @@ He was not fast enough, however. Suggest we begin excavation to retrieve prototy
 - Projectiles Chain +1 times while you have Phasing
 - Celestial Footprints
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

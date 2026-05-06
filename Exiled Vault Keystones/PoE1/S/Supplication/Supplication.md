@@ -1,12 +1,10 @@
-# Supplication
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Supplication.webp]]
 
-## Effects
+# Effects
 Your Maps contain an additional Shrine
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

@@ -1,11 +1,9 @@
-# Aerisvane's Wings
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Aerisvane's Wings.png]]
 
-## Description
+# Flavour Text
 The strongest souls are forged through struggle and defeat.
 
-## Details
+# Details
 - Armour: (82-93)
 - Evasion: (75-85)
 - Requires Level 52, 36 Str, 36 Dex
@@ -14,9 +12,9 @@ The strongest souls are forged through struggle and defeat.
 - +(20-30) to Intelligence
 - Decimating Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

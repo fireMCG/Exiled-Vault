@@ -1,12 +1,10 @@
-# Barya of Kelari
-
-## Effects
+# Effects
 Grants Skill: Kelari, the Tainted Sands
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

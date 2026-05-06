@@ -1,10 +1,8 @@
-# Swift Claw
-
-## Effects
+# Effects
 10% increased Skill Speed while Shapeshifted
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

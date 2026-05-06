@@ -1,13 +1,11 @@
-# Loreweave
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Loreweave.png]]
 
-## Description
+# Flavour Text
 When it comes to finding a use for surplus,
 a rich man has within himself
 boundless creativity.
 
-## Details
+# Details
 - Armour: (377-433)
 - Energy Shield: (107-155)
 - Movement Speed: -5%
@@ -23,9 +21,9 @@ boundless creativity.
 - (15-50)% increased Elemental Damage
 - Your Maximum Resistances are (76-78)%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

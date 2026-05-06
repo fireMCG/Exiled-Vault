@@ -1,12 +1,10 @@
-# Hrimnor's Resolve
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hrimnor's Resolve.png]]
 
-## Description
+# Flavour Text
 Hrimnor's presence was as cold as ice,
 but his heart burned for vengeance.
 
-## Details
+# Details
 - Armour: (552-715)
 - Requires Level 55, 114 Str
 - (30-40)% increased Fire Damage
@@ -15,9 +13,9 @@ but his heart burned for vengeance.
 - +30% to Cold Resistance
 - 100% chance to Avoid being Chilled or Frozen if you have used a Fire Skill Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

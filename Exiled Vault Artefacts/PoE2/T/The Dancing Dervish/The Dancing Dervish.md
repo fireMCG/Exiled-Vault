@@ -1,14 +1,12 @@
-# The Dancing Dervish
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Dancing Dervish.png]]
 
-## Description
+# Flavour Text
 Take your partner by the hand,
 Keep your steps in time.
 Swing together, spin apart,
 And dance with death sublime.
 
-## Details
+# Details
 - One Hand Sword
 - Physical Damage: 14-23
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ And dance with death sublime.
 - Melee Hits count as Rampage Kills
 - Rampage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

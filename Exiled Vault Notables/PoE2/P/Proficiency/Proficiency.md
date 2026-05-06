@@ -1,10 +1,8 @@
-# Proficiency
-
-## Effects
+# Effects
 +25 to Dexterity
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

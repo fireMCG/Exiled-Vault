@@ -1,20 +1,18 @@
-# Temperance
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Temperance.png]]
 
-## Description
+# Flavour Text
 Good things come
 to those who wait;
 but, greatness seeks
 those who do not come.
 
-## Reward
+# Reward
 Relic
 Item Level: 83
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/God/Sin
 #Concept/Virtue/Patience
 #Concept/Wing

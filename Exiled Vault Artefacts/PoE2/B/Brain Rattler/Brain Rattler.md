@@ -1,11 +1,9 @@
-# Brain Rattler
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Brain Rattler.png]]
 
-## Description
+# Flavour Text
 The mind may have no limits, but the skull sure does.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (50-54) to (72-76)
 - Elemental Damage: 1 to (50-55)
@@ -18,9 +16,9 @@ The mind may have no limits, but the skull sure does.
 - (10-15)% increased Attack Speed
 - All damage with this Weapon causes Electrocution buildup
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,10 +1,8 @@
-# Dread Engineer's Concoction
-
-## Effects
+# Effects
 35% increased Magnitude of Ignite against Poisoned enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

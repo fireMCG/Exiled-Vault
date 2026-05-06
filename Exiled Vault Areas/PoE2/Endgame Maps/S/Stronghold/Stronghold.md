@@ -1,11 +1,9 @@
-# Stronghold
-
-## Description
+# Flavour Text
 Merchants and pirates alike need a safe port to peddle their wares.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

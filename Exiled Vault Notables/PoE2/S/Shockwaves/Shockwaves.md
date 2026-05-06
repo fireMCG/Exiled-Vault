@@ -1,10 +1,8 @@
-# Shockwaves
-
-## Effects
+# Effects
 25% increased Area of Effect if you've Stunned an Enemy with a Two Handed Melee Weapon Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,14 +1,12 @@
-# Titucius' Span
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Titucius' Span.png]]
 
-## Description
+# Flavour Text
 A mighty bulwark, curved and strong
 A dauntless wall, against the throng
 All lance and arrow, knocked aside
 For rout of foe, for turn of tide.
 
-## Details
+# Details
 - Chance to Block: 23%
 - Armour: (379-468)
 - Movement Speed: -3%
@@ -20,9 +18,9 @@ For rout of foe, for turn of tide.
 - 200% increased Armour against Projectiles
 - +25% chance to Block Projectile Attack Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

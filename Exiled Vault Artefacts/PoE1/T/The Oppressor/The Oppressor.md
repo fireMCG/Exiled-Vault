@@ -1,11 +1,9 @@
-# The Oppressor
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Oppressor.png]]
 
-## Description
+# Flavour Text
 Every clash leaves one more scar.
 
-## Details
+# Details
 - Chance to Block: (34-38)%
 - Armour: (444-595)
 - Evasion: (444-595)
@@ -18,9 +16,9 @@ Every clash leaves one more scar.
 - +(9-13)% Chance to Block
 - You take 20% of Damage from Blocked Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

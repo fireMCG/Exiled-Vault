@@ -1,10 +1,8 @@
-# Arcane Remnants
-
-## Effects
+# Effects
 Recover 3% of Maximum Mana when you collect a Remnant
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

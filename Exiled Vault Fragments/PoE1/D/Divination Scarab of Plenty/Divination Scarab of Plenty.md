@@ -1,11 +1,9 @@
-# Divination Scarab of Plenty
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Divination Scarab of Plenty.webp]]
 
-## Description
+# Flavour Text
 We create a thousand futures with every action.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 5
@@ -15,9 +13,9 @@ have 1000% increased chance to drop Divination Cards
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Scarab
 #Fragment
 #PoE1

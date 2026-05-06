@@ -1,12 +1,10 @@
-# Hand of Thought and Motion
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hand of Thought and Motion.png]]
 
-## Description
+# Flavour Text
 She carries us and nurtures us
 until we must feed upon each other.
 
-## Details
+# Details
 - Claw
 - Physical Damage: 25-65
 - Critical Strike Chance: 7.00%
@@ -20,9 +18,9 @@ until we must feed upon each other.
 - 5% increased Critical Strike Chance per 25 Intelligence
 - Recover 1% of Life on Kill
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

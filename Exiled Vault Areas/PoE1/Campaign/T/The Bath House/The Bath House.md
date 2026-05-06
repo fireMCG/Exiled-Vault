@@ -1,17 +1,15 @@
-# The Bath House
-
-## Description
+# Flavour Text
 Hidden sin where revelry thrives.
 
-## Connected Areas
+# Connected Areas
 - The Grand Promenade
 - The Lunaris Concourse
 - The High Gardens
 - The Hidden Underbelly
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

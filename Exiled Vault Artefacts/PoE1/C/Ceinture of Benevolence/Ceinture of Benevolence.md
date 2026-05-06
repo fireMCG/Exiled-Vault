@@ -1,13 +1,11 @@
-# Ceinture of Benevolence
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ceinture of Benevolence.png]]
 
-## Description
+# Flavour Text
 "Put your faith in me.
 Our god demands it."
 - High Templar Maxarius.
 
-## Details
+# Details
 - Requires Level 40
 - (15-25)% increased Stun and Block Recovery
 - +(20-40) to Dexterity
@@ -15,9 +13,9 @@ Our god demands it."
 - (10-7)% reduced Flask Charges used
 - Non-Unique Utility Flasks you Use apply to Linked Targets
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

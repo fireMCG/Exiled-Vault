@@ -1,12 +1,10 @@
-# Navira's Well
-
-## Effects
+# Effects
 Grants Skill: Navira's Well
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

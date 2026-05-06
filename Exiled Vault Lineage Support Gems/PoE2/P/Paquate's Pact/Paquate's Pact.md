@@ -1,13 +1,11 @@
-# Paquate's Pact
-
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Paquate's Pact.webp]]
 
-## Description
+# Flavour Text
 The water used to cool the Locus of Corruption ran red
 as blood, bright as flame, and bubbled with strange heat.
 "Drink," he offered. "Suffuse your flesh with power!"
 
-## Effects
+# Effects
 Corrupted Blood deals 25% of your Strength as
 Physical Damage per second
 Corrupted Blood duration is 5 seconds
@@ -16,9 +14,9 @@ Supported Warcries inflict 5 Corrupted Blood Debuffs
 Mana: 100%
 Corrupted Blood deals 25% of your Strength as\nPhysical Damage per second
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Paquate
 #Concept/Blood
 #Concept/Corruption

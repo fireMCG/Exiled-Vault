@@ -1,13 +1,11 @@
-# Lookout
-
-## Description
+# Flavour Text
 A glorious vista once exclusive
 
 to emperors. Not anymore.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

@@ -1,13 +1,11 @@
-# Brutus' Lead Sprinkler
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Brutus' Lead Sprinkler.png]]
 
-## Description
+# Flavour Text
 "A sprinkle of liquid encouragement is often required
 to garnish the perfect confession."
 - Brutus, Warden of Axiom
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: (34.8-40.8) to (91.2-97.2)
 - Critical Strike Chance: (9.10-9.80)%
@@ -22,9 +20,9 @@ to garnish the perfect confession."
 - (30-40)% increased Critical Strike Chance
 - Adds 4 to 7 Fire Damage to Attacks with this Weapon per 10 Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

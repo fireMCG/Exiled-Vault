@@ -1,11 +1,9 @@
-# Garukhan's Flight
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Garukhan's Flight.png]]
 
-## Description
+# Flavour Text
 The higher you soar, the further you must fall.
 
-## Details
+# Details
 - Evasion: (880-1113)
 - Requires Level 62, 117 Dex
 - +(30-40) to Dexterity
@@ -15,9 +13,9 @@ The higher you soar, the further you must fall.
 - Regenerate 100 Life per second while moving
 - +2 to Maximum Life per 10 Dexterity
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

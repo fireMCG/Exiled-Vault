@@ -1,11 +1,9 @@
-# Aurseize
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Aurseize.png]]
 
-## Description
+# Flavour Text
 Wealth is not to be borne lightly.
 
-## Details
+# Details
 - Armour: (91-120)
 - Evasion: (91-120)
 - Requires Level 36, 29 Str, 29 Dex
@@ -14,9 +12,9 @@ Wealth is not to be borne lightly.
 - +15% to all Elemental Resistances
 - 5% reduced Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Wealth
 #Artefact

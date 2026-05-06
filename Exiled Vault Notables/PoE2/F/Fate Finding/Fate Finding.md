@@ -1,10 +1,8 @@
-# Fate Finding
-
-## Effects
+# Effects
 20% increased Reservation Efficiency of Herald Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,17 +1,15 @@
-# Hayoxi's Soul Core of Heatproofing
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Hayoxi's Soul Core of Heatproofing.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Helmets: +40% of Armour also applies to Cold Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

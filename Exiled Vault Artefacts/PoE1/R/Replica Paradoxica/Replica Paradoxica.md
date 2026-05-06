@@ -1,12 +1,10 @@
-# Replica Paradoxica
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Paradoxica.png]]
 
-## Description
+# Flavour Text
 "This is one riddle I can't solve."
 - Researcher Graven
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: 22-87
 - Critical Strike Chance: 6.50%
@@ -21,9 +19,9 @@
 - of the Veil (suffix)
 - ">Guff's Veiled (prefix)Catarina's Veiled (prefix)Elreon's Veiled (prefix)Gravicius' Veiled (prefix)Haku's Veiled (prefix)It That Fled's Veiled (prefix)Korell's Veiled (prefix)Leo's Veiled (prefix)Rin's Veiled (prefix)Tora's Veiled (prefix)Vagan's Veiled (prefix)Veiled (prefix)Vorici's Veiled (prefix)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Graven
 #Artefact

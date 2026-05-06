@@ -1,11 +1,9 @@
-# Warm the Heart
-
-## Effects
+# Effects
 25% reduced Freeze Duration on you
 60% increased Freeze Threshold
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

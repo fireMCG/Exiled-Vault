@@ -1,11 +1,9 @@
-# Gifts from Above
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Gifts from Above.png]]
 
-## Description
+# Flavour Text
 God blesses those who bless themselves.
 
-## Details
+# Details
 - Requires Level 28
 - (20-30)% increased Global Critical Strike Chance
 - Trigger Level 10 Consecrate when you deal a Critical Strike
@@ -15,9 +13,9 @@ God blesses those who bless themselves.
 - 50% increased Damage while on Consecrated Ground
 - +5% Chance to Block Attack Damage while on Consecrated Ground
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

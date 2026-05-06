@@ -1,11 +1,9 @@
-# Aukuna's Will
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Aukuna's Will.png]]
 
-## Description
+# Flavour Text
 The Black Sekhema's trial had only just begun.
 
-## Details
+# Details
 - Evasion: (114-162)
 - Energy Shield: (24-35)
 - Requires Level 31, 25 Dex, 25 Int
@@ -16,9 +14,9 @@ The Black Sekhema's trial had only just begun.
 - Raise Zombie does not require a corpse
 - Your Raised Zombies count as corpses
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Sekhema/Aukuna
 #Concept/Sekhema

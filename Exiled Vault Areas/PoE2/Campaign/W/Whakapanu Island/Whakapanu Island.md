@@ -1,15 +1,13 @@
-# Whakapanu Island
-
-## Description
+# Flavour Text
 By all appearances, a paradise.
 
-## Connected Areas
+# Connected Areas
 - Kingsmarch
 - Singing Caverns
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

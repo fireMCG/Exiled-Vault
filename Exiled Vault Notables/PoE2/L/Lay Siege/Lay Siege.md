@@ -1,10 +1,8 @@
-# Lay Siege
-
-## Effects
+# Effects
 1% increased Damage per 1% Chance to Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

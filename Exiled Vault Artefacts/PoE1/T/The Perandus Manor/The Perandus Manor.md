@@ -1,12 +1,10 @@
-# The Perandus Manor
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Perandus Manor.png]]
 
-## Description
+# Flavour Text
 Forget kings and emperors;
 He who holds the coin holds all the power.
 
-## Details
+# Details
 - Monster Level: 68
 - Item Quantity: +(60-100)%
 - Item Rarity: +(200-300)%
@@ -17,9 +15,9 @@ He who holds the coin holds all the power.
 - Area contains Cadiro Perandus
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

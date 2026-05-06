@@ -1,12 +1,10 @@
-# Relic of the Cycle
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Relic of the Cycle.png]]
 
-## Description
+# Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
-## Details
+# Details
 - Bow
 - Physical Damage: 10-26
 - Critical Strike Chance: 5.00%
@@ -16,9 +14,9 @@ So goes the descent.
 - +30 to Accuracy Rating
 - Projectiles Return to you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

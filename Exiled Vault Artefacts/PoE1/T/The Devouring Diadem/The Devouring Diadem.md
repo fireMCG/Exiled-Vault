@@ -1,11 +1,9 @@
-# The Devouring Diadem
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Devouring Diadem.png]]
 
-## Description
+# Flavour Text
 The spirit hungers for the flesh.
 
-## Details
+# Details
 - Energy Shield: (154-204)
 - Requires Level 54, 112 Int
 - Socketed Gems have 25% increased Reservation Efficiency
@@ -15,9 +13,9 @@ The spirit hungers for the flesh.
 - Eldritch Battery
 - Catarina's Veiled (prefix)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

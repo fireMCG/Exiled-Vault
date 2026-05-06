@@ -1,13 +1,11 @@
-# Vaal City
-
-## Description
+# Flavour Text
 Hubris convinces men they can survive the mistakes of their forebears.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

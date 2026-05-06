@@ -1,16 +1,14 @@
-# Guardian's Challenge
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Guardian's Challenge.png]]
 
-## Description
+# Flavour Text
 To accept a challenge from the void is merely suicide for the unprepared.
 
-## Reward
+# Reward
 Shaper Guardian Map
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Void
 #Category/DivinationCard
 #DivinationCard

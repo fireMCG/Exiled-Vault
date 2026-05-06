@@ -1,11 +1,9 @@
-# Well Supplied
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Well Supplied.png]]
 
-## Description
+# Flavour Text
 When the armory is full there is more to go around.
 
-## Details
+# Details
 - Limited to: 1
 - 2% increased Maps found in your Maps
 - (30-50)% increased Intelligence gained from Immortal Syndicate targets encountered in your Maps
@@ -14,9 +12,9 @@ When the armory is full there is more to go around.
 - Unmodifiable
 - Place this item into the Idol inventory at a Map Device to affect Maps you open. Idols are not consumed when opening Maps.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

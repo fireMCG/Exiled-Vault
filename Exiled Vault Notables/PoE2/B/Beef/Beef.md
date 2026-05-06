@@ -1,10 +1,8 @@
-# Beef
-
-## Effects
+# Effects
 +25 to Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

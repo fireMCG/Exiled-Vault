@@ -1,11 +1,9 @@
-# Cluster Bombs
-
-## Effects
+# Effects
 50% increased Grenade Detonation Time
 Grenade Skills Fire an additional Projectile
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

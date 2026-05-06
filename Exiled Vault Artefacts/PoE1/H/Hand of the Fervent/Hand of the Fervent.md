@@ -1,12 +1,10 @@
-# Hand of the Fervent
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hand of the Fervent.png]]
 
-## Description
+# Flavour Text
 A sacrifice of blood calls forth His vengeance.
 Let the righteous become the Hand of God.
 
-## Details
+# Details
 - Armour: (132-211)
 - Energy Shield: (27-43)
 - Requires Level 43, 34 Str, 34 Int
@@ -15,9 +13,9 @@ Let the righteous become the Hand of God.
 - Gain Sacrificial Zeal when you use a Skill, dealing you 150% of the Skill's Mana Cost as Physical Damage per Second
 - Hits have (35-50)% chance to ignore Enemy Physical Damage Reduction while you have Sacrificial Zeal
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

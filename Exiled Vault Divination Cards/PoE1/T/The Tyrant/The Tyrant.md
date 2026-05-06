@@ -1,18 +1,16 @@
-# The Tyrant
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Tyrant.png]]
 
-## Description
+# Flavour Text
 "Fear controls the masses."
 - Laszlo, the Scourge
 
-## Reward
+# Reward
 Merciless Weapon
 Item Level: 100
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Tyranny
 #DivinationCard

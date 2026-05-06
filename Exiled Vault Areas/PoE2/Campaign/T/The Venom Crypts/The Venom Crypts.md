@@ -1,14 +1,12 @@
-# The Venom Crypts
-
-## Description
+# Flavour Text
 The remains of the Temple of Yaomac play host to countless deadly guests.
 
-## Connected Areas
+# Connected Areas
 - Jungle Ruins
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

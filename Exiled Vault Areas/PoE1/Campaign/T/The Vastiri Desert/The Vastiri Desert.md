@@ -1,16 +1,14 @@
-# The Vastiri Desert
-
-## Description
+# Flavour Text
 Blustering sand, sharper than a bandit's blade.
 
-## Connected Areas
+# Connected Areas
 - The Descent
 - The Oasis
 - The Foothills
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

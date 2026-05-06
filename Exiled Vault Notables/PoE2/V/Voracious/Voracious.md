@@ -1,10 +1,8 @@
-# Voracious
-
-## Effects
+# Effects
 20% of Leech is Instant
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

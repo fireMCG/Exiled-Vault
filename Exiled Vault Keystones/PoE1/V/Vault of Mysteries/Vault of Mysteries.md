@@ -1,12 +1,10 @@
-# Vault of Mysteries
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Vault of Mysteries.webp]]
 
-## Effects
+# Effects
 Divination Cards from Strongboxes in your Maps are Duplicated
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

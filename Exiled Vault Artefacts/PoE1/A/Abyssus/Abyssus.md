@@ -1,12 +1,10 @@
-# Abyssus
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Abyssus.png]]
 
-## Description
+# Flavour Text
 When you have slain all of your enemies,
 what is left to fear?
 
-## Details
+# Details
 - Armour: (692-838)
 - Requires Level 60, 138 Str
 - +(20-25) to all Attributes
@@ -15,9 +13,9 @@ what is left to fear?
 - (100-120)% increased Armour
 - (40-50)% increased Physical Damage taken
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Emotion/Fear
 #Artefact

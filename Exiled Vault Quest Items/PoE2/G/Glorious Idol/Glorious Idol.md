@@ -1,13 +1,11 @@
-# Glorious Idol
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Glorious Idol.png]]
 
-## Description
+# Flavour Text
 ...rewarding any bold enough to seek it.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #Society/VaalEmpire
 #QuestItem

@@ -1,11 +1,9 @@
-# Ngamahu's Chosen
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Ngamahu's Chosen.png]]
 
-## Description
+# Flavour Text
 Kaom was not known for his restraint.
 
-## Details
+# Details
 - Lasts 4.00 Seconds
 - Consumes 20 of 40 Charges on use
 - +25% to Fire Resistance
@@ -15,9 +13,9 @@ Kaom was not known for his restraint.
 - Grants up to your maximum Rage on use
 - Used automatically when condition is met. Can only hold charges while in belt. Refill at Wells or by killing monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

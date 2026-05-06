@@ -1,12 +1,10 @@
-# Memory Tear Chance
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Memory Tear Chance.webp]]
 
-## Effects
+# Effects
 10% increased chance for your Maps to contain Memory Tears (Tier 16+)
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

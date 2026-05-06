@@ -1,11 +1,9 @@
-# Utula's Hunger
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Utula's Hunger.png]]
 
-## Description
+# Flavour Text
 The world will end in a divine stomach, once Kitava has eaten all that lives.
 
-## Details
+# Details
 - Armour: (848-1250)
 - Movement Speed: -5%
 - Requires Level 53, 145 Str
@@ -14,9 +12,9 @@ The world will end in a divine stomach, once Kitava has eaten all that lives.
 - (30-40)% increased Stun and Block Recovery
 - +(700-1000) to maximum Life if there are no Life Modifiers on other Equipped Items
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

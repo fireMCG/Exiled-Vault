@@ -1,13 +1,11 @@
-# Medium Soul Core
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Medium Soul Core.png]]
 
-## Description
+# Flavour Text
 Somewhere, a distant scream echoes.
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Crystal
 #Concept/Soul
 #Category/QuestItem

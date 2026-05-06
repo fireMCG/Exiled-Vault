@@ -1,11 +1,9 @@
-# Steppe
-
-## Description
+# Flavour Text
 Even the sparse vegetation does not linger here long.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

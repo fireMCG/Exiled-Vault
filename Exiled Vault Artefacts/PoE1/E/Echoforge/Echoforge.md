@@ -1,11 +1,9 @@
-# Echoforge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Echoforge.png]]
 
-## Description
+# Flavour Text
 Witness the emergence of a new cosmic power.
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: 62-129
 - Chaos Damage: (600-650) to (750-800)
@@ -21,9 +19,9 @@ Witness the emergence of a new cosmic power.
 - (-40-40)% increased Area of Effect for Attacks
 - Deal no Physical or Elemental Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Maven
 #Concept/Space

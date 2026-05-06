@@ -1,12 +1,10 @@
-# Replica Winterheart
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Winterheart.png]]
 
-## Description
+# Flavour Text
 "Researcher Graven spent eleven hours suffering electrocution in the lab before he was found.
 Prototype #14 somehow kept him from dying."
 
-## Details
+# Details
 - Requires Level 42
 - (12-20)% increased Rarity of Items found
 - +(20-30) to Dexterity
@@ -15,9 +13,9 @@ Prototype #14 somehow kept him from dying."
 - Regenerate 5% of Energy Shield per second while Shocked
 - Unaffected by Shock
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

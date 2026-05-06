@@ -1,16 +1,14 @@
-# Soul Core of Tzamoto
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Soul Core of Tzamoto.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 
-## Effects
+# Effects
 - Martial Weapon: 30% increased Freeze Buildup
 - Helmets: +1% to Maximum Cold Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

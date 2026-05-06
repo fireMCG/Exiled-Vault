@@ -1,11 +1,9 @@
-# Woodland
-
-## Description
+# Flavour Text
 The woods give their leaves to the seasons. Man takes the rest.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

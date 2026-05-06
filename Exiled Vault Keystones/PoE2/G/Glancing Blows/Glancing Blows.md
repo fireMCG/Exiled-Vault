@@ -1,17 +1,15 @@
-# Glancing Blows
-
 ![[Exiled Vault Keystones/_Images/PoE2 - Glancing Blows.webp]]
 
-## Description
+# Flavour Text
 Utter trust in your defence unleashes ultimate potential.
 
-## Effects
+# Effects
 Chance to Evade is Unlucky
 Chance to Deflect is Lucky
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE2

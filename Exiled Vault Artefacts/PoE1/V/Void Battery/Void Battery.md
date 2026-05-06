@@ -1,13 +1,11 @@
-# Void Battery
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Void Battery.png]]
 
-## Description
+# Flavour Text
 "The trick is to give nothingness,
 and to receive everything in return."
 - Inquisitor Maligaro
 
-## Details
+# Details
 - Wand
 - Physical Damage: 26-48
 - Critical Strike Chance: 8.70%
@@ -21,9 +19,9 @@ and to receive everything in return."
 - +1 to Maximum Power Charges
 - 25% increased Spell Damage per Power Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

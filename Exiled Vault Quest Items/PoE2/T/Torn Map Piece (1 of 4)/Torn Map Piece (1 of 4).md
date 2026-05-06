@@ -1,13 +1,11 @@
-# Torn Map Piece (1 of 4)
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Torn Map Piece (1 of 4).png]]
 
-## Description
+# Flavour Text
 Clutched tight, even in death.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE2

@@ -1,13 +1,11 @@
-# Lava Lake
-
-## Description
+# Flavour Text
 At the heart of a peaceful, secluded valley,
 
 an island of burning, consuming fury.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

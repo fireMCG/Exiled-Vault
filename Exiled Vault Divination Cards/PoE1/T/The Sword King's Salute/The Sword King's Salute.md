@@ -1,19 +1,17 @@
-# The Sword King's Salute
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Sword King's Salute.png]]
 
-## Description
+# Flavour Text
 Many were slain by the sword king 
 Their blood decorating his ring 
 Those who retreated were slaughtered 
 Those who fought bravely were honoured
 
-## Reward
+# Reward
 Daresso's Salute
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Daresso
 #Concept/Blood

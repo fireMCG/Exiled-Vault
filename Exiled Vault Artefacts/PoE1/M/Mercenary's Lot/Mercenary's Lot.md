@@ -1,11 +1,9 @@
-# Mercenary's Lot
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mercenary's Lot.png]]
 
-## Description
+# Flavour Text
 The target changes, but the job's always the same.
 
-## Details
+# Details
 - Evasion: (322-398)
 - Requires Level 70, 95 Dex
 - +(80-120) to Evasion Rating
@@ -15,9 +13,9 @@ The target changes, but the job's always the same.
 - 8% of Damage from Hits is taken from Marked Target's Life before you
 - Your Mark Transfers to another Enemy when Marked Enemy dies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

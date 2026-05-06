@@ -1,12 +1,10 @@
-# Maligaro's Virtuosity
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Maligaro's Virtuosity.png]]
 
-## Description
+# Flavour Text
 Maligaro operated effortlessly,
 with great speed and terrible consequences.
 
-## Details
+# Details
 - Evasion: (113-158)
 - Requires Level 21, 33 Dex
 - +(20-30) to Dexterity
@@ -15,9 +13,9 @@ with great speed and terrible consequences.
 - (60-80)% increased Evasion Rating
 - Your Critical Strike Multiplier is 300%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,14 +1,12 @@
-# Baleful Gem
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Baleful Gem.png]]
 
-## Description
+# Flavour Text
 The withering glare of corruption, made
 corporeal and pellucid in crystal.
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Corruption
 #Concept/Crystal
 #Concept/Virtue/Gem

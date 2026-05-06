@@ -1,13 +1,11 @@
-# The Sundered Will
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Sundered Will.png]]
 
-## Description
+# Flavour Text
 They dream no longer, strive no longer,
 feel no longer. They dream only of
 continuing to dream, and know not why.
 
-## Details
+# Details
 - Requires Level 42
 - Cannot roll Modifiers of Non-Chaos Damage Types
 - +2% to maximum Chaos Resistance
@@ -19,9 +17,9 @@ continuing to dream, and know not why.
 - Increases and Reductions to Chaos Damage also apply to Effect of
 - Auras from Chaos Skills at (10-15)% of their value, up to a maximum of 150%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

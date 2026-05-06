@@ -1,11 +1,9 @@
-# Nazir's Judgement
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Nazir's Judgement.png]]
 
-## Description
+# Flavour Text
 The first witch hunter knew one critical tactic: never let your enemy have a clear moment.
 
-## Details
+# Details
 - Quartertaff
 - Physical Damage: (58-64) to (126-132)
 - Critical Strike Chance: 10.00%
@@ -18,9 +16,9 @@ The first witch hunter knew one critical tactic: never let your enemy have a cle
 - Dazes on Hit
 - (35-50)% increased Melee Damage against Heavy Stunned enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

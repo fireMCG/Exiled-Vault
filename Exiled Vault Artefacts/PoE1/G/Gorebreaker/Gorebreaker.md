@@ -1,12 +1,10 @@
-# Gorebreaker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Gorebreaker.png]]
 
-## Description
+# Flavour Text
 Sure, there's many a hard man out there.
 But this'll soften them up.
 
-## Details
+# Details
 - One Handed Mace
 - Physical Damage: (52-59.8) to (64-73.6)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ But this'll soften them up.
 - (30-50)% increased Stun Duration on Enemies
 - Extra gore
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

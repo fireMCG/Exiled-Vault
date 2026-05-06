@@ -1,14 +1,12 @@
-# Kitava's Feast
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kitava's Feast.png]]
 
-## Description
+# Flavour Text
 Hinekora bound Kitava to a rock
 that Kitava could not lift with all his might.
 Kitava vowed that when he broke free,
 he would devour every soul in Hinekora's domain.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (288-326.4) to (432-489.6)
 - Critical Strike Chance: 6.00%
@@ -22,9 +20,9 @@ he would devour every soul in Hinekora's domain.
 - Recover 5% of Life on Kill
 - Enemies Killed by your Hits are destroyed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

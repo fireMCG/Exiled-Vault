@@ -1,10 +1,8 @@
-# Infernal Limit
-
-## Effects
+# Effects
 +1 to maximum Fire Infusions
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

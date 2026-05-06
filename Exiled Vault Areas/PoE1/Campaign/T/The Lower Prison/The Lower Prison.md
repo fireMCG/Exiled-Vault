@@ -1,15 +1,13 @@
-# The Lower Prison
-
-## Description
+# Flavour Text
 The air is rich with despair and apparition.
 
-## Connected Areas
+# Connected Areas
 - The Climb
 - The Upper Prison
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

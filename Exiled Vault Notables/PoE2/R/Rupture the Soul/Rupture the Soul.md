@@ -1,12 +1,10 @@
-# Rupture the Soul
-
-## Effects
+# Effects
 Cursed Enemies killed by you, or by Allies in your Presence, have a 33% chance to explode, dealing a quarter of their maximum Life as Chaos damage
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Lich
 #Witch
+#Notable
 #PoE2

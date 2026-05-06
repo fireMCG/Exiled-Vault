@@ -1,12 +1,10 @@
-# The Screaming Eagle
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Screaming Eagle.png]]
 
-## Description
+# Flavour Text
 The eagle knows nothing
 but the scream and the strike.
 
-## Details
+# Details
 - One Handed Axe
 - Physical Damage: (20-25) to (40-45)
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ but the scream and the strike.
 - Gain (5-7) Life per Enemy Killed
 - 10% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

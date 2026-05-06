@@ -1,11 +1,9 @@
-# Cruel Methods
-
-## Effects
+# Effects
 Break 40% increased Armour
 25% increased Physical Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

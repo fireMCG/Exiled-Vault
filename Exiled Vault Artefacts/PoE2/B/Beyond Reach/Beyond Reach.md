@@ -1,12 +1,10 @@
-# Beyond Reach
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Beyond Reach.png]]
 
-## Description
+# Flavour Text
 The limit of our knowledge is a barrier
 that protects us from ourselves.
 
-## Details
+# Details
 - Requires Level 65
 - (20-30)% increased Critical Hit Chance for Attacks
 - (15-10)% reduced Attack Speed
@@ -15,9 +13,9 @@ that protects us from ourselves.
 - Attacks Gain (10-20)% of Physical Damage as extra Chaos Damage
 - Can only be equipped if you are wielding a Bow.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

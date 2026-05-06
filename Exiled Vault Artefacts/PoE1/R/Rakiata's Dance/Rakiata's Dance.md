@@ -1,11 +1,9 @@
-# Rakiata's Dance
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rakiata's Dance.png]]
 
-## Description
+# Flavour Text
 In the shifting reflections of the sea, the truth of the soul can be seen.
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: 49-102
 - Elemental Damage: (150-200) to (300-350), 1 to (550-600)
@@ -19,9 +17,9 @@ In the shifting reflections of the sea, the truth of the soul can be seen.
 - (15-20)% increased Attack Speed
 - Treats Enemy Monster Elemental Resistance values as inverted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

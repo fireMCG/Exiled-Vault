@@ -1,12 +1,10 @@
-# The Road Warrior
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Road Warrior.png]]
 
-## Description
+# Flavour Text
 That most legendary caravan bandit had
 one rule: never let them see you flinch.
 
-## Details
+# Details
 - Armour: 121
 - Movement Speed: -5.0%
 - Requires Level 16, 28 Str
@@ -16,9 +14,9 @@ one rule: never let them see you flinch.
 - (10-15) Life Regeneration per second
 - Moving while Bleeding doesn't cause you to take extra damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

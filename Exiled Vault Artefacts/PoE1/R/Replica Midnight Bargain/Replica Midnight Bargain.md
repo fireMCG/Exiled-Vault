@@ -1,12 +1,10 @@
-# Replica Midnight Bargain
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Midnight Bargain.png]]
 
-## Description
+# Flavour Text
 "Simply incredible. I caught an escaping test subject myself with swarms of burning skulls. Delightful!"
 - Researcher Olesya
 
-## Details
+# Details
 - Wand
 - Physical Damage: 13-23
 - Critical Strike Chance: 8.00%
@@ -21,9 +19,9 @@
 - Reserves 30% of Life
 - Cannot be used with Chaos Inoculation
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Olesya
 #Artefact

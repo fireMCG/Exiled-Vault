@@ -1,11 +1,9 @@
-# Snakepit
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Snakepit.png]]
 
-## Description
+# Flavour Text
 They wrap around you until your blood turns as cold as theirs.
 
-## Details
+# Details
 - Requires Level 32
 - (7-10)% increased Cast Speed
 - (20-30)% increased Spell Damage
@@ -16,9 +14,9 @@ They wrap around you until your blood turns as cold as theirs.
 - Right ring slot: Projectiles from Spells cannot Fork
 - Projectiles from Spells cannot Pierce
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

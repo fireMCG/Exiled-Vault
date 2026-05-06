@@ -1,13 +1,11 @@
-# Unlight Extant
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Unlight Extant.png]]
 
-## Description
+# Flavour Text
 Beyond the edge of existence, there
 shines violet, naught but pain...
 one lantern carries a single flame.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 17-32
 - Critical Strike Chance: 8.70%
@@ -20,9 +18,9 @@ one lantern carries a single flame.
 - Chaos Skills inflict up to 15 Withered Debuffs on Hit for (5-7) seconds
 - Cannot Inflict Wither on targets that are not on Full Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

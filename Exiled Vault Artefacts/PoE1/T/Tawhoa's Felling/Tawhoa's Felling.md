@@ -1,12 +1,10 @@
-# Tawhoa's Felling
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Tawhoa's Felling.png]]
 
-## Description
+# Flavour Text
 Strike with the might of a falling oak,
 and know that you never stand alone.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (269.5-308) to (402.5-460)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ and know that you never stand alone.
 - (20-30)% increased Stun Duration on Enemies
 - (20-30)% reduced Enemy Stun Threshold with this Weapon
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

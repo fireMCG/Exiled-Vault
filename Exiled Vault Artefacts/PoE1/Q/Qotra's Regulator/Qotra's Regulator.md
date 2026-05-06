@@ -1,11 +1,9 @@
-# Qotra's Regulator
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Qotra's Regulator.png]]
 
-## Description
+# Flavour Text
 Horrific experiments with corrupted flesh require careful management.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Evasion: (507-697)
 - Energy Shield: (104-144)
@@ -18,9 +16,9 @@ Horrific experiments with corrupted flesh require careful management.
 - Lose (10-15)% of Energy Shield when you deal a Critical Strike
 - Lose (10-15)% of Life when you deal a Critical Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Qotra
 #Artefact

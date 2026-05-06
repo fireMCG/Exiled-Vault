@@ -1,13 +1,11 @@
-# The Broken Elegy
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Broken Elegy.png]]
 
-## Description
+# Flavour Text
 Before they 'saved' their beloved leader, the Afarud
 tested their ritual on a dying man... but they made
 a fatal mistake. They did not bind him to an object.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 65-121
 - Critical Strike Chance: 7.50%
@@ -21,8 +19,8 @@ a fatal mistake. They did not bind him to an object.
 - When a nearby Minion dies, gain Rotten Bulwark equal to (7-9)% of its maximum Life
 - Minions gain (59-83)% of Physical Damage as Extra Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE1

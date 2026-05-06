@@ -1,12 +1,10 @@
-# Sekhema's Resolve (Cold)
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Sekhema's Resolve (Cold).png]]
 
-## Description
+# Flavour Text
 Though the Winter of the World shrouded the
 Vastiri in ice, we remained, unchanged.
 
-## Details
+# Details
 - Requires Level 40
 - (10-20)% increased Rarity of Items found
 - +(10-20) to all Attributes
@@ -14,9 +12,9 @@ Vastiri in ice, we remained, unchanged.
 - You can only Socket Sapphire Jewels in this item
 - Has 1 Jewel Socket (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

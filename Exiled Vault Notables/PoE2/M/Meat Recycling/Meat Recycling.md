@@ -1,10 +1,8 @@
-# Meat Recycling
-
-## Effects
+# Effects
 15% chance to not destroy Corpses when Consuming Corpses
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

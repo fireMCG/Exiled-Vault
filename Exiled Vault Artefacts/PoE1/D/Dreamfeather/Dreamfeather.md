@@ -1,14 +1,12 @@
-# Dreamfeather
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Dreamfeather.png]]
 
-## Description
+# Flavour Text
 She dances a dance beneath the shade,
 The twilight shroud her only blade,
 Who now hears her feathersteps flowing?
 Beneath the stars, the moondrops glowing.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (71-91) to (133-148)
 - Critical Strike Chance: 5.00%
@@ -23,9 +21,9 @@ Beneath the stars, the moondrops glowing.
 - +(280-300) to Accuracy Rating
 - 1% increased Attack Damage per 450 Evasion Rating
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

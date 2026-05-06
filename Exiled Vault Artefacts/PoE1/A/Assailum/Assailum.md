@@ -1,11 +1,9 @@
-# Assailum
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Assailum.png]]
 
-## Description
+# Flavour Text
 A moment of calm before the battle can end the war.
 
-## Details
+# Details
 - Evasion: (719-925)
 - Requires Level 64, 138 Dex
 - Grants Level 30 Snipe Skill
@@ -16,9 +14,9 @@ A moment of calm before the battle can end the war.
 - +2 to maximum Snipe Stages
 - +(14-20)% chance to Suppress Spell Damage while Channelling
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Delirium
 #Concept/War

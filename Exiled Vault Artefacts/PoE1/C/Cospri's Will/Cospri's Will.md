@@ -1,13 +1,11 @@
-# Cospri's Will
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cospri's Will.png]]
 
-## Description
+# Flavour Text
 Curse their vile Council,
 They cast me aside as if I am some bastard child.
 If they only knew the power I possess.
 
-## Details
+# Details
 - Evasion: (1842-2433)
 - Requires Level 68, 183 Dex
 - 3% increased Movement Speed
@@ -17,9 +15,9 @@ If they only knew the power I possess.
 - Your Hexes can affect Hexproof Enemies
 - Always Poison on Hit against Cursed Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

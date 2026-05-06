@@ -1,16 +1,14 @@
-# The Adventuring Spirit
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Adventuring Spirit.png]]
 
-## Description
+# Flavour Text
 Dost thou lead my men to victory, my child?
 
-## Reward
+# Reward
 Victario's Influence
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Victario
 #Category/DivinationCard
 #DivinationCard

@@ -1,13 +1,11 @@
-# Quecholli
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Quecholli.png]]
 
-## Description
+# Flavour Text
 "The finest prosperity grows from the direst
 carnage. Such is the nature of progress."
 - Doryani of the Vaal
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (124-155) to (150-187.5)
 - Critical Strike Chance: 8.00%
@@ -21,9 +19,9 @@ carnage. Such is the nature of progress."
 - This Weapon's Critical Hit Chance is 100%
 - Critical Hits do not deal extra Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

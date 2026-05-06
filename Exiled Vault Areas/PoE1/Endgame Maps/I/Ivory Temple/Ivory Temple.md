@@ -1,14 +1,12 @@
-# Ivory Temple
-
-## Description
+# Flavour Text
 Man and nature intertwined,
 
 but only for the chosen few.
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #EndgameMap
 #PoE1
-#Interesting

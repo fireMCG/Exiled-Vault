@@ -1,12 +1,10 @@
-# Footprints in the Sand
-
-## Effects
+# Effects
 Grants Skill: Temporal Rift
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Chronomancer
 #Sorceress
+#Notable
 #PoE2

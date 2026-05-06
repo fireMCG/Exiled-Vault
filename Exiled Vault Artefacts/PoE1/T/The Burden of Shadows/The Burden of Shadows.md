@@ -1,12 +1,10 @@
-# The Burden of Shadows
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Burden of Shadows.png]]
 
-## Description
+# Flavour Text
 Nothingness is loathe to relinquish its grip.
 Every moment is a struggle to exist.
 
-## Details
+# Details
 - Staff
 - Physical Damage: 55-165
 - Critical Strike Chance: 8.00%
@@ -19,9 +17,9 @@ Every moment is a struggle to exist.
 - Lose 500 Life per second
 - Spells deal added Chaos Damage equal to (15-20)% of your maximum Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Cluster Jewel Chance
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Cluster Jewel Chance.webp]]
 
-## Effects
+# Effects
 Delirium Monsters in your Maps have 10% increased chance to drop Cluster Jewels
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

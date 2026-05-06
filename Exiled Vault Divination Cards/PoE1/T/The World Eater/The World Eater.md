@@ -1,16 +1,14 @@
-# The World Eater
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The World Eater.png]]
 
-## Description
+# Flavour Text
 Its body knows no limits. Its appetite knows no bounds.
 
-## Reward
+# Reward
 Starforge
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Eldritch/EaterOfWorlds
 #Concept/Hunger
 #Concept/Tangle

@@ -1,18 +1,16 @@
-# The Hook
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Hook.png]]
 
-## Description
+# Flavour Text
 Every obsession began with a single, innocent taste.
 
-## Reward
+# Reward
 Level 21 Transfigured Gem
 Quality: +23%
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Animal/Fish
 #Concept/Virtue/Gem

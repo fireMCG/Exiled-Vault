@@ -1,12 +1,10 @@
-# Delirium Additional Splinters
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Delirium Additional Splinters.webp]]
 
-## Effects
+# Effects
 6% increased Stack size of Simulacrum Splinters found in your Maps
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

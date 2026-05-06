@@ -1,10 +1,8 @@
-# Burning Strikes
-
-## Effects
+# Effects
 Gain 12% of Physical Damage as Extra Fire Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# Atziri's Reflection
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Atziri's Reflection.png]]
 
-## Description
+# Flavour Text
 "At last, my beauty is beyond reproach."
 - Atziri, Queen of the Vaal
 
-## Details
+# Details
 - Chance to Block: 25%
 - Evasion: (991-1221)
 - Energy Shield: (180-200)
@@ -21,9 +19,9 @@
 - Unaffected by Curses
 - (15-20)% increased Effect of your Curses
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Atziri
 #Concept/Mirror

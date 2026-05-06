@@ -1,12 +1,10 @@
-# Omeyocan
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Omeyocan.png]]
 
-## Description
+# Flavour Text
 Only a fool seeks meaning
 in a life so fleeting.
 
-## Details
+# Details
 - Evasion: (99-117)
 - Energy Shield: (20-24)
 - Requires Level 55, 52 Dex, 52 Int
@@ -17,9 +15,9 @@ in a life so fleeting.
 - You have Onslaught while not on Low Mana
 - Lose 7% of Mana per Second
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

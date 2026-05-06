@@ -1,12 +1,10 @@
-# Wideswing
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Wideswing.png]]
 
-## Description
+# Flavour Text
 Bargg Wurmkin once severed the heads
 of seven men in a single cleave.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (63.8-75.4) to (94.6-111.8)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ of seven men in a single cleave.
 - +(120-150) to Accuracy Rating
 - +0.2 metres to Weapon Range
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

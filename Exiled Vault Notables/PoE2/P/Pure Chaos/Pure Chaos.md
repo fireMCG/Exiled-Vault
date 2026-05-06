@@ -1,10 +1,8 @@
-# Pure Chaos
-
-## Effects
+# Effects
 Gain 11% of Damage as Extra Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

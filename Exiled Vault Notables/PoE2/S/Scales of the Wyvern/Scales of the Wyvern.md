@@ -1,12 +1,10 @@
-# Scales of the Wyvern
-
-## Effects
+# Effects
 20% faster start of Energy Shield Recharge while Shapeshifted
 20% increased Energy Shield Recharge Rate while Shapeshifted
 +1% to Maximum Lightning Resistance while Shapeshifted
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

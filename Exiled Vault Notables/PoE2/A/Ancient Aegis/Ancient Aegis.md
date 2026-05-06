@@ -1,11 +1,9 @@
-# Ancient Aegis
-
-## Effects
+# Effects
 60% increased Armour from Equipped Body Armour
 60% increased Energy Shield from Equipped Body Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

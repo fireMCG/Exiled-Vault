@@ -1,12 +1,10 @@
-# Lioneye's Glare
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Lioneye's Glare.png]]
 
-## Description
+# Flavour Text
 "See without doubt, slay without hesitation."
 - Marceus Lioneye of Sarn
 
-## Details
+# Details
 - Bow
 - Physical Damage: (100.8-129) to (394.8-453)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@
 - Hits can't be Evaded
 - Far Shot
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

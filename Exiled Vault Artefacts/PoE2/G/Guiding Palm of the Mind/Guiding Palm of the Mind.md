@@ -1,14 +1,12 @@
-# Guiding Palm of the Mind
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Guiding Palm of the Mind.png]]
 
-## Description
+# Flavour Text
 "Deep in thought, you would tremble the very air before you.
 Wreathed in light, you nurtured them all.
 And yet... Your nature became you."
 The Dreamer mused with aching heart, as remnants of forking tendrils burst forth.
 
-## Details
+# Details
 - Sceptre
 - Spirit: 100
 - Requires Level 65, 32 Str, 80 Int
@@ -20,9 +18,9 @@ The Dreamer mused with aching heart, as remnants of forking tendrils burst forth
 - 25% increased Light Radius
 - Grants effect of Guided Tempest Shrine
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

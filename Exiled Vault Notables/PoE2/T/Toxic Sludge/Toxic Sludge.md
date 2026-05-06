@@ -1,10 +1,8 @@
-# Toxic Sludge
-
-## Effects
+# Effects
 40% increased Duration of Poisons you inflict against Slowed Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

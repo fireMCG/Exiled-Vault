@@ -1,8 +1,6 @@
-# Unrelenting Timeless Eternal Emblem
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Unrelenting Timeless Eternal Emblem.webp]]
 
-## Details
+# Details
 Map Fragments
 Portal: Domain of Timeless Conflict
 Area Level: 80
@@ -17,8 +15,8 @@ Monsters gain 3% additional Critical Strike Multiplier each time they are Revive
 10% improved Rewards
 Place two or more different Emblems in a Map Device to access the Domain of Timeless Conflict. Can only be used once. While viewing your Atlas, Right-click this item to pinpoint its location.
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

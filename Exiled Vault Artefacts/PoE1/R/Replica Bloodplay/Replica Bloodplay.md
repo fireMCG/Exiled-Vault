@@ -1,12 +1,10 @@
-# Replica Bloodplay
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Bloodplay.png]]
 
-## Description
+# Flavour Text
 "Prototype #131 must never be allowed near anyone who bears a wound, no
 matter how slight. Even a tiny cut makes it exponentially more dangerous."
 
-## Details
+# Details
 - Dagger
 - Physical Damage: (12-18.2) to (43.2-56)
 - Critical Strike Chance: 8.30%
@@ -21,9 +19,9 @@ matter how slight. Even a tiny cut makes it exponentially more dangerous."
 - (100-150)% increased Critical Strike Chance against Bleeding Enemies
 - Extra gore
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

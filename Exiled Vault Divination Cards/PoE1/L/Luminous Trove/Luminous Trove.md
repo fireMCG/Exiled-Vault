@@ -1,8 +1,6 @@
-# Luminous Trove
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Luminous Trove.png]]
 
-## Description
+# Flavour Text
 Plenty enter, dreaming of treasure
 Twenty bled, slain as they fled
 Shadows loom, half left doomed
@@ -11,13 +9,13 @@ Careless twins, a lich's new prize
 One as a decoy, none pass the king
 Gehennix feeds only on whispers
 
-## Reward
+# Reward
 Voices
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Crystal
 #Concept/Night/Dream
 #Category/DivinationCard

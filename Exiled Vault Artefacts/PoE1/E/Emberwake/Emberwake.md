@@ -1,11 +1,9 @@
-# Emberwake
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Emberwake.png]]
 
-## Description
+# Flavour Text
 Leave the world in flames behind you.
 
-## Details
+# Details
 - Requires Level 16
 - +(20-30)% to Fire Resistance
 - (30-40)% increased Fire Damage
@@ -14,9 +12,9 @@ Leave the world in flames behind you.
 - 40% less Burning Damage
 - You can inflict an additional Ignite on each Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

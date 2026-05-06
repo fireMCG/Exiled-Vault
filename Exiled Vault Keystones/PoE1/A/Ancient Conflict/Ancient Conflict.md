@@ -1,12 +1,10 @@
-# Ancient Conflict
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Ancient Conflict.webp]]
 
-## Effects
+# Effects
 Abyssal Troves and Stygian Spires in your Maps have 10% chance to drop an Abyss Scarab
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

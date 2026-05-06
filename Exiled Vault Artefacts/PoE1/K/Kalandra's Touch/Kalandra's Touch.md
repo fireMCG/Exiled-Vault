@@ -1,18 +1,16 @@
-# Kalandra's Touch
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kalandra's Touch.png]]
 
-## Description
+# Flavour Text
 On one hand, you have a choice.
 On the other, you have its twin.
 
-## Details
+# Details
 - Reflects opposite Ring
 - Mirrored
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

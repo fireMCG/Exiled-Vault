@@ -1,10 +1,8 @@
-# Tribal Fury
-
-## Effects
+# Effects
 Strikes deal Splash Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

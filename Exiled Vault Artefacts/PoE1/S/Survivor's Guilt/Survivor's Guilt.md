@@ -1,12 +1,10 @@
-# Survivor's Guilt
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Survivor's Guilt.png]]
 
-## Description
+# Flavour Text
 The burden falls heaviest not on those that died,
 but on those that did not.
 
-## Details
+# Details
 - Requires Level 52
 - +(25-35) to Strength
 - +(800-1200) to Armour
@@ -15,9 +13,9 @@ but on those that did not.
 - 10% reduced Armour per 50 Strength
 - Imbalanced Guard
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

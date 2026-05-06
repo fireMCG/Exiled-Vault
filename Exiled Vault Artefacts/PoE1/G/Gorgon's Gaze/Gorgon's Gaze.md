@@ -1,12 +1,10 @@
-# Gorgon's Gaze
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Gorgon's Gaze.png]]
 
-## Description
+# Flavour Text
 Men always fell for her honeyed eyes,
 and broke when they hit the ground.
 
-## Details
+# Details
 - Evasion: (141-158)
 - Energy Shield: (87-112)
 - Requires Level 52, 58 Dex, 58 Int
@@ -17,9 +15,9 @@ and broke when they hit the ground.
 - 5% additional Physical Damage Reduction while moving
 - 5% reduced Elemental Damage taken while stationary
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

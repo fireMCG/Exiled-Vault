@@ -1,11 +1,9 @@
-# Seeing Stars
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Seeing Stars.png]]
 
-## Description
+# Flavour Text
 Within lies a window.
 
-## Details
+# Details
 - One Hand Mace
 - Physical Damage: 33-69
 - Elemental Damage: (12-16) to (22-25), 1 to (40-45)
@@ -18,9 +16,9 @@ Within lies a window.
 - (10-20)% increased Attack Speed
 - Energy Generation is doubled
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

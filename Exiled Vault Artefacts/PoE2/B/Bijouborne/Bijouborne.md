@@ -1,11 +1,9 @@
-# Bijouborne
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Bijouborne.png]]
 
-## Description
+# Flavour Text
 Trifle not with the trinket mage.
 
-## Details
+# Details
 - Requires Level 44
 - Grants Skill: Level (11-20) Cast on Charm Use
 - Has (1-3) Charm Slots
@@ -16,9 +14,9 @@ Trifle not with the trinket mage.
 - +(15-25) to Dexterity
 - (20-30)% increased Charm Charges gained
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

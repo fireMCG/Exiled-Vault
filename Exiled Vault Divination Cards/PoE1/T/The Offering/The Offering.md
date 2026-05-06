@@ -1,16 +1,14 @@
-# The Offering
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Offering.png]]
 
-## Description
+# Flavour Text
 Eternal beauty has a cost, one which Shavronne was happy to pay with the lives of others.
 
-## Reward
+# Reward
 Shavronne's Wrappings
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

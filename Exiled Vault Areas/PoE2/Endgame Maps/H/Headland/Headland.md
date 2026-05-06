@@ -1,13 +1,11 @@
-# Headland
-
-## Description
+# Flavour Text
 Sturdy walls held out an armada, but not the famine it brought.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

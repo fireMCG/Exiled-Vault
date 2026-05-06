@@ -1,10 +1,8 @@
-# Archon of the Storm
-
-## Effects
+# Effects
 Gain Elemental Archon after spending 100% of your Maximum Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

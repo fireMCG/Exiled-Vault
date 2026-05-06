@@ -1,12 +1,10 @@
-# Lethal Extraction
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Lethal Extraction.webp]]
 
-## Effects
+# Effects
 Executing Immortal Syndicate Members in your Maps grants intelligence to their current division equal to 2 times their Rank
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

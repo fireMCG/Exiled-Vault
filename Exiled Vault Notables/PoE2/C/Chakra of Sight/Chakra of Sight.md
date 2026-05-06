@@ -1,12 +1,10 @@
-# Chakra of Sight
-
-## Effects
+# Effects
 20% increased Light Radius
 Cannot be Blinded
 12% chance to Blind Enemies on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

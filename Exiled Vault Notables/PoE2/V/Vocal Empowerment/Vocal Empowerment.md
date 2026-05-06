@@ -1,10 +1,8 @@
-# Vocal Empowerment
-
-## Effects
+# Effects
 Warcries Empower an additional Attack
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

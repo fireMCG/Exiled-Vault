@@ -1,14 +1,12 @@
-# Olroth's Resolve
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Olroth's Resolve.png]]
 
-## Description
+# Flavour Text
 Olroth the Gallant,
 tireless and true,
 he fights for me,
 he fights for you!
 
-## Details
+# Details
 - Lasts 4.00 Seconds
 - Consumes (56-60) of 60 Charges on use
 - +200 to Ward
@@ -19,9 +17,9 @@ he fights for you!
 - 85% less Ward during Effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Olroth
 #Artefact

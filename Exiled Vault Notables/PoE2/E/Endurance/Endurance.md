@@ -1,10 +1,8 @@
-# Endurance
-
-## Effects
+# Effects
 +2 to Maximum Endurance Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

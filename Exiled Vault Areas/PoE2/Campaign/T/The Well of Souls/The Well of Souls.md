@@ -1,15 +1,13 @@
-# The Well of Souls
-
-## Description
+# Flavour Text
 An endless swirling vortex of souls calls you forward.
 
-## Connected Areas
+# Connected Areas
 - Lightless Passage
 - The Black Cathedral
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

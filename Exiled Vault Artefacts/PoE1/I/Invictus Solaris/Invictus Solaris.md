@@ -1,11 +1,9 @@
-# Invictus Solaris
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Invictus Solaris.png]]
 
-## Description
+# Flavour Text
 Eternal soldiers fight for glory or death. Solaris vanguard know only glory.
 
-## Details
+# Details
 - Chance to Block: 22%
 - Armour: (468-626)
 - Energy Shield: (96-129)
@@ -18,9 +16,9 @@ Eternal soldiers fight for glory or death. Solaris vanguard know only glory.
 - +(60-80) to maximum Life
 - Cannot be Ignited
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

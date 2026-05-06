@@ -1,14 +1,12 @@
-# Vis Mortis
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Vis Mortis.png]]
 
-## Description
+# Flavour Text
 Reap what others have sown
 Muster them from their graves
 Parade them for your pleasure
 Zealots in mortis enslaved
 
-## Details
+# Details
 - Energy Shield: (198-234)
 - Movement Speed: -3.0%
 - Requires Level 58, 92 Int
@@ -17,9 +15,9 @@ Zealots in mortis enslaved
 - Minions have 50% reduced maximum Life
 - Minions have Unholy Might
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Skysliver
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Skysliver.png]]
 
-## Description
+# Flavour Text
 Heads fall to the sand, just as the star fell from the sky
 
-## Details
+# Details
 - Spear
 - Elemental Damage: 1 to (80-120)
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ Heads fall to the sand, just as the star fell from the sky
 - (50-100)% increased chance to Shock
 - Rolls only the minimum or maximum Damage value for each Damage Type
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

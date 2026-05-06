@@ -1,18 +1,16 @@
-# Lonely Warrior
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Lonely Warrior.png]]
 
-## Description
+# Flavour Text
 A true warrior fights
 for those who cannot
 fight for themselves.
 
-## Reward
+# Reward
 Defiance of Destiny
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

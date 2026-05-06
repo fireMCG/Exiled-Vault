@@ -1,16 +1,14 @@
-# The Betrayal
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Betrayal.png]]
 
-## Description
+# Flavour Text
 It's sad times we live in when a friendship has a price people are willing to pay.
 
-## Reward
+# Reward
 Maligaro's Virtuosity
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Maligaro
 #Category/DivinationCard
 #DivinationCard

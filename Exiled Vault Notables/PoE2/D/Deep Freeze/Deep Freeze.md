@@ -1,11 +1,9 @@
-# Deep Freeze
-
-## Effects
+# Effects
 20% increased Freeze Buildup
 Enemies Frozen by you have -8% to Cold Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

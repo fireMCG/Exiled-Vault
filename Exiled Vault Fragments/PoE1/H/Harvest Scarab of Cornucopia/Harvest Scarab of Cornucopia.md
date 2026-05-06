@@ -1,11 +1,9 @@
-# Harvest Scarab of Cornucopia
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Harvest Scarab of Cornucopia.webp]]
 
-## Description
+# Flavour Text
 The taller the tree, the better the fruit.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,9 +11,9 @@ If Area contains the Sacred Grove, it will contain up to 1 additional Tier 4 see
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Harvest
 #Category/Scarab
 #Fragment

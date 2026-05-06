@@ -1,15 +1,13 @@
-# Mawdun Quarry
-
-## Description
+# Flavour Text
 The Faridun toiled away for reasons unknown.
 
-## Connected Areas
+# Connected Areas
 - The Ardura Caravan
 - Mawdun Mine
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

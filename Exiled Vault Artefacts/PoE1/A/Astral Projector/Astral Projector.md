@@ -1,11 +1,9 @@
-# Astral Projector
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Astral Projector.png]]
 
-## Description
+# Flavour Text
 The body stands, but the spirit soars.
 
-## Details
+# Details
 - Requires Level 40
 - +(20-30)% to Lightning Resistance
 - +(30-50) to Intelligence
@@ -14,9 +12,9 @@ The body stands, but the spirit soars.
 - Nova Spells have 20% less Area of Effect
 - Nova Spells Cast at the targeted location instead of around you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Body/Flesh
 #Concept/Spirit

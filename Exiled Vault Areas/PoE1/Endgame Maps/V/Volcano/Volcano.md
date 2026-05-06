@@ -1,11 +1,9 @@
-# Volcano
-
-## Description
+# Flavour Text
 Tremble in the might of the flames.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

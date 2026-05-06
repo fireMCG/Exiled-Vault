@@ -1,11 +1,9 @@
-# Callinellus Malleus
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Callinellus Malleus.png]]
 
-## Description
+# Flavour Text
 To neither ebb nor flow, but weather the rising tide, outlast, unshifting and unshifted, until the waters recede and we stand together.
 
-## Details
+# Details
 - One Handed Mace
 - Physical Damage: (175-225) to (242.5-315)
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ To neither ebb nor flow, but weather the rising tide, outlast, unshifting and un
 - Cannot Knock Enemies Back
 - All Attack Damage Chills when you Stun
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

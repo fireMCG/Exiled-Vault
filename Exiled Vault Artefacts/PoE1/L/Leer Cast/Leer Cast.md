@@ -1,11 +1,9 @@
-# Leer Cast
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Leer Cast.png]]
 
-## Description
+# Flavour Text
 For none of us are as cruel as all of us.
 
-## Details
+# Details
 - Evasion: (77-88)
 - Energy Shield: (17-19)
 - Requires Level 28, 33 Dex, 33 Int
@@ -15,9 +13,9 @@ For none of us are as cruel as all of us.
 - +(60-100) to maximum Mana
 - You and nearby allies gain 50% increased Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

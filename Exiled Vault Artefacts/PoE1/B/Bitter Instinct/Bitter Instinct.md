@@ -1,12 +1,10 @@
-# Bitter Instinct
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bitter Instinct.png]]
 
-## Description
+# Flavour Text
 We isolate ourselves to hide our long held pain.
 We lash out, when all we want is an end to loneliness.
 
-## Details
+# Details
 - Chance to Block: 27%
 - Armour: (415-619)
 - Evasion: (415-619)
@@ -19,9 +17,9 @@ We lash out, when all we want is an end to loneliness.
 - Damaging Retaliation Skills become Usable every 4 seconds
 - Retaliation Skills become Usable for (50-100)% longer
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Emotion/Loneliness
 #Artefact

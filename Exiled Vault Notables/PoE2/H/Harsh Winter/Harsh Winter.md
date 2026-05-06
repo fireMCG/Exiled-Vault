@@ -1,11 +1,9 @@
-# Harsh Winter
-
-## Effects
+# Effects
 8% increased Cast Speed with Cold Skills
 16% increased Skill Effect Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

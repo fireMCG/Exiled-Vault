@@ -1,12 +1,10 @@
-# The Sentry
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Sentry.png]]
 
-## Description
+# Flavour Text
 The night Draven attacked,
 Erian was asleep at his post.
 
-## Details
+# Details
 - Quartertaff
 - Elemental Damage: (25-32) to (40-50)
 - Critical Strike Chance: 12.00%
@@ -20,9 +18,9 @@ Erian was asleep at his post.
 - 100% increased Flammability Magnitude
 - 30% increased Light Radius
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

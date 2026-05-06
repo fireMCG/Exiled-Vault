@@ -1,11 +1,9 @@
-# Surefooted Sigil
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Surefooted Sigil.png]]
 
-## Description
+# Flavour Text
 Natural grace is born, not earned.
 
-## Details
+# Details
 - Requires Level 8
 - +(10-15) to Dexterity
 - +(40-60) to maximum Life
@@ -13,9 +11,9 @@ Natural grace is born, not earned.
 - +1 metre to Dodge Roll distance
 - 50% increased Evasion Rating if you've Dodge Rolled Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

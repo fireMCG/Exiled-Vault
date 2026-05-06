@@ -1,13 +1,11 @@
-# White Wind
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - White Wind.png]]
 
-## Description
+# Flavour Text
 The Maraketh fear very little,
 but they dare not whisper the name
 of the demon that flies on Winter's gales.
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: 18-73
 - Elemental Damage: (160-190) to (280-320)
@@ -22,9 +20,9 @@ of the demon that flies on Winter's gales.
 - +(30-40)% chance to Suppress Spell Damage while your Off Hand is empty
 - (100-200)% increased Cold Damage while your Off Hand is empty
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

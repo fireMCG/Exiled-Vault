@@ -1,16 +1,14 @@
-# The Sceptre of God
-
-## Description
+# Flavour Text
 The pinnacle of power. The height of hubris.
 
-## Connected Areas
+# Connected Areas
 - The Imperial Gardens
 - The Upper Sceptre of God
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

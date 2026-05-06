@@ -1,11 +1,9 @@
-# Delirium Scarab of Paranoia
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Delirium Scarab of Paranoia.webp]]
 
-## Description
+# Flavour Text
 If it seems too good to be true...
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 5
@@ -13,9 +11,9 @@ Delirium Encounters in Area generate 2 additional Reward types
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Delirium
 #Category/Scarab
 #Fragment

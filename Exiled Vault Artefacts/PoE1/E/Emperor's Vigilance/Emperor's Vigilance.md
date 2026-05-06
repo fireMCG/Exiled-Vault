@@ -1,11 +1,9 @@
-# Emperor's Vigilance
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Emperor's Vigilance.png]]
 
-## Description
+# Flavour Text
 Chitus' success stemmed from his cunning, taking calculated risks so that greater dangers could be averted.
 
-## Details
+# Details
 - Chance to Block: 26%
 - Armour: (1606-1837)
 - Energy Shield: (330-385)
@@ -17,9 +15,9 @@ Chitus' success stemmed from his cunning, taking calculated risks so that greate
 - Damage taken from Unblocked hits always bypasses Energy Shield
 - Glancing Blows
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

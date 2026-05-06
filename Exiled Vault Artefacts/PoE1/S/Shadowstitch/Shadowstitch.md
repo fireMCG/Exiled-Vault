@@ -1,11 +1,9 @@
-# Shadowstitch
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Shadowstitch.png]]
 
-## Description
+# Flavour Text
 Destined for sacrifice, they were dressed in garments that blurred the lines between this world and the next.
 
-## Details
+# Details
 - Armour: (1151-1701)
 - Evasion: (1151-1701)
 - Energy Shield: (234-346)
@@ -22,9 +20,9 @@ Destined for sacrifice, they were dressed in garments that blurred the lines bet
 - Has 6 Linked Sockets (Hidden)
 - Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

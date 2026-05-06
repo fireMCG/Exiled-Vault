@@ -1,13 +1,11 @@
-# Replica Dreamfeather
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Dreamfeather.png]]
 
-## Description
+# Flavour Text
 "Once we armoured the test subject heavily enough to test Prototype #502, he proceeded
 to fight his way out. I don't know what we expected."
 - Researcher Graven
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (81-106) to (138-168)
 - Critical Strike Chance: 5.00%
@@ -22,9 +20,9 @@ to fight his way out. I don't know what we expected."
 - +(280-300) to Accuracy Rating
 - 1% increased Attack Damage per 450 Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Graven
 #Artefact

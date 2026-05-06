@@ -1,14 +1,12 @@
-# Arborix
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Arborix.png]]
 
-## Description
+# Flavour Text
 Through droughts, fires, floods and frost,
 the ancient giants stand resolute,
 while deep in the rich, dark earth,
 their grasp stretches ever farther.
 
-## Details
+# Details
 - Bow
 - Physical Damage: (123-143) to (330-355)
 - Critical Strike Chance: 6.70%
@@ -24,9 +22,9 @@ their grasp stretches ever farther.
 - Travel Skills other than Dash are Disabled
 - Iron Reflexes
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Bloodline/Titan
 #Concept/Cataclysm

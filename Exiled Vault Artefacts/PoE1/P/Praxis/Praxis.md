@@ -1,14 +1,12 @@
-# Praxis
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Praxis.png]]
 
-## Description
+# Flavour Text
 The Thaumaturgical masters of the Eternal Empire,
 as unpredictable and varied as they were,
 all understood one thing:
 Free thinking leads to free action.
 
-## Details
+# Details
 - Requires Level 22
 - +(20-30) to maximum Mana
 - +(30-60) to maximum Mana
@@ -16,9 +14,9 @@ Free thinking leads to free action.
 - -(8-4) to Total Mana Cost of Skills
 - 8% of Damage taken Recouped as Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

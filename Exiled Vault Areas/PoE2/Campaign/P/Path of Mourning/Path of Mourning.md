@@ -1,15 +1,13 @@
-# Path of Mourning
-
-## Description
+# Flavour Text
 Countless feet have tread upon these stones... not all of them living.
 
-## Connected Areas
+# Connected Areas
 - Deshar
 - The Spires of Deshar
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

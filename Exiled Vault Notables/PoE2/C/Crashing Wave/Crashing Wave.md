@@ -1,10 +1,8 @@
-# Crashing Wave
-
-## Effects
+# Effects
 36% increased Damage if you've dealt a Critical Hit in the past 8 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

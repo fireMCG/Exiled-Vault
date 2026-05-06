@@ -1,12 +1,10 @@
-# Crest of Ardura
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Crest of Ardura.png]]
 
-## Description
+# Flavour Text
 When the Red Sekhema called,
 the Ardura were the first to answer.
 
-## Details
+# Details
 - Shield
 - Chance to Block: 25%
 - Armour: (65-82)
@@ -19,9 +17,9 @@ the Ardura were the first to answer.
 - (30-50)% increased Mana Regeneration Rate
 - (30-50)% increased Cooldown Recovery Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

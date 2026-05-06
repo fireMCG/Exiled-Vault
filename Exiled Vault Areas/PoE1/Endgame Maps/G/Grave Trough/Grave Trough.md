@@ -1,13 +1,11 @@
-# Grave Trough
-
-## Description
+# Flavour Text
 Does the land reject the dead,
 
 or do the dead reject their fate?
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

@@ -1,12 +1,10 @@
-# Replica Abyssus
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Abyssus.png]]
 
-## Description
+# Flavour Text
 "While Prototype #3 does imbue its wearer with strength to match the original,
 the first researcher to don it burst into flames when he walked into sunlight..."
 
-## Details
+# Details
 - Armour: (692-838)
 - Requires Level 60, 138 Str
 - +(20-25) to all Attributes
@@ -17,9 +15,9 @@ the first researcher to don it burst into flames when he walked into sunlight...
 - (100-120)% increased Armour
 - (40-50)% increased Elemental Damage taken
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

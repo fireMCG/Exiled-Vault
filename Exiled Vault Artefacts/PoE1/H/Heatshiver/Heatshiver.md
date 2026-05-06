@@ -1,13 +1,11 @@
-# Heatshiver
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Heatshiver.png]]
 
-## Description
+# Flavour Text
 Give of your heated passions.
 Give of your cold resolve.
 You will be repaid.
 
-## Details
+# Details
 - Evasion: (181-254)
 - Requires Level 20, 46 Dex
 - (80-100)% increased Evasion Rating
@@ -17,9 +15,9 @@ You will be repaid.
 - Gain 1% of Cold Damage as Extra Fire Damage per 1% Chill Effect on Enemy
 - Gain 30% of Cold Damage as Extra Fire Damage against Frozen Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Molten Vault
-
-## Description
+# Flavour Text
 The cult of Kamasa exploited Utzaal long before its fall.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

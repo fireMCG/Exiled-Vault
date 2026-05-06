@@ -1,20 +1,18 @@
-# Demigod's Immortality
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Demigod's Immortality.png]]
 
-## Description
+# Flavour Text
 The champion's name echoes through time,
 drowning out the whispers of the defeated.
 
-## Details
+# Details
 - Requires Level 12
 - +(8-16)% to all Elemental Resistances
 - +(20-30) to all Attributes
 - 10% increased Character Size
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

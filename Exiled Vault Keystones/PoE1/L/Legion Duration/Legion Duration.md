@@ -1,12 +1,10 @@
-# Legion Duration
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Legion Duration.webp]]
 
-## Effects
+# Effects
 Legion Encounters in your Maps have 20% increased Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

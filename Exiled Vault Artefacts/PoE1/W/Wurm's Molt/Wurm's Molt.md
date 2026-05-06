@@ -1,12 +1,10 @@
-# Wurm's Molt
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Wurm's Molt.png]]
 
-## Description
+# Flavour Text
 They say a lifetime of wisdom is carried
 in every skin the great beasts shed.
 
-## Details
+# Details
 - Requires Level 41
 - +(25-40) to maximum Life
 - +(20-30) to Strength
@@ -17,9 +15,9 @@ in every skin the great beasts shed.
 - (500-1000)% increased total Recovery per second from Life Leech
 - (500-1000)% increased total Recovery per second from Mana Leech
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

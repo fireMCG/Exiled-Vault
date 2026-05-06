@@ -1,12 +1,10 @@
-# Hyrri's Demise
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hyrri's Demise.png]]
 
-## Description
+# Flavour Text
 Hyrri's quick thinking led to victory,
 but it came at the cost of respect.
 
-## Details
+# Details
 - Requires Level 45
 - Gain (6-8) Life per Enemy Hit with Attacks
 - +(15-30) to all Attributes
@@ -17,9 +15,9 @@ but it came at the cost of respect.
 - Adds 1 to 2 Fire Damage to Attacks per 10 Strength
 - Adds 0 to 3 Lightning Damage to Attacks per 10 Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

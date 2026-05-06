@@ -1,11 +1,9 @@
-# Voidheart
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Voidheart.png]]
 
-## Description
+# Flavour Text
 Nothing spreads fear faster than the unknown.
 
-## Details
+# Details
 - Requires Level 48
 - Adds 1 to 4 Physical Damage to Attacks
 - 5% increased Global Physical Damage
@@ -16,9 +14,9 @@ Nothing spreads fear faster than the unknown.
 - Melee Attacks have (30-50)% chance to cause Bleeding
 - Melee Attacks have (20-40)% chance to Poison on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

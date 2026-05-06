@@ -1,12 +1,10 @@
-# Replica Alberon's Warpath
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Alberon's Warpath.png]]
 
-## Description
+# Flavour Text
 "Starving test subject became completely incapable of exerting force.
 However, after being fed, he began to poison everything he touched..."
 
-## Details
+# Details
 - Armour: (268-319)
 - Energy Shield: (18-20)
 - Requires Level 49, 47 Str, 47 Int
@@ -17,9 +15,9 @@ However, after being fed, he began to poison everything he touched..."
 - Cannot deal non-Chaos Damage
 - Adds 1 to 80 Chaos Damage to Attacks per 80 Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

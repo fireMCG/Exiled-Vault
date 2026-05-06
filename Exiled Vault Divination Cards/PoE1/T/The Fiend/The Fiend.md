@@ -1,20 +1,18 @@
-# The Fiend
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Fiend.png]]
 
-## Description
+# Flavour Text
 Your era is now,
 your power unwavered, 
 soon we will see
 who the gods truly favoured.
 
-## Reward
+# Reward
 Headhunter
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Animal/Mythological/Dragon
 #Concept/Eclipse

@@ -1,12 +1,10 @@
-# Storm Prison
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Storm Prison.png]]
 
-## Description
+# Flavour Text
 You can never truly tame the tempest.
 You can barely even leash it.
 
-## Details
+# Details
 - Wand
 - Physical Damage: (15.4-17.6) to (44.8-51.2)
 - Elemental Damage: 1 to (35-45)
@@ -20,9 +18,9 @@ You can barely even leash it.
 - +1 to Maximum Power Charges
 - (25-35)% chance to gain a Power Charge on Kill
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

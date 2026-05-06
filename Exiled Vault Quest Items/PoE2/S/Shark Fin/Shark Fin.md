@@ -1,13 +1,11 @@
-# Shark Fin
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Shark Fin.png]]
 
-## Description
+# Flavour Text
 The sea gave it strength. Now it serves a greater purpose.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE2

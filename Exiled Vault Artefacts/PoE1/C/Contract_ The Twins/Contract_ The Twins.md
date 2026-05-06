@@ -1,12 +1,10 @@
-# Contract: The Twins
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Contract_ The Twins.png]]
 
-## Description
+# Flavour Text
 "The Vox speak in threats.
 We will answer them with action."
 
-## Details
+# Details
 - Client: Kurai
 - Heist Target: Defeat the Vox Twins
 - Area Level: 83
@@ -14,8 +12,8 @@ We will answer them with action."
 - Requires Kurai, the Administrator
 - Give this Contract to Adiyah in the Rogue Harbour to embark on the Heist.
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE1

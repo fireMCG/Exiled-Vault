@@ -1,11 +1,9 @@
-# Deathblow
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Deathblow.png]]
 
-## Description
+# Flavour Text
 Anticipation is a gift.
 
-## Details
+# Details
 - Armour: (74-92)
 - Evasion: (66-82)
 - Requires Level 33, 24 Str, 24 Dex
@@ -15,9 +13,9 @@ Anticipation is a gift.
 - Gain (20-30) Mana per enemy killed
 - Culling Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

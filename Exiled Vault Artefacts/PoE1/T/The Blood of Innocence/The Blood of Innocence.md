@@ -1,13 +1,11 @@
-# The Blood of Innocence
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Blood of Innocence.png]]
 
-## Description
+# Flavour Text
 "After weeks of being pursued, the veiled traveller made her stand in a sandstorm.
 Somehow, she wounded a god. Innocence relented; his brother and the traveller made
 good their escape." - Lycia, the Heretic
 
-## Details
+# Details
 - Requires Level 64
 - The Herald of the Scourge deals 50% more Damage
 - The Herald of the Scourge takes 50% less Damage
@@ -16,9 +14,9 @@ good their escape." - Lycia, the Heretic
 - Unmodifiable
 - Place this item on the Relic Altar at the start of each Sanctum run
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

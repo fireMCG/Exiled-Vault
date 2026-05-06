@@ -1,19 +1,17 @@
-# Harmony of Souls
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Harmony of Souls.png]]
 
-## Description
+# Flavour Text
 Shrieking souls locked away 
 Hate splits frozen cells asunder 
 The knot of corruption
 undone at last
 
-## Reward
+# Reward
 9x Shrieking Essence
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Corruption
 #Concept/Essence
 #Concept/Soul

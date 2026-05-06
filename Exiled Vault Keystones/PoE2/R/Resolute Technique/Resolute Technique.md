@@ -1,17 +1,15 @@
-# Resolute Technique
-
 ![[Exiled Vault Keystones/_Images/PoE2 - Resolute Technique.webp]]
 
-## Description
+# Flavour Text
 Great tacticians learn that consistency often trumps potential.
 
-## Effects
+# Effects
 Accuracy Rating is Doubled
 Never deal Critical Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE2

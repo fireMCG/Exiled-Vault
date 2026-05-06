@@ -1,11 +1,9 @@
-# Cragfall
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cragfall.png]]
 
-## Description
+# Flavour Text
 The largest rock leaves the deepest mark.
 
-## Details
+# Details
 - Requires Level 5
 - 1 to 4 Added Physical Damage with Bow Attacks
 - (20-25)% reduced Enemy Stun Threshold
@@ -14,9 +12,9 @@ The largest rock leaves the deepest mark.
 - 6 to 10 Added Physical Damage with Bow Attacks
 - 50% chance to double Stun Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

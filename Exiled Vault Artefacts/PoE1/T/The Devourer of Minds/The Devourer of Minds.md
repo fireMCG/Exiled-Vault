@@ -1,12 +1,10 @@
-# The Devourer of Minds
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Devourer of Minds.png]]
 
-## Description
+# Flavour Text
 The Decay infects thought itself, leaving nothing
 but hollow husks filled with virulent void...
 
-## Details
+# Details
 - Armour: (412-578)
 - Evasion: (286-402)
 - Requires Level 63, 85 Str, 62 Dex
@@ -18,9 +16,9 @@ but hollow husks filled with virulent void...
 - Endurance, Frenzy and Power Charges as you
 - Minions have the same maximum number of Endurance, Frenzy and Power Charges as you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

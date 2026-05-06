@@ -1,14 +1,12 @@
-# Shavronne's Revelation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Shavronne's Revelation.png]]
 
-## Description
+# Flavour Text
 "Shavronne held Sanity in her right
 hand and Revelation in her left.
 Brutus chose the left hand."
 - Kadavrus, Surgeon to the Umbra
 
-## Details
+# Details
 - Requires Level 30
 - +(15-25) to maximum Energy Shield
 - +(60-75) to Intelligence
@@ -19,9 +17,9 @@ Brutus chose the left hand."
 - Left ring slot: Regenerate 40 Mana per Second
 - Left ring slot: +250 to maximum Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

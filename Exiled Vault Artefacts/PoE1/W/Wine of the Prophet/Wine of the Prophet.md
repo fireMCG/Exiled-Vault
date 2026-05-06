@@ -1,13 +1,11 @@
-# Wine of the Prophet
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Wine of the Prophet.png]]
 
-## Description
+# Flavour Text
 "To proclaim a vision of the future is to make it so,
 for those that have the will, and the way!"
 - High Templar Andronicus
 
-## Details
+# Details
 - Lasts 5.00 Seconds
 - Consumes (72-120) of 140 Charges on use
 - 30% increased Rarity of Items found
@@ -17,9 +15,9 @@ for those that have the will, and the way!"
 - Grants a random Divination Buff for 20 seconds when Used
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Fragment of Eradication
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Fragment of Eradication.webp]]
 
-## Description
+# Flavour Text
 Plagues are exhausted, not cured.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 10
 Limit: 1
@@ -15,9 +13,9 @@ Area Level: 83
 Can be used in a personal Map Device.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Fragment
 #Fragment
 #PoE1

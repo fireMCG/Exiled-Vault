@@ -1,20 +1,18 @@
-# Keeper's Corruption
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Keeper's Corruption.png]]
 
-## Description
+# Flavour Text
 With great power comes...
 
 ...Even greater power.
 
-## Reward
+# Reward
 Eldritch Bone Helmet (Concentrated Effect)
 Item Level: 89
 Elder Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Eldritch/Shaper
 #Category/DivinationCard
 #DivinationCard

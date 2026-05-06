@@ -1,12 +1,10 @@
-# The Geomantic Gyre
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Geomantic Gyre.png]]
 
-## Description
+# Flavour Text
 For their mortal allies, the last Titans forged a mighty staff,
 one that could safely hold the first unearthed virtue gem.
 
-## Details
+# Details
 - Staff
 - Physical Damage: 48-145
 - Critical Strike Chance: 8.25%
@@ -22,9 +20,9 @@ one that could safely hold the first unearthed virtue gem.
 - Has a Crucible Passive Skill Tree with only Support Passive Skills
 - Crucible Passive Skill Tree is removed if this Modifier is removed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

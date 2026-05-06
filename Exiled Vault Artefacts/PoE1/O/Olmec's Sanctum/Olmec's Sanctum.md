@@ -1,14 +1,12 @@
-# Olmec's Sanctum
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Olmec's Sanctum.png]]
 
-## Description
+# Flavour Text
 They flew, and leapt, and clambered over,
 They crawled, and swam, and slithered under.
 Still its ancient secrets await unclaimed
 And of this hidden temple, only legends remain.
 
-## Details
+# Details
 - Monster Level: 68
 - Item Quantity: +(120-200)%
 - (40-50)% more Monster Life
@@ -16,9 +14,9 @@ And of this hidden temple, only legends remain.
 - Final Boss drops higher Level Items
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

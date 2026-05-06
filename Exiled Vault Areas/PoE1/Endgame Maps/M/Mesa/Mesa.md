@@ -1,15 +1,13 @@
-# Mesa
-
-## Description
+# Flavour Text
 Barren and sun-bleached.
 
 Emptiness as far as
 
 the eye can reach.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

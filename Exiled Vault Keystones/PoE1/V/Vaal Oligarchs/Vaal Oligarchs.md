@@ -1,12 +1,10 @@
-# Vaal Oligarchs
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Vaal Oligarchs.webp]]
 
-## Effects
+# Effects
 Incursions in your Maps contain a Vaal Flesh Merchant
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

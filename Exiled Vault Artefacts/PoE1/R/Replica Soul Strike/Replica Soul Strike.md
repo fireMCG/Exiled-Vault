@@ -1,13 +1,11 @@
-# Replica Soul Strike
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Soul Strike.png]]
 
-## Description
+# Flavour Text
 "The theft of another's vitality is short-lived, but sweet.
 It calls to me, bidding me abandon all other pursuits."
 - Researcher Arn
 
-## Details
+# Details
 - Requires Level 64
 - (20-30)% increased Critical Strike Chance with Bows
 - +30 to Dexterity
@@ -17,9 +15,9 @@ It calls to me, bidding me abandon all other pursuits."
 - 80% reduced Maximum Recovery per Life Leech
 - 40% increased Maximum total Life Recovery per second from Leech
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

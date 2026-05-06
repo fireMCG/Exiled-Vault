@@ -1,11 +1,9 @@
-# Blight Scarab of Blooming
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Blight Scarab of Blooming.webp]]
 
-## Description
+# Flavour Text
 Once a century, the Blight spills forth...
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -17,9 +15,9 @@ Tier 14+ Blighted Maps found in Area drop as Blight-Ravaged Maps instead
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Blight
 #Category/Scarab
 #Fragment

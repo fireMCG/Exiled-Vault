@@ -1,12 +1,10 @@
-# Replica Loreweave
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Loreweave.png]]
 
-## Description
+# Flavour Text
 "Better... stronger... more vital... and then... failure. Always, failure.
 What key fundamental secret are we missing?"
 
-## Details
+# Details
 - Armour: (377-433)
 - Energy Shield: (242-305)
 - Movement Speed: -5%
@@ -22,9 +20,9 @@ What key fundamental secret are we missing?"
 - (15-50)% increased Elemental Damage
 - Your Maximum Resistances are (70-72)%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

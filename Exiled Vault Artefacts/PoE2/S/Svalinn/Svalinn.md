@@ -1,12 +1,10 @@
-# Svalinn
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Svalinn.png]]
 
-## Description
+# Flavour Text
 The priests found the Great Shield the night it fell to Middengard,
 but it was the smiths who delved into the secrets it held.
 
-## Details
+# Details
 - Shield
 - Chance to Block: 26%
 - Armour: (330-440)
@@ -18,9 +16,9 @@ but it was the smiths who delved into the secrets it held.
 - Chance to Block Damage is Lucky
 - You take (0-20)% of damage from Blocked Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,10 +1,8 @@
-# Grip of Evil
-
-## Effects
+# Effects
 Minions have 40% increased Critical Damage Bonus
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

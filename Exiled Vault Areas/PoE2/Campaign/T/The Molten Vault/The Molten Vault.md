@@ -1,16 +1,14 @@
-# The Molten Vault
-
-## Description
+# Flavour Text
 The cult of Kamasa exploited Utzaal long before its fall.
 
-## Connected Areas
+# Connected Areas
 - The Drowned City
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

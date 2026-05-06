@@ -1,20 +1,18 @@
-# Countess Seske's Rune of Archery
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Countess Seske's Rune of Archery.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Bows: Bow Attacks fire an additional Arrow
 
-## Bonded Effects
+# Bonded Effects
 - Bows: 20% increased Projectile Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

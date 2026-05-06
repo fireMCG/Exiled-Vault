@@ -1,16 +1,14 @@
-# Kriar Peaks
-
-## Description
+# Flavour Text
 The Vaal left their mark at the top of the world.
 
-## Connected Areas
+# Connected Areas
 - Glacial Tarn
 - Etched Ravine
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

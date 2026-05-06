@@ -1,10 +1,8 @@
-# Rallying Form
-
-## Effects
+# Effects
 Companions in your Presence have Onslaught while you are Shapeshifted
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

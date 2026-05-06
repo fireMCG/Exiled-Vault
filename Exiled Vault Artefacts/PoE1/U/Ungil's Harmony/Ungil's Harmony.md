@@ -1,11 +1,9 @@
-# Ungil's Harmony
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ungil's Harmony.png]]
 
-## Description
+# Flavour Text
 Gentle anger, raging calm.
 
-## Details
+# Details
 - Requires Level 23
 - +(16-24) to Dexterity and Intelligence
 - (250-350)% increased Global Critical Strike Chance
@@ -14,9 +12,9 @@ Gentle anger, raging calm.
 - +(30-50) to maximum Mana
 - 40% increased Stun and Block Recovery
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

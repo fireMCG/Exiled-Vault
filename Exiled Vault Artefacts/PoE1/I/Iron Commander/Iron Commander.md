@@ -1,12 +1,10 @@
-# Iron Commander
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Iron Commander.png]]
 
-## Description
+# Flavour Text
 The Eternals commanded an army that need not eat, sleep, or breathe
 without the usual depravities of necromancy.
 
-## Details
+# Details
 - Bow
 - Physical Damage: (36-40) to (89-97)
 - Critical Strike Chance: (6.50-7.50)%
@@ -20,9 +18,9 @@ without the usual depravities of necromancy.
 - Siege Ballista has +1 to maximum number of Summoned Totems per 200 Dexterity
 - Adds 1 to 3 Physical Damage to Attacks per 25 Dexterity
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

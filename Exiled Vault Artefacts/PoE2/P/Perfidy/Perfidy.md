@@ -1,12 +1,10 @@
-# Perfidy
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Perfidy.png]]
 
-## Description
+# Flavour Text
 The Trickster God turned the very Day and Night against each other.
 What hope have you?
 
-## Details
+# Details
 - Armour: (592-814)
 - Evasion: (532-731)
 - Movement Speed: -4.0%
@@ -19,9 +17,9 @@ What hope have you?
 - (10-30)% chance to Avoid Chaos Damage from Hits
 - Enemies in your Presence are Intimidated
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

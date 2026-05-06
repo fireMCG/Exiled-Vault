@@ -1,12 +1,10 @@
-# Natural Selection
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Natural Selection.webp]]
 
-## Effects
+# Effects
 Beasts in your Maps are more likely to be less common varieties
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

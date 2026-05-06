@@ -1,15 +1,13 @@
-# The Control Blocks
-
-## Description
+# Flavour Text
 The illusion of control is swiftly severed by the blade of reality.
 
-## Connected Areas
+# Connected Areas
 - Overseer's Tower
 - Oriath Square
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

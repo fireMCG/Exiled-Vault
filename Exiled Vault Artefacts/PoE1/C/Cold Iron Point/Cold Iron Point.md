@@ -1,11 +1,9 @@
-# Cold Iron Point
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cold Iron Point.png]]
 
-## Description
+# Flavour Text
 There is nothing more brutal than a simple blade wielded with rage.
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: 20-79
 - Critical Strike Chance: 8.50%
@@ -16,9 +14,9 @@ There is nothing more brutal than a simple blade wielded with rage.
 - +3 to Level of all Physical Spell Skill Gems
 - Deal no Elemental Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Horned Scarab of Bloodlines
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Horned Scarab of Bloodlines.webp]]
 
-## Description
+# Flavour Text
 Only the hardiest survive. Only survivors perpetuate.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,9 +13,9 @@ Magic Monsters in area have an additional Modifier
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Scarab
 #Fragment
 #PoE1

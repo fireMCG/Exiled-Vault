@@ -1,12 +1,10 @@
-# Ashes of the Sun
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ashes of the Sun.png]]
 
-## Description
+# Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
-## Details
+# Details
 - One Handed Mace
 - Physical Damage: 6-8
 - Elemental Damage: 3-6
@@ -20,9 +18,9 @@ So goes the descent.
 - 25% increased Burning Damage
 - 30% chance to Ignite
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Ash
 #Concept/Darkness

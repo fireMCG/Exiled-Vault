@@ -1,13 +1,11 @@
-# Taste of Hate
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Taste of Hate.png]]
 
-## Description
+# Flavour Text
 A sip will freeze your lips,
 A swig will chill your heart,
 A glass will still your soul.
 
-## Details
+# Details
 - Lasts 8.00 Seconds
 - Consumes 20 of 50 Charges on use
 - +40% to Cold Resistance
@@ -19,9 +17,9 @@ A glass will still your soul.
 - 30% chance to Avoid being Frozen during Effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

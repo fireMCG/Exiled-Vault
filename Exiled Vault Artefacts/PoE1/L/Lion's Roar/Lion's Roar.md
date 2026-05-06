@@ -1,12 +1,10 @@
-# Lion's Roar
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Lion's Roar.png]]
 
-## Description
+# Flavour Text
 A sprinkle of hunger, a spoonful of menace
 and three generous cups of Might.
 
-## Details
+# Details
 - Lasts 6.00 Seconds
 - Consumes 30 of 60 Charges on use
 - +1500 to Armour
@@ -17,9 +15,9 @@ and three generous cups of Might.
 - (7-10)% more Melee Physical Damage during effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# The Fulcrum
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Fulcrum.png]]
 
-## Description
+# Flavour Text
 To stand at the confluence of the elements,
 the master must achieve perfect balance.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: (127.2-148.4) to (384-448)
 - Critical Strike Chance: 8.50%
@@ -23,9 +21,9 @@ the master must achieve perfect balance.
 - Damage Penetrates (8-10)% Elemental Resistances while you are Chilled
 - Gain (30-40)% of Physical Damage as Extra Damage of a random Element while you are Ignited
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

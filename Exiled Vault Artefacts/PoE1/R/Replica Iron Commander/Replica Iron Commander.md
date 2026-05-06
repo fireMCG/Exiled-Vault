@@ -1,12 +1,10 @@
-# Replica Iron Commander
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Iron Commander.png]]
 
-## Description
+# Flavour Text
 "Admittedly lacking the finesse of the fabled original,
 Prototype #4 achieved identical results through brute force alone."
 
-## Details
+# Details
 - Bow
 - Physical Damage: (36-40) to (89-97)
 - Critical Strike Chance: (6.50-7.50)%
@@ -20,9 +18,9 @@ Prototype #4 achieved identical results through brute force alone."
 - Shrapnel Ballista has +1 to maximum number of Summoned Totems per 200 Strength
 - Adds 1 to 3 Physical Damage to Attacks per 25 Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

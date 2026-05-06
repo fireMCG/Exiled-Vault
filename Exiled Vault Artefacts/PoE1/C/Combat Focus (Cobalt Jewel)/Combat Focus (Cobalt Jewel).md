@@ -1,14 +1,12 @@
-# Combat Focus (Cobalt Jewel)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Combat Focus (Cobalt Jewel).png]]
 
-## Description
+# Flavour Text
 Voll stood at the gates of Sarn, and a nation stood behind him.
 He thought of the righteousness of his cause,
 and of the glory he would bring to the empire he would soon lead.
 But as Chitus and his gemlings advanced, he thought only of the fight.
 
-## Details
+# Details
 - Limited to: 2
 - Radius: Medium
 - (10-15)% increased Elemental Damage
@@ -16,9 +14,9 @@ But as Chitus and his gemlings advanced, he thought only of the fight.
 - With 40 total Intelligence and Dexterity in Radius, Prismatic Skills deal 50% less Fire Damage
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

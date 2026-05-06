@@ -1,11 +1,9 @@
-# Shade of Solaris
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Shade of Solaris.png]]
 
-## Description
+# Flavour Text
 Without light, there can be no shadow.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 17-32
 - Critical Strike Chance: 8.70%
@@ -16,9 +14,9 @@ Without light, there can be no shadow.
 - Critical Strikes deal no Damage
 - 200% increased Spell Damage if you've dealt a Critical Strike in the past 8 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

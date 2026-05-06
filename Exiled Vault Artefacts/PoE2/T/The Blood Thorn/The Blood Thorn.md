@@ -1,11 +1,9 @@
-# The Blood Thorn
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Blood Thorn.png]]
 
-## Description
+# Flavour Text
 Touch not the thorn, for only blood and pain await.
 
-## Details
+# Details
 - Quartertaff
 - Physical Damage: (15-19) to (28-30)
 - Critical Strike Chance: 10.00%
@@ -16,9 +14,9 @@ Touch not the thorn, for only blood and pain await.
 - Causes Bleeding on Hit
 - (4-5) to (8-10) Physical Thorns damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,13 +1,11 @@
-# The Fallen Formation
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Fallen Formation.png]]
 
-## Description
+# Flavour Text
 "I will never forget. I will carry your memory
 forward, all of you, from this ghastly Vale."
 - Artair, last survivor of the Ogham rebellion
 
-## Details
+# Details
 - Armour: (334-501)
 - Evasion: (302-453)
 - Movement Speed: -4.0%
@@ -19,9 +17,9 @@ forward, all of you, from this ghastly Vale."
 - -20 to maximum Valour
 - Banners always have maximum Valour
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

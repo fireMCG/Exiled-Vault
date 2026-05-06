@@ -1,12 +1,10 @@
-# Endless Misery
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Endless Misery.png]]
 
-## Description
+# Flavour Text
 The sky, the land, the people burned.
 What little still stood soon faced wild, battering storms. Winter arrived suddenly and stayed for a generation. Civilisation was not simply halted, but reversed, erased.
 
-## Details
+# Details
 - Limited to: 1
 - Radius: Medium
 - (7-10)% increased Elemental Damage
@@ -15,9 +13,9 @@ What little still stood soon faced wild, battering storms. Winter arrived sudden
 - With at least 40 Intelligence in Radius, Discharge has 60% less Area of Effect
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

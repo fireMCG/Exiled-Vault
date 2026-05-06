@@ -1,12 +1,10 @@
-# The Bringer of Rain
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Bringer of Rain.png]]
 
-## Description
+# Flavour Text
 "What lies beneath your feet?!"
 "Sacred ground, watered with tears of blood!"
 
-## Details
+# Details
 - Armour: (486-748)
 - Evasion: (699-1072)
 - Requires Level 67, 62 Str, 85 Dex
@@ -21,9 +19,9 @@
 - Can't use Chest armour
 - Extra gore
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

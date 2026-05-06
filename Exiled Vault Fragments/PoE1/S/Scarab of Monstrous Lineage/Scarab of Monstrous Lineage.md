@@ -1,11 +1,9 @@
-# Scarab of Monstrous Lineage
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Scarab of Monstrous Lineage.webp]]
 
-## Description
+# Flavour Text
 The bloodlines evolve faster than they can be culled.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -13,9 +11,9 @@ Limit: 2
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Scarab
 #Fragment
 #PoE1

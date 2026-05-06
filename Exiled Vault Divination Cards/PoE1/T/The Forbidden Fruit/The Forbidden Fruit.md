@@ -1,16 +1,14 @@
-# The Forbidden Fruit
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Forbidden Fruit.png]]
 
-## Description
+# Flavour Text
 It's about working smarter,
 not harder.
 
-## Reward
+# Reward
 Uber Pinnacle Fragment
 
-##
+#
 ---
-## Tags
+# Tags
 #DivinationCard
 #PoE1

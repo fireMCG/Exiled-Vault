@@ -1,12 +1,10 @@
-# The Bringer of Rain
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Bringer of Rain.png]]
 
-## Description
+# Flavour Text
 "What lies beneath your feet?!"
 "Sacred ground, watered with tears of blood!"
 
-## Details
+# Details
 - Armour: (770-990)
 - Evasion: (693-891)
 - Requires Level 52, 41 Str, 41 Dex
@@ -19,9 +17,9 @@
 - This item gains bonuses from Socketed Items as though it was a Body Armour
 - Has 4 Augment Sockets (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Sands of Silk
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Sands of Silk.png]]
 
-## Description
+# Flavour Text
 The desert is ever flowing.
 
-## Details
+# Details
 - Evasion: (153-204)
 - Movement Speed: -3.0%
 - Requires Level 16, 28 Dex
@@ -17,9 +15,9 @@ The desert is ever flowing.
 - +(10-15)% to Fire Resistance
 - (15-30)% increased Cooldown Recovery Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

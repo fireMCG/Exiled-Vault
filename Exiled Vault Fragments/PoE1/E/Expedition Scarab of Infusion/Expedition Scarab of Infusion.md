@@ -1,11 +1,9 @@
-# Expedition Scarab of Infusion
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Expedition Scarab of Infusion.webp]]
 
-## Description
+# Flavour Text
 Starlight empowers even the dead if bathed long enough.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,8 +13,8 @@ Expedition Monsters gain increased Difficulty and Reward for each Remnant detona
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

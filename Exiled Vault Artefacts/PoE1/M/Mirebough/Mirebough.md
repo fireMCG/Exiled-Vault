@@ -1,13 +1,11 @@
-# Mirebough
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mirebough.png]]
 
-## Description
+# Flavour Text
 "Cut down the tallest tree,
 and another becomes the tallest."
 - Old Ezomyte saying
 
-## Details
+# Details
 - Staff
 - Physical Damage: 9-19
 - Critical Strike Chance: 7.50%
@@ -22,9 +20,9 @@ and another becomes the tallest."
 - (10-20)% increased maximum Life
 - (10-20)% increased maximum Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

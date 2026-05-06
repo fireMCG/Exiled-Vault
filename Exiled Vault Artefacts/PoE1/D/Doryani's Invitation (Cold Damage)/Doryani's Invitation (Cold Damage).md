@@ -1,13 +1,11 @@
-# Doryani's Invitation (Cold Damage)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Doryani's Invitation (Cold Damage).png]]
 
-## Description
+# Flavour Text
 "You can invite them but you can never be
 sure who will come knocking."
 - Doryani, Queen's Thaumaturgist
 
-## Details
+# Details
 - Requires Level 68
 - +(25-35) to Strength
 - (20-30)% increased Cold Damage
@@ -17,9 +15,9 @@ sure who will come knocking."
 - 0.6% of Cold Damage Leeched as Life
 - (20-30)% chance to Freeze during any Flask Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

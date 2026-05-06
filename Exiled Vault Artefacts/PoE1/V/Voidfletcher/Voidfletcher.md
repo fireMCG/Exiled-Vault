@@ -1,11 +1,9 @@
-# Voidfletcher
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Voidfletcher.png]]
 
-## Description
+# Flavour Text
 Even emptiness may be harnessed.
 
-## Details
+# Details
 - Requires Level 66
 - (20-30)% increased Elemental Damage with Attack Skills
 - Consumes a Void Charge to Trigger Level 20 Void Shot when you fire Arrows with a Non-Triggered Skill
@@ -17,9 +15,9 @@ Even emptiness may be harnessed.
 - 5 Maximum Void Charges
 - Gain a Void Charge every 0.5 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

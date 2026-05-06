@@ -1,12 +1,10 @@
-# The Whispering Ice
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Whispering Ice.png]]
 
-## Description
+# Flavour Text
 Guard your darkest thoughts well, for they are
 the cracks through which the Nightmare crawls.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 41-76
 - Critical Strike Chance: 7.50%
@@ -21,9 +19,9 @@ the cracks through which the Nightmare crawls.
 - (8-12)% increased Cast Speed
 - 1% increased Spell Damage per 10 Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

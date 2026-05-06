@@ -1,11 +1,9 @@
-# Tempered Defences
-
-## Effects
+# Effects
 25% increased Armour
 +15% of Armour also applies to Elemental Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

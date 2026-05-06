@@ -1,13 +1,11 @@
-# Replica Red Trail
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Red Trail.png]]
 
-## Description
+# Flavour Text
 "Researchers will please refrain from combining our prototypes with existing relics of power.
 The temptation is obvious, but the results can be... unpredictable."
 - Administrator Qotra
 
-## Details
+# Details
 - Armour: (385-556)
 - Requires Level 68, 120 Str
 - (60-100)% increased Armour
@@ -18,9 +16,9 @@ The temptation is obvious, but the results can be... unpredictable."
 - Necrotic Footprints
 - 50% chance for Spell Hits against you to inflict Poison
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Qotra
 #Artefact

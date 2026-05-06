@@ -1,13 +1,11 @@
-# Replica Tulfall
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Tulfall.png]]
 
-## Description
+# Flavour Text
 "Are we mad for attempting to build an engine out of this?
 Looping cycles, power and pain..."
 - Researcher Arn
 
-## Details
+# Details
 - Wand
 - Physical Damage: 30-56
 - Critical Strike Chance: 8.00%
@@ -21,9 +19,9 @@ Looping cycles, power and pain..."
 - Gain a Power Charge on Killing a Frozen Enemy
 - Take 500 Cold Damage on reaching Maximum Power Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Arn
 #Artefact

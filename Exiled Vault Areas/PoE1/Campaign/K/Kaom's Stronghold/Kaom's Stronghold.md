@@ -1,14 +1,12 @@
-# Kaom's Stronghold
-
-## Description
+# Flavour Text
 A holdfast built of hubris.
 
-## Connected Areas
+# Connected Areas
 - Kaom's Dream
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

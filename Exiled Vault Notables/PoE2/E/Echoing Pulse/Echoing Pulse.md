@@ -1,10 +1,8 @@
-# Echoing Pulse
-
-## Effects
+# Effects
 Final Repeat of Spells has 30% increased Area of Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

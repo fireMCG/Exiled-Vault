@@ -1,11 +1,9 @@
-# Jack, the Axe
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Jack, the Axe.png]]
 
-## Description
+# Flavour Text
 "More blood... hack open flesh... must drink..."
 
-## Details
+# Details
 - One Handed Axe
 - Physical Damage: (94.3-110) to (248.4-282.5)
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@
 - +(25-35)% to Damage over Time Multiplier for Bleeding from Hits with this Weapon
 - Plays Jack the Axe sounds (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,14 +1,12 @@
-# The Teardrop
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - The Teardrop.png]]
 
-## Description
+# Flavour Text
 T'gnagn iia y r'ngusla ph'tu Tsoatha nga mekghul'an."
  - Indecipherable verse
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Enigma
 #Category/QuestItem
 #QuestItem

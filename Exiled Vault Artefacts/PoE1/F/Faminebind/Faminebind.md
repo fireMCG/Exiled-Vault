@@ -1,14 +1,12 @@
-# Faminebind
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Faminebind.png]]
 
-## Description
+# Flavour Text
 After the Great Fire, the land lay barren
 and our forefathers grew weak.
 Mother Gull took pity on them
 and gave them grain and water.
 
-## Details
+# Details
 - Requires Level 18
 - (12-24)% increased Global Physical Damage
 - +(20-30)% to Cold Resistance
@@ -17,9 +15,9 @@ and gave them grain and water.
 - 60% increased Flask Effect Duration
 - Deals 50 Chaos Damage per second to nearby Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

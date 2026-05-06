@@ -1,17 +1,15 @@
-# Eternal Bonds
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Eternal Bonds.png]]
 
-## Description
+# Flavour Text
 Separate, stories untold.
 Together, memories unfold.
 
-## Reward
+# Reward
 Replica Cortex
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Animal/Canidae/Fox
 #Category/DivinationCard
 #DivinationCard

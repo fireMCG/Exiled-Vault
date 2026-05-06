@@ -1,13 +1,11 @@
-# Gathering Winds
-
-## Effects
+# Effects
 Gain Tailwind on Skill use
 Lose all Tailwind when Hit
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Deadeye
 #Ranger
+#Notable
 #PoE2

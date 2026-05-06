@@ -1,12 +1,10 @@
-# Bloodplay
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bloodplay.png]]
 
-## Description
+# Flavour Text
 "I'm a painter, and crimson is my chosen hue."
 - Coralito, Brotherhood of Silence
 
-## Details
+# Details
 - Dagger
 - Physical Damage: (12-18.2) to (43.2-56)
 - Critical Strike Chance: 8.30%
@@ -21,9 +19,9 @@
 - 30% chance to cause Bleeding on Hit
 - Extra gore
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Fleshrender
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fleshrender.png]]
 
-## Description
+# Flavour Text
 "This blade, which once tasted the green ichor of Kulemak himself, is now
 anathema to all life. Piece by piece, we shall steal back what we are owed..."
 - Sak, of the Afarud
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: (187.6-227.8) to (313.6-380.8)
 - Critical Strike Chance: (6.84-7.98)%
@@ -23,8 +21,8 @@ anathema to all life. Piece by piece, we shall steal back what we are owed..."
 - when you inflict Poison with this weapon
 - Wither on Hit with this weapon against Enemies with at least 12 Poisons on them
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE1

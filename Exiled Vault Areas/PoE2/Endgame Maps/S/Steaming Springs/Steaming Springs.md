@@ -1,13 +1,11 @@
-# Steaming Springs
-
-## Description
+# Flavour Text
 The tears of a ravaged earth.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

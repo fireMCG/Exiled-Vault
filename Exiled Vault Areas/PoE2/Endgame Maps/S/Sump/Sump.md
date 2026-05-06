@@ -1,13 +1,11 @@
-# Sump
-
-## Description
+# Flavour Text
 Humanity trapped within a cage of desperation and agony.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

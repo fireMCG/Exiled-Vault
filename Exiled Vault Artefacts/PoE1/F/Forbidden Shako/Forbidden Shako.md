@@ -1,11 +1,9 @@
-# Forbidden Shako
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Forbidden Shako.png]]
 
-## Description
+# Flavour Text
 The Azmeri must never touch the Tears of Maji, lest Viridi weep.
 
-## Details
+# Details
 - Armour: (143-161)
 - Energy Shield: (29-33)
 - Requires Level 68, 59 Str, 59 Int
@@ -13,9 +11,9 @@ The Azmeri must never touch the Tears of Maji, lest Viridi weep.
 - Socketed Gems are Supported by Level (25-35)
 - +(25-30) to all Attributes
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

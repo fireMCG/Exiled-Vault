@@ -1,13 +1,11 @@
-# Silver Coin
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Silver Coin.png]]
 
-## Description
+# Flavour Text
 To the unknowing, it is nothing. To Yama, it is everything.
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Yama
 #Category/QuestItem
 #Society/Karui

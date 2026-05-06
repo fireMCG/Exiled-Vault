@@ -1,13 +1,11 @@
-# Honourhome
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Honourhome.png]]
 
-## Description
+# Flavour Text
 "The craven mind is sharp with self interest.
 The honourable mind is much easier to manipulate."
 - Malachai the Soulless
 
-## Details
+# Details
 - Armour: (68-112)
 - Energy Shield: (16-27)
 - Requires Level 12, 16 Str, 16 Int
@@ -17,9 +15,9 @@ The honourable mind is much easier to manipulate."
 - (10-20)% increased Rarity of Items found
 - (10-20)% reduced Mana Cost of Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

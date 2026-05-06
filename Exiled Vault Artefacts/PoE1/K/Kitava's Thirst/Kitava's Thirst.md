@@ -1,14 +1,12 @@
-# Kitava's Thirst
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kitava's Thirst.png]]
 
-## Description
+# Flavour Text
 Tukohama, Tawhoa and Kitava went to the lake to fish.
 Tawhoa weaved a net to catch the fish,
 Tukohama built a fire to cook the fish,
 and Kitava swallowed the entire lake, fish and all, with a single gulp.
 
-## Details
+# Details
 - Armour: (202-246)
 - Energy Shield: (42-52)
 - Requires Level 44, 50 Str, 50 Int
@@ -18,9 +16,9 @@ and Kitava swallowed the entire lake, fish and all, with a single gulp.
 - (70-80)% increased Armour and Energy Shield
 - +(30-50) to maximum Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

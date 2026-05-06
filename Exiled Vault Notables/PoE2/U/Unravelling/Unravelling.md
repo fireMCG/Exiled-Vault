@@ -1,12 +1,10 @@
-# Unravelling
-
-## Effects
+# Effects
 Grants Unravelling
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Acolyte of Chayula
 #Monk
+#Notable
 #PoE2

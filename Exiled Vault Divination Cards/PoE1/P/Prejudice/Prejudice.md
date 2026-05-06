@@ -1,17 +1,15 @@
-# Prejudice
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Prejudice.png]]
 
-## Description
+# Flavour Text
 One who is blinded by their past may only see a sliver of the present.
 
-## Reward
+# Reward
 Item
 Influenced Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Blindness
 #Category/DivinationCard
 #DivinationCard

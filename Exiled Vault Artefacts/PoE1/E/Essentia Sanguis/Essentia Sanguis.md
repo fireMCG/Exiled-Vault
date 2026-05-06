@@ -1,12 +1,10 @@
-# Essentia Sanguis
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Essentia Sanguis.png]]
 
-## Description
+# Flavour Text
 The darkest clouds clashed and coupled,
 giving birth to four lightning children of hate.
 
-## Details
+# Details
 - Claw
 - Physical Damage: 29-76
 - Elemental Damage: 1 to (650-850)
@@ -22,9 +20,9 @@ giving birth to four lightning children of hate.
 - Maximum Recovery per Energy Shield Leech is Doubled
 - Ghost Reaver
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

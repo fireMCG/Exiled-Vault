@@ -1,19 +1,17 @@
-# Dance with Death
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Dance with Death.webp]]
 
-## Description
+# Flavour Text
 You circle the black scorpion with enmity, daring it time and again.
 
-## Effects
+# Effects
 Can't use Helmets
 Your Critical Strike Chance is Lucky
 Your Damage with Critical Strikes is Lucky
 Enemies' Damage with Critical Strikes against you is Lucky
 (Lucky things are rolled twice and the best result used)
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

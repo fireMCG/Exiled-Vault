@@ -1,14 +1,12 @@
-# Tomb of the Consort
-
-## Description
+# Flavour Text
 A time of plague stacked bodies ten high. Now, they roam.
 
-## Connected Areas
+# Connected Areas
 - Cemetery of the Eternals
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

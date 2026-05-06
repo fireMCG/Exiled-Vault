@@ -1,11 +1,9 @@
-# Splinter of Lorrata
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Splinter of Lorrata.png]]
 
-## Description
+# Flavour Text
 The Baleful Gem's corruption lingers still...
 
-## Details
+# Details
 - Spear
 - Physical Damage: (7-8) to (15-17)
 - Critical Strike Chance: 5.00%
@@ -18,9 +16,9 @@ The Baleful Gem's corruption lingers still...
 - Any number of Poisons from this Weapon can affect a target at the same time
 - Always Poison on Hit with this weapon
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

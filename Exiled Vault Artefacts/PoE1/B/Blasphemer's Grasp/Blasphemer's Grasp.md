@@ -1,12 +1,10 @@
-# Blasphemer's Grasp
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Blasphemer's Grasp.png]]
 
-## Description
+# Flavour Text
 Reaching nature's limits,
 many sought power in the unnatural.
 
-## Details
+# Details
 - Evasion: (260-369)
 - Energy Shield: (52-75)
 - Requires Level 58, 45 Dex, 45 Int
@@ -18,9 +16,9 @@ many sought power in the unnatural.
 - 8% increased Effect of Non-Damaging Ailments per Elder Item Equipped
 - Remove an Ailment when you use a Flask if all Equipped Items are Elder Items
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Concept/Nature

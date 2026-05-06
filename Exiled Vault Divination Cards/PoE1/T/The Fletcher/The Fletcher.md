@@ -1,17 +1,15 @@
-# The Fletcher
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Fletcher.png]]
 
-## Description
+# Flavour Text
 Let these fine arrows pack a punch.
 
-## Reward
+# Reward
 Drillneck
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

@@ -1,13 +1,11 @@
-# Tamper-Proof
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Tamper-Proof.webp]]
 
-## Effects
+# Effects
 Strongboxes in your Maps are Corrupted
 Strongboxes in your Maps are at least Rare
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

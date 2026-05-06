@@ -1,17 +1,15 @@
-# The Dragon's Heart
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Dragon's Heart.png]]
 
-## Description
+# Flavour Text
 They say when a dragon dies, the flesh smoulders and burns until all that remains is the still, white-hot, heart.
 
-## Reward
+# Reward
 Level 4 Empower
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Animal/Mythological/Dragon
 #Concept/Ash

@@ -1,16 +1,14 @@
-# The Slave Pens
-
-## Description
+# Flavour Text
 In Oriath's darkest corner, the spark of rebellion ignites.
 
-## Connected Areas
+# Connected Areas
 - The Ascent
 - Overseer's Tower
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

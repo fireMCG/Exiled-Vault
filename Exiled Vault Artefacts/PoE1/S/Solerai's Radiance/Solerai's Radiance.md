@@ -1,13 +1,11 @@
-# Solerai's Radiance
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Solerai's Radiance.png]]
 
-## Description
+# Flavour Text
 "When we first saw the Sun, our eyes were not above,
 but on her. She was the burning heart of fury, and the
 dead turned to flee. We drove them beneath for all time."
 
-## Details
+# Details
 - Requires Level 24
 - +(9-20) to maximum Energy Shield
 - +(35-50)% to Fire Resistance
@@ -15,8 +13,8 @@ dead turned to flee. We drove them beneath for all time."
 - Enemies Blinded by you cannot inflict Damaging Ailments
 - Grants Level 20 Blazing Glare
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE1

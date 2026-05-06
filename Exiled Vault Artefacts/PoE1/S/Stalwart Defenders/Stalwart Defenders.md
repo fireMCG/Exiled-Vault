@@ -1,19 +1,17 @@
-# Stalwart Defenders
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Stalwart Defenders.png]]
 
-## Description
+# Flavour Text
 They came, full of vim and vigour, to take what was not theirs.
 They crashed and clamoured like waves against rocks, and were swept back out to sea.
 
-## Details
+# Details
 - +1 to Monster Level of Area
 - (20-40)% more Monster Life
 - Socket this into a Citadel on your Atlas to increase the Tier of Maps and reveal hidden Maps in that Citadel's Region. You can only socket one Crimson, Viridian, Cobalt or Golden Watchstone into each Citadel.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

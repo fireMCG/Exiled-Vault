@@ -1,15 +1,13 @@
-# Snakebite
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Snakebite.png]]
 
-## Description
+# Flavour Text
 "As the serpent shuns thought,
 It shuns fear.
 It strikes with the speed of wrath
 And the skill of compulsion."
 - Deshret, The Red Sekhema
 
-## Details
+# Details
 - Evasion: (260-344)
 - Energy Shield: (21-25)
 - Requires Level 58, 45 Dex, 45 Int
@@ -21,9 +19,9 @@ And the skill of compulsion."
 - Attacks have 60% chance to Poison while at maximum Frenzy Charges
 - +5% to Damage over Time Multiplier for Poison per Frenzy Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

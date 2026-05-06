@@ -1,16 +1,14 @@
-# The Fool
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Fool.png]]
 
-## Description
+# Flavour Text
 Even the most learned man is a fool to his own fate.
 
-## Reward
+# Reward
 20x Orb of Chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

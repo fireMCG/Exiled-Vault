@@ -1,13 +1,11 @@
-# Maligaro's Restraint
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Maligaro's Restraint.png]]
 
-## Description
+# Flavour Text
 "Our genius will pave the way forward.
 May all who are worthy be improved!"
 - Inquisitor Maligaro
 
-## Details
+# Details
 - Requires Level 44
 - +(9-20) to maximum Energy Shield
 - Adds 1 to (30-50) Lightning Damage to Attacks
@@ -16,9 +14,9 @@ May all who are worthy be improved!"
 - 60% increased Damage while Shocked
 - 15% increased Movement Speed while Shocked
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

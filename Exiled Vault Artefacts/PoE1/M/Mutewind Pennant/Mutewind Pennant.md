@@ -1,11 +1,9 @@
-# Mutewind Pennant
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mutewind Pennant.png]]
 
-## Description
+# Flavour Text
 Embrace the snow or be buried.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Evasion: (559-698)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ Embrace the snow or be buried.
 - 25% increased Warcry Buff Effect
 - Call to Arms
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

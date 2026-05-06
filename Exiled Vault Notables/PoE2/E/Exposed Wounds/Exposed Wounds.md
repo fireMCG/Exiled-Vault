@@ -1,11 +1,9 @@
-# Exposed Wounds
-
-## Effects
+# Effects
 15% increased chance to inflict Ailments
 Hits Break 30% increased Armour on targets with Ailments
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

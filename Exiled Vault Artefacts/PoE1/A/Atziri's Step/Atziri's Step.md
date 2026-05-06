@@ -1,13 +1,11 @@
-# Atziri's Step
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Atziri's Step.png]]
 
-## Description
+# Flavour Text
 "Those who dance are considered insane
 by those who cannot hear the music."
 - Atziri, Queen of the Vaal
 
-## Details
+# Details
 - Evasion: (688-792)
 - Requires Level 69, 120 Dex
 - +(20-26)% chance to Suppress Spell Damage
@@ -15,9 +13,9 @@ by those who cannot hear the music."
 - +(55-75) to maximum Life
 - 30% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Atziri
 #Concept/Dance

@@ -1,12 +1,10 @@
-# Scent of Blood
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Scent of Blood.webp]]
 
-## Effects
+# Effects
 16% chance for your Maps to attract Beyond Demons
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

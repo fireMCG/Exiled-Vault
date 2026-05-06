@@ -1,17 +1,15 @@
-# The Quarry
-
-## Description
+# Flavour Text
 A monstrous terror stalks chthonic mines, yearning for the boundless sky.
 
-## Connected Areas
+# Connected Areas
 - The Tunnel
 - The Refinery
 - The Belly of the Beast
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

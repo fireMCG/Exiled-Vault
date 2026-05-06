@@ -1,12 +1,10 @@
-# United in Dream
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - United in Dream.png]]
 
-## Description
+# Flavour Text
 They grow fat and ripe in slumber.
 To be fed upon when he wakes.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: 13-53
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ To be fed upon when he wakes.
 - Minions have 60% chance to Poison Enemies on Hit
 - Minions Recover 10% of Life on Killing a Poisoned Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,8 +1,6 @@
-# Allflame Ember of Propagation
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Allflame Ember of Propagation.webp]]
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -20,8 +18,8 @@ map num allflame propagation packs [11]
 Can be used in a personal Map Device to substitute the varities of Monster Packs present in a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

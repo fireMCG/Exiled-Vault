@@ -1,11 +1,9 @@
-# Lost Towers
-
-## Description
+# Flavour Text
 The grandest of monuments, standing proudly before an audience of none.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

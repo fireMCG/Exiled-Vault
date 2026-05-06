@@ -1,11 +1,9 @@
-# Candlemaker
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Candlemaker.png]]
 
-## Description
+# Flavour Text
 You can be the wick or the wax. Either way, your light goes out and mine goes on.
 
-## Details
+# Details
 - Energy Shield: (22-27)
 - Requires Level 12, 17 Int
 - (50-80)% increased Energy Shield
@@ -15,9 +13,9 @@ You can be the wick or the wax. Either way, your light goes out and mine goes on
 - -(20-10)% to Cold Resistance
 - Flammability Magnitude is doubled
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

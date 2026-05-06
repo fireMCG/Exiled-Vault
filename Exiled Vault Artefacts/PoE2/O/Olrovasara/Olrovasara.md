@@ -1,12 +1,10 @@
-# Olrovasara
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Olrovasara.png]]
 
-## Description
+# Flavour Text
 True heroes grow stronger in the face of adversity."
 - Fourth Tenet of the Knights of the Sun
 
-## Details
+# Details
 - One Hand Mace
 - Physical Damage: 44-73
 - Elemental Damage: 1 to (60-80)
@@ -20,9 +18,9 @@ True heroes grow stronger in the face of adversity."
 - On Hitting an enemy, gains maximum added Lightning damage equal to
 - the enemy's Power for 20 seconds, up to a total of 500
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

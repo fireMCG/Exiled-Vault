@@ -1,11 +1,9 @@
-# Farmlands Hideout
-
-## Description
+# Flavour Text
 A rare enclave of fertile earth.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE2

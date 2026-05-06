@@ -1,14 +1,12 @@
-# Terminus Est
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Terminus Est.png]]
 
-## Description
+# Flavour Text
 His final sensation was of the executioner's blade.
 It was not cold, instead warm and reassuring,
 murmuring a promise of better times ahead.
 Smiling, he returned death's embrace.
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: (151.2-172.8) to (249.2-284.8)
 - Critical Strike Chance: (7.50-8.75)%
@@ -23,9 +21,9 @@ Smiling, he returned death's embrace.
 - 10% increased Movement Speed
 - Gain a Frenzy Charge on Critical Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

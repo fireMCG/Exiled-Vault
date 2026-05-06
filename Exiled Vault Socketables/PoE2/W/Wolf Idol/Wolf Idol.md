@@ -1,20 +1,18 @@
-# Wolf Idol
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Wolf Idol.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 
-## Effects
+# Effects
 - Gloves: 10% increased Magnitude of Bleeding you inflict
 - Sceptres: Allies in your Presence have 14% increased Critical Damage Bonus
 
-## Bonded Effects
+# Bonded Effects
 - Gloves: 15% reduced Magnitude of Bleeding on You
 - Sceptres: 25% increased Critical Hit Chance while Shapeshifted
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

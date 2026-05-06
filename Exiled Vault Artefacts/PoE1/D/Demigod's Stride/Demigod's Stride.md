@@ -1,19 +1,17 @@
-# Demigod's Stride
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Demigod's Stride.png]]
 
-## Description
+# Flavour Text
 Victory is on the march and nothing can stop it.
 
-## Details
+# Details
 - Requires Level 12
 - +(8-16)% to all Elemental Resistances
 - (20-30)% increased Rarity of Items found
 - 20% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

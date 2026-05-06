@@ -1,17 +1,15 @@
-# Brother's Gift
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Brother's Gift.png]]
 
-## Description
+# Flavour Text
 Even though his flame has burned out,
 he will never fade away.
 
-## Reward
+# Reward
 5x Divine Orb
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Family/Brother
 #Concept/Sun

@@ -1,13 +1,11 @@
-# Necropolis
-
-## Description
+# Flavour Text
 Even in death, we long to
 
 be close to one another.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

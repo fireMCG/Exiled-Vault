@@ -1,10 +1,8 @@
-# Dangerous Blossom
-
-## Effects
+# Effects
 Gain 10% of Damage as Extra Physical Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

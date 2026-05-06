@@ -1,12 +1,10 @@
-# Crystalline Potential
-
-## Effects
+# Effects
 +10% to Quality of all Skills
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Gemling Legionnaire
 #Mercenary
+#Notable
 #PoE2

@@ -1,12 +1,10 @@
-# Uul-Netol's Kiss
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Uul-Netol's Kiss.png]]
 
-## Description
+# Flavour Text
 We feel the mother's love
 And beg to return to her womb.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (343.2-384.8) to (574.2-643.8)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ And beg to return to her womb.
 - Exerted Attacks deal 200% increased Damage
 - Exerted Attacks Knock Enemies Back on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

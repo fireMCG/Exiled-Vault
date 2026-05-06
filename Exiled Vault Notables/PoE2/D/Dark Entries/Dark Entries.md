@@ -1,10 +1,8 @@
-# Dark Entries
-
-## Effects
+# Effects
 +1 to Level of all Chaos Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

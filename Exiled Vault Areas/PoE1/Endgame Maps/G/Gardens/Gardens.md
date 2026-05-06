@@ -1,13 +1,11 @@
-# Gardens
-
-## Description
+# Flavour Text
 Vibrant colours dash across the grey,
 
 consuming Man's work.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

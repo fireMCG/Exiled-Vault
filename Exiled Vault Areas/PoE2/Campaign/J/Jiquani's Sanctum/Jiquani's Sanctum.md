@@ -1,14 +1,12 @@
-# Jiquani's Sanctum
-
-## Description
+# Flavour Text
 Remnants of Vaal artifice still remain.
 
-## Connected Areas
+# Connected Areas
 - Jiquani's Machinarium
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

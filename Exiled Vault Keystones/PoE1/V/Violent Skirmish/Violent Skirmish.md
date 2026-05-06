@@ -1,12 +1,10 @@
-# Violent Skirmish
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Violent Skirmish.webp]]
 
-## Effects
+# Effects
 Breach Encounters in your Maps are 20% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

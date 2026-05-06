@@ -1,12 +1,10 @@
-# Remembered Kindness
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Remembered Kindness.webp]]
 
-## Effects
+# Effects
 80% reduced chance for Memory Threads to lead towards the Incarnation of Neglect
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

@@ -1,12 +1,10 @@
-# The Basilisk (sentinel)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Basilisk (sentinel).png]]
 
-## Description
+# Flavour Text
 Alone among the powers of artifice, there is one against
 which the horrors of Wraeclast have never adapted.
 
-## Details
+# Details
 - Duration: 10 seconds
 - Empowers: 80 enemies
 - Empowerment: 24
@@ -16,9 +14,9 @@ which the horrors of Wraeclast have never adapted.
 - Petrifies Empowered Enemies for 5 seconds
 - Unmodifiable
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

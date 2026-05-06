@@ -1,11 +1,9 @@
-# Symbol of Defiance
-
-## Effects
+# Effects
 Banner Skills have 30% increased Area of Effect
 Banner Skills have 30% increased Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

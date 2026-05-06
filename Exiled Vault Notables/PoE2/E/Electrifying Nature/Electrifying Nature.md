@@ -1,11 +1,9 @@
-# Electrifying Nature
-
-## Effects
+# Effects
 25% increased Lightning Damage
 15% increased Shock Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

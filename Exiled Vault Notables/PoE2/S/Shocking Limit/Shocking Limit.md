@@ -1,10 +1,8 @@
-# Shocking Limit
-
-## Effects
+# Effects
 +1 to maximum Lightning Infusions
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

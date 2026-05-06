@@ -1,14 +1,12 @@
-# Olroth's Resolve
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Olroth's Resolve.png]]
 
-## Description
+# Flavour Text
 Olroth the Gallant,
 tireless and true,
 he fights for me,
 he fights for you!
 
-## Details
+# Details
 - Recovers 920 Life over 3.00 Seconds
 - Consumes (20-25) of 75 Charges on use
 - Requires Level 60
@@ -17,9 +15,9 @@ he fights for you!
 - Excess Life Recovery added as Guard for 20 seconds
 - Right click to drink. Can only hold charges while in belt. Refill at Wells or by killing monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Olroth
 #Artefact

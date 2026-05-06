@@ -1,12 +1,10 @@
-# Viridi's Veil
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Viridi's Veil.png]]
 
-## Description
+# Flavour Text
 "Her sisters eternally fought for that shining apex in the skies, but Viridi instead found strength in humility."
 - Azmerian Creation Myth
 
-## Details
+# Details
 - Armour: (354-481)
 - Energy Shield: (112-150)
 - Requires Level 68, 62 Str, 91 Int
@@ -17,9 +15,9 @@
 - You are Hexproof if you have a Magic Ring in right slot
 - Take no Extra Damage from Critical Strikes if you have a Magic Ring in left slot
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Maven
 #Character/God/Viridi

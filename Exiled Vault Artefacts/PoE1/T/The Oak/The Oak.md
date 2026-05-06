@@ -1,11 +1,9 @@
-# The Oak
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Oak.png]]
 
-## Description
+# Flavour Text
 Even the mightiest tree was once just a sapling.
 
-## Details
+# Details
 - Chance to Block: 22%
 - Armour: (32-55)
 - Energy Shield: (9-15)
@@ -18,9 +16,9 @@ Even the mightiest tree was once just a sapling.
 - Regenerate 3% of Life per second
 - Regenerate 3% of Life per second while on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

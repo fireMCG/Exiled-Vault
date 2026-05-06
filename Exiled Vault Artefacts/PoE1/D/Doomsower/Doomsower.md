@@ -1,12 +1,10 @@
-# Doomsower
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Doomsower.png]]
 
-## Description
+# Flavour Text
 So the seed of hate was born,
 Evil forged and Hope forsworn.
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: (174.2-216) to (279.5-337.5)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ Evil forged and Hope forsworn.
 - Attack Skills gain 5% of Physical Damage as Extra Fire Damage per Socketed Red Gem
 - You have Vaal Pact while all Socketed Gems are Red
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

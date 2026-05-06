@@ -1,14 +1,12 @@
-# Debeon's Dirge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Debeon's Dirge.png]]
 
-## Description
+# Flavour Text
 A sharp and heavy beat,
 discorded, out of tune,
 when you hear it on the wind,
 you know death will follow soon.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: 90-122
 - Elemental Damage: (310-350) to (460-500)
@@ -21,9 +19,9 @@ you know death will follow soon.
 - 150% increased Elemental Damage if you've Warcried Recently
 - Warcries Knock Back and Interrupt Enemies in a smaller Area
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

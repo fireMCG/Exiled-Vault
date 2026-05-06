@@ -1,18 +1,16 @@
-# Void of the Elements
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Void of the Elements.png]]
 
-## Description
+# Flavour Text
 Though the forces of nature are mighty and intimidating, it is their absence which should be feared.
 
-## Reward
+# Reward
 Overpowering Opal Ring
 Item Level: 100
 Elder Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

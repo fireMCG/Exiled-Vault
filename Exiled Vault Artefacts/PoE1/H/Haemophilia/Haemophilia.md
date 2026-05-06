@@ -1,13 +1,11 @@
-# Haemophilia
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Haemophilia.png]]
 
-## Description
+# Flavour Text
 "A master artist takes his time when he's painting.
 Unfortunately, my kind doesn't often have that luxury."
 - Coralito, Brotherhood of Silence
 
-## Details
+# Details
 - Armour: (78-87)
 - Evasion: (78-87)
 - Requires Level 43, 34 Str, 34 Dex
@@ -19,9 +17,9 @@ Unfortunately, my kind doesn't often have that luxury."
 - their Maximum Life as Physical Damage
 - 25% reduced Bleeding Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

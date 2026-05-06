@@ -1,10 +1,8 @@
-# Forces of Nature
-
-## Effects
+# Effects
 Attack Damage Penetrates 15% of Enemy Elemental Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

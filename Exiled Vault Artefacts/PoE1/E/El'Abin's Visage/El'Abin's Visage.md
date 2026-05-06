@@ -1,14 +1,12 @@
-# El'Abin's Visage
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - El'Abin's Visage.png]]
 
-## Description
+# Flavour Text
 As the fire remnants of our outpost were subsumed into the caldera,
 a thunderous voice echoed across the barren landscape,
 "Your fragility is your folly. May others rise where you have fallen."
 - El'Abin, Bloodeater
 
-## Details
+# Details
 - Armour: (210-294)
 - Evasion: (210-294)
 - Requires Level 43, 49 Str, 49 Dex
@@ -19,9 +17,9 @@ a thunderous voice echoed across the barren landscape,
 - Has a Crucible Passive Skill Tree
 - Crucible Passive Skill Tree is removed if this Modifier is removed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

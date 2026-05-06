@@ -1,13 +1,11 @@
-# Femurs of the Saints
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Femurs of the Saints.png]]
 
-## Description
+# Flavour Text
 "They spent a lifetime in the service of God,
 only to spend eternity in the service of me."
 - Kadavrus, Surgeon to the Umbra
 
-## Details
+# Details
 - Staff
 - Physical Damage: 55-165
 - Critical Strike Chance: 8.00%
@@ -22,9 +20,9 @@ only to spend eternity in the service of me."
 - Regenerate 0.6% of Life per second for each Raised Zombie
 - 30% increased Mana Regeneration Rate per Raised Spectre
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

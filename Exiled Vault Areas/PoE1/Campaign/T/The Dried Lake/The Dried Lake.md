@@ -1,15 +1,13 @@
-# The Dried Lake
-
-## Description
+# Flavour Text
 Bones of betrayal, ashes of purity.
 
-## Connected Areas
+# Connected Areas
 - Highgate
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

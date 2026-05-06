@@ -1,11 +1,9 @@
-# Hateforge
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Hateforge.png]]
 
-## Description
+# Flavour Text
 The first Karui born on the fringes of the Vaal empire developed a blood fever born of corruption.
 
-## Details
+# Details
 - Armour: (272-340)
 - Requires Level 60, 42 Str
 - (300-400)% increased Armour
@@ -14,9 +12,9 @@ The first Karui born on the fringes of the Vaal empire developed a blood fever b
 - +(-10-10) to Maximum Rage
 - Gain (3-6) Rage on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

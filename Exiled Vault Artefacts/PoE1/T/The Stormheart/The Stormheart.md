@@ -1,12 +1,10 @@
-# The Stormheart
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Stormheart.png]]
 
-## Description
+# Flavour Text
 When the storm comes,
 the safest place to be is the centre.
 
-## Details
+# Details
 - Staff
 - Physical Damage: (48.6-54) to (145.8-162)
 - Elemental Damage: (25-35) to (45-60), (1-10) to (70-90)
@@ -22,9 +20,9 @@ the safest place to be is the centre.
 - 100% chance to Avoid being Shocked while Chilled
 - 50% chance to Shock Chilled Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

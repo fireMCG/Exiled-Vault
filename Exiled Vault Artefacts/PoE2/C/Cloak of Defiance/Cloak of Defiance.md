@@ -1,8 +1,6 @@
-# Cloak of Defiance
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Cloak of Defiance.png]]
 
-## Description
+# Flavour Text
 When the throat roars,
 As eyes weep,
 When the hand grips hard
@@ -12,7 +10,7 @@ Yet legs stand strong,
 That is the work
 Of the Defiant Heart.
 
-## Details
+# Details
 - Energy Shield: (276-368)
 - Movement Speed: -3.0%
 - Requires Level 65, 121 Int
@@ -21,9 +19,9 @@ Of the Defiant Heart.
 - (50-100)% increased Mana Regeneration Rate
 - 50% of Damage is taken from Mana before Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

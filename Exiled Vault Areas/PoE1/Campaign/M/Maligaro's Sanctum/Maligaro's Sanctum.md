@@ -1,14 +1,12 @@
-# Maligaro's Sanctum
-
-## Description
+# Flavour Text
 The inner depths of decadent darkness.
 
-## Connected Areas
+# Connected Areas
 - The Chamber of Sins Level 1
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

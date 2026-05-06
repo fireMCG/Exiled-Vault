@@ -1,11 +1,9 @@
-# Admonisher
-
-## Effects
+# Effects
 25% increased Warcry Speed
 25% increased Warcry Cooldown Recovery Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

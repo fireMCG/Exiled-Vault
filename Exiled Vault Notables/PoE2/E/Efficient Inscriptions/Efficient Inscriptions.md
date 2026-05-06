@@ -1,10 +1,8 @@
-# Efficient Inscriptions
-
-## Effects
+# Effects
 Meta Skills have 20% increased Reservation Efficiency
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

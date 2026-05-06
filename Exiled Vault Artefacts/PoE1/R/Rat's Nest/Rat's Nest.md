@@ -1,15 +1,13 @@
-# Rat's Nest
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rat's Nest.png]]
 
-## Description
+# Flavour Text
 A lad with no fear of the pest
 Let rats fill his helmet in jest
 When they picked his skull clean
 Where his head should have been
 Was naught but a vermin-filled nest!
 
-## Details
+# Details
 - Evasion: (690-812)
 - Requires Level 55, 114 Dex
 - 15% increased Attack Speed
@@ -19,9 +17,9 @@ Was naught but a vermin-filled nest!
 - 10% increased Movement Speed
 - 10% reduced Character Size
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# The Celestial Brace
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Celestial Brace.png]]
 
-## Description
+# Flavour Text
 Forged from the heart of the densest star, your courage will fail long before it does.
 
-## Details
+# Details
 - Armour: (313-440)
 - Requires Level 53, 77 Str
 - (80-120)% increased Armour
@@ -13,9 +11,9 @@ Forged from the heart of the densest star, your courage will fail long before it
 - +(1-10) to maximum Fortification
 - Melee Hits from Strike Skills Fortify
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/SearingExarch
 #Concept/Virtue/Courage

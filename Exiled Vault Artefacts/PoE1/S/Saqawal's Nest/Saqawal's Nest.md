@@ -1,12 +1,10 @@
-# Saqawal's Nest
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Saqawal's Nest.png]]
 
-## Description
+# Flavour Text
 The First of the Sky was the Last of the First.
 It was he who showed us that our limits are self-imposed, that what we take for law may just be an illusion.
 
-## Details
+# Details
 - Evasion: (556-651)
 - Energy Shield: (193-234)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ It was he who showed us that our limits are self-imposed, that what we take for 
 - Aspect of the Avian also grants Avian's Might and Avian's Flight to nearby Allies
 - +(120-150) to Evasion Rating and Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

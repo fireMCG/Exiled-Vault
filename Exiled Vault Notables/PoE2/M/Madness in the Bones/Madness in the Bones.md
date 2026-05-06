@@ -1,10 +1,8 @@
-# Madness in the Bones
-
-## Effects
+# Effects
 Gain 8% of Physical Damage as extra Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

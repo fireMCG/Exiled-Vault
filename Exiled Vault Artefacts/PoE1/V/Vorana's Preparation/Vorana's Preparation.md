@@ -1,12 +1,10 @@
-# Vorana's Preparation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Vorana's Preparation.png]]
 
-## Description
+# Flavour Text
 Vorana trained her mercenaries
 thus: strike true and survive.
 
-## Details
+# Details
 - Lasts 4.00 Seconds
 - Consumes (36-44) of 60 Charges on use
 - +200 to Ward
@@ -18,9 +16,9 @@ thus: strike true and survive.
 - Culling Strike during Effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Vorana
 #Artefact

@@ -1,11 +1,9 @@
-# Unspoken Bond
-
-## Effects
+# Effects
 Companions have +30% to Chaos Resistance
 Companions have +30% to all Elemental Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

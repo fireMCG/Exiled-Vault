@@ -1,11 +1,9 @@
-# Doomgate
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Doomgate.png]]
 
-## Description
+# Flavour Text
 Welcome to Wraeclast.
 
-## Details
+# Details
 - Shield
 - Chance to Block: (46-52)%
 - Armour: (82-102)
@@ -18,9 +16,9 @@ Welcome to Wraeclast.
 - You take (25-40)% of damage from Blocked Hits
 - Enemies are Culled on Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

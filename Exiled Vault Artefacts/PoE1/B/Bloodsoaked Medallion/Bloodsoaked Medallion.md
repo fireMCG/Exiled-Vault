@@ -1,13 +1,11 @@
-# Bloodsoaked Medallion
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bloodsoaked Medallion.png]]
 
-## Description
+# Flavour Text
 "Atziri ordained that we exploit the weaknesses inherent in our slaves.
 With relish, we did exactly as she instructed."
 - Guatelitzi, Architect of Flesh
 
-## Details
+# Details
 - Requires Level 49
 - +(20-30) to Strength
 - (30-50)% increased Global Critical Strike Chance
@@ -17,9 +15,9 @@ With relish, we did exactly as she instructed."
 - Gain 2% of Life per Enemy Hit with Attacks for 5 seconds
 - Gain 5% of Life per Enemy Killed for 5 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

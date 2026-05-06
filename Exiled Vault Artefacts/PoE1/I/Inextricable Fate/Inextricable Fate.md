@@ -1,12 +1,10 @@
-# Inextricable Fate
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Inextricable Fate.png]]
 
-## Description
+# Flavour Text
 A multitude of beings share a wretched existence
 irrevocably bound together in perpetual torture.
 
-## Details
+# Details
 - Evasion: (112-129)
 - Energy Shield: (32-37)
 - Requires Level 70, 56 Dex, 76 Int
@@ -18,9 +16,9 @@ irrevocably bound together in perpetual torture.
 - All Damage inflicts Poison against Enemies affected by at least 3 Grasping Vines
 - You take (50-30)% reduced Extra Damage from Critical Strikes by Poisoned Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/EaterOfWorlds
 #Concept/Tangle

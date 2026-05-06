@@ -1,11 +1,9 @@
-# Xoph's Nurture
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Xoph's Nurture.png]]
 
-## Description
+# Flavour Text
 Upon the grey winds his love spreads.
 
-## Details
+# Details
 - Bow
 - Physical Damage: (95.4-106.2) to (381.6-424.8)
 - Critical Strike Chance: 6.00%
@@ -17,9 +15,9 @@ Upon the grey winds his love spreads.
 - 10% chance to Ignite
 - Recover (40-60) Life when you Ignite an Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Spider Lair
-
-## Description
+# Flavour Text
 Panic only hastens the venom's
 
 passage to the heart.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

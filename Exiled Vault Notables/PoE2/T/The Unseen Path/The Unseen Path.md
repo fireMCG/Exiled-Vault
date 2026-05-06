@@ -1,12 +1,10 @@
-# The Unseen Path
-
-## Effects
+# Effects
 Walk the Paths Not Taken
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Oracle
 #Druid
+#Notable
 #PoE2

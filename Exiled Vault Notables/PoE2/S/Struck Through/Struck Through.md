@@ -1,10 +1,8 @@
-# Struck Through
-
-## Effects
+# Effects
 Attacks have +1% to Critical Hit Chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

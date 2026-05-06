@@ -1,16 +1,14 @@
-# The Return of the Rat
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Return of the Rat.png]]
 
-## Description
+# Flavour Text
 And he shall be heralded by the screams of the damned.
 
-## Reward
+# Reward
 Tavukai
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

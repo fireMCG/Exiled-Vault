@@ -1,12 +1,10 @@
-# Karui Ward
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Karui Ward.png]]
 
-## Description
+# Flavour Text
 "Shoot first, ask no questions."
 - Karui wisdom
 
-## Details
+# Details
 - Requires Level 5
 - +(20-30) to Dexterity
 - +(20-30) to Strength
@@ -15,9 +13,9 @@
 - 10% increased Movement Speed
 - 30% increased Projectile Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

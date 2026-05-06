@@ -1,11 +1,9 @@
-# Concussive Attack
-
-## Effects
+# Effects
 25% increased Attack Damage
 5% chance to Daze on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

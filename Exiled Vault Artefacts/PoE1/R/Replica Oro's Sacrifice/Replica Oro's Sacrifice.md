@@ -1,13 +1,11 @@
-# Replica Oro's Sacrifice
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Oro's Sacrifice.png]]
 
-## Description
+# Flavour Text
 "Ice and flame antagonized in the essence of a prototype.
 What once burned now chills the soul."
 - Researcher Arn
 
-## Details
+# Details
 - Two Hand Sword
 - Elemental Damage: (385-440) to (490-545)
 - Critical Strike Chance: 5.00%
@@ -24,9 +22,9 @@ What once burned now chills the soul."
 - Culling Strike against Frozen Enemies
 - Gain an Endurance Charge if an Attack Freezes an Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Arn
 #Artefact

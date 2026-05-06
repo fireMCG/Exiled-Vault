@@ -1,11 +1,9 @@
-# Circle of Fear (Fractured)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Circle of Fear (Fractured).png]]
 
-## Description
+# Flavour Text
 My subordinates circled me eternally, attuned to the slightest weakness, ready to tear me apart for their own gains.
 
-## Details
+# Details
 - Requires Level 52
 - +(20-30)% to Cold Resistance
 - +(20-30) to Dexterity
@@ -14,9 +12,9 @@ My subordinates circled me eternally, attuned to the slightest weakness, ready t
 - When used in the Synthesiser, the new item will have an additional Herald Modifier
 - +(50-60)% to Cold Resistance while affected by Herald of Ice(40-60)% increased Cold Damage while affected by Herald of IceHerald of Ice has (40-60)% increased Buff EffectHerald of Ice has (40-30)% increased Mana Reservation Efficiency+1% to maximum Cold Resistance while affected by Herald of Ice
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,15 +1,13 @@
-# Nevalius Inheritance
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Nevalius Inheritance.png]]
 
-## Description
+# Flavour Text
 "I come from a long line of scholars, poets, and artists.
 You can imagine how little we leave our children...
 My father only gifted me one thing: for good or ill,
 I don't know when to quit."
 - Victario Nevalius, the People's Poet
 
-## Details
+# Details
 - Requires Level 16
 - (15-25)% increased Stun and Block Recovery
 - +(20-30) to Dexterity
@@ -18,9 +16,9 @@ I don't know when to quit."
 - 2% reduced Flask Effect Duration per Level
 - Flasks applied to you have 1% increased Effect per Level
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

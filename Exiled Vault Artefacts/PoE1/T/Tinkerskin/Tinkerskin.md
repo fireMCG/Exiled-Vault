@@ -1,11 +1,9 @@
-# Tinkerskin
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Tinkerskin.png]]
 
-## Description
+# Flavour Text
 Thin is the line between mechanical genius and magic.
 
-## Details
+# Details
 - Evasion: (1024-1325)
 - Energy Shield: (223-288)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ Thin is the line between mechanical genius and magic.
 - Recover 100 Life when your Trap is triggered by an Enemy
 - Recover 50 Energy Shield when your Trap is triggered by an Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

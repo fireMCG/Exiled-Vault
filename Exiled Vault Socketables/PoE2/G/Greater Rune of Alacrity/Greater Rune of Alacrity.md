@@ -1,20 +1,18 @@
-# Greater Rune of Alacrity
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Greater Rune of Alacrity.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 
-## Effects
+# Effects
 - Martial Weapon: 8% increased Skill Speed
 - Armour: Debuffs on you expire 8% faster
 
-## Bonded Effects
+# Bonded Effects
 - Martial Weapon: 15% increased Reservation Efficiency of Herald Skills
 - Armour: 15% increased Elemental Ailment Threshold
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

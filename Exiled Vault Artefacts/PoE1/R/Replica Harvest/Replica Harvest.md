@@ -1,13 +1,11 @@
-# Replica Harvest
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Harvest.png]]
 
-## Description
+# Flavour Text
 "Why is Prototype #67 never in the vault it should be?
 Either we're keeping faulty logs, or..."
 - Researcher Graven
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (127.6-139.2) to (200.2-218.4)
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ Either we're keeping faulty logs, or..."
 - 3% increased Global Critical Strike Chance per Level
 - Gain Elusive on Critical Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Graven
 #Concept/Nature/Harvest

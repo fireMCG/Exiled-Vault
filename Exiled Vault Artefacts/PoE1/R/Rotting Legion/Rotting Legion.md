@@ -1,11 +1,9 @@
-# Rotting Legion
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rotting Legion.png]]
 
-## Description
+# Flavour Text
 A glacier of putrid meat, crushing mountains and valleys alike.
 
-## Details
+# Details
 - Armour: (650-897)
 - Energy Shield: (132-182)
 - Movement Speed: -5%
@@ -16,9 +14,9 @@ A glacier of putrid meat, crushing mountains and valleys alike.
 - (5-8)% increased Damage per Raised Zombie
 - 1% less Elemental Damage taken per Raised Zombie
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

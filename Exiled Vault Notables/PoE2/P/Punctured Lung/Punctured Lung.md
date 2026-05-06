@@ -1,11 +1,9 @@
-# Punctured Lung
-
-## Effects
+# Effects
 Enemies you Fully Armour Break cannot Regenerate Life
 Enemies you Fully Armour Break are Maimed
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

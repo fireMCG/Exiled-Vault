@@ -1,12 +1,10 @@
-# Silverthorne
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Silverthorne.png]]
 
-## Description
+# Flavour Text
 As a boy, in the arena, Daresso learned to
 feign weakness to open up a lethal blow.
 
-## Details
+# Details
 - Buckler
 - Chance to Block: 20%
 - Evasion: (78-98)
@@ -17,9 +15,9 @@ feign weakness to open up a lethal blow.
 - Parrying applies 10 Stacks of Critical Weakness
 - 100% increased Parry Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

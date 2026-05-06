@@ -1,11 +1,9 @@
-# Yoke of Suffering
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Yoke of Suffering.png]]
 
-## Description
+# Flavour Text
 Let the unrepentant be dragged ever downwards by the weight of their sins.
 
-## Details
+# Details
 - Requires Level 18
 - +(30-40) to maximum Life
 - +(10-15)% to all Elemental Resistances
@@ -14,9 +12,9 @@ Let the unrepentant be dragged ever downwards by the weight of their sins.
 - your Ailments on them
 - (40-30)% reduced Duration of Ignite, Shock and Chill on Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Sin
 #Artefact

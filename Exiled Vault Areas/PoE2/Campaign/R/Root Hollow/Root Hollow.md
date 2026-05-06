@@ -1,15 +1,13 @@
-# Root Hollow
-
-## Description
+# Flavour Text
 [DNT-UNUSED] Tangled roots ensure souls lost in the forest are never found.
 
-## Connected Areas
+# Connected Areas
 - The Grelwood
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

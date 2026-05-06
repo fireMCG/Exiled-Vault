@@ -1,12 +1,10 @@
-# Strategic Embankments
-
-## Effects
+# Effects
 Totems you place grant Embankment Auras
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Tactician
 #Mercenary
+#Notable
 #PoE2

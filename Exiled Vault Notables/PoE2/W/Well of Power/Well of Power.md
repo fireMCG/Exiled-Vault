@@ -1,11 +1,9 @@
-# Well of Power
-
-## Effects
+# Effects
 20% increased Critical Damage Bonus if you've consumed a Power Charge Recently
 Recover 5% of maximum Mana when you consume a Power Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

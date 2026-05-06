@@ -1,11 +1,9 @@
-# Torment Scarab
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Torment Scarab.webp]]
 
-## Description
+# Flavour Text
 Their crimes in life haunt you in death.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -19,9 +17,9 @@ and dig up a Possessed Monster
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Torment
 #Category/Scarab
 #Fragment

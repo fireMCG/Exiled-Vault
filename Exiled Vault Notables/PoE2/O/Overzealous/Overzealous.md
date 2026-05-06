@@ -1,11 +1,9 @@
-# Overzealous
-
-## Effects
+# Effects
 16% increased Cast Speed
 15% increased Mana Cost of Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

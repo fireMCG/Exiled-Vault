@@ -1,11 +1,9 @@
-# The Hungry Loop
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Hungry Loop.png]]
 
-## Description
+# Flavour Text
 Be careful where you put your finger.
 
-## Details
+# Details
 - Requires Level 70
 - Has 1 Socket
 - Consumes Socketed Uncorrupted Support Gems when they reach Maximum Level
@@ -277,9 +275,9 @@ Be careful where you put your finger.
 - Socketed Gems are Supported by Level 3 WardHas Consumed 1 Gem
 - Socketed Gems are supported by Level 20 Elemental Damage with Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# The Princess
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Princess.png]]
 
-## Description
+# Flavour Text
 "She's pretty, aye. So pretty you'll
 want to be with her long after you're dead."
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (9.6-13.5) to (32.4-45)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ want to be with her long after you're dead."
 - 10% increased Damage taken from Skeletons
 - 10% increased Damage taken from Ghosts
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

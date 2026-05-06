@@ -1,11 +1,9 @@
-# Kalguuran Scarab of Enriching
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Kalguuran Scarab of Enriching.webp]]
 
-## Description
+# Flavour Text
 The ore lives and breathes; and is not happy with your efforts.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -17,8 +15,8 @@ for each Ore Deposit completed in Area
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

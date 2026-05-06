@@ -1,12 +1,10 @@
-# Diviner's Strongbox Chance
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Diviner's Strongbox Chance.webp]]
 
-## Effects
+# Effects
 Strongboxes in your Maps have 30% increased chance to be a Diviner's Strongbox
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

@@ -1,14 +1,12 @@
-# Summit
-
-## Description
+# Flavour Text
 We are swept ever upwards by our ambition,
 
 with no thought of what awaits us at the peak.
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #EndgameMap
 #PoE1
-#Interesting

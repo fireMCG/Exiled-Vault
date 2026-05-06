@@ -1,11 +1,9 @@
-# The Ivory Tower
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Ivory Tower.png]]
 
-## Description
+# Flavour Text
 The mind is a filter through which anarchy becomes order.
 
-## Details
+# Details
 - Armour: (443-496)
 - Energy Shield: (76-85)
 - Movement Speed: -5%
@@ -16,9 +14,9 @@ The mind is a filter through which anarchy becomes order.
 - Regenerate 2% of Energy Shield per second
 - Chaos Damage is taken from Mana before Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

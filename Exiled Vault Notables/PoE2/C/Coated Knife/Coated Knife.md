@@ -1,10 +1,8 @@
-# Coated Knife
-
-## Effects
+# Effects
 Critical Hits with Daggers have a 25% chance to Poison the Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

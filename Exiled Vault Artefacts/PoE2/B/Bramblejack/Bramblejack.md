@@ -1,11 +1,9 @@
-# Bramblejack
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Bramblejack.png]]
 
-## Description
+# Flavour Text
 It is safer to be feared than to be loved.
 
-## Details
+# Details
 - Armour: 45
 - Movement Speed: -5.0%
 - +(60-100) to maximum Life
@@ -14,9 +12,9 @@ It is safer to be feared than to be loved.
 - 250% of Melee Physical Damage taken reflected to Attacker
 - Regenerate 5% of maximum Life per second while Surrounded
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

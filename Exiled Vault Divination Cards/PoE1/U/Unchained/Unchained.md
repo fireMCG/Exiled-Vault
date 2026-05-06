@@ -1,18 +1,16 @@
-# Unchained
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Unchained.png]]
 
-## Description
+# Flavour Text
 Mold the world with your bare hands. Be careful, for what is your doing might become your undoing.
 
-## Reward
+# Reward
 Facebreaker
 Two-Implicit
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Prison
 #Category/DivinationCard
 #DivinationCard

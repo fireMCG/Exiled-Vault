@@ -1,11 +1,9 @@
-# Breach Scarab of the Incensed Swarm
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Breach Scarab of the Incensed Swarm.webp]]
 
-## Description
+# Flavour Text
 Their Domain expands further still.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,8 +13,8 @@ and Reward of subsequent waves
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

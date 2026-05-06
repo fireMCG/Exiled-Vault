@@ -1,15 +1,13 @@
-# Journey's End
-
-## Description
+# Flavour Text
 They sailed far, but here, found rest.
 
-## Connected Areas
+# Connected Areas
 - Kedge Bay
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

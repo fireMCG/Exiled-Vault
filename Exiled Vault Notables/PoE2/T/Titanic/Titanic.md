@@ -1,12 +1,10 @@
-# Titanic
-
-## Effects
+# Effects
 30% increased Stun Buildup
 30% increased Stun Threshold
 5% increased Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,10 +1,8 @@
-# Frightening Shield
-
-## Effects
+# Effects
 Apply Debilitate to Enemies 3 Metres in front of you while your Shield is raised
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

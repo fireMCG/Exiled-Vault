@@ -1,13 +1,11 @@
-# Tainted Pact
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Tainted Pact.png]]
 
-## Description
+# Flavour Text
 Beidat made false promises to many denizens
 Converting only one into a conduit
 Through which Wraeclast might be consumed.
 
-## Details
+# Details
 - Requires Level 42
 - Regenerate (2-4) Life per second
 - +(20-30) to Strength
@@ -15,9 +13,9 @@ Through which Wraeclast might be consumed.
 - (1-1.5)% of Physical Attack Damage Leeched as Mana
 - Taking Chaos Damage over Time heals you instead while Leeching Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

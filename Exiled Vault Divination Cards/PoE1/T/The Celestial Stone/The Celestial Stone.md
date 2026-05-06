@@ -1,18 +1,16 @@
-# The Celestial Stone
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Celestial Stone.png]]
 
-## Description
+# Flavour Text
 Stare into its depths too long, and you may lose yourself entirely.
 
-## Reward
+# Reward
 Opal Ring
 Item Level: 100
 Shaper Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Body/Eye
 #Concept/Space
 #Concept/Stone

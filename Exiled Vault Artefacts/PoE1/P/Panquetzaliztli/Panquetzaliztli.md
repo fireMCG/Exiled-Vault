@@ -1,13 +1,11 @@
-# Panquetzaliztli
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Panquetzaliztli.png]]
 
-## Description
+# Flavour Text
 "The most dizzying heights are surrounded by precipitous falls.
 Progress cannot be eternal."
 - Doryani of the Vaal
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (217.8-250) to (295.2-340)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ Progress cannot be eternal."
 - Recover 5% of Life on Kill
 - Enemies Killed with Attack or Spell Hits Explode, dealing 10% of their Life as Fire Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

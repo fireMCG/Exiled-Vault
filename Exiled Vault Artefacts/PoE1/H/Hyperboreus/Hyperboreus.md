@@ -1,11 +1,9 @@
-# Hyperboreus
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hyperboreus.png]]
 
-## Description
+# Flavour Text
 Cold winds whirl at the crown of the world.
 
-## Details
+# Details
 - Requires Level 53
 - +(25-40) to maximum Life
 - +(30-40)% to Cold Resistance
@@ -14,9 +12,9 @@ Cold winds whirl at the crown of the world.
 - (50-70)% increased Damage with Hits and Ailments against Chilled Enemies
 - of the Veil (suffix)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

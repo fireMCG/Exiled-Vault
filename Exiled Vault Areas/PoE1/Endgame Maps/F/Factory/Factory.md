@@ -1,14 +1,12 @@
-# Factory
-
-## Description
+# Flavour Text
 Repetition. Convention. Duplication.
 
 Creation distilled to perfection.
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #EndgameMap
 #PoE1
-#Interesting

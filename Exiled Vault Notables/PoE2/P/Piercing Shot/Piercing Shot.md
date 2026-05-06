@@ -1,10 +1,8 @@
-# Piercing Shot
-
-## Effects
+# Effects
 50% chance to Pierce an Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

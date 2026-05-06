@@ -1,13 +1,11 @@
-# Lair
-
-## Description
+# Flavour Text
 In darkness, the alpha rises. The companionship
 
 of beasts is fragile indeed.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

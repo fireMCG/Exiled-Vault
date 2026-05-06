@@ -1,12 +1,10 @@
-# Glitterdisc
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Glitterdisc.png]]
 
-## Description
+# Flavour Text
 Izaro's insistence on using lava
 resulted in some surprising material discoveries.
 
-## Details
+# Details
 - Chance to Block: 26%
 - Evasion: (136-175)
 - Energy Shield: (72-110)
@@ -20,9 +18,9 @@ resulted in some surprising material discoveries.
 - 25% chance to Avoid Fire Damage from Hits
 - You always Ignite while Burning
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

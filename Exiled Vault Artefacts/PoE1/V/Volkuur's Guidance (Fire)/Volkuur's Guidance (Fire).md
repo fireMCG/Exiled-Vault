@@ -1,13 +1,11 @@
-# Volkuur's Guidance (Fire)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Volkuur's Guidance (Fire).png]]
 
-## Description
+# Flavour Text
 You do not cease to be when you die.
 Any more than the caterpillar ceases to be when it cocoons.
 Come, let me show you.
 
-## Details
+# Details
 - Armour: (78-92)
 - Energy Shield: (16-19)
 - Requires Level 43, 34 Str, 34 Int
@@ -18,9 +16,9 @@ Come, let me show you.
 - 50% less Poison Duration
 - Fire Skills have 20% chance to Poison on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

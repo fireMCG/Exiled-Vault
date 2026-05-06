@@ -1,10 +1,8 @@
-# Temporal Mastery
-
-## Effects
+# Effects
 16% increased Cooldown Recovery Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

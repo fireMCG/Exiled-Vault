@@ -1,12 +1,10 @@
-# The Megalomaniac
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Megalomaniac.png]]
 
-## Description
+# Flavour Text
 In the wake of tyranny,
 The battlefields have been left barren.
 
-## Details
+# Details
 - Duration: 30 seconds
 - Empowers: 25 enemies
 - Empowerment: 10
@@ -19,9 +17,9 @@ The battlefields have been left barren.
 - Empowered Monsters grant (800-1200)% increased Sentinel Power
 - Unmodifiable
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

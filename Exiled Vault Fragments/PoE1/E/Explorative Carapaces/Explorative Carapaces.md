@@ -1,12 +1,10 @@
-# Explorative Carapaces
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Explorative Carapaces.webp]]
 
-## Details
+# Details
 Scarabs dropped in your Maps have 100% increased chance to be Cartography Scarabs
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

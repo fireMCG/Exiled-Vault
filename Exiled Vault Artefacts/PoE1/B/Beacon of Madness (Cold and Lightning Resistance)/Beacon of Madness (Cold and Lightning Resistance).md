@@ -1,11 +1,9 @@
-# Beacon of Madness (Cold and Lightning Resistance)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Beacon of Madness (Cold and Lightning Resistance).png]]
 
-## Description
+# Flavour Text
 Nothing spreads as quickly as an idea.
 
-## Details
+# Details
 - Evasion: (126-145)
 - Energy Shield: (26-30)
 - Requires Level 70, 62 Dex, 62 Int
@@ -16,9 +14,9 @@ Nothing spreads as quickly as an idea.
 - All Damage inflicts Poison while affected by Glorious Madness
 - Enemies you Kill while affected by Glorious Madness have a 40% chance to Explode, dealing a quarter of their Life as Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Madness
 #Artefact

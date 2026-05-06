@@ -1,11 +1,9 @@
-# Defender's Resolve
-
-## Effects
+# Effects
 12% increased Block chance
 Your Heavy Stun buildup empties 50% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

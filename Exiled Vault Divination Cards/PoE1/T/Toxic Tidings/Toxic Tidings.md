@@ -1,19 +1,17 @@
-# Toxic Tidings
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Toxic Tidings.png]]
 
-## Description
+# Flavour Text
 A beast even Einhar
 will not hunt.
 
-## Reward
+# Reward
 Dendrobate
  Two-Implicit
  Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Einhar
 #Category/DivinationCard
 #DivinationCard

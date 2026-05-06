@@ -1,16 +1,14 @@
-# The Eldritch Decay
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Eldritch Decay.png]]
 
-## Description
+# Flavour Text
 Time dismantles all things eventually, but some wish to accelerate the process.
 
-## Reward
+# Reward
 Uber Elder Fragment
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Decay
 #Character/Eldritch/Elder

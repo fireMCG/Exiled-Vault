@@ -1,12 +1,10 @@
-# Immune Response
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Immune Response.webp]]
 
-## Effects
+# Effects
 Blight Monsters in your Maps spawn 150% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

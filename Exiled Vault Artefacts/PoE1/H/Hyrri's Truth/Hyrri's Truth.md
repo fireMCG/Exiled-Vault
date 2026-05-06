@@ -1,11 +1,9 @@
-# Hyrri's Truth
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hyrri's Truth.png]]
 
-## Description
+# Flavour Text
 Strike true, strike hard, and leave no survivors to retaliate.
 
-## Details
+# Details
 - Requires Level 64
 - +(20-30) to Dexterity
 - Grants Level 30 Precision Skill
@@ -14,9 +12,9 @@ Strike true, strike hard, and leave no survivors to retaliate.
 - Bow Attacks have Culling Strike
 - Precision has 100% increased Mana Reservation Efficiency
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

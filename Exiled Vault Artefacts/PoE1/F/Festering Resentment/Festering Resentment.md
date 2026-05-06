@@ -1,12 +1,10 @@
-# Festering Resentment
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Festering Resentment.png]]
 
-## Description
+# Flavour Text
 That which we cannot forgive
 harms all those we hold dear.
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: 24-97
 - Critical Strike Chance: 9.00%
@@ -21,9 +19,9 @@ harms all those we hold dear.
 - Triggered Spells Poison on Hit
 - All Damage with Triggered Spells can Poison
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Ceaseless Feast
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ceaseless Feast.png]]
 
-## Description
+# Flavour Text
 Lost in a sea of limbs and screaming faces, they claw
 for any fleeting pleasure which might dull the pain.
 
-## Details
+# Details
 - Armour: (440-632)
 - Requires Level 70, 95 Str
 - (16-20)% increased Melee Damage
@@ -16,9 +14,9 @@ for any fleeting pleasure which might dull the pain.
 - (20-30)% chance to gain an Endurance Charge on Hitting an Enemy with no Armour
 - (20-30)% chance to gain a Frenzy Charge on Hitting an Enemy with no Evasion Rating
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

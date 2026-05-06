@@ -1,12 +1,10 @@
-# Rive
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rive.png]]
 
-## Description
+# Flavour Text
 Terror doesn't make you jump.
 Terror makes you run.
 
-## Details
+# Details
 - Claw
 - Physical Damage: (68.8-95.4) to (193.6-244.8)
 - Critical Strike Chance: 7.50%
@@ -21,9 +19,9 @@ Terror makes you run.
 - 1% increased Bleeding Duration per 12 Intelligence
 - 30% Chance to cause Bleeding Enemies to Flee on hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

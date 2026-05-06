@@ -1,14 +1,12 @@
-# Trial of Chaos
-
-## Description
+# Flavour Text
 Here, all challengers were welcome, regardless of wealth or station.
 
-## Connected Areas
+# Connected Areas
 - The Temple of Chaos
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

@@ -1,16 +1,14 @@
-# The Beast
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Beast.png]]
 
-## Description
+# Flavour Text
 To know the monster, you must become the monster.
 
-## Reward
+# Reward
 Belly of the Beast
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Beast
 #Concept/Communion
 #Category/DivinationCard

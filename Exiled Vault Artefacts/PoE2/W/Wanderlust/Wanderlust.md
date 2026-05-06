@@ -1,11 +1,9 @@
-# Wanderlust
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Wanderlust.png]]
 
-## Description
+# Flavour Text
 All the world is my home.
 
-## Details
+# Details
 - Energy Shield: (32-42)
 - Requires Level 11, 17 Int
 - 20% increased Movement Speed
@@ -13,9 +11,9 @@ All the world is my home.
 - +5 to Dexterity
 - Your speed is unaffected by Slows
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,12 +1,10 @@
-# Aegis Aurora
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Aegis Aurora.png]]
 
-## Description
+# Flavour Text
 Born from the marriage of ice and sky,
 the aurora evokes both awe and power.
 
-## Details
+# Details
 - Chance to Block: 32%
 - Armour: (860-1235)
 - Energy Shield: (176-250)
@@ -19,9 +17,9 @@ the aurora evokes both awe and power.
 - Recover Energy Shield equal to 2% of Armour when you Block
 - (10-20)% increased Elemental Damage with Attack Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Element/Ice
 #Concept/Power

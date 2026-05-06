@@ -1,14 +1,12 @@
-# The Ship Graveyard Cave
-
-## Description
+# Flavour Text
 A corpse's throat, exhaling death.
 
-## Connected Areas
+# Connected Areas
 - The Ship Graveyard
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

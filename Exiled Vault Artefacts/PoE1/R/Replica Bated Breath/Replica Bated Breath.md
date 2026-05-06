@@ -1,13 +1,11 @@
-# Replica Bated Breath
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Bated Breath.png]]
 
-## Description
+# Flavour Text
 "I cannot fathom the mysteries of Prototype #16. It did nearly nothing until I
 brought it to [RESTRICTED]. It makes no sense!"
 - Researcher Graven
 
-## Details
+# Details
 - Requires Level 22
 - +(9-20) to maximum Energy Shield
 - -(25-15) to Intelligence
@@ -16,9 +14,9 @@ brought it to [RESTRICTED]. It makes no sense!"
 - 20% increased Fishing Range
 - (20-30)% increased Rarity of Fish Caught
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

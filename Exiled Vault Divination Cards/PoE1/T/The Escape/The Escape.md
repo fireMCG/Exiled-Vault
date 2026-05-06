@@ -1,16 +1,14 @@
-# The Escape
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Escape.png]]
 
-## Description
+# Flavour Text
 In fleeing reality, you step into the realm of madness.
 
-## Reward
+# Reward
 Seven-League Step
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Madness
 #Concept/Mirror

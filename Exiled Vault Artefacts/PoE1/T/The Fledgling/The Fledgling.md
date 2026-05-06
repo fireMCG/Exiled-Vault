@@ -1,11 +1,9 @@
-# The Fledgling
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Fledgling.png]]
 
-## Description
+# Flavour Text
 The single well-placed arrow that changes the world must be preceded by ten thousand practice shots.
 
-## Details
+# Details
 - Armour: (345-465)
 - Evasion: (345-465)
 - Requires Level 51, 57 Str, 57 Dex
@@ -15,9 +13,9 @@ The single well-placed arrow that changes the world must be preceded by ten thou
 - Projectiles cannot collide with Enemies in Close Range
 - Far Shot
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Flooded Mine
-
-## Description
+# Flavour Text
 In darkness, beast and man
 
 alike clamour to survive.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

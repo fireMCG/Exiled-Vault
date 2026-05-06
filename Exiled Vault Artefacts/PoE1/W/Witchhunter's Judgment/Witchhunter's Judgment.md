@@ -1,11 +1,9 @@
-# Witchhunter's Judgment
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Witchhunter's Judgment.png]]
 
-## Description
+# Flavour Text
 The pyre is never wasted on just one heretic.
 
-## Details
+# Details
 - Staff
 - Physical Damage: 48-145
 - Critical Strike Chance: 8.25%
@@ -16,9 +14,9 @@ The pyre is never wasted on just one heretic.
 - Grants Level 20 Brandsurge Skill
 - Brand Skills have (50-100)% increased Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

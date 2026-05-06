@@ -1,20 +1,18 @@
-# Nadir Mode
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Nadir Mode.png]]
 
-## Description
+# Flavour Text
 Indiscriminate destruction fueled by science gone mad.
 
-## Details
+# Details
 - Limited to: 1
 - (20-25)% increased Spell Damage
 - Spells have (30-50)% increased Critical Strike Chance per Intensity
 - Spells which have gained Intensity Recently lose 1 Intensity every 0.50 Seconds
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

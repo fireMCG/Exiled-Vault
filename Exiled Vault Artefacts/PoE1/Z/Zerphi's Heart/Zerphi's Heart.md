@@ -1,11 +1,9 @@
-# Zerphi's Heart
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Zerphi's Heart.png]]
 
-## Description
+# Flavour Text
 We are incapable of change without sacrifice, for we are both the iron and the forge.
 
-## Details
+# Details
 - Requires Level 70
 - (20-30)% increased Mana Regeneration Rate
 - Adds (48-53) to (58-60) Chaos Damage
@@ -13,9 +11,9 @@ We are incapable of change without sacrifice, for we are both the iron and the f
 - Chaos Damage can Ignite, Chill and Shock
 - Gain Soul Eater for 20 seconds when you use a Vaal Skill
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

@@ -1,12 +1,10 @@
-# The Queen's Hunger
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Queen's Hunger.png]]
 
-## Description
+# Flavour Text
 In their crimson nightmare, the Vaal are still sacrificing themselves to her glory and beauty.
 They stab their own hearts and cry out in ecstasy, only to rise again.
 
-## Details
+# Details
 - Energy Shield: (342-453)
 - Movement Speed: -3%
 - Requires Level 68, 194 Int
@@ -17,9 +15,9 @@ They stab their own hearts and cry out in ecstasy, only to rise again.
 - Catarina's Veiled (prefix)
 - of the Veil (suffix)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

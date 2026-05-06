@@ -1,13 +1,11 @@
-# Death Articulated
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Death Articulated.png]]
 
-## Description
+# Flavour Text
 "The mind at the center of the swarm... K'Tash does
 the thinking... but it has only one thought... hate."
 - Rantings of a Templar prisoner, page ninety-four
 
-## Details
+# Details
 - Armour: (134-167)
 - Evasion: (122-152)
 - Requires Level 65, 44 Str, 44 Dex
@@ -18,9 +16,9 @@ the thinking... but it has only one thought... hate."
 - Regenerate 5 Rage per second
 - No Inherent loss of Rage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,20 +1,18 @@
-# Idol of Egrin
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Idol of Egrin.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Helmets: Enemies you Curse take 6% increased Damage
 
-## Bonded Effects
+# Bonded Effects
 - Helmets: 20% increased Area of Effect of Curses
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

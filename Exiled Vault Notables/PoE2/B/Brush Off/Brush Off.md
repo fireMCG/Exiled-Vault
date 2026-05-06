@@ -1,10 +1,8 @@
-# Brush Off
-
-## Effects
+# Effects
 Prevent +15% of Damage from Deflected Critical Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

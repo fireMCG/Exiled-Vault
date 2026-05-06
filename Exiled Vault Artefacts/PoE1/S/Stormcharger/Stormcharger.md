@@ -1,11 +1,9 @@
-# Stormcharger
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Stormcharger.png]]
 
-## Description
+# Flavour Text
 Like lightning, the Ezomyte cavalry need never strike twice.
 
-## Details
+# Details
 - Armour: (77-96)
 - Requires Level 23, 44 Str
 - +(1-50)% to Lightning Resistance
@@ -14,9 +12,9 @@ Like lightning, the Ezomyte cavalry need never strike twice.
 - Unaffected by Shocked Ground
 - (1-50)% increased Effect of Lightning Ailments
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

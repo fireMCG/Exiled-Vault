@@ -1,13 +1,11 @@
-# Skysunder
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Skysunder.png]]
 
-## Description
+# Flavour Text
 "To the Children of Winter, the Sun was but a myth. While Lundara held Kulemak
 impaled, Solerai struck - not at him, but upwards. Her blade pierce the heavens,
 and searing light embraced her golden armour. The Sun was real, and it was her."
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: (154.1-174.2) to (257.6-291.2)
 - Critical Strike Chance: (6.84-7.98)%
@@ -24,8 +22,8 @@ and searing light embraced her golden armour. The Sun was real, and it was her."
 - Ignites you inflict with this weapon spread to other Enemies within 2.8 metres
 - Unaffected by Ignite
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE1

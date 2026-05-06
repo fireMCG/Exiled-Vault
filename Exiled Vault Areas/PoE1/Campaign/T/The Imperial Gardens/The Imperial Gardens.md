@@ -1,16 +1,14 @@
-# The Imperial Gardens
-
-## Description
+# Flavour Text
 Nature outgrows the designs of Man.
 
-## Connected Areas
+# Connected Areas
 - The Ebony Barracks
 - The Library
 - The Sceptre of God
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

@@ -1,11 +1,9 @@
-# Storm Surge
-
-## Effects
+# Effects
 Damage Penetrates 8% Cold Resistance
 Damage Penetrates 15% Lightning Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

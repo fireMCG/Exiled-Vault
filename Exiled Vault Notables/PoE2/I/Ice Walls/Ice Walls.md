@@ -1,10 +1,8 @@
-# Ice Walls
-
-## Effects
+# Effects
 200% increased Ice Crystal Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

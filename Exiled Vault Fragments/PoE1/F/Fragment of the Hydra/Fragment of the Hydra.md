@@ -1,12 +1,10 @@
-# Fragment of the Hydra
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Fragment of the Hydra.webp]]
 
-## Description
+# Flavour Text
 Enter the crucible. The nexus of
 nothingness and equilibrium of eternity.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 10
 Limit: 1
@@ -16,9 +14,9 @@ Area Level: 84
 Can be used in a personal Map Device.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Fragment
 #Fragment
 #PoE1

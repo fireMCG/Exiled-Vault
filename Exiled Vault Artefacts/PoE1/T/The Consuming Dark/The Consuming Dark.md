@@ -1,11 +1,9 @@
-# The Consuming Dark
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Consuming Dark.png]]
 
-## Description
+# Flavour Text
 The brightest flames cast the darkest shadows.
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: 22-87
 - Critical Strike Chance: 9.00%
@@ -19,9 +17,9 @@ The brightest flames cast the darkest shadows.
 - 30% of Fire Damage Converted to Chaos Damage
 - Your Chaos Damage has 60% chance to Poison Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

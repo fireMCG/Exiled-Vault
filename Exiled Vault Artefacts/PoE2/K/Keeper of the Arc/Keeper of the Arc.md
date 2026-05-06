@@ -1,12 +1,10 @@
-# Keeper of the Arc
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Keeper of the Arc.png]]
 
-## Description
+# Flavour Text
 The priests of the Kalguur keep faith through numbers
 and calculation, not unprovable promises.
 
-## Details
+# Details
 - Armour: (242-339)
 - Energy Shield: (87-122)
 - Requires Level 62, 36 Str, 36 Int
@@ -17,9 +15,9 @@ and calculation, not unprovable promises.
 - Take 40% less Damage from Hits
 - Take 40% less Damage over time
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Lycosidae
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Lycosidae.png]]
 
-## Description
+# Flavour Text
 A true predator does not chase; It waits.
 
-## Details
+# Details
 - Shield
 - Chance to Block: (28-29)%
 - Armour: (120-150)
@@ -17,9 +15,9 @@ A true predator does not chase; It waits.
 - Accuracy Rating is Doubled
 - Blocking Damage Poisons the Enemy as though dealing 200 Base Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

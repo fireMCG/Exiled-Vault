@@ -1,17 +1,15 @@
-# Quipolatl's Soul Core of Flow
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Quipolatl's Soul Core of Flow.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Helmets: 8% increased Skill Effect Duration, 8% increased Cooldown Recovery Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

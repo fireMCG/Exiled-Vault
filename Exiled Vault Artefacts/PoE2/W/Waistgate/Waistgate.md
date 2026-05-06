@@ -1,11 +1,9 @@
-# Waistgate
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Waistgate.png]]
 
-## Description
+# Flavour Text
 Clever artifice is not alaways complex.
 
-## Details
+# Details
 - Requires Level 50
 - Has (1-3) Charm Slots
 - (20-30)% increased Stun Threshold
@@ -15,9 +13,9 @@ Clever artifice is not alaways complex.
 - (20-30)% increased Flask Mana Recovery rate
 - Life and Mana Flasks can be equipped in either slot
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

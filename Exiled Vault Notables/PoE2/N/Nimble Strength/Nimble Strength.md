@@ -1,11 +1,9 @@
-# Nimble Strength
-
-## Effects
+# Effects
 10% increased Attack Damage
 Gain Accuracy Rating equal to your Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,11 +1,9 @@
-# Cowl of the Ceraunophile
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cowl of the Ceraunophile.png]]
 
-## Description
+# Flavour Text
 The villagers seared the blight with lightning, but it only forked into countless tendrils.
 
-## Details
+# Details
 - Energy Shield: (96-122)
 - Requires Level 59, 122 Int
 - Can have a second Enchantment Modifier
@@ -16,9 +14,9 @@ The villagers seared the blight with lightning, but it only forked into countles
 - Lightning Resistance is 75%
 - This item can be anointed by Cassia
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Cemetery
-
-## Description
+# Flavour Text
 A stone forest of forgotten names.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

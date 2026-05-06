@@ -1,13 +1,11 @@
-# Rebuke of the Vaal
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rebuke of the Vaal.png]]
 
-## Description
+# Flavour Text
 Though the Vaal revered peace, it would have
 been suicide for any culture to rouse them to war.
 - Icius Perandus, Scholar to the Empire.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (95-144) to (187-226)
 - Elemental Damage: (49-98) to (101-140), (49-98) to (101-140), 1 to (210-250)
@@ -24,9 +22,9 @@ been suicide for any culture to rouse them to war.
 - Adds (49-98) to (101-140) Chaos Damage
 - (10-20)% increased Attack Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

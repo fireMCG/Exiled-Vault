@@ -1,11 +1,9 @@
-# The Gryphon
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Gryphon.png]]
 
-## Description
+# Flavour Text
 The gryphon knows only the hunt and the flight.
 
-## Details
+# Details
 - One Handed Axe
 - Physical Damage: (54-72.5) to (108-130.5)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ The gryphon knows only the hunt and the flight.
 - 10% increased Movement Speed
 - 15% increased Movement Speed if you've Killed Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

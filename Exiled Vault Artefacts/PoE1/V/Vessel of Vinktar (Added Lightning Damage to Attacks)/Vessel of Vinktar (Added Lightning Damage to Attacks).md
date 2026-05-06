@@ -1,11 +1,9 @@
-# Vessel of Vinktar (Added Lightning Damage to Attacks)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Vessel of Vinktar (Added Lightning Damage to Attacks).png]]
 
-## Description
+# Flavour Text
 The great city of storms, washed away by Vinktar's thirst for power.
 
-## Details
+# Details
 - Lasts 8.00 Seconds
 - Consumes (45-50) of 50 Charges on use
 - +40% to Lightning Resistance
@@ -18,9 +16,9 @@ The great city of storms, washed away by Vinktar's thirst for power.
 - 20% of Lightning Damage Leeched as Life during Effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

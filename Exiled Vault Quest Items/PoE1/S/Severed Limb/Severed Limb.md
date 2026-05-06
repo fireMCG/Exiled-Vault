@@ -1,13 +1,11 @@
-# Severed Limb
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Severed Limb.png]]
 
-## Description
+# Flavour Text
 We give of our flesh so that
 the Lords may thrive.
 
-##
+#
 ---
-## Tags
+# Tags
 #QuestItem
 #PoE1

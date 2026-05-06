@@ -1,12 +1,10 @@
-# The Scourge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Scourge.png]]
 
-## Description
+# Flavour Text
 With increasing mastery over death
 comes an increasing desire for it.
 
-## Details
+# Details
 - Claw
 - Physical Damage: (53-68) to (171-196)
 - Critical Strike Chance: 7.50%
@@ -20,9 +18,9 @@ comes an increasing desire for it.
 - Increases and Reductions to Minion Damage also affect you at 150% of their value
 - Minions deal 70% increased Damage if you've Hit Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

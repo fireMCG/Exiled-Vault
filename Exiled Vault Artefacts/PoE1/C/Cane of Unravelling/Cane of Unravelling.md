@@ -1,14 +1,12 @@
-# Cane of Unravelling
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cane of Unravelling.png]]
 
-## Description
+# Flavour Text
 "Creation is the act of making the intangible tangible.
 To work backwards, to make the tangible intangible,
 is to step into the mind of God."
 - Doryani, Queen's Thaumaturgist
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 53-160
 - Critical Strike Chance: 8.50%
@@ -23,9 +21,9 @@ is to step into the mind of God."
 - Gain a Power Charge after Spending a total of 200 Mana
 - Regenerate 2 Mana per Second per Power Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

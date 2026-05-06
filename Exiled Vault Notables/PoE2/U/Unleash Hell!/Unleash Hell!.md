@@ -1,12 +1,10 @@
-# Unleash Hell!
-
-## Effects
+# Effects
 Grants Skill: Supporting Fire
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Tactician
 #Mercenary
+#Notable
 #PoE2

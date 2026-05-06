@@ -1,11 +1,9 @@
-# Nomic's Storm
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Nomic's Storm.png]]
 
-## Description
+# Flavour Text
 It takes a clear mind to outrun a storm.
 
-## Details
+# Details
 - Evasion: (60-89)
 - Energy Shield: (22-39)
 - Requires Level 16, 18 Dex, 18 Int
@@ -17,9 +15,9 @@ It takes a clear mind to outrun a storm.
 - 15% increased Damage taken while on Full Energy Shield
 - 20% increased Movement Speed while on Full Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

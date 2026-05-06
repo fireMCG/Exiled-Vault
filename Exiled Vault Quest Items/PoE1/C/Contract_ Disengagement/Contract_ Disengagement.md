@@ -1,13 +1,11 @@
-# Contract_ Disengagement
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Contract_ Disengagement.png]]
 
-## Description
+# Flavour Text
 It isn't fair to either of us to keep chasing this dream.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE1

@@ -1,11 +1,9 @@
-# Mark of the Shaper
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mark of the Shaper.png]]
 
-## Description
+# Flavour Text
 Let madness take control.
 
-## Details
+# Details
 - Requires Level 80
 - (15-25)% increased Elemental Damage
 - 20% chance to Trigger Level 20 Summon Volatile Anomaly on Kill
@@ -15,9 +13,9 @@ Let madness take control.
 - (60-80)% increased Spell Damage if your opposite Ring is an Elder Item
 - Cannot be Stunned by Spells if your opposite Ring is a Shaper Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

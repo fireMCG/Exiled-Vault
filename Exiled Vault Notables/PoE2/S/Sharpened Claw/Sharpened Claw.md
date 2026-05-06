@@ -1,10 +1,8 @@
-# Sharpened Claw
-
-## Effects
+# Effects
 30% increased Physical Damage while Shapeshifted
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,11 +1,9 @@
-# Plaza
-
-## Description
+# Flavour Text
 Drought took the plants, famine took the people.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

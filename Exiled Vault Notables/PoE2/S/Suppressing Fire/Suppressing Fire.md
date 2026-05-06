@@ -1,12 +1,10 @@
-# Suppressing Fire
-
-## Effects
+# Effects
 40% more Immobilisation buildup
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Tactician
 #Mercenary
+#Notable
 #PoE2

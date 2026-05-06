@@ -1,13 +1,11 @@
-# Briskwrap
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Briskwrap.png]]
 
-## Description
+# Flavour Text
 "I carry neither food nor drink. I rely on the charity
 of my fellow wayfarers. Dead men are generous men."
 - Taruk of the Wildmen
 
-## Details
+# Details
 - Evasion: (444-562)
 - Movement Speed: -3%
 - Requires Level 32, 91 Dex
@@ -17,9 +15,9 @@ of my fellow wayfarers. Dead men are generous men."
 - 15% increased Dexterity
 - 1% increased Damage per 15 Dexterity
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

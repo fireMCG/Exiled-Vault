@@ -1,11 +1,9 @@
-# Cinderswallow Urn
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cinderswallow Urn.png]]
 
-## Description
+# Flavour Text
 A controlled burn is sometimes necessary for new life.
 
-## Details
+# Details
 - Lasts 6.00 Seconds
 - Consumes 40 of (70-80) Charges on use
 - Onslaught
@@ -17,9 +15,9 @@ A controlled burn is sometimes necessary for new life.
 - Recover (1-3)% of Life when you Kill an Enemy during EffectRecover (1-3)% of Mana when you Kill an Enemy during EffectRecover (1-3)% of Energy Shield when you Kill an Enemy during Effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

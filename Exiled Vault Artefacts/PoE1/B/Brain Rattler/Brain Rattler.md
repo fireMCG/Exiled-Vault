@@ -1,11 +1,9 @@
-# Brain Rattler
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Brain Rattler.png]]
 
-## Description
+# Flavour Text
 The mind may have no limits, but the skull sure does.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (174-204) to (498-568)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ The mind may have no limits, but the skull sure does.
 - Enemies you Shock have 30% reduced Cast Speed
 - Enemies you Shock have 20% reduced Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

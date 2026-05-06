@@ -1,10 +1,8 @@
-# Waning Hindrances
-
-## Effects
+# Effects
 Debuffs on you expire 25% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# The Apostate
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Apostate.png]]
 
-## Description
+# Flavour Text
 When I finally rejected my faith entirely, my stagnant belief
 became thick white blood, as choking as it was nourishing.
 
-## Details
+# Details
 - Movement Speed: -3%
 - Requires Level 35
 - Has no Attribute Requirements or Energy Shield (Hidden)
@@ -14,9 +12,9 @@ became thick white blood, as choking as it was nourishing.
 - +(20-30)% to all Elemental Resistances
 - Gain Maximum Life instead of Maximum Energy Shield from Equipped Armour Items
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

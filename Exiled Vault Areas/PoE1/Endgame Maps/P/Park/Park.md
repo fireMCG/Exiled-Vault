@@ -1,11 +1,9 @@
-# Park
-
-## Description
+# Flavour Text
 A brief respite in a sea of obligation and uncertainty.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

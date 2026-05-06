@@ -1,12 +1,10 @@
-# Domination Shrine Chance
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Domination Shrine Chance.webp]]
 
-## Effects
+# Effects
 Your Maps have a 20% chance to contain an additional Shrine
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

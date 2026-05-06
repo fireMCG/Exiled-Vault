@@ -1,11 +1,9 @@
-# Burial Bog
-
-## Description
+# Flavour Text
 The land returns the dead as easily as it received them.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

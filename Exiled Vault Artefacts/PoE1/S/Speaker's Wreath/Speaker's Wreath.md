@@ -1,13 +1,11 @@
-# Speaker's Wreath
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Speaker's Wreath.png]]
 
-## Description
+# Flavour Text
 A strong pair of legs may carry you far,
 but a silver tongue and a few brutes
 can take you to the edge of the world.
 
-## Details
+# Details
 - Armour: (224-258)
 - Energy Shield: (32-37)
 - Requires Level 63, 85 Str, 62 Int
@@ -17,9 +15,9 @@ can take you to the edge of the world.
 - 2% increased Minion Movement Speed per 50 Dexterity
 - Minions' Hits can only Kill Ignited Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

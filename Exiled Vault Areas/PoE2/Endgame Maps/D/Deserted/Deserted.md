@@ -1,11 +1,9 @@
-# Deserted
-
-## Description
+# Flavour Text
 A city ravaged by time and sands.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

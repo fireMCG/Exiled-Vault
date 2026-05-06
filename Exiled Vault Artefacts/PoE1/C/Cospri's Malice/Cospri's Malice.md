@@ -1,14 +1,12 @@
-# Cospri's Malice
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cospri's Malice.png]]
 
-## Description
+# Flavour Text
 Breathe deep, my child.
 Let the frigid air engulf your soul.
 Embrace the eternal cold,
 And it will embrace you back.
 
-## Details
+# Details
 - One Handed Sword
 - Elemental Damage: (80-100) to (160-200)
 - Critical Strike Chance: 5.50%
@@ -24,9 +22,9 @@ And it will embrace you back.
 - +257 Intelligence Requirement
 - 60% increased Critical Strike Chance against Chilled Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

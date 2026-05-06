@@ -1,10 +1,8 @@
-# Core of the Guardian
-
-## Effects
+# Effects
 100% increased Defences from Equipped Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,15 +1,13 @@
-# The Halani Gates
-
-## Description
+# Flavour Text
 Maws of stone threaten to snap shut on the unwary.
 
-## Connected Areas
+# Connected Areas
 - Traitor's Passage
 - The Ardura Caravan
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

@@ -1,12 +1,10 @@
-# Nocturne
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Nocturne.png]]
 
-## Description
+# Flavour Text
 Light and shadow chase eternal,
 but neither knows the other exists...
 
-## Details
+# Details
 - Buckler
 - Chance to Block: 20%
 - Evasion: 16
@@ -18,9 +16,9 @@ but neither knows the other exists...
 - Parried enemies take more Spell Damage instead of more Attack Damage
 - 100% increased Parried Debuff Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

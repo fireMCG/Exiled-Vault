@@ -1,11 +1,9 @@
-# Slick
-
-## Description
+# Flavour Text
 Stagnant oils mix to form a deadly concoction.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

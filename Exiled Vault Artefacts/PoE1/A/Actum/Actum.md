@@ -1,12 +1,10 @@
-# Actum
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Actum.png]]
 
-## Description
+# Flavour Text
 Better to act without thought
 than to think without action.
 
-## Details
+# Details
 - One Handed Axe
 - Physical Damage: (141-164.5) to (261-304.5)
 - Critical Strike Chance: 5.00%
@@ -18,9 +16,9 @@ than to think without action.
 - You have no Intelligence
 - Critical Strike Chance is (30-40)% for Hits with this Weapon
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

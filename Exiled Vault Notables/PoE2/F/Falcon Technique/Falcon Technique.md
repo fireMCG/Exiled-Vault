@@ -1,10 +1,8 @@
-# Falcon Technique
-
-## Effects
+# Effects
 1% increased Attack Speed per 25 Dexterity
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

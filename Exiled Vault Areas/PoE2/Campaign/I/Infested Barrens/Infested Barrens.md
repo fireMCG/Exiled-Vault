@@ -1,17 +1,15 @@
-# Infested Barrens
-
-## Description
+# Flavour Text
 Armies march unseen under the earth.
 
-## Connected Areas
+# Connected Areas
 - Jungle Ruins
 - Chimeral Wetlands
 - The Matlan Waterways
 - The Azak Bog
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

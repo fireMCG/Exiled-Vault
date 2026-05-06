@@ -1,10 +1,8 @@
-# Sigil of Fire
-
-## Effects
+# Effects
 30% increased Damage with Hits against Ignited Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

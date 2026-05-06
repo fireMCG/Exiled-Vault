@@ -1,15 +1,13 @@
-# The Ancient Pyramid
-
-## Description
+# Flavour Text
 Two thousand years of regret.
 
-## Connected Areas
+# Connected Areas
 - The Caverns
 - The City of Sarn
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

@@ -1,13 +1,11 @@
-# Amor Mandragora
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Amor Mandragora.png]]
 
-## Description
+# Flavour Text
 A sensitive few among the first settlers of Ezomyr
 followed the wisps by canoe. On a misty forested
 island, Cirel of Tarth stood waiting to greet them.
 
-## Details
+# Details
 - Physical Damage: (25-29) to (38-42)
 - Critical Strike Chance: 8.00%
 - Attacks per Second: 1.25
@@ -18,8 +16,8 @@ island, Cirel of Tarth stood waiting to greet them.
 - Enemies in your Presence are Hindered
 - Gain 1 Druidic Prowess for every 20 total Rage spent
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE2

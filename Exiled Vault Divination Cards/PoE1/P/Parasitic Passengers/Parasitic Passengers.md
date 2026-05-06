@@ -1,17 +1,15 @@
-# Parasitic Passengers
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Parasitic Passengers.png]]
 
-## Description
+# Flavour Text
 Feeding on death, they grew stronger and stronger, until they were ready to hatch...
 
-## Reward
+# Reward
 10x Incubator
 Item Level: 84
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Death
 #Category/DivinationCard
 #DivinationCard

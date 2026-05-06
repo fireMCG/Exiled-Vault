@@ -1,10 +1,8 @@
-# Passthrough Rounds
-
-## Effects
+# Effects
 Projectiles Pierce enemies with Fully Broken Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

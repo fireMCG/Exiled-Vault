@@ -1,12 +1,10 @@
-# Treefingers
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Treefingers.png]]
 
-## Description
+# Flavour Text
 The largest beings on Wraeclast
 are not flesh and blood.
 
-## Details
+# Details
 - Armour: (40-49)
 - Requires Level 11, 16 Str
 - (30-60)% increased Armour
@@ -16,9 +14,9 @@ are not flesh and blood.
 - Giant's Blood
 - +(15-20) to Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

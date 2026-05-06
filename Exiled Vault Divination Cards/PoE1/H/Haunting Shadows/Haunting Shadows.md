@@ -1,17 +1,15 @@
-# Haunting Shadows
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Haunting Shadows.png]]
 
-## Description
+# Flavour Text
 In the dead of night you may elude your shadows,
 but they will always find you by dawn.
 
-## Reward
+# Reward
 Metamorph Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

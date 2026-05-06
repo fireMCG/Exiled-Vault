@@ -1,13 +1,11 @@
-# Maloney's Mechanism
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Maloney's Mechanism.png]]
 
-## Description
+# Flavour Text
 Midnight tinkering begets midday murdering;
 a sinister shaft surreptitiously shot slays a scoundrel.
 I will see them again, but not until my work is done.
 
-## Details
+# Details
 - Requires Level 45
 - Has 1 Socket
 - Has 2 Sockets
@@ -16,9 +14,9 @@ I will see them again, but not until my work is done.
 - +(50-70) to maximum Life
 - 5% chance to Blind Enemies on Hit with Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/RikerMaloney
 #Artefact

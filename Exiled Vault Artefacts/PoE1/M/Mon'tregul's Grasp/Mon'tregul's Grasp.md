@@ -1,11 +1,9 @@
-# Mon'tregul's Grasp
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mon'tregul's Grasp.png]]
 
-## Description
+# Flavour Text
 With death as my ally, all the world is within my grasp.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 50-76
 - Critical Strike Chance: 7.30%
@@ -20,9 +18,9 @@ With death as my ally, all the world is within my grasp.
 - Enemies Killed by Zombies' Hits Explode, dealing 50% of their Life as Fire Damage
 - Raised Zombies deal (100-125)% more Physical Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

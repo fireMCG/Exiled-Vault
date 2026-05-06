@@ -1,11 +1,9 @@
-# The Depraved
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Depraved.png]]
 
-## Description
+# Flavour Text
 Even after she harvested their tongues, they were still able to scream.
 
-## Details
+# Details
 - Duration: 20 seconds
 - Empowers: 1 enemies
 - Empowerment: 100
@@ -18,9 +16,9 @@ Even after she harvested their tongues, they were still able to scream.
 - Empowered Monsters drop (8-12) > RewardsEmpowered Monsters drop (8-12) Currency RewardsEmpowered Monsters drop (8-12) Divination Card RewardsEmpowered Monsters drop (8-12) Fragment RewardsEmpowered Monsters drop (8-12) Map RewardsEmpowered Monsters drop (8-12) Scarab RewardsEmpowered Monsters drop (8-12) Sentinel RewardsEmpowered Monsters drop (8-12) Unique Rewards
 - Unmodifiable
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

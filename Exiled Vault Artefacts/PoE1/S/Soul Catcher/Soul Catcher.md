@@ -1,11 +1,9 @@
-# Soul Catcher
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Soul Catcher.png]]
 
-## Description
+# Flavour Text
 Freedom is for the privileged, even in death.
 
-## Details
+# Details
 - Lasts 6.00 Seconds
 - Consumes 30 of 60 Charges on use
 - Phasing
@@ -17,9 +15,9 @@ Freedom is for the privileged, even in death.
 - Vaal Skills used during effect have 10% reduced Soul Gain Prevention Duration
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

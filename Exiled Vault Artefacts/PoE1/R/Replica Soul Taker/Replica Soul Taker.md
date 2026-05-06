@@ -1,12 +1,10 @@
-# Replica Soul Taker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Soul Taker.png]]
 
-## Description
+# Flavour Text
 "Nothing feels so smooth in the hand as Prototype #66.
 Results like these may justify everything we do here."
 
-## Details
+# Details
 - One Handed Axe
 - Physical Damage: (163.2-190.4) to (264-308)
 - Critical Strike Chance: (8.00-9.00)%
@@ -20,9 +18,9 @@ Results like these may justify everything we do here."
 - Your Physical Damage can Freeze
 - Eldritch Battery
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

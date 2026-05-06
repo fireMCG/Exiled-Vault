@@ -1,12 +1,10 @@
-# Shavronne's Pace
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Shavronne's Pace.png]]
 
-## Description
+# Flavour Text
 Shavronne raced to Brutus' side,
 her last hope against the Karui tide.
 
-## Details
+# Details
 - Energy Shield: (46-60)
 - Requires Level 32, 59 Int
 - +(20-30) to Intelligence
@@ -15,9 +13,9 @@ her last hope against the Karui tide.
 - 15% increased Movement Speed
 - 20% increased Movement Speed when on Full Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

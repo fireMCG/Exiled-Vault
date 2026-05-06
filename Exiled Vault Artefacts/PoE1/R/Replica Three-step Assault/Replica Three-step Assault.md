@@ -1,12 +1,10 @@
-# Replica Three-step Assault
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Three-step Assault.png]]
 
-## Description
+# Flavour Text
 "The test subject nearly escaped, but the poison gas
 system in the hallway functioned as expected."
 
-## Details
+# Details
 - Evasion: (216-302)
 - Requires Level 55, 97 Dex
 - +(25-35) to Dexterity
@@ -16,9 +14,9 @@ system in the hallway functioned as expected."
 - (10-30)% increased Elusive Effect
 - 10% increased Movement Speed if you've Hit an Enemy Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

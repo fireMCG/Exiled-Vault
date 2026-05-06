@@ -1,15 +1,13 @@
-# Ogham Manor
-
-## Description
+# Flavour Text
 Paranoia and tyranny go hand in hand.
 
-## Connected Areas
+# Connected Areas
 - The Manor Ramparts
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

@@ -1,11 +1,9 @@
-# Limestone Hideout
-
-## Description
+# Flavour Text
 A forgotten grotto, lost to the world.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

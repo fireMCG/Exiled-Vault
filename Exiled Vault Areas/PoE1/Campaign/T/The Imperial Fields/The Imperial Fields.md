@@ -1,15 +1,13 @@
-# The Imperial Fields
-
-## Description
+# Flavour Text
 The savagery of war stains both muck and mire.
 
-## Connected Areas
+# Connected Areas
 - The Grain Gate
 - The Solaris Temple Level 1
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

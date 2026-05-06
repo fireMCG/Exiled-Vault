@@ -1,16 +1,14 @@
-# Mind Over Matter
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Mind Over Matter.webp]]
 
-## Description
+# Flavour Text
 While the mind endures, so too will the body.
 
-## Effects
+# Effects
 40% of Damage is taken from Mana before Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE1

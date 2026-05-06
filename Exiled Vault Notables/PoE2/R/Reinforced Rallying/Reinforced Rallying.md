@@ -1,10 +1,8 @@
-# Reinforced Rallying
-
-## Effects
+# Effects
 +1 to maximum number of placed Banners
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,14 +1,12 @@
-# The Grand Arena
-
-## Description
+# Flavour Text
 Dripping blood and weeping flowers.
 
-## Connected Areas
+# Connected Areas
 - Daresso's Dream
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

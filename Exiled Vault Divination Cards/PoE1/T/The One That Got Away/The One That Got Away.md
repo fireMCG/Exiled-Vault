@@ -1,18 +1,16 @@
-# The One That Got Away
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The One That Got Away.png]]
 
-## Description
+# Flavour Text
 Savor life's missing pieces.
 To complete one's final goal
 is to take one's last breath.
 
-## Reward
+# Reward
 Replica Bated Breath
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

@@ -1,12 +1,10 @@
-# Whisper of the Brotherhood
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Whisper of the Brotherhood.png]]
 
-## Description
+# Flavour Text
 Forged by the last remaining brother
 to return all that was once given.
 
-## Details
+# Details
 - Requires Level 32
 - +(20-30)% to Cold Resistance
 - (5-10)% increased Skill Speed
@@ -14,9 +12,9 @@ to return all that was once given.
 - (25-35)% increased Mana Regeneration Rate
 - 100% of Cold Damage Converted to Lightning Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Family/Brother
 #Artefact

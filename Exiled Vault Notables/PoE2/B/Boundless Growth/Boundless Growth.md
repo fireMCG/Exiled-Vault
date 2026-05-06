@@ -1,10 +1,8 @@
-# Boundless Growth
-
-## Effects
+# Effects
 Plants have a 20% chance to immediately Overgrow
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

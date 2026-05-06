@@ -1,15 +1,13 @@
-# Dyadus
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Dyadus.png]]
 
-## Description
+# Flavour Text
 Born of love, forged in blood
 He burned as a torch in the blackest night
 She shone as ice in the winter sun
 Proudly, fiercely
 At their mother's side, forever.
 
-## Details
+# Details
 - One Handed Axe
 - Physical Damage: 51-85
 - Critical Strike Chance: 5.00%
@@ -23,9 +21,9 @@ At their mother's side, forever.
 - 100% increased Damage with Ignite inflicted on Chilled Enemies
 - Chill Enemies for 1 second on Hit with this Weapon when in Off Hand
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,14 +1,12 @@
-# Trial of the Ancestors
-
-## Description
+# Flavour Text
 Prove yourself before Hinekora.
 
-## Connected Areas
+# Connected Areas
 - Halls of the Dead
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

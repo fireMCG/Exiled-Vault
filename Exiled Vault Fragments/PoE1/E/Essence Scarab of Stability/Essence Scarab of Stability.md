@@ -1,12 +1,10 @@
-# Essence Scarab of Stability
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Essence Scarab of Stability.webp]]
 
-## Description
+# Flavour Text
 With the right tools and a precise hand, the manipulation of the crystals
 can be made predictable.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -16,9 +14,9 @@ upgrading or transforming Essences
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Scarab
 #Fragment
 #PoE1

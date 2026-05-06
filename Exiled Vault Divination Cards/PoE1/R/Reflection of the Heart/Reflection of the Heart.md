@@ -1,18 +1,16 @@
-# Reflection of the Heart
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Reflection of the Heart.png]]
 
-## Description
+# Flavour Text
 He thought she was all
 he ever wanted,
 yet his heart yearned
 for something more.
 
-## Reward
+# Reward
 Kalandra's Touch
 
-##
+#
 ---
-## Tags
+# Tags
 #DivinationCard
 #PoE1

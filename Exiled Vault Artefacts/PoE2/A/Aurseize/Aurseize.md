@@ -1,11 +1,9 @@
-# Aurseize
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Aurseize.png]]
 
-## Description
+# Flavour Text
 Wealth is not to be borne lightly.
 
-## Details
+# Details
 - Armour: (30-35)
 - Evasion: (25-28)
 - Requires Level 16, 13 Str, 13 Dex
@@ -13,9 +11,9 @@ Wealth is not to be borne lightly.
 - (40-50)% increased Rarity of Items found
 - Lose 2% of maximum Life on Kill
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

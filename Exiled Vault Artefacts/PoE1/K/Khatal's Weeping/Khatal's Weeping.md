@@ -1,14 +1,12 @@
-# Khatal's Weeping
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Khatal's Weeping.png]]
 
-## Description
+# Flavour Text
 "We fought the Abyssals, too. That's the part they leave out.
 Khatal was Faridun... and for saving all their lives, the Maraketh
 made him drink the enemy's blood. He melted from the inside out."
 - Toryal, of the Afarud
 
-## Details
+# Details
 - Requires Level 56
 - +(20-30) to Intelligence
 - +(80-100) to maximum Life
@@ -17,8 +15,8 @@ made him drink the enemy's blood. He melted from the inside out."
 - For each Charge removed this way, that Attack gains +2% to Damage over time Multiplier
 - While on Low Life, Life Flasks gain (3-6) Charges every 3 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE1

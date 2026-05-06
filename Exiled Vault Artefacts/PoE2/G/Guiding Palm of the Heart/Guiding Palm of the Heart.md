@@ -1,14 +1,12 @@
-# Guiding Palm of the Heart
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Guiding Palm of the Heart.png]]
 
-## Description
+# Flavour Text
 "When the Third Pact was written in stone, the Dreamer gave the alliance of men and
 beasts knowledge. In return, they gave him a drop of blood; one from each of the
 races of Wraeclast. In the centuries that followed, his Will began to subtly change."
 - Book of the Benevolent Dreamer, Histories 220:5
 
-## Details
+# Details
 - Sceptre
 - Spirit: 100
 - Requires Level 65, 32 Str, 80 Int
@@ -20,9 +18,9 @@ races of Wraeclast. In the centuries that followed, his Will began to subtly cha
 - 25% increased Light Radius
 - Grants effect of Guided Meteoric Shrine
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

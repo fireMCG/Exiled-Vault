@@ -1,15 +1,13 @@
-# The Causeway
-
-## Description
+# Flavour Text
 Primordial ruins guard antiquarian secrets.
 
-## Connected Areas
+# Connected Areas
 - The Northern Forest
 - The Vaal City
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

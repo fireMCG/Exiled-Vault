@@ -1,11 +1,9 @@
-# Command of the Pit (1 Abyssal Socket)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Command of the Pit (1 Abyssal Socket).png]]
 
-## Description
+# Flavour Text
 We serve only the Night.
 
-## Details
+# Details
 - Armour: (67-77)
 - Energy Shield: (14-16)
 - Requires Level 37, 29 Str, 29 Int
@@ -16,9 +14,9 @@ We serve only the Night.
 - gain Unholy Might on Hit with Spells
 - With a Hypnotic Eye Jewel Socketed, gain Arcane Surge on Hit with Spells
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

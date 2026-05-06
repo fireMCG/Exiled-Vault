@@ -1,11 +1,9 @@
-# The Assembly
-
-## Description
+# Flavour Text
 Remnants of Vaal artifice still remain.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

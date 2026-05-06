@@ -1,12 +1,10 @@
-# Drillneck
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Drillneck.png]]
 
-## Description
+# Flavour Text
 "Why waste such a fine arrow on just one man?"
 - Kiravi, Vaal Archer
 
-## Details
+# Details
 - Requires Level 55
 - 100% chance to Pierce an Enemy
 - +(60-90) to maximum Life
@@ -17,8 +15,8 @@
 - Projectiles have (42-64)% increased Critical Hit chance for each time they have Pierced
 - Can only be equipped if you are wielding a Bow.
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE2

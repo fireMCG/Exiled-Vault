@@ -1,11 +1,9 @@
-# Atziri's Rule
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Atziri's Rule.png]]
 
-## Description
+# Flavour Text
 Bow before her... or suffer the most gruelling death imaginable.
 
-## Details
+# Details
 - Staff
 - Requires Level 70, 123 Int
 - Grants Skill: Level (16-20) Mirror of Refraction
@@ -15,8 +13,8 @@ Bow before her... or suffer the most gruelling death imaginable.
 - +(3-5) to Level of all Corrupted Spell Skill Gems
 - Spells which cost Life Gain (80-120)% of Damage as Extra Physical Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE2

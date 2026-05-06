@@ -1,13 +1,11 @@
-# Dawnstrider
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Dawnstrider.png]]
 
-## Description
+# Flavour Text
 In a void strewn with incandescent stardust,
 the emissary of flame traverses interplanetary space
 consuming the knowledge of fallen civilisations.
 
-## Details
+# Details
 - Armour: (220-253)
 - Requires Level 62, 117 Str
 - Socketed Slam Gems are Supported by Level 25 Earthbreaker
@@ -16,9 +14,9 @@ consuming the knowledge of fallen civilisations.
 - (3-5)% of Damage from Hits is taken from your nearest Totem's Life before you
 - Ancestral Bond
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/SearingExarch
 #Concept/Time/Dawn

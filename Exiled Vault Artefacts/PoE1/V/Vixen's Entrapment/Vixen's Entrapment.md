@@ -1,12 +1,10 @@
-# Vixen's Entrapment
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Vixen's Entrapment.png]]
 
-## Description
+# Flavour Text
 "One coy look. One blown kiss. One word spoken.
 One night I wish I'd forget."
 
-## Details
+# Details
 - Energy Shield: (75-118)
 - Requires Level 36, 54 Int
 - Trigger Socketed Curse Spell when you Cast a Curse Spell, with a 0.25 second Cooldown
@@ -15,9 +13,9 @@ One night I wish I'd forget."
 - You can apply an additional Curse
 - Curse Skills have (10-20)% increased Cast Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

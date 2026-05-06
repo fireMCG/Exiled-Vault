@@ -1,11 +1,9 @@
-# Potent Incantation
-
-## Effects
+# Effects
 30% increased Spell Damage
 5% reduced Cast Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

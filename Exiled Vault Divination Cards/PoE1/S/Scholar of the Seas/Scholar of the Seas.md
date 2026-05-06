@@ -1,16 +1,14 @@
-# Scholar of the Seas
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Scholar of the Seas.png]]
 
-## Description
+# Flavour Text
 I've never come upon a ship I could not command. I have however met sailors that were not willing to be led.
 
-## Reward
+# Reward
 Mao Kun
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

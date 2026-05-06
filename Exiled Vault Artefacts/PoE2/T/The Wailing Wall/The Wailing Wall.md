@@ -1,11 +1,9 @@
-# The Wailing Wall
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Wailing Wall.png]]
 
-## Description
+# Flavour Text
 Some stories are never told.
 
-## Details
+# Details
 - Shield
 - Chance to Block: 26%
 - Armour: (120-150)
@@ -16,9 +14,9 @@ Some stories are never told.
 - +(100-150) to Stun Threshold
 - Cannot use Shield Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

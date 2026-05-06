@@ -1,13 +1,11 @@
-# Venarius' Astrolabe
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Venarius' Astrolabe.png]]
 
-## Description
+# Flavour Text
 "You grew up an orphan, and for that, you blame me.
 Fair enough. So... why not let me erase that pain from your mind?
 Then we can all stand united against the demons at the door..."
 
-## Details
+# Details
 - Requires Level 69
 - Has Elder, Shaper and all Conqueror Influences
 - Implicit Modifiers Cannot Be Changed
@@ -16,9 +14,9 @@ Then we can all stand united against the demons at the door..."
 - +(1-3) to Level of all Elemental Skill Gems if the stars are aligned
 - +(1-3) to Level of all Elemental Support Gems if the stars are aligned
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

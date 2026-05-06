@@ -1,11 +1,9 @@
-# Infernoclasp
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Infernoclasp.png]]
 
-## Description
+# Flavour Text
 Tempered by the forbidden flame.
 
-## Details
+# Details
 - Requires Level 25
 - Has (1-3) Charm Slots
 - +(100-140) to Armour
@@ -14,9 +12,9 @@ Tempered by the forbidden flame.
 - +(3-5)% to Maximum Fire Resistance
 - +(30-50)% to Fire Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

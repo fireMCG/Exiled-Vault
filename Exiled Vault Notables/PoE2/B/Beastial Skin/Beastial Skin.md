@@ -1,10 +1,8 @@
-# Beastial Skin
-
-## Effects
+# Effects
 100% increased Evasion Rating from Equipped Body Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

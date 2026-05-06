@@ -1,10 +1,8 @@
-# Cremating Cries
-
-## Effects
+# Effects
 Empowered Attacks Gain 15% of Physical Damage as Extra Fire damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

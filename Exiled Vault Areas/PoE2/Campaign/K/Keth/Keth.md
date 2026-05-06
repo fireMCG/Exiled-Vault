@@ -1,15 +1,13 @@
-# Keth
-
-## Description
+# Flavour Text
 These rivers now carry only tides of sand.
 
-## Connected Areas
+# Connected Areas
 - The Ardura Caravan
 - The Lost City
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

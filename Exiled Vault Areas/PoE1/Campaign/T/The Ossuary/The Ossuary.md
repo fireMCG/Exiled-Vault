@@ -1,15 +1,13 @@
-# The Ossuary
-
-## Description
+# Flavour Text
 The faithful dead watch over the city with hollow eyes.
 
-## Connected Areas
+# Connected Areas
 - The Ruined Square
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

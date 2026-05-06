@@ -1,11 +1,9 @@
-# Surging Currents
-
-## Effects
+# Effects
 Damage Penetrates 15% Lightning Resistance
 +10 to Dexterity
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

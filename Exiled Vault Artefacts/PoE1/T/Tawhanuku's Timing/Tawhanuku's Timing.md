@@ -1,11 +1,9 @@
-# Tawhanuku's Timing
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Tawhanuku's Timing.png]]
 
-## Description
+# Flavour Text
 The soul still beats, even when the heart never did.
 
-## Details
+# Details
 - Requires Level 44
 - +(15-25) to maximum Energy Shield
 - (30-40)% increased Spell Damage
@@ -14,9 +12,9 @@ The soul still beats, even when the heart never did.
 - Spells cause you to gain Energy Shield equal to their Upfront
 - Cost every fifth time you Pay it
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

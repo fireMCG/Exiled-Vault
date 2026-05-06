@@ -1,11 +1,9 @@
-# Saffell's Frame
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Saffell's Frame.png]]
 
-## Description
+# Flavour Text
 A swift mind solves problems before they occur.
 
-## Details
+# Details
 - Shield
 - Armour: 27
 - Energy Shield: 12
@@ -18,9 +16,9 @@ A swift mind solves problems before they occur.
 - Cannot Block
 - Modifiers to Maximum Block Chance instead apply to Maximum Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

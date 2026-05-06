@@ -1,11 +1,9 @@
-# Titanrot Cataphract
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Titanrot Cataphract.png]]
 
-## Description
+# Flavour Text
 Not the sound of thunder on the wind, but the Rhoaback Riders - Death charging from the sands.
 
-## Details
+# Details
 - Armour: (705-846)
 - Movement Speed: -5.0%
 - Requires Level 20, 34 Str
@@ -15,9 +13,9 @@ Not the sound of thunder on the wind, but the Rhoaback Riders - Death charging f
 - 10% reduced Intelligence
 - You have no Life Regeneration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

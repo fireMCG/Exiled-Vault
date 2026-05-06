@@ -1,12 +1,10 @@
-# Replica Mistwall
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Mistwall.png]]
 
-## Description
+# Flavour Text
 "For personal defence, Prototype #444 is fantastic. It is one hundred percent effective seventy five percent of the time... once."
 - Lead Researcher Ksaret
 
-## Details
+# Details
 - Chance to Block: 24%
 - Evasion: (1049-1372)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@
 - +(8-15)% chance to Avoid Physical Damage from Hits while Phasing
 - You have Phasing if you have Blocked Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Ksaret
 #Artefact

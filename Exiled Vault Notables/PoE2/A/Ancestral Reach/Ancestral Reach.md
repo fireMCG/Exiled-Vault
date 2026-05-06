@@ -1,11 +1,9 @@
-# Ancestral Reach
-
-## Effects
+# Effects
 25% increased Totem Placement speed
 50% increased Totem Placement range
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

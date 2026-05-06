@@ -1,11 +1,9 @@
-# Replica Trypanon
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Trypanon.png]]
 
-## Description
+# Flavour Text
 "The best place for this prototype would be in the hands of our enemies."
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: 43-88
 - Critical Strike Chance: 100.00%
@@ -16,9 +14,9 @@
 - -5000 to Accuracy Rating
 - This Weapon's Critical Strike Chance is 100%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

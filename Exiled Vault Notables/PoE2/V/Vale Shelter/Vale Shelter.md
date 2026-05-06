@@ -1,10 +1,8 @@
-# Vale Shelter
-
-## Effects
+# Effects
 Charms gain 0.15 charges per Second
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

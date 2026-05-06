@@ -1,13 +1,11 @@
-# Quill Rain
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Quill Rain.png]]
 
-## Description
+# Flavour Text
 "The rain of a thousand quills that whittle
 present into past, life into death."
 - Rigwald of the Ezomytes
 
-## Details
+# Details
 - Bow
 - Physical Damage: 7-14
 - Critical Strike Chance: 5.00%
@@ -18,9 +16,9 @@ present into past, life into death."
 - (50-100)% increased Arrow Speed
 - 40% less Attack Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

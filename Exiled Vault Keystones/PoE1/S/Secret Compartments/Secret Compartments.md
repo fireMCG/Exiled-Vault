@@ -1,12 +1,10 @@
-# Secret Compartments
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Secret Compartments.webp]]
 
-## Effects
+# Effects
 Strongboxes opened in your Maps have 10% chance to be openable again
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

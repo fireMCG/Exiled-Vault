@@ -1,12 +1,10 @@
-# Oro's Sacrifice
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Oro's Sacrifice.png]]
 
-## Description
+# Flavour Text
 Give yourself to the flames and your name
 will burn in the minds of men forever.
 
-## Details
+# Details
 - Two Hand Sword
 - Elemental Damage: (425-475) to (550-600)
 - Critical Strike Chance: 5.00%
@@ -23,9 +21,9 @@ will burn in the minds of men forever.
 - Culling Strike against Burning Enemies
 - Gain a Frenzy Charge if an Attack Ignites an Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

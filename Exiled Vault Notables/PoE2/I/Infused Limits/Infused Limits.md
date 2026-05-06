@@ -1,10 +1,8 @@
-# Infused Limits
-
-## Effects
+# Effects
 +1 to maximum number of Elemental Infusions
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,13 +1,11 @@
-# Replica Covenant
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Covenant.png]]
 
-## Description
+# Flavour Text
 "Researcher Graven's request to wear Prototype #2998 in
 place of his standard lab attire is... granted."
 - Lead Researcher Ksaret
 
-## Details
+# Details
 - Energy Shield: (313-409)
 - Movement Speed: -3%
 - Requires Level 49, 134 Int
@@ -17,9 +15,9 @@ place of his standard lab attire is... granted."
 - 10% increased maximum Life
 - Skills gain a Base Energy Shield Cost equal to 200% of Base Mana Cost
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Ksaret
 #Artefact

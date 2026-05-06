@@ -1,11 +1,9 @@
-# Scarab of the Dextral
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Scarab of the Dextral.webp]]
 
-## Description
+# Flavour Text
 Flip a coin, do you wish for Tails?
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,8 +13,8 @@ Area Prefix Modifiers have no effect
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

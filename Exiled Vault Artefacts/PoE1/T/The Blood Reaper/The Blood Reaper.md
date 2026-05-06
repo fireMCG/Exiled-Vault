@@ -1,13 +1,11 @@
-# The Blood Reaper
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Blood Reaper.png]]
 
-## Description
+# Flavour Text
 To cease the flow of blood is to
 choke the rain in the very clouds.
 Both life and land feel the thirst.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (170.8-183) to (257.6-276)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ Both life and land feel the thirst.
 - 50% increased Mana Cost of Skills
 - 50% chance to cause Bleeding on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

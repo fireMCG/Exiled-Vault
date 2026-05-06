@@ -1,12 +1,10 @@
-# Cameria's Maul
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cameria's Maul.png]]
 
-## Description
+# Flavour Text
 "You'll have my riches when you pry them from my cold, dead hands!"
 "That's how I prefer it."
 
-## Details
+# Details
 - One Handed Mace
 - Physical Damage: (129.6-151.2) to (242.4-282.8)
 - Elemental Damage: (10-20) to (30-50)
@@ -21,9 +19,9 @@
 - 40% increased Rarity of Items Dropped by Frozen Enemies
 - (30-40)% increased Cold Damage with Attack Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

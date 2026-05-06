@@ -1,11 +1,9 @@
-# Grasping Nightshade
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Grasping Nightshade.png]]
 
-## Description
+# Flavour Text
 A virulent brew of death and decay.
 
-## Details
+# Details
 - Inflicts Mana Burn every 0.90 Seconds
 - 8.00 Second Cooldown when Deactivated
 - Requires Level 52
@@ -15,9 +13,9 @@ A virulent brew of death and decay.
 - (20-30)% chance to inflict a Grasping Vine on Melee Weapon Hit
 - Right click to activate. Only one Tincture in your belt can be active at a time. Mana Burn causes you to lose 1% of your maximum Mana per stack per second. Can be deactivated manually, or will automatically deactivate when you reach 0 Mana.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

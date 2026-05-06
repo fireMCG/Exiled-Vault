@@ -1,21 +1,19 @@
-# Doedre's Tongue
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Doedre's Tongue.png]]
 
-## Description
+# Flavour Text
 Maligaro did the cutting... at her request.
 In the new void, a malevolent power emerged.
 
-## Details
+# Details
 - Requires Level 24
 - +(20-30) to Intelligence
 - +(20-25)% to all Elemental Resistances
 - (20-25)% chance to Freeze, Shock and Ignite
 - Cursed Enemies cannot inflict Elemental Ailments on You
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

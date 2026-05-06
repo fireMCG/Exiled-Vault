@@ -1,12 +1,10 @@
-# Martyr's Crown
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Martyr's Crown.png]]
 
-## Description
+# Flavour Text
 Let it pierce you, let blood flow.
 Make more room for the soul to grow.
 
-## Details
+# Details
 - Energy Shield: (267-365)
 - Requires Level 52
 - +(150-225) to maximum Energy Shield
@@ -15,9 +13,9 @@ Make more room for the soul to grow.
 - +25 Physical Damage taken from Attack Hits
 - Pain Attunement
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

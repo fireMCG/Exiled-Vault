@@ -1,8 +1,6 @@
-# The Flow Untethered
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Flow Untethered.png]]
 
-## Details
+# Details
 - Requires Level 60
 - (15-25)% increased Stun and Block Recovery
 - Grants Summon Harbinger of Time Skill
@@ -12,9 +10,9 @@
 - (15-20)% increased Cooldown Recovery Rate
 - Debuffs on you expire (15-20)% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

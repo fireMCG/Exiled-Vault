@@ -1,11 +1,9 @@
-# Atziri's Rule
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Atziri's Rule.png]]
 
-## Description
+# Flavour Text
 Bow before her... or suffer the most gruelling death imaginable.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 73-136
 - Critical Strike Chance: 8.00%
@@ -19,9 +17,9 @@ Bow before her... or suffer the most gruelling death imaginable.
 - Cannot be Stunned
 - Damage cannot be Reflected
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Atziri
 #Concept/Death

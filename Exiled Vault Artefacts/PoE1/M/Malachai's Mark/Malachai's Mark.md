@@ -1,11 +1,9 @@
-# Malachai's Mark
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Malachai's Mark.png]]
 
-## Description
+# Flavour Text
 What man does not wish for immortality?
 
-## Details
+# Details
 - Evasion: (217-278)
 - Energy Shield: (45-56)
 - Requires Level 67, 51 Dex, 51 Int
@@ -15,9 +13,9 @@ What man does not wish for immortality?
 - Gain (15-25) Energy Shield per Enemy Hit with Attacks
 - Grants Malachai's Endurance, Frenzy and Power for 6 seconds each, in sequence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# The Saviour
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Saviour.png]]
 
-## Description
+# Flavour Text
 On the mirrored edge of infinity, one man sinks forever into darkness, one man rises into light.
 But which one am I?
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (158.7-187.5) to (317.4-357.5)
 - Critical Strike Chance: (5.40-5.60)%
@@ -20,9 +18,9 @@ But which one am I?
 - (8-12)% increased Attack Speed
 - (8-12)% increased Critical Strike Chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

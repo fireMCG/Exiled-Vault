@@ -1,15 +1,13 @@
-# The Mines Level 1
-
-## Description
+# Flavour Text
 Disease in the darkness.
 
-## Connected Areas
+# Connected Areas
 - Highgate
 - The Mines Level 2
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

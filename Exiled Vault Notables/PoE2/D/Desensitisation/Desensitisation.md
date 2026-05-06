@@ -1,11 +1,9 @@
-# Desensitisation
-
-## Effects
+# Effects
 25% increased Critical Damage Bonus
 Hits against you have 25% reduced Critical Damage Bonus
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

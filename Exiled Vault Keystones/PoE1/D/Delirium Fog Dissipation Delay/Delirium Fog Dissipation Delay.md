@@ -1,12 +1,10 @@
-# Delirium Fog Dissipation Delay
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Delirium Fog Dissipation Delay.webp]]
 
-## Effects
+# Effects
 Delirium Fog in your Maps lasts 3 additional seconds before dissipating
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

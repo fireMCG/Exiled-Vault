@@ -1,10 +1,8 @@
-# Reusable Ammunition
-
-## Effects
+# Effects
 Bolts fired by Crossbow Attacks have 30% chance to notexpend Ammunition if you've Reloaded Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

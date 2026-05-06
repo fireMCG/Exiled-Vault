@@ -1,10 +1,8 @@
-# Stance Breaker
-
-## Effects
+# Effects
 25% increased Damage with Swords
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

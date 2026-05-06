@@ -1,11 +1,9 @@
-# Craghead
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Craghead.png]]
 
-## Description
+# Flavour Text
 Hit them hard. Hit them once.
 
-## Details
+# Details
 - Requires Level 4
 - Adds 1 to 4 Physical Damage to Attacks
 - (20-25)% reduced Enemy Stun Threshold
@@ -13,9 +11,9 @@ Hit them hard. Hit them once.
 - (140-200)% increased Stun Duration on Enemies
 - 6 to 10 Added Physical Damage with Bow Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

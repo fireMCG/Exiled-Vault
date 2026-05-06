@@ -1,11 +1,9 @@
-# Growing Swarm
-
-## Effects
+# Effects
 Minions have 20% increased Area of Effect
 Minions have 20% increased Cooldown Recovery Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

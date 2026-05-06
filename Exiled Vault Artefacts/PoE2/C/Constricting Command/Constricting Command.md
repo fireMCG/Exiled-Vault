@@ -1,14 +1,12 @@
-# Constricting Command
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Constricting Command.png]]
 
-## Description
+# Flavour Text
 "Be vigilant, Nezahul! When the serpent is cornered, does it give up?
 No... It waits. Then it bites the first hand it finds.
 The danger of numbers is all in your mind!"
 - Viper Napuatzi, instructing Royal Commander Nezahul
 
-## Details
+# Details
 - Evasion: 136
 - Requires Level 38, 54 Dex
 - +(80-120) to maximum Life
@@ -16,9 +14,9 @@ The danger of numbers is all in your mind!"
 - (8-12) Life Regeneration per second
 - Require (4-2) fewer enemies to be Surrounded
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Napuatzi
 #Society/VaalEmpire

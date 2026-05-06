@@ -1,12 +1,10 @@
-# Belly of the Beast
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Belly of the Beast.png]]
 
-## Description
+# Flavour Text
 There is no safer place
 Than the Belly of the Beast
 
-## Details
+# Details
 - Armour: (635-876)
 - Evasion: (254-292)
 - Movement Speed: -3%
@@ -17,9 +15,9 @@ Than the Belly of the Beast
 - 50% increased Flask Life Recovery rate
 - Extra gore
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Beast
 #Artefact

@@ -1,13 +1,11 @@
-# Smith's Masterwork
-
-## Effects
+# Effects
 Can only use a Normal Body Armour
 +200 to Armour for each Connected Notable Passive Skill Allocated
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Smith of Kitava
 #Warrior
+#Notable
 #PoE2

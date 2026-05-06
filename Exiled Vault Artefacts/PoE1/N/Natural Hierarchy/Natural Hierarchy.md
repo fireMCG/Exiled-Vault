@@ -1,14 +1,12 @@
-# Natural Hierarchy
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Natural Hierarchy.png]]
 
-## Description
+# Flavour Text
 Just as the rat cowers before the dog
 and the dog cowers before Man,
 so too should we cower before the First Ones
 and pray we never learn of what comes next.
 
-## Details
+# Details
 - Talisman Tier: 3
 - Requires Level 44
 - (25-35)% increased Damage
@@ -19,9 +17,9 @@ and pray we never learn of what comes next.
 - (30-35)% increased Chaos Damage
 - Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

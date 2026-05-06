@@ -1,17 +1,15 @@
-# Beauty
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Beauty.png]]
 
-## Description
+# Flavour Text
 You walk away bloodied and exhausted,
 but victorious. You have overcome.
 
-## Details
+# Details
 - This item will transform when correctly arranged with other items.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

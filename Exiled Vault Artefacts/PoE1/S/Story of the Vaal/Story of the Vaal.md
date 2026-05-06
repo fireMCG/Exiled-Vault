@@ -1,14 +1,12 @@
-# Story of the Vaal
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Story of the Vaal.png]]
 
-## Description
+# Flavour Text
 Through war we found peace.
 Through death we found advancement.
 Our ancestors did not know where their actions would take them.
 Are we any better?
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (109.2-120.9) to (232.4-257.3)
 - Critical Strike Chance: 5.00%
@@ -24,9 +22,9 @@ Are we any better?
 - Hits with this Weapon Shock Enemies as though dealing (150-200)% more Damage
 - Ignites inflicted with this Weapon deal (50-75)% more Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

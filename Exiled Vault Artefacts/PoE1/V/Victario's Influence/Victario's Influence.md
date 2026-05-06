@@ -1,14 +1,12 @@
-# Victario's Influence
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Victario's Influence.png]]
 
-## Description
+# Flavour Text
 "Every life is a story.
 If you're not writing your own,
 you'd better know who's writing it for you!"
 - Victario, the People's Poet
 
-## Details
+# Details
 - Evasion: (629-822)
 - Energy Shield: (129-170)
 - Movement Speed: -3%
@@ -20,9 +18,9 @@ you'd better know who's writing it for you!"
 - (20-40)% increased Area of Effect of Aura Skills
 - (10-15)% increased effect of Non-Curse Auras from your Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

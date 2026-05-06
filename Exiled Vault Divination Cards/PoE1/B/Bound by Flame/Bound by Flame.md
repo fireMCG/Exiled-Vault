@@ -1,18 +1,16 @@
-# Bound by Flame
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Bound by Flame.png]]
 
-## Description
+# Flavour Text
 In battle we burn together
 or not at all.
 
-## Reward
+# Reward
 Level 21 Flame Link
 Quality: +20%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

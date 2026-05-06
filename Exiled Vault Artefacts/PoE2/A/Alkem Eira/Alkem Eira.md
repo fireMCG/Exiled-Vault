@@ -1,11 +1,9 @@
-# Alkem Eira
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Alkem Eira.png]]
 
-## Description
+# Flavour Text
 May your resolve never waver.
 
-## Details
+# Details
 - Shield
 - Chance to Block: (28-30)%
 - Armour: (13-15)
@@ -17,9 +15,9 @@ May your resolve never waver.
 - +(50-70) to maximum Mana
 - Damage Blocked is Recouped as Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

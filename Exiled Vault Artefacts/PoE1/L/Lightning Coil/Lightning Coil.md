@@ -1,13 +1,11 @@
-# Lightning Coil
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Lightning Coil.png]]
 
-## Description
+# Flavour Text
 "There's nothing like imminent death
 to galvanize one's purpose in life."
 - Malachai the Soulless.
 
-## Details
+# Details
 - Armour: (714-992)
 - Evasion: (714-992)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ to galvanize one's purpose in life."
 - -60% to Lightning Resistance
 - 50% of Physical Damage from Hits taken as Lightning Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

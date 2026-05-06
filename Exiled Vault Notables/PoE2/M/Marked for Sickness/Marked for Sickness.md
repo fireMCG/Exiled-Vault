@@ -1,11 +1,9 @@
-# Marked for Sickness
-
-## Effects
+# Effects
 Enemies you Mark have 10% reduced Accuracy Rating
 Enemies you Mark take 10% increased Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

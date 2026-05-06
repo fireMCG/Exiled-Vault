@@ -1,9 +1,7 @@
-# Brew Concoction
-
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Pathfinder
 #Ranger
+#Notable
 #PoE2

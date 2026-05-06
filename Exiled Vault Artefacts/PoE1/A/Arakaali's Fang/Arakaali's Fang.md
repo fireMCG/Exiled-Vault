@@ -1,11 +1,9 @@
-# Arakaali's Fang
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Arakaali's Fang.png]]
 
-## Description
+# Flavour Text
 All children must eat.
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: (81-105) to (288.9-351)
 - Chaos Damage: 1-59
@@ -20,9 +18,9 @@ All children must eat.
 - Adds 1 to 59 Chaos Damage
 - 15% chance to Poison on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/God/Arakaali
 #Society/VaalEmpire

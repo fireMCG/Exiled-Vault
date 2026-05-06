@@ -1,11 +1,9 @@
-# Siege
-
-## Description
+# Flavour Text
 No rest, no peace, no negotiation. Only War.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

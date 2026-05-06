@@ -1,14 +1,12 @@
-# Curtain Call
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Curtain Call.png]]
 
-## Description
+# Flavour Text
 Sing with me one last duet,
 the curtain closes nigh.
 Join me in a quiet song,
 before we all must die.
 
-## Details
+# Details
 - Evasion: (29-38)
 - Energy Shield: (7-10)
 - Requires Level 20
@@ -18,9 +16,9 @@ before we all must die.
 - Skills which throw Mines throw up to 1 additional Mine if you have at least 800 Dexterity
 - Skills which throw Mines throw up to 1 additional Mine if you have at least 800 Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

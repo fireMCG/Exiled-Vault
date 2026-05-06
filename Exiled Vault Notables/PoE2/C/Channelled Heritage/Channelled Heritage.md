@@ -1,10 +1,8 @@
-# Channelled Heritage
-
-## Effects
+# Effects
 30% increased Area of Effect of Ancestrally Boosted Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

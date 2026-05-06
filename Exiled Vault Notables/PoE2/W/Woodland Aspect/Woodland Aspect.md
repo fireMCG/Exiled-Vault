@@ -1,10 +1,8 @@
-# Woodland Aspect
-
-## Effects
+# Effects
 Charms applied to you have 25% increased Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

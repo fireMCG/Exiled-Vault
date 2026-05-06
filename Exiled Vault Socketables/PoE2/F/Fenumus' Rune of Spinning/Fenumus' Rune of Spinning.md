@@ -1,20 +1,18 @@
-# Fenumus' Rune of Spinning
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Fenumus' Rune of Spinning.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Gloves: 8% increased Cast Speed
 
-## Bonded Effects
+# Bonded Effects
 - Gloves: 20% increased Mana Cost Efficiency while on Low Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

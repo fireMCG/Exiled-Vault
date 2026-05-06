@@ -1,20 +1,18 @@
-# The Price of Protection
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Price of Protection.png]]
 
-## Description
+# Flavour Text
 To protect her mansion, she would cut a deal with anyone. Anything. 
 
 Something answered.
 
-## Reward
+# Reward
 Elder Guardian Occupied Map
 Modifiers: 8
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Fortress
 #Concept/Moon

@@ -1,11 +1,9 @@
-# Willowgift
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Willowgift.png]]
 
-## Description
+# Flavour Text
 The storm cannot break that which bends.
 
-## Details
+# Details
 - Requires Level 52
 - +(20-30) to Dexterity
 - 10% reduced Strength
@@ -16,9 +14,9 @@ The storm cannot break that which bends.
 - +4% chance to Suppress Spell Damage per Fortification
 - (15-25)% increased Attack and Cast Speed while at maximum Fortification
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

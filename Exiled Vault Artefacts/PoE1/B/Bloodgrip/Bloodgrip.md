@@ -1,13 +1,11 @@
-# Bloodgrip
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bloodgrip.png]]
 
-## Description
+# Flavour Text
 Combat is simple.
 Keep your blood in.
 Take theirs out.
 
-## Details
+# Details
 - Requires Level 74
 - Regenerate (1.2-1.6)% of Life per second
 - Adds 10 to 20 Physical Damage to Attacks
@@ -16,9 +14,9 @@ Take theirs out.
 - 100% increased Life Recovery from Flasks
 - Moving while Bleeding doesn't cause you to take extra Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

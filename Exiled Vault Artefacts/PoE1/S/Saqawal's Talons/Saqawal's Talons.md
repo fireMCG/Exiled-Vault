@@ -1,12 +1,10 @@
-# Saqawal's Talons
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Saqawal's Talons.png]]
 
-## Description
+# Flavour Text
 A bird, too heavily laden, cannot take flight.
 The First of the Sky teaches us to put aside our possessions so that we may live more freely.
 
-## Details
+# Details
 - Armour: (212-305)
 - Evasion: (212-305)
 - Requires Level 59, 56 Str, 56 Dex
@@ -17,9 +15,9 @@ The First of the Sky teaches us to put aside our possessions so that we may live
 - Regenerate 100 Life per Second while you have Avian's Flight
 - Regenerate 12 Mana per Second while you have Avian's Flight
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

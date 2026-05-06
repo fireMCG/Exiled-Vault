@@ -1,12 +1,10 @@
-# Kaom's Way
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kaom's Way.png]]
 
-## Description
+# Flavour Text
 Kaom guided his Karui across the sea
 and spilled their blood on foreign soil
 
-## Details
+# Details
 - Requires Level 32
 - +(20-30) to maximum Life
 - +(10-20) to Strength
@@ -15,9 +13,9 @@ and spilled their blood on foreign soil
 - +1 to Maximum Endurance Charges
 - 2% increased Area of Effect per Endurance Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

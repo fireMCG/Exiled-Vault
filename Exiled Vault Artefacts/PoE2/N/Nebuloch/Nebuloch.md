@@ -1,13 +1,11 @@
-# Nebuloch
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Nebuloch.png]]
 
-## Description
+# Flavour Text
 They hoped that, trapped in its prison,
 the creature would age and perish.
 But time would not touch the fiend.
 
-## Details
+# Details
 - One Hand Mace
 - Physical Damage: (79-88) to (129-139)
 - Chaos Damage: (25-36) to (44-55)
@@ -21,9 +19,9 @@ But time would not touch the fiend.
 - Attacks consume an Endurance Charge to Critically Hit
 - Take 100 Chaos damage per second per Endurance Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Concept/Prison

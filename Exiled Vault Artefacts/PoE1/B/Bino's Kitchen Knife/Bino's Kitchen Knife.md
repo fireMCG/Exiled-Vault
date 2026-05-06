@@ -1,12 +1,10 @@
-# Bino's Kitchen Knife
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bino's Kitchen Knife.png]]
 
-## Description
+# Flavour Text
 Calling it poison would imply
 that it was even edible.
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: (150-165) to (296-321)
 - Critical Strike Chance: (11.90-12.75)%
@@ -21,9 +19,9 @@ that it was even edible.
 - On Killing a Poisoned Enemy, Enemies within 3 metres are Poisoned, and you and
 - Allies Regenerate 400 Life per second for the Poison's duration if within 3 metres
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

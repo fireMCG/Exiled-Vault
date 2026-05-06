@@ -1,12 +1,10 @@
-# The Squire
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Squire.png]]
 
-## Description
+# Flavour Text
 Judge not the weak, for
 they empower the strong.
 
-## Details
+# Details
 - Chance to Block: (28-30)%
 - Armour: (296-425)
 - Evasion: (296-425)
@@ -20,9 +18,9 @@ they empower the strong.
 - (100-150)% increased Armour and Evasion
 - +(3-5)% Chance to Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

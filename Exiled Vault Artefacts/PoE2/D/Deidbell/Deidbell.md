@@ -1,11 +1,9 @@
-# Deidbell
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Deidbell.png]]
 
-## Description
+# Flavour Text
 May you never hear it toll.
 
-## Details
+# Details
 - Armour: (217-272)
 - Requires Level 33, 48 Str
 - (60-100)% increased Armour
@@ -14,9 +12,9 @@ May you never hear it toll.
 - Warcries Explode Corpses dealing 10% of their Life as Physical Damage
 - Warcry Skills have (20-30)% increased Area of Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,14 +1,12 @@
-# Oskarm
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Oskarm.png]]
 
-## Description
+# Flavour Text
 Land and sea did not dissuade,
 nor did the Kelpie's maw;
 the wild beast crossed half the world
 to sate his hungry claw.
 
-## Details
+# Details
 - Evasion: (109-122)
 - Requires Level 52, 50 Dex
 - (30-40)% increased Global Accuracy Rating
@@ -18,9 +16,9 @@ to sate his hungry claw.
 - Trigger Level 10 Assassin's Mark when you Hit a Rare or Unique Enemy and have no Mark
 - 2% increased Attack Critical Strike Chance per 200 Accuracy Rating
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

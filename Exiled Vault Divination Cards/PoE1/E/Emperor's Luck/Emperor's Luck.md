@@ -1,16 +1,14 @@
-# Emperor's Luck
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Emperor's Luck.png]]
 
-## Description
+# Flavour Text
 The house always wins.
 
-## Reward
+# Reward
 5x Currency
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

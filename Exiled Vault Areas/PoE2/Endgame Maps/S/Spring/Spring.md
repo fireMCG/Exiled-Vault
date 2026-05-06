@@ -1,11 +1,9 @@
-# Spring
-
-## Description
+# Flavour Text
 In these lands, a pure water source is the most valuable treasure.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

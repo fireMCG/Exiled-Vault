@@ -1,13 +1,11 @@
-# The Barrow Dweller
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Barrow Dweller.png]]
 
-## Description
+# Flavour Text
 In the mists they dwell,
 forever hungry,
 forever cold.
 
-## Details
+# Details
 - Armour: (84-106)
 - Evasion: (68-86)
 - Movement Speed: -4.0%
@@ -18,9 +16,9 @@ forever cold.
 - Damage of Enemies Hitting you is Unlucky while you are on Low Life
 - 50% chance to Avoid Death from Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

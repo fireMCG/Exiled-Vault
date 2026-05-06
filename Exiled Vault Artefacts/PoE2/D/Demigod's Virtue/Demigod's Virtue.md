@@ -1,18 +1,16 @@
-# Demigod's Virtue
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Demigod's Virtue.png]]
 
-## Description
+# Flavour Text
 Those qualities possessed by the victor
 are proven inherently right and true.
 
-## Details
+# Details
 - 25% increased Rarity of Items found
 - Virtuous
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

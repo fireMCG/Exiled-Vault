@@ -1,12 +1,10 @@
-# Moonbender's Wing
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Moonbender's Wing.png]]
 
-## Description
+# Flavour Text
 Beneath the cold light of the moon,
 the wing moves faster than the eye.
 
-## Details
+# Details
 - One Handed Axe
 - Physical Damage: (32.5-37.5) to (59.8-69)
 - Critical Strike Chance: (6.50-7.50)%
@@ -18,9 +16,9 @@ the wing moves faster than the eye.
 - (30-50)% increased Critical Strike Chance
 - Hits with this Weapon gain (75-100)% of Physical Damage as Extra Cold or Lightning Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Circle of Anguish (Fractured)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Circle of Anguish (Fractured).png]]
 
-## Description
+# Flavour Text
 I condemned an innocent man to the pyres, but to admit this mistake is to condemn myself.
 My only choice is to strive harder.
 
-## Details
+# Details
 - Requires Level 52
 - +(20-30)% to Fire Resistance
 - +(20-30) to Strength
@@ -16,9 +14,9 @@ My only choice is to strive harder.
 - Herald of Ash has (40-60)% increased Buff Effect(40-60)% increased Fire Damage while affected by Herald of Ash+1% to maximum Fire Resistance while affected by Herald of AshHerald of Ash has (40-30)% increased Mana Reservation Efficiency+(50-60)% to Fire Resistance while affected by Herald of Ash
 - Combine this item with two Rare Fractured items of the same item class at the Synthesiser in the Memory Nexus
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

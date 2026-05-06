@@ -1,11 +1,9 @@
-# Shackles of the Wretched
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Shackles of the Wretched.png]]
 
-## Description
+# Flavour Text
 Captivity breeds creativity.
 
-## Details
+# Details
 - Armour: (28-33)
 - Energy Shield: (11-13)
 - Requires Level 16, 13 Str, 13 Int
@@ -16,9 +14,9 @@ Captivity breeds creativity.
 - You cannot be Shocked for 6 seconds after being Shocked
 - Curses you inflict are reflected back to you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

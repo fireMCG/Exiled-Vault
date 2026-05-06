@@ -1,14 +1,12 @@
-# Vulconus
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Vulconus.png]]
 
-## Description
+# Flavour Text
 Lava bled from the earth and,
 after a time, cooled and hardened.
 The world protecting its beating heart
 with a thick, black scab.
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: (109-134) to (232-247)
 - Elemental Damage: (130-160) to (220-240)
@@ -27,9 +25,9 @@ with a thick, black scab.
 - 50% of Physical Damage Converted to Fire while you have Avatar of Fire
 - +2000 Armour while you do not have Avatar of Fire
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

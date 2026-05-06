@@ -1,12 +1,10 @@
-# Xoph's Heart
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Xoph's Heart.png]]
 
-## Description
+# Flavour Text
 His is our heart.
 To its beat we are all driven.
 
-## Details
+# Details
 - Requires Level 5
 - +(20-30) to Strength
 - +(20-30) to Strength
@@ -15,9 +13,9 @@ To its beat we are all driven.
 - +(20-40)% to Fire Resistance
 - Nearby Enemies are Covered in Ash
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

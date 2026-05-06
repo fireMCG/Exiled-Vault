@@ -1,12 +1,10 @@
-# Searing Exarch Influence Pack Size
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Searing Exarch Influence Pack Size.webp]]
 
-## Effects
+# Effects
 Monster Packs Influenced by The Searing Exarch in your Maps have 5% increased Pack Size
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

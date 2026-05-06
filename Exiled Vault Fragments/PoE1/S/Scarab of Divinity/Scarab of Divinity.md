@@ -1,11 +1,9 @@
-# Scarab of Divinity
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Scarab of Divinity.webp]]
 
-## Description
+# Flavour Text
 Faith transforms.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 3
@@ -15,9 +13,9 @@ Apparitions spawned by Pantheon-Touched Monsters deal 100% increased damage
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Scarab
 #Fragment
 #PoE1

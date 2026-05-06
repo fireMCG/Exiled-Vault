@@ -1,14 +1,12 @@
-# Warped Timepiece
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Warped Timepiece.png]]
 
-## Description
+# Flavour Text
 As you have lived, so you shall die
 forever trying to keep up with me.
 Your blood on these hands of mine
 forever makes me the public enemy.
 
-## Details
+# Details
 - Requires Level 50
 - +(16-24) to Dexterity and Intelligence
 - (10-25)% increased Attack Speed
@@ -17,9 +15,9 @@ forever makes me the public enemy.
 - (20-10)% reduced Skill Effect Duration
 - Debuffs on you expire 100% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

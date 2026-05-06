@@ -1,13 +1,11 @@
-# Geofri's Legacy
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Geofri's Legacy.png]]
 
-## Description
+# Flavour Text
 "Though 's beacon was extinguished,
 his embers may yet light our way."
 - , The People's Poet
 
-## Details
+# Details
 - Armour: (314-402)
 - Energy Shield: (63-82)
 - Requires Level 53, 59 Str, 59 Int
@@ -20,9 +18,9 @@ his embers may yet light our way."
 - +1 to maximum number of Summoned Holy Relics
 - Summoned Holy Relics have (25-20)% reduced Cooldown Recovery Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

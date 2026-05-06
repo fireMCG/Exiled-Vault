@@ -1,11 +1,9 @@
-# Karui Charge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Karui Charge.png]]
 
-## Description
+# Flavour Text
 For dead men require no answer.
 
-## Details
+# Details
 - Requires Level 24
 - +(20-30) to Dexterity
 - +(20-30) to Strength
@@ -15,9 +13,9 @@ For dead men require no answer.
 - 10% increased Movement Speed
 - 30% increased Projectile Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

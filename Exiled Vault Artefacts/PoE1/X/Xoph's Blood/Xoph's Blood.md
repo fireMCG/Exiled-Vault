@@ -1,12 +1,10 @@
-# Xoph's Blood
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Xoph's Blood.png]]
 
-## Description
+# Flavour Text
 We are his blood.
 Through us he carries his burning message.
 
-## Details
+# Details
 - Requires Level 64
 - +(20-30) to Strength
 - 10% increased maximum Life
@@ -16,9 +14,9 @@ Through us he carries his burning message.
 - Cover Enemies in Ash when they Hit you
 - Avatar of Fire
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

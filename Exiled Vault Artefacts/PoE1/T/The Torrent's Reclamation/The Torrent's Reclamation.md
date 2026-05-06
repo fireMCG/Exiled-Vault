@@ -1,8 +1,6 @@
-# The Torrent's Reclamation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Torrent's Reclamation.png]]
 
-## Details
+# Details
 - Requires Level 60
 - (15-25)% increased Stun and Block Recovery
 - Grants Summon Greater Harbinger of Time Skill
@@ -12,9 +10,9 @@
 - (15-20)% increased Cooldown Recovery Rate
 - Debuffs on you expire (15-20)% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

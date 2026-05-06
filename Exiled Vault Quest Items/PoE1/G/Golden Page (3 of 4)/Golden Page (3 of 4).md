@@ -1,16 +1,14 @@
-# Golden Page (3 of 4)
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Golden Page (3 of 4).png]]
 
-## Description
+# Flavour Text
 A waking Nightmare. 
 Madness of the mind? 
 Or madness of the flesh?"
 - Icius Perandus
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/IciusPerandus
 #Concept/Body/Flesh
 #Concept/Mind

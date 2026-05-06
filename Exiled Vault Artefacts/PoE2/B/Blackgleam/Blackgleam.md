@@ -1,12 +1,10 @@
-# Blackgleam
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Blackgleam.png]]
 
-## Description
+# Flavour Text
 Molten feathers, veiled spark,
 Hissing arrows from the dark.
 
-## Details
+# Details
 - Requires Level 8
 - Adds 3 to 5 Fire damage to Attacks
 - Adds (3-5) to (6-9) Fire damage to Attacks
@@ -16,9 +14,9 @@ Hissing arrows from the dark.
 - Attacks Gain (5-10)% of Damage as Extra Fire Damage
 - Can only be equipped if you are wielding a Bow.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

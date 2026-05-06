@@ -1,16 +1,14 @@
-# Father's Love
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Father's Love.png]]
 
-## Description
+# Flavour Text
 Everything is not enough.
 
-## Reward
+# Reward
 Sublime Vision
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/ValdoCaeserius
 #Concept/Emotion/Love
 #Category/DivinationCard

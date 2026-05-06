@@ -1,11 +1,9 @@
-# Replica Fragile Bloom
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Fragile Bloom.png]]
 
-## Description
+# Flavour Text
 "Distribute Prototype #723 to the guards. Perhaps their survival rate will increase."
 
-## Details
+# Details
 - Limited to: 1
 - Maximum 5 Fragile Regrowth
 - 0.7% of Life Regenerated per second per Fragile Regrowth
@@ -13,9 +11,9 @@
 - Lose 1 Fragile Regrowth each second
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

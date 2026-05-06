@@ -1,14 +1,12 @@
-# Winter's Bounty
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Winter's Bounty.png]]
 
-## Description
+# Flavour Text
 As a boy, Rigwald was taught to hunt,
 Through the first snows of winter,
 When beasts have gorged their fill,
 And see nothing but the long slumber ahead.
 
-## Details
+# Details
 - Limited to: 1
 - Radius: Medium
 - (10-15)% increased Cold Damage
@@ -16,9 +14,9 @@ And see nothing but the long slumber ahead.
 - With at least 40 Intelligence in Radius, Cold Snap's Cooldown can be bypassed by Power Charges instead of Frenzy Charges
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

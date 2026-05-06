@@ -1,16 +1,14 @@
-# Abandoned Wealth
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Abandoned Wealth.png]]
 
-## Description
+# Flavour Text
 When the world burned, the greedy burned with it, while the clever left as paupers.
 
-## Reward
+# Reward
 3x Exalted Orb
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

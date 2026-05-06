@@ -1,18 +1,16 @@
-# Precise Technique
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Precise Technique.webp]]
 
-## Description
+# Flavour Text
 Fear not the warrior that has practiced ten thousand techniques once.
 Fear the warrior that has practiced one technique ten thousand times.
 
-## Effects
+# Effects
 40% more Attack Damage if Accuracy Rating is higher than Maximum Life
 Never deal Critical Strikes
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE1

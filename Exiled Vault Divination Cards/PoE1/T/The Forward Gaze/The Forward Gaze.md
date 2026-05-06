@@ -1,16 +1,14 @@
-# The Forward Gaze
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Forward Gaze.png]]
 
-## Description
+# Flavour Text
 "When they realize our true intent, they will decry us, assault us, and try to crush what we have built. We must stand tall, Qotra, and make the future our own."
 
-## Reward
+# Reward
 Replica Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Qotra
 #Concept/Body/Eye

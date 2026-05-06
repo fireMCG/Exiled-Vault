@@ -1,12 +1,10 @@
-# Kelari's Malediction
-
-## Effects
+# Effects
 Grants Skill: Kelari's Malediction
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

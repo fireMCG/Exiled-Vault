@@ -1,13 +1,11 @@
-# Bog
-
-## Description
+# Flavour Text
 Layer upon layer of death and rot.
 
 Disgusting.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

@@ -1,12 +1,10 @@
-# Quicksand Hourglass
-
-## Effects
+# Effects
 Grants Sands of Time
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Chronomancer
 #Sorceress
+#Notable
 #PoE2

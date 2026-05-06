@@ -1,12 +1,10 @@
-# Pillaged Treasures
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Pillaged Treasures.webp]]
 
-## Effects
+# Effects
 Legion Chests in your Maps contain an additional Random Reward
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

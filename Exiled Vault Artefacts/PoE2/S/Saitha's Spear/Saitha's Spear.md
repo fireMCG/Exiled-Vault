@@ -1,12 +1,10 @@
-# Saitha's Spear
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Saitha's Spear.png]]
 
-## Description
+# Flavour Text
 Born in a star of man's own make,
 fused to her hand by her last mistake.
 
-## Details
+# Details
 - Spear
 - Physical Damage: (34-46) to (65-70)
 - Elemental Damage: (33-41) to (47-53)
@@ -22,9 +20,9 @@ fused to her hand by her last mistake.
 - Aggravating any Bleeding with this Weapon also Aggravates all Ignites on the target
 - (25-40)% chance to Aggravate Bleeding on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

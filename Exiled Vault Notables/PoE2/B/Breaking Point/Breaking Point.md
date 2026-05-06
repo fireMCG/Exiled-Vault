@@ -1,11 +1,9 @@
-# Breaking Point
-
-## Effects
+# Effects
 10% increased Duration of Elemental Ailments on Enemies
 30% increased Magnitude of Non-Damaging Ailments you inflict
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

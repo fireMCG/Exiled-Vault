@@ -1,12 +1,10 @@
-# Expedition Artifact Quantity
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Expedition Artifact Quantity.webp]]
 
-## Effects
+# Effects
 4% increased quantity of Artifacts dropped by Monsters
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

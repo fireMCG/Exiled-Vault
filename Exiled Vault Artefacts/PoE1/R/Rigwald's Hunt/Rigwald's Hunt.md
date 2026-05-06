@@ -1,13 +1,11 @@
-# Rigwald's Hunt
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rigwald's Hunt.png]]
 
-## Description
+# Flavour Text
 "The Greatwolf is with us! Gaius Sentari
 flees! Let us give chase, for today, my
 brothers and sisters, we are finally free!"
 
-## Details
+# Details
 - Armour: (1079-1395)
 - Evasion: (1079-1395)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ brothers and sisters, we are finally free!"
 - Minions have (6-12)% increased Attack Speed
 - Increases and Reductions to Minion Maximum Life also apply to you at 15% of their value
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

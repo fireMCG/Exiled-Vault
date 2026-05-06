@@ -1,12 +1,10 @@
-# Farrul's Fur
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Farrul's Fur.png]]
 
-## Description
+# Flavour Text
 The First of the Plains was the First of the Hunt
 It was she who showed us that there is honour in waiting in the shadows and picking your moment.
 
-## Details
+# Details
 - Armour: (760-1092)
 - Evasion: (954-1372)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ It was she who showed us that there is honour in waiting in the shadows and pick
 - Gain up to your maximum number of Frenzy and Power Charges when you gain Cat's Stealth
 - You have Phasing while you have Cat's Stealth
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

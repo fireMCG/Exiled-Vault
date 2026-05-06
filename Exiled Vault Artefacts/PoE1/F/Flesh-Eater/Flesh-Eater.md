@@ -1,12 +1,10 @@
-# Flesh-Eater
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Flesh-Eater.png]]
 
-## Description
+# Flavour Text
 I suffer, I long, with thirst to slake.
 Though countless corpses lie in wake.
 
-## Details
+# Details
 - One Handed Mace
 - Physical Damage: (49.6-55.8) to (92.8-104.4)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ Though countless corpses lie in wake.
 - 3% of Attack Damage Leeched as Life against Bleeding Enemies
 - 30% chance to cause Bleeding on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

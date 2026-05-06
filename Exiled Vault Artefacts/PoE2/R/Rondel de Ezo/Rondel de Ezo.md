@@ -1,12 +1,10 @@
-# Rondel de Ezo
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Rondel de Ezo.png]]
 
-## Description
+# Flavour Text
 "Resist for long enough, and your oppressor
 will lose his will. Then, you've won."
 
-## Details
+# Details
 - Buckler
 - Chance to Block: 20%
 - Evasion: (39-65)
@@ -18,9 +16,9 @@ will lose his will. Then, you've won."
 - 100% increased Block chance against Projectiles
 - Curse Enemies with Enfeeble on Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

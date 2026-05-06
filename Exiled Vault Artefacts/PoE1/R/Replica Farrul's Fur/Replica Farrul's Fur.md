@@ -1,11 +1,9 @@
-# Replica Farrul's Fur
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Farrul's Fur.png]]
 
-## Description
+# Flavour Text
 "Attempt #120: the prototype has finally achieved power similar to the original without breaking all the bones of the test subject. A rousing success."
 
-## Details
+# Details
 - Armour: (760-1092)
 - Evasion: (954-1372)
 - Movement Speed: -3%
@@ -17,9 +15,9 @@
 - Gain up to your maximum number of Frenzy and Endurance Charges when you gain Cat's Agility
 - You have Onslaught while you have Cat's Agility
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

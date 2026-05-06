@@ -1,12 +1,10 @@
-# The Will of Xoph
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Will of Xoph.png]]
 
-## Description
+# Flavour Text
 They dance and scream under the Broken Sun
 as spiraling oblivion deepens into flame.
 
-## Details
+# Details
 - Requires Level 42
 - Cannot roll Modifiers of Non-Fire Damage Types
 - +2% to maximum Fire Resistance
@@ -18,9 +16,9 @@ as spiraling oblivion deepens into flame.
 - Increases and Reductions to Fire Damage also apply to Effect of
 - Auras from Fire Skills at (10-15)% of their value, up to a maximum of 150%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

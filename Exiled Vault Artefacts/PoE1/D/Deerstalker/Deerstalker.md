@@ -1,11 +1,9 @@
-# Deerstalker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Deerstalker.png]]
 
-## Description
+# Flavour Text
 Anticipation, preparation, exhilaration, celebration.
 
-## Details
+# Details
 - Evasion: (192-276)
 - Requires Level 22, 42 Dex
 - Socketed Gems are Supported by Level 15 Trap
@@ -14,9 +12,9 @@ Anticipation, preparation, exhilaration, celebration.
 - (14-18)% increased Trap Throwing Speed
 - 15% increased Movement Speed for 9 seconds on Throwing a Trap
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

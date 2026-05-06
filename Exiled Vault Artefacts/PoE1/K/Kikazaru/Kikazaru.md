@@ -1,11 +1,9 @@
-# Kikazaru
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kikazaru.png]]
 
-## Description
+# Flavour Text
 Hear no evil.
 
-## Details
+# Details
 - Requires Level 20
 - +(20-30)% to Lightning Resistance
 - +(10-15) to all Attributes
@@ -13,9 +11,9 @@ Hear no evil.
 - 60% reduced Effect of Curses on you
 - Regenerate 3 Life per second per Level
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

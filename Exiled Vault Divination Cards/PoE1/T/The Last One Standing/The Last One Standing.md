@@ -1,16 +1,14 @@
-# The Last One Standing
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Last One Standing.png]]
 
-## Description
+# Flavour Text
 The strongest emerge from suffering. The toughest bear the most scars. The sole survivor claims the greatest of rewards.
 
-## Reward
+# Reward
 Atziri's Disfavour
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Atziri
 #Society/VaalEmpire

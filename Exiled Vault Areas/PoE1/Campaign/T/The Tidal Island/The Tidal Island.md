@@ -1,14 +1,12 @@
-# The Tidal Island
-
-## Description
+# Flavour Text
 Despite the warming sun, the breeze here bites with fangs of ice.
 
-## Connected Areas
+# Connected Areas
 - The Coast
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

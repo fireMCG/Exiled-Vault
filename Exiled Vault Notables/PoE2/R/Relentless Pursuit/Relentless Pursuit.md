@@ -1,12 +1,10 @@
-# Relentless Pursuit
-
-## Effects
+# Effects
 Your speed is unaffected by Slows
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Pathfinder
 #Ranger
+#Notable
 #PoE2

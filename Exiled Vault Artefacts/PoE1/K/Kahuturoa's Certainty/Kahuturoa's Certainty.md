@@ -1,11 +1,9 @@
-# Kahuturoa's Certainty
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kahuturoa's Certainty.png]]
 
-## Description
+# Flavour Text
 Confidence is calm and measured.
 
-## Details
+# Details
 - Armour: (302-435)
 - Requires Level 46, 82 Str
 - (100-150)% increased Armour
@@ -13,9 +11,9 @@ Confidence is calm and measured.
 - (100-200)% increased Stun and Block Recovery
 - Unaffected by Damaging Ailments
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

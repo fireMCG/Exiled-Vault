@@ -1,14 +1,12 @@
-# The Crypt
-
-## Description
+# Flavour Text
 Ancestral memories given life, then soured.
 
-## Connected Areas
+# Connected Areas
 - The Fellshrine Ruins
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

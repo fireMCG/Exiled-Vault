@@ -1,12 +1,10 @@
-# Legion Timeless Emblem Chance
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Legion Timeless Emblem Chance.webp]]
 
-## Effects
+# Effects
 0.2% chance for Timeless Splinters to drop as Timeless Emblems instead in your Maps
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

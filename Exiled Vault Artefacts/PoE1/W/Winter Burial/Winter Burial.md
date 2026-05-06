@@ -1,14 +1,12 @@
-# Winter Burial
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Winter Burial.png]]
 
-## Description
+# Flavour Text
 Exposure led to the deaths of many slaves.
 And it was the duty of slaves to bury the dead in the frozen ground.
 A growing circle of misery and death
 that the elite were all to happy to sustain.
 
-## Details
+# Details
 - Limited to: 2
 - Radius: Medium
 - (10-15)% increased Cold Damage
@@ -18,9 +16,9 @@ that the elite were all to happy to sustain.
 - Hammer Physical Damage Converted to Cold Damage
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

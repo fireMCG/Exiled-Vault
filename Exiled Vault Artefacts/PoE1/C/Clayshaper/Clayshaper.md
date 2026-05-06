@@ -1,12 +1,10 @@
-# Clayshaper
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Clayshaper.png]]
 
-## Description
+# Flavour Text
 There is nothing, flesh, spirit, or stone
 Free from our hunger for dominion.
 
-## Details
+# Details
 - One Handed Mace
 - Physical Damage: (61-67) to (103-109)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ Free from our hunger for dominion.
 - +1 to maximum number of Summoned Golems
 - Golems have (96-120) to (132-160) Added Attack Physical Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

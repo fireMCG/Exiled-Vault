@@ -1,15 +1,13 @@
-# Dark Forest
-
-## Description
+# Flavour Text
 The trees grow twisted and gnarled,
 
 without a hint of light.
 
 A curse lingers here.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

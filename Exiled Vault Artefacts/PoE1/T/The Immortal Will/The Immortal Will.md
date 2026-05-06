@@ -1,8 +1,6 @@
-# The Immortal Will
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Immortal Will.png]]
 
-## Details
+# Details
 - Chance to Block: 27%
 - Armour: (156-179)
 - Energy Shield: (32-37)
@@ -16,9 +14,9 @@
 - +5% Chance to Block
 - Channelling Skills deal (50-70)% increased Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

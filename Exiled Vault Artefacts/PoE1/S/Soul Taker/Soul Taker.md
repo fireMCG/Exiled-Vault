@@ -1,11 +1,9 @@
-# Soul Taker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Soul Taker.png]]
 
-## Description
+# Flavour Text
 It is too easy for the soul to escape from an open heart.
 
-## Details
+# Details
 - One Handed Axe
 - Physical Damage: (163.2-190.4) to (264-308)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ It is too easy for the soul to escape from an open heart.
 - Insufficient Mana doesn't prevent your Melee Attacks
 - Eat (2-4) Souls when you Kill a Rare or Unique Enemy with this Weapon
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

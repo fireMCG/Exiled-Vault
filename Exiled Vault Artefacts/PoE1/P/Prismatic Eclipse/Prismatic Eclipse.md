@@ -1,14 +1,12 @@
-# Prismatic Eclipse
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Prismatic Eclipse.png]]
 
-## Description
+# Flavour Text
 "A raging Solaris seared and contorted the orb's surface.
 A despairing Lunaris filled the scars with her tears.
 Yet Viridi remained, trapped within, forever more."
 - Azmerian Creation Myth
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (90-100) to (157-166)
 - Critical Strike Chance: 5.00%
@@ -23,9 +21,9 @@ Yet Viridi remained, trapped within, forever more."
 - 0.4% of Physical Attack Damage Leeched as Mana per Blue Socket
 - +0.2 metres to Melee Strike Range per White Socket
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

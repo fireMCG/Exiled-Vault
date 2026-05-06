@@ -1,12 +1,10 @@
-# Annihilation's Approach
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Annihilation's Approach.png]]
 
-## Description
+# Flavour Text
 Pray that the flames find fascination,
 for the true end follows when the great eye closes.
 
-## Details
+# Details
 - Armour: (193-278)
 - Evasion: (193-278)
 - Requires Level 65, 62 Str, 62 Dex
@@ -19,9 +17,9 @@ for the true end follows when the great eye closes.
 - Gain Adrenaline when you become Flame-Touched
 - Lose Adrenaline when you cease to be Flame-Touched
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/SearingExarch
 #Concept/Element/Fire

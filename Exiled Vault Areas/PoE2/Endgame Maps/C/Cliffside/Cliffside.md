@@ -1,11 +1,9 @@
-# Cliffside
-
-## Description
+# Flavour Text
 The grandest sculptures are carved with neither hammer nor chisel.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

@@ -1,10 +1,8 @@
-# Reformed Barrier
-
-## Effects
+# Effects
 Your Energy Shield Recharge starts when your Minions are Reformed
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

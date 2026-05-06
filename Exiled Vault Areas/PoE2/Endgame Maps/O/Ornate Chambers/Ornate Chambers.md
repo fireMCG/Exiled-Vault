@@ -1,13 +1,11 @@
-# Ornate Chambers
-
-## Description
+# Flavour Text
 A sanctuary for the unsanctified.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

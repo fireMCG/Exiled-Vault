@@ -1,14 +1,12 @@
-# Dying Breath
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Dying Breath.png]]
 
-## Description
+# Flavour Text
 The whispers of the dead
 Carry wisdom for the living,
 If you are willing to give your life
 To listen.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 14-42
 - Critical Strike Chance: 7.60%
@@ -24,9 +22,9 @@ To listen.
 - Nearby allies gain 18% increased Damage
 - 18% increased effect of Non-Curse Auras from your Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

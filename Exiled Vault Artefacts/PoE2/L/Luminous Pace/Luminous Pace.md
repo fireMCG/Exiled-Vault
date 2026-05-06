@@ -1,11 +1,9 @@
-# Luminous Pace
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Luminous Pace.png]]
 
-## Description
+# Flavour Text
 Blessed are those who tend the Grove.
 
-## Details
+# Details
 - Energy Shield: (34-44)
 - 10% increased Movement Speed
 - +(20-30) to maximum Energy Shield
@@ -13,9 +11,9 @@ Blessed are those who tend the Grove.
 - (30-20)% reduced Energy Shield Recharge Rate
 - 100% faster start of Energy Shield Recharge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

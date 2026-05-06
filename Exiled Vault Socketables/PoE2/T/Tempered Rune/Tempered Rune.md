@@ -1,17 +1,15 @@
-# Tempered Rune
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Tempered Rune.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Requires: Level 15
 
-## Effects
+# Effects
 - Martial Weapon: Adds 6 to 9 Physical Damage
 - Armour: 14 to 21 Physical Thorns damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

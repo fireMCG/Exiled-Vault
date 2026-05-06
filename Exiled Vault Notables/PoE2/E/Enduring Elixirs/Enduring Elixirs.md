@@ -1,12 +1,10 @@
-# Enduring Elixirs
-
-## Effects
+# Effects
 Life Flask Effects are not removed when Unreserved Life is FilledLife Flask Effects do not Queue
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Pathfinder
 #Ranger
+#Notable
 #PoE2

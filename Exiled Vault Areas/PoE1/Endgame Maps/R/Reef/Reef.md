@@ -1,15 +1,13 @@
-# Reef
-
-## Description
+# Flavour Text
 Each plank of rotting wood,
 
 each dead sailor,
 
 feeds the island and makes it grow.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

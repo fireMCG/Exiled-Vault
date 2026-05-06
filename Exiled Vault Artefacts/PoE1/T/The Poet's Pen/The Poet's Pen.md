@@ -1,11 +1,9 @@
-# The Poet's Pen
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Poet's Pen.png]]
 
-## Description
+# Flavour Text
 In every piece of prose, lies a tiny spark of magic.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 9-18
 - Critical Strike Chance: 8.50%
@@ -17,9 +15,9 @@ In every piece of prose, lies a tiny spark of magic.
 - Adds 3 to 5 Physical Damage to Attacks with this Weapon per 3 Player Levels
 - (8-12)% increased Attack Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

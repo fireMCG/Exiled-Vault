@@ -1,14 +1,12 @@
-# Taryn's Shiver
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Taryn's Shiver.png]]
 
-## Description
+# Flavour Text
 Shed by the winged beast of night,
 A scaly frost-encrusted thorn.
 All who feel its wintry light
 Shiver in pain at the frozen dawn.
 
-## Details
+# Details
 - Staff
 - Requires Level 2
 - Grants Skill: Level (1-20) Freezing Shards
@@ -17,9 +15,9 @@ Shiver in pain at the frozen dawn.
 - 30% increased Freeze Buildup
 - Enemies Frozen by you take 100% increased Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,13 +1,11 @@
-# Blight Chest Chance and Lucky Chests
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Blight Chest Chance and Lucky Chests.webp]]
 
-## Effects
+# Effects
 Varieties of Items contained in 1 Blight Chest in your Maps are Lucky
 Lanes of Blight Encounters in your Maps have 5% chance for an additional Reward Chest
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

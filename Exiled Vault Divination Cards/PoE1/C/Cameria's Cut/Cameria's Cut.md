@@ -1,18 +1,16 @@
-# Cameria's Cut
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Cameria's Cut.png]]
 
-## Description
+# Flavour Text
 "There are two ways to pay, Gold and Blood. I'll take my share in both."
 
 -Cameria the Coldblooded
 
-## Reward
+# Reward
 Scarab
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Cameria
 #Concept/Blood

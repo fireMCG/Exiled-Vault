@@ -1,12 +1,10 @@
-# The Tempestuous Steel
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Tempestuous Steel.png]]
 
-## Description
+# Flavour Text
 The blade thrums with wild energy
 Eager for vengeance against all who walk free.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (21-24) to (45-50)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ Eager for vengeance against all who walk free.
 - Gain 15% of Physical Attack Damage as Extra Fire Damage
 - Gain 15% of Physical Attack Damage as Extra Lightning Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

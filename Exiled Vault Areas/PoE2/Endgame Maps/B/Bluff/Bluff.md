@@ -1,11 +1,9 @@
-# Bluff
-
-## Description
+# Flavour Text
 Life still clings to the highest places.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

@@ -1,13 +1,11 @@
-# Dyadian Dawn
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Dyadian Dawn.png]]
 
-## Description
+# Flavour Text
 With her cold resolve
 And burning sacrifice
 The Eternal twins arose.
 
-## Details
+# Details
 - Requires Level 52
 - +(25-35) to Strength
 - +(70-85) to maximum Life
@@ -17,9 +15,9 @@ The Eternal twins arose.
 - Ignites you inflict with Attacks deal Damage 35% faster
 - Deal no Physical Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

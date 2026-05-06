@@ -1,12 +1,10 @@
-# The Rat Cage
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Rat Cage.png]]
 
-## Description
+# Flavour Text
 The truth lies inside every man, if you dig around.
 Many a confession was found in the bowels of Axiom.
 
-## Details
+# Details
 - Evasion: (1118-1414)
 - Movement Speed: -3%
 - Requires Level 56, 152 Dex
@@ -15,9 +13,9 @@ Many a confession was found in the bowels of Axiom.
 - 15% increased Movement Speed
 - 100% of Fire Damage from Hits taken as Physical Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

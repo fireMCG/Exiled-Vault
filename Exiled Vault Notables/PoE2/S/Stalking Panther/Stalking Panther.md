@@ -1,13 +1,11 @@
-# Stalking Panther
-
-## Effects
+# Effects
 Evasion Rating from Equipped Helmet, Gloves and Boots is doubled
 Evasion Rating from Equipped Body Armour is halved
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Amazon
 #Huntress
+#Notable
 #PoE2

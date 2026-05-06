@@ -1,12 +1,10 @@
-# Veruso's Battering Rams
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Veruso's Battering Rams.png]]
 
-## Description
+# Flavour Text
 With unending determination and resolve he destroyed first the gates,
 then the constructs guarding the tomb on the other side.
 
-## Details
+# Details
 - Armour: (532-778)
 - Requires Level 69, 98 Str
 - (8-13)% increased Attack Speed
@@ -16,9 +14,9 @@ then the constructs guarding the tomb on the other side.
 - 4% increased Melee Damage per Endurance Charge
 - You cannot be Shocked while at maximum Endurance Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

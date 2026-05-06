@@ -1,18 +1,16 @@
-# The Bitter Blossom
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Bitter Blossom.png]]
 
-## Description
+# Flavour Text
 The pain you feel is of no consequence, it is evolution, to be made whole within something greater.
 
-## Reward
+# Reward
 Level 21 Chaos Gem
 Quality: +23%
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Demon
 #Concept/Nature/Flower
 #Concept/Virtue/Gem

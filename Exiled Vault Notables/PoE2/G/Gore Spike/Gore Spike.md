@@ -1,12 +1,10 @@
-# Gore Spike
-
-## Effects
+# Effects
 1% increased Critical Damage Bonus per 50 current Life
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Blood Mage
 #Witch
+#Notable
 #PoE2

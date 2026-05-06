@@ -1,13 +1,11 @@
-# Realmshaper
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Realmshaper.png]]
 
-## Description
+# Flavour Text
 "God's creations always begin and end with flames and ice.
 We should count ourselves lucky when we see neither."
 - Archbishop Geofri
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 14-42
 - Elemental Damage: (10-15) to (20-25), (10-15) to (20-25)
@@ -23,9 +21,9 @@ We should count ourselves lucky when we see neither."
 - Adds (10-15) to (20-25) Cold Damage
 - (30-50)% increased Elemental Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,14 +1,12 @@
-# Maze
-
-## Description
+# Flavour Text
 They live trapped forever in darkness
 
 and confusion. We are no different.
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #EndgameMap
 #PoE1
-#Interesting

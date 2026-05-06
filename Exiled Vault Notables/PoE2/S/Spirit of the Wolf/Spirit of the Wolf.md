@@ -1,11 +1,9 @@
-# Spirit of the Wolf
-
-## Effects
+# Effects
 20% increased Critical Hit Chance while Shapeshifted
 8% increased Skill Speed while Shapeshifted
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

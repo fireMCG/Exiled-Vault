@@ -1,11 +1,9 @@
-# Blunderbore
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Blunderbore.png]]
 
-## Description
+# Flavour Text
 The giant cares not for the ants.
 
-## Details
+# Details
 - Armour: (1279-1720)
 - Movement Speed: -5%
 - Requires Level 62, (680-880) Str
@@ -16,9 +14,9 @@ The giant cares not for the ants.
 - You have Lesser Brutal Shrine Buff
 - You have Lesser Massive Shrine Buff
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

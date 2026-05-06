@@ -1,11 +1,9 @@
-# Azmerian Ranges
-
-## Description
+# Flavour Text
 The Spirit guides the mountain-born.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

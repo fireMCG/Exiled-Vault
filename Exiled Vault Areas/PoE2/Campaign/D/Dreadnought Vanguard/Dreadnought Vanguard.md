@@ -1,15 +1,13 @@
-# Dreadnought Vanguard
-
-## Description
+# Flavour Text
 History is written in the blood of tyrants.
 
-## Connected Areas
+# Connected Areas
 - The Dreadnought
 - Sandswept Marsh
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

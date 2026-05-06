@@ -1,11 +1,9 @@
-# Matsya
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Matsya.png]]
 
-## Description
+# Flavour Text
 In our tales, and in our hearts, the rivers still flow.
 
-## Details
+# Details
 - Quartertaff
 - Physical Damage: 19-39
 - Elemental Damage: (6-9) to (10-15), 1 to (19-29)
@@ -20,9 +18,9 @@ In our tales, and in our hearts, the rivers still flow.
 - (25-40)% increased Mana Regeneration Rate
 - Skills reserve 50% less Spirit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

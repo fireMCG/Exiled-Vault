@@ -1,13 +1,11 @@
-# Dawnbreaker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Dawnbreaker.png]]
 
-## Description
+# Flavour Text
 "The newcomers warn of doom and death beyond mortal ken.
 I ask, why should we fear the fire when we serve the Lord of Light?"
 - Maxarius, the first High Templar
 
-## Details
+# Details
 - Chance to Block: (43-48)%
 - Armour: (1305-2103)
 - Movement Speed: -3%
@@ -21,9 +19,9 @@ I ask, why should we fear the fire when we serve the Lord of Light?"
 - (10-20)% of Physical Damage taken as Fire Damage
 - Scorch Enemies in Close Range when you Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/God/Innocence
 #Character/HighTemplar/Maxarius

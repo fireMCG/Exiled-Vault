@@ -1,12 +1,10 @@
-# A Solid Plan
-
-## Effects
+# Effects
 Persistent Buffs have 50% less Reservation
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Tactician
 #Mercenary
+#Notable
 #PoE2

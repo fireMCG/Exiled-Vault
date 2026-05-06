@@ -1,19 +1,17 @@
-# The Primordial
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Primordial.png]]
 
-## Description
+# Flavour Text
 We play at God with our necromancy, 
 but forces far more potent 
 sleep within these stones.
 
-## Reward
+# Reward
 Jewel
 Primordial
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/God
 #Concept/Necromancy

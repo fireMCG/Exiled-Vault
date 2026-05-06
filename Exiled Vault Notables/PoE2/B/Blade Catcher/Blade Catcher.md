@@ -1,11 +1,9 @@
-# Blade Catcher
-
-## Effects
+# Effects
 Defend with 200% of Armour against Critical Hits
 +15 to Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,14 +1,12 @@
-# The Dancing Duo
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Dancing Duo.png]]
 
-## Description
+# Flavour Text
 One more partner by the hand,
 Let your steps entwine.
 Spin together, swing as one,
 And dance with death in trine.
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: (142.6-161.2) to (239.2-270.4)
 - Critical Strike Chance: 5.00%
@@ -25,9 +23,9 @@ And dance with death in trine.
 - Melee Hits count as Rampage Kills
 - Rampage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

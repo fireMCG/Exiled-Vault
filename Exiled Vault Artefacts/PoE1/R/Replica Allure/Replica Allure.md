@@ -1,13 +1,11 @@
-# Replica Allure
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Allure.png]]
 
-## Description
+# Flavour Text
 "Test subject was able to survive the entire process simply by shouting epithets at
 the researcher. Researcher's feelings were slightly injured."
 - Researcher Graven
 
-## Details
+# Details
 - Claw
 - Physical Damage: (92.4-112.7) to (222.6-266.8)
 - Critical Strike Chance: 8.00%
@@ -22,9 +20,9 @@ the researcher. Researcher's feelings were slightly injured."
 - You gain Onslaught for 1 seconds on Killing Taunted Enemies
 - Enemies Taunted by you take 10% increased Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

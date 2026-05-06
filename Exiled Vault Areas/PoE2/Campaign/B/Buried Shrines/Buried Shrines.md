@@ -1,14 +1,12 @@
-# Buried Shrines
-
-## Description
+# Flavour Text
 The Seven Rivers once met below these dry stones.
 
-## Connected Areas
+# Connected Areas
 - The Lost City
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

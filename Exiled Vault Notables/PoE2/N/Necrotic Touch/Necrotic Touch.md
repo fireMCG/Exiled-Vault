@@ -1,10 +1,8 @@
-# Necrotic Touch
-
-## Effects
+# Effects
 Minions have 40% increased Critical Hit Chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

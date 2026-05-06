@@ -1,12 +1,10 @@
-# Singularity
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Singularity.png]]
 
-## Description
+# Flavour Text
 In time, all becomes nothing.
 We just expedite the process.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 51-76
 - Critical Strike Chance: 7.00%
@@ -20,9 +18,9 @@ We just expedite the process.
 - Nearby Enemies are Hindered, with 25% reduced Movement Speed
 - 100% increased Damage with Hits and Ailments against Hindered Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

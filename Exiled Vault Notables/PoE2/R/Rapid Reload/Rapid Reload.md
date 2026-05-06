@@ -1,10 +1,8 @@
-# Rapid Reload
-
-## Effects
+# Effects
 40% increased Crossbow Reload Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

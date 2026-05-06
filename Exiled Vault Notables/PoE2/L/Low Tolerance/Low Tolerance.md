@@ -1,10 +1,8 @@
-# Low Tolerance
-
-## Effects
+# Effects
 60% increased Effect of Poison you inflict on targets that are not Poisoned
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

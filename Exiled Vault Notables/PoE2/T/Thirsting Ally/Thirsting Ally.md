@@ -1,10 +1,8 @@
-# Thirsting Ally
-
-## Effects
+# Effects
 Leeching Life from your Hits causes your Companion to also Leech the same amount of Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

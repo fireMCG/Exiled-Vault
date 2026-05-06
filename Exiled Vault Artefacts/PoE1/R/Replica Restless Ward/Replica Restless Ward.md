@@ -1,12 +1,10 @@
-# Replica Restless Ward
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Restless Ward.png]]
 
-## Description
+# Flavour Text
 "Further research must be done on Prototype #282.
 There is power here, if it can be tapped."
 
-## Details
+# Details
 - Evasion: (1129-1358)
 - Energy Shield: (329-395)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ There is power here, if it can be tapped."
 - -2 to Maximum Frenzy Charges
 - Regenerate (100-140) Life per second per Endurance Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

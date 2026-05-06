@@ -1,8 +1,6 @@
-# The Goddess Unleashed
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Goddess Unleashed.png]]
 
-## Description
+# Flavour Text
 As a maiden I was bound; as a crone was I scorned
 Promised power rarely found, delivered fury fairly thorned.
 Not enough?...Fine. Now I am become both and another
@@ -10,7 +8,7 @@ To take your hand and cradle your talents, not smother
 The consummate flames. So hush, dear, say not a word.
 Bequeathed, betrayed...beloved. At last, I am the third.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (44-47) to (101-134)
 - Critical Strike Chance: (7.20-8.30)%
@@ -31,9 +29,9 @@ Bequeathed, betrayed...beloved. At last, I am the third.
 - Uses goddess player audio (Hidden)
 - Level Requirement reduced by 15 (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

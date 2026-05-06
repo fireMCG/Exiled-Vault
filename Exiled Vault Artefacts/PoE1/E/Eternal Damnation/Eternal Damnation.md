@@ -1,11 +1,9 @@
-# Eternal Damnation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Eternal Damnation.png]]
 
-## Description
+# Flavour Text
 The price of immortality is isolation.
 
-## Details
+# Details
 - Requires Level 52
 - +(16-24) to Strength and Intelligence
 - +(40-70) to maximum Mana
@@ -14,9 +12,9 @@ The price of immortality is isolation.
 - Gain additional Elemental Damage Reduction equal to half your Chaos Resistance
 - Maximum Endurance, Frenzy and Power Charges is 0
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

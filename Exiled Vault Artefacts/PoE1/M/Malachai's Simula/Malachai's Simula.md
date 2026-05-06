@@ -1,12 +1,10 @@
-# Malachai's Simula
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Malachai's Simula.png]]
 
-## Description
+# Flavour Text
 It was a sliver of Malachai's soul
 that animated the first Eternal Guardian.
 
-## Details
+# Details
 - Evasion: (48-60)
 - Energy Shield: (11-14)
 - Requires Level 17, 21 Dex, 21 Int
@@ -15,9 +13,9 @@ that animated the first Eternal Guardian.
 - Spells have a 20% chance to deal Double Damage
 - Blood Magic
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

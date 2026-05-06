@@ -1,12 +1,10 @@
-# Heroic Tragedy
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Heroic Tragedy.png]]
 
-## Description
+# Flavour Text
 They believed themselves courageous and selfless,
 but that bravery became the doom at their door.
 
-## Details
+# Details
 - Limited to: 1 Historic
 - Radius: Very Large
 - Remembering (100-8000) songworthy deeds by the line of (Vorana-Medved-Olroth)
@@ -14,9 +12,9 @@ but that bravery became the doom at their door.
 - Historic
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,14 +1,12 @@
-# Soul's Wick
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Soul's Wick.png]]
 
-## Description
+# Flavour Text
 Candles with the brightest light
 Bring life to death and day to night.
 But lovely as the glow may seem,
 Their light is fleeting, as a dream...
 
-## Details
+# Details
 - Limited to: 1
 - +2 to maximum number of Spectres
 - (50-40)% reduced Mana Cost of Raise Spectre
@@ -18,9 +16,9 @@ Their light is fleeting, as a dream...
 - Corrupted
 - Place into an allocated jewel socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,21 +1,19 @@
-# Static Electricity
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Static Electricity.png]]
 
-## Description
+# Flavour Text
 "Movement expends energy, but perhaps a little of that energy
 can be recaptured and... reappropriated."
 - Inquisitor Maligaro
 
-## Details
+# Details
 - Radius: Large
 - Adds 1 maximum Lightning Damage to Attacks per 1 Dexterity Allocated in Radius
 - Adds 1 to 2 Lightning Damage to Attacks
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

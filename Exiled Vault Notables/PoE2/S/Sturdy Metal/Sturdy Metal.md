@@ -1,10 +1,8 @@
-# Sturdy Metal
-
-## Effects
+# Effects
 80% increased Armour from Equipped Body Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

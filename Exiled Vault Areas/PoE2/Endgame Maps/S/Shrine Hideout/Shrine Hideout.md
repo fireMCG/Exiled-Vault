@@ -1,13 +1,11 @@
-# Shrine Hideout
-
-## Description
+# Flavour Text
 A fragment of a glorious past.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

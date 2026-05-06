@@ -1,10 +1,8 @@
-# Embodiment of Frost
-
-## Effects
+# Effects
 Immune to Freeze and Chill while affected by an Archon Buff
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

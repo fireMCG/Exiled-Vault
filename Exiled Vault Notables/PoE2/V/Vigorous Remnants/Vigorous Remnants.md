@@ -1,10 +1,8 @@
-# Vigorous Remnants
-
-## Effects
+# Effects
 Recover 3% of Maximum Life when you collect a Remnant
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

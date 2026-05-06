@@ -1,11 +1,9 @@
-# For the Jugular
-
-## Effects
+# Effects
 25% increased Critical Damage Bonus
 +10 to Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

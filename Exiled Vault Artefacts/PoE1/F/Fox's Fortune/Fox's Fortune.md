@@ -1,12 +1,10 @@
-# Fox's Fortune
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fox's Fortune.png]]
 
-## Description
+# Flavour Text
 Follow your most basic instincts.
 The rest will come naturally.
 
-## Details
+# Details
 - Evasion: (1441-2015)
 - Movement Speed: -3%
 - Requires Level 54, 73 Dex
@@ -18,9 +16,9 @@ The rest will come naturally.
 - 10% increased Movement Speed
 - Damage of Enemies Hitting you is Unlucky while you are on Full Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

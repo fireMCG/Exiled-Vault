@@ -1,11 +1,9 @@
-# Rashkaldor's Patience
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rashkaldor's Patience.png]]
 
-## Description
+# Flavour Text
 Fate's smile, man's ruin.
 
-## Details
+# Details
 - Requires Level 48
 - +(20-30) to Dexterity
 - +(40-80) to maximum Life
@@ -14,9 +12,9 @@ Fate's smile, man's ruin.
 - Items and Gems have 10% increased Attribute Requirements
 - Always Freeze, Shock and Ignite
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

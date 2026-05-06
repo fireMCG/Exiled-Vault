@@ -1,20 +1,18 @@
-# Idol of Maxarius
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Idol of Maxarius.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Body Armours: +1 Charm Slot
 
-## Bonded Effects
+# Bonded Effects
 - Body Armours: Storm Skills have +1 to Limit
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

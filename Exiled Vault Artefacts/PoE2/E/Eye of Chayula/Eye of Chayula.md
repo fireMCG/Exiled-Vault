@@ -1,20 +1,18 @@
-# Eye of Chayula
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Eye of Chayula.png]]
 
-## Description
+# Flavour Text
 Never blinking, always watching.
 
-## Details
+# Details
 - Requires Level 35
 - (12-20)% increased Rarity of Items found
 - (30-20)% reduced maximum Life
 - +(10-15) to all Attributes
 - Cannot be Light Stunned
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

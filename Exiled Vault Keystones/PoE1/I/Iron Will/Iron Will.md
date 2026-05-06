@@ -1,16 +1,14 @@
-# Iron Will
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Iron Will.webp]]
 
-## Description
+# Flavour Text
 Legend tells of incantations so powerful that only giants could recite them.
 
-## Effects
+# Effects
 Strength's Damage bonus applies to all Spell Damage as well
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE1

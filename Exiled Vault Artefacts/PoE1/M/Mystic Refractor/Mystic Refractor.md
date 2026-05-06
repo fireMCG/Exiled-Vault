@@ -1,13 +1,11 @@
-# Mystic Refractor
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mystic Refractor.png]]
 
-## Description
+# Flavour Text
 Motion, purpose... craft. The fruits of my mind laboured
 to build my wildest imaginings, never tiring, never faltering.
 Life... or something like it, engineered in its image.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 20-37
 - Critical Strike Chance: 8.00%
@@ -19,9 +17,9 @@ Life... or something like it, engineered in its image.
 - (30-50)% increased Projectile Damage
 - Projectiles cannot continue after colliding with targets
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

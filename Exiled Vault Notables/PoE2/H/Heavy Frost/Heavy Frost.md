@@ -1,11 +1,9 @@
-# Heavy Frost
-
-## Effects
+# Effects
 20% increased Freeze Buildup
 Hits ignore non-negative Elemental Resistances of Frozen Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

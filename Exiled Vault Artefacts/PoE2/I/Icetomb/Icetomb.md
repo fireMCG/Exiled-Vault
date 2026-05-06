@@ -1,13 +1,11 @@
-# Icetomb
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Icetomb.png]]
 
-## Description
+# Flavour Text
 When Solaris closes his burning eye
 At the end of time,
 the world will perish in ice.
 
-## Details
+# Details
 - Armour: 67
 - Energy Shield: 28
 - Movement Speed: -4.0%
@@ -17,9 +15,9 @@ the world will perish in ice.
 - +(30-40)% to Cold Resistance
 - Gain Cold Thorns Damage equal to (10-18)% of your maximum Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

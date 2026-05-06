@@ -1,12 +1,10 @@
-# Blood of Summer
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Blood of Summer.png]]
 
-## Description
+# Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: 6-15
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ So goes the descent.
 - 20% increased Area of Effect
 - 33% chance to gain a Frenzy Charge on Kill
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

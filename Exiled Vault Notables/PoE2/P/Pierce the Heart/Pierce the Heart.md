@@ -1,10 +1,8 @@
-# Pierce the Heart
-
-## Effects
+# Effects
 Arrows Pierce an additional Target
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

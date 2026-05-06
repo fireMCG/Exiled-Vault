@@ -1,10 +1,8 @@
-# Sic 'Em
-
-## Effects
+# Effects
 Companions deal 60% increased damage against Immobilised enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

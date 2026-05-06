@@ -1,10 +1,8 @@
-# Succour
-
-## Effects
+# Effects
 30% increased Life Regeneration rate during Effect of any Life Flask
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

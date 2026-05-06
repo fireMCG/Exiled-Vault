@@ -1,13 +1,11 @@
-# Grand Idol
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Grand Idol.png]]
 
-## Description
+# Flavour Text
 ...in the depths of an ancient ruin...
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #Society/VaalEmpire
 #QuestItem

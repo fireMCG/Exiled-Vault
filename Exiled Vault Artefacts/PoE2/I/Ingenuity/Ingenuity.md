@@ -1,12 +1,10 @@
-# Ingenuity
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Ingenuity.png]]
 
-## Description
+# Flavour Text
 Experiments with geomancy taught
 the Maji more than they ever expected.
 
-## Details
+# Details
 - Requires Level 55
 - Has (1-3) Charm Slots
 - 20% of Flask Recovery applied Instantly
@@ -15,9 +13,9 @@ the Maji more than they ever expected.
 - (20-30)% increased bonuses gained from left Equipped Ring
 - (20-30)% increased bonuses gained from right Equipped Ring
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

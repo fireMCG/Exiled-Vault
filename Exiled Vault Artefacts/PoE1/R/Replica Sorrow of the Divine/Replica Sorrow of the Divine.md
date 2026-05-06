@@ -1,12 +1,10 @@
-# Replica Sorrow of the Divine
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Sorrow of the Divine.png]]
 
-## Description
+# Flavour Text
 "Success! Prototype #54 has tapped into that sliver of divinity that exists within.
 Faith fuels the flesh, and the flesh fuels the fire..."
 
-## Details
+# Details
 - Lasts (10.00-12.00) Seconds
 - Consumes 40 of 60 Charges on use
 - 40% increased Damage
@@ -17,9 +15,9 @@ Faith fuels the flesh, and the flesh fuels the fire..."
 - Life Recovery from Flasks also applies to Energy Shield during Effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Attributes/Important
 #Category/Artefact
 #Concept/Body/Flesh

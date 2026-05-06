@@ -1,16 +1,14 @@
-# Strength of Blood
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Strength of Blood.webp]]
 
-## Description
+# Flavour Text
 Wreathed in madness and blood, you are unstoppable.
 
-## Effects
+# Effects
 Life Recovery from Non-Instant Leech is not applied
 2% additional Physical Damage Reduction for every 3% Life Recovery per second from Leech
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

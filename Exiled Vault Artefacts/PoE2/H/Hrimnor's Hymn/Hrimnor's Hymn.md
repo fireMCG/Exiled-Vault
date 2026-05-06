@@ -1,13 +1,11 @@
-# Hrimnor's Hymn
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Hrimnor's Hymn.png]]
 
-## Description
+# Flavour Text
 "The crack of bone, the spray of blood.
 Is there sweeter music?"
 - Hrimnor of the Ezomytes.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (28.8-35.2) to (54-66)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ Is there sweeter music?"
 - Gain (10-20) Life per enemy killed
 - Slam Skills you use yourself cause an additional Aftershock
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

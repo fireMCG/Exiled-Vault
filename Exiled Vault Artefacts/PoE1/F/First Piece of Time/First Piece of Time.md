@@ -1,13 +1,11 @@
-# First Piece of Time
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - First Piece of Time.png]]
 
-## Details
+# Details
 - This item will transform when correctly arranged with other items.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

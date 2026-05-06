@@ -1,12 +1,10 @@
-# Blurred Motion
-
-## Effects
+# Effects
 5% increased Attack Speed
 10% increased Accuracy Rating
 5% increased Dexterity
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

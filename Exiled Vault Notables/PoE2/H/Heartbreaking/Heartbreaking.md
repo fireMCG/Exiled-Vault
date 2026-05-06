@@ -1,11 +1,9 @@
-# Heartbreaking
-
-## Effects
+# Effects
 25% increased Critical Damage Bonus
 +10 to Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

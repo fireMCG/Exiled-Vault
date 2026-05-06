@@ -1,16 +1,14 @@
-# Seven Years Bad Luck
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Seven Years Bad Luck.png]]
 
-## Description
+# Flavour Text
 If enough people believe something to be true, whether or not it is becomes irrelevant.
 
-## Reward
+# Reward
 Mirror Shard
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Mirror
 #Concept/Fracture
 #Category/DivinationCard

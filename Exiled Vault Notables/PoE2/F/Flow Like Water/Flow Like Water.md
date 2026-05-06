@@ -1,11 +1,9 @@
-# Flow Like Water
-
-## Effects
+# Effects
 8% increased Attack and Cast Speed
 +5 to Dexterity and Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

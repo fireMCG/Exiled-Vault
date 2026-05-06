@@ -1,11 +1,9 @@
-# Shroud of the Lightless (1 Abyssal Socket)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Shroud of the Lightless (1 Abyssal Socket).png]]
 
-## Description
+# Flavour Text
 Look to the darkness for nourishment and you will never go hungry.
 
-## Details
+# Details
 - Evasion: (917-1086)
 - Energy Shield: (267-316)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ Look to the darkness for nourishment and you will never go hungry.
 - 3% increased Maximum Life per Abyss Jewel affecting you
 - 3% increased Maximum Mana per Abyss Jewel affecting you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Chateau
-
-## Description
+# Flavour Text
 Beauty and brutality in such close proximity.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

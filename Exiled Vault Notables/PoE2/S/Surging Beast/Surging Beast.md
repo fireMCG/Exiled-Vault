@@ -1,10 +1,8 @@
-# Surging Beast
-
-## Effects
+# Effects
 Gain Arcane Surge when you Shapeshift to Human form afterbeing Shapeshifted for at least 8 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

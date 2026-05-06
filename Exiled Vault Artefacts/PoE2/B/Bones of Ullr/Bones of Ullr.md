@@ -1,12 +1,10 @@
-# Bones of Ullr
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Bones of Ullr.png]]
 
-## Description
+# Flavour Text
 The dead man walks where
 the living fear to tread.
 
-## Details
+# Details
 - Energy Shield: (35-40)
 - Requires Level 16, 23 Int
 - (5-15)% increased Movement Speed
@@ -15,9 +13,9 @@ the living fear to tread.
 - +(20-40) to maximum Mana
 - (20-30)% increased Reservation Efficiency of Skills which create Undead Minions
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

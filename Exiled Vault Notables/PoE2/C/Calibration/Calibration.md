@@ -1,11 +1,9 @@
-# Calibration
-
-## Effects
+# Effects
 30% increased maximum Energy Shield
 4% increased maximum Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

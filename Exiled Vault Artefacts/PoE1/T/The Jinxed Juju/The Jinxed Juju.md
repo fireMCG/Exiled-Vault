@@ -1,13 +1,11 @@
-# The Jinxed Juju
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Jinxed Juju.png]]
 
-## Description
+# Flavour Text
 Burned rhoa's eye and goatman's beard do demand:
 Leave behind those lazy bones;
 Dance, ye dead, at my command!
 
-## Details
+# Details
 - Requires Level 48
 - +(16-24) to Strength and Dexterity
 - +(30-40) to Intelligence
@@ -15,9 +13,9 @@ Dance, ye dead, at my command!
 - (10-15)% increased effect of Non-Curse Auras from your Skills
 - 10% of Damage from Hits is taken from your Raised Spectres' Life before you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

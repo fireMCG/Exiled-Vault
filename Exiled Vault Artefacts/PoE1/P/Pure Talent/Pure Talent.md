@@ -1,12 +1,10 @@
-# Pure Talent
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Pure Talent.png]]
 
-## Description
+# Flavour Text
 The skilled know how to learn.
 The talented know who to learn from.
 
-## Details
+# Details
 - Limited to: 1
 - While your Passive Skill Tree connects to a class' starting location, you gain:
 - Marauder: Melee Skills have 25% increased Area of Effect
@@ -18,9 +16,9 @@ The talented know who to learn from.
 - Scion: +25 to All Attributes
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Alpine Ridge
-
-## Description
+# Flavour Text
 The path grows treacherous as the world falls away.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

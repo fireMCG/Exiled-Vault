@@ -1,11 +1,9 @@
-# Gang's Momentum
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Gang's Momentum.png]]
 
-## Description
+# Flavour Text
 Become one with the unstoppable flame.
 
-## Details
+# Details
 - Armour: (270-336)
 - Energy Shield: (54-70)
 - Requires Level 58, 54 Str, 54 Int
@@ -15,9 +13,9 @@ Become one with the unstoppable flame.
 - (10-15)% chance to Ignite
 - (25-40)% increased Damage with Hits and Ailments against Ignited Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

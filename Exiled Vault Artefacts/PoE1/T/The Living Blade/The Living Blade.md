@@ -1,12 +1,10 @@
-# The Living Blade
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Living Blade.png]]
 
-## Description
+# Flavour Text
 Green-cloaked travelers emerged from the mists, planted a tree,
 and named it Lorrata. Its strongest root became a weapon...
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: (124-148.8) to (230-276)
 - Critical Strike Chance: 6.50%
@@ -20,9 +18,9 @@ and named it Lorrata. Its strongest root became a weapon...
 - You can have an additional Tincture active
 - 10% chance to remove 1 Mana Burn on Kill
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

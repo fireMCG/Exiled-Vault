@@ -1,13 +1,11 @@
-# Hand of the Lords
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hand of the Lords.png]]
 
-## Description
+# Flavour Text
 We moved to be close, yet grew no closer, since the
 Breaking of the Sun. We clung to the feet of the Lords,
 wailing, weeping, begging for unity. Now, they heed.
 
-## Details
+# Details
 - Evasion: (198-262)
 - Energy Shield: (41-54)
 - Requires Level 68, 195 Dex, 195 Int
@@ -19,9 +17,9 @@ wailing, weeping, begging for unity. Now, they heed.
 - (6-12)% increased Trap Throwing Speed
 - Can have up to (3-5) additional Traps placed at a time
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

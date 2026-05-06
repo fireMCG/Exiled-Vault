@@ -1,12 +1,10 @@
-# Fragment of Eternity
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fragment of Eternity.png]]
 
-## Description
+# Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
-## Details
+# Details
 - Dagger
 - Physical Damage: 7-14
 - Critical Strike Chance: 16.00%
@@ -19,9 +17,9 @@ So goes the descent.
 - +45% to Global Critical Strike Multiplier
 - 15% chance to gain a Power Charge on Kill
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

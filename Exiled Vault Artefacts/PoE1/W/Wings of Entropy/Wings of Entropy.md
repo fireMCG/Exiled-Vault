@@ -1,11 +1,9 @@
-# Wings of Entropy
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Wings of Entropy.png]]
 
-## Description
+# Flavour Text
 Fire and Anarchy are the most reliable agents of change.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (139.2-156.6) to (209.6-235.8)
 - Critical Strike Chance: 5.70%
@@ -19,9 +17,9 @@ Fire and Anarchy are the most reliable agents of change.
 - Adds (151-199) to (331-401) Chaos Damage in Off Hand
 - Counts as Dual Wielding
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

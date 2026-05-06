@@ -1,13 +1,11 @@
-# Rigwald's Ferocity
-
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Rigwald's Ferocity.webp]]
 
-## Description
+# Flavour Text
 "Skothe kept us idle, sitting safe on these islands, while our
 brethren remain slaves. We are one and the same! We must
 fight! So, I bring you his head. I am now your Wolven King!"
 
-## Effects
+# Effects
 Supported Skills have 30% increased Attack Speed if
 used in Weapon Set I
 Supported Skills deal 15% less Damage if
@@ -22,9 +20,9 @@ Supported Skills deal 15% less Damage if\nused in Weapon Set I
 Supported Skills have 10% reduced Attack Speed if\nused in Weapon Set II
 Supported Skills deal 30% more Damage if\nused in Weapon Set II
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Rigwald
 #Character/Skothe
 #Concept/King

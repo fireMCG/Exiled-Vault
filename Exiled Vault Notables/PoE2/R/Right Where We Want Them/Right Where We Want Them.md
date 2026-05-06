@@ -1,13 +1,11 @@
-# Right Where We Want Them
-
-## Effects
+# Effects
 Projectile Damage builds Pin
 Pinned enemies cannot perform actions
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Tactician
 #Mercenary
+#Notable
 #PoE2

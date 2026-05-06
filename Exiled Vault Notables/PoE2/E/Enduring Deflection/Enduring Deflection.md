@@ -1,11 +1,9 @@
-# Enduring Deflection
-
-## Effects
+# Effects
 20% increased Evasion Rating
 Prevent +3% of Damage from Deflected Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

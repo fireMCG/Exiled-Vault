@@ -1,13 +1,11 @@
-# The Raging Inferno
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Raging Inferno.png]]
 
-## Description
+# Flavour Text
 A fiery horror from a distant plane of existence,
 it feasts upon the charred corpses subsumed by lava pits.
 Don't fall in...
 
-## Details
+# Details
 - Duration: 20 seconds
 - Empowers: 1 enemies
 - Empowerment: 100
@@ -20,9 +18,9 @@ Don't fall in...
 - Empowered Monsters drop (8-12) > RewardsEmpowered Monsters drop (8-12) Currency RewardsEmpowered Monsters drop (8-12) Divination Card RewardsEmpowered Monsters drop (8-12) Fragment RewardsEmpowered Monsters drop (8-12) Map RewardsEmpowered Monsters drop (8-12) Scarab RewardsEmpowered Monsters drop (8-12) Sentinel RewardsEmpowered Monsters drop (8-12) Unique Rewards
 - Unmodifiable
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

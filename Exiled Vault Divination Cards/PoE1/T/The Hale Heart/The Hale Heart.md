@@ -1,18 +1,16 @@
-# The Hale Heart
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Hale Heart.png]]
 
-## Description
+# Flavour Text
 Though the years weakened his mind, his body remained deadly as ever.
 
-## Reward
+# Reward
 Item
 Item Level: 100
 Elder Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Body/Heart
 #Character/Eldritch/Elder

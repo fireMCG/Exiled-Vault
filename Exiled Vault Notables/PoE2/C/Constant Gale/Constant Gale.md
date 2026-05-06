@@ -1,12 +1,10 @@
-# Constant Gale
-
-## Effects
+# Effects
 You have Arcane Surge
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Stormweaver
 #Sorceress
+#Notable
 #PoE2

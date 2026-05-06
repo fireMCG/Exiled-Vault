@@ -1,11 +1,9 @@
-# Gloomfang
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Gloomfang.png]]
 
-## Description
+# Flavour Text
 Darkness never stops feeding.
 
-## Details
+# Details
 - Requires Level 77
 - (48-56)% increased Mana Regeneration Rate
 - 0.5% of Chaos Damage Leeched as Life
@@ -15,9 +13,9 @@ Darkness never stops feeding.
 - (30-40)% increased Projectile Speed
 - Projectiles that have Chained gain (20-35)% of Non-Chaos Damage as extra Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

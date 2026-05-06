@@ -1,11 +1,9 @@
-# Power Shots
-
-## Effects
+# Effects
 15% reduced Attack Speed with Crossbows
 80% increased Critical Damage Bonus with Crossbows
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,10 +1,8 @@
-# Sigil of Ice
-
-## Effects
+# Effects
 30% increased Damage with Hits against Chilled Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

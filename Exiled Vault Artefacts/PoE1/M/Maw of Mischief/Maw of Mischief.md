@@ -1,13 +1,11 @@
-# Maw of Mischief
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Maw of Mischief.png]]
 
-## Description
+# Flavour Text
 The line that divides hope and fear,
 life and death, crowd and mob,
 is as thin as a whisper.
 
-## Details
+# Details
 - Armour: (197-227)
 - Energy Shield: (40-46)
 - Requires Level 73, 76 Str, 76 Int
@@ -17,9 +15,9 @@ is as thin as a whisper.
 - (30-20)% reduced Mana Cost of Minion Skills
 - Minions are Aggressive
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

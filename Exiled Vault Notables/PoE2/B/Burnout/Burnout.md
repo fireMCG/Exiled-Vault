@@ -1,10 +1,8 @@
-# Burnout
-
-## Effects
+# Effects
 Ignites you inflict deal Damage 15% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

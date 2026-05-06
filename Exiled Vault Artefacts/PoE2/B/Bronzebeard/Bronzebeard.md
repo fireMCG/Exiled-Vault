@@ -1,11 +1,9 @@
-# Bronzebeard
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Bronzebeard.png]]
 
-## Description
+# Flavour Text
 Heavy is the head.
 
-## Details
+# Details
 - Armour: (49-66)
 - Energy Shield: (22-30)
 - Requires Level 10, 10 Str, 10 Int
@@ -16,9 +14,9 @@ Heavy is the head.
 - (50-35)% reduced Magnitude of Ignite on you
 - (50-35)% reduced effect of Shock on you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,10 +1,8 @@
-# Grenadier
-
-## Effects
+# Effects
 Grenade Skills have +1 Cooldown Use
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

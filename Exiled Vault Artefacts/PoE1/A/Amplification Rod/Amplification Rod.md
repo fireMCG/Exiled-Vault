@@ -1,11 +1,9 @@
-# Amplification Rod
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Amplification Rod.png]]
 
-## Description
+# Flavour Text
 No one likes a quiet encore.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 11-32
 - Critical Strike Chance: 8.00%
@@ -18,9 +16,9 @@ No one likes a quiet encore.
 - Socketed Gems are Supported by Level 10 Controlled Destruction
 - +(10-30) to Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Soul Mantle
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Soul Mantle.png]]
 
-## Description
+# Flavour Text
 The greatest mistakes cause suffering
 long after they have been made
 
-## Details
+# Details
 - Armour: (221-270)
 - Energy Shield: (82-101)
 - Movement Speed: -4.0%
@@ -18,9 +16,9 @@ long after they have been made
 - +1 to maximum number of Summoned Totems
 - Inflicts a random Curse on you when your Totems die, ignoring Curse limit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

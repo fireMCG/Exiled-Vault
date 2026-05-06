@@ -1,11 +1,9 @@
-# Necropolis
-
-## Description
+# Flavour Text
 Silent stones mark ancient graves and forgotten sorrows.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

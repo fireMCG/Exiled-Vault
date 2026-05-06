@@ -1,12 +1,10 @@
-# The Burden of Shadows
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Burden of Shadows.png]]
 
-## Description
+# Flavour Text
 Nothingness is loathe to relinquish its grip.
 Every moment is a struggle to exist.
 
-## Details
+# Details
 - Staff
 - Requires Level 72
 - Grants Skill: Level (17-20) Sigil of Power
@@ -14,9 +12,9 @@ Every moment is a struggle to exist.
 - Skill Mana Costs Converted to Life Costs
 - Skills gain 1% of Damage as Chaos Damage per 3 Life Cost
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

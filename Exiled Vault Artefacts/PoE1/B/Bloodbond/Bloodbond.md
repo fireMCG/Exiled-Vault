@@ -1,11 +1,9 @@
-# Bloodbond
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bloodbond.png]]
 
-## Description
+# Flavour Text
 What mother wouldn't give her life for that of her children?
 
-## Details
+# Details
 - Evasion: (388-512)
 - Energy Shield: (82-107)
 - Movement Speed: -3%
@@ -17,9 +15,9 @@ What mother wouldn't give her life for that of her children?
 - Regenerate 1% of Life per second
 - Minions have +(12-15)% chance to Suppress Spell Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

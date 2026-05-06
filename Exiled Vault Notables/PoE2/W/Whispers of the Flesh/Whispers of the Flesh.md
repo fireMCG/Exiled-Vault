@@ -1,13 +1,11 @@
-# Whispers of the Flesh
-
-## Effects
+# Effects
 Targets Cursed by you have 100% reduced Life Regeneration Rate
 Targets Cursed by you have at least 15% of Life Reserved
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Blood Mage
 #Witch
+#Notable
 #PoE2

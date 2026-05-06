@@ -1,12 +1,10 @@
-# Augyre
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Augyre.png]]
 
-## Description
+# Flavour Text
 When the world spins out of control,
 the safest place to be is in the centre.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: (140-160) to (212.8-243.2)
 - Critical Strike Chance: (13.14-14.60)%
@@ -22,9 +20,9 @@ the safest place to be is in the centre.
 - You have Resolute Technique while you do not have Elemental Overload
 - 100% increased Physical Damage while you have Resolute Technique
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Underground
 #Concept/World

@@ -1,11 +1,9 @@
-# Personal Touch
-
-## Effects
+# Effects
 20% increased Attack Damage
 12% increased Immobilisation buildup
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

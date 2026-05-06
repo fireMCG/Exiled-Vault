@@ -1,10 +1,8 @@
-# Leaping Ambush
-
-## Effects
+# Effects
 50% increased Critical Hit Chance against Enemies that are on Full Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

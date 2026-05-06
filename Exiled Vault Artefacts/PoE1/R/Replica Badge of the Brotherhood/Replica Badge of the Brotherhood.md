@@ -1,13 +1,11 @@
-# Replica Badge of the Brotherhood
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Badge of the Brotherhood.png]]
 
-## Description
+# Flavour Text
 “I stood upon the tower's edge, and saw that we had cracked the sky.
 There is nowhere we can run that our sins will not find us now.”
 - Researcher Arn, last recorded words
 
-## Details
+# Details
 - Requires Level 60
 - +(16-24) to Dexterity and Intelligence
 - Your Maximum Endurance Charges is equal to your Maximum Frenzy Charges
@@ -16,9 +14,9 @@ There is nowhere we can run that our sins will not find us now.”
 - (20-25)% chance to lose a Frenzy Charge when you use a Travel Skill
 - (20-25)% chance to lose an Endurance Charge when you gain Fortification
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Arn
 #Concept/Fracture

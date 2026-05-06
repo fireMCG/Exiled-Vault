@@ -1,17 +1,15 @@
-# Greater Tempered Rune
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Greater Tempered Rune.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Requires: Level 30
 
-## Effects
+# Effects
 - Martial Weapon: Adds 9 to 12 Physical Damage
 - Armour: 31 to 52 Physical Thorns damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

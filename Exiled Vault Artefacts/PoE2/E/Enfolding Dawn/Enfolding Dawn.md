@@ -1,11 +1,9 @@
-# Enfolding Dawn
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Enfolding Dawn.png]]
 
-## Description
+# Flavour Text
 The gleam of the night and the howling teeth alike could not abate the rising of the sun.
 
-## Details
+# Details
 - Armour: (37-50)
 - Energy Shield: (24-32)
 - Movement Speed: -4.0%
@@ -14,9 +12,9 @@ The gleam of the night and the howling teeth alike could not abate the rising of
 - +(5-15)% to all Elemental Resistances
 - Gain no inherent bonus from Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

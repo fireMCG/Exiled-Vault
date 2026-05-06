@@ -1,11 +1,9 @@
-# Twisted Wish
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Twisted Wish.png]]
 
-## Description
+# Flavour Text
 Control comes at a price.
 
-## Details
+# Details
 - Limited to: 1
 - 2% increased Maps found in your Maps
 - Ultimatum Modifiers in your Maps start a Tier higher if possible
@@ -14,9 +12,9 @@ Control comes at a price.
 - Unmodifiable
 - Place this item into the Idol inventory at a Map Device to affect Maps you open. Idols are not consumed when opening Maps.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

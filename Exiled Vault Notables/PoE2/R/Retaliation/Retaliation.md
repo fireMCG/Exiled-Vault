@@ -1,10 +1,8 @@
-# Retaliation
-
-## Effects
+# Effects
 75% increased Thorns damage if you've Blocked Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

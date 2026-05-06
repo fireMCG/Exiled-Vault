@@ -1,12 +1,10 @@
-# Replica Wings of Entropy
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Wings of Entropy.png]]
 
-## Description
+# Flavour Text
 "The remarkable imbalance of Prototype #848 leads to uncommon
 power or speed when striking."
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (139.2-156.6) to (209.6-235.8)
 - Critical Strike Chance: 5.70%
@@ -20,9 +18,9 @@ power or speed when striking."
 - +(10-20)% to Off Hand Critical Strike Chance
 - (50-100)% more Main Hand attack speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Attributes/Important
 #Category/Artefact
 #Concept/Balance

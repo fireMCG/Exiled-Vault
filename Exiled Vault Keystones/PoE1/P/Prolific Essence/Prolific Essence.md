@@ -1,12 +1,10 @@
-# Prolific Essence
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Prolific Essence.webp]]
 
-## Effects
+# Effects
 Your Maps contain an additional Imprisoned Monster
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

@@ -1,12 +1,10 @@
-# Window to Paradise
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Window to Paradise.png]]
 
-## Description
+# Flavour Text
 "Beyond fire, blood, and nightmare,
 the Savior will build utopia."
 
-## Details
+# Details
 - Shield
 - Chance to Block: 26%
 - Armour: (80-110)
@@ -19,9 +17,9 @@ the Savior will build utopia."
 - Inflict Elemental Exposure to Enemies 3 metres in front of you
 - for 4 seconds, every 0.25 seconds while raised
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Blood
 #Concept/Element/Fire

@@ -1,11 +1,9 @@
-# Myris Uxor
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Myris Uxor.png]]
 
-## Description
+# Flavour Text
 The end always comes sooner than we think.
 
-## Details
+# Details
 - Evasion: (270-308)
 - Requires Level 56, 79 Dex
 - (40-60)% increased Evasion Rating
@@ -13,9 +11,9 @@ The end always comes sooner than we think.
 - +(40-60) to maximum Mana
 - 100% increased Culling Strike Threshold
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

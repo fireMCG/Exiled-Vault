@@ -1,13 +1,11 @@
-# Hyrri's Ire
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Hyrri's Ire.png]]
 
-## Description
+# Flavour Text
 Hyrri loosed a barrage of arrows,
 tipped with a poisoned hatred
 only oppression can ferment.
 
-## Details
+# Details
 - Evasion: (1218-1421)
 - Movement Speed: -3.0%
 - Requires Level 73, 121 Dex
@@ -18,9 +16,9 @@ only oppression can ferment.
 - 25% increased Freeze Duration on Enemies
 - Evasion Rating is doubled if you have not been Hit Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

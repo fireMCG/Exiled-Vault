@@ -1,12 +1,10 @@
-# Lavianga's Wisdom
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Lavianga's Wisdom.png]]
 
-## Description
+# Flavour Text
 "The painful memories are the easiest to recall."
 - , Advisor to
 
-## Details
+# Details
 - One Handed Mace
 - Physical Damage: (33.8-39) to (80.6-93)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@
 - (15-25)% increased Area of Effect
 - (10-20)% increased Area Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

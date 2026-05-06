@@ -1,12 +1,10 @@
-# Ezomyte Peak
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Ezomyte Peak.png]]
 
-## Description
+# Flavour Text
 Centuries of servitude, a day
 of glory, an eternity of death.
 
-## Details
+# Details
 - Armour: (99-132)
 - Requires Level 12, 19 Str
 - (50-100)% increased Armour
@@ -15,9 +13,9 @@ of glory, an eternity of death.
 - (10-20)% increased Area of Effect
 - Unwavering Stance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Wall of Brambles
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Wall of Brambles.png]]
 
-## Description
+# Flavour Text
 There is no wall thicker or stronger than fear.
 
-## Details
+# Details
 - Armour: (2019-2027)
 - Movement Speed: -3%
 - Requires Level 30
@@ -15,9 +13,9 @@ There is no wall thicker or stronger than fear.
 - -(15-10) Physical Damage taken from Attack Hits
 - 1000% of Melee Physical Damage taken reflected to Attacker
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

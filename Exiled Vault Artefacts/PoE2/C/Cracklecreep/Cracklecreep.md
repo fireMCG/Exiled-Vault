@@ -1,11 +1,9 @@
-# Cracklecreep
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Cracklecreep.png]]
 
-## Description
+# Flavour Text
 Fear the fire that spreads like a plague.
 
-## Details
+# Details
 - Requires Level 8
 - +(20-30)% to Fire Resistance
 - (20-30)% increased Fire Damage
@@ -13,9 +11,9 @@ Fear the fire that spreads like a plague.
 - (20-30)% increased Mana Regeneration Rate
 - Ignites you inflict spread to other Enemies that stay within 1.5 metres for 1 second
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

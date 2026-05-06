@@ -1,17 +1,15 @@
-# Tacati's Soul Core of Affliction
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Tacati's Soul Core of Affliction.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Helmets: Enemies you Curse have -5% to Chaos Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

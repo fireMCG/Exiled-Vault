@@ -1,15 +1,13 @@
-# Deshar
-
-## Description
+# Flavour Text
 To remember the dead, they built monuments the sand could never steal.
 
-## Connected Areas
+# Connected Areas
 - The Ardura Caravan
 - Path of Mourning
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

@@ -1,11 +1,9 @@
-# Mightflay
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mightflay.png]]
 
-## Description
+# Flavour Text
 A mighty beast, a lavish feast.
 
-## Details
+# Details
 - Dagger
 - Physical Damage: (41.4-46) to (124.2-138)
 - Critical Strike Chance: 8.00%
@@ -18,9 +16,9 @@ A mighty beast, a lavish feast.
 - Adds 12 to 24 Physical Damage
 - Grants 10 Life per Enemy Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

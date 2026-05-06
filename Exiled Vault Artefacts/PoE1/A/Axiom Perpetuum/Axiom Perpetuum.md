@@ -1,11 +1,9 @@
-# Axiom Perpetuum
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Axiom Perpetuum.png]]
 
-## Description
+# Flavour Text
 The worst of Axiom were imprisoned by more than iron.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 15-29
 - Critical Strike Chance: 7.00%
@@ -19,9 +17,9 @@ The worst of Axiom were imprisoned by more than iron.
 - (4-6)% increased Cast Speed
 - (100-140)% increased Spell Critical Strike Chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Prison
 #Society/EternalEmpire

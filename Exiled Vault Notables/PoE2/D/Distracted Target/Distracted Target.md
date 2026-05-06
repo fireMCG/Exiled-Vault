@@ -1,10 +1,8 @@
-# Distracted Target
-
-## Effects
+# Effects
 30% increased Critical Hit Chance against Blinded Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

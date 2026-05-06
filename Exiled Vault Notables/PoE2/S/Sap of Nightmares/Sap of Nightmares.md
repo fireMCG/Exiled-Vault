@@ -1,12 +1,10 @@
-# Sap of Nightmares
-
-## Effects
+# Effects
 Leech recovers based on Chaos Damage as well as Physical Damage
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Acolyte of Chayula
 #Monk
+#Notable
 #PoE2

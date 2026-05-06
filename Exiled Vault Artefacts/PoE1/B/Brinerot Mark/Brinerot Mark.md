@@ -1,13 +1,11 @@
-# Brinerot Mark
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Brinerot Mark.png]]
 
-## Description
+# Flavour Text
 Each time, it is granted to the most senior captain of the fleet,
 and each time, the ring soon washes ashore once more,
 still wrapped around a severed finger.
 
-## Details
+# Details
 - Requires Level 44
 - Has 1 Socket
 - 25% increased Effect of Buffs granted by Socketed Golem Skills
@@ -17,9 +15,9 @@ still wrapped around a severed finger.
 - +(15-25) to maximum Energy Shield
 - +(20-40)% to Lightning Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Candlemass' Essence
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Candlemass' Essence.png]]
 
-## Description
+# Flavour Text
 A sense of gratefulness and peace radiates with warmth.
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Monster/Candlemass
 #Concept/Essence
 #Category/QuestItem

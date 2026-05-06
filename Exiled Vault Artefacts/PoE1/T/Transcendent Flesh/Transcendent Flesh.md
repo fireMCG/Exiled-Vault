@@ -1,11 +1,9 @@
-# Transcendent Flesh
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Transcendent Flesh.png]]
 
-## Description
+# Flavour Text
 We are as much shaped by what we do as what is done to us.
 
-## Details
+# Details
 - Radius: Medium
 - -1 Strength per 1 Strength on Allocated Passives in Radius
 - +7% to Critical Strike Multiplier per 10 Strength on Unallocated Passives in Radius
@@ -13,9 +11,9 @@ We are as much shaped by what we do as what is done to us.
 - 2% reduced Life Recovery Rate per 10 Strength on Unallocated Passives in Radius
 - Place into an allocated jewel socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

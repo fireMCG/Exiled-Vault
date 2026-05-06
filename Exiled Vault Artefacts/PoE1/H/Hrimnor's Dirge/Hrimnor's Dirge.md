@@ -1,11 +1,9 @@
-# Hrimnor's Dirge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hrimnor's Dirge.png]]
 
-## Description
+# Flavour Text
 The last sweet music to touch Hrimnor's ears passed right beneath his chin.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (84-135) to (163.2-234)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ The last sweet music to touch Hrimnor's ears passed right beneath his chin.
 - (40-50)% increased Stun Duration on Enemies
 - Gain 50% of Physical Damage as Extra Cold Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

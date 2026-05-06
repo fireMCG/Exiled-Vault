@@ -1,12 +1,10 @@
-# Fortress Covenant
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fortress Covenant.png]]
 
-## Description
+# Flavour Text
 Forsake what you might have had.
 Command power beyond your potential.
 
-## Details
+# Details
 - Limited to: 1
 - Radius: Medium
 - Minions deal (35-45)% increased Damage
@@ -17,9 +15,9 @@ Command power beyond your potential.
 - Corrupted
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

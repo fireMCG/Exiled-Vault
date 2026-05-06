@@ -1,11 +1,9 @@
-# Enveloping Presence
-
-## Effects
+# Effects
 30% increased Presence Area of Effect
 Aura Skills have 6% increased Magnitudes
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

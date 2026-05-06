@@ -1,12 +1,10 @@
-# Pragmatism
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Pragmatism.png]]
 
-## Description
+# Flavour Text
 In an endless war against darkness,
 one must be ever vigilant.
 
-## Details
+# Details
 - Armour: (342-456)
 - Evasion: (303-404)
 - Movement Speed: -4.0%
@@ -16,9 +14,9 @@ one must be ever vigilant.
 - +(7-13)% to Chaos Resistance
 - Charms use no Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

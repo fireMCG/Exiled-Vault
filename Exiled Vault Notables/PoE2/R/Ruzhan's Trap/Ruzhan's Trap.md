@@ -1,12 +1,10 @@
-# Ruzhan's Trap
-
-## Effects
+# Effects
 Grants Skill: Ruzhan's Trap
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

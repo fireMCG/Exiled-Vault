@@ -1,13 +1,11 @@
-# Scold's Bridle
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Scold's Bridle.png]]
 
-## Description
+# Flavour Text
 "The sharper the pain, the sharper the mind.
 A curious paradox."
 - Shavronne of Umbra
 
-## Details
+# Details
 - Energy Shield: (144-219)
 - Requires Level 50, 71 Int
 - +(75-150) to maximum Energy Shield
@@ -16,9 +14,9 @@ A curious paradox."
 - 15% reduced Cast Speed
 - Take (25-100)% of Mana Costs you pay for Skills as Physical Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

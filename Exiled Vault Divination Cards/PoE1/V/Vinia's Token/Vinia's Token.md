@@ -1,16 +1,14 @@
-# Vinia's Token
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Vinia's Token.png]]
 
-## Description
+# Flavour Text
 You can change your name, but you cannot change your history.
 
-## Reward
+# Reward
 10x Orb of Regret
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Vinia
 #Category/DivinationCard
 #DivinationCard

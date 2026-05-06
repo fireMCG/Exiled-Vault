@@ -1,13 +1,11 @@
-# Sublime Vision
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Sublime Vision.png]]
 
-## Description
+# Flavour Text
 This world is not good enough for ,
 so I will make a better one. Nothing
 matters but the pursuit of perfection.
 
-## Details
+# Details
 - Limited to: 1
 - Always Scorch while affected by Anger
 - Aura Skills other than Anger are Disabled
@@ -47,9 +45,9 @@ matters but the pursuit of perfection.
 - Auras from your Skills have (20-40)% increased Effect on you
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

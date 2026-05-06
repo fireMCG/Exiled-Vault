@@ -1,11 +1,9 @@
-# Lethal Pride
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Lethal Pride.png]]
 
-## Description
+# Flavour Text
 They believed themselves the greatest warriors, but that savagery turned upon their own.
 
-## Details
+# Details
 - Limited to: 1 Historic
 - Radius: Large
 - Commanded leadership over (10000-18000) warriors under
@@ -13,9 +11,9 @@ They believed themselves the greatest warriors, but that savagery turned upon th
 - Historic
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

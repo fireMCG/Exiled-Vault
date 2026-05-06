@@ -1,10 +1,8 @@
-# Preservation
-
-## Effects
+# Effects
 25% increased Skill Effect Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

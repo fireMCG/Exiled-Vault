@@ -1,12 +1,10 @@
-# Angler's Plait
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Angler's Plait.png]]
 
-## Description
+# Flavour Text
 A man can spend his whole life fishing
 before he learns it is not fish that he seeks.
 
-## Details
+# Details
 - Requires Level 38
 - You can catch Corrupted Fish
 - (10-15)% increased Cast Speed
@@ -16,9 +14,9 @@ before he learns it is not fish that he seeks.
 - (20-40)% increased Fish Bite Sensitivity
 - Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Animal/Fish
 #Artefact

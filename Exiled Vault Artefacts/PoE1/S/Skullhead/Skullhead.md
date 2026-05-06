@@ -1,12 +1,10 @@
-# Skullhead
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Skullhead.png]]
 
-## Description
+# Flavour Text
 All that was left of the Iron King was his bleached skull.
 Yet it was all the Iron King needed.
 
-## Details
+# Details
 - Armour: (156-208)
 - Evasion: (156-208)
 - Requires Level 36, 42 Str, 42 Dex
@@ -16,9 +14,9 @@ Yet it was all the Iron King needed.
 - Minions Recover 10% of their Life when they Block
 - +(10-20)% to all Elemental Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

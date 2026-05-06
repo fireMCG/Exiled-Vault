@@ -1,13 +1,11 @@
-# Azadi Crest
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Azadi Crest.png]]
 
-## Description
+# Flavour Text
 "Keita expects an assassination attempt by stealth or subterfuge.
 I say we attack head-on, like madmen. Let the fates decide."
 - Azadi, first ancestor of the House Azadin
 
-## Details
+# Details
 - Chance to Block: (25-34)%
 - Evasion: (477-549)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ I say we attack head-on, like madmen. Let the fates decide."
 - Your Lucky or Unlucky effects use the best or
 - worst from three rolls instead of two
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Azadi
 #Character/Keita

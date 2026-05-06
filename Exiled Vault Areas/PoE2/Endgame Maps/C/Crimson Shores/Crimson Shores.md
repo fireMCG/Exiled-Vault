@@ -1,11 +1,9 @@
-# Crimson Shores
-
-## Description
+# Flavour Text
 Fishermen once reaped a rich bounty here.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

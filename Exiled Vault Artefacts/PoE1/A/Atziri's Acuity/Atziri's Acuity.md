@@ -1,13 +1,11 @@
-# Atziri's Acuity
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Atziri's Acuity.png]]
 
-## Description
+# Flavour Text
 "The heart is the herald.
 It will tell me when it is best to strike."
 - Atziri, Queen of the Vaal
 
-## Details
+# Details
 - Armour: (696-851)
 - Requires Level 63, 100 Str
 - +(60-80) to Intelligence
@@ -16,9 +14,9 @@ It will tell me when it is best to strike."
 - +(60-75) to maximum Life
 - You have Vaal Pact if you've dealt a Critical Strike Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Atziri
 #Concept/Body/Heart

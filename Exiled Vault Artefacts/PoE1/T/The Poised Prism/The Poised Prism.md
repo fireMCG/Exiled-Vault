@@ -1,11 +1,9 @@
-# The Poised Prism
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Poised Prism.png]]
 
-## Description
+# Flavour Text
 What do you see when you look inward?
 
-## Details
+# Details
 - Requires Level 66
 - (20-30)% increased Elemental Damage with Attack Skills
 - +(15-25)% to Fire Resistance
@@ -15,9 +13,9 @@ What do you see when you look inward?
 - Adds 1 to 2 Fire Damage to Attacks per 10 Strength
 - Adds 0 to 3 Lightning Damage to Attacks per 10 Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,16 +1,14 @@
-# The Wolf's Shadow
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Wolf's Shadow.png]]
 
-## Description
+# Flavour Text
 "If I fall, we will fall together with my fangs in your throat."
 
-## Reward
+# Reward
 Hyaon's Fury
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Animal/Canidae/Wolf
 #Category/DivinationCard
 #DivinationCard

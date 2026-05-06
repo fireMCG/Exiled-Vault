@@ -1,17 +1,15 @@
-# Immortal Resolve
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Immortal Resolve.png]]
 
-## Description
+# Flavour Text
 The threads of fate are the strongest ties.
 
-## Reward
+# Reward
 Six-Linked Body Armour
 Influenced Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Fate
 #Category/DivinationCard
 #DivinationCard

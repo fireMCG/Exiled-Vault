@@ -1,11 +1,9 @@
-# Alternating Current
-
-## Effects
+# Effects
 25% increased Mana Regeneration Rate if you have Shocked an Enemy Recently
 20% increased Magnitude of Shock you inflict
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

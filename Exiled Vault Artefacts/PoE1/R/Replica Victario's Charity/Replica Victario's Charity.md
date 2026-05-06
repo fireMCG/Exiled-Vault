@@ -1,13 +1,11 @@
-# Replica Victario's Charity
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Victario's Charity.png]]
 
-## Description
+# Flavour Text
 "Close to the original, and perhaps even more useful. However,
 close is not what we are looking for. Keep trying."
 - Administrator Qotra
 
-## Details
+# Details
 - Chance to Block: 24%
 - Armour: (113-133)
 - Energy Shield: (23-27)
@@ -21,9 +19,9 @@ close is not what we are looking for. Keep trying."
 - 5% chance to grant an Endurance Charge to nearby Allies on Hit
 - 10% chance to grant a Frenzy Charge to nearby Allies on Kill
 
-##
+#
 ---
-## Tags
+# Tags
 #Attributes/Important
 #Category/Artefact
 #Character/Qotra

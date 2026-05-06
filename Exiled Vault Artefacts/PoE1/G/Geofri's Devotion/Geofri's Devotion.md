@@ -1,12 +1,10 @@
-# Geofri's Devotion
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Geofri's Devotion.png]]
 
-## Description
+# Flavour Text
 "Confess your sins to me. My god will not be nearly so forgiving."
 - Archbishop Geofri of Phrecia Cathedral
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (246-261) to (378-393)
 - Elemental Damage: 11-23
@@ -22,9 +20,9 @@
 - (10-20)% increased Stun Duration on Enemies
 - Never deal Critical Strikes
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

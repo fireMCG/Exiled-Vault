@@ -1,12 +1,10 @@
-# The Annihilating Light
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Annihilating Light.png]]
 
-## Description
+# Flavour Text
 There is no force more destructive in the heavens
 than the scintillating light of utter clarity.
 
-## Details
+# Details
 - Staff
 - Physical Damage: 51-86
 - Critical Strike Chance: 7.50%
@@ -17,9 +15,9 @@ than the scintillating light of utter clarity.
 - (70-60)% reduced Elemental Resistances
 - Deal Triple Damage with Elemental Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/SearingExarch
 #Concept/Religion/Heaven

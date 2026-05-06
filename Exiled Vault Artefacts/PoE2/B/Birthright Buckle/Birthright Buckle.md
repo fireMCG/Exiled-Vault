@@ -1,11 +1,9 @@
-# Birthright Buckle
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Birthright Buckle.png]]
 
-## Description
+# Flavour Text
 Some families have peculiar gifts...
 
-## Details
+# Details
 - Requires Level 14
 - Has (1-3) Charm Slots
 - (20-30)% increased Flask Charges gained
@@ -15,9 +13,9 @@ Some families have peculiar gifts...
 - Life Flasks used while on Low Life apply Recovery Instantly
 - Mana Flasks used while on Low Mana apply Recovery Instantly
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

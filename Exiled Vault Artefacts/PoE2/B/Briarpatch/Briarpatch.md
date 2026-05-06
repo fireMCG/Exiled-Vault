@@ -1,11 +1,9 @@
-# Briarpatch
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Briarpatch.png]]
 
-## Description
+# Flavour Text
 The druids walk the Grelwood without fear.
 
-## Details
+# Details
 - Evasion: 38
 - Requires Level 11, 17 Dex
 - (10-20)% increased Movement Speed
@@ -14,9 +12,9 @@ The druids walk the Grelwood without fear.
 - +25% to Thorns Critical Hit Chance
 - (10-15) to (20-25) Physical Thorns damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

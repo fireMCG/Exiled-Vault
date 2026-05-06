@@ -1,11 +1,9 @@
-# Springleaf
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Springleaf.png]]
 
-## Description
+# Flavour Text
 From death springs life.
 
-## Details
+# Details
 - Chance to Block: 22%
 - Armour: (32-55)
 - Energy Shield: (9-15)
@@ -17,9 +15,9 @@ From death springs life.
 - Regenerate (30-50) Life per second
 - Regenerate 100 Life per Second while on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

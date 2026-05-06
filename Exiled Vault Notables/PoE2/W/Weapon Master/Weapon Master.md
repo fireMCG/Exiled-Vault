@@ -1,12 +1,10 @@
-# Weapon Master
-
-## Effects
+# Effects
 100 Passive Skill Points become Weapon Set Skill Points
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Witchhunter
 #Mercenary
+#Notable
 #PoE2

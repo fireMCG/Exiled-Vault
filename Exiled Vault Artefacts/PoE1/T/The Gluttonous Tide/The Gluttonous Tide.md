@@ -1,12 +1,10 @@
-# The Gluttonous Tide
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Gluttonous Tide.png]]
 
-## Description
+# Flavour Text
 To eat, to feast, to forget the horror of endless agonizing existence
 if but for a moment... only to disgorge and do it all again...
 
-## Details
+# Details
 - Bow
 - Physical Damage: (79.2-93.6) to (316.8-374.4)
 - Critical Strike Chance: 6.00%
@@ -18,9 +16,9 @@ if but for a moment... only to disgorge and do it all again...
 - +(30-50)% Global Critical Strike Multiplier while you have a Frenzy Charge
 - (20-40)% chance to gain a Frenzy Charge for each Enemy you hit with a Critical Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/EaterOfWorlds
 #Concept/Time/Eternity

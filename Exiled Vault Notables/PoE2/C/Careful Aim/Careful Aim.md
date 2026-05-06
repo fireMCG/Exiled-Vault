@@ -1,11 +1,9 @@
-# Careful Aim
-
-## Effects
+# Effects
 15% increased Accuracy Rating
 20% increased Projectile Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

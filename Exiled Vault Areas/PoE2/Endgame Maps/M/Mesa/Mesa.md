@@ -1,11 +1,9 @@
-# Mesa
-
-## Description
+# Flavour Text
 Bleak heights overlook a devastated land.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

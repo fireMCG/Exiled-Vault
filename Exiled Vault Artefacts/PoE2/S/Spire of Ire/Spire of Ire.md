@@ -1,12 +1,10 @@
-# Spire of Ire
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Spire of Ire.png]]
 
-## Description
+# Flavour Text
 The spear was specially forged to assassinate Voll,
 but Maligaro never got a chance to use it...
 
-## Details
+# Details
 - Spear
 - Physical Damage: 37-68
 - Chaos Damage: (167-201) to (267-333)
@@ -22,9 +20,9 @@ but Maligaro never got a chance to use it...
 - When you Consume a Charge Trigger Chaotic Surge to gain 2 Chaos Surges
 - Life Leech recovers based on your Chaos damage instead of Physical damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

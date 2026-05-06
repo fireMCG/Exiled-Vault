@@ -1,11 +1,9 @@
-# The Blood Thorn
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Blood Thorn.png]]
 
-## Description
+# Flavour Text
 Touch not the thorn, for only blood and pain await.
 
-## Details
+# Details
 - Staff
 - Physical Damage: 18-38
 - Critical Strike Chance: 7.50%
@@ -19,9 +17,9 @@ Touch not the thorn, for only blood and pain await.
 - Curse Enemies with Vulnerability on Block
 - Level Requirement reduced by 100 (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

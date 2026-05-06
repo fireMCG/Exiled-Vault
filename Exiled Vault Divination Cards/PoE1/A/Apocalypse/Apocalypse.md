@@ -1,8 +1,6 @@
-# Apocalypse
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Apocalypse.png]]
 
-## Description
+# Flavour Text
 The Ezomytes,
 buried beneath flaming mountains
 by the First Ones.
@@ -11,13 +9,13 @@ undone by a cataclysm
 of their own making.
 Are all empires fated to fall to hubris?
 
-## Reward
+# Reward
 Eyes of the Greatwolf
 Item Level: 82
 One Corruption Implicit
 
-##
+#
 ---
-## Tags
+# Tags
 #DivinationCard
 #PoE1

@@ -1,19 +1,17 @@
-# Darkness Enthroned
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Darkness Enthroned.png]]
 
-## Description
+# Flavour Text
 Hold in your hand the darkness
 and never will the light blind you.
 
-## Details
+# Details
 - Has 1 Abyssal Socket
 - Has 1 Abyssal Socket
 - (50-100)% increased Effect of Socketed Abyss Jewels
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

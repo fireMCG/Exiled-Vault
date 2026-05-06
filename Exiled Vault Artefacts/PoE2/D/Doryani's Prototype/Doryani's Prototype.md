@@ -1,13 +1,11 @@
-# Doryani's Prototype
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Doryani's Prototype.png]]
 
-## Description
+# Flavour Text
 "This was the first step in some grand design,
 lost to the ages, now ours to decipher."
 - Dominus, High Templar
 
-## Details
+# Details
 - Armour: (187-250)
 - Evasion: (168-224)
 - Movement Speed: -4.0%
@@ -18,9 +16,9 @@ lost to the ages, now ours to decipher."
 - Enemies in your Presence have Lightning Resistance equal to yours
 - Lightning Resistance does not affect Lightning damage taken
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

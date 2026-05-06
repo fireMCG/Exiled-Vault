@@ -1,13 +1,11 @@
-# Rewritten Distant Memory
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rewritten Distant Memory.png]]
 
-## Description
+# Flavour Text
 It was in my oath that I found peace.
 In echoing marble halls I found my voice.
 Before the congregation I found purpose.
 
-## Details
+# Details
 - Monster Level: 81
 - Item Quantity: +100%
 - Monster Pack Size: +25%
@@ -18,9 +16,9 @@ Before the congregation I found purpose.
 - Corrupted
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

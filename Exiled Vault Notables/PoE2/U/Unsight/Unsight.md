@@ -1,11 +1,9 @@
-# Unsight
-
-## Effects
+# Effects
 Enemies near Enemies you Mark are Blinded
 Enemies you Mark cannot deal Critical Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

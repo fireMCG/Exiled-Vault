@@ -1,14 +1,12 @@
-# Crown of the Pale King
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Crown of the Pale King.png]]
 
-## Description
+# Flavour Text
 A lightless world
 a silent reign
 two sightless eyes
 feed on your pain.
 
-## Details
+# Details
 - Armour: (66-88)
 - Energy Shield: (28-38)
 - Requires Level 16, 15 Str, 15 Int
@@ -18,9 +16,9 @@ feed on your pain.
 - (10-15) to (20-25) Physical Thorns damage
 - Thorns can Retaliate against all Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

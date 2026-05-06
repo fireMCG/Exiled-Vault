@@ -1,10 +1,8 @@
-# Everlasting Glory
-
-## Effects
+# Effects
 Skills have a 15% chance to not consume Glory
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

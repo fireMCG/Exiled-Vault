@@ -1,19 +1,17 @@
-# The Price of Devotion
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Price of Devotion.png]]
 
-## Description
+# Flavour Text
 Unbeknown to Atziri's finest thaumaturgists, their loyalty would require far greater devotion than mere research.
 
-## Reward
+# Reward
 Mageblood
 Quality: +20%
 Two-Implicit
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Atziri
 #Concept/Blood

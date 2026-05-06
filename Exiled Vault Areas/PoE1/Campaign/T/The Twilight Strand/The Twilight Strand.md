@@ -1,15 +1,13 @@
-# The Twilight Strand
-
-## Description
+# Flavour Text
 Hope was drowned here.
 
-## Connected Areas
+# Connected Areas
 - Lioneye's Watch
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

@@ -1,12 +1,10 @@
-# Kaltensoul
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kaltensoul.png]]
 
-## Description
+# Flavour Text
 Flesh may freeze and rot,
 but the soul remains unbroken.
 
-## Details
+# Details
 - Chance to Block: 29%
 - Evasion: (196-308)
 - Movement Speed: -3%
@@ -20,9 +18,9 @@ but the soul remains unbroken.
 - +5% Chance to Block
 - 20% of Fire Damage from Hits taken as Cold Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

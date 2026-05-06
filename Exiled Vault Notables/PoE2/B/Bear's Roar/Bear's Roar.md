@@ -1,10 +1,8 @@
-# Bear's Roar
-
-## Effects
+# Effects
 40% increased Stun buildup if you have Shapeshifted to an Animal form Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

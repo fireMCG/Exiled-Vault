@@ -1,20 +1,18 @@
-# The Flora's Gift
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Flora's Gift.png]]
 
-## Description
+# Flavour Text
 Sturdy and strong,
 grown from the stream.
 The Flora that live here,
 A combatant's dream.
 
-## Reward
+# Reward
 Five-Link Staff
 Item Level: 66
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

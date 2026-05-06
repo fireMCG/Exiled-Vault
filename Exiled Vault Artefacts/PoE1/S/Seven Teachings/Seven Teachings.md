@@ -1,12 +1,10 @@
-# Seven Teachings
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Seven Teachings.png]]
 
-## Description
+# Flavour Text
 Those devoted to the Dreamer pursue
 perfection of the body and the will.
 
-## Details
+# Details
 - Evasion: (356-1797)
 - Energy Shield: (76-385)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ perfection of the body and the will.
 - +(1-7)% to Unarmed Melee Attack Critical Strike Chance
 - +(10-77)% to Critical Strike Multiplier with Unarmed Melee Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

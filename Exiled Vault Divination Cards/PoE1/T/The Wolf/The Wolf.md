@@ -1,16 +1,14 @@
-# The Wolf
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Wolf.png]]
 
-## Description
+# Flavour Text
 The largest beasts cannot be overpowered. The Greatwolf teaches us to use guile, not strength, to probe for the soft flesh and strike deep.
 
-## Reward
+# Reward
 Rigwald Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Rigwald
 #Concept/Animal/Canidae/Wolf
 #Category/DivinationCard

@@ -1,8 +1,6 @@
-# Servant of Order
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Servant of Order.webp]]
 
-## Details
+# Details
 Idols
 Limited To: 1
 2% increased Maps found in your Maps
@@ -14,8 +12,8 @@ be turned off through Atlas Passives
 Unmodifiable
 Place this item into the Idol inventory at a Map Device to affect Maps you open. Idols are not consumed when opening Maps.
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

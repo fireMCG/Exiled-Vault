@@ -1,10 +1,8 @@
-# One with the Storm
-
-## Effects
+# Effects
 Quarterstaff Skills that consume Power Charges count as consuming an additional Power Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

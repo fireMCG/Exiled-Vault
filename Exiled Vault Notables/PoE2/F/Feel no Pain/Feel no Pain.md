@@ -1,11 +1,9 @@
-# Feel no Pain
-
-## Effects
+# Effects
 20% increased Armour and Evasion Rating
 20% increased Stun Threshold
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

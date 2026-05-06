@@ -1,12 +1,10 @@
-# The Flawed Refuge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Flawed Refuge.png]]
 
-## Description
+# Flavour Text
 The Wildwood was a gift, meant as a haven
 against the Winter of the World.
 
-## Details
+# Details
 - Chance to Block: 39%
 - Armour: (176-247)
 - Evasion: (176-247)
@@ -18,9 +16,9 @@ against the Winter of the World.
 - You take 100% of Elemental Damage from Blocked Hits
 - 40% of Elemental Damage from Hits taken as Physical Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

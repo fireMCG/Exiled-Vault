@@ -1,11 +1,9 @@
-# The Eternity Shroud
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Eternity Shroud.png]]
 
-## Description
+# Flavour Text
 There can be no defence against the celestial siblings entropy and time.
 
-## Details
+# Details
 - Evasion: (872-1252)
 - Energy Shield: (146-210)
 - Movement Speed: -3%
@@ -17,9 +15,9 @@ There can be no defence against the celestial siblings entropy and time.
 - Gain (3-5)% of Elemental Damage as Extra Chaos Damage per Shaper Item Equipped
 - Hits ignore Enemy Monster Chaos Resistance if all Equipped Items are Shaper Items
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

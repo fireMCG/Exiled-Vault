@@ -1,13 +1,11 @@
-# Craiceann's Tracks
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Craiceann's Tracks.png]]
 
-## Description
+# Flavour Text
 When the land rose above the sea, The First of the Deep did not move.
 When the sky turned to fire, The First of the Deep did not perish.
 We must remember our place, and play to our strengths.
 
-## Details
+# Details
 - Armour: (442-585)
 - Requires Level 54, 95 Str
 - (150-180)% increased Armour
@@ -17,9 +15,9 @@ We must remember our place, and play to our strengths.
 - Cannot be Stunned if you have at least 10 Crab Barriers
 - You only lose (5-7) Crab Barriers when you take Physical Damage from a Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

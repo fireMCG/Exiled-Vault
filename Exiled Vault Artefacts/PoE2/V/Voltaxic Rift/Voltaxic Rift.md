@@ -1,13 +1,11 @@
-# Voltaxic Rift
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Voltaxic Rift.png]]
 
-## Description
+# Flavour Text
 The eldritch storm descended upon us, and bruised lightning
 rained down. Metal withered and flesh melted before its
 arcane power. There was no escape, no shelter. Only despair.
 
-## Details
+# Details
 - Bow
 - Physical Damage: 47-79
 - Elemental Damage: 1 to (300-500)
@@ -21,9 +19,9 @@ arcane power. There was no escape, no shelter. Only despair.
 - 100% of Lightning Damage Converted to Chaos Damage
 - Chaos Damage from Hits also Contributes to Shock Chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Body/Flesh
 #Concept/Element/Lightning

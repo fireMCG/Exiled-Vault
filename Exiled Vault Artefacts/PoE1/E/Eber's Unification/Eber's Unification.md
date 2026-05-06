@@ -1,14 +1,12 @@
-# Eber's Unification
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Eber's Unification.png]]
 
-## Description
+# Flavour Text
 The impediments of flesh are weak.
 The air we breathe knows no such boundaries.
 I exhale, and you inhale,
 and inexorably we inch towards oneness.
 
-## Details
+# Details
 - Energy Shield: (200-257)
 - Requires Level 69, 154 Int
 - Trigger Level 10 Void Gaze when you use a Skill
@@ -17,9 +15,9 @@ and inexorably we inch towards oneness.
 - 50% increased Stun and Block Recovery
 - Gain (5-8)% of Elemental Damage as Extra Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

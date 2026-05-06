@@ -1,12 +1,10 @@
-# Sculpted Suffering
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Sculpted Suffering.png]]
 
-## Description
+# Flavour Text
 The Abyssals were created, not born,
 and every moment in the light was agony.
 
-## Details
+# Details
 - One Hand Mace
 - Physical Damage: (39-44) to (49-55)
 - Critical Strike Chance: 7.00%
@@ -19,9 +17,9 @@ and every moment in the light was agony.
 - Breaks Armour equal to 40% of damage from Hits with this weapon
 - Fully Armour Broken enemies you kill with Hits Shatter
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

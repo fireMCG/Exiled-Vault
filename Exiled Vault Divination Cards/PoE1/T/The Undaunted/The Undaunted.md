@@ -1,19 +1,17 @@
-# The Undaunted
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Undaunted.png]]
 
-## Description
+# Flavour Text
 "Fate was always my nemesis... 
 But it didn't stop me then, and it won't stop me now."
 - Kjetilbrann, The Undaunted
 
-## Reward
+# Reward
 Nemesis Item
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Colour/Red
 #Concept/Eclipse

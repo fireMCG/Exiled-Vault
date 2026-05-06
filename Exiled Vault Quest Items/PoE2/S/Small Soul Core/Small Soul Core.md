@@ -1,13 +1,11 @@
-# Small Soul Core
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Small Soul Core.png]]
 
-## Description
+# Flavour Text
 Ancient facets remain warm to the touch.
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Crystal
 #Concept/Soul
 #Category/QuestItem

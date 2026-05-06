@@ -1,10 +1,8 @@
-# Deadly Flourish
-
-## Effects
+# Effects
 25% increased Melee Critical Hit Chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,10 +1,8 @@
-# Empowering Remnants
-
-## Effects
+# Effects
 15% chance for Remnants you create to grant their effects twice
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,10 +1,8 @@
-# Infusion of Power
-
-## Effects
+# Effects
 Gain a Power Charge when you consume an Elemental Infusion
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

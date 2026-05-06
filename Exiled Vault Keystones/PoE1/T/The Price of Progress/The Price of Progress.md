@@ -1,12 +1,10 @@
-# The Price of Progress
-
 ![[Exiled Vault Keystones/_Images/PoE1 - The Price of Progress.webp]]
 
-## Effects
+# Effects
 Voltaxic Sulphite Veins and Chests found in your Maps contains Doomed Spirits
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

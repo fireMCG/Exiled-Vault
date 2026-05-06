@@ -1,11 +1,9 @@
-# Presence of Chayula
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Presence of Chayula.png]]
 
-## Description
+# Flavour Text
 The dreamer stirs, the world trembles.
 
-## Details
+# Details
 - Requires Level 60
 - +(10-16) to all Attributes
 - 30% increased Rarity of Items found
@@ -13,9 +11,9 @@ The dreamer stirs, the world trembles.
 - Cannot be Stunned
 - 20% of Maximum Life Converted to Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

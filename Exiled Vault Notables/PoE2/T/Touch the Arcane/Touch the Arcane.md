@@ -1,10 +1,8 @@
-# Touch the Arcane
-
-## Effects
+# Effects
 40% increased effect of Arcane Surge on you
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

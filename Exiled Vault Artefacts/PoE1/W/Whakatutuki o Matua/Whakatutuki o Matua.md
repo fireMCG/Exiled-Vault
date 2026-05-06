@@ -1,11 +1,9 @@
-# Whakatutuki o Matua
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Whakatutuki o Matua.png]]
 
-## Description
+# Flavour Text
 As you guided me, now I guide others.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Energy Shield: (85-189)
 - Movement Speed: -3%
@@ -20,9 +18,9 @@ As you guided me, now I guide others.
 - Spreads Tar when you Block
 - If you have Blocked Recently, you and nearby Allies Regenerate 5% of Life per second
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

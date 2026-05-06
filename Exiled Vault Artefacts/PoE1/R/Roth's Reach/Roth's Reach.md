@@ -1,13 +1,11 @@
-# Roth's Reach
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Roth's Reach.png]]
 
-## Description
+# Flavour Text
 "Exiled to the sea; what a joke.
 I'm more free than I've ever been."
 - Captain Weylam "Rot-tooth" Roth of the Black Crest
 
-## Details
+# Details
 - Bow
 - Physical Damage: (24-27) to (72-81)
 - Critical Strike Chance: 6.70%
@@ -19,9 +17,9 @@ I'm more free than I've ever been."
 - 30% increased Projectile Speed
 - (60-80)% increased Elemental Damage with Attack Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

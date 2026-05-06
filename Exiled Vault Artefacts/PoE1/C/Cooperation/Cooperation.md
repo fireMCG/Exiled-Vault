@@ -1,17 +1,15 @@
-# Cooperation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cooperation.png]]
 
-## Description
+# Flavour Text
 You stagger away, embarrassed by your failure.
 Your only consolation prize is your life.
 
-## Details
+# Details
 - This item will transform when correctly arranged with other items.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

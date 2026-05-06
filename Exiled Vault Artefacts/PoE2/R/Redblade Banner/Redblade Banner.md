@@ -1,11 +1,9 @@
-# Redblade Banner
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Redblade Banner.png]]
 
-## Description
+# Flavour Text
 Blood shed is blood shared.
 
-## Details
+# Details
 - Shield
 - Chance to Block: (28-29)%
 - Armour: (136-170)
@@ -18,9 +16,9 @@ Blood shed is blood shared.
 - +(100-150) to Stun Threshold
 - Enemies in your Presence count as having double Power
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

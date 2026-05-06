@@ -1,13 +1,11 @@
-# Hoghunt
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Hoghunt.png]]
 
-## Description
+# Flavour Text
 There was a very clear and delicious
 reason why the Ezomytes chose to
 stop their flight and settle in Phaaryl.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (29-33) to (41-45)
 - Critical Strike Chance: 20.00%
@@ -19,9 +17,9 @@ stop their flight and settle in Phaaryl.
 - +10 to Strength
 - Maim on Critical Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

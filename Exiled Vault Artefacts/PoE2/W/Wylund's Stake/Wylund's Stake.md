@@ -1,11 +1,9 @@
-# Wylund's Stake
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Wylund's Stake.png]]
 
-## Description
+# Flavour Text
 Shaped metal never forgets the forge.
 
-## Details
+# Details
 - One Hand Mace
 - Physical Damage: (9-11) to (17-19)
 - Elemental Damage: (9-11) to (17-19)
@@ -21,9 +19,9 @@ Shaped metal never forgets the forge.
 - Hits Break (30-50) Armour
 - Inflicts Fire Exposure when this Weapon Fully Breaks Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

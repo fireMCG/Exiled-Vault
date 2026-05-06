@@ -1,12 +1,10 @@
-# Additional Delirium Reward Chance
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Additional Delirium Reward Chance.webp]]
 
-## Effects
+# Effects
 Delirium Encounters in your Maps have 4% chance to generate an additional Reward type
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

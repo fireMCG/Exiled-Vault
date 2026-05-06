@@ -1,10 +1,8 @@
-# Fast Metabolism
-
-## Effects
+# Effects
 Life Leech effects are not removed when Unreserved Life is Filled
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# The Red Nightmare
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Red Nightmare.png]]
 
-## Description
+# Flavour Text
 We coagulate; a crimson shell
 that suffocates the unworthy.
 
-## Details
+# Details
 - Limited to: 1
 - Radius: Large
 - Gain (6-10)% of Fire Damage as Extra Chaos Damage
@@ -14,9 +12,9 @@ that suffocates the unworthy.
 - also grant Chance to Block Attack Damage at 50% of its value
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

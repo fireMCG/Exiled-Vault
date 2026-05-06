@@ -1,15 +1,13 @@
-# The Traitor (Keystone)
-
 ![[Exiled Vault Keystones/_Images/PoE1 - The Traitor (Keystone).webp]]
 
-## Description
+# Flavour Text
 The fewer there are, the less you have to share.
 
-## Effects
+# Effects
 Flasks Gain 4 Charges per empty Flask Slot every 5 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

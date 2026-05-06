@@ -1,11 +1,9 @@
-# Wetlands
-
-## Description
+# Flavour Text
 Mud and air seethes with warped life.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

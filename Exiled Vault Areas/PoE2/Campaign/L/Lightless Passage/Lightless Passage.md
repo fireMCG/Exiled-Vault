@@ -1,15 +1,13 @@
-# Lightless Passage
-
-## Description
+# Flavour Text
 Scraping bones and jagged rock lay underfoot.
 
-## Connected Areas
+# Connected Areas
 - Mastodon Badlands
 - The Well of Souls
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

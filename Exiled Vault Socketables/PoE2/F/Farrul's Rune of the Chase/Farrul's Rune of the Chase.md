@@ -1,20 +1,18 @@
-# Farrul's Rune of the Chase
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Farrul's Rune of the Chase.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Boots: 5% increased Movement Speed
 
-## Bonded Effects
+# Bonded Effects
 - Boots: 10% increased Cooldown Recovery Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

@@ -1,11 +1,9 @@
-# Split Personality
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Split Personality.png]]
 
-## Description
+# Flavour Text
 You need not go looking for a second opinion.
 
-## Details
+# Details
 - Limited to: 2
 - This Jewel's Socket has 25% increased effect per Allocated Passive Skill between
 - it and your Class' starting location
@@ -13,9 +11,9 @@ You need not go looking for a second opinion.
 - Corrupted
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

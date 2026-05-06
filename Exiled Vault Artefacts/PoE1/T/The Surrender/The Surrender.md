@@ -1,13 +1,11 @@
-# The Surrender
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Surrender.png]]
 
-## Description
+# Flavour Text
 Our hearts cry out
 but are silenced by our flesh
 and so we give up our flesh.
 
-## Details
+# Details
 - Chance to Block: 30%
 - Armour: (1091-1445)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ and so we give up our flesh.
 - Recover (250-500) Life when you Block
 - +6% Chance to Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

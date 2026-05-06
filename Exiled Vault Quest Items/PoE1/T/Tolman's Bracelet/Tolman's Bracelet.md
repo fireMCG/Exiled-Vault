@@ -1,14 +1,12 @@
-# Tolman's Bracelet
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Tolman's Bracelet.png]]
 
-## Description
+# Flavour Text
 A craftswoman's ode to
 fresh hope, a new love.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE1

@@ -1,16 +1,14 @@
-# The Standoff
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Standoff.png]]
 
-## Description
+# Flavour Text
 Sometimes your greatest enemy is the only one keeping you breathing.
 
-## Reward
+# Reward
 Rustic Sash
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

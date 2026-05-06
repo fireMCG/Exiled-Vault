@@ -1,12 +1,10 @@
-# Emperor's Mastery
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Emperor's Mastery.png]]
 
-## Description
+# Flavour Text
 Learn as much as you can,
 and surround yourself with people who know the rest.
 
-## Details
+# Details
 - Limited to: 1
 - 4% increased maximum Life
 - 3% increased Character Size
@@ -14,9 +12,9 @@ and surround yourself with people who know the rest.
 - (5-7)% increased Attributes
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

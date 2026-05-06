@@ -1,15 +1,13 @@
-# The Karui Fortress
-
-## Description
+# Flavour Text
 The waters here, once stagnant and foul, now run clear with an ancient bloodlust.
 
-## Connected Areas
+# Connected Areas
 - The Mud Flats
 - The Ridge
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

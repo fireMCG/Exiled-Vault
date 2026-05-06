@@ -1,14 +1,12 @@
-# The Bane of Hope
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Bane of Hope.png]]
 
-## Description
+# Flavour Text
 "Hope? There is no such thing! We are all rotting flesh,
 stuck here on this world to torture each other. Hope
 is a mistake, and we will show you its folly."
 - Batoor, of the Afarud
 
-## Details
+# Details
 - Bow
 - Physical Damage: (153.9-209.3) to (250.8-326.6)
 - Critical Strike Chance: 5.50%
@@ -21,8 +19,8 @@ is a mistake, and we will show you its folly."
 - (15-30)% chance to Impale Enemies on Hit with Attacks
 - Trigger Level 20 Tears of Rot when Equipped
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE1

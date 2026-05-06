@@ -1,13 +1,11 @@
-# Atziri's Splendour (Armour, Energy Shield and Life)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Atziri's Splendour (Armour, Energy Shield and Life).png]]
 
-## Description
+# Flavour Text
 "When you have nothing to hide,
 you have nothing to fear."
 - Atziri, Queen of the Vaal
 
-## Details
+# Details
 - Armour: (987-1209)
 - Evasion: (329-378)
 - Energy Shield: (201-246)
@@ -20,9 +18,9 @@ you have nothing to fear."
 - Gain 100 Life per Enemy Killed
 - Gain 100 Mana per Enemy Killed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

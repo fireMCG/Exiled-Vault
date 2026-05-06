@@ -1,16 +1,14 @@
-# The Feeding Trough
-
-## Description
+# Flavour Text
 Cries of torment and pathetic moans as the unholy banquet of flesh continues.
 
-## Connected Areas
+# Connected Areas
 - The Canals
 - Oriath Docks
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

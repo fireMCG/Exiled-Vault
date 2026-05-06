@@ -1,13 +1,11 @@
-# Rainbowstride
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rainbowstride.png]]
 
-## Description
+# Flavour Text
 "They say that you should take life's troubles in your stride.
 Some men have a longer stride than others."
 - Gaius Sentari
 
-## Details
+# Details
 - Energy Shield: (36-42)
 - Requires Level 53, 94 Int
 - (15-20)% Chance to Block Spell Damage
@@ -15,9 +13,9 @@ Some men have a longer stride than others."
 - +20% to all Elemental Resistances
 - 20% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

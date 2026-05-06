@@ -1,16 +1,14 @@
-# The Sun
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Sun.png]]
 
-## Description
+# Flavour Text
 Each night, the light dies, and each morning she is born anew, embracing the land in her golden wings.
 
-## Reward
+# Reward
 Rise of the Phoenix
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Animal/Mythological/Phoenix
 #Concept/Colour/Gold

@@ -1,15 +1,13 @@
-# Valley of the Titans
-
-## Description
+# Flavour Text
 Forbidden lands hold wonders and terrors beyond explanation.
 
-## Connected Areas
+# Connected Areas
 - The Ardura Caravan
 - The Titan Grotto
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

@@ -1,15 +1,13 @@
-# Repentance
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Repentance.png]]
 
-## Description
+# Flavour Text
 "I ask not for understanding,
 only for forgiveness
 for what I am about to do.
 There will be blood on these shackles yet."
 - Anonymous carving, Axiom Prison.
 
-## Details
+# Details
 - Armour: (605-834)
 - Energy Shield: (125-168)
 - Requires Level 66, 306 Str, 306 Int
@@ -18,9 +16,9 @@ There will be blood on these shackles yet."
 - (6-12)% increased Strength
 - Iron Will
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

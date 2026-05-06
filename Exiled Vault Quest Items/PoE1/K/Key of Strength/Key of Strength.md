@@ -1,13 +1,11 @@
-# Key of Strength
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Key of Strength.png]]
 
-## Description
+# Flavour Text
 The true disciple brings enlightenment to heretics.
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Religion
 #Category/QuestItem
 #QuestItem

@@ -1,11 +1,9 @@
-# Windripper
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Windripper.png]]
 
-## Description
+# Flavour Text
 It hunts; as silent as falling snow, as deadly as the tempest.
 
-## Details
+# Details
 - Bow
 - Physical Damage: 29-117
 - Elemental Damage: (48-60) to (72-90), 1 to (120-150)
@@ -20,9 +18,9 @@ It hunts; as silent as falling snow, as deadly as the tempest.
 - 30% increased Rarity of Items Dropped by Slain Shocked Enemies
 - 30% increased Rarity of Items Dropped by Frozen Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

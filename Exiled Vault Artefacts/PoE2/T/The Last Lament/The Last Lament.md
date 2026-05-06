@@ -1,14 +1,12 @@
-# The Last Lament
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Last Lament.png]]
 
-## Description
+# Flavour Text
 "And here we shall remain...
 trapped in our symphony of eternal anguish.
 Artist and Composer, their fates entwined for all of time."
 - Adamantia Brektov, the Composer
 
-## Details
+# Details
 - Crossbow
 - Physical Damage: (115.5-132) to (462-528)
 - Critical Strike Chance: 5.00%
@@ -23,9 +21,9 @@ Artist and Composer, their fates entwined for all of time."
 - (10-20)% chance to load a bolt into all Crossbow skills on Kill
 - Sacrifice 300 Life to not consume the last bolt when firing
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

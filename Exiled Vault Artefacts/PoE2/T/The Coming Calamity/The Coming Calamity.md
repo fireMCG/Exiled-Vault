@@ -1,14 +1,12 @@
-# The Coming Calamity
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Coming Calamity.png]]
 
-## Description
+# Flavour Text
 Whiff of cold, tiny spark, faintest flicker in the dark.
 Embers swirl, ice takes form, sky exposed - Death's perfect storm.
 Frost and thunder, flames shine bright, ruin walks the land tonight.
 By your hand they dance and bend, wield them and brook no end.
 
-## Details
+# Details
 - Armour: 245
 - Evasion: 223
 - Movement Speed: -4.0%
@@ -21,9 +19,9 @@ By your hand they dance and bend, wield them and brook no end.
 - Herald Skills deal (50-100)% increased Damage
 - Enemies in your Presence have no Elemental Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

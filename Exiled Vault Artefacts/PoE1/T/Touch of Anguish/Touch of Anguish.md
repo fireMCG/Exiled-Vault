@@ -1,13 +1,11 @@
-# Touch of Anguish
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Touch of Anguish.png]]
 
-## Description
+# Flavour Text
 Grip the frozen steel, feel it numb you.
 Wield the cold touch of death like
 a splinter of your own shattered heart.
 
-## Details
+# Details
 - Claw
 - Physical Damage: (65-75) to (195-215)
 - Critical Strike Chance: (9.10-9.80)%
@@ -23,9 +21,9 @@ a splinter of your own shattered heart.
 - 10% chance to Freeze
 - Critical Strikes do not inherently Freeze
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

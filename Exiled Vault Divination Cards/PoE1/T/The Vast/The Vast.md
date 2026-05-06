@@ -1,20 +1,18 @@
-# The Vast
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Vast.png]]
 
-## Description
+# Flavour Text
 Can you hear the siren's calls,
 Just beyond the sea?
 A voice which hearts
 of men enthralls,
 I too am hooked to thee.
 
-## Reward
+# Reward
 Song of the Sirens
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Body/Heart
 #Concept/Siren

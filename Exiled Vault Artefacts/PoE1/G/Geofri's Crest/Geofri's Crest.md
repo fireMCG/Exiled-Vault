@@ -1,12 +1,10 @@
-# Geofri's Crest
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Geofri's Crest.png]]
 
-## Description
+# Flavour Text
 In the battle for honour,  won.
 Not so, the battle for survival.
 
-## Details
+# Details
 - Armour: (314-402)
 - Energy Shield: (63-82)
 - Requires Level 53, 59 Str, 59 Int
@@ -17,9 +15,9 @@ Not so, the battle for survival.
 - +(20-30)% to Chaos Resistance
 - +1 to maximum number of Summoned Holy Relics
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

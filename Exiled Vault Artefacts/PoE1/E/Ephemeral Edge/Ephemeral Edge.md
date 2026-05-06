@@ -1,12 +1,10 @@
-# Ephemeral Edge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ephemeral Edge.png]]
 
-## Description
+# Flavour Text
 In the rift between future and past,
 life passes quickly.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: 19-54
 - Elemental Damage: 1-75
@@ -22,9 +20,9 @@ life passes quickly.
 - Adds 1 to 75 Lightning Damage
 - Attacks with this Weapon have Added Maximum Lightning Damage equal to (10-15)% of Player's Maximum Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,14 +1,12 @@
-# Ventor's Gamble
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Ventor's Gamble.png]]
 
-## Description
+# Flavour Text
 In a blaze of glory,
 An anomaly defying all odds
 The "unkillable" beast met the divine
 And Ventor met his latest trophy.
 
-## Details
+# Details
 - Requires Level 64
 - (6-15)% increased Rarity of Items found
 - +(0-80) to maximum Life
@@ -18,9 +16,9 @@ And Ventor met his latest trophy.
 - +(-40-40)% to Cold Resistance
 - +(-40-40)% to Lightning Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Ventor
 #Concept/Beast

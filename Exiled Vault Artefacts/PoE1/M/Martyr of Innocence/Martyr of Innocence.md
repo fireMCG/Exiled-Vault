@@ -1,12 +1,10 @@
-# Martyr of Innocence
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Martyr of Innocence.png]]
 
-## Description
+# Flavour Text
 You have been found guilty.
 Let the fires cleanse you of your sins.
 
-## Details
+# Details
 - Staff
 - Physical Damage: 48-145
 - Elemental Damage: (315-360) to (450-540)
@@ -23,9 +21,9 @@ Let the fires cleanse you of your sins.
 - Immune to Freeze and Chill while Ignited
 - Battlemage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

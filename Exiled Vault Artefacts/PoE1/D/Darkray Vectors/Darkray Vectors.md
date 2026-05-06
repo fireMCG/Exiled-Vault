@@ -1,14 +1,12 @@
-# Darkray Vectors
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Darkray Vectors.png]]
 
-## Description
+# Flavour Text
 "Sirrius flew on wings of light, faster than wind, faster
 than thought. But try as he might to outrun the darkness,
 it was there, at every turn, waiting for him."
 - Azmerian legend
 
-## Details
+# Details
 - Armour: (169-236)
 - Evasion: (169-236)
 - Requires Level 65, 62 Str, 62 Dex
@@ -20,9 +18,9 @@ it was there, at every turn, waiting for him."
 - 40% reduced Frenzy Charge Duration
 - 25% reduced Light Radius
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

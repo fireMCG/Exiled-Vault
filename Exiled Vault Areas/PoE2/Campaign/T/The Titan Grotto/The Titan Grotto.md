@@ -1,15 +1,13 @@
-# The Titan Grotto
-
-## Description
+# Flavour Text
 Eons of silence can wear away even the strongest alliances.
 
-## Connected Areas
+# Connected Areas
 - Valley of the Titans
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

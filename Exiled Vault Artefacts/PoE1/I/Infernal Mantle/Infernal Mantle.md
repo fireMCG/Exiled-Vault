@@ -1,12 +1,10 @@
-# Infernal Mantle
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Infernal Mantle.png]]
 
-## Description
+# Flavour Text
 Despair hums, softly, deadly, in the bones of my enemies.
 Eyes will burn, and souls wither, as they bask in my radiance.
 
-## Details
+# Details
 - Energy Shield: (345-470)
 - Movement Speed: -3%
 - Requires Level 65, 187 Int
@@ -16,9 +14,9 @@ Eyes will burn, and souls wither, as they bask in my radiance.
 - 15% of Fire Damage Converted to Chaos Damage
 - 100% increased Spell Damage taken when on Low Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

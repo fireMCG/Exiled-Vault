@@ -1,12 +1,10 @@
-# Overseer Precursor Tablet
-
 ![[Exiled Vault Fragments/_Images/PoE2 - Overseer Precursor Tablet.webp]]
 
-## Details
+# Details
 Item Level:
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE2

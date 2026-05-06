@@ -1,12 +1,10 @@
-# Marohi Erqi
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Marohi Erqi.png]]
 
-## Description
+# Flavour Text
 Lumbering as a sea lion, clumsy as a berry-drunk pigeon. That was Erqi.
 It mattered little. When Erqi's maul fell true, so did its target.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (672-784) to (1008-1176)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ It mattered little. When Erqi's maul fell true, so did its target.
 - (40-50)% increased Area of Effect
 - -500 to Accuracy Rating
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

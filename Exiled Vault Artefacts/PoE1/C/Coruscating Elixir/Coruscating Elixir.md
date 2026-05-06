@@ -1,12 +1,10 @@
-# Coruscating Elixir
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Coruscating Elixir.png]]
 
-## Description
+# Flavour Text
 Let blood sear in your veins,
 Let the pain push outwards and turn away your enemy's blows.
 
-## Details
+# Details
 - Lasts 10.00 Seconds
 - Consumes 20 of 50 Charges on use
 - +40% to Fire Resistance
@@ -18,9 +16,9 @@ Let the pain push outwards and turn away your enemy's blows.
 - 25% increased Duration
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

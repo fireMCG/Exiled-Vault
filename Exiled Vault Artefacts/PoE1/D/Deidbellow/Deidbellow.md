@@ -1,11 +1,9 @@
-# Deidbellow
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Deidbellow.png]]
 
-## Description
+# Flavour Text
 May it echo through the halls.
 
-## Details
+# Details
 - Armour: (290-397)
 - Evasion: (90-97)
 - Requires Level 33, 38 Str, 38 Dex
@@ -17,9 +15,9 @@ May it echo through the halls.
 - Cannot Leech when on Low Life
 - If you've Warcried Recently, you and nearby allies have 20% increased Attack, Cast and Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

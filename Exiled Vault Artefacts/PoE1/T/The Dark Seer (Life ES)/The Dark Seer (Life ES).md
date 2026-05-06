@@ -1,13 +1,11 @@
-# The Dark Seer (Life ES)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Dark Seer (Life ES).png]]
 
-## Description
+# Flavour Text
 Feed on the light of the living,
 Bring darkness to all I see,
 Until we are one in shadow.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 29-44
 - Critical Strike Chance: 7.30%
@@ -22,9 +20,9 @@ Until we are one in shadow.
 - +(1-2) Maximum Energy Shield per Level
 - +(1-2) Maximum Life per Level
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

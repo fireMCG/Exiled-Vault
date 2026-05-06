@@ -1,11 +1,9 @@
-# Temptation Step
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Temptation Step.png]]
 
-## Description
+# Flavour Text
 The High Priests ensured the loyalty of their slaves by habituating them to narcotic stimulants with lethal withdrawals.
 
-## Details
+# Details
 - Evasion: (486-756)
 - Requires Level 55, 97 Dex
 - (170-250)% increased Evasion Rating
@@ -15,9 +13,9 @@ The High Priests ensured the loyalty of their slaves by habituating them to narc
 - Poison you inflict with Travel Skills is Reflected to you if you
 - have fewer than 5 Poisons on you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

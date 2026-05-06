@@ -1,11 +1,9 @@
-# Ab Aeterno
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Ab Aeterno.png]]
 
-## Description
+# Flavour Text
 His enemy was for endurance forged. His own waned.
 
-## Details
+# Details
 - Armour: (132-165)
 - Evasion: (120-150)
 - Energy Shield: (46-57)
@@ -15,9 +13,9 @@ His enemy was for endurance forged. His own waned.
 - Dodge Roll avoids all Hits
 - 10% less Movement and Skill Speed per Dodge Roll in the past 20 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

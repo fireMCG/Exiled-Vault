@@ -1,14 +1,12 @@
-# The Docks
-
-## Description
+# Flavour Text
 Life pales in the wake of progress.
 
-## Connected Areas
+# Connected Areas
 - The Battlefront
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

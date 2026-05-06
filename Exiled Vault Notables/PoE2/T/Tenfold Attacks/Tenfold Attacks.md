@@ -1,12 +1,10 @@
-# Tenfold Attacks
-
-## Effects
+# Effects
 4% increased Attack Speed
 6% increased Attack Speed if you've been Hit Recently
 +10 to Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

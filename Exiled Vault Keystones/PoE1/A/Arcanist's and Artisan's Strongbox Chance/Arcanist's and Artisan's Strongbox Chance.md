@@ -1,13 +1,11 @@
-# Arcanist's and Artisan's Strongbox Chance
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Arcanist's and Artisan's Strongbox Chance.webp]]
 
-## Effects
+# Effects
 Strongboxes in your Maps have 30% increased chance to be an Artisan's Strongbox
 Strongboxes in your Maps have 30% increased chance to be an Arcanist's Strongbox
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

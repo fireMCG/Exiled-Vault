@@ -1,14 +1,12 @@
-# The Broken Bridge
-
-## Description
+# Flavour Text
 A pure, soothing river once red and clogged with the victims of war.
 
-## Connected Areas
+# Connected Areas
 - The Crossroads
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

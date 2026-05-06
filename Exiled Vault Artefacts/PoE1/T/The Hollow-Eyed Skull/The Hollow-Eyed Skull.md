@@ -1,13 +1,11 @@
-# The Hollow-Eyed Skull
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Hollow-Eyed Skull.png]]
 
-## Description
+# Flavour Text
 Destruction incarnate leaves a bitter aftertaste
 as one soul is imbued with remnants of another,
 and the earth is salted by rivers of blood.
 
-## Details
+# Details
 - Duration: 50 seconds
 - Empowers: 75 enemies
 - Empowerment: 28
@@ -18,9 +16,9 @@ and the earth is salted by rivers of blood.
 - they gain its Modifiers for 20 seconds
 - Unmodifiable
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

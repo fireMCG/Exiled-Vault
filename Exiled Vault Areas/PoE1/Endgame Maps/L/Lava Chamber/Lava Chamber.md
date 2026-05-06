@@ -1,13 +1,11 @@
-# Lava Chamber
-
-## Description
+# Flavour Text
 Fiend and fortune-hunter alike turned to ash.
 
 A sorry alliance of unending agony.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

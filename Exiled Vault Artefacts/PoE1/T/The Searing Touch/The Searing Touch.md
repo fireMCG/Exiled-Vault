@@ -1,12 +1,10 @@
-# The Searing Touch
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Searing Touch.png]]
 
-## Description
+# Flavour Text
 Burn to cinders, scar and maim,
 Rule a world, bathed in flame.
 
-## Details
+# Details
 - Staff
 - Physical Damage: 72-120
 - Critical Strike Chance: 7.50%
@@ -19,9 +17,9 @@ Rule a world, bathed in flame.
 - 10% increased Cast Speed
 - +2 to Level of all Fire Spell Skill Gems
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

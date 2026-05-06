@@ -1,12 +1,10 @@
-# Lioneye's Paws
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Lioneye's Paws.png]]
 
-## Description
+# Flavour Text
 Stand and lead the righteous pride,
 Fight till death, never hide.
 
-## Details
+# Details
 - Armour: (55-63)
 - Evasion: (55-63)
 - Requires Level 30, 30 Str, 30 Dex
@@ -17,9 +15,9 @@ Fight till death, never hide.
 - 20% increased Movement Speed
 - 40% reduced Movement Speed when on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Cowl of the Thermophile
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cowl of the Thermophile.png]]
 
-## Description
+# Flavour Text
 The villagers seared the blight with fire, but it only spread like dancing flames.
 
-## Details
+# Details
 - Armour: (553-685)
 - Requires Level 60, 138 Str
 - Can have a second Enchantment Modifier
@@ -16,9 +14,9 @@ The villagers seared the blight with fire, but it only spread like dancing flame
 - (55-50)% reduced Lightning Resistance
 - This item can be anointed by Cassia
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

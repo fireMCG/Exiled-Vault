@@ -1,16 +1,14 @@
-# The Deep Ones
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Deep Ones.png]]
 
-## Description
+# Flavour Text
 "The Seas Call, the Mad Answer"
 
-## Reward
+# Reward
 Tidebreaker
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Madness
 #Concept/Water/Sea

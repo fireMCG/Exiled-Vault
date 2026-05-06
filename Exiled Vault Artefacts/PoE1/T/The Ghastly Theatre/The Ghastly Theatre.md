@@ -1,13 +1,11 @@
-# The Ghastly Theatre
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Ghastly Theatre.png]]
 
-## Description
+# Flavour Text
 Never let the audience know your true form.
 Misdirect them, beguile them.
 Strike when they least expect it.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Armour: (524-730)
 - Evasion: (524-730)
@@ -22,9 +20,9 @@ Strike when they least expect it.
 - (50-70)% increased Critical Strike Chance while Physical Aegis is depleted
 - Nearby Enemies are Blinded while Physical Aegis is not depleted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

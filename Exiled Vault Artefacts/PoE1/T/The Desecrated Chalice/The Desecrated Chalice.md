@@ -1,13 +1,11 @@
-# The Desecrated Chalice
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Desecrated Chalice.png]]
 
-## Description
+# Flavour Text
 "All men must drink. Deny us water,
 and we shall have blood instead."
 - Rukh, of the Afarud
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (200.2-236.6) to (299.2-353.6)
 - Critical Strike Chance: (6.00-6.50)%
@@ -22,8 +20,8 @@ and we shall have blood instead."
 - Gain (40-75)% of Physical Damage as Extra Chaos Damage if you've
 - used an Amethyst Flask Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE1

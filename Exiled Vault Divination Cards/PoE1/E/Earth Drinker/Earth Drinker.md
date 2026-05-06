@@ -1,16 +1,14 @@
-# Earth Drinker
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Earth Drinker.png]]
 
-## Description
+# Flavour Text
 Taste and grow strong. Drink too much and be buried.
 
-## Reward
+# Reward
 Granite Flask
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Nature/Earth
 #Concept/Power

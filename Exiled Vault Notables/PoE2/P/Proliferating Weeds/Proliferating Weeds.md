@@ -1,10 +1,8 @@
-# Proliferating Weeds
-
-## Effects
+# Effects
 Fissure Skills have +1 to Limit
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

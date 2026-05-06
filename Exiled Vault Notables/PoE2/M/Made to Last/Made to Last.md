@@ -1,11 +1,9 @@
-# Made to Last
-
-## Effects
+# Effects
 30% increased Armour
 5% of Physical Damage prevented Recouped as Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

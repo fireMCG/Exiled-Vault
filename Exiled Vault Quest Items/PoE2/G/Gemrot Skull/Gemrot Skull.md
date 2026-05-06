@@ -1,13 +1,11 @@
-# Gemrot Skull
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Gemrot Skull.png]]
 
-## Description
+# Flavour Text
 The skull of a stolen child, carefully cultivated by the Bog Witch...
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Ignagduk
 #Concept/Crystal
 #Category/QuestItem

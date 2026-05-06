@@ -1,15 +1,13 @@
-# Combat Focus (Viridian Jewel)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Combat Focus (Viridian Jewel).png]]
 
-## Description
+# Flavour Text
 Standing behind iron bars,
 Daresso thought of his adoring fans cheering his name,
 his wife's warm embrace waiting for him,
 and of the celebrations that would soon be thrown in his name.
 But when the arena gate lifted, he thought only of the fight.
 
-## Details
+# Details
 - Limited to: 2
 - Radius: Medium
 - (10-15)% increased Elemental Damage
@@ -17,9 +15,9 @@ But when the arena gate lifted, he thought only of the fight.
 - With 40 total Dexterity and Strength in Radius, Prismatic Skills deal 50% less Lightning Damage
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

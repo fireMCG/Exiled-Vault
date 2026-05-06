@@ -1,16 +1,14 @@
-# Prosperity
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Prosperity.png]]
 
-## Description
+# Flavour Text
 Accumulating wealth has its own costs.
 
-## Reward
+# Reward
 Perandus' Gold Ring
 
-##
+#
 ---
-## Tags
+# Tags
 #Bloodline/Perandus
 #Concept/Animal/Fish
 #Concept/Wealth

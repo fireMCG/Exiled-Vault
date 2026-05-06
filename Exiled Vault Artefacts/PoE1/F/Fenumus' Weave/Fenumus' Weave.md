@@ -1,11 +1,9 @@
-# Fenumus' Weave
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fenumus' Weave.png]]
 
-## Description
+# Flavour Text
 A burden shared is a burden made lighter. The First of the Night teaches us that our burdens are not just ours to bear, but ours to use against oppressors.
 
-## Details
+# Details
 - Evasion: (198-272)
 - Energy Shield: (41-56)
 - Requires Level 50, 39 Dex, 39 Int
@@ -16,9 +14,9 @@ A burden shared is a burden made lighter. The First of the Night teaches us that
 - (40-60)% increased Damage with Hits and Ailments against Enemies affected by 3 Spider's Webs
 - Adds (8-10) to (13-15) Chaos Damage for each Spider's Web on the Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

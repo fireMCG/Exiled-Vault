@@ -1,15 +1,13 @@
-# Aggorat
-
-## Description
+# Flavour Text
 The Vaal warred not with their neighbours, but with death itself.
 
-## Connected Areas
+# Connected Areas
 - Utzaal
 - The Black Chambers
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

@@ -1,12 +1,10 @@
-# The Deep One's Hide
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Deep One's Hide.png]]
 
-## Description
+# Flavour Text
 The thicker the shell,
 the greater the beast that hunts it.
 
-## Details
+# Details
 - Chance to Block: 27%
 - Armour: (87-133)
 - Evasion: (87-133)
@@ -19,9 +17,9 @@ the greater the beast that hunts it.
 - +(30-50)% to Fire Resistance
 - Curse Enemies with Vulnerability on Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

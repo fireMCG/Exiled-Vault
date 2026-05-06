@@ -1,11 +1,9 @@
-# Power of the Storm
-
-## Effects
+# Effects
 50% increased Damage if you've Triggered a Skill Recently
 Requires The Unseen Path
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

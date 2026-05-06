@@ -1,12 +1,10 @@
-# Test of Loyalty
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Test of Loyalty.webp]]
 
-## Effects
+# Effects
 Immortal Syndicate Members Executed in your Maps have 100% chance to gain an additional Rank
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

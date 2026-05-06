@@ -1,13 +1,11 @@
-# Voll's Devotion
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Voll's Devotion.png]]
 
-## Description
+# Flavour Text
 "We are the soldiers of Faith, armoured in devotion.
 Let the sinners come, for we - the Pure - shall endure!"
 - Voll of Thebrus, at the Battle of the Bridge
 
-## Details
+# Details
 - Requires Level 32
 - +(16-24) to Strength and Intelligence
 - +(20-30) to maximum Energy Shield
@@ -17,9 +15,9 @@ Let the sinners come, for we - the Pure - shall endure!"
 - 30% reduced Power Charge Duration
 - Gain an Endurance Charge when you lose a Power Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

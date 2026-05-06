@@ -1,12 +1,10 @@
-# Sacred Flame
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Sacred Flame.png]]
 
-## Description
+# Flavour Text
 Fire destroys, but fire also purifies.
 Life always springs anew.
 
-## Details
+# Details
 - Sceptre
 - Spirit: 100
 - Requires Level 78, 42 Str, 106 Int
@@ -16,9 +14,9 @@ Life always springs anew.
 - Allies in your Presence Regenerate (2-3)% of their Maximum Life per second
 - Enemies in your Presence Resist Elemental Damage based on their Lowest Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

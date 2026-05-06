@@ -1,12 +1,10 @@
-# Alberon's Warpath
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Alberon's Warpath.png]]
 
-## Description
+# Flavour Text
 Alberon walked among the accursed,
 and they welcomed him.
 
-## Details
+# Details
 - Armour: (268-319)
 - Energy Shield: (18-20)
 - Requires Level 49, 47 Str, 47 Int
@@ -18,9 +16,9 @@ and they welcomed him.
 - Summoned Skeleton Warriors are Permanent and Follow you
 - Summon Skeletons cannot Summon more than 1 Skeleton Warrior
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Alberon
 #Concept/Curse

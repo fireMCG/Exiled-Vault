@@ -1,13 +1,11 @@
-# Hyrri's Bite
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hyrri's Bite.png]]
 
-## Description
+# Flavour Text
 A Karui woman's place was not the
 battlefield, but the hearth.
 Hyrri changed all of that.
 
-## Details
+# Details
 - Requires Level 14
 - Gain (6-8) Life per Enemy Hit with Attacks
 - +(15-25) to Strength
@@ -18,9 +16,9 @@ Hyrri changed all of that.
 - Gain (2-3) Life per Enemy Hit with Attacks
 - 10% increased Area of Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

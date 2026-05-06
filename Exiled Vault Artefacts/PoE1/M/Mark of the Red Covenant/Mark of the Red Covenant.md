@@ -1,12 +1,10 @@
-# Mark of the Red Covenant
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mark of the Red Covenant.png]]
 
-## Description
+# Flavour Text
 Gleeful are the few
 who bask in the blood of many.
 
-## Details
+# Details
 - Energy Shield: (58-83)
 - Requires Level 26, 58 Int
 - +(30-50) to maximum Energy Shield
@@ -16,9 +14,9 @@ who bask in the blood of many.
 - Summoned Raging Spirits' Melee Strikes deal Fire-only Splash
 - Damage to Surrounding Targets
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

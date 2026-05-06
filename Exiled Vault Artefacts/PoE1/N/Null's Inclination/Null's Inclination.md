@@ -1,11 +1,9 @@
-# Null's Inclination
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Null's Inclination.png]]
 
-## Description
+# Flavour Text
 The hunt continues when the prey falls.
 
-## Details
+# Details
 - Bow
 - Physical Damage: 56-117
 - Chaos Damage: (50-80) to (130-180)
@@ -20,9 +18,9 @@ The hunt continues when the prey falls.
 - Trigger Socketed Minion Spells on Kill with this Weapon
 - Minion Spells Triggered by this Item have a 0.25 second Cooldown with 5 Uses
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

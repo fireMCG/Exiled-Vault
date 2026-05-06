@@ -1,14 +1,12 @@
-# The Crematorium
-
-## Description
+# Flavour Text
 Choked with ash and cinder.
 
-## Connected Areas
+# Connected Areas
 - The Slums
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

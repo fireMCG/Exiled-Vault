@@ -1,17 +1,15 @@
-# The Academic
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Academic.png]]
 
-## Description
+# Flavour Text
 "Such dedication for so many years,
 all for a couple extra letters at the front of your name..."
 
-## Reward
+# Reward
 Inspired Learning
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Virtue/Knowledge
 #Category/DivinationCard
 #DivinationCard

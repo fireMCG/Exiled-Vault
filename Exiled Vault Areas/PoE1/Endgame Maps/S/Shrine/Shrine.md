@@ -1,11 +1,9 @@
-# Shrine
-
-## Description
+# Flavour Text
 Black tiles don't stain so easily.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

@@ -1,10 +1,8 @@
-# Sudden Infuriation
-
-## Effects
+# Effects
 4% chance that if you would gain Rage on Hit, you instead gain up to your maximum Rage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

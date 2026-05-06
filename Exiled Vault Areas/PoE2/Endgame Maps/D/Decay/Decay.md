@@ -1,11 +1,9 @@
-# Decay
-
-## Description
+# Flavour Text
 Spores dance through the air in search of new hosts.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

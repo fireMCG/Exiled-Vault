@@ -1,13 +1,11 @@
-# Tribute to Utula
-
-## Effects
+# Effects
 Body Armour grants 30% increased Spirit
 base physical damage reduction rating no display [200]
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Smith of Kitava
 #Warrior
+#Notable
 #PoE2

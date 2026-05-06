@@ -1,12 +1,10 @@
-# Replica Volkuur's Guidance
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Volkuur's Guidance.png]]
 
-## Description
+# Flavour Text
 "Prototype #73 is a near perfect opposite of the original. Perhaps our failures
 are due to some unknown polarity we have yet to discover."
 
-## Details
+# Details
 - Armour: (78-92)
 - Energy Shield: (16-19)
 - Requires Level 43, 34 Str, 34 Int
@@ -17,9 +15,9 @@ are due to some unknown polarity we have yet to discover."
 - Chaos Skills have 20% chance to Ignite
 - 50% less Ignite Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Mirror
 #Artefact

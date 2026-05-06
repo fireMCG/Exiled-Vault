@@ -1,12 +1,10 @@
-# Mind of the Council
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mind of the Council.png]]
 
-## Description
+# Flavour Text
 You think we do not know.
 We know all that you think.
 
-## Details
+# Details
 - Evasion: (518-666)
 - Energy Shield: (155-208)
 - Requires Level 57, 64 Dex, 64 Int
@@ -19,9 +17,9 @@ We know all that you think.
 - Attack Skills have Added Lightning Damage equal to 6% of maximum Mana
 - Lose 3% of Mana when you use an Attack Skill
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

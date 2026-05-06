@@ -1,11 +1,9 @@
-# Sporeguard
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Sporeguard.png]]
 
-## Description
+# Flavour Text
 Shrouded in seed, a conduit of contagion, yet the source of septicity remains unknown.
 
-## Details
+# Details
 - Armour: (1329-1736)
 - Energy Shield: (228-297)
 - Movement Speed: -5%
@@ -18,9 +16,9 @@ Shrouded in seed, a conduit of contagion, yet the source of septicity remains un
 - You have Fungal Ground around you while stationary
 - This item can be anointed by Cassia
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

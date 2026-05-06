@@ -1,10 +1,8 @@
-# Life from Death
-
-## Effects
+# Effects
 Recover 3% of maximum Life on Kill
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

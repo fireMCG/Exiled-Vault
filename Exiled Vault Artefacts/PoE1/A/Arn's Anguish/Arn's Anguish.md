@@ -1,11 +1,9 @@
-# Arn's Anguish
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Arn's Anguish.png]]
 
-## Description
+# Flavour Text
 The tortured thinker is made heavier by the weight of his guilt.
 
-## Details
+# Details
 - Requires Level 68
 - (15-25)% increased Stun and Block Recovery
 - +(600-700) to Armour
@@ -16,9 +14,9 @@ The tortured thinker is made heavier by the weight of his guilt.
 - Maximum Brutal Charges is equal to Maximum Endurance Charges
 - Gain Brutal Charges instead of Endurance Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Attributes/Important
 #Category/Artefact
 #Character/Eldritch/Maven

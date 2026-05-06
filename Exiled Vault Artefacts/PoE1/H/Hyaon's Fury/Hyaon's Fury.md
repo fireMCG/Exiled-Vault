@@ -1,8 +1,6 @@
-# Hyaon's Fury
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hyaon's Fury.png]]
 
-## Description
+# Flavour Text
 "Hyaon the 'Red Wolf'
 Howling mad
 Cloaked in blood
@@ -10,7 +8,7 @@ A banner to his legion
 A terror to his foes."
 - Garivaldi, Chronicler to the Empire
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: 53-98
 - Elemental Damage: 1 to (550-650)
@@ -26,9 +24,9 @@ A terror to his foes."
 - 20 Life gained on Kill per Frenzy Charge
 - Plays Wolf Call sound on Kill (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

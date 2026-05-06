@@ -1,11 +1,9 @@
-# Spirit of the Wyvern
-
-## Effects
+# Effects
 20% increased Accuracy Rating while Shapeshifted
 25% increased Elemental Damage while Shapeshifted
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

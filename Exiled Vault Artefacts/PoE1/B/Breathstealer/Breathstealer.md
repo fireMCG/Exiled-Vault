@@ -1,11 +1,9 @@
-# Breathstealer
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Breathstealer.png]]
 
-## Description
+# Flavour Text
 The last gasp is not always one's final act.
 
-## Details
+# Details
 - Armour: (212-305)
 - Evasion: (212-305)
 - Requires Level 59, 45 Str, 45 Dex
@@ -16,9 +14,9 @@ The last gasp is not always one's final act.
 - Create a Blighted Spore when your Skills or Minions Kill a Rare Monster
 - This item can be anointed by Cassia
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

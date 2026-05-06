@@ -1,13 +1,11 @@
-# Atziri's Splendour (Evasion and Energy Shield)
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Atziri's Splendour (Evasion and Energy Shield).png]]
 
-## Description
+# Flavour Text
 "When you have nothing to hide,
 you have nothing to fear."
 - Atziri, Queen of the Vaal
 
-## Details
+# Details
 - Armour: 269
 - Evasion: (539-686)
 - Energy Shield: (204-260)
@@ -22,8 +20,8 @@ you have nothing to fear."
 - Has 6 Augment Sockets (Hidden)
 - This item gains bonuses from Socketed Soul Cores as though it was also a This item gains bonuses from Socketed Soul Cores as though it was also BootsThis item gains bonuses from Socketed Soul Cores as though it was also GlovesThis item gains bonuses from Socketed Soul Cores as though it was also a HelmetThis item gains bonuses from Socketed Soul Cores as though it was also a Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE2

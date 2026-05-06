@@ -1,11 +1,9 @@
-# Pin their Motivation
-
-## Effects
+# Effects
 20% increased Pin duration
 Pinned Enemies cannot deal Critical Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

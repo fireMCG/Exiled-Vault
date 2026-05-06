@@ -1,15 +1,13 @@
-# The Ashen Fields
-
-## Description
+# Flavour Text
 Scorched earth and slumbering cinder.
 
-## Connected Areas
+# Connected Areas
 - The Den
 - The Northern Forest
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

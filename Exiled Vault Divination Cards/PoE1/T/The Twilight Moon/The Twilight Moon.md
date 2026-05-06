@@ -1,16 +1,14 @@
-# The Twilight Moon
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Twilight Moon.png]]
 
-## Description
+# Flavour Text
 The day is dying, the night is born, the air grows cool, the sky is torn.
 
-## Reward
+# Reward
 The Twilight Temple
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Moon
 #Concept/Night

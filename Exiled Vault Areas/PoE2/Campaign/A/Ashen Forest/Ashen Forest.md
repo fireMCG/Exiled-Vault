@@ -1,15 +1,13 @@
-# Ashen Forest
-
-## Description
+# Flavour Text
 Drink in the mountain beyond and hunt your fill.
 
-## Connected Areas
+# Connected Areas
 - The Glade
 - Kriar Village
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

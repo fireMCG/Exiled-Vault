@@ -1,12 +1,10 @@
-# Replica Shroud of the Lightless
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Shroud of the Lightless.png]]
 
-## Description
+# Flavour Text
 "Eyes of black, three by three, staring ever darker into me..."
 - Researcher Arn
 
-## Details
+# Details
 - Evasion: (353-388)
 - Energy Shield: (103-113)
 - Movement Speed: -3%
@@ -14,9 +12,9 @@
 - +(20-25) to maximum Mana
 - Has 6 Abyssal Sockets
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Arn
 #Concept/Body/Eye

@@ -1,12 +1,10 @@
-# Replica Quill Rain
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Quill Rain.png]]
 
-## Description
+# Flavour Text
 "How did you manage to lodge arrows in every single test subject and researcher in Lab Three simultaneously?"
 - Doctor Bircus
 
-## Details
+# Details
 - Bow
 - Physical Damage: 12-32
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@
 - (50-100)% increased Projectile Speed
 - +(25-50) to Accuracy Rating
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,14 +1,12 @@
-# Zeel's Amplifier
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Zeel's Amplifier.png]]
 
-## Description
+# Flavour Text
 "Great minds wish to reveal all the secrets of time and space.
 But it does not matter.
 Creation, the act of Matter Metamorphosis, is the only secret worth discovering."
 - Zeel, Vaal Tinkerer
 
-## Details
+# Details
 - Chance to Block: 26%
 - Evasion: (111-131)
 - Energy Shield: (83-107)
@@ -21,9 +19,9 @@ Creation, the act of Matter Metamorphosis, is the only secret worth discovering.
 - 1% increased Area of Effect per Enemy killed recently, up to 50%
 - You have Zealot's Oath if you haven't been hit recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

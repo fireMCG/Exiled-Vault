@@ -1,16 +1,14 @@
-# Lethean Temptation
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Lethean Temptation.png]]
 
-## Description
+# Flavour Text
 My memories tortured me without end. To escape them, I embraced nothingness, but oblivion simply brought a different kind of pain...
 
-## Reward
+# Reward
 Nebulis
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Memory
 #Concept/Void
 #Category/DivinationCard

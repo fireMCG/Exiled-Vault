@@ -1,12 +1,10 @@
-# Hrimburn
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hrimburn.png]]
 
-## Description
+# Flavour Text
 Giant's blood you cannot tame,
 as wild as an unwatched flame.
 
-## Details
+# Details
 - Evasion: (72-92)
 - Requires Level 24, 17 Dex
 - +(20-30) to Strength
@@ -17,9 +15,9 @@ as wild as an unwatched flame.
 - Reflects 100 Cold Damage to Melee Attackers
 - Your Cold Damage can Ignite
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

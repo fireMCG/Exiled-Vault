@@ -1,13 +1,11 @@
-# Willow
-
-## Description
+# Flavour Text
 Leaves cling to trees as souls cling to life.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

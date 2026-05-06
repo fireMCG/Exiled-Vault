@@ -1,11 +1,9 @@
-# Marohi Erqi
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Marohi Erqi.png]]
 
-## Description
+# Flavour Text
 "Drunken Erqi boasted to Tukohama; the God of War challenged him to a clash of strength. Woe to the Divine - he should have made it a test of skill!"
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (539-616) to (735-840)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@
 - Causes (40-60)% increased Stun Buildup
 - Heavy Stuns Enemies that are on Full Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

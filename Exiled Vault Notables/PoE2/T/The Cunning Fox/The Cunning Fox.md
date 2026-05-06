@@ -1,10 +1,8 @@
-# The Cunning Fox
-
-## Effects
+# Effects
 +5% to Quality of all Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,11 +1,9 @@
-# Smash and Grab
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Smash and Grab.png]]
 
-## Description
+# Flavour Text
 An army won't notice their supplies have been raided until after the battle.
 
-## Details
+# Details
 - Limited to: 1
 - 2% increased Maps found in your Maps
 - Each Legion in your Maps contains an additional War Hoard
@@ -14,9 +12,9 @@ An army won't notice their supplies have been raided until after the battle.
 - Unmodifiable
 - Place this item into the Idol inventory at a Map Device to affect Maps you open. Idols are not consumed when opening Maps.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

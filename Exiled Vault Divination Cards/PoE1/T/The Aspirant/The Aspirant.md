@@ -1,19 +1,17 @@
-# The Aspirant
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Aspirant.png]]
 
-## Description
+# Flavour Text
 Those Exiles that survive Wraeclast
 dream not of home, but of power.
 
-## Reward
+# Reward
 Item
 Elevated Item
 Influenced Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Night/Dream
 #Concept/Exile
 #Concept/Home

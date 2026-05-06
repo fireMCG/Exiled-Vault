@@ -1,12 +1,10 @@
-# Replica Duskdawn
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Duskdawn.png]]
 
-## Description
+# Flavour Text
 "Lab Two suffered significant structural damage in the process of creating
 Prototype #77. It is, however, the closest we've come to perfection."
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 71-147
 - Critical Strike Chance: (11.34-12.15)%
@@ -21,9 +19,9 @@ Prototype #77. It is, however, the closest we've come to perfection."
 - +60% to Critical Strike Multiplier if you've dealt a Non-Critical Strike Recently
 - (120-150)% increased Elemental Damage if you've dealt a Critical Strike Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Balance
 #Concept/Time/Dawn

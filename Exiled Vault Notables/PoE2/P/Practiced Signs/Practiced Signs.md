@@ -1,10 +1,8 @@
-# Practiced Signs
-
-## Effects
+# Effects
 6% increased Cast Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

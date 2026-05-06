@@ -1,13 +1,11 @@
-# Trolltimber Spire
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Trolltimber Spire.png]]
 
-## Description
+# Flavour Text
 The problem with working fresh trolltimber:
 by the time you've carved out one end,
 the other has sprouted fresh roots!
 
-## Details
+# Details
 - Chance to Block: 25%
 - Armour: (216-282)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ the other has sprouted fresh roots!
 - 15% increased Area of Effect for Skills used by Totems
 - 0.5% of Damage dealt by your Totems is Leeched to you as Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,10 +1,8 @@
-# Frozen Claw
-
-## Effects
+# Effects
 Gain 8% of Damage as Extra Cold Damage while Shapeshifted
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

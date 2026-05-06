@@ -1,12 +1,10 @@
-# Hale Negator (2 Abyssal Sockets)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hale Negator (2 Abyssal Sockets).png]]
 
-## Description
+# Flavour Text
 "Feel the pain of ancient wounds.
 Feel the doom of dying souls."
 
-## Details
+# Details
 - Energy Shield: (73-84)
 - Requires Level 65, 138 Int
 - Has 2 Abyssal Sockets
@@ -17,9 +15,9 @@ Feel the doom of dying souls."
 - Recover (2-3)% of Life when you lose a Spirit Charge
 - Recover (2-3)% of Energy Shield when you lose a Spirit Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

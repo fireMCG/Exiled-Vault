@@ -1,11 +1,9 @@
-# Flow State
-
-## Effects
+# Effects
 5% increased Skill Speed
 15% increased Mana Regeneration Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

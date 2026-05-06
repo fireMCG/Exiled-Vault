@@ -1,13 +1,11 @@
-# Sepulchre
-
-## Description
+# Flavour Text
 Lives come and go.
 
 Only bones and dust remain.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

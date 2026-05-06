@@ -1,10 +1,8 @@
-# Invigorating Grandeur
-
-## Effects
+# Effects
 Recover 1% of maximum Life per Glory consumed
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

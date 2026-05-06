@@ -1,13 +1,11 @@
-# Razor of the Seventh Sun
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Razor of the Seventh Sun.png]]
 
-## Description
+# Flavour Text
 Quickly cooled the steel,
 but never could it forget
 the heat of the forge.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (125-145) to (244-269)
 - Critical Strike Chance: 5.00%
@@ -22,9 +20,9 @@ the heat of the forge.
 - Recover 1% of Life when you Ignite an Enemy
 - 100% increased Melee Physical Damage against Ignited Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

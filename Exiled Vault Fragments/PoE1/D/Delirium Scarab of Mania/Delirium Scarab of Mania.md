@@ -1,12 +1,10 @@
-# Delirium Scarab of Mania
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Delirium Scarab of Mania.webp]]
 
-## Description
+# Flavour Text
 They're so loud! Why are they so loud?!
 All you can do is scream!
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -16,9 +14,9 @@ Delirium in Area increases 50% faster with distance from the mirror
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Delirium
 #Category/Scarab
 #Fragment

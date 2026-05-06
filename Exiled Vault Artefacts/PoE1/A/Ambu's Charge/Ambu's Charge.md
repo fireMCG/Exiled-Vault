@@ -1,11 +1,9 @@
-# Ambu's Charge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ambu's Charge.png]]
 
-## Description
+# Flavour Text
 Nothing stops the pain like a courageous rush into battle.
 
-## Details
+# Details
 - Armour: (663-851)
 - Energy Shield: (140-176)
 - Movement Speed: -5%
@@ -16,9 +14,9 @@ Nothing stops the pain like a courageous rush into battle.
 - Gain up to maximum Endurance Charges when you take a Critical Strike
 - Your nearby party members maximum Endurance Charges is equal to yours
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

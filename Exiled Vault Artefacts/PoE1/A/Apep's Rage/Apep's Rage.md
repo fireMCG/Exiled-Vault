@@ -1,12 +1,10 @@
-# Apep's Rage
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Apep's Rage.png]]
 
-## Description
+# Flavour Text
 Apep's poison entraps, encircles,
 and engulfs the leaking mind of Man.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 24-45
 - Critical Strike Chance: 8.70%
@@ -19,9 +17,9 @@ and engulfs the leaking mind of Man.
 - Lose 40 Mana when you use a Skill
 - Poisons you inflict deal Damage (30-50)% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/God/Apep
 #Concept/Mind

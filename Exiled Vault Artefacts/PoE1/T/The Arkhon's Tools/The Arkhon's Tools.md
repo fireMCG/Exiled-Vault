@@ -1,13 +1,11 @@
-# The Arkhon's Tools
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Arkhon's Tools.png]]
 
-## Description
+# Flavour Text
 Motion, purpose... craft. The fruits of my mind laboured
 to build my wildest imaginings, never tiring, never faltering.
 Life... or something like it, engineered in its image.
 
-## Details
+# Details
 - Requires Level 16
 - (15-25)% increased Stun and Block Recovery
 - +(20-30) to Dexterity and Intelligence
@@ -17,9 +15,9 @@ Life... or something like it, engineered in its image.
 - Summoned Skitterbots' Auras affect you as well as Enemies
 - (50-75)% increased Effect of Non-Damaging Ailments inflicted by Summoned Skitterbots
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

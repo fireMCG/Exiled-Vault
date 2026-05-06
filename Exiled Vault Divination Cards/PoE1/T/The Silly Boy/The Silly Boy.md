@@ -1,18 +1,16 @@
-# The Silly Boy
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Silly Boy.png]]
 
-## Description
+# Flavour Text
 From silly pondering
 comes legend,
 and from legend,
 horned fortune
 
-## Reward
+# Reward
 6x Horned Scarab
 
-##
+#
 ---
-## Tags
+# Tags
 #DivinationCard
 #PoE1

@@ -1,11 +1,9 @@
-# Cloak of Flame
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cloak of Flame.png]]
 
-## Description
+# Flavour Text
 He who sows an ember shall reap an inferno.
 
-## Details
+# Details
 - Energy Shield: (43-53)
 - Movement Speed: -3%
 - Requires Level 18, 55 Int
@@ -14,9 +12,9 @@ He who sows an ember shall reap an inferno.
 - Reflects 100 Fire Damage to Melee Attackers
 - 40% of Physical Damage taken as Fire Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

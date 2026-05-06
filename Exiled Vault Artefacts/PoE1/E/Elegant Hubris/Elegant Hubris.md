@@ -1,11 +1,9 @@
-# Elegant Hubris
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Elegant Hubris.png]]
 
-## Description
+# Flavour Text
 They believed themselves better than the past, but that confidence brought about nightmare.
 
-## Details
+# Details
 - Limited to: 1 Historic
 - Radius: Large
 - Commissioned (2000-160000) coins to commemorate
@@ -13,9 +11,9 @@ They believed themselves better than the past, but that confidence brought about
 - Historic
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

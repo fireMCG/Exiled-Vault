@@ -1,12 +1,10 @@
-# The Primordial Chain
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Primordial Chain.png]]
 
-## Description
+# Flavour Text
 The leash of the lifegiver
 binds in both directions.
 
-## Details
+# Details
 - Requires Level 34
 - Regenerate (2-4) Life per second
 - +3 to maximum number of Summoned Golems
@@ -17,9 +15,9 @@ binds in both directions.
 - Golems have (80-100)% increased Movement Speed
 - Primordial
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

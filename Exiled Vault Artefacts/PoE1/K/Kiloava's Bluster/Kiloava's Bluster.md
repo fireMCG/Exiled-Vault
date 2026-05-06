@@ -1,11 +1,9 @@
-# Kiloava's Bluster
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kiloava's Bluster.png]]
 
-## Description
+# Flavour Text
 Not even the storm knows when lightning will strike.
 
-## Details
+# Details
 - Chance to Block: (29-34)%
 - Evasion: (654-962)
 - Movement Speed: -3%
@@ -16,9 +14,9 @@ Not even the storm knows when lightning will strike.
 - +(3-8)% Chance to Block
 - (30-40)% chance for Elemental Resistances to count as being 90% against Enemy Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# The Grey Spire
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Grey Spire.png]]
 
-## Description
+# Flavour Text
 There was never a simpler time.
 Just simpler motivations.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 73-136
 - Critical Strike Chance: 8.00%
@@ -19,9 +17,9 @@ Just simpler motivations.
 - (20-30)% increased Attack Speed
 - +(1-4)% to all maximum Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

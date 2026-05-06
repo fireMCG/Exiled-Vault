@@ -1,11 +1,9 @@
-# The Cauteriser
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Cauteriser.png]]
 
-## Description
+# Flavour Text
 A burned branch leaks sap no more.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (97.2-128) to (214.2-258)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ A burned branch leaks sap no more.
 - Gain 70% of Physical Damage as Extra Fire Damage
 - Culling Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Sandstorm Visage
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Sandstorm Visage.png]]
 
-## Description
+# Flavour Text
 A fell wind brings death.
 
-## Details
+# Details
 - Energy Shield: (165-224)
 - Requires Level 54, 112 Int
 - (8-10)% increased Cast Speed
@@ -14,9 +12,9 @@ A fell wind brings death.
 - Base Spell Critical Strike Chance of Spells is equal to that of Main Hand Weapon
 - Cannot deal Critical Strikes with Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

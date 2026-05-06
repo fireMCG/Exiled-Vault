@@ -1,15 +1,13 @@
-# Jiquani's Machinarium
-
-## Description
+# Flavour Text
 Stone men move in the dark.
 
-## Connected Areas
+# Connected Areas
 - Chimeral Wetlands
 - Jiquani's Sanctum
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

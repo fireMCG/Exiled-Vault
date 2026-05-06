@@ -1,10 +1,8 @@
-# Heavy Contact
-
-## Effects
+# Effects
 Hits that Heavy Stun Enemies have Culling Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# The Infested
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Infested.png]]
 
-## Description
+# Flavour Text
 Mechanisms gone awry, circuitry in flux.
 This experiment became something truly perverse.
 
-## Details
+# Details
 - Duration: 50 seconds
 - Empowers: 85 enemies
 - Empowerment: 34
@@ -15,9 +13,9 @@ This experiment became something truly perverse.
 - Spawns Worms
 - Unmodifiable
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Hastening Barrier
-
-## Effects
+# Effects
 5% increased Cast Speed
 10% increased Cast Speed when on Full Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

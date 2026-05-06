@@ -1,11 +1,9 @@
-# Steelworm
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Steelworm.png]]
 
-## Description
+# Flavour Text
 The dance of metal and flesh never ends.
 
-## Details
+# Details
 - Requires Level 52
 - (8-10)% increased Attack Speed
 - Grants Call of Steel
@@ -15,9 +13,9 @@ The dance of metal and flesh never ends.
 - Skills Fire 3 additional Projectiles for 4 seconds after
 - you consume a total of 8 Steel Shards
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

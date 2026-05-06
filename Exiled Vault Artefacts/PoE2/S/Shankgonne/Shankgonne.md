@@ -1,13 +1,11 @@
-# Shankgonne
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Shankgonne.png]]
 
-## Description
+# Flavour Text
 "Captain Hiff Greybeard accomplished what nary a Brinerot
 could: he died of old age. Almost had him a dozen times
 meself, if it weren't for that damn leg of his... crafty shite..."
 
-## Details
+# Details
 - Armour: (131-146)
 - Evasion: (117-130)
 - Requires Level 46, 34 Str, 34 Dex
@@ -20,9 +18,9 @@ meself, if it weren't for that damn leg of his... crafty shite..."
 - You cannot Sprint
 - Cannon Ball Footsteps (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

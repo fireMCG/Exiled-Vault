@@ -1,19 +1,17 @@
-# The Vast Horizon
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Vast Horizon.png]]
 
-## Description
+# Flavour Text
 "Where once a mountain stood there was now but fields and dust.
 One by one, the stones were moved and placed with intention,
 the consequences borne by the destination and the origin."
 
-## Details
+# Details
 - 15 uses remaining
 - Socket this into a Citadel on your Atlas to increase the Tier of Maps and reveal hidden Maps in that Citadel's Region. You can only socket one Crimson, Viridian, Cobalt or Golden Watchstone into each Citadel.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

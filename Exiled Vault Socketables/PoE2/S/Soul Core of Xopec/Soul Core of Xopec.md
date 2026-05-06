@@ -1,16 +1,14 @@
-# Soul Core of Xopec
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Soul Core of Xopec.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 
-## Effects
+# Effects
 - Martial Weapon: 30% increased chance to Shock
 - Boots: +1% to Maximum Lightning Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

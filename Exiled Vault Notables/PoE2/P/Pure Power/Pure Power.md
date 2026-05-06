@@ -1,10 +1,8 @@
-# Pure Power
-
-## Effects
+# Effects
 10% more Maximum Lightning Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

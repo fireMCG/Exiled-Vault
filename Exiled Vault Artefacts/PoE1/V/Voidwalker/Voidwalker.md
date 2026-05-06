@@ -1,12 +1,10 @@
-# Voidwalker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Voidwalker.png]]
 
-## Description
+# Flavour Text
 Step into the void
 and experience true freedom.
 
-## Details
+# Details
 - Evasion: (444-596)
 - Energy Shield: (43-58)
 - Requires Level 69, 82 Dex, 42 Int
@@ -18,9 +16,9 @@ and experience true freedom.
 - Projectiles Pierce 5 additional Targets while you have Phasing
 - Celestial Footprints
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

@@ -1,11 +1,9 @@
-# The Copper Citadel
-
-## Description
+# Flavour Text
 A heart of corruption, borne of copper.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

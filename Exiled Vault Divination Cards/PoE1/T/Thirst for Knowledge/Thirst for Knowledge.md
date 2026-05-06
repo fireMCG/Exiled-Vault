@@ -1,17 +1,15 @@
-# Thirst for Knowledge
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Thirst for Knowledge.png]]
 
-## Description
+# Flavour Text
 A ravenous mind can readily take in ideas from any source. 
 Fortunately for the scholars, he has already learned about sustainability.
 
-## Reward
+# Reward
 Gluttony
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Hunger
 #Category/DivinationCard
 #DivinationCard

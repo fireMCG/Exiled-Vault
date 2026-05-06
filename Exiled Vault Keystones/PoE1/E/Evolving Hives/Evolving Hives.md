@@ -1,13 +1,11 @@
-# Evolving Hives
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Evolving Hives.webp]]
 
-## Effects
+# Effects
 Breaches in your Maps spawn 25% increased Magic Monsters
 Breaches in your Maps spawn 25% increased Rare Monsters
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

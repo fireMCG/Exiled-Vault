@@ -1,12 +1,10 @@
-# Goblinedge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Goblinedge.png]]
 
-## Description
+# Flavour Text
 "That bronze girl sure knows how to cut someone down to size!"
 – Bertrand the Plush
 
-## Details
+# Details
 - Dagger
 - Physical Damage: (57-66.5) to (222-259)
 - Critical Strike Chance: 8.30%
@@ -21,9 +19,9 @@
 - Gain (120-150) Life on Culling Strike
 - Gain (10-20) Mana on Culling Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

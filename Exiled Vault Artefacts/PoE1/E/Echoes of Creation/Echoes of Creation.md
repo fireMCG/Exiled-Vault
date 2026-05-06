@@ -1,13 +1,11 @@
-# Echoes of Creation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Echoes of Creation.png]]
 
-## Description
+# Flavour Text
 A cacophony of battle cries
 Reverberate through time and space
 Inflicting pain beyond measure
 
-## Details
+# Details
 - Armour: (678-954)
 - Requires Level 65, 148 Str
 - Socketed Warcry Skills have +1 Cooldown Use
@@ -17,9 +15,9 @@ Inflicting pain beyond measure
 - each Warcry Exerting the Attack
 - Skills deal (10-15)% more Damage for each Warcry Exerting them
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

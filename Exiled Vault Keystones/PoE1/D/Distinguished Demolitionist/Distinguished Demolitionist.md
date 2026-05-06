@@ -1,13 +1,11 @@
-# Distinguished Demolitionist
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Distinguished Demolitionist.webp]]
 
-## Effects
+# Effects
 35% increased Explosive Radius in your Maps
 20% increased number of Explosives in your Maps
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

@@ -1,13 +1,11 @@
-# Verisium
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Verisium.png]]
 
-## Description
+# Flavour Text
 A shooting star may bring great fortune.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #Society/Kalguur
 #QuestItem

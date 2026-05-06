@@ -1,12 +1,10 @@
-# Severed in Sleep
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Severed in Sleep.png]]
 
-## Description
+# Flavour Text
 His lucky thralls dream eternal,
 but we must crawl on our own.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: 13-53
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ but we must crawl on our own.
 - Minions have 60% chance to inflict Withered on Hit
 - Minions have +5% to Critical Strike Multiplier per Withered Debuff on Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

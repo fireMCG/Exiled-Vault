@@ -1,16 +1,14 @@
-# Judging Voices
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Judging Voices.png]]
 
-## Description
+# Flavour Text
 He was seeking sanity, but the demons were inside his head.
 
-## Reward
+# Reward
 Forbidden Shako
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Demon
 #Concept/Mind
 #Concept/Within

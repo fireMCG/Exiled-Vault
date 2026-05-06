@@ -1,11 +1,9 @@
-# High Alert
-
-## Effects
+# Effects
 50% increased Evasion Rating when on Full Life
 25% increased Stun Threshold while on Full Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

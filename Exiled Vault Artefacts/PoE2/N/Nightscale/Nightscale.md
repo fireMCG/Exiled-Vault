@@ -1,11 +1,9 @@
-# Nightscale
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Nightscale.png]]
 
-## Description
+# Flavour Text
 Diamora sings not for hunger, but for longing.
 
-## Details
+# Details
 - Energy Shield: (51-64)
 - Requires Level 45, 56 Int
 - (60-100)% increased Energy Shield
@@ -15,9 +13,9 @@ Diamora sings not for hunger, but for longing.
 - 150% increased Mana Regeneration Rate if you've dealt a Critical Hit Recently
 - Cannot Regenerate Mana if you haven't dealt a Critical Hit Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

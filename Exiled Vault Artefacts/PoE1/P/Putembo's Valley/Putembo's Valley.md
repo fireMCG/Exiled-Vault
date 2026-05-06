@@ -1,14 +1,12 @@
-# Putembo's Valley
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Putembo's Valley.png]]
 
-## Description
+# Flavour Text
 With no stone for rebuilding, each storm took its toll on the village.
 Huts eventually collapsed, their occupants injured or dead.
 Bodies were left by the river, to appease the gods.
 But the dead would not remain there.
 
-## Details
+# Details
 - Requires Level 49
 - +(20-30)% to Lightning Resistance
 - +20 to Intelligence
@@ -16,9 +14,9 @@ But the dead would not remain there.
 - 5% increased maximum Life
 - This item can be combined with a Meadow and Mountain ring at a Vendor.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Attributes/Timeline
 #Artefact

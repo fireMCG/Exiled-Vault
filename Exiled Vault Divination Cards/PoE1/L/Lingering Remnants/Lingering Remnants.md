@@ -1,19 +1,17 @@
-# Lingering Remnants
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Lingering Remnants.png]]
 
-## Description
+# Flavour Text
 Never dying, yet not living,
 Endlessly they wander
 beneath the harvest moon.
 
-## Reward
+# Reward
 Vaal Temple Map
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Eclipse
 #Concept/Nature/Harvest
 #Concept/Moon

@@ -1,17 +1,15 @@
-# Justified Ambition
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Justified Ambition.png]]
 
-## Description
+# Flavour Text
 "Everything I have done has been for Wraeclast. You would pledge your life to me if you saw things my way... and soon, you will."
 - High Templar Venarius
 
-## Reward
+# Reward
 Synthesis Map
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/HighTemplar/Venarius
 #Concept/Virtue/Ambition
 #Category/DivinationCard

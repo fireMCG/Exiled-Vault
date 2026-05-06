@@ -1,12 +1,10 @@
-# Uul-Netol's Embrace
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Uul-Netol's Embrace.png]]
 
-## Description
+# Flavour Text
 At last she holds us,
 and so we turn to dust.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (395.2-436.8) to (661.2-730.8)
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ and so we turn to dust.
 - (30-25)% reduced Attack Speed
 - 25% chance to cause Bleeding on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,14 +1,12 @@
-# Tidebreaker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Tidebreaker.png]]
 
-## Description
+# Flavour Text
 The sea strikes the rock relentlessly.
 Whether in one day or in ten thousand years,
 eventually the rock will crumble,
 and the Brine King's domain will grow.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (172-182) to (493-528)
 - Critical Strike Chance: 5.00%
@@ -22,9 +20,9 @@ and the Brine King's domain will grow.
 - 10% increased Physical Damage per Endurance Charge
 - (20-30)% reduced Enemy Stun Threshold with this Weapon
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

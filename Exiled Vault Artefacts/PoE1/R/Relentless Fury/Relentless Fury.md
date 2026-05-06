@@ -1,13 +1,11 @@
-# Relentless Fury
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Relentless Fury.png]]
 
-## Description
+# Flavour Text
 Relentless fury
 Sunder my every foe
 Fuel my boiling blood
 
-## Details
+# Details
 - One Handed Axe
 - Physical Damage: (48-57.6) to (91.2-108)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ Fuel my boiling blood
 - You gain Onslaught for 3 seconds on Culling Strike
 - 100% chance to Avoid being Chilled during Onslaught
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,17 +1,15 @@
-# The Cataclysm
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Cataclysm.png]]
 
-## Description
+# Flavour Text
 The mighty warriors traded in blows, the nimble archers in arrows, yet it was the brazen thaumaturgists who would bring catastrophe to all.
 
-## Reward
+# Reward
 Level 21 Spell Gem
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Cataclysm
 #Concept/Element/Fire
 #Concept/Element/Lightning

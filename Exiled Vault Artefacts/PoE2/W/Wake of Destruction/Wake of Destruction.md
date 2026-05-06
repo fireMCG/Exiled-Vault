@@ -1,12 +1,10 @@
-# Wake of Destruction
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Wake of Destruction.png]]
 
-## Description
+# Flavour Text
 Tempest's power given form,
 Flee before the walking storm.
 
-## Details
+# Details
 - Armour: (42-52)
 - Energy Shield: (18-22)
 - Requires Level 16, 14 Str, 14 Int
@@ -15,9 +13,9 @@ Flee before the walking storm.
 - Adds 1 to (30-50) Lightning damage to Attacks
 - Drop Shocked Ground while moving, lasting 8 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Storm
 #Artefact

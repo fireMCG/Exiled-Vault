@@ -1,20 +1,18 @@
-# Bear Idol
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Bear Idol.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 
-## Effects
+# Effects
 - Helmets: 8% increased Area of Effect
 - Sceptres: Allies in your Presence deal 12 to 18 added Attack Physical Damage
 
-## Bonded Effects
+# Bonded Effects
 - Helmets: 10% increased Reservation Efficiency of Companion Skills
 - Sceptres: 40% increased Attack Damage while Shapeshifted
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

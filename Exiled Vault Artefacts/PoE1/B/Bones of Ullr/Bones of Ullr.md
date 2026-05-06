@@ -1,12 +1,10 @@
-# Bones of Ullr
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bones of Ullr.png]]
 
-## Description
+# Flavour Text
 The dead man walks where
 the living fear to tread.
 
-## Details
+# Details
 - Energy Shield: (23-33)
 - Requires Level 22, 42 Int
 - (40-60)% increased Energy Shield
@@ -16,9 +14,9 @@ the living fear to tread.
 - +1 to Level of all Raise Zombie Gems
 - +1 to Level of all Raise Spectre Gems
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

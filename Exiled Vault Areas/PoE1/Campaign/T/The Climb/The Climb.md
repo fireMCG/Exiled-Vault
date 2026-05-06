@@ -1,15 +1,13 @@
-# The Climb
-
-## Description
+# Flavour Text
 The cliffs glower down like judges in session.
 
-## Connected Areas
+# Connected Areas
 - The Ledge
 - The Lower Prison
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

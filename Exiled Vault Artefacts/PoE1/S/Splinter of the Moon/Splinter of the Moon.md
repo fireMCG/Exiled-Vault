@@ -1,12 +1,10 @@
-# Splinter of the Moon
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Splinter of the Moon.png]]
 
-## Description
+# Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 5-9
 - Critical Strike Chance: 8.30%
@@ -17,9 +15,9 @@ So goes the descent.
 - Regenerate 2 Mana per second
 - 4% chance to Freeze, Shock and Ignite
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

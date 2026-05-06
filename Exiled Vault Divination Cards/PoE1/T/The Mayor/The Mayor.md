@@ -1,17 +1,15 @@
-# The Mayor
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Mayor.png]]
 
-## Description
+# Flavour Text
 A ruler is only as powerful as he is wealthy. 
 Control the coin, control the empire.
 
-## Reward
+# Reward
 The Light of Meaning
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

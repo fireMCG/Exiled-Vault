@@ -1,13 +1,11 @@
-# Carcass Jack
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Carcass Jack.png]]
 
-## Description
+# Flavour Text
 "...The discomfort shown by the others is amusing, but none
 can deny that my work has made quite the splash..."
 - Maligaro's Journal
 
-## Details
+# Details
 - Evasion: (851-1085)
 - Energy Shield: (173-222)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ can deny that my work has made quite the splash..."
 - (40-50)% increased Area Damage
 - Extra gore
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

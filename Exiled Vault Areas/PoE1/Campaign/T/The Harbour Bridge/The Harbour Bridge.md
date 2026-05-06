@@ -1,16 +1,14 @@
-# The Harbour Bridge
-
-## Description
+# Flavour Text
 A dark unrest sends ribbons to war.
 
-## Connected Areas
+# Connected Areas
 - The Lunaris Concourse
 - The Solaris Concourse
 - The Blood Aqueduct
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

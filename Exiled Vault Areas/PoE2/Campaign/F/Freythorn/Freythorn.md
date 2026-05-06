@@ -1,14 +1,12 @@
-# Freythorn
-
-## Description
+# Flavour Text
 Insanity's roost welcomes new guests for dinner.
 
-## Connected Areas
+# Connected Areas
 - Hunting Grounds
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

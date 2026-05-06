@@ -1,12 +1,10 @@
-# Replica Rumi's Concoction
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Rumi's Concoction.png]]
 
-## Description
+# Flavour Text
 "The most terrifying split second of my life."
 - Researcher Graven
 
-## Details
+# Details
 - Lasts 0.60 Seconds
 - Consumes 30 of 60 Charges on use
 - +1500 to Armour
@@ -18,9 +16,9 @@
 - 90% reduced Duration
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Graven
 #Artefact

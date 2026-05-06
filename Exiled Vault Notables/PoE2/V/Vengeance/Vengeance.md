@@ -1,10 +1,8 @@
-# Vengeance
-
-## Effects
+# Effects
 10% of Thorns Damage Leeched as Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

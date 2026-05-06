@@ -1,14 +1,12 @@
-# Enoch's Tags
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Enoch's Tags.png]]
 
-## Description
+# Flavour Text
 Enoch deserved better. 
 This is the least I can do.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE1

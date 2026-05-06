@@ -1,10 +1,8 @@
-# Echoing Frost
-
-## Effects
+# Effects
 30% increased Elemental Damage if you've Chilled an Enemy Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

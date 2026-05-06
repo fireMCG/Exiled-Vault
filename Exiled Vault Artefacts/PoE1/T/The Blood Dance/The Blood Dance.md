@@ -1,14 +1,12 @@
-# The Blood Dance
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Blood Dance.png]]
 
-## Description
+# Flavour Text
 "Sharks thrash and swirl
 To the pounding drum of their frenzied hearts
 As they dance in the waters red."
 -Lavianga, Guardian of the Karui Way
 
-## Details
+# Details
 - Evasion: (145-171)
 - Requires Level 44, 79 Dex
 - +(30-40) to Dexterity
@@ -20,9 +18,9 @@ As they dance in the waters red."
 - (20-30)% increased Damage per Frenzy Charge with Hits against Enemies on Low Life
 - Gore Footprints
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

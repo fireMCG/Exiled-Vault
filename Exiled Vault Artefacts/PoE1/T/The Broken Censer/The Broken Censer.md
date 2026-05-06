@@ -1,13 +1,11 @@
-# The Broken Censer
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Broken Censer.png]]
 
-## Description
+# Flavour Text
 "His followers were too small in number to spark divinity, so he turned to a greater
 power: hatred. He vilified his brother, sparking zealotry, and the change finally began."
 - Lycia, the Heretic
 
-## Details
+# Details
 - Requires Level 64
 - The Herald of the Scourge drops 2 additional Forbidden Tomes
 - Rooms are unknown on the Sanctum Map
@@ -16,9 +14,9 @@ power: hatred. He vilified his brother, sparking zealotry, and the change finall
 - Unmodifiable
 - Place this item on the Relic Altar at the start of each Sanctum run
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

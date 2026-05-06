@@ -1,12 +1,10 @@
-# Perepiteia
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Perepiteia.png]]
 
-## Description
+# Flavour Text
 Something within the machine never stops moving,
 but Oriathan scholars dare not open it to find out why.
 
-## Details
+# Details
 - Chance to Block: 25%
 - Evasion: (724-1045)
 - Energy Shield: (148-215)
@@ -20,9 +18,9 @@ but Oriathan scholars dare not open it to find out why.
 - +(1-75) to maximum Mana
 - (1-20)% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

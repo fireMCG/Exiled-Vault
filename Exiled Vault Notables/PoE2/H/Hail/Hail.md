@@ -1,10 +1,8 @@
-# Hail
-
-## Effects
+# Effects
 Empowered Attacks Gain 16% of Damage as Extra Cold Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

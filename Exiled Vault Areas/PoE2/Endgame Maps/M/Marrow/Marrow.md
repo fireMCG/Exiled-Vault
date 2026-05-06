@@ -1,11 +1,9 @@
-# Marrow
-
-## Description
+# Flavour Text
 Darkness enshrouds these endless chasms.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

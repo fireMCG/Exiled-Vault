@@ -1,12 +1,10 @@
-# Daresso's Courage
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Daresso's Courage.png]]
 
-## Description
+# Flavour Text
 By tourney's end, Daresso bled and shivered.
 Yet even accursed treachery failed to steal the champion's victory.
 
-## Details
+# Details
 - Chance to Block: 25%
 - Armour: (366-490)
 - Evasion: (366-490)
@@ -19,9 +17,9 @@ Yet even accursed treachery failed to steal the champion's victory.
 - +100% Chance to Block Attack Damage if you have Blocked Spell Damage Recently
 - +100% chance to Block Spell Damage if you have Blocked Attack Damage Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

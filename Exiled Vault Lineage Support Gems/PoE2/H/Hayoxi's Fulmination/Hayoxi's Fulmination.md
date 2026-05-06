@@ -1,13 +1,11 @@
-# Hayoxi's Fulmination
-
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Hayoxi's Fulmination.webp]]
 
-## Description
+# Flavour Text
 The Architect of Destruction slipped explosive powder
 under the royal temple one pinch at a time. For years,
 he clung to that, never finding the courage to light it.
 
-## Effects
+# Effects
 Supported Skills create Cursed Ground
 Enemies on the Cursed Ground from a Supported Skill are Cursed while within it
 Maximum 2 areas of Cursed Ground
@@ -20,9 +18,9 @@ Mana: 100%
 CooldownTime: 2000
 Supported Skills create Cursed Ground\nEnemies on the Cursed Ground from a Supported Skill are Cursed while within it
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Hayoxi
 #Category/Lineage
 #Society/VaalEmpire/Architects

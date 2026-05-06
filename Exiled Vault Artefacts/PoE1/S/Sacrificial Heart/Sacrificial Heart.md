@@ -1,11 +1,9 @@
-# Sacrificial Heart
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Sacrificial Heart.png]]
 
-## Description
+# Flavour Text
 The seed of life, saved and savoured.
 
-## Details
+# Details
 - Requires Level 32
 - (20-30)% increased Mana Regeneration Rate
 - Adds (22-27) to (34-38) Fire Damage
@@ -15,9 +13,9 @@ The seed of life, saved and savoured.
 - Gain 10 Life per Enemy Hit if you have used a Vaal Skill Recently
 - 10% increased Movement Speed if you have used a Vaal Skill Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

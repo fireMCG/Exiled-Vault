@@ -1,13 +1,11 @@
-# Bitterdream
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bitterdream.png]]
 
-## Description
+# Flavour Text
 Fight not the cold
 Forsake hope
 Be still.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 29-44
 - Critical Strike Chance: 7.30%
@@ -22,9 +20,9 @@ Be still.
 - Socketed Gems are Supported by Level 15 Added Cold Damage
 - Socketed Gems are Supported by Level 15 Inspiration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

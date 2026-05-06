@@ -1,17 +1,15 @@
-# Curio of Consumption
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Curio of Consumption.png]]
 
-## Description
+# Flavour Text
 When hunger can never be satiated, the
 act of eating becomes the only solace.
 
-## Details
+# Details
 - This item will transform when correctly arranged with other items.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/EaterOfWorlds
 #Concept/Hunger

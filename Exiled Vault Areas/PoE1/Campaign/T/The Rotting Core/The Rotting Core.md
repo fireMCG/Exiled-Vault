@@ -1,15 +1,13 @@
-# The Rotting Core
-
-## Description
+# Flavour Text
 The putrid interior oozes and spoils.
 
-## Connected Areas
+# Connected Areas
 - The Belly of the Beast
 - Oriath Docks
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

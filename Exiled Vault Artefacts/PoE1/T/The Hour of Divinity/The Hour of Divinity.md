@@ -1,13 +1,11 @@
-# The Hour of Divinity
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Hour of Divinity.png]]
 
-## Description
+# Flavour Text
 "They ascended together, one unwillingly. The vilified became black as coal, and the
 lauded, golden. After a lifetime of ambition, he finally had his heart's desire. It only
 cost him his brother." - Lycia, the Heretic
 
-## Details
+# Details
 - Requires Level 64
 - Duplicates up to 2 random Offer Rewards upon defeating the Herald of the Scourge
 - Cannot have Boons
@@ -15,9 +13,9 @@ cost him his brother." - Lycia, the Heretic
 - Unmodifiable
 - Place this item on the Relic Altar at the start of each Sanctum run
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

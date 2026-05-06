@@ -1,11 +1,9 @@
-# Profane Commander
-
-## Effects
+# Effects
 30% increased Presence Area of Effect
 4% increased Spirit
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

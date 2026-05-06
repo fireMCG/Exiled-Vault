@@ -1,12 +1,10 @@
-# Explosive Placement Distance
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Explosive Placement Distance.webp]]
 
-## Effects
+# Effects
 20% increased Explosive Placement Range in your Maps
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

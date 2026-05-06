@@ -1,11 +1,9 @@
-# Carrion Call
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Carrion Call.png]]
 
-## Description
+# Flavour Text
 Obedience stretches beyond the grave.
 
-## Details
+# Details
 - Focus
 - Energy Shield: (51-61)
 - Requires Level 16, 25 Int
@@ -15,9 +13,9 @@ Obedience stretches beyond the grave.
 - Minions deal (20-30)% increased Damage
 - Minions' Resistances are equal to yours
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

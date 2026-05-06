@@ -1,9 +1,7 @@
-# The Ardura Caravan
-
-## Description
+# Flavour Text
 Brutal restraint makes life in the desert possible.
 
-## Connected Areas
+# Connected Areas
 - Vastiri Outskirts
 - Traitor's Passage
 - Keth
@@ -17,10 +15,10 @@ Brutal restraint makes life in the desert possible.
 - The Halani Gates
 - Sandswept Marsh
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

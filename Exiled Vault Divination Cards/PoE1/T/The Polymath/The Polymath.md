@@ -1,16 +1,14 @@
-# The Polymath
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Polymath.png]]
 
-## Description
+# Flavour Text
 Genius knows no limits.
 
-## Reward
+# Reward
 Astramentis
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

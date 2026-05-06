@@ -1,16 +1,14 @@
-# Overseer's Tower
-
-## Description
+# Flavour Text
 Vengeance is the slave's ultimate reward.
 
-## Connected Areas
+# Connected Areas
 - The Slave Pens
 - The Control Blocks
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

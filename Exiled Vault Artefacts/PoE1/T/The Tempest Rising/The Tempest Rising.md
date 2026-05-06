@@ -1,12 +1,10 @@
-# The Tempest Rising
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Tempest Rising.png]]
 
-## Description
+# Flavour Text
 Where he tread, disintegrating storms of lightning
 and death laid waste to all around him.
 
-## Details
+# Details
 - Armour: (318-459)
 - Requires Level 54, 95 Str
 - (80-120)% increased Armour
@@ -15,9 +13,9 @@ and death laid waste to all around him.
 - Damaging Ailments deal damage (5-25)% faster
 - You and Enemies in your Presence count as moving while affected by Elemental Ailments
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

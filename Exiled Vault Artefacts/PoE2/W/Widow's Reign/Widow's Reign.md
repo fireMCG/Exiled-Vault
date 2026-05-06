@@ -1,13 +1,11 @@
-# Widow's Reign
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Widow's Reign.png]]
 
-## Description
+# Flavour Text
 That day, both the Unblinking Eye and
 their enemies stood in silence. That day,
 the sky was clear, but it was raining.
 
-## Details
+# Details
 - Armour: (296-370)
 - Evasion: (266-332)
 - Movement Speed: -4.0%
@@ -19,9 +17,9 @@ the sky was clear, but it was raining.
 - Life that would be lost by taking Damage is instead Reserved
 - until you take no Damage to Life for 3 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Body/Eye
 #Concept/Silence

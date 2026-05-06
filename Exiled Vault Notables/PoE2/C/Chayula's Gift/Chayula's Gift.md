@@ -1,13 +1,11 @@
-# Chayula's Gift
-
-## Effects
+# Effects
 +10% to Maximum Chaos Resistance
 Chaos Resistance is doubled
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Acolyte of Chayula
 #Monk
+#Notable
 #PoE2

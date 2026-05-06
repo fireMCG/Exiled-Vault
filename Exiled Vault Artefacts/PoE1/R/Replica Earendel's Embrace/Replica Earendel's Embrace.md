@@ -1,13 +1,11 @@
-# Replica Earendel's Embrace
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Earendel's Embrace.png]]
 
-## Description
+# Flavour Text
 "Lord of Bone, Lord of Flesh, yet all that we can
 master turns to ash."
 - Researcher Arn
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 24-36
 - Critical Strike Chance: 7.00%
@@ -21,9 +19,9 @@ master turns to ash."
 - Raised Zombies take (15-30)% of their Maximum Life per second as Fire Damage
 - Raised Zombies have Avatar of Fire
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Arn
 #Concept/Ash

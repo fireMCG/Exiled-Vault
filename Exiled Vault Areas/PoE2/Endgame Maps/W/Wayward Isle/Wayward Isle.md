@@ -1,11 +1,9 @@
-# Wayward Isle
-
-## Description
+# Flavour Text
 The bones of marooned wanderers assemble here.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

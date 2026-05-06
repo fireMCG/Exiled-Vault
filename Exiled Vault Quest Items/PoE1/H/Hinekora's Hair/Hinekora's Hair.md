@@ -1,14 +1,12 @@
-# Hinekora's Hair
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Hinekora's Hair.png]]
 
-## Description
+# Flavour Text
 What we steal in life we repay in death."
  - Karui Proverb
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/God/Hinekora
 #Concept/Life
 #Concept/Death

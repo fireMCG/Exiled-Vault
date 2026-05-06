@@ -1,13 +1,11 @@
-# Wildwrap
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Wildwrap.png]]
 
-## Description
+# Flavour Text
 "Laws are for city folk.
 Can't try a man for murder if you can't find him."
 - Taruk, Last of the Wildmen
 
-## Details
+# Details
 - Evasion: (698-827)
 - Movement Speed: -3%
 - Requires Level 57, 32 Dex
@@ -19,9 +17,9 @@ Can't try a man for murder if you can't find him."
 - 15% increased Dexterity
 - 1% increased Damage per 15 Dexterity
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

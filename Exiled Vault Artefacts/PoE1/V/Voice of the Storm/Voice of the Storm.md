@@ -1,12 +1,10 @@
-# Voice of the Storm
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Voice of the Storm.png]]
 
-## Description
+# Flavour Text
 When she of many mouths spoke,
 we bowed in awe and were crushed.
 
-## Details
+# Details
 - Requires Level 69
 - +(20-30) to Intelligence
 - 50% increased Lightning Damage
@@ -14,9 +12,9 @@ we bowed in awe and were crushed.
 - (10-20)% increased maximum Mana
 - Lightning Damage with Non-Critical Strikes is Lucky
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

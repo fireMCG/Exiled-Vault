@@ -1,12 +1,10 @@
-# Twisted Distant Memory
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Twisted Distant Memory.png]]
 
-## Description
+# Flavour Text
 Without our strict rule, man's destructive side would take hold.
 Our beautiful public spaces, our services for the ill and the needy, all of it would crumble.
 
-## Details
+# Details
 - Monster Level: 81
 - Item Quantity: +100%
 - Monster Pack Size: +25%
@@ -17,9 +15,9 @@ Our beautiful public spaces, our services for the ill and the needy, all of it w
 - Corrupted
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Carnage Heart
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Carnage Heart.png]]
 
-## Description
+# Flavour Text
 Forged from the blood of countless wars,
 its thirst has only begun.
 
-## Details
+# Details
 - Requires Level 20
 - +(10-16) to all Attributes
 - +(20-40) to all Attributes
@@ -15,9 +13,9 @@ its thirst has only begun.
 - 50% increased total Recovery per second from Life Leech
 - (30-40)% increased Damage while Leeching
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

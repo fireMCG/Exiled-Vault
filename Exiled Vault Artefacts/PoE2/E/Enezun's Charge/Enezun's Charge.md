@@ -1,11 +1,9 @@
-# Enezun's Charge
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Enezun's Charge.png]]
 
-## Description
+# Flavour Text
 He alone was welcome in the sacred spaces of the Titans.
 
-## Details
+# Details
 - Wand
 - Requires Level 16
 - Grants Skill: Level (5-20) Volatile Dead
@@ -14,9 +12,9 @@ He alone was welcome in the sacred spaces of the Titans.
 - Gain (10-15) Mana per enemy killed
 - 25% chance to not destroy Corpses when Consuming Corpses
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Wide Barrier
-
-## Effects
+# Effects
 30% increased Block chance
 25% reduced Defences
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

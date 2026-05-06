@@ -1,11 +1,9 @@
-# Raw Mana
-
-## Effects
+# Effects
 8% increased maximum Mana
 10% increased Mana Cost of Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

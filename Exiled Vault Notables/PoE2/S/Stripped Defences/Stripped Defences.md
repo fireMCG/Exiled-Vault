@@ -1,10 +1,8 @@
-# Stripped Defences
-
-## Effects
+# Effects
 Exposure you inflict lowers Resistances by an additional 5%
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

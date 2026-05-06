@@ -1,14 +1,12 @@
-# The Flame of Hope
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Flame of Hope.png]]
 
-## Description
+# Flavour Text
 "So long as a single flame flickers, our akhara lives.
 And when there is nothing left to give to the fire,
 we shall burn the enemy for warmth!"
 - Varashta, the Winter Sekhema
 
-## Details
+# Details
 - Bow
 - Physical Damage: 61-92
 - Elemental Damage: (180-230) to (310-360)
@@ -23,8 +21,8 @@ we shall burn the enemy for warmth!"
 - 5 Cinderflame, applying -25% to Fire Resistance
 - Trigger Level 20 Cinders when Equipped
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE1

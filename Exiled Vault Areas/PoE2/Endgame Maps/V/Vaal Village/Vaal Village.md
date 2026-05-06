@@ -1,11 +1,9 @@
-# Vaal Village
-
-## Description
+# Flavour Text
 Vice wears a mask of simplicity.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE2

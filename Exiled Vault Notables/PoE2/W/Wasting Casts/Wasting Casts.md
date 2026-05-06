@@ -1,11 +1,9 @@
-# Wasting Casts
-
-## Effects
+# Effects
 25% increased Damage with Hits against Hindered Enemies
 15% chance to Hinder Enemies on Hit with Spells
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

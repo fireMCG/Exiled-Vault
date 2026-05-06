@@ -1,11 +1,9 @@
-# Ancient Skull
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ancient Skull.png]]
 
-## Description
+# Flavour Text
 Primordial rage slumbers, waiting for the call of the stars to return and swallow the world.
 
-## Details
+# Details
 - Armour: (492-681)
 - Energy Shield: (100-138)
 - Requires Level 73, 76 Str, 76 Int
@@ -16,9 +14,9 @@ Primordial rage slumbers, waiting for the call of the stars to return and swallo
 - Minions have 50% increased Critical Strike Chance per Maximum Power Charge you have
 - Minions can hear the whispers for 5 seconds after they deal a Critical Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Hunger
 #Concept/Primordial

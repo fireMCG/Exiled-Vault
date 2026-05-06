@@ -1,15 +1,13 @@
-# Maligaro's Lens
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Maligaro's Lens.png]]
 
-## Description
+# Flavour Text
 "Look around you. What do you see?
 Corruption, perversion, sin?
 No. It is progress.
 You simply lack the means to see it."
 - Inquisitor Maligaro
 
-## Details
+# Details
 - Chance to Block: 25%
 - Evasion: (122-144)
 - Energy Shield: (25-30)
@@ -22,9 +20,9 @@ You simply lack the means to see it."
 - 10% increased Area of Effect
 - Nearby allies Recover 1% of your Maximum Life when you Die
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

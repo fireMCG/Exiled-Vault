@@ -1,15 +1,13 @@
-# The Matlan Waterways
-
-## Description
+# Flavour Text
 When the end came, the nobles flooded the city to spite would-be looters.
 
-## Connected Areas
+# Connected Areas
 - Infested Barrens
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

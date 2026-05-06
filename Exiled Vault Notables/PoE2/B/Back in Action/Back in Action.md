@@ -1,10 +1,8 @@
-# Back in Action
-
-## Effects
+# Effects
 80% increased Stun Recovery
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

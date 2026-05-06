@@ -1,20 +1,18 @@
-# Burning Blood
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Burning Blood.png]]
 
-## Description
+# Flavour Text
 There's a place where up is down, 
 where right is wrong, 
 where pleasure is agony, 
 and where the living wish only for death.
 
-## Reward
+# Reward
 Xoph's Blood
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Breachlord/Xoph
 #Concept/Blood

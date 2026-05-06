@@ -1,13 +1,11 @@
-# Threaded Light
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Threaded Light.png]]
 
-## Description
+# Flavour Text
 A gift, a braid, of golden hair.
 The war, forgotten.
 The reason, remembered.
 
-## Details
+# Details
 - Focus
 - Energy Shield: (22-25)
 - Requires Level 6, 11 Int
@@ -16,9 +14,9 @@ The reason, remembered.
 - 20% increased Light Radius
 - (8-12)% increased Spell Damage per 10 Spirit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

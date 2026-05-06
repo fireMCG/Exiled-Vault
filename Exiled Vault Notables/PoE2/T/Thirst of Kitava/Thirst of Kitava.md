@@ -1,10 +1,8 @@
-# Thirst of Kitava
-
-## Effects
+# Effects
 Life Leeched from Empowered Attacks is Instant
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

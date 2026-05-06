@@ -1,13 +1,11 @@
-# The Caged Mammoth
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Caged Mammoth.png]]
 
-## Description
+# Flavour Text
 The Cyclops of Trarthus became the star
 of the Oriath Arena, but he was merely
 biding his time, waiting for his chance...
 
-## Details
+# Details
 - Armour: (232-338)
 - Requires Level 64, 58 Str
 - Adds (6-10) to (16-22) Physical Damage to Attacks
@@ -17,9 +15,9 @@ biding his time, waiting for his chance...
 - 5% less Damage taken per 5 Rage, up to a maximum of 30%
 - Maximum Rage is Halved
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

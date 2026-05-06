@@ -1,11 +1,9 @@
-# Pyre
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Pyre.png]]
 
-## Description
+# Flavour Text
 Let winter come. It will only make my fire burn brighter.
 
-## Details
+# Details
 - Requires Level 11
 - +(20-30)% to Cold Resistance
 - +(25-35)% to Fire Resistance
@@ -14,9 +12,9 @@ Let winter come. It will only make my fire burn brighter.
 - 10% increased Light Radius
 - Ignited Enemies Killed by your Hits are destroyed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

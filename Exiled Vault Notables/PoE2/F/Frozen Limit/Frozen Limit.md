@@ -1,10 +1,8 @@
-# Frozen Limit
-
-## Effects
+# Effects
 +1 to maximum Cold Infusions
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

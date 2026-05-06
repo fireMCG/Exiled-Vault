@@ -1,11 +1,9 @@
-# Oasis
-
-## Description
+# Flavour Text
 Hidden amongst sunbleached wastes lies a mockery of paradise.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

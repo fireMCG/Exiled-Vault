@@ -1,10 +1,8 @@
-# Paranoia
-
-## Effects
+# Effects
 50% increased Surrounded Area of Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

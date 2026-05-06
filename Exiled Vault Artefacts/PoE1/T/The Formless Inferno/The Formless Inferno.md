@@ -1,11 +1,9 @@
-# The Formless Inferno
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Formless Inferno.png]]
 
-## Description
+# Flavour Text
 He burns us to keep us from harm.
 
-## Details
+# Details
 - Armour: (377-434)
 - Requires Level 65, 148 Str
 - Socketed Gems are Supported by Level 30 Infernal Legion
@@ -13,9 +11,9 @@ He burns us to keep us from harm.
 - -30% to Fire Resistance
 - Minion Life is increased by their Overcapped Fire Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

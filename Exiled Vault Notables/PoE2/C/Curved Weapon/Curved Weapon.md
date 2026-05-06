@@ -1,11 +1,9 @@
-# Curved Weapon
-
-## Effects
+# Effects
 15% increased Accuracy Rating
 +10 to Dexterity
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

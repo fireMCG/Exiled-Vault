@@ -1,12 +1,10 @@
-# Replica Frostbreath
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Frostbreath.png]]
 
-## Description
+# Flavour Text
 "Three test subjects confirmed Prototype #495 creates an additional
 debilitating effect from poisons. This could be very useful."
 
-## Details
+# Details
 - One Handed Mace
 - Physical Damage: 53-67
 - Chaos Damage: (53-67) to (71-89)
@@ -21,9 +19,9 @@ debilitating effect from poisons. This could be very useful."
 - Your Chaos Damage can Chill
 - Attacks with this Weapon deal Double Damage to Chilled Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

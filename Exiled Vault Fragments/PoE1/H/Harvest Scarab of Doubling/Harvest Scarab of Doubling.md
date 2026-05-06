@@ -1,11 +1,9 @@
-# Harvest Scarab of Doubling
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Harvest Scarab of Doubling.webp]]
 
-## Description
+# Flavour Text
 A good season brings bounty.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,9 +13,9 @@ Harvest Monsters in Area have 100% more Life
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Harvest
 #Category/Scarab
 #Fragment

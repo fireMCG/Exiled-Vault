@@ -1,11 +1,9 @@
-# Silverbough
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Silverbough.png]]
 
-## Description
+# Flavour Text
 The lone tree grows thickest.
 
-## Details
+# Details
 - Bow
 - Physical Damage: (36-60) to (113.4-146)
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ The lone tree grows thickest.
 - Gain 10 Mana per Enemy Killed
 - +30 to Accuracy Rating
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

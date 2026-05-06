@@ -1,12 +1,10 @@
-# Rampart Raptor
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Rampart Raptor.png]]
 
-## Description
+# Flavour Text
 "His approach to the gate was met with sounding trumpets and an unfurling of banners. He never saw it coming."
 - anonymous Brotherhood of Silence report
 
-## Details
+# Details
 - Crossbow
 - Physical Damage: (11.2-12.8) to (21-24)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@
 - expend Ammunition if you've Reloaded Recently
 - 30% reduced Reload Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Fevered Mind
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fevered Mind.png]]
 
-## Description
+# Flavour Text
 In sickness, the insane becomes sane.
 
-## Details
+# Details
 - Limited to: 1
 - Radius: Small
 - +(5-10) to Intelligence
@@ -14,9 +12,9 @@ In sickness, the insane becomes sane.
 - Corrupted
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

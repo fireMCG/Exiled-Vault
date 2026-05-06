@@ -1,14 +1,12 @@
-# Mutewind Seal
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mutewind Seal.png]]
 
-## Description
+# Flavour Text
 When a fallen leader's body is taken to the funeral peak,
 those who seek power must ascend together.
 One returns with the seal.
 The rest do not return at all.
 
-## Details
+# Details
 - Requires Level 44
 - Has 1 Socket
 - Socketed Golem Skills have 20% increased Attack and Cast Speed
@@ -18,9 +16,9 @@ The rest do not return at all.
 - (5-10)% increased Attack Speed
 - (3-5)% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

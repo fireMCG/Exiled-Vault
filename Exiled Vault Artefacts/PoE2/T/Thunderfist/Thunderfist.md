@@ -1,13 +1,11 @@
-# Thunderfist
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Thunderfist.png]]
 
-## Description
+# Flavour Text
 The roar of the heavens
 Strikes more than fear
 Into the hearts of Man
 
-## Details
+# Details
 - Evasion: (61-128)
 - Energy Shield: (23-48)
 - Requires Level 65, 44 Dex, 44 Int
@@ -18,9 +16,9 @@ Into the hearts of Man
 - Adds 1 to (77-111) Lightning Damage to Unarmed Melee Hits
 - +(0.1-1.1)% to Unarmed Melee Attack Critical Hit Chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

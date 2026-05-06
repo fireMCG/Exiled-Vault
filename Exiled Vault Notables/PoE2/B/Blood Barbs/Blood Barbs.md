@@ -1,13 +1,11 @@
-# Blood Barbs
-
-## Effects
+# Effects
 Bleeding you inflict on Cursed targets is Aggravated
 Elemental Damage also Contributes to Bleeding Magnitude
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Blood Mage
 #Witch
+#Notable
 #PoE2

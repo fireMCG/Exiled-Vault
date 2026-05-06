@@ -1,12 +1,10 @@
-# Belt of the Deceiver
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Belt of the Deceiver.png]]
 
-## Description
+# Flavour Text
 In battle, virtue matters not.
 Only victory.
 
-## Details
+# Details
 - Requires Level 20
 - +(25-35) to Strength
 - (15-25)% increased Global Physical Damage
@@ -15,9 +13,9 @@ Only victory.
 - +(10-15)% to all Elemental Resistances
 - Nearby Enemies are Intimidated
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Trickery
 #Concept/Virtue

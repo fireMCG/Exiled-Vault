@@ -1,13 +1,11 @@
-# Thaumetic Emblem
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Thaumetic Emblem.png]]
 
-## Description
+# Flavour Text
 A sigil of thaumaturgy graven in granite.
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Thaumaturgy
 #Category/QuestItem
 #QuestItem

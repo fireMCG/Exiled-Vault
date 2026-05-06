@@ -1,12 +1,10 @@
-# Judge, Jury, and Executioner
-
-## Effects
+# Effects
 Decimating Strike
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Witchhunter
 #Mercenary
+#Notable
 #PoE2

@@ -1,13 +1,11 @@
-# Humming Pearl
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Humming Pearl.png]]
 
-## Description
+# Flavour Text
 It hums faintly. Not with life, but with purpose.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE2

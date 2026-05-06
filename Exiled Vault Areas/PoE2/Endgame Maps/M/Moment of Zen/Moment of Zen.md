@@ -1,11 +1,9 @@
-# Moment of Zen
-
-## Description
+# Flavour Text
 A travelling merchant offers wares in perilous times.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

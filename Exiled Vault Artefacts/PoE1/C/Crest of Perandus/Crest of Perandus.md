@@ -1,12 +1,10 @@
-# Crest of Perandus
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Crest of Perandus.png]]
 
-## Description
+# Flavour Text
 "With piety and justice."
 - Perandus family motto
 
-## Details
+# Details
 - Chance to Block: 31%
 - Evasion: (51-66)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@
 - 0.6% of Physical Attack Damage Leeched as Life
 - +5% Chance to Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

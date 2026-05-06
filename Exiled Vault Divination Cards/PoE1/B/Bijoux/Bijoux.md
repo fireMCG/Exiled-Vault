@@ -1,17 +1,15 @@
-# Bijoux
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Bijoux.png]]
 
-## Description
+# Flavour Text
 "Such fine trinkets show their true value in times of crisis." - Tangmazu
 
-## Reward
+# Reward
 Cluster Jewel
 Item Level: 84
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/God/Tangmazu
 #Concept/Crown/Halo

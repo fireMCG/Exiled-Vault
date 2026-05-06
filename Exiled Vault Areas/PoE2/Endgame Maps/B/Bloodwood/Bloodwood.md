@@ -1,11 +1,9 @@
-# Bloodwood
-
-## Description
+# Flavour Text
 Poisoned trees bear pestilent fruits.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

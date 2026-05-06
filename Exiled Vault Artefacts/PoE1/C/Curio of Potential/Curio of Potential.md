@@ -1,16 +1,14 @@
-# Curio of Potential
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Curio of Potential.png]]
 
-## Description
+# Flavour Text
 The future holds infinite promise... as does she.
 
-## Details
+# Details
 - This item will transform when correctly arranged with other items.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Maven
 #Concept/Time/Future

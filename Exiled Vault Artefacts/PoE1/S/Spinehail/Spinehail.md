@@ -1,12 +1,10 @@
-# Spinehail
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Spinehail.png]]
 
-## Description
+# Flavour Text
 Enacting a grand vision requires cold-hearted sacrifice.
 The loyal must be no more than fodder against the unwilling.
 
-## Details
+# Details
 - Requires Level 55
 - Gain (10-15)% of Physical Damage as Extra Chaos Damage
 - +(10-20) to Dexterity and Intelligence
@@ -16,9 +14,9 @@ The loyal must be no more than fodder against the unwilling.
 - Bow Attacks Sacrifice a random Damageable Minion to fire (1-3) additional Arrows
 - Catarina's Veiled (prefix)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

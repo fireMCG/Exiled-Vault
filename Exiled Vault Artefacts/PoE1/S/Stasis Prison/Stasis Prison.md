@@ -1,11 +1,9 @@
-# Stasis Prison
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Stasis Prison.png]]
 
-## Description
+# Flavour Text
 Those that can never die have but one wish.
 
-## Details
+# Details
 - Evasion: (847-1008)
 - Energy Shield: (247-293)
 - Movement Speed: -3%
@@ -17,9 +15,9 @@ Those that can never die have but one wish.
 - (80-100)% of Damage taken Recouped as Life
 - Debuffs on you expire (80-100)% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

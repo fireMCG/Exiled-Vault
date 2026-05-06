@@ -1,11 +1,9 @@
-# Storm's Gift (Synthesised)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Storm's Gift (Synthesised).png]]
 
-## Description
+# Flavour Text
 The power of lightning is a power best shared.
 
-## Details
+# Details
 - Evasion: (364-492)
 - Energy Shield: (73-100)
 - Requires Level 58, 45 Dex, 45 Int
@@ -15,9 +13,9 @@ The power of lightning is a power best shared.
 - Enemies you kill are Shocked
 - Shocks you inflict spread to other Enemies within 1.5 metres
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

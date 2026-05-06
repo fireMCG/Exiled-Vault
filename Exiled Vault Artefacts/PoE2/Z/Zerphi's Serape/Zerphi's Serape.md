@@ -1,12 +1,10 @@
-# Zerphi's Serape
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Zerphi's Serape.png]]
 
-## Description
+# Flavour Text
 Mortality is a curse.
 The cure is simple.
 
-## Details
+# Details
 - Evasion: (187-210)
 - Energy Shield: (76-86)
 - Movement Speed: -3.0%
@@ -18,9 +16,9 @@ The cure is simple.
 - (-30-30)% increased Mana Regeneration Rate
 - Soul Eater
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Curse
 #Concept/Life/Mortality

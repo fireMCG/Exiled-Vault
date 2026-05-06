@@ -1,11 +1,9 @@
-# Ezomyte Hold
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ezomyte Hold.png]]
 
-## Description
+# Flavour Text
 A moment of victory may last an eternity in memory.
 
-## Details
+# Details
 - Armour: (84-113)
 - 20% increased Global Physical Damage
 - +(75-100) to Armour
@@ -13,9 +11,9 @@ A moment of victory may last an eternity in memory.
 - Cannot Evade Enemy Attacks
 - Cannot be Stunned
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

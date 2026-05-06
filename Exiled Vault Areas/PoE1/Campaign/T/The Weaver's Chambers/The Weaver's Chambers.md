@@ -1,14 +1,12 @@
-# The Weaver's Chambers
-
-## Description
+# Flavour Text
 Shrouded in mourning silks.
 
-## Connected Areas
+# Connected Areas
 - The Western Forest
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

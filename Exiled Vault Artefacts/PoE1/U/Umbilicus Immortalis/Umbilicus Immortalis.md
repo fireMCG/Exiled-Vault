@@ -1,12 +1,10 @@
-# Umbilicus Immortalis
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Umbilicus Immortalis.png]]
 
-## Description
+# Flavour Text
 "The power of rebirth rivals that of immortality."
 - Icius Perandus, Antiquities Collection, Item 3
 
-## Details
+# Details
 - Requires Level 30
 - +(25-40) to maximum Life
 - (8-12)% increased maximum Life
@@ -14,9 +12,9 @@
 - Flasks do not apply to you
 - Flasks you Use apply to your Raised Zombies and Spectres
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,15 +1,13 @@
-# Pools of Khatal
-
-## Description
+# Flavour Text
 Bubbling mud oozes and drowns any who step near.
 
-## Connected Areas
+# Connected Areas
 - The Khari Crossing
 - Sel Khari Sanctuary
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

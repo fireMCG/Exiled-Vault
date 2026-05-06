@@ -1,16 +1,14 @@
-# The Penitent
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Penitent.png]]
 
-## Description
+# Flavour Text
 First, I gave my wealth, and we went hungry. Next, I gave my land, and we were homeless. Then, I gave my family, and I was alone. Last, I gave my eyes, and all I could dream was mine.
 
-## Reward
+# Reward
 Unset Ring
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Body/Eye
 #Concept/Family

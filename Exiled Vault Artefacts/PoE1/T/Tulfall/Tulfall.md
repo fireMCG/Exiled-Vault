@@ -1,13 +1,11 @@
-# Tulfall
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Tulfall.png]]
 
-## Description
+# Flavour Text
 We fracture and splinter.
 We pierce our sides.
 But in the great freeze we are forged anew.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 30-56
 - Critical Strike Chance: 8.00%
@@ -20,9 +18,9 @@ But in the great freeze we are forged anew.
 - Lose all Power Charges on reaching Maximum Power Charges
 - Gain a Frenzy Charge on reaching Maximum Power Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

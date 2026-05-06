@@ -1,12 +1,10 @@
-# Nimis
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Nimis.png]]
 
-## Description
+# Flavour Text
 Too much of something is bad enough;
 too much of nothing is just as tough.
 
-## Details
+# Details
 - Requires Level 48
 - +(20-30)% to Lightning Resistance
 - +(30-50) to Dexterity
@@ -14,9 +12,9 @@ too much of nothing is just as tough.
 - Projectiles Return to you
 - Projectiles are fired in random directions
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/EaterOfWorlds
 #Concept/Tangle

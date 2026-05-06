@@ -1,18 +1,16 @@
-# The Traitor
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Traitor.png]]
 
-## Description
+# Flavour Text
 Sometimes an apprentice becomes a master through countless hours of hard work and practice.
 Sometimes it happens by force.
 
-## Reward
+# Reward
 Wand
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

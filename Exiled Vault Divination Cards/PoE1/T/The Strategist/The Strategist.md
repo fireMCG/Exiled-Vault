@@ -1,17 +1,15 @@
-# The Strategist
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Strategist.png]]
 
-## Description
+# Flavour Text
 Know thine enemy better than you know thyself.
 
-## Reward
+# Reward
 Inspired Learning
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

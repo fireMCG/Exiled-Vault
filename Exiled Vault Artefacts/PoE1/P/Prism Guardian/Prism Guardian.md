@@ -1,11 +1,9 @@
-# Prism Guardian
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Prism Guardian.png]]
 
-## Description
+# Flavour Text
 When blood is paid, the weak think twice.
 
-## Details
+# Details
 - Chance to Block: 22%
 - Armour: (156-179)
 - Energy Shield: (32-37)
@@ -18,9 +16,9 @@ When blood is paid, the weak think twice.
 - +(20-30) to Dexterity
 - +25% to all Elemental Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

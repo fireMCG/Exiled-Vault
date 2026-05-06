@@ -1,11 +1,9 @@
-# Reverberating Impact
-
-## Effects
+# Effects
 Break 25% increased Armour
 12% increased Area of Effect for Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

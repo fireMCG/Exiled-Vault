@@ -1,16 +1,14 @@
-# Traitor's Passage
-
-## Description
+# Flavour Text
 The fatal weakness of a great bastion is usually one of its supposed defenders.
 
-## Connected Areas
+# Connected Areas
 - The Ardura Caravan
 - The Halani Gates
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

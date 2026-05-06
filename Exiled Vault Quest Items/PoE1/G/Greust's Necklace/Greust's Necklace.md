@@ -1,15 +1,13 @@
-# Greust's Necklace
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Greust's Necklace.png]]
 
-## Description
+# Flavour Text
 A boy becomes a man when he has faced the animal
 in his heart and wet the forest floor with its blood."
  - Azmeri Proverb
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Greust
 #Concept/Body/Heart
 #Concept/Within

@@ -1,11 +1,9 @@
-# Untainted Paradise
-
-## Description
+# Flavour Text
 Life grows strong in this realm of plenty.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

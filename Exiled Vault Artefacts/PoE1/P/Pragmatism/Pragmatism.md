@@ -1,12 +1,10 @@
-# Pragmatism
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Pragmatism.png]]
 
-## Description
+# Flavour Text
 The Maji were forbidden from touching virtue gems...
 so their practical warriors employed geomancy instead.
 
-## Details
+# Details
 - Armour: (883-1295)
 - Movement Speed: -5%
 - Requires Level 49, 134 Str
@@ -15,9 +13,9 @@ so their practical warriors employed geomancy instead.
 - +(60-100) to maximum Mana
 - -2 to level of Socketed Skill Gems per Socketed Gem
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

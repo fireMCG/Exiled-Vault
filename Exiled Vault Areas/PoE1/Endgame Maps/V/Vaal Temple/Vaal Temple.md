@@ -1,13 +1,11 @@
-# Vaal Temple
-
-## Description
+# Flavour Text
 Voices. Visions. Violence.
 
 They will haunt these grounds for all of eternity.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

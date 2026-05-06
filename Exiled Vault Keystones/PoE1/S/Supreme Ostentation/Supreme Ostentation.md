@@ -1,17 +1,15 @@
-# Supreme Ostentation
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Supreme Ostentation.webp]]
 
-## Description
+# Flavour Text
 Displays of power are not just for show. If you are never truly tested,
 you may divert those resources elsewhere.
 
-## Effects
+# Effects
 Ignore Attribute Requirements
 Gain no inherent bonuses from Attributes
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

@@ -1,16 +1,14 @@
-# The Cacophony
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Cacophony.png]]
 
-## Description
+# Flavour Text
 Nothing can be heard above the din or seen amongst the turmoil. The senses are shattered. All is left to fate.
 
-## Reward
+# Reward
 3x Deafening Essence
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Essence
 #Concept/Fate
 #Concept/Scream

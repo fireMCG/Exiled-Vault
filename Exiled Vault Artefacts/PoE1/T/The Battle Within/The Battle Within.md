@@ -1,11 +1,9 @@
-# The Battle Within
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Battle Within.png]]
 
-## Description
+# Flavour Text
 The struggle for balance never ends.
 
-## Details
+# Details
 - 8.00 Second Cooldown when Deactivated
 - Requires Level 60
 - Gain 3 Rage on Melee Weapon Hit
@@ -15,9 +13,9 @@ The struggle for balance never ends.
 - Melee Weapon Attacks have Culling Strike
 - Right click to activate. Only one Tincture in your belt can be active at a time. Mana Burn causes you to lose 1% of your maximum Mana per stack per second. Can be deactivated manually, or will automatically deactivate when you reach 0 Mana.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Darkscorn
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Darkscorn.png]]
 
-## Description
+# Flavour Text
 "The Spirit of War knows nothing of good and evil.
 It knows only destruction."
 - Sekhema Asenath
 
-## Details
+# Details
 - Bow
 - Physical Damage: (92.8-113.4) to (248-288)
 - Critical Strike Chance: 6.70%
@@ -22,9 +20,9 @@ It knows only destruction."
 - 25% of Physical Damage from Hits taken as Chaos Damage
 - 20% chance for Poisons inflicted with this Weapon to deal 300% more Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Black Sun Crest
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Black Sun Crest.png]]
 
-## Description
+# Flavour Text
 The beasts we fear the most
 are the ones who dwell in total darkness.
 
-## Details
+# Details
 - Armour: (118-142)
 - Requires Level 16, 25 Str
 - (50-80)% increased Armour
@@ -15,9 +13,9 @@ are the ones who dwell in total darkness.
 - (5-15)% increased Dexterity
 - (5-15)% increased Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

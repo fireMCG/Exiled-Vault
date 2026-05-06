@@ -1,11 +1,9 @@
-# Residence
-
-## Description
+# Flavour Text
 Home only to misery now.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

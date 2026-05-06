@@ -1,12 +1,10 @@
-# Hulking Form
-
-## Effects
+# Effects
 50% increased effect of Small Passive Skills
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Titan
 #Warrior
+#Notable
 #PoE2

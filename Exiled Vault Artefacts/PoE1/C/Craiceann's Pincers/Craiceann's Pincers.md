@@ -1,13 +1,11 @@
-# Craiceann's Pincers
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Craiceann's Pincers.png]]
 
-## Description
+# Flavour Text
 The stone that stays in the waves soon crumbles to sand.
 The First of the Deep teaches us to watch the tides
 and choose our moments to move wisely.
 
-## Details
+# Details
 - Armour: (605-834)
 - Requires Level 69, 98 Str
 - (150-200)% increased Armour
@@ -17,9 +15,9 @@ and choose our moments to move wisely.
 - 10% chance that if you would gain a Crab Barrier, you instead gain up to
 - your maximum number of Crab Barriers
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

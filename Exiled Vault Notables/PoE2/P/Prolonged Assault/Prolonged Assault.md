@@ -1,12 +1,10 @@
-# Prolonged Assault
-
-## Effects
+# Effects
 16% increased Attack Damage
 16% increased Skill Effect Duration
 Buffs on you expire 10% slower
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

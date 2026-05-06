@@ -1,15 +1,13 @@
-# Cherrubim's Maleficence
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cherrubim's Maleficence.png]]
 
-## Description
+# Flavour Text
 "The Consort of Chaos descended,
 swiftly, brutally, artfully, she consumed the living,
 leaving naught behind but a Rosemarie bloom,
 to celebrate the massacre."
 - Blass, explorer, hunter, adventurer
 
-## Details
+# Details
 - Armour: (988-1311)
 - Evasion: (1240-1647)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ to celebrate the massacre."
 - +(70-100) to maximum Life
 - 100% increased total Recovery per second from Life Leech
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

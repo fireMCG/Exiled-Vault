@@ -1,11 +1,9 @@
-# Slivertongue
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Slivertongue.png]]
 
-## Description
+# Flavour Text
 A hundred blind heads, each seeking the taste of prey on the air.
 
-## Details
+# Details
 - Bow
 - Physical Damage: (130-145) to (353-373)
 - Critical Strike Chance: (6.50-7.50)%
@@ -17,9 +15,9 @@ A hundred blind heads, each seeking the taste of prey on the air.
 - Arrows Pierce all Targets after Forking
 - Arrows that Pierce have +50% to Critical Strike Multiplier
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

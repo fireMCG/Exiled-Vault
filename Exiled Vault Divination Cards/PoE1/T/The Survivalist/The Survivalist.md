@@ -1,19 +1,17 @@
-# The Survivalist
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Survivalist.png]]
 
-## Description
+# Flavour Text
 A lucky number 
 For us all 
 To help us through 
 The perils told.
 
-## Reward
+# Reward
 7x Orb of Alchemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Ash
 #DivinationCard

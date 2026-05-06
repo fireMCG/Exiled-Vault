@@ -1,12 +1,10 @@
-# Replica Stampede
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Stampede.png]]
 
-## Description
+# Flavour Text
 "Suppression troop seven, the 'Glowering Faithful,' managed to fell the escaping
 test subject by timing their arrows between his explosive dashes."
 
-## Details
+# Details
 - Evasion: (242-347)
 - Energy Shield: (50-70)
 - Requires Level 63, 62 Dex, 62 Int
@@ -17,9 +15,9 @@ test subject by timing their arrows between his explosive dashes."
 - Your Movement Speed is 150% of its base value
 - This item can be anointed by Cassia
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

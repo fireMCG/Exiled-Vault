@@ -1,13 +1,11 @@
-# Trenches
-
-## Description
+# Flavour Text
 The Cataclysm tore the land asunder.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

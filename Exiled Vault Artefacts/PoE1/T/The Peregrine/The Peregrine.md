@@ -1,12 +1,10 @@
-# The Peregrine
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Peregrine.png]]
 
-## Description
+# Flavour Text
 We wander to pass time.
 We travel to fulfill.
 
-## Details
+# Details
 - Armour: (89-128)
 - Evasion: (89-128)
 - Requires Level 23, 28 Str, 28 Dex
@@ -17,9 +15,9 @@ We travel to fulfill.
 - 0.4% of Attack Damage Leeched as Mana
 - 10% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

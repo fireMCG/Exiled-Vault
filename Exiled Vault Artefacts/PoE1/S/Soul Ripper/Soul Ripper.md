@@ -1,12 +1,10 @@
-# Soul Ripper
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Soul Ripper.png]]
 
-## Description
+# Flavour Text
 "What care have I for their pain? They're already dead."
 - Atalui, Vaal Priestess
 
-## Details
+# Details
 - Lasts 6.00 Seconds
 - Consumes 30 of (20-150) Charges on use
 - Phasing
@@ -18,9 +16,9 @@
 - Gain Vaal Souls equal to Charges Consumed when used
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

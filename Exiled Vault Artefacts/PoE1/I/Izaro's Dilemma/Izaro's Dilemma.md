@@ -1,12 +1,10 @@
-# Izaro's Dilemma
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Izaro's Dilemma.png]]
 
-## Description
+# Flavour Text
 Izaro saw himself not as a man,
 but as a divine saviour trapped in a man's body.
 
-## Details
+# Details
 - Claw
 - Physical Damage: (81-90) to (207-230)
 - Critical Strike Chance: 7.00%
@@ -20,9 +18,9 @@ but as a divine saviour trapped in a man's body.
 - +(300-400) to Accuracy Rating
 - 100% increased Global Physical Damage while Frozen
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

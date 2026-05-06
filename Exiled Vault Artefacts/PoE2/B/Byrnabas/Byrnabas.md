@@ -1,11 +1,9 @@
-# Byrnabas
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Byrnabas.png]]
 
-## Description
+# Flavour Text
 The Brinerot sail without fear of storms.
 
-## Details
+# Details
 - Requires Level 14
 - Has (1-3) Charm Slots
 - (20-30)% increased Flask Charges gained
@@ -14,9 +12,9 @@ The Brinerot sail without fear of storms.
 - (7-12) Life Regeneration per second
 - Cannot be Shocked
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,13 +1,11 @@
-# Perseverance
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Perseverance.png]]
 
-## Description
+# Flavour Text
 "Some blows must be evaded. Some blows must be endured.
 The trick is to tell them apart."
 - Daresso, the Sword King
 
-## Details
+# Details
 - Requires Level 78
 - +(260-320) to Armour and Evasion Rating
 - (4-8)% increased maximum Life
@@ -16,9 +14,9 @@ The trick is to tell them apart."
 - Melee Hits which Stun Fortify
 - You have Onslaught while Fortified
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

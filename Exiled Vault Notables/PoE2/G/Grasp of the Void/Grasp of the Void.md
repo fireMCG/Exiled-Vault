@@ -1,12 +1,10 @@
-# Grasp of the Void
-
-## Effects
+# Effects
 Grants Skill: Void Illusion
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Acolyte of Chayula
 #Monk
+#Notable
 #PoE2

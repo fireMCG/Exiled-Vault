@@ -1,11 +1,9 @@
-# Olesya's Delight
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Olesya's Delight.png]]
 
-## Description
+# Flavour Text
 The cruel thinker finds glee in torture most precise.
 
-## Details
+# Details
 - Requires Level 68
 - (15-25)% increased Stun and Block Recovery
 - +(600-700) to Evasion Rating
@@ -16,9 +14,9 @@ The cruel thinker finds glee in torture most precise.
 - Maximum Affliction Charges is equal to Maximum Frenzy Charges
 - Gain Affliction Charges instead of Frenzy Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Maven
 #Character/Olesya

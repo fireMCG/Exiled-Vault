@@ -1,13 +1,11 @@
-# Coat of Red
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Coat of Red.png]]
 
-## Description
+# Flavour Text
 For those noble families obsessed
 with keeping their bloodline pure,
 there was a price to pay...
 
-## Details
+# Details
 - Armour: (45-50)
 - Evasion: (28-32)
 - Movement Speed: -4.0%
@@ -16,9 +14,9 @@ there was a price to pay...
 - +(75-150) to Stun Threshold
 - 25% chance to be inflicted with Bleeding when Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

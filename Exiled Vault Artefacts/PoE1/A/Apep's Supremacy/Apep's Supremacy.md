@@ -1,11 +1,9 @@
-# Apep's Supremacy
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Apep's Supremacy.png]]
 
-## Description
+# Flavour Text
 Give him your body, and your burdens will follow.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Energy Shield: (186-214)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ Give him your body, and your burdens will follow.
 - +3% to all maximum Resistances while Poisoned
 - Poisons on you expire 50% slower
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/God/Apep
 #Concept/Body/Flesh

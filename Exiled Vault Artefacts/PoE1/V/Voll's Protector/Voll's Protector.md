@@ -1,12 +1,10 @@
-# Voll's Protector
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Voll's Protector.png]]
 
-## Description
+# Flavour Text
 Although a great leader during the war,
 Voll proved disastrous in times of peace.
 
-## Details
+# Details
 - Armour: (388-582)
 - Energy Shield: (82-122)
 - Movement Speed: -5%
@@ -16,9 +14,9 @@ Voll proved disastrous in times of peace.
 - Gain a Power Charge for each Enemy you hit with a Critical Strike
 - Inner Conviction
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

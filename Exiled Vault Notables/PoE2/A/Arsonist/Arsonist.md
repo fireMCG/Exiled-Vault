@@ -1,10 +1,8 @@
-# Arsonist
-
-## Effects
+# Effects
 Ignites you inflict deal Damage 18% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

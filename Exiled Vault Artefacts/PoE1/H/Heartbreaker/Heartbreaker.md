@@ -1,12 +1,10 @@
-# Heartbreaker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Heartbreaker.png]]
 
-## Description
+# Flavour Text
 A heart can be stabbed by thoughts,
 If your mind is sharp enough.
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: 16-64
 - Critical Strike Chance: 8.50%
@@ -19,9 +17,9 @@ If your mind is sharp enough.
 - +(60-100) to maximum Mana
 - Your Spells have Culling Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

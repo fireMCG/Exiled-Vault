@@ -1,13 +1,11 @@
-# Beach
-
-## Description
+# Flavour Text
 A paradise, forever replenished by
 
 endless waves teeming with life.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

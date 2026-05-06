@@ -1,11 +1,9 @@
-# Impact Force
-
-## Effects
+# Effects
 20% increased Stun Buildup
 25% increased Attack Area Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

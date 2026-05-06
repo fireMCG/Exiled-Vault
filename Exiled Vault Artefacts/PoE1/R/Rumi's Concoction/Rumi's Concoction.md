@@ -1,13 +1,11 @@
-# Rumi's Concoction
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rumi's Concoction.png]]
 
-## Description
+# Flavour Text
 "Yesterday I was clever, so I wanted to change the world.
 Today I am wise, so I am changing myself."
 -Rumi of the Vaal
 
-## Details
+# Details
 - Lasts 6.00 Seconds
 - Consumes 30 of 60 Charges on use
 - +1500 to Armour
@@ -16,9 +14,9 @@ Today I am wise, so I am changing myself."
 - +(4-6)% Chance to Block Spell Damage during Effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

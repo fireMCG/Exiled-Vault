@@ -1,12 +1,10 @@
-# Mysterious Lineage
-
-## Effects
+# Effects
 15% more Maximum Life
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Titan
 #Warrior
+#Notable
 #PoE2

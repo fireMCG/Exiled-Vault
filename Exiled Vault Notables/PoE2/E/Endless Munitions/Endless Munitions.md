@@ -1,12 +1,10 @@
-# Endless Munitions
-
-## Effects
+# Effects
 Skills fire an additional Projectile
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Deadeye
 #Ranger
+#Notable
 #PoE2

@@ -1,14 +1,12 @@
-# Trial of the Sekhemas
-
-## Description
+# Flavour Text
 Those who would be Sekhema had to prove themselves exceptional.
 
-## Connected Areas
+# Connected Areas
 - The Ardura Caravan
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

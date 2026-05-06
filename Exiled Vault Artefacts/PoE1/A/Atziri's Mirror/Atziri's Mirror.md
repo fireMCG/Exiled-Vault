@@ -1,12 +1,10 @@
-# Atziri's Mirror
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Atziri's Mirror.png]]
 
-## Description
+# Flavour Text
 "As long as I see death in my mirror, so will Wraeclast."
 - Atziri, Queen of the Vaal
 
-## Details
+# Details
 - Chance to Block: 25%
 - Evasion: (991-1221)
 - Movement Speed: -3%
@@ -20,9 +18,9 @@
 - +10% Chance to Block Attack Damage while not Cursed
 - +20% Chance to Block Spell Damage while Cursed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Atziri
 #Concept/Death

@@ -1,12 +1,10 @@
-# Arakaali's Gift
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Arakaali's Gift.png]]
 
-## Description
+# Flavour Text
 Devotees of the Goddess of Lust
 needed never fear her sting.
 
-## Details
+# Details
 - Lasts 3.00 Seconds
 - Consumes 20 of 40 Charges on use
 - Immune to Poison
@@ -16,9 +14,9 @@ needed never fear her sting.
 - Recover Mana equal to (15-20)% of Life Flask's Recovery Amount when used
 - Used automatically when condition is met. Can only hold charges while in belt. Refill at Wells or by killing monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

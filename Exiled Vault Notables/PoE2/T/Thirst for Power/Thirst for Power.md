@@ -1,10 +1,8 @@
-# Thirst for Power
-
-## Effects
+# Effects
 25% chance when you gain a Power Charge to gain an additional Power Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

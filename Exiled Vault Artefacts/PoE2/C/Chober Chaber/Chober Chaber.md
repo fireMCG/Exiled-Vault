@@ -1,11 +1,9 @@
-# Chober Chaber
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Chober Chaber.png]]
 
-## Description
+# Flavour Text
 The faithful may continue to serve, even after death.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (116-123) to (180-188)
 - Critical Strike Chance: 5.00%
@@ -18,9 +16,9 @@ The faithful may continue to serve, even after death.
 - +50 to Spirit
 - Increases and Reductions to Minion Damage also affect you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

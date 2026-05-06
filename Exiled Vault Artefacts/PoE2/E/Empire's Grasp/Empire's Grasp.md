@@ -1,13 +1,11 @@
-# Empire's Grasp
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Empire's Grasp.png]]
 
-## Description
+# Flavour Text
 "I like my vassals at sword point,
 but my enemies as close as the hilt."
 - Emperor Chitus
 
-## Details
+# Details
 - Armour: (250-300)
 - Requires Level 52, 64 Str
 - (150-200)% increased Armour
@@ -16,9 +14,9 @@ but my enemies as close as the hilt."
 - (10-20)% increased Global Physical Damage
 - Knockback direction is reversed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Exposed to the Storm
-
-## Effects
+# Effects
 Damage Penetrates 18% Lightning Resistance
 15% increased Critical Hit Chance against enemies with Exposure
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

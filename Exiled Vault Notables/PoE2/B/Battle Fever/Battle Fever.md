@@ -1,11 +1,9 @@
-# Battle Fever
-
-## Effects
+# Effects
 5% increased Skill Speed
 25% increased Physical Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

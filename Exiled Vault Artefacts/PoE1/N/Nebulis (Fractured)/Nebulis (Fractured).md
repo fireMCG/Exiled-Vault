@@ -1,11 +1,9 @@
-# Nebulis (Fractured)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Nebulis (Fractured).png]]
 
-## Description
+# Flavour Text
 The vastness of the cosmos holds energies beyond comprehension, should one have the fortitude to grasp them.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 50-76
 - Critical Strike Chance: 7.30%
@@ -17,9 +15,9 @@ The vastness of the cosmos holds energies beyond comprehension, should one have 
 - (15-20)% increased Cold Damage per 1% Cold Resistance above 75%
 - (15-20)% increased Lightning Damage per 1% Lightning Resistance above 75%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

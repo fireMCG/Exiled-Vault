@@ -1,14 +1,12 @@
-# The Archives
-
-## Description
+# Flavour Text
 All the knowledge in the Empire could not save them.
 
-## Connected Areas
+# Connected Areas
 - The Library
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

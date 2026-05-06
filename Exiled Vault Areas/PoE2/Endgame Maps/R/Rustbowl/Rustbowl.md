@@ -1,11 +1,9 @@
-# Rustbowl
-
-## Description
+# Flavour Text
 Aeons of wear have rotted steel to its core.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

@@ -1,11 +1,9 @@
-# Titan's Determination
-
-## Effects
+# Effects
 25% increased Stun Threshold
 20% increased Life Regeneration Rate while moving
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

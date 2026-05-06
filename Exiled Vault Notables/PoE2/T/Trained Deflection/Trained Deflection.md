@@ -1,10 +1,8 @@
-# Trained Deflection
-
-## Effects
+# Effects
 Prevent +6% of Damage from Deflected Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

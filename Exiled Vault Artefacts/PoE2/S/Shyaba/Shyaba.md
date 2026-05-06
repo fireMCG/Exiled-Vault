@@ -1,11 +1,9 @@
-# Shyaba
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Shyaba.png]]
 
-## Description
+# Flavour Text
 Be not deceived by the treachery of men.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (63-77) to (129.6-158.4)
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ Be not deceived by the treachery of men.
 - (15-25)% increased Light Radius
 - Always Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

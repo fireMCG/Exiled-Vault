@@ -1,15 +1,13 @@
-# The Excavation
-
-## Description
+# Flavour Text
 Ruins from a time before Time...
 
-## Connected Areas
+# Connected Areas
 - Arastas
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

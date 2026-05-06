@@ -1,11 +1,9 @@
-# Deidbell
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Deidbell.png]]
 
-## Description
+# Flavour Text
 May you never hear it toll.
 
-## Details
+# Details
 - Armour: (290-397)
 - Evasion: (90-97)
 - Requires Level 33, 38 Str, 38 Dex
@@ -15,9 +13,9 @@ May you never hear it toll.
 - +(200-300) to Armour
 - Cannot Leech when on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Divinarius
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Divinarius.png]]
 
-## Description
+# Flavour Text
 Divine intervention feels better
 when you do it yourself.
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: 18-73
 - Critical Strike Chance: 8.50%
@@ -21,9 +19,9 @@ when you do it yourself.
 - (200-250)% increased Critical Strike Chance for Spells if you've Killed Recently
 - +(60-100)% to Critical Strike Multiplier for Spells if you haven't Killed Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

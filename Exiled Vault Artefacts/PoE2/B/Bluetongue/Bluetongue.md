@@ -1,11 +1,9 @@
-# Bluetongue
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Bluetongue.png]]
 
-## Description
+# Flavour Text
 War inevitably takes an untold toll on the soul.
 
-## Details
+# Details
 - One Hand Sword
 - Physical Damage: (10-12) to (16-19)
 - Critical Strike Chance: 5.00%
@@ -16,8 +14,8 @@ War inevitably takes an untold toll on the soul.
 - Lose 3 Mana per enemy killed
 - 100% increased Attack Damage while not on Low Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE2

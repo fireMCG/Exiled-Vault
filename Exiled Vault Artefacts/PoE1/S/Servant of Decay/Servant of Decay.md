@@ -1,12 +1,10 @@
-# Servant of Decay
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Servant of Decay.png]]
 
-## Description
+# Flavour Text
 Eaten away by anxiety and fear,
 nothing remained but the void.
 
-## Details
+# Details
 - Evasion: (627-721)
 - Energy Shield: (315-435)
 - Movement Speed: -3%
@@ -17,9 +15,9 @@ nothing remained but the void.
 - (4-6)% of Damage from Hits is taken from Void Spawns' Life before you per Void Spawn
 - Gain (4-6)% of Non-Chaos Damage as Extra Chaos Damage per Summoned Void Spawn
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

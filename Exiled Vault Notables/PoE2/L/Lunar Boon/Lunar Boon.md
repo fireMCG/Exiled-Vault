@@ -1,11 +1,9 @@
-# Lunar Boon
-
-## Effects
+# Effects
 40% increased Mana Regeneration Rate while Shapeshifted
 Requires The Unseen Path
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

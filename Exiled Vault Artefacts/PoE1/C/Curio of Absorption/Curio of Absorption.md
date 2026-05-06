@@ -1,16 +1,14 @@
-# Curio of Absorption
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Curio of Absorption.png]]
 
-## Description
+# Flavour Text
 Perfect knowledge is only possible in an empty universe.
 
-## Details
+# Details
 - This item will transform when correctly arranged with other items.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/SearingExarch
 #Concept/Virtue/Knowledge

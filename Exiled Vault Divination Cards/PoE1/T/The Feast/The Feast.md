@@ -1,17 +1,15 @@
-# The Feast
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Feast.png]]
 
-## Description
+# Flavour Text
 Shame what happened to my husband. He had such good taste.
 
-## Reward
+# Reward
 Romira's Banquet
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Cannibalism
 #Character/Emperor/RomiraPhrecia

@@ -1,13 +1,11 @@
-# Heartbound Loop
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Heartbound Loop.png]]
 
-## Description
+# Flavour Text
 When the axe finally fell, Seryl shared his pain,
 and the last thought that flickered through his
 fading mind was her broken, shattered scream.
 
-## Details
+# Details
 - Requires Level 32
 - (7-10)% increased Cast Speed
 - Minions have (10-15)% increased maximum Life
@@ -16,9 +14,9 @@ fading mind was her broken, shattered scream.
 - 300 Physical Damage taken on Minion Death
 - Minions Revive (10-15)% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

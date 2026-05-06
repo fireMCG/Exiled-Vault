@@ -1,12 +1,10 @@
-# Polaric Invitation
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Polaric Invitation.webp]]
 
-## Details
+# Details
 Item Level:
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

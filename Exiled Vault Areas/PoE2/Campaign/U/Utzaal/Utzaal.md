@@ -1,15 +1,13 @@
-# Utzaal
-
-## Description
+# Flavour Text
 A doomed city, full of life, unaware what is soon to come.
 
-## Connected Areas
+# Connected Areas
 - Ziggurat Encampment
 - Aggorat
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

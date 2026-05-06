@@ -1,13 +1,11 @@
-# Incessant Cacophony
-
-## Effects
+# Effects
 Curses you inflict have infinite Duration
 You can apply an additional Curse
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Lich
 #Witch
+#Notable
 #PoE2

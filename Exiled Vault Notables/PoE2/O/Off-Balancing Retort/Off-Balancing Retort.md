@@ -1,10 +1,8 @@
-# Off-Balancing Retort
-
-## Effects
+# Effects
 30% increased Parried Debuff Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

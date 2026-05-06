@@ -1,12 +1,10 @@
-# Skittering Swarms
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Skittering Swarms.webp]]
 
-## Effects
+# Effects
 12% increased Scarabs found in your Maps
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

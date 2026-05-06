@@ -1,11 +1,9 @@
-# Perceived Greatness
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Perceived Greatness.png]]
 
-## Description
+# Flavour Text
 A treasure is only as valuable as you think it to be.
 
-## Details
+# Details
 - Limited to: 1
 - 2% increased Maps found in your Maps
 - Delirious Monsters Killed in your Maps provide (30-20)% reduced Reward Progress
@@ -13,9 +11,9 @@ A treasure is only as valuable as you think it to be.
 - Unmodifiable
 - Place this item into the Idol inventory at a Map Device to affect Maps you open. Idols are not consumed when opening Maps.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

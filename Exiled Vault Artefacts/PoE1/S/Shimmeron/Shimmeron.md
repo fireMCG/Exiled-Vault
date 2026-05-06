@@ -1,13 +1,11 @@
-# Shimmeron
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Shimmeron.png]]
 
-## Description
+# Flavour Text
 All at once, a calmness would encompass them,
 and all at once, it would be torn away,
 unveiling forms no sound mind could grasp.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 22-65
 - Critical Strike Chance: 8.00%
@@ -23,9 +21,9 @@ unveiling forms no sound mind could grasp.
 - 200 Lightning Damage taken per second per Power Charge if
 - your Skills have dealt a Critical Strike Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Concept/Mind

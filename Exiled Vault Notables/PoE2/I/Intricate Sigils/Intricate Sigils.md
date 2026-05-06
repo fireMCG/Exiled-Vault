@@ -1,13 +1,11 @@
-# Intricate Sigils
-
-## Effects
+# Effects
 +1 Charm Slot
 20% more Charm Charges gained
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Ritualist
 #Huntress
+#Notable
 #PoE2

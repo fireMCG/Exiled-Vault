@@ -1,12 +1,10 @@
-# Entropic Devastation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Entropic Devastation.png]]
 
-## Description
+# Flavour Text
 A legion of lives claimed
 by the shards of obliterated worlds.
 
-## Details
+# Details
 - Evasion: (208-307)
 - Energy Shield: (42-62)
 - Requires Level 58, 45 Dex, 45 Int
@@ -15,9 +13,9 @@ by the shards of obliterated worlds.
 - (30-50)% increased Effect of Impales inflicted with Spells
 - Critical Strikes with Spells inflict Impale
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

@@ -1,12 +1,10 @@
-# Ruzhan's Fury
-
-## Effects
+# Effects
 Grants Skill: Ruzhan's Fury
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

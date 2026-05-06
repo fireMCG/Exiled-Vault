@@ -1,12 +1,10 @@
-# Replica Blood Thorn
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Blood Thorn.png]]
 
-## Description
+# Flavour Text
 "Physical forces and flames seem to share some innate bond.
 What logic lies beneath the veil of reality?"
 
-## Details
+# Details
 - Staff
 - Physical Damage: 9-19
 - Critical Strike Chance: 7.50%
@@ -20,9 +18,9 @@ What logic lies beneath the veil of reality?"
 - Reflects (22-44) Fire Damage to Attackers on Block
 - Level Requirement reduced by 100 (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

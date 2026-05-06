@@ -1,12 +1,10 @@
-# Nametaker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Nametaker.png]]
 
-## Description
+# Flavour Text
 It need not know your True Name. Our most
 dearly held secrets spill forth in our blood.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: 34-55
 - Critical Strike Chance: (6.00-7.00)%
@@ -20,9 +18,9 @@ dearly held secrets spill forth in our blood.
 - Hits with this Weapon have +10% to Critical Strike Multiplier per Enemy Power
 - 5% of Leech from Hits with this Weapon is Instant per Enemy Power
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

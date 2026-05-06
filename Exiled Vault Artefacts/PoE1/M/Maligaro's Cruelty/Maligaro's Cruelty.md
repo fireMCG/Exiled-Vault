@@ -1,14 +1,12 @@
-# Maligaro's Cruelty
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Maligaro's Cruelty.png]]
 
-## Description
+# Flavour Text
 "He does not love. He does not feel regret or remorse.
 He does not think about consequences, only possibilities.
 If that does not describe a monster, tell me: what does?"
 - Archbishop Geofri
 
-## Details
+# Details
 - Requires Level 20
 - +(16-24) to Dexterity and Intelligence
 - (4-8)% increased maximum Life
@@ -17,9 +15,9 @@ If that does not describe a monster, tell me: what does?"
 - 10% increased Damage with Poison per Frenzy Charge
 - 3% increased Poison Duration per Power Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

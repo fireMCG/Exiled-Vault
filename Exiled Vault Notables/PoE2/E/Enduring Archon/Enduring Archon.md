@@ -1,10 +1,8 @@
-# Enduring Archon
-
-## Effects
+# Effects
 30% increased Archon Buff duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

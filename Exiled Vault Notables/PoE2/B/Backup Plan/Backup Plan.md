@@ -1,11 +1,9 @@
-# Backup Plan
-
-## Effects
+# Effects
 50% increased Evasion Rating if you have been Hit Recently
 50% increased Armour if you haven't been Hit Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

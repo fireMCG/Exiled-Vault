@@ -1,16 +1,14 @@
-# Soul Core of Citaqualotl
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Soul Core of Citaqualotl.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 
-## Effects
+# Effects
 - Martial Weapon: 30% increased Elemental Damage with Attacks
 - Armour: +5% to all Elemental Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

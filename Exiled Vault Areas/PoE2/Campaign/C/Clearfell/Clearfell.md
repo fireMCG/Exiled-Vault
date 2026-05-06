@@ -1,16 +1,14 @@
-# Clearfell
-
-## Description
+# Flavour Text
 A wounded land plays host to an infection.
 
-## Connected Areas
+# Connected Areas
 - Clearfell Encampment
 - Mud Burrow
 - The Grelwood
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

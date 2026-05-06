@@ -1,13 +1,11 @@
-# Skittering Swarms
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Skittering Swarms.webp]]
 
-## Details
+# Details
 Mastery: Maps
 12% increased Scarabs found in your Maps
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

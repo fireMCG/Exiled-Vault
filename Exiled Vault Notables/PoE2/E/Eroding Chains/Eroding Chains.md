@@ -1,10 +1,8 @@
-# Eroding Chains
-
-## Effects
+# Effects
 Break 50% of Armour on Pinning an Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

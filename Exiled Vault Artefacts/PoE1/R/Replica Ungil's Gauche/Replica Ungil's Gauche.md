@@ -1,12 +1,10 @@
-# Replica Ungil's Gauche
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Ungil's Gauche.png]]
 
-## Description
+# Flavour Text
 "Recommend further production of Prototype #122. It makes
 an ideal weapon for our suppression troops and guards."
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: 8-34
 - Critical Strike Chance: 8.50%
@@ -21,9 +19,9 @@ an ideal weapon for our suppression troops and guards."
 - Chill Attackers for 4 seconds on Block
 - Shock Attackers for 4 seconds on Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

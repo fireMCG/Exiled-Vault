@@ -1,12 +1,10 @@
-# Pitiless Killer
-
-## Effects
+# Effects
 Culling Strike
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Witchhunter
 #Mercenary
+#Notable
 #PoE2

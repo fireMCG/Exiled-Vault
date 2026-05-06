@@ -1,14 +1,12 @@
-# Caer Blaidd, Wolfpack's Den
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Caer Blaidd, Wolfpack's Den.png]]
 
-## Description
+# Flavour Text
 Howls and laughter
 They hide in the day
 They smell you, they watch you
 They track their new prey
 
-## Details
+# Details
 - Monster Level: 72
 - Item Quantity: +150%
 - Item Rarity: +150%
@@ -19,9 +17,9 @@ They track their new prey
 - 30% increased Monster Damage
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

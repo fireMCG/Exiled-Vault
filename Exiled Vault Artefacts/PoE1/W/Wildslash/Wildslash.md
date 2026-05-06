@@ -1,12 +1,10 @@
-# Wildslash
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Wildslash.png]]
 
-## Description
+# Flavour Text
 There are two things to know about fighting:
 When to swing like crazy, and when to run.
 
-## Details
+# Details
 - Claw
 - Physical Damage: (9-13) to (39-45)
 - Critical Strike Chance: 7.50%
@@ -22,9 +20,9 @@ When to swing like crazy, and when to run.
 - 15% increased Attack Speed with Movement Skills
 - 15% reduced Global Accuracy Rating
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

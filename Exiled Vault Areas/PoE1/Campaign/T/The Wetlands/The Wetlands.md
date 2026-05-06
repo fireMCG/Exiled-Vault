@@ -1,16 +1,14 @@
-# The Wetlands
-
-## Description
+# Flavour Text
 Corrupted waters, pouring from the Mantle above.
 
-## Connected Areas
+# Connected Areas
 - The Riverways
 - The Vaal Ruins
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

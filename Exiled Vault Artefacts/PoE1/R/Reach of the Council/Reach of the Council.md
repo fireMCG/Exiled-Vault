@@ -1,11 +1,9 @@
-# Reach of the Council
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Reach of the Council.png]]
 
-## Description
+# Flavour Text
 We stand together. We strike together.
 
-## Details
+# Details
 - Bow
 - Physical Damage: (72-94.5) to (240-306.25)
 - Critical Strike Chance: 6.50%
@@ -21,9 +19,9 @@ We stand together. We strike together.
 - Arrows fired from the third firing points Return to you
 - Arrows fired from the fourth firing points Chain +2 times
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

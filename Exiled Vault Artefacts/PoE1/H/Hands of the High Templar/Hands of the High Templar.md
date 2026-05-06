@@ -1,11 +1,9 @@
-# Hands of the High Templar
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hands of the High Templar.png]]
 
-## Description
+# Flavour Text
 The laws of the faith do not apply to its leader.
 
-## Details
+# Details
 - Armour: (302-417)
 - Energy Shield: (62-84)
 - Requires Level 66, 51 Str, 51 Int
@@ -15,9 +13,9 @@ The laws of the faith do not apply to its leader.
 - (7-12)% increased maximum Life
 - +(20-30)% to Fire and Lightning Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

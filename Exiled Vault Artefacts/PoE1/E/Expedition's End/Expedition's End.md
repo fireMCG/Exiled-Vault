@@ -1,11 +1,9 @@
-# Expedition's End
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Expedition's End.png]]
 
-## Description
+# Flavour Text
 He may have returned from the frozen southern reaches, but that doesn't mean he ever truly escaped them.
 
-## Details
+# Details
 - Evasion: (660-925)
 - Energy Shield: (134-190)
 - Movement Speed: -3%
@@ -16,9 +14,9 @@ He may have returned from the frozen southern reaches, but that doesn't mean he 
 - Freeze Chilled Enemies as though dealing (50-100)% more Damage
 - Nearby Enemies are Chilled
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

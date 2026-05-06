@@ -1,11 +1,9 @@
-# Sand in the Eyes
-
-## Effects
+# Effects
 10% increased Attack Speed
 15% chance to Blind Enemies on Hit with Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

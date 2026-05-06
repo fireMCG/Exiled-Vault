@@ -1,14 +1,12 @@
-# The Oasis
-
-## Description
+# Flavour Text
 A paradise hidden amongst sunbleached bones and blistering dunes.
 
-## Connected Areas
+# Connected Areas
 - The Vastiri Desert
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

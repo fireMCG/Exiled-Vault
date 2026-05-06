@@ -1,11 +1,9 @@
-# Painseeker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Painseeker.png]]
 
-## Description
+# Flavour Text
 Lay bare paths to pain you never knew you had.
 
-## Details
+# Details
 - Evasion: (283-466)
 - Requires Level 54, 78 Dex
 - Adds (16-19) to (25-29) Fire Damage
@@ -15,9 +13,9 @@ Lay bare paths to pain you never knew you had.
 - Critical Strikes do not inherently inflict non-Damaging Ailments
 - Inflict non-Damaging Ailments as though dealing (100-200)% more Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

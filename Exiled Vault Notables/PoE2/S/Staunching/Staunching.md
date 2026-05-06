@@ -1,11 +1,9 @@
-# Staunching
-
-## Effects
+# Effects
 Life Flasks gain 0.1 charges per Second
 +10 to Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

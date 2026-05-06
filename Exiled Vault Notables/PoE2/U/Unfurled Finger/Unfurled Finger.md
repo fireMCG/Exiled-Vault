@@ -1,12 +1,10 @@
-# Unfurled Finger
-
-## Effects
+# Effects
 +1 Ring Slot
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Ritualist
 #Huntress
+#Notable
 #PoE2

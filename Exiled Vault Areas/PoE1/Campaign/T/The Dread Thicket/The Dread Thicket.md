@@ -1,14 +1,12 @@
-# The Dread Thicket
-
-## Description
+# Flavour Text
 Unfettered nature. Unchained ferocity.
 
-## Connected Areas
+# Connected Areas
 - The Northern Forest
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

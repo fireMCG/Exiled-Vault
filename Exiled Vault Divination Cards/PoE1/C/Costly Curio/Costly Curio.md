@@ -1,17 +1,15 @@
-# Costly Curio
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Costly Curio.png]]
 
-## Description
+# Flavour Text
 "Oh no, I couldn't possibly afford this fine artefact. I'm... just looking."
 
-## Reward
+# Reward
 Item
 Double-Influenced Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

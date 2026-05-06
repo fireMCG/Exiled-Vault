@@ -1,12 +1,10 @@
-# Abhorrent Interrogation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Abhorrent Interrogation.png]]
 
-## Description
+# Flavour Text
 "We have methods of interrogation the Inquisitors only dream of."
 - Marcus, Brotherhood Liaison
 
-## Details
+# Details
 - Evasion: (162-227)
 - Energy Shield: (34-47)
 - Requires Level 45, 35 Dex, 35 Int
@@ -17,9 +15,9 @@
 - each Withered you have inflicted on them
 - Your Hits cannot Penetrate or ignore Elemental Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

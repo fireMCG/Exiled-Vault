@@ -1,14 +1,12 @@
-# Soulbound
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Soulbound.png]]
 
-## Description
+# Flavour Text
 "Slay my twin and I will inherit her wisdom.
 Slay me and her life will be prolonged by my demise.
 Our souls are eternally bound by the sacrifices we have made."
 - High Priest Atazek
 
-## Details
+# Details
 - Requires Level 44
 - +(20-30) to maximum Mana
 - +(10-20) to all Attributes
@@ -17,9 +15,9 @@ Our souls are eternally bound by the sacrifices we have made."
 - Linked Targets Cannot Die for 2 seconds after you Die
 - Lose no Experience when you die because a Linked target died
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Oba's Cursed Trove
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Oba's Cursed Trove.png]]
 
-## Description
+# Flavour Text
 "Here the soil is more deadly than any swing of the axe."
 - Oba of the Karui, Conqueror of Corruption.
 
-## Details
+# Details
 - Monster Level: 68
 - Item Quantity: +40%
 - Area has patches of desecrated ground
@@ -17,9 +15,9 @@
 - Area becomes fatal after some time
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

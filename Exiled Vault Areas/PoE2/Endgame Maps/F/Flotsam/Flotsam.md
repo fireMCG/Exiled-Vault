@@ -1,11 +1,9 @@
-# Flotsam
-
-## Description
+# Flavour Text
 Violent seas and hungry shores devour vessels, crew and all.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

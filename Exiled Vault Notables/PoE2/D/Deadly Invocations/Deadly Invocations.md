@@ -1,10 +1,8 @@
-# Deadly Invocations
-
-## Effects
+# Effects
 Invocation Spells have 50% increased Critical Damage Bonus
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

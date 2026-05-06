@@ -1,10 +1,8 @@
-# Marathon Runner
-
-## Effects
+# Effects
 12% increased Movement Speed while Sprinting
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

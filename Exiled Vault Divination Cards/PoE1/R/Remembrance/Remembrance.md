@@ -1,19 +1,17 @@
-# Remembrance
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Remembrance.png]]
 
-## Description
+# Flavour Text
 "For all your struggles, all your achievements, even for the greatest of us, a story is all that remains. Write it well." 
 
 -Julius Perandus, Father of Chitus
 
-## Reward
+# Reward
 Precursor's Emblem
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Emperor/ChitusPerandus
 #Character/JuliusPerandus
 #Category/DivinationCard

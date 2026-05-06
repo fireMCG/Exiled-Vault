@@ -1,12 +1,10 @@
-# Nightgrip
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Nightgrip.png]]
 
-## Description
+# Flavour Text
 Those heroes that set foot on  found
 themselves changing, only subtly at first...
 
-## Details
+# Details
 - Ward: (82-105)
 - Requires Level 48, 31 Str, 31 Dex, 31 Int
 - (33-48)% increased Ward
@@ -14,9 +12,9 @@ themselves changing, only subtly at first...
 - Gain Added Chaos Damage equal to 10% of Ward
 - 75% of Damage taken bypasses Ward
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

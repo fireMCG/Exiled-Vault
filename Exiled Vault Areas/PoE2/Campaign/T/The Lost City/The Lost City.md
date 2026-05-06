@@ -1,15 +1,13 @@
-# The Lost City
-
-## Description
+# Flavour Text
 A place of worship forgotten by the ages.
 
-## Connected Areas
+# Connected Areas
 - Keth
 - Buried Shrines
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

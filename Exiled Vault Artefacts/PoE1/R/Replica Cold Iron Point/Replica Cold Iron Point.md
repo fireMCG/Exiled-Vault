@@ -1,13 +1,11 @@
-# Replica Cold Iron Point
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Cold Iron Point.png]]
 
-## Description
+# Flavour Text
 "Researchers will refrain from scaring each other by firing ice spears while holding
 Prototype #141. Sooner or later, someone's going to lose an eye."
 - Administrator Qotra
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: 20-79
 - Critical Strike Chance: 8.50%
@@ -18,9 +16,9 @@ Prototype #141. Sooner or later, someone's going to lose an eye."
 - +3 to Level of all Cold Spell Skill Gems
 - Deal no Cold Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Qotra
 #Artefact

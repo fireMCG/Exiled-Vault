@@ -1,13 +1,11 @@
-# Arvil's Wheel
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Arvil's Wheel.png]]
 
-## Description
+# Flavour Text
 The unending carnage of war
 mercilessly grinds away
 at body and mind.
 
-## Details
+# Details
 - Shield
 - Chance to Block: 25%
 - Armour: (16-20)
@@ -21,9 +19,9 @@ at body and mind.
 - Lose 1% of maximum Mana on Kill
 - (30-50)% increased Skill Effect Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

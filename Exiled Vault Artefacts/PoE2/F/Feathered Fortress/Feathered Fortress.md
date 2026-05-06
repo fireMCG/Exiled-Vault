@@ -1,11 +1,9 @@
-# Feathered Fortress
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Feathered Fortress.png]]
 
-## Description
+# Flavour Text
 Ride the western wind, and take flight.
 
-## Details
+# Details
 - Shield
 - Chance to Block: 25%
 - Armour: 39
@@ -19,9 +17,9 @@ Ride the western wind, and take flight.
 - +(20-30)% to Cold Resistance
 - No Movement Speed Penalty while Shield is Raised
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,13 +1,11 @@
-# Ngamahu's Flame
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ngamahu's Flame.png]]
 
-## Description
+# Flavour Text
 "The Karui savages claim the weapon was forged by their fire god.
 I'm rather inclined to believe them."
 - Fairgraves, Renowned Explorer
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (218.7-234.9) to (326.7-350.9)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ I'm rather inclined to believe them."
 - 60% of Physical Damage Converted to Fire Damage
 - Damage Penetrates 20% Fire Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

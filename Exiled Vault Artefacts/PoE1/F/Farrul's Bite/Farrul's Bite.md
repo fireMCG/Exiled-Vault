@@ -1,11 +1,9 @@
-# Farrul's Bite
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Farrul's Bite.png]]
 
-## Description
+# Flavour Text
 It is a fool who strikes the turtle's shell. The First of the Plains teaches us to exploit weaknesses, and where no weakness can be found, to create one.
 
-## Details
+# Details
 - Evasion: (439-592)
 - Energy Shield: (89-121)
 - Requires Level 57, 64 Dex, 64 Int
@@ -16,9 +14,9 @@ It is a fool who strikes the turtle's shell. The First of the Plains teaches us 
 - Critical Strikes have (10-20)% chance to Blind Enemies while you have Cat's Stealth
 - (40-50)% increased Damage with Hits and Ailments against Blinded Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,17 +1,15 @@
-# Hope
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Hope.png]]
 
-## Description
+# Flavour Text
 The others succumbed to madness and depravity, but Lori fought on. Alone in the darkness, she could still see the dull light of hope's distant dawn.
 
-## Reward
+# Reward
 Prismatic Ring
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Blindness
 #Concept/Darkness
 #Concept/Time/Dawn

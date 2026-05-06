@@ -1,16 +1,14 @@
-# The Long Watch
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Long Watch.png]]
 
-## Description
+# Flavour Text
 The rain pelts down, Mud grasping at his feet, as thoughts of those in his care bolster his resolve.
 
-## Reward
+# Reward
 The Fourth Vow
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

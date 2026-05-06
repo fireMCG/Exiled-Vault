@@ -1,11 +1,9 @@
-# Spirit Bond
-
-## Effects
+# Effects
 30% increased Totem Life
 30% increased Totem Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

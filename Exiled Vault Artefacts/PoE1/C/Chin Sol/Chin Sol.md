@@ -1,12 +1,10 @@
-# Chin Sol
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Chin Sol.png]]
 
-## Description
+# Flavour Text
 As a soldier you want to get close to enemy archers.
 That is not the case when fighting the Maraketh.
 
-## Details
+# Details
 - Bow
 - Physical Damage: (86-103.2) to (260-312)
 - Elemental Damage: 25-50
@@ -21,9 +19,9 @@ That is not the case when fighting the Maraketh.
 - 50% more Damage with Arrow Hits at Close Range
 - Bow Knockback at Close Range
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

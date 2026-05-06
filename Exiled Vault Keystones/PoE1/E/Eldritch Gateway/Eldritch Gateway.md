@@ -1,16 +1,14 @@
-# Eldritch Gateway
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Eldritch Gateway.webp]]
 
-## Description
+# Flavour Text
 The curious gaze up at the stars...
 
-## Effects
+# Effects
 Connects to Eldritch Gateway
 (Allocating a Gateway allows you to allocate Atlas Passive Skills from its connected Gateway)
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

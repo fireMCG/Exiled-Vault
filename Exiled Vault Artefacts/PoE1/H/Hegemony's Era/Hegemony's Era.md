@@ -1,13 +1,11 @@
-# Hegemony's Era
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hegemony's Era.png]]
 
-## Description
+# Flavour Text
 The right to rule demands mental acuity,
 a strong arm,
 And a tenacious sense of justice.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: (208-218) to (296-311)
 - Critical Strike Chance: (8.80-9.60)%
@@ -22,9 +20,9 @@ And a tenacious sense of justice.
 - +1 to Maximum Power Charges
 - 10% chance to gain a Power Charge if you Knock an Enemy Back with Melee Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

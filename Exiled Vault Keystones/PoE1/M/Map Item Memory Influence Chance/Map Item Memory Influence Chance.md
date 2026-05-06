@@ -1,12 +1,10 @@
-# Map Item Memory Influence Chance
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Map Item Memory Influence Chance.webp]]
 
-## Effects
+# Effects
 10% increased chance for Maps found in your Maps to have Memory Influence
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

@@ -1,11 +1,9 @@
-# Crown of the Inward Eye
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Crown of the Inward Eye.png]]
 
-## Description
+# Flavour Text
 Divinity is not the only path to enlightenment.
 
-## Details
+# Details
 - Armour: (969-1117)
 - Energy Shield: (138-160)
 - Requires Level 63, 85 Str, 62 Int
@@ -15,9 +13,9 @@ Divinity is not the only path to enlightenment.
 - Transfiguration of Body
 - Transfiguration of Mind
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

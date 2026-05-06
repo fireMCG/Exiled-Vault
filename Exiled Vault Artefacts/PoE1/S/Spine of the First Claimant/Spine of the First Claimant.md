@@ -1,14 +1,12 @@
-# Spine of the First Claimant
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Spine of the First Claimant.png]]
 
-## Description
+# Flavour Text
 Thousands gazed upon the doors of the great labyrinth,
 at an Eternal Champion in steel and gold,
 The first to challenge its treacherous traps.
 To mark the occasion, Izaro had the Champion's remains gilded.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: (54-64.8) to (80-96)
 - Critical Strike Chance: 7.00%
@@ -24,9 +22,9 @@ To mark the occasion, Izaro had the Champion's remains gilded.
 - (4-8)% increased Cast Speed
 - 5% chance to Freeze
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

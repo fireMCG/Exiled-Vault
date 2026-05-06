@@ -1,12 +1,10 @@
-# Corona Solaris
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Corona Solaris.png]]
 
-## Description
+# Flavour Text
 Legend tells of a time when Solaris will burst forth from Lunaris,
 and night will be eternally banished.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 24-45
 - Elemental Damage: (30-45) to (60-80)
@@ -23,9 +21,9 @@ and night will be eternally banished.
 - Increases and Reductions to Light Radius also apply to Accuracy
 - Adds (145-157) to (196-210) Fire Damage to Hits with this Weapon against Blinded Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

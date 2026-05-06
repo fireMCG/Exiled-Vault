@@ -1,12 +1,10 @@
-# Reefbane
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Reefbane.png]]
 
-## Description
+# Flavour Text
 He cast far into the ocean
 And tore out her heart.
 
-## Details
+# Details
 - Fishing Rod
 - Physical Damage: 8-15
 - Critical Strike Chance: 5.00%
@@ -17,9 +15,9 @@ And tore out her heart.
 - (10-20)% increased Quantity of Fish Caught
 - Glows while in an Area containing a Unique Fish
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

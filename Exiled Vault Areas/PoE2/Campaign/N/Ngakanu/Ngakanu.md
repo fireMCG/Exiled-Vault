@@ -1,14 +1,12 @@
-# Ngakanu
-
-## Description
+# Flavour Text
 Home of the Tukohama tribe.
 
-## Connected Areas
+# Connected Areas
 - Kingsmarch
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

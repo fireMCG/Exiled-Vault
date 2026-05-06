@@ -1,21 +1,19 @@
-# The One With All
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The One With All.png]]
 
-## Description
+# Flavour Text
 Embrace death to honour the lost,
 no fear in life no matter the cost. 
 With one of all we are, 
 and all of one we trust, 
 throughout past, present and future... be just.
 
-## Reward
+# Reward
 Le Heup of All
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

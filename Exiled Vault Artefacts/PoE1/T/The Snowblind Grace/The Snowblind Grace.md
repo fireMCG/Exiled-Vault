@@ -1,12 +1,10 @@
-# The Snowblind Grace
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Snowblind Grace.png]]
 
-## Description
+# Flavour Text
 We dance in the white, like water,
 colliding as many and emerging as one.
 
-## Details
+# Details
 - Evasion: (1537-1964)
 - Movement Speed: -3%
 - Requires Level 65, 197 Dex
@@ -16,9 +14,9 @@ colliding as many and emerging as one.
 - 50% increased Arctic Armour Buff Effect
 - Arctic Armour has no Reservation
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

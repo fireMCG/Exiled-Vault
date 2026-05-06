@@ -1,11 +1,9 @@
-# Hidden Grotto
-
-## Description
+# Flavour Text
 Shafts of light raise life where they fall.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

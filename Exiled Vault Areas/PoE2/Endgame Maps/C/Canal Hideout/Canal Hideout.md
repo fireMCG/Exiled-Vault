@@ -1,11 +1,9 @@
-# Canal Hideout
-
-## Description
+# Flavour Text
 A moment in time, on the eve of the end.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

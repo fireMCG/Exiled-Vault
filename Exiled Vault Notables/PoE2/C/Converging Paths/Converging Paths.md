@@ -1,12 +1,10 @@
-# Converging Paths
-
-## Effects
+# Effects
 Grants Skill: Moment of Vulnerability
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Oracle
 #Druid
+#Notable
 #PoE2

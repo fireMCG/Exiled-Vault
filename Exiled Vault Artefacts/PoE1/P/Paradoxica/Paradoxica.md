@@ -1,11 +1,9 @@
-# Paradoxica
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Paradoxica.png]]
 
-## Description
+# Flavour Text
 What has no siblings but is always a twin?
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: 22-87
 - Critical Strike Chance: 6.50%
@@ -17,9 +15,9 @@ What has no siblings but is always a twin?
 - Veiled (prefix)
 - of the Veil (suffix)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

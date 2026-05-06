@@ -1,14 +1,12 @@
-# Census Records
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Census Records.png]]
 
-## Description
+# Flavour Text
 Loved her like she was my own daughter.
 I just want to know she's safe.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE1

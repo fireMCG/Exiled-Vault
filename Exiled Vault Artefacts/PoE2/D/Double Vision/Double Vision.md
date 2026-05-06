@@ -1,12 +1,10 @@
-# Double Vision
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Double Vision.png]]
 
-## Description
+# Flavour Text
 For those without a home in the Vastiri, the
 hot day is harsh, but the chill night is far worse.
 
-## Details
+# Details
 - Crossbow
 - Physical Damage: (23-30) to (62-74)
 - Critical Strike Chance: 10.00%
@@ -21,9 +19,9 @@ hot day is harsh, but the chill night is far worse.
 - gain (2-6) Cold Surges or (2-6) Fire Surges
 - (15-25)% increased Reload Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

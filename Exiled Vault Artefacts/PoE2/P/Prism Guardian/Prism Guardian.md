@@ -1,11 +1,9 @@
-# Prism Guardian
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Prism Guardian.png]]
 
-## Description
+# Flavour Text
 When blood is paid, the weak think twice.
 
-## Details
+# Details
 - Shield
 - Chance to Block: 25%
 - Armour: (210-252)
@@ -19,9 +17,9 @@ When blood is paid, the weak think twice.
 - 1% increased Spirit Reservation Efficiency of Buff Skills per 100 Maximum Life
 - +50 to Spirit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,13 +1,11 @@
-# Vivinsect
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Vivinsect.png]]
 
-## Description
+# Flavour Text
 "Fusing the parasite with another ring has manifested unpredictable effects.
 I theorise the sacrificial vessel's level of anguish is a key variable.
 - Arzaak, Syndicate Researcher
 
-## Details
+# Details
 - Requires Level 45
 - Has 1 Socket
 - +5 to Level of Socketed Aura Gems
@@ -17,9 +15,9 @@ I theorise the sacrificial vessel's level of anguish is a key variable.
 - -2 to Total Mana Cost of Skills for each Corrupted Item Equipped
 - of the Veil (suffix)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

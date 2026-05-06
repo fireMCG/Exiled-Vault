@@ -1,11 +1,9 @@
-# Sign of the Sin Eater
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Sign of the Sin Eater.png]]
 
-## Description
+# Flavour Text
 A secret few among the Templars grant absolution by bearing the guilt of others.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 43-80
 - Critical Strike Chance: 7.00%
@@ -17,9 +15,9 @@ A secret few among the Templars grant absolution by bearing the guilt of others.
 - Grants Level 30 Smite Skill
 - Enemies inflict Elemental Ailments on you instead of nearby Allies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,10 +1,8 @@
-# Master Fletching
-
-## Effects
+# Effects
 20% increased bonuses gained from Equipped Quiver
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

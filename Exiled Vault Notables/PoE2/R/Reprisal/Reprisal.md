@@ -1,10 +1,8 @@
-# Reprisal
-
-## Effects
+# Effects
 25% increased Parried Debuff Magnitude
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

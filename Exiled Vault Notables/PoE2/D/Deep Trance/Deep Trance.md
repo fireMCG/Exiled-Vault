@@ -1,11 +1,9 @@
-# Deep Trance
-
-## Effects
+# Effects
 8% increased Attack Speed
 15% increased Cost Efficiency
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

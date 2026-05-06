@@ -1,14 +1,12 @@
-# The Refuge
-
-## Description
+# Flavour Text
 By blood, sweat, and tears, the Ezomytes rebuild.
 
-## Connected Areas
+# Connected Areas
 - Scorched Farmlands
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

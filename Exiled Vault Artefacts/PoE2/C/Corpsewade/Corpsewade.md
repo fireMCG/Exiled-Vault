@@ -1,11 +1,9 @@
-# Corpsewade
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Corpsewade.png]]
 
-## Description
+# Flavour Text
 Natural decay can be twisted to dark ends.
 
-## Details
+# Details
 - Armour: (61-70)
 - Requires Level 11, 17 Str
 - Grants Skill: Level (4-20) Decompose
@@ -14,9 +12,9 @@ Natural decay can be twisted to dark ends.
 - +(5-10) to Strength
 - Trigger Decompose every 1.2 metres travelled
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

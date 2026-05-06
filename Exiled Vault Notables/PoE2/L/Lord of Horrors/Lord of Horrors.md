@@ -1,10 +1,8 @@
-# Lord of Horrors
-
-## Effects
+# Effects
 12% increased Reservation Efficiency of Minion Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

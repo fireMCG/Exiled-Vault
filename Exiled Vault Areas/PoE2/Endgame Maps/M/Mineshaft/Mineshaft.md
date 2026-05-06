@@ -1,11 +1,9 @@
-# Mineshaft
-
-## Description
+# Flavour Text
 A dark labyrinth of steel and stone.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

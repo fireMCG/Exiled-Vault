@@ -1,12 +1,10 @@
-# Replica Veil of the Night
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Veil of the Night.png]]
 
-## Description
+# Flavour Text
 "Prototype #722 might look like a helmet, but I believe it to be something else entirely.
 The visions it shows the wearer... are beyond mortal endurance..."
 
-## Details
+# Details
 - Armour: (61-76)
 - Energy Shield: (14-17)
 - Requires Level 22, 27 Str, 27 Int
@@ -16,9 +14,9 @@ The visions it shows the wearer... are beyond mortal endurance..."
 - Defences are Zero
 - (18-22)% increased Elemental Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

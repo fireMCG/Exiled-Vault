@@ -1,11 +1,9 @@
-# Kaom's Heart
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Kaom's Heart.png]]
 
-## Description
+# Flavour Text
 The warrior who fears will fall.
 
-## Details
+# Details
 - Armour: 445
 - Movement Speed: -5.0%
 - Requires Level 68, 121 Str
@@ -13,9 +11,9 @@ The warrior who fears will fall.
 - +1500 to maximum Life
 - You have no Spirit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

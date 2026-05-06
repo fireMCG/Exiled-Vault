@@ -1,10 +1,8 @@
-# Agile Sprinter
-
-## Effects
+# Effects
 100% increased Evasion Rating while Sprinting
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

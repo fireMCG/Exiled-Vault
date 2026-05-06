@@ -1,11 +1,9 @@
-# Glorious Vanity
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Glorious Vanity.png]]
 
-## Description
+# Flavour Text
 They believed themselves the pinnacle of civilisation, but that height toppled their empire.
 
-## Details
+# Details
 - Limited to: 1 Historic
 - Radius: Large
 - Bathed in the blood of (100-8000) sacrificed in the name of
@@ -13,9 +11,9 @@ They believed themselves the pinnacle of civilisation, but that height toppled t
 - Historic
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,15 +1,13 @@
-# Etched Ravine
-
-## Description
+# Flavour Text
 The Architect of Expansion cut his way into the mountainside.
 
-## Connected Areas
+# Connected Areas
 - Kriar Peaks
 - The Cuachic Vault
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

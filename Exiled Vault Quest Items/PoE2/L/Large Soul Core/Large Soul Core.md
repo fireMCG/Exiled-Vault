@@ -1,14 +1,12 @@
-# Large Soul Core
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Large Soul Core.png]]
 
-## Description
+# Flavour Text
 Heat emanates from the facets,
 living warmth encased in crystal.
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Crystal
 #Concept/Soul
 #Category/QuestItem

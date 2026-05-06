@@ -1,16 +1,14 @@
-# Chaotic Disposition
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Chaotic Disposition.png]]
 
-## Description
+# Flavour Text
 Life isn't what you make of it, it's already been made for you.
 
-## Reward
+# Reward
 5x Chaos Orb
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Balance/Chaos
 #Concept/Fate

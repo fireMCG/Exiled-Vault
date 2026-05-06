@@ -1,10 +1,8 @@
-# Defensive Stance
-
-## Effects
+# Effects
 +4% to maximum Block chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

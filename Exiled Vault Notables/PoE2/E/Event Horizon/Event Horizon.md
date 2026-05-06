@@ -1,11 +1,9 @@
-# Event Horizon
-
-## Effects
+# Effects
 53% increased Chaos Damage
 Lose 3% of maximum Life and Energy Shield when you use a Chaos Skill
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,10 +1,8 @@
-# Howling Beast
-
-## Effects
+# Effects
 Warcries inflict 3 Critical Weakness on Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

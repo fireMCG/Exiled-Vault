@@ -1,11 +1,9 @@
-# Reverberation Rod
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Reverberation Rod.png]]
 
-## Description
+# Flavour Text
 If it's worth doing once, it's worth doing twice.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 11-32
 - Critical Strike Chance: 8.00%
@@ -18,9 +16,9 @@ If it's worth doing once, it's worth doing twice.
 - Socketed Gems are Supported by Level 10 Arcane Surge
 - +(10-30) to Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

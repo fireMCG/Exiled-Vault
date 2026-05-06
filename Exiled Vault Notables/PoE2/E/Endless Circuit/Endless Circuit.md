@@ -1,10 +1,8 @@
-# Endless Circuit
-
-## Effects
+# Effects
 25% chance on Consuming a Shock on an Enemy to reapply it
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

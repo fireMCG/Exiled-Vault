@@ -1,13 +1,11 @@
-# Chitus' Plum
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Chitus' Plum.png]]
 
-## Description
+# Flavour Text
 As succulent as blood, as sweet as power.
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Emperor/ChitusPerandus
 #Category/QuestItem
 #QuestItem

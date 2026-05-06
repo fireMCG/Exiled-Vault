@@ -1,10 +1,8 @@
-# Split Shot
-
-## Effects
+# Effects
 Projectiles have 75% chance for an additional Projectile when Forking
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

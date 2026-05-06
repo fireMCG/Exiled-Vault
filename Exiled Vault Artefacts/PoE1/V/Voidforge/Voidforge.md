@@ -1,12 +1,10 @@
-# Voidforge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Voidforge.png]]
 
-## Description
+# Flavour Text
 A weapon born of nothingness,
 can only create more nothingness.
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: 62-129
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ can only create more nothingness.
 - 20% increased Area of Effect for Attacks
 - Deal no Non-Elemental Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

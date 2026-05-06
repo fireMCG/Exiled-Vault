@@ -1,11 +1,9 @@
-# The Hand of Phrecia
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Hand of Phrecia.png]]
 
-## Description
+# Flavour Text
 To drive back the darkness, to bring peace, we must fight side by side as brothers.
 
-## Details
+# Details
 - Armour: (87-113)
 - Energy Shield: (18-23)
 - Requires Level 32, 26 Str, 26 Int
@@ -15,9 +13,9 @@ To drive back the darkness, to bring peace, we must fight side by side as brothe
 - Linked Targets always count as in range of Non-Curse Auras from your Skills
 - Non-Curse Auras from your Skills only apply to you and Linked Targets
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

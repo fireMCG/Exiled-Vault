@@ -1,11 +1,9 @@
-# Horned Scarab of Pandemonium
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Horned Scarab of Pandemonium.webp]]
 
-## Description
+# Flavour Text
 Punctured dreams bleed into the mind.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,9 +13,9 @@ Modifiers to the Final Map Boss also apply to these Atlas Bosses
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Scarab
 #Fragment
 #PoE1

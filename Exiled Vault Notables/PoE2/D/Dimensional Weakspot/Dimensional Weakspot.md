@@ -1,10 +1,8 @@
-# Dimensional Weakspot
-
-## Effects
+# Effects
 Hits have 15% chance to treat Enemy Monster Elemental Resistance values as inverted
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

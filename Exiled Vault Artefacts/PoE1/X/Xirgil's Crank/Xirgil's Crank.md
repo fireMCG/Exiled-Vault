@@ -1,15 +1,13 @@
-# Xirgil's Crank
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Xirgil's Crank.png]]
 
-## Description
+# Flavour Text
 "Since one with knowledge of machines
 might be able to bring the labyrinth to a standstill,
 Izaro had us place many boobytrapped decoys.
 But I know which switch brings the monster down."
 - Xirgil, Trapbuilder's final words.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 27-57
 - Critical Strike Chance: 7.70%
@@ -24,9 +22,9 @@ But I know which switch brings the monster down."
 - Reflects 1 to 150 Lightning Damage to Melee Attackers
 - (25-35)% chance for Energy Shield Recharge to start when you Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

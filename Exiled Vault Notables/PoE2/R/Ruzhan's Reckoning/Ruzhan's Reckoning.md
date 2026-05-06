@@ -1,12 +1,10 @@
-# Ruzhan's Reckoning
-
-## Effects
+# Effects
 Grants Skill: Ruzhan's Reckoning
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

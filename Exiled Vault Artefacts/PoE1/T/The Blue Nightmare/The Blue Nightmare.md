@@ -1,12 +1,10 @@
-# The Blue Nightmare
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Blue Nightmare.png]]
 
-## Description
+# Flavour Text
 We swell and flood
 and drown the undeserving beneath our might.
 
-## Details
+# Details
 - Limited to: 1
 - Radius: Large
 - Gain (6-10)% of Lightning Damage as Extra Chaos Damage
@@ -14,9 +12,9 @@ and drown the undeserving beneath our might.
 - also grant Chance to Block Spell Damage at 50% of its value
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

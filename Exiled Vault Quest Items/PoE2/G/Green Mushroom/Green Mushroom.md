@@ -1,13 +1,11 @@
-# Green Mushroom
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Green Mushroom.png]]
 
-## Description
+# Flavour Text
 A curious find...
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE2

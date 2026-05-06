@@ -1,12 +1,10 @@
-# Dreadsurge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Dreadsurge.png]]
 
-## Description
+# Flavour Text
 Make a man hot, and his heart will skip a beat.
 Set a man on fire, and his heart will skip all beats.
 
-## Details
+# Details
 - One Handed Axe
 - Physical Damage: (17-27) to (55-60)
 - Elemental Damage: (223-250) to (264-280)
@@ -21,9 +19,9 @@ Set a man on fire, and his heart will skip all beats.
 - 5% increased Movement Speed
 - Hits ignore Enemy Monster Fire Resistance while you are Ignited
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

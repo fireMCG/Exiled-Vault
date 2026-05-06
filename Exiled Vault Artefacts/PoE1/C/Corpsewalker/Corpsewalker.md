@@ -1,12 +1,10 @@
-# Corpsewalker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Corpsewalker.png]]
 
-## Description
+# Flavour Text
 Every glorious conquest
 stands astride innocent bones.
 
-## Details
+# Details
 - Evasion: (178-257)
 - Energy Shield: (36-52)
 - Requires Level 55, 52 Dex, 52 Int
@@ -16,9 +14,9 @@ stands astride innocent bones.
 - For each nearby corpse, 1% increased Movement Speed
 - For each nearby corpse, Regenerate 8.00 Life per second
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

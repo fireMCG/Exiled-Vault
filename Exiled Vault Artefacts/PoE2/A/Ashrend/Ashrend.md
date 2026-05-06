@@ -1,11 +1,9 @@
-# Ashrend
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Ashrend.png]]
 
-## Description
+# Flavour Text
 The blasted oak stands forever.
 
-## Details
+# Details
 - Evasion: 78
 - Movement Speed: -3.0%
 - Requires Level 11, 21 Dex
@@ -15,9 +13,9 @@ The blasted oak stands forever.
 - Cannot be Ignited
 - -10 Physical Damage taken from Attack Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

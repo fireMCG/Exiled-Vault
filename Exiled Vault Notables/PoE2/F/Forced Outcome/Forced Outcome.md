@@ -1,12 +1,10 @@
-# Forced Outcome
-
-## Effects
+# Effects
 Inevitable Critical Hits
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Oracle
 #Druid
+#Notable
 #PoE2

@@ -1,12 +1,10 @@
-# Replica Pure Talent
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Pure Talent.png]]
 
-## Description
+# Flavour Text
 "Twelve test subjects were expended in the production of Prototype #800.
 Was it worth the expense? Only time will tell."
 
-## Details
+# Details
 - Limited to: 1
 - While your Passive Skill Tree connects to a class' starting location, you gain:
 - Marauder: 1% of Life Regenerated per second
@@ -18,9 +16,9 @@ Was it worth the expense? Only time will tell."
 - Scion: 30% increased Damage
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Virtue/Gem
 #Artefact

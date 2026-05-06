@@ -1,14 +1,12 @@
-# Allure
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Allure.png]]
 
-## Description
+# Flavour Text
 What drives us to kill, to carve and to shred?
 What drives us to drink the seething souls of the dead?
 What drives us to love and to hold, but still go amiss?
 What drives us to leave this world for the Abyss?
 
-## Details
+# Details
 - Claw
 - Physical Damage: (92.4-112.7) to (222.6-266.8)
 - Critical Strike Chance: 8.00%
@@ -22,9 +20,9 @@ What drives us to leave this world for the Abyss?
 - 15% increased Movement Speed while Phasing
 - You gain Phasing for 10 seconds on using a Vaal Skill
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Abyss
 #Concept/Death

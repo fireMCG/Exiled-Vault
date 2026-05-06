@@ -1,16 +1,14 @@
-# The Wretched
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Wretched.png]]
 
-## Description
+# Flavour Text
 Necromancers, believe me, are more terrifying than their thralls.
 
-## Reward
+# Reward
 Belt
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Necromancy
 #Category/DivinationCard
 #DivinationCard

@@ -1,11 +1,9 @@
-# Coursing Energy
-
-## Effects
+# Effects
 40% increased Electrocute Buildup
 30% increased Shock Chance against Electrocuted Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

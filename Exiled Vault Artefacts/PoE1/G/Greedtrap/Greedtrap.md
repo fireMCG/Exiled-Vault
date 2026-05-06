@@ -1,11 +1,9 @@
-# Greedtrap
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Greedtrap.png]]
 
-## Description
+# Flavour Text
 A single taste leaves you wanting more.
 
-## Details
+# Details
 - Energy Shield: (98-121)
 - Requires Level 52, 21 Int
 - +(5-30) to Strength
@@ -15,9 +13,9 @@ A single taste leaves you wanting more.
 - (10-16)% increased Quantity of Items found when on Low Life
 - 20% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

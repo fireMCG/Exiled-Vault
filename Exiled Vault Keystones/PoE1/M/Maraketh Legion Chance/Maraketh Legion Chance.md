@@ -1,12 +1,10 @@
-# Maraketh Legion Chance
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Maraketh Legion Chance.webp]]
 
-## Effects
+# Effects
 Legion Encounters in your Maps have 55% increased chance to include a Maraketh army
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

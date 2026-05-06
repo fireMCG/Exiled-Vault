@@ -1,12 +1,10 @@
-# Apron of Emiran
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Apron of Emiran.png]]
 
-## Description
+# Flavour Text
 "Prepare the rack, boy. And be careful with those hooks!"
 - The Master Torturer's last words
 
-## Details
+# Details
 - Evasion: (20-24)
 - Energy Shield: (20-24)
 - Movement Speed: -3.0%
@@ -15,9 +13,9 @@
 - (60-40)% reduced Duration of Bleeding on You
 - Bleeding you inflict is Aggravated
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

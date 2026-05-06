@@ -1,12 +1,10 @@
-# Nascent Hope
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Nascent Hope.png]]
 
-## Description
+# Flavour Text
 "Even in the face of the Winter of the World,
 life found a way. The Spirit always provides."
 
-## Details
+# Details
 - Lasts 3.00 Seconds
 - Consumes 40 of 40 Charges on use
 - Immune to Freeze
@@ -16,9 +14,9 @@ life found a way. The Spirit always provides."
 - Energy Shield Recharge starts on use
 - Used automatically when condition is met. Can only hold charges while in belt. Refill at Wells or by killing monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

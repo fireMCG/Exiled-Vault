@@ -1,12 +1,10 @@
-# Starkonja's Head
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Starkonja's Head.png]]
 
-## Description
+# Flavour Text
 There was no hero made out of Starkonja's death,
 but merely a long sleep made eternal.
 
-## Details
+# Details
 - Evasion: (348-522)
 - Requires Level 50, 71 Dex
 - (100-200)% increased Evasion Rating
@@ -15,9 +13,9 @@ but merely a long sleep made eternal.
 - 150% increased Global Evasion Rating when on Low Life
 - 15% of Damage from Hits is taken from your Damageable Companion's Life before you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

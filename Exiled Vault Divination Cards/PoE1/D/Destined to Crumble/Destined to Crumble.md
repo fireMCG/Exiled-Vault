@@ -1,19 +1,17 @@
-# Destined to Crumble
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Destined to Crumble.png]]
 
-## Description
+# Flavour Text
 "Let us not forget the most important lesson the Vaal taught us:
 Nothing is eternal."
 - Siosa Foaga, Imperial Scholar
 
-## Reward
+# Reward
 Body Armour
 Item Level: 100
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Ash
 #Concept/Body

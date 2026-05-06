@@ -1,10 +1,8 @@
-# Bone Chains
-
-## Effects
+# Effects
 Physical Spell Critical Hits build Pin
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

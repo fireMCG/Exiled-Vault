@@ -1,12 +1,10 @@
-# Guttural Roar
-
-## Effects
+# Effects
 25% increased Warcry Speed
 Warcries Debilitate Enemies
 Warcry Skills have 25% increased Area of Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,11 +1,9 @@
-# Critical Overload
-
-## Effects
+# Effects
 15% increased Critical Hit Chance for Spells
 15% increased Spell Damage if you've dealt a Critical Hit Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

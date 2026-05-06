@@ -1,12 +1,10 @@
-# Delve Sulphite Quantity
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Delve Sulphite Quantity.webp]]
 
-## Effects
+# Effects
 Voltaxic Sulphite Veins and Chests in your Maps contain 6% increased Sulphite
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

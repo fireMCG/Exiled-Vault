@@ -1,9 +1,7 @@
-# The Deal
-
 ![[Exiled Vault Fragments/_Images/PoE1 - The Deal.webp]]
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

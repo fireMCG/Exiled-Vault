@@ -1,13 +1,11 @@
-# The Embalmer
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Embalmer.png]]
 
-## Description
+# Flavour Text
 "Decomposition takes hold too quickly!
 No, if we are to keep the specimen in perfect shape,
 we must begin the process before expiry."
 
-## Details
+# Details
 - Evasion: (90-101)
 - Energy Shield: (19-21)
 - Requires Level 50, 39 Dex, 39 Int
@@ -17,9 +15,9 @@ we must begin the process before expiry."
 - +(17-29)% to Chaos Resistance
 - (20-25)% increased Poison Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

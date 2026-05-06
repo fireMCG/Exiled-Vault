@@ -1,11 +1,9 @@
-# The Brass Dome
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Brass Dome.png]]
 
-## Description
+# Flavour Text
 The turtle's shell one day becomes its tomb.
 
-## Details
+# Details
 - Armour: (3321-4240)
 - Movement Speed: -5%
 - Requires Level 65, 177 Str
@@ -14,9 +12,9 @@ The turtle's shell one day becomes its tomb.
 - Strength provides no bonus to Maximum Life
 - Take no Extra Damage from Critical Strikes
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

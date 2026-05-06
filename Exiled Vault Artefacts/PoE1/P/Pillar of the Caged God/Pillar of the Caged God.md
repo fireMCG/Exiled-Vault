@@ -1,14 +1,12 @@
-# Pillar of the Caged God
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Pillar of the Caged God.png]]
 
-## Description
+# Flavour Text
 Forged to rule the waves and tide
 Destined to serve the monkey's paw
 Strong as a tower of iron
 Deft as the needle doubt
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 14-42
 - Critical Strike Chance: 7.60%
@@ -20,9 +18,9 @@ Deft as the needle doubt
 - 1% increased Attack Speed per 10 Dexterity
 - 16% increased Physical Weapon Damage per 10 Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,10 +1,8 @@
-# Thrill of Battle
-
-## Effects
+# Effects
 20% increased Attack Speed while Surrounded
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

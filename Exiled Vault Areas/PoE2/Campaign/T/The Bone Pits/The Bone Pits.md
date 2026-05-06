@@ -1,15 +1,13 @@
-# The Bone Pits
-
-## Description
+# Flavour Text
 Dark energies lurk among ancient bones.
 
-## Connected Areas
+# Connected Areas
 - Mastodon Badlands
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

@@ -1,14 +1,12 @@
-# Romira's Banquet
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Romira's Banquet.png]]
 
-## Description
+# Flavour Text
 The Empress gave Romira two sons
 Born of his brother's seed
 Romira threw her a banquet
 A perfidious meal indeed.
 
-## Details
+# Details
 - Requires Level 60
 - (20-30)% increased Global Critical Strike Chance
 - +333 to Accuracy Rating
@@ -18,9 +16,9 @@ A perfidious meal indeed.
 - Gain a Power Charge on Non-Critical Strike
 - Lose all Power Charges on Critical Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

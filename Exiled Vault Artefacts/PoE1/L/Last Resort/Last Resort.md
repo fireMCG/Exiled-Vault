@@ -1,11 +1,9 @@
-# Last Resort
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Last Resort.png]]
 
-## Description
+# Flavour Text
 Desperate times demand desperate measures.
 
-## Details
+# Details
 - Claw
 - Physical Damage: (10.8-12) to (37.8-42)
 - Critical Strike Chance: 7.30%
@@ -18,9 +16,9 @@ Desperate times demand desperate measures.
 - 100% increased Claw Physical Damage when on Low Life
 - 100% increased Accuracy Rating when on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

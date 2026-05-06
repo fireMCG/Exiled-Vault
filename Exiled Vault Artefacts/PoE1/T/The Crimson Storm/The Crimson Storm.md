@@ -1,12 +1,10 @@
-# The Crimson Storm
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Crimson Storm.png]]
 
-## Description
+# Flavour Text
 "There were no survivors. It had only been fired twice."
 - Order of the Djinn inscription
 
-## Details
+# Details
 - Bow
 - Physical Damage: (92.8-104.4) to (137.6-154.8)
 - Critical Strike Chance: (6.88-7.43)%
@@ -21,9 +19,9 @@
 - 50% chance to Maim Enemies on Critical Strike with Attacks
 - of the Veil (suffix)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

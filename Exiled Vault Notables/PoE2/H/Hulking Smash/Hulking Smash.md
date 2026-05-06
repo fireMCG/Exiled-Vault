@@ -1,11 +1,9 @@
-# Hulking Smash
-
-## Effects
+# Effects
 30% increased Stun Buildup
 +15 to Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

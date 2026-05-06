@@ -1,12 +1,10 @@
-# The Tides of Time
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Tides of Time.png]]
 
-## Description
+# Flavour Text
 There is an ebb and flow to all things,
 tangible to those who watch and wait.
 
-## Details
+# Details
 - Requires Level 78
 - +(260-320) to Armour and Evasion Rating
 - 100% increased Life Recovery from Flasks
@@ -16,9 +14,9 @@ tangible to those who watch and wait.
 - Mana Flasks gain (0-3) Charges every 3 seconds
 - Utility Flasks gain (0-3) Charges every 3 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

@@ -1,11 +1,9 @@
-# Ironride
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Ironride.png]]
 
-## Description
+# Flavour Text
 Let the rider's aim be true.
 
-## Details
+# Details
 - Armour: (70-79)
 - Evasion: (59-66)
 - Requires Level 16, 15 Str, 15 Dex
@@ -15,9 +13,9 @@ Let the rider's aim be true.
 - +(10-15)% to Lightning Resistance
 - You have no Accuracy Penalty at Distance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

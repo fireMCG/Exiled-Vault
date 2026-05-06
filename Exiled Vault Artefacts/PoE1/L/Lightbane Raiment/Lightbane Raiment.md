@@ -1,13 +1,11 @@
-# Lightbane Raiment
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Lightbane Raiment.png]]
 
-## Description
+# Flavour Text
 . . . and the Light faded and hope waned
 Zahndethus cast aside his faith
 and embraced the darkness.
 
-## Details
+# Details
 - Armour: (569-715)
 - Energy Shield: (118-148)
 - Movement Speed: -5%
@@ -20,9 +18,9 @@ and embraced the darkness.
 - Desecrated Ground deals 250 Chaos Damage per second (Hidden)
 - Desecrated Ground has a radius of 16 (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

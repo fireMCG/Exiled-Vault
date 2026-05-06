@@ -1,12 +1,10 @@
-# The Searing Touch
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Searing Touch.png]]
 
-## Description
+# Flavour Text
 Burn to cinders, scar and maim,
 Rule a world, bathed in flame.
 
-## Details
+# Details
 - Staff
 - Requires Level 16
 - Grants Skill: Level (5-20) Solar Orb
@@ -15,9 +13,9 @@ Rule a world, bathed in flame.
 - 100% increased Flammability Magnitude
 - 100% increased Ignite Magnitude
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

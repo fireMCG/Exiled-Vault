@@ -1,20 +1,18 @@
-# The Poet
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Poet.png]]
 
-## Description
+# Flavour Text
 God had forsaken the land 
 And Victario wept.
 Corruption consumed the land 
 And Victario's tears turned to blood.
 
-## Reward
+# Reward
 Blood of Corruption
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

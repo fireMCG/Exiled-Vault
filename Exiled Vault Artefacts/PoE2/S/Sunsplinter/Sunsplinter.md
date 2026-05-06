@@ -1,13 +1,11 @@
-# Sunsplinter
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Sunsplinter.png]]
 
-## Description
+# Flavour Text
 "Lundara held back the hordes, while Solerai rose to split the sky.
 With a single stroke, she ended the Winter of the World."
 - Wranga, tale-woman of the Wahida akhara
 
-## Details
+# Details
 - Buckler
 - Chance to Block: 20%
 - Evasion: (190-380)
@@ -45,9 +43,9 @@ With a single stroke, she ended the Winter of the World."
 - +2% to Maximum Cold Resistance
 - +1% to Maximum Lightning Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

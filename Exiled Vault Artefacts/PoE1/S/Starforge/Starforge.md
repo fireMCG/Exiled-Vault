@@ -1,11 +1,9 @@
-# Starforge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Starforge.png]]
 
-## Description
+# Flavour Text
 The end is written into the beginning.
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: (310-341) to (645-709.5)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ The end is written into the beginning.
 - 20% increased Area of Effect for Attacks
 - Deal no Elemental Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

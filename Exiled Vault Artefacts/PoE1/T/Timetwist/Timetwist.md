@@ -1,13 +1,11 @@
-# Timetwist
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Timetwist.png]]
 
-## Description
+# Flavour Text
 "Even for the great Magi,
 time passes without relent."
 - Doryani, Queen's Thaumaturgist
 
-## Details
+# Details
 - Requires Level 64
 - +(15-25) to maximum Energy Shield
 - (10-15)% increased Attack Speed
@@ -17,9 +15,9 @@ time passes without relent."
 - (-20-20)% increased Skill Effect Duration
 - Unaffected by Temporal Chains
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

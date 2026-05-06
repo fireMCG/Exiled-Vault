@@ -1,12 +1,10 @@
-# Kite Runner
-
-## Effects
+# Effects
 3% increased Movement Speed
 15% increased Projectile Speed
 15% increased Projectile Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

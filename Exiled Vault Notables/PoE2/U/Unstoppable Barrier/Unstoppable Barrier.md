@@ -1,11 +1,9 @@
-# Unstoppable Barrier
-
-## Effects
+# Effects
 10% increased Block chance
 15% reduced Slowing Potency of Debuffs on You
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

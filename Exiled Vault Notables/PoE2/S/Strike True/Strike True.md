@@ -1,11 +1,9 @@
-# Strike True
-
-## Effects
+# Effects
 20% increased Accuracy Rating
 +10 to Dexterity
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

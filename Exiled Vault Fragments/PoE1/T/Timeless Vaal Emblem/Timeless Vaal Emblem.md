@@ -1,8 +1,6 @@
-# Timeless Vaal Emblem
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Timeless Vaal Emblem.webp]]
 
-## Details
+# Details
 Map Fragments
 Limit: 1
 Portal: Domain of Timeless Conflict
@@ -16,8 +14,8 @@ map legion fragment faction vaal [1]
 map num legion fragments [1]
 Place two or more different Emblems in a Map Device to access the Domain of Timeless Conflict. Can only be used once. While viewing your Atlas, Right-click this item to pinpoint its location.
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

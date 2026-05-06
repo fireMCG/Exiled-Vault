@@ -1,11 +1,9 @@
-# Foxshade
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Foxshade.png]]
 
-## Description
+# Flavour Text
 To catch an animal, think like an animal.
 
-## Details
+# Details
 - Evasion: (94-114)
 - Movement Speed: -3.0%
 - Requires Level 4, 10 Dex
@@ -14,9 +12,9 @@ To catch an animal, think like an animal.
 - 10% increased Movement Speed when on Full Life
 - 100% increased Evasion Rating when on Full Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Soulwrest
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Soulwrest.png]]
 
-## Description
+# Flavour Text
 Death is but the start of your servitude.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 53-160
 - Critical Strike Chance: 8.50%
@@ -20,9 +18,9 @@ Death is but the start of your servitude.
 - Minions deal (90-102) to (132-156) additional Physical Damage
 - If you Consumed a corpse Recently, you and nearby Allies Regenerate 5% of Life per second
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

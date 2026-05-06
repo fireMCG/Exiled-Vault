@@ -1,15 +1,13 @@
-# Stones of Serle
-
-## Description
+# Flavour Text
 Ancient visitors brought magicks born of the stars themselves.
 
-## Connected Areas
+# Connected Areas
 - Scorched Farmlands
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

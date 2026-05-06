@@ -1,12 +1,10 @@
-# Great Old One's Ward
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Great Old One's Ward.png]]
 
-## Description
+# Flavour Text
 The horrors we've encountered are nothing
 compared to the horrors we haven't.
 
-## Details
+# Details
 - Chance to Block: 27%
 - Evasion: (227-272)
 - Movement Speed: -3%
@@ -17,9 +15,9 @@ compared to the horrors we haven't.
 - (6-10)% increased Attack Speed
 - +(50-70) to maximum Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

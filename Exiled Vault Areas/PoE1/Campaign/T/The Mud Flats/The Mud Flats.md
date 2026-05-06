@@ -1,16 +1,14 @@
-# The Mud Flats
-
-## Description
+# Flavour Text
 Mud and air seethes with warped life.
 
-## Connected Areas
+# Connected Areas
 - The Coast
 - The Submerged Passage
 - The Fetid Pool
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

@@ -1,11 +1,9 @@
-# Agnerod North
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Agnerod North.png]]
 
-## Description
+# Flavour Text
 One for each corner of the great Vinktar Square.
 
-## Details
+# Details
 - Staff
 - Physical Damage: 57-171
 - Critical Strike Chance: 8.50%
@@ -20,9 +18,9 @@ One for each corner of the great Vinktar Square.
 - 15% chance to Shock
 - Damage Penetrates 20% Lightning Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

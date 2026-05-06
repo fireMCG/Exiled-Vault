@@ -1,11 +1,9 @@
-# Immortal Thirst
-
-## Effects
+# Effects
 15% increased maximum Energy Shield
 25% increased amount of Mana Leeched
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

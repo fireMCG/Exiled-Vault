@@ -1,12 +1,10 @@
-# Navira's Oasis
-
-## Effects
+# Effects
 Grants Skill: Navira's Oasis
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

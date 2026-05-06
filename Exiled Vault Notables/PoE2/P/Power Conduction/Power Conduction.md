@@ -1,11 +1,9 @@
-# Power Conduction
-
-## Effects
+# Effects
 25% increased Shock Duration
 25% increased Magnitude of Shock you inflict
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

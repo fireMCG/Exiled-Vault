@@ -1,12 +1,10 @@
-# Fixation of Yix
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Fixation of Yix.png]]
 
-## Description
+# Flavour Text
 He knew not why he was changing, only
 that he wanted to hold his family close...
 
-## Details
+# Details
 - Requires Level 24
 - +(5-7) to all Attributes
 - +100 to maximum Life
@@ -16,9 +14,9 @@ that he wanted to hold his family close...
 - Allies in your Presence have (10-20)% increased Cast Speed
 - 50% reduced Presence Area of Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

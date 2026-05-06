@@ -1,13 +1,11 @@
-# The Eternal Apple
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Eternal Apple.png]]
 
-## Description
+# Flavour Text
 The empire is both the tree and the fruit.
 It provides safe harbour as ideas grow within, and when the time is right, the apple is picked.
 The idea, and our ideals, take root.
 
-## Details
+# Details
 - Chance to Block: 23%
 - Energy Shield: (42-48)
 - Movement Speed: -3%
@@ -20,9 +18,9 @@ The idea, and our ideals, take root.
 - Cannot Block
 - 50% increased Warcry Cooldown Recovery Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

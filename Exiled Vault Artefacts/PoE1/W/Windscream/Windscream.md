@@ -1,12 +1,10 @@
-# Windscream
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Windscream.png]]
 
-## Description
+# Flavour Text
 The mocking wind, a shielding spell,
 The haunting screams, a maddening hell.
 
-## Details
+# Details
 - Armour: (163-216)
 - Requires Level 33, 61 Str
 - (50-80)% increased Armour
@@ -15,9 +13,9 @@ The haunting screams, a maddening hell.
 - 20% increased Movement Speed
 - You can apply an additional Curse
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Fidelitas' Spike
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fidelitas' Spike.png]]
 
-## Description
+# Flavour Text
 Maligaro was transformed by Raulo's love.
 Thaumaturgy allowed Maligaro to return the favour.
 
-## Details
+# Details
 - One Handed Sword
 - Elemental Damage: 1 to (40-50)
 - Critical Strike Chance: 5.50%
@@ -21,9 +19,9 @@ Thaumaturgy allowed Maligaro to return the favour.
 - (15-20)% chance to Shock
 - Herald of Thunder has 50% increased Buff Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

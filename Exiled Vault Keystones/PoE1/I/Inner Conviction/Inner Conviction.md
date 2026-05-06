@@ -1,16 +1,14 @@
-# Inner Conviction
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Inner Conviction.webp]]
 
-## Description
+# Flavour Text
 Your every move is calm and calculated with absolute certainty.
 
-## Effects
+# Effects
 3% more Spell Damage per Power Charge
 Gain Power Charges instead of Frenzy Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

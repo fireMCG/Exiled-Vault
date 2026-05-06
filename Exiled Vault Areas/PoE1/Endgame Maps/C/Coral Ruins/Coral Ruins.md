@@ -1,13 +1,11 @@
-# Coral Ruins
-
-## Description
+# Flavour Text
 Thrust above the waves, still teeming
 
 with horrors from the depths.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

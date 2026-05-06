@@ -1,11 +1,9 @@
-# Kaltenhalt
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kaltenhalt.png]]
 
-## Description
+# Flavour Text
 Cold, miserable and alone... but alive.
 
-## Details
+# Details
 - Chance to Block: 29%
 - Evasion: (196-308)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ Cold, miserable and alone... but alive.
 - Reflects (25-50) Cold Damage to Melee Attackers
 - +5% Chance to Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

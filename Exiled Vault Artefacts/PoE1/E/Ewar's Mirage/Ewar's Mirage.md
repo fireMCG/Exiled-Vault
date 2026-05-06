@@ -1,12 +1,10 @@
-# Ewar's Mirage
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ewar's Mirage.png]]
 
-## Description
+# Flavour Text
 A single breeze blows
 A hundred blades dance
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: 12-46
 - Elemental Damage: 1 to (45-55)
@@ -21,9 +19,9 @@ A hundred blades dance
 - Attacks fire an additional Projectile when in Off Hand
 - (40-55)% increased Elemental Damage with Attack Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

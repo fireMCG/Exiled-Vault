@@ -1,11 +1,9 @@
-# Shavronne's Satchel
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Shavronne's Satchel.png]]
 
-## Description
+# Flavour Text
 Bring mystery to life. Again and again.
 
-## Details
+# Details
 - Requires Level 62
 - Has (1-3) Charm Slots
 - Flasks gain 0.17 charges per Second
@@ -14,9 +12,9 @@ Bring mystery to life. Again and again.
 - (20-30)% increased Flask Charges gained
 - Life Recovery from Flasks also applies to Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Blooming Field
-
-## Description
+# Flavour Text
 Bright colours hide the rot beneath.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

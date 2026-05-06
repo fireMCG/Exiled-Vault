@@ -1,12 +1,10 @@
-# Grip of Winter
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Grip of Winter.png]]
 
-## Description
+# Flavour Text
 After the eruption, the skies turned grey,
 ash began to fall, and a chill set in...
 
-## Details
+# Details
 - Evasion: (33-39)
 - Requires Level 11, 16 Dex
 - (30-50)% increased Evasion Rating
@@ -15,9 +13,9 @@ ash began to fall, and a chill set in...
 - (40-50)% increased Freeze Buildup
 - (20-30)% increased Magnitude of Chill you inflict
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

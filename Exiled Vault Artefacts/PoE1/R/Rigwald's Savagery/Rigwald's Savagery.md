@@ -1,13 +1,11 @@
-# Rigwald's Savagery
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rigwald's Savagery.png]]
 
-## Description
+# Flavour Text
 Tear the flesh from the bone.
 Turn the bone to dust.
 Scatter the dust to the wind.
 
-## Details
+# Details
 - One Handed Axe
 - Physical Damage: (104-124) to (235-265)
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ Scatter the dust to the wind.
 - (10-15)% increased Attack Speed
 - +10 to Maximum Rage while wielding a Sword
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

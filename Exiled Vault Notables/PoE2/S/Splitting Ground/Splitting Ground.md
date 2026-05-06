@@ -1,10 +1,8 @@
-# Splitting Ground
-
-## Effects
+# Effects
 Skills which create Fissures have a 20% chance to create an additional Fissure
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

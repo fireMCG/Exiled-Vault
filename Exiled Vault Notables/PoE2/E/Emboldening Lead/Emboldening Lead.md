@@ -1,10 +1,8 @@
-# Emboldening Lead
-
-## Effects
+# Effects
 Minions deal 30% increased Damage if you've Hit Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

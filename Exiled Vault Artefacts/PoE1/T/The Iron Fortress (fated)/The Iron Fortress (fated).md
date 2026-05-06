@@ -1,13 +1,11 @@
-# The Iron Fortress (fated)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Iron Fortress (fated).png]]
 
-## Description
+# Flavour Text
 "Stand steadfast in the face of destruction.
 The Council cannot afford to falter."
 - Mauritius, the Iron Heart
 
-## Details
+# Details
 - Armour: (1081-1382)
 - Movement Speed: -5%
 - Requires Level 59, 160 Str
@@ -19,9 +17,9 @@ The Council cannot afford to falter."
 - Strength's Damage Bonus instead grants 3% increased Melee
 - Physical Damage per 10 Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Torchoak Step
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Torchoak Step.png]]
 
-## Description
+# Flavour Text
 Centuries ago, there existed a unique grove imbued with ancestral fire.
 As with all things, the Karui used its wood for war.
 
-## Details
+# Details
 - Armour: (219-316)
 - Requires Level 37, 67 Str
 - (80-120)% increased Armour
@@ -15,9 +13,9 @@ As with all things, the Karui used its wood for war.
 - (30-50)% increased Totem Placement speed
 - Totems Reflect 100% of their maximum Life as Fire Damage to nearby Enemies when Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

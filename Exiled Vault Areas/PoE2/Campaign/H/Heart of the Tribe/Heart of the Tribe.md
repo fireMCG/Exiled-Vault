@@ -1,14 +1,12 @@
-# Heart of the Tribe
-
-## Description
+# Flavour Text
 Blood fever rages in the flame-cast night.
 
-## Connected Areas
+# Connected Areas
 - Ngakanu
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

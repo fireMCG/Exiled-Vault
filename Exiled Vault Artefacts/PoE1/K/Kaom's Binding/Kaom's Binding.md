@@ -1,12 +1,10 @@
-# Kaom's Binding
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kaom's Binding.png]]
 
-## Description
+# Flavour Text
 For centuries, he burned in an unending
 nightmare of lava and flame... but he endured.
 
-## Details
+# Details
 - Requires Level 56
 - +(25-35) to Strength
 - +(30-40) to Strength
@@ -14,9 +12,9 @@ nightmare of lava and flame... but he endured.
 - Take no Burning Damage if you've stopped taking Burning Damage Recently
 - Nearby Enemies Convert 25% of their Physical Damage to Fire
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

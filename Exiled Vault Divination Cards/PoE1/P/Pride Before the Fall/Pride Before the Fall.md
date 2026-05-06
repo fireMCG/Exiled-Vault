@@ -1,20 +1,18 @@
-# Pride Before the Fall
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Pride Before the Fall.png]]
 
-## Description
+# Flavour Text
 As Kaom slew the last of his kin,
 something deep inside him broke.
 And through the cracks, corruption,
 pure and black, spread forth.
 
-## Reward
+# Reward
 Kaom's Heart
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Kaom
 #Concept/Corruption
 #Concept/Body/Heart

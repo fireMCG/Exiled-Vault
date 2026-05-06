@@ -1,12 +1,10 @@
-# Vitality Siphon
-
-## Effects
+# Effects
 10% of Spell Damage Leeched as Life
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Blood Mage
 #Witch
+#Notable
 #PoE2

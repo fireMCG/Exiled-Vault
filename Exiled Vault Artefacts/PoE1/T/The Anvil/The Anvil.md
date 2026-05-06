@@ -1,11 +1,9 @@
-# The Anvil
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Anvil.png]]
 
-## Description
+# Flavour Text
 Forge your Perseverance on the Anvil of Faith.
 
-## Details
+# Details
 - Requires Level 45
 - +(20-30) to Strength
 - (10-15)% Chance to Block Attack Damage
@@ -17,9 +15,9 @@ Forge your Perseverance on the Anvil of Faith.
 - +3% to maximum Chance to Block Attack Damage
 - Reflects 240 to 300 Physical Damage to Attackers on Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

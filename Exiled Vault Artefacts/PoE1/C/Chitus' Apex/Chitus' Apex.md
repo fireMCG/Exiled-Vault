@@ -1,13 +1,11 @@
-# Chitus' Apex
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Chitus' Apex.png]]
 
-## Description
+# Flavour Text
 "It takes true strength to hold power,
 and my grip grows tighter by the day."
 - Emperor Chitus
 
-## Details
+# Details
 - Energy Shield: (55-64)
 - Requires Level 54, 112 Int
 - +(20-30) to Strength
@@ -16,9 +14,9 @@ and my grip grows tighter by the day."
 - +10% to all Elemental Resistances
 - (10-20)% increased Elemental Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

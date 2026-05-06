@@ -1,11 +1,9 @@
-# The Eternal Struggle
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Eternal Struggle.png]]
 
-## Description
+# Flavour Text
 Simply the way it must be, so that existence may be.
 
-## Details
+# Details
 - Requires Level 61
 - >
 - >
@@ -16,9 +14,9 @@ Simply the way it must be, so that existence may be.
 - Critical Strikes inflict Malignant Madness if The Eater of Worlds is dominant
 - Kill Enemies that have 15% or lower Life on Hit if The Searing Exarch is dominant
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

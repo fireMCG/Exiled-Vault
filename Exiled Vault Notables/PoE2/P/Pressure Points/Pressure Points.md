@@ -1,11 +1,9 @@
-# Pressure Points
-
-## Effects
+# Effects
 35% increased Stun Buildup
 35% increased Freeze Buildup
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

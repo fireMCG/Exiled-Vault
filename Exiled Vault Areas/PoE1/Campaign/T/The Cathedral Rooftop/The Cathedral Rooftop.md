@@ -1,16 +1,14 @@
-# The Cathedral Rooftop
-
-## Description
+# Flavour Text
 Atop this burning monument to arrogance, Oriath's final hope remains.
 
-## Connected Areas
+# Connected Areas
 - The Ruined Square
 - Lioneye's Watch
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

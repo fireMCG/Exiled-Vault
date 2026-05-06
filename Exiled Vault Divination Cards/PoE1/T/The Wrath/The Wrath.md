@@ -1,16 +1,14 @@
-# The Wrath
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Wrath.png]]
 
-## Description
+# Flavour Text
 "Daughter of catastrophe, mother of pain. Amongst the filth of Wraeclast, she wanders, and her wrath follows." - Quintoon the Returned
 
-## Reward
+# Reward
 10x Chaos Orb
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Quintoon
 #Concept/Balance/Chaos
 #Concept/Family/Mother

@@ -1,11 +1,9 @@
-# Burning Nature
-
-## Effects
+# Effects
 25% increased Fire Damage
 15% increased Ignite Duration on Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

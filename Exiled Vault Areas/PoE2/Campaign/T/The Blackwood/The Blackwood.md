@@ -1,15 +1,13 @@
-# The Blackwood
-
-## Description
+# Flavour Text
 Fell darkness shrouds the once vibrant wood.
 
-## Connected Areas
+# Connected Areas
 - Scorched Farmlands
 - Holten
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

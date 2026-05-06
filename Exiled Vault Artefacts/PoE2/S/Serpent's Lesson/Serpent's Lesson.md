@@ -1,11 +1,9 @@
-# Serpent's Lesson
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Serpent's Lesson.png]]
 
-## Description
+# Flavour Text
 Sinuous, entwined... inextricable.
 
-## Details
+# Details
 - Focus
 - Energy Shield: 25
 - Requires Level 22, 33 Int
@@ -14,9 +12,9 @@ Sinuous, entwined... inextricable.
 - You count as on Low Life while at 35% of maximum Mana or below
 - You count as on Low Mana while at 35% of maximum Life or below
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

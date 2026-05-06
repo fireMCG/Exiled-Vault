@@ -1,12 +1,10 @@
-# Haunting Memories
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Haunting Memories.png]]
 
-## Description
+# Flavour Text
 We cannot hide from the wounds of youth.
 They fuel the fires within in, driving us on.
 
-## Details
+# Details
 - Requires Level 64
 - +(16-24) to Dexterity and Intelligence
 - +(6-10)% chance to Suppress Spell Damage
@@ -16,9 +14,9 @@ They fuel the fires within in, driving us on.
 - +(40-60) to maximum Energy Shield
 - +(40-60) to maximum Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

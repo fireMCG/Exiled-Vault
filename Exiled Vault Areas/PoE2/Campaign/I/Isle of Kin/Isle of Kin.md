@@ -1,16 +1,14 @@
-# Isle of Kin
-
-## Description
+# Flavour Text
 They work frantically to feed the angry mountain...
 
-## Connected Areas
+# Connected Areas
 - Kingsmarch
 - Volcanic Warrens
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

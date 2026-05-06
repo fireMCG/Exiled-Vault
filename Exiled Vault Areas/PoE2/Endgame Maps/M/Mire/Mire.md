@@ -1,11 +1,9 @@
-# Mire
-
-## Description
+# Flavour Text
 These waters devour the same souls they feed.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

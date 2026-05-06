@@ -1,16 +1,14 @@
-# The Journey
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Journey.png]]
 
-## Description
+# Flavour Text
 Oh the places you will go, the sights you will see, the things you will meet.
 
-## Reward
+# Reward
 Journey Tattoo
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

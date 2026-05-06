@@ -1,15 +1,13 @@
-# Kaom's Dream
-
-## Description
+# Flavour Text
 Fury and flame come to life.
 
-## Connected Areas
+# Connected Areas
 - The Crystal Veins
 - Kaom's Stronghold
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

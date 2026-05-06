@@ -1,11 +1,9 @@
-# The Torturer
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Torturer.png]]
 
-## Description
+# Flavour Text
 Torture something enough, and you just might force a reaction.
 
-## Details
+# Details
 - Duration: 10 seconds
 - Empowers: 100 enemies
 - Empowerment: 26
@@ -16,9 +14,9 @@ Torture something enough, and you just might force a reaction.
 - (20-25)% chance to upgrade Normal Rarity Enemies to be Rare when they are Empowered
 - Unmodifiable
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

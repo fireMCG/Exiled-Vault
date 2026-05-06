@@ -1,13 +1,11 @@
-# The Sands of Time
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Sands of Time.png]]
 
-## Description
+# Flavour Text
 A future of untold power and doom opened
 before Zarokh in that moment. He realized
 there was not one Time, but many...
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 43-80
 - Critical Strike Chance: 7.00%
@@ -21,8 +19,8 @@ there was not one Time, but many...
 - (10-15)% increased Cooldown Recovery Rate
 - 10% increased Cast Speed for each different Non-Instant Spell you've Cast Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE1

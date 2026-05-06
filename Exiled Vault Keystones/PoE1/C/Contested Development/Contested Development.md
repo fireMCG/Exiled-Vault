@@ -1,13 +1,11 @@
-# Contested Development
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Contested Development.webp]]
 
-## Effects
+# Effects
 Killing resident Architects in your Maps adds their Upgrade Tier to the surviving Architect's Room
 (Resident Architects are those that can be killed to change the Incursion room)
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

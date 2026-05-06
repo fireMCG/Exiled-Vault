@@ -1,11 +1,9 @@
-# Delayed Danger
-
-## Effects
+# Effects
 30% increased Hazard Duration
 40% increased Hazard Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

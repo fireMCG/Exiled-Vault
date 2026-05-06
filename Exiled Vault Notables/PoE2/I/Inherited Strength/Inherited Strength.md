@@ -1,10 +1,8 @@
-# Inherited Strength
-
-## Effects
+# Effects
 Warcries have 15% chance to Empower 3 additional Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

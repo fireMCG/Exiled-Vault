@@ -1,12 +1,10 @@
-# Mahuxotl's Machination
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mahuxotl's Machination.png]]
 
-## Description
+# Flavour Text
 The Banished Architect sought to employ all the
 darkest secrets of the Vaal... at the same time.
 
-## Details
+# Details
 - Chance to Block: 26%
 - Armour: (146-167)
 - Energy Shield: (30-35)
@@ -19,9 +17,9 @@ darkest secrets of the Vaal... at the same time.
 - Immortal Ambition
 - Vaal Pact
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

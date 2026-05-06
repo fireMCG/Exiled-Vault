@@ -1,15 +1,13 @@
-# The Blood Aqueduct
-
-## Description
+# Flavour Text
 A mighty spillway tainted by tarrish blacks and sanguine reds.
 
-## Connected Areas
+# Connected Areas
 - The Harbour Bridge
 - Highgate
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

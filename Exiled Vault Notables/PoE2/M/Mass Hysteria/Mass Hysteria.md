@@ -1,11 +1,9 @@
-# Mass Hysteria
-
-## Effects
+# Effects
 Allies in your Presence have 6% increased Attack Speed
 6% increased Attack Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

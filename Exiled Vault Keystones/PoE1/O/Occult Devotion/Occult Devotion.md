@@ -1,12 +1,10 @@
-# Occult Devotion
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Occult Devotion.webp]]
 
-## Effects
+# Effects
 Your Maps with Ritual Altars always have four Ritual Altars
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

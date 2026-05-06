@@ -1,13 +1,11 @@
-# Cybil's Paw
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cybil's Paw.png]]
 
-## Description
+# Flavour Text
 Tread lightly, lest their vigil find you.
 Speak softly, lest their reason fend you.
 Cut gently, lest their spirit haunt you.
 
-## Details
+# Details
 - Claw
 - Physical Damage: 20-53
 - Critical Strike Chance: 8.00%
@@ -20,9 +18,9 @@ Cut gently, lest their spirit haunt you.
 - Gain (15-20) Life per Enemy Hit with Spells
 - 8% increased Spell Damage per 5% Chance to Block Attack Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

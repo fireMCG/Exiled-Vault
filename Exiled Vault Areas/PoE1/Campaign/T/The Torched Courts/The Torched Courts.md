@@ -1,15 +1,13 @@
-# The Torched Courts
-
-## Description
+# Flavour Text
 Fuelled by blood and chaos, a dark inferno engulfs the halls of justice.
 
-## Connected Areas
+# Connected Areas
 - The Chamber of Innocence
 - The Ruined Square
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

@@ -1,11 +1,9 @@
-# Brute Strength
-
-## Effects
+# Effects
 10% reduced maximum Mana
 1% increased Damage per 15 Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

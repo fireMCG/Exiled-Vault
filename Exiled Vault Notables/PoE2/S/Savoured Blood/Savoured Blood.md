@@ -1,11 +1,9 @@
-# Savoured Blood
-
-## Effects
+# Effects
 35% increased amount of Life Leeched
 Leech Life 20% slower
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

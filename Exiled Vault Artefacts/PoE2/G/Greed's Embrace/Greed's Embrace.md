@@ -1,12 +1,10 @@
-# Greed's Embrace
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Greed's Embrace.png]]
 
-## Description
+# Flavour Text
 Some would question if the risk was worth it.
 The rest were already dead.
 
-## Details
+# Details
 - Armour: (456-570)
 - Movement Speed: -5.0%
 - Requires Level 37, 90 Str
@@ -16,9 +14,9 @@ The rest were already dead.
 - (30-50)% increased Rarity of Items found
 - +(20-30)% to Fire Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

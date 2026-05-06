@@ -1,10 +1,8 @@
-# Resurging Archon
-
-## Effects
+# Effects
 Archon recovery period expires 25% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

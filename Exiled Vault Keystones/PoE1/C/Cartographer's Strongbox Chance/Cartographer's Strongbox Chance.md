@@ -1,12 +1,10 @@
-# Cartographer's Strongbox Chance
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Cartographer's Strongbox Chance.webp]]
 
-## Effects
+# Effects
 Strongboxes in your Maps have 30% increased chance to be a Cartographer's Strongbox
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

@@ -1,12 +1,10 @@
-# Frostbreath
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Frostbreath.png]]
 
-## Description
+# Flavour Text
 A merciful murderer swept through the streets of Sarn
 Robbing breath from the weak and worthless.
 
-## Details
+# Details
 - One Hand Mace
 - Physical Damage: (19-23) to (33-37)
 - Elemental Damage: (8-12) to (16-20)
@@ -20,9 +18,9 @@ Robbing breath from the weak and worthless.
 - All Damage from Hits with this Weapon Contributes to Freeze Buildup
 - Culling Strike against Frozen Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

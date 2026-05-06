@@ -1,19 +1,17 @@
-# Council of Cats
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Council of Cats.png]]
 
-## Description
+# Flavour Text
 A King Loved By All,
 A Shadow Awaiting Nightfall,
 A Speaker Howling Away,
 A Hunter Seeking Prey
 
-## Reward
+# Reward
 Farrul Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/FirstOne/Farrul
 #Concept/Animal/Feline/Cat

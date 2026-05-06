@@ -1,12 +1,10 @@
-# The Desperate Alliance
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Desperate Alliance.png]]
 
-## Description
+# Flavour Text
 By fire and ice, perhaps the end of the world.
 They did not fall on their knees and lament.
 
-## Details
+# Details
 - Requires Level 64
 - Zarokh, the Temporal drops Against the Darkness
 - Zarokh, the Temporal deals 100% more Damage
@@ -14,9 +12,9 @@ They did not fall on their knees and lament.
 - This item is destroyed when applied to a Trial
 - Place this item on the Relic Altar at the start of the Trial of the Sekhemas
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

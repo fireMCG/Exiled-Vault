@@ -1,11 +1,9 @@
-# Redflare Conduit
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Redflare Conduit.png]]
 
-## Description
+# Flavour Text
 In all things, control.
 
-## Details
+# Details
 - Evasion: 101
 - Energy Shield: 43
 - Movement Speed: -3.0%
@@ -16,9 +14,9 @@ In all things, control.
 - Lose all Power Charges on reaching maximum Power Charges
 - Shocks you when you reach maximum Power Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

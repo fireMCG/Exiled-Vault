@@ -1,14 +1,12 @@
-# Ming's Heart
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ming's Heart.png]]
 
-## Description
+# Flavour Text
 Ming slew Tranquillity
 Took Chaos for his wife
 And on Her immortal finger
 He placed his Heart
 
-## Details
+# Details
 - Requires Level 69
 - +(17-23)% to Chaos Resistance
 - 25% reduced maximum Energy Shield
@@ -16,9 +14,9 @@ He placed his Heart
 - +(40-50)% to Chaos Resistance
 - Gain (40-60)% of Physical Damage as Extra Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

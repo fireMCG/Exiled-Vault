@@ -1,13 +1,11 @@
-# Grotto
-
-## Description
+# Flavour Text
 Trapped in absolute darkness.
 
 Despair. Panic. Terror.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

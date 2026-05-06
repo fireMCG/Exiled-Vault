@@ -1,11 +1,9 @@
-# Slavedriver's Hand
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Slavedriver's Hand.png]]
 
-## Description
+# Flavour Text
 A plan without a deadline stays a plan.
 
-## Details
+# Details
 - Evasion: (243-318)
 - Energy Shield: (51-66)
 - Requires Level 45, 35 Dex, 35 Int
@@ -18,9 +16,9 @@ A plan without a deadline stays a plan.
 - 10% chance to gain an Endurance, Frenzy or Power Charge when any
 - of your Traps are Triggered by an Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Ashcaller
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ashcaller.png]]
 
-## Description
+# Flavour Text
 "We do not command fire.
 Ngamahu lends it, and Hinekora returns it."
 - Lavianga, advisor to Kaom
 
-## Details
+# Details
 - Wand
 - Physical Damage: 7-13
 - Elemental Damage: (20-24) to (38-46)
@@ -20,9 +18,9 @@ Ngamahu lends it, and Hinekora returns it."
 - Adds (20-24) to (38-46) Fire Damage to Spells
 - 10% chance to Cover Enemies in Ash on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/God/Hinekora
 #Character/Lavianga

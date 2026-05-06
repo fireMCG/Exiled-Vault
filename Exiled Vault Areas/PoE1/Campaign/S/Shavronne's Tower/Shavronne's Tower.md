@@ -1,15 +1,13 @@
-# Shavronne's Tower
-
-## Description
+# Flavour Text
 Echoes of the past bring new life to an old experiment.
 
-## Connected Areas
+# Connected Areas
 - The Lower Prison
 - Prisoner's Gate
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

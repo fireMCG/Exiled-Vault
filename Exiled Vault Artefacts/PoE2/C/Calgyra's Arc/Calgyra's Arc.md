@@ -1,11 +1,9 @@
-# Calgyra's Arc
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Calgyra's Arc.png]]
 
-## Description
+# Flavour Text
 "There is nowhere my vengeance cannot find you."
 
-## Details
+# Details
 - Buckler
 - Chance to Block: 20%
 - Evasion: (144-180)
@@ -17,9 +15,9 @@
 - Infinite Parry Range
 - 50% increased Parried Debuff Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

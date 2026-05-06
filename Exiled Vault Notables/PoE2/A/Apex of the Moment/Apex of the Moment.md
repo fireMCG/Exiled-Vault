@@ -1,12 +1,10 @@
-# Apex of the Moment
-
-## Effects
+# Effects
 Enemies in your Presence are Slowed by 20%
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Chronomancer
 #Sorceress
+#Notable
 #PoE2

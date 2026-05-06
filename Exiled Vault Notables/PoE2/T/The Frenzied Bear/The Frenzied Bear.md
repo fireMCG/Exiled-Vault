@@ -1,12 +1,10 @@
-# The Frenzied Bear
-
-## Effects
+# Effects
 30% increased Damage if you've consumed a Frenzy Charge Recently
 10% increased Skill Speed if you've consumed a Frenzy Charge Recently
 +10 to Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

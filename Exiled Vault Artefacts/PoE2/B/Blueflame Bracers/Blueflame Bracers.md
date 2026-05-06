@@ -1,11 +1,9 @@
-# Blueflame Bracers
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Blueflame Bracers.png]]
 
-## Description
+# Flavour Text
 The secret was lost with its maker.
 
-## Details
+# Details
 - Armour: 37
 - Energy Shield: 34
 - Requires Level 33, 24 Str, 24 Int
@@ -15,9 +13,9 @@ The secret was lost with its maker.
 - +(5-15)% to Cold Resistance
 - 100% of Fire Damage Converted to Cold Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

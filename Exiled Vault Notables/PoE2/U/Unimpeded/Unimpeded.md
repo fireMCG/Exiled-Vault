@@ -1,10 +1,8 @@
-# Unimpeded
-
-## Effects
+# Effects
 24% reduced Slowing Potency of Debuffs on You
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

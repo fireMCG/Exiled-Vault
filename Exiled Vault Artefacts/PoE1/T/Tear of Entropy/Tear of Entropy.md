@@ -1,12 +1,10 @@
-# Tear of Entropy
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Tear of Entropy.png]]
 
-## Description
+# Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
-## Details
+# Details
 - Armour: (9-13)
 - 30% increased Attack Speed when on Low Life
 - 15% increased Attack Speed when on Full Life
@@ -14,9 +12,9 @@ So goes the descent.
 - 20% increased Cast Speed when on Low Life
 - 9% increased Cast Speed when on Full Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

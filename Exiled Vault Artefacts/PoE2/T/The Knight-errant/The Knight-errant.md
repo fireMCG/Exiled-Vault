@@ -1,11 +1,9 @@
-# The Knight-errant
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Knight-errant.png]]
 
-## Description
+# Flavour Text
 Some search forever for their path.
 
-## Details
+# Details
 - Armour: (24-28)
 - Evasion: (19-22)
 - Requires Level 6
@@ -15,9 +13,9 @@ Some search forever for their path.
 - +(30-50) to Ailment Threshold
 - Iron Reflexes
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

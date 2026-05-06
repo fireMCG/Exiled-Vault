@@ -1,21 +1,19 @@
-# Robust Rune
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Robust Rune.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Requires: Level 15
 
-## Effects
+# Effects
 - All Equipment: +8 to Strength
 
-## Bonded Effects
+# Bonded Effects
 - Martial Weapon: Adds 6 to 10 Physical Damage to Attacks, Adds 6 to 10 Fire damage to Attacks
 - Wand or Staff: +100 to Armour
 - Armour: +10 to maximum Life, +10 to maximum Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

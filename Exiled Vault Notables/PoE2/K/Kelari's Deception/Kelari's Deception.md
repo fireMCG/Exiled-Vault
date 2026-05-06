@@ -1,12 +1,10 @@
-# Kelari's Deception
-
-## Effects
+# Effects
 Grants Skill: Kelari's Deception
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

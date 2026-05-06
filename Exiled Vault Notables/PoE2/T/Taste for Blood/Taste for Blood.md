@@ -1,11 +1,9 @@
-# Taste for Blood
-
-## Effects
+# Effects
 Gain 20 Life per enemy killed
 2% chance to Recover all Life when you Kill an Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

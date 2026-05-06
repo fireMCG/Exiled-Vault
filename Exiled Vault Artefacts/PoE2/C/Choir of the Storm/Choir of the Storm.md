@@ -1,13 +1,11 @@
-# Choir of the Storm
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Choir of the Storm.png]]
 
-## Description
+# Flavour Text
 But the fool did not bow.
 The fool stood and questioned.
 And the fool was unwritten.
 
-## Details
+# Details
 - Requires Level 72
 - Grants Skill: Level (17-20) Lightning Bolt
 - +(10-15) to Dexterity
@@ -15,9 +13,9 @@ And the fool was unwritten.
 - Critical Hits Ignore Enemy Monster Lightning Resistance
 - Trigger Lightning Bolt Skill on Critical Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

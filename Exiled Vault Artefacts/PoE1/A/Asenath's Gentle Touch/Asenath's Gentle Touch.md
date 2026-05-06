@@ -1,11 +1,9 @@
-# Asenath's Gentle Touch
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Asenath's Gentle Touch.png]]
 
-## Description
+# Flavour Text
 Cool the head and cool the blade.
 
-## Details
+# Details
 - Energy Shield: (18-23)
 - Requires Level 25, 39 Int
 - +(20-30) to Intelligence
@@ -17,9 +15,9 @@ Cool the head and cool the blade.
 - Enemies Killed near corpses affected by your Curses explode, dealing
 - 3% of their Life as Physical Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Sekhema/Asenath
 #Society/Maraketh

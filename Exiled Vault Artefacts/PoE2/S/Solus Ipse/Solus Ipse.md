@@ -1,11 +1,9 @@
-# Solus Ipse
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Solus Ipse.png]]
 
-## Description
+# Flavour Text
 One warrior alone survived to face the Arbiter.
 
-## Details
+# Details
 - Armour: (220-264)
 - Evasion: (200-240)
 - Energy Shield: (75-90)
@@ -16,9 +14,9 @@ One warrior alone survived to face the Arbiter.
 - Equipment and Skill Gems have 25% increased Attribute Requirements
 - You can Socket 2 additional copies of each Lineage Support Gem, in different Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

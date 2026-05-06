@@ -1,14 +1,12 @@
-# Solaris Lorica
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Solaris Lorica.png]]
 
-## Description
+# Flavour Text
 Give me neither havens nor solace;
 They are for the weak and frightened.
 Instead, light the path to greatness,
 So that I may begin my bright pursuit.
 
-## Details
+# Details
 - Armour: (281-397)
 - Movement Speed: -5%
 - Requires Level 17, 53 Str
@@ -19,9 +17,9 @@ So that I may begin my bright pursuit.
 - Chaos Damage taken does not bypass Energy Shield
 - -(40-30) Chaos Damage taken
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

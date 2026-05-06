@@ -1,11 +1,9 @@
-# Heavy Buffer
-
-## Effects
+# Effects
 40% increased maximum Energy Shield
 5% of Damage taken bypasses Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

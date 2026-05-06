@@ -1,11 +1,9 @@
-# Sling Shots
-
-## Effects
+# Effects
 20% increased Projectile Damage
 20% increased chance to inflict Ailments with Projectiles
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,10 +1,8 @@
-# Finish Them
-
-## Effects
+# Effects
 40% increased Culling Strike Threshold against Immobilised Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,11 +1,9 @@
-# Beacon of Madness (Fire and Cold Resistance)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Beacon of Madness (Fire and Cold Resistance).png]]
 
-## Description
+# Flavour Text
 Nothing spreads as quickly as an idea.
 
-## Details
+# Details
 - Armour: (315-580)
 - Evasion: (315-580)
 - Requires Level 70, 62 Str, 62 Dex
@@ -16,9 +14,9 @@ Nothing spreads as quickly as an idea.
 - 20% chance to deal Double Damage while affected by Glorious Madness
 - +15 to maximum Fortification while affected by Glorious Madness
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

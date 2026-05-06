@@ -1,20 +1,18 @@
-# Thane Myrk's Rune of Summer
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Thane Myrk's Rune of Summer.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Martial Weapon: Adds 23 to 34 Fire Damage
 
-## Bonded Effects
+# Bonded Effects
 - Martial Weapon: +2% to Maximum Fire Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

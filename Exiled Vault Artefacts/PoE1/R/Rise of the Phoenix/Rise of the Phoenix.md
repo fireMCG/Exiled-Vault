@@ -1,12 +1,10 @@
-# Rise of the Phoenix
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rise of the Phoenix.png]]
 
-## Description
+# Flavour Text
 My bearer shall be guarded by flame,
 for I am the phoenix, forever radiant in glory.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Armour: (499-676)
 - Energy Shield: (102-136)
@@ -21,9 +19,9 @@ for I am the phoenix, forever radiant in glory.
 - 10% increased Movement Speed when on Low Life
 - 100% chance to Avoid being Ignited while on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

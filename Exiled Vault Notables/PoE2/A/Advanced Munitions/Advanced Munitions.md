@@ -1,10 +1,8 @@
-# Advanced Munitions
-
-## Effects
+# Effects
 25% increased chance to inflict Ailments with Projectiles
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

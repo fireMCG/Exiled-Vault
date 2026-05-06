@@ -1,12 +1,10 @@
-# Valako's Roar
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Valako's Roar.png]]
 
-## Description
+# Flavour Text
 The sea swells, the sky thunders; two ships tilt at odds.
 Flashes of light show only swinging axes... and a grin.
 
-## Details
+# Details
 - Lasts 4.00 Seconds
 - Consumes 20 of 40 Charges on use
 - +25% to Lightning Resistance
@@ -16,9 +14,9 @@ Flashes of light show only swinging axes... and a grin.
 - Grants a Frenzy Charge on use
 - Used automatically when condition is met. Can only hold charges while in belt. Refill at Wells or by killing monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/God/Valako
 #Concept/Element/Lightning

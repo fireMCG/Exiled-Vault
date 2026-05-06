@@ -1,12 +1,10 @@
-# Sunder the Flesh
-
-## Effects
+# Effects
 Base Critical Hit Chance for Spells is 15%
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Blood Mage
 #Witch
+#Notable
 #PoE2

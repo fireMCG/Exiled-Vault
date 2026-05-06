@@ -1,13 +1,11 @@
-# Replica Eternity Shroud
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Eternity Shroud.png]]
 
-## Description
+# Flavour Text
 "The form of this replica came to me in a troubled dream.
 I do not believe we should ever allow it to be used."
 -
 
-## Details
+# Details
 - Evasion: (872-1252)
 - Energy Shield: (146-210)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ I do not believe we should ever allow it to be used."
 - Gain (3-5)% of Physical Damage as Extra Chaos Damage per Elder Item Equipped
 - Hits ignore Enemy Monster Chaos Resistance if all Equipped Items are Elder Items
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Radial Force
-
-## Effects
+# Effects
 10% increased Area of Effect
 12% increased Immobilisation buildup
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

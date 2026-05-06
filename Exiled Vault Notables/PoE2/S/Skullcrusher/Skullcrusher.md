@@ -1,10 +1,8 @@
-# Skullcrusher
-
-## Effects
+# Effects
 20% more Damage against Heavy Stunned Enemies with Maces
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

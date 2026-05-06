@@ -1,16 +1,14 @@
-# Glacial Tarn
-
-## Description
+# Flavour Text
 In the basin of Mount Kriar, great glacial ice reflects your fate.
 
-## Connected Areas
+# Connected Areas
 - Kriar Village
 - Howling Caves
 - Kriar Peaks
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

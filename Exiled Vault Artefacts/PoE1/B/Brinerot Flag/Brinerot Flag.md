@@ -1,11 +1,9 @@
-# Brinerot Flag
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Brinerot Flag.png]]
 
-## Description
+# Flavour Text
 The lords of the sea bow to no one.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Energy Shield: (91-115)
 - Movement Speed: -3%
@@ -17,9 +15,9 @@ The lords of the sea bow to no one.
 - (20-40)% increased Mana Regeneration Rate
 - Warcries grant Arcane Surge to you and Allies, with 10% increased effect per 5 power, up to 50%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,15 +1,13 @@
-# Daresso's Defiance
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Daresso's Defiance.png]]
 
-## Description
+# Flavour Text
 "When your back is against the wall,
 And your opponent is bleeding you dry,
 There is only one appropriate response:
 Unbridled, overwhelming violence."
 - Daresso, the Sword King
 
-## Details
+# Details
 - Armour: (1316-1731)
 - Evasion: (1044-1372)
 - Movement Speed: -3%
@@ -22,9 +20,9 @@ Unbridled, overwhelming violence."
 - You gain Onslaught for 5 seconds per Endurance Charge when Hit
 - 100% increased Effect of Onslaught on you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,10 +1,8 @@
-# Controlled Chaos
-
-## Effects
+# Effects
 Maximum Volatility is 30
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,11 +1,9 @@
-# Crown of the Victor
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Crown of the Victor.png]]
 
-## Description
+# Flavour Text
 An endless river of bodies lie in the wake of ambition.
 
-## Details
+# Details
 - Armour: 23
 - Energy Shield: 12
 - Requires Level 5
@@ -14,9 +12,9 @@ An endless river of bodies lie in the wake of ambition.
 - Gain 10 Mana per enemy killed
 - +1 to Level of all Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

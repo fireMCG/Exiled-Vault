@@ -1,12 +1,10 @@
-# Pathological
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Pathological.webp]]
 
-## Effects
+# Effects
 Maps found in your Maps have 3% chance to have layers of Delirium
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

@@ -1,16 +1,14 @@
-# The Sewers
-
-## Description
+# Flavour Text
 What horrors lurk in the bowels of the city?
 
-## Connected Areas
+# Connected Areas
 - The Slums
 - The Marketplace
 - The Ebony Barracks
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

@@ -1,10 +1,8 @@
-# Devestating Devices
-
-## Effects
+# Effects
 25% increased Trap Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

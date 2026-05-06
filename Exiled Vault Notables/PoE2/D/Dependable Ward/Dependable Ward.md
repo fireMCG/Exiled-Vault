@@ -1,11 +1,9 @@
-# Dependable Ward
-
-## Effects
+# Effects
 25% increased Energy Shield Recharge Rate
 25% faster start of Energy Shield Recharge
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

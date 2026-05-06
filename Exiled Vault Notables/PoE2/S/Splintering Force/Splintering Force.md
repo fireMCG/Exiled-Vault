@@ -1,10 +1,8 @@
-# Splintering Force
-
-## Effects
+# Effects
 Minions Break Armour equal to 3% of Physical damage dealt
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

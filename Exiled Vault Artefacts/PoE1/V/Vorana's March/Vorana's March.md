@@ -1,12 +1,10 @@
-# Vorana's March
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Vorana's March.png]]
 
-## Description
+# Flavour Text
 In their hour of desperate need, the Knights of the Sun
 called out for aid... and the Black Scythe answered.
 
-## Details
+# Details
 - Ward: (102-117)
 - Requires Level 69, 46 Str, 46 Dex, 46 Int
 - Has no Sockets
@@ -20,9 +18,9 @@ called out for aid... and the Black Scythe answered.
 - Summoned Arbalists have (10-20)% chance to IgniteSummoned Arbalists Convert 100% of Physical Damage to Lightning Damage
 - Summoned Arbalists have (10-20)% chance to ShockSummoned Arbalists' Projectiles ForkSummoned Arbalists' Projectiles Pierce (2-4) additional Targets
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Vorana
 #Artefact

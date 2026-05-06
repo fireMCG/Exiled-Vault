@@ -1,11 +1,9 @@
-# Wondertrap
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Wondertrap.png]]
 
-## Description
+# Flavour Text
 Wonders abound at death's door.
 
-## Details
+# Details
 - Energy Shield: (64-84)
 - Requires Level 27, 38 Int
 - (10-20)% increased Movement Speed
@@ -15,9 +13,9 @@ Wonders abound at death's door.
 - +(10-20) to Intelligence
 - 50% increased Rarity of Items found when on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

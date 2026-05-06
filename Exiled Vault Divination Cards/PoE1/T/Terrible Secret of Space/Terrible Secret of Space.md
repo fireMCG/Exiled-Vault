@@ -1,18 +1,16 @@
-# Terrible Secret of Space
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Terrible Secret of Space.png]]
 
-## Description
+# Flavour Text
 They said they were here to protect us.
 
-## Reward
+# Reward
 Level 21 Transfigured Golem Gem
 Quality: +23%
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Golem
 #Concept/Protection
 #Concept/Secret

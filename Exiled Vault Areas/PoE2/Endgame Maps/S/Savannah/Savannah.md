@@ -1,11 +1,9 @@
-# Savannah
-
-## Description
+# Flavour Text
 Wild lands spurn those who claim to rule them.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

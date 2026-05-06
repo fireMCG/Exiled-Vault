@@ -1,10 +1,8 @@
-# Spiked Armour
-
-## Effects
+# Effects
 Thorns Damage has 50% chance to ignore Enemy Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

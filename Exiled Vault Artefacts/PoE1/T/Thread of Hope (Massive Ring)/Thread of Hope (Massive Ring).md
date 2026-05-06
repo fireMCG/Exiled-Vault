@@ -1,11 +1,9 @@
-# Thread of Hope (Massive Ring)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Thread of Hope (Massive Ring).png]]
 
-## Description
+# Flavour Text
 Though we cannot touch; one thought, one wish, through centuries alone in darkness.
 
-## Details
+# Details
 - Radius: Variable
 - Only affects Passives in Massive Ring
 - Passive Skills in Radius can be Allocated without being connected to your tree
@@ -13,9 +11,9 @@ Though we cannot touch; one thought, one wish, through centuries alone in darkne
 - -(20-10)% to all Elemental Resistances
 - Place into an allocated jewel socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

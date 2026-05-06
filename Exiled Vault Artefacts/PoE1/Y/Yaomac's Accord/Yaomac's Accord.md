@@ -1,11 +1,9 @@
-# Yaomac's Accord
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Yaomac's Accord.png]]
 
-## Description
+# Flavour Text
 Their three serpentine heads found unity in balance.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 37-70
 - Critical Strike Chance: 7.00%
@@ -18,9 +16,9 @@ Their three serpentine heads found unity in balance.
 - Gain an Endurance Charge, Frenzy Charge, and Power Charge when you use a Vaal Skill
 - Shepherd of Souls
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

@@ -1,11 +1,9 @@
-# Sulphite Scarab of Fumes
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Sulphite Scarab of Fumes.webp]]
 
-## Description
+# Flavour Text
 When the land itself is sick, even the very ground rots and spills forth.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -17,9 +15,9 @@ Sulphite in your maps is guarded by Monsters from the Azurite Mine
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Delve
 #Category/Scarab
 #Fragment

@@ -1,14 +1,12 @@
-# Tulborn
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Tulborn.png]]
 
-## Description
+# Flavour Text
 We remember the stillness.
 Then the great fall.
 The pain of separation.
 We return once more.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 30-56
 - Critical Strike Chance: 8.00%
@@ -20,9 +18,9 @@ We return once more.
 - Adds (120-140) to (150-170) Cold Damage to Spells
 - Cold Exposure you inflict applies an extra -12% to Cold Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

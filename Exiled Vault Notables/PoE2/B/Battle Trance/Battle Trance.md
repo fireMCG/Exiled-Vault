@@ -1,10 +1,8 @@
-# Battle Trance
-
-## Effects
+# Effects
 +8 to Maximum Rage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

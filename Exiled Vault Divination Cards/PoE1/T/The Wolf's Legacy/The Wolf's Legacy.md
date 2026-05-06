@@ -1,16 +1,14 @@
-# The Wolf's Legacy
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Wolf's Legacy.png]]
 
-## Description
+# Flavour Text
 The howls and cackling could not mask the sadness.
 
-## Reward
+# Reward
 Vaults of Atziri
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Atziri
 #Concept/Animal/Canidae/Wolf
 #Concept/Moon

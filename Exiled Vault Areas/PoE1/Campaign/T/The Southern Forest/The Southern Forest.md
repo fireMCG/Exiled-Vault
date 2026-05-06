@@ -1,15 +1,13 @@
-# The Southern Forest
-
-## Description
+# Flavour Text
 Lush and humid, sweating violence.
 
-## Connected Areas
+# Connected Areas
 - The Cavern of Anger
 - The Forest Encampment
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

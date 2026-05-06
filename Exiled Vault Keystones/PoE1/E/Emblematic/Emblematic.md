@@ -1,12 +1,10 @@
-# Emblematic
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Emblematic.webp]]
 
-## Effects
+# Effects
 0.6% chance for Timeless Splinters to drop as Timeless Emblems instead in your Maps
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

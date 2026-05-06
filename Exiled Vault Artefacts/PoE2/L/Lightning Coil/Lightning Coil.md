@@ -1,13 +1,11 @@
-# Lightning Coil
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Lightning Coil.png]]
 
-## Description
+# Flavour Text
 The world churned during the Great Wasting.
 Tawhoa may have stilled the rioting earth,
 but it was Valako that tamed the broken sky.
 
-## Details
+# Details
 - Armour: (291-356)
 - Evasion: 146
 - Movement Speed: -4.0%
@@ -19,9 +17,9 @@ but it was Valako that tamed the broken sky.
 - -(40-30)% to Lightning Resistance
 - (30-50)% of Physical damage from Hits taken as Lightning damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

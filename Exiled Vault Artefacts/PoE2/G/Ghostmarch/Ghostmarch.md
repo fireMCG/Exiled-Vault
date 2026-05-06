@@ -1,12 +1,10 @@
-# Ghostmarch
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Ghostmarch.png]]
 
-## Description
+# Flavour Text
 The cursed ones march forever,
 On their hopeless, last endeavour.
 
-## Details
+# Details
 - Evasion: (56-70)
 - Energy Shield: (28-35)
 - Requires Level 16, 14 Dex, 14 Int
@@ -16,9 +14,9 @@ On their hopeless, last endeavour.
 - Dodge Roll passes through Enemies
 - 15% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

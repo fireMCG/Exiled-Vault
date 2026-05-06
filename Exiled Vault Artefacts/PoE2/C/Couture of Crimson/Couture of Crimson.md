@@ -1,11 +1,9 @@
-# Couture of Crimson
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Couture of Crimson.png]]
 
-## Description
+# Flavour Text
 It's often said of nobles that they live off their peasants... sometimes, it's truer than any suspect.
 
-## Details
+# Details
 - Armour: (250-334)
 - Energy Shield: (88-118)
 - Movement Speed: -4.0%
@@ -15,9 +13,9 @@ It's often said of nobles that they live off their peasants... sometimes, it's t
 - (60-40)% reduced Duration of Bleeding on You
 - Life Leech can Overflow Maximum Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

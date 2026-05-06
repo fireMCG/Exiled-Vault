@@ -1,11 +1,9 @@
-# Lone Messenger
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Lone Messenger.webp]]
 
-## Description
+# Flavour Text
 Some tasks are too important to entrust to others.
 
-## Effects
+# Effects
 You can only have one Herald
 50% more Effect of Herald Buffs on you
 100% more Damage with Hits from Herald Skills
@@ -13,9 +11,9 @@ You can only have one Herald
 Minions from Herald Skills deal 25% more Damage
 Your Aura Skills are Disabled
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE1

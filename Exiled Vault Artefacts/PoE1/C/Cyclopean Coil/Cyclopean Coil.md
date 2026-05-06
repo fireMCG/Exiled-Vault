@@ -1,12 +1,10 @@
-# Cyclopean Coil
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cyclopean Coil.png]]
 
-## Description
+# Flavour Text
 With the patience of a prowling lion,
 the Shade watched the Scholar.
 
-## Details
+# Details
 - Requires Level 68
 - +(25-40) to maximum Life
 - +(60-80) to maximum Life
@@ -16,9 +14,9 @@ the Shade watched the Scholar.
 - Cannot be Shocked if Intelligence is higher than Strength
 - 1% increased Damage per 5 of your lowest Attribute
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

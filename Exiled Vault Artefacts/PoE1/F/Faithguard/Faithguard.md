@@ -1,11 +1,9 @@
-# Faithguard
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Faithguard.png]]
 
-## Description
+# Flavour Text
 The priests of the  worshipped knowledge, not gods.
 
-## Details
+# Details
 - Ward: (51-63)
 - Requires Level 25, 30 Str, 30 Dex, 30 Int
 - +(20-30) to Intelligence
@@ -14,9 +12,9 @@ The priests of the  worshipped knowledge, not gods.
 - (15-25)% increased Light Radius
 - Increases and Reductions to Maximum Energy Shield instead apply to Ward
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

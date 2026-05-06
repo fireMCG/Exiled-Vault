@@ -1,12 +1,10 @@
-# Mirage Deadeye
-
-## Effects
+# Effects
 Grants Skill: Mirage Deadeye
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Deadeye
 #Ranger
+#Notable
 #PoE2

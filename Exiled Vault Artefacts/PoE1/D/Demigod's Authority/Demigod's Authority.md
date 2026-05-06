@@ -1,12 +1,10 @@
-# Demigod's Authority
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Demigod's Authority.png]]
 
-## Description
+# Flavour Text
 Stories of Heroism by the victor persist,
 for no one survives to contest them.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: 3-23
 - Critical Strike Chance: 5.00%
@@ -16,9 +14,9 @@ for no one survives to contest them.
 - You and Nearby Allies have 30% increased Item Rarity
 - 5% increased Character Size
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

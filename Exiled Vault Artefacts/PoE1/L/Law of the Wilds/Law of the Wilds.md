@@ -1,11 +1,9 @@
-# Law of the Wilds
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Law of the Wilds.png]]
 
-## Description
+# Flavour Text
 The strong survive. The strongest thrive.
 
-## Details
+# Details
 - Claw
 - Physical Damage: 29-55
 - Critical Strike Chance: (8.54-8.96)%
@@ -18,9 +16,9 @@ The strong survive. The strongest thrive.
 - (22-28)% increased Critical Strike Chance
 - +(15-25)% to Global Critical Strike Multiplier
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

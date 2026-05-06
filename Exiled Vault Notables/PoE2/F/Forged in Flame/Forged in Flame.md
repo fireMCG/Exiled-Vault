@@ -1,12 +1,10 @@
-# Forged in Flame
-
-## Effects
+# Effects
 Modifiers to Maximum Fire Resistance also grant Maximum Cold and Lightning Resistance
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Smith of Kitava
 #Warrior
+#Notable
 #PoE2

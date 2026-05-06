@@ -1,12 +1,10 @@
-# Edyrn's Tusks
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Edyrn's Tusks.png]]
 
-## Description
+# Flavour Text
 In death, the legendary boar's tusks were turned
 to the slaying of Phaaryl's Eternal oppressors.
 
-## Details
+# Details
 - Armour: (211-249)
 - Movement Speed: -5.0%
 - Requires Level 11, 21 Str
@@ -15,9 +13,9 @@ to the slaying of Phaaryl's Eternal oppressors.
 - 50% reduced Slowing Potency of Debuffs on You
 - (15-20) to (25-30) Physical Thorns damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

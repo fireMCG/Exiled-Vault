@@ -1,16 +1,14 @@
-# A Dab of Ink
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - A Dab of Ink.png]]
 
-## Description
+# Flavour Text
 The Poet's blood is the Empire's ink.
 
-## Reward
+# Reward
 The Poet's Pen
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

@@ -1,10 +1,8 @@
-# Cull the Hordes
-
-## Effects
+# Effects
 40% increased Culling Strike Threshold against Rare or Unique Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

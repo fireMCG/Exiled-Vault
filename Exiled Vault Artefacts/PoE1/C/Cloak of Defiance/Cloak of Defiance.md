@@ -1,8 +1,6 @@
-# Cloak of Defiance
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cloak of Defiance.png]]
 
-## Description
+# Flavour Text
 When the throat roars,
 As eyes weep,
 When the hand grips hard
@@ -12,7 +10,7 @@ Yet legs stand strong,
 That is the work
 Of the Defiant Heart.
 
-## Details
+# Details
 - Evasion: (1144-1645)
 - Energy Shield: (236-340)
 - Movement Speed: -3%
@@ -22,9 +20,9 @@ Of the Defiant Heart.
 - Regenerate 1% of Mana per second
 - Mind Over Matter
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

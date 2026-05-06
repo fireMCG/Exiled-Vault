@@ -1,12 +1,10 @@
-# Crystal Lattice
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Crystal Lattice.webp]]
 
-## Effects
+# Effects
 Imprisoned Monsters in your Maps have 15% chance to have 3 additional Essences
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

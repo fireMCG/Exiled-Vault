@@ -1,10 +1,8 @@
-# Irreparable
-
-## Effects
+# Effects
 100% increased Armour Break Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

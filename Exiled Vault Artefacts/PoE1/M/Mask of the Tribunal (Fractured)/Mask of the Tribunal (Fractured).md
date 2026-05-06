@@ -1,11 +1,9 @@
-# Mask of the Tribunal (Fractured)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mask of the Tribunal (Fractured).png]]
 
-## Description
+# Flavour Text
 The judge determines worthiness by comparison to the paragon: himself.
 
-## Details
+# Details
 - Armour: (400-567)
 - Energy Shield: (82-117)
 - Requires Level 58, 64 Str, 64 Int
@@ -16,9 +14,9 @@ The judge determines worthiness by comparison to the paragon: himself.
 - Nearby Allies have (2-4)% increased Cast Speed per 100 Intelligence you have
 - 2% increased Mana Reservation Efficiency of Skills per 250 total Attributes
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

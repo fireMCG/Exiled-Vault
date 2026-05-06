@@ -1,11 +1,9 @@
-# Hateforge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hateforge.png]]
 
-## Description
+# Flavour Text
 The first Karui born on the fringes of the Vaal empire developed a blood fever born of corruption.
 
-## Details
+# Details
 - Armour: (338-432)
 - Requires Level 72, 68 Str
 - Socketed Gems are Supported by Level 30 Rage
@@ -14,9 +12,9 @@ The first Karui born on the fringes of the Vaal empire developed a blood fever b
 - Vaal Attack Skills you Use yourself Cost Rage instead of requiring Souls
 - You cannot gain Rage during Soul Gain Prevention
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

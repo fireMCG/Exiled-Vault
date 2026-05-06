@@ -1,11 +1,9 @@
-# Kingsguard
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kingsguard.png]]
 
-## Description
+# Flavour Text
 The toughest armour is the trust of your people.
 
-## Details
+# Details
 - Armour: (967-1201)
 - Energy Shield: (197-245)
 - Movement Speed: -5%
@@ -16,9 +14,9 @@ The toughest armour is the trust of your people.
 - 30% increased Endurance Charge Duration
 - Gain 100 Life when you lose an Endurance Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

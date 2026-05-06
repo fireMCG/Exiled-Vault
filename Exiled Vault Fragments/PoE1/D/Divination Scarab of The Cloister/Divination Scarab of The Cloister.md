@@ -1,11 +1,9 @@
-# Divination Scarab of The Cloister
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Divination Scarab of The Cloister.webp]]
 
-## Description
+# Flavour Text
 No disease can be contained forever.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 5
@@ -15,9 +13,9 @@ Doedre's Devoted have 1% additional chance to drop a Stacked Deck
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Scarab
 #Fragment
 #PoE1

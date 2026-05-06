@@ -1,12 +1,10 @@
-# Refracted Infusion
-
-## Effects
+# Effects
 When collecting an Elemental Infusion, gain another different Elemental Infusion
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Stormweaver
 #Sorceress
+#Notable
 #PoE2

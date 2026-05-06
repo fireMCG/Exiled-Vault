@@ -1,12 +1,10 @@
-# Marylene's Fallacy
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Marylene's Fallacy.png]]
 
-## Description
+# Flavour Text
 "Marylene stroked the medallion at her breast before every duel and every cast of the die."
 - Victario, the People's Poet
 
-## Details
+# Details
 - Requires Level 40
 - +(20-30) to Intelligence
 - +(80-120) to Accuracy Rating
@@ -16,9 +14,9 @@
 - 40% less Critical Strike Chance
 - Critical Strikes have Culling Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

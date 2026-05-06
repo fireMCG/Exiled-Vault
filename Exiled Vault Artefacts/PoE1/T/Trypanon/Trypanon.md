@@ -1,14 +1,12 @@
-# Trypanon
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Trypanon.png]]
 
-## Description
+# Flavour Text
 "Though ingenius instruments have been found,
 it seems surgery before thaumaturgy
 was not so delicate."
 - Icius Perandus, Antiquities Collection, Item 3546
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: 43-88
 - Critical Strike Chance: 100.00%
@@ -19,9 +17,9 @@ was not so delicate."
 - 50% reduced Attack Speed
 - This Weapon's Critical Strike Chance is 100%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

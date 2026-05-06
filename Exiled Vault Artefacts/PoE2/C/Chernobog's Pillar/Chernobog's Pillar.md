@@ -1,14 +1,12 @@
-# Chernobog's Pillar
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Chernobog's Pillar.png]]
 
-## Description
+# Flavour Text
 Fire dances with those who doubt
 Licks the skin and flesh from the fearful
 Where there is no fear
 There is no flame
 
-## Details
+# Details
 - Shield
 - Chance to Block: 26%
 - Armour: (304-380)
@@ -21,9 +19,9 @@ There is no flame
 - +(150-200) to Stun Threshold
 - Gain 1% of damage as Fire damage per 1% Chance to Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,14 +1,12 @@
-# The Fetid Pool
-
-## Description
+# Flavour Text
 Sluggish waters simmering with decay.
 
-## Connected Areas
+# Connected Areas
 - The Mud Flats
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

@@ -1,15 +1,13 @@
-# The Azak Bog
-
-## Description
+# Flavour Text
 Death wears a mostly human face.
 
-## Connected Areas
+# Connected Areas
 - Infested Barrens
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

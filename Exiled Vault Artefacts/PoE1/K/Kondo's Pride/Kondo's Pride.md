@@ -1,8 +1,6 @@
-# Kondo's Pride
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kondo's Pride.png]]
 
-## Description
+# Flavour Text
 Faintly gleaming in the moonlit night,
 Kondo's Pride was primed to fight.
 Driven by an inner fire,
@@ -10,7 +8,7 @@ bloodlust, spite and ill desire.
 He swiftly moved to strike them all,
 wreaking havoc like a steel squall.
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: (198.4-217) to (368-402.5)
 - Critical Strike Chance: 6.50%
@@ -25,9 +23,9 @@ wreaking havoc like a steel squall.
 - 30% chance to Blind Enemies on Critical Strike
 - 50% chance to cause Bleeding on Critical Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

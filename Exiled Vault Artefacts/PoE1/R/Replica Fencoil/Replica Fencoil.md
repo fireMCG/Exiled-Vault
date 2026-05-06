@@ -1,12 +1,10 @@
-# Replica Fencoil
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Fencoil.png]]
 
-## Description
+# Flavour Text
 "Attempt #306: The power I can sense in this ancient branch
 still eludes me. Perhaps if I attach some string and a hook..."
 
-## Details
+# Details
 - Staff
 - Physical Damage: 9-19
 - Critical Strike Chance: 7.50%
@@ -18,9 +16,9 @@ still eludes me. Perhaps if I attach some string and a hook..."
 - (10-20)% increased maximum Life
 - (10-20)% increased maximum Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Animal/Fish
 #Concept/Power

@@ -1,11 +1,9 @@
-# Graven's Secret
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Graven's Secret.png]]
 
-## Description
+# Flavour Text
 The cowardly thinker's greatest success is simply surviving.
 
-## Details
+# Details
 - Requires Level 68
 - (15-25)% increased Stun and Block Recovery
 - +(60-70) to maximum Energy Shield
@@ -16,9 +14,9 @@ The cowardly thinker's greatest success is simply surviving.
 - Maximum Absorption Charges is equal to Maximum Power Charges
 - Gain Absorption Charges instead of Power Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Graven
 #Character/Eldritch/Maven

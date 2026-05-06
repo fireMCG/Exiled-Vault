@@ -1,8 +1,6 @@
-# Queen's Decree
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Queen's Decree.png]]
 
-## Description
+# Flavour Text
 The nobles wanted to take her throne.
 She let the peasants take their wealth.
 The peasants wanted to take her wealth.
@@ -10,7 +8,7 @@ She let the soldiers take their heads.
 The soldiers wanted to take her head.
 She sat on her throne and wept.
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: 30-50
 - Critical Strike Chance: 5.00%
@@ -26,9 +24,9 @@ She sat on her throne and wept.
 - +(1-2) to maximum number of Skeletons
 - +(1-2) to maximum number of Spectres
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

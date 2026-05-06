@@ -1,12 +1,10 @@
-# Replica Malachai's Artifice
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Malachai's Artifice.png]]
 
-## Description
+# Flavour Text
 "As much as Prototype #20 hints at some deep alternate physics, we cannot afford to expend any more test subjects. Experiments halted."
 - Administrator Qotra
 
-## Details
+# Details
 - Requires Level 5
 - Has 1 Socket
 - Socketed Gems have Secrets of Suffering
@@ -16,9 +14,9 @@
 - +(75-100)% to Lightning Resistance when Socketed with a Blue Gem
 - All Sockets are White
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Qotra
 #Character/Malachai

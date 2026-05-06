@@ -1,12 +1,10 @@
-# The Will of Esh
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Will of Esh.png]]
 
-## Description
+# Flavour Text
 They whisper in the dark, building towers of
 mindless thought that seek a hollow truth.
 
-## Details
+# Details
 - Requires Level 42
 - Cannot roll Modifiers of Non-Lightning Damage Types
 - +2% to maximum Lightning Resistance
@@ -18,9 +16,9 @@ mindless thought that seek a hollow truth.
 - Increases and Reductions to Lightning Damage also apply to Effect of
 - Auras from Lightning Skills at (10-15)% of their value, up to a maximum of 150%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

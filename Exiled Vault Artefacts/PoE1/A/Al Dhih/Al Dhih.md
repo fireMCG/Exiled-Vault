@@ -1,13 +1,11 @@
-# Al Dhih
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Al Dhih.png]]
 
-## Description
+# Flavour Text
 "When the hyena howls thrice
 death is sure to follow."
 -Maraketh Wisdom
 
-## Details
+# Details
 - Claw
 - Physical Damage: (32-35.2) to (86-94.6)
 - Critical Strike Chance: 8.00%
@@ -21,9 +19,9 @@ death is sure to follow."
 - 25% increased Warcry Buff Effect
 - Warcry Skills' Cooldown Time is 4 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Death
 #Concept/Animal/Hyena

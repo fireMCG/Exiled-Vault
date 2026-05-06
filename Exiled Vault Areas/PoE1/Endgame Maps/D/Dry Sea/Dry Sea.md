@@ -1,13 +1,11 @@
-# Dry Sea
-
-## Description
+# Flavour Text
 Where once waves crashed with crushing force,
 
 brittle wooden bones tell tall tales.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

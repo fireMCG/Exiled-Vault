@@ -1,14 +1,12 @@
-# Sanguine Gambol
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Sanguine Gambol.png]]
 
-## Description
+# Flavour Text
 The night dances on
 Wine continues to flow
 Your skin looking pale
 Your soul letting go
 
-## Details
+# Details
 - Dagger
 - Physical Damage: (111-151.3) to (190.5-229.5)
 - Critical Strike Chance: 10.40%
@@ -24,9 +22,9 @@ Your soul letting go
 - 50% chance to cause Bleeding on Critical Strike
 - You have Crimson Dance if you have dealt a Critical Strike Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Violent Dead
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Violent Dead.png]]
 
-## Description
+# Flavour Text
 "Rage, malice, hunger - some traits are more easily carried across the barrier of death."
 - Kadavrus, Surgeon to the Umbra
 
-## Details
+# Details
 - Limited to: 2
 - Radius: Medium
 - Minions deal (10-15)% increased Damage
@@ -16,9 +14,9 @@
 - Attack deals 30% increased Damage
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

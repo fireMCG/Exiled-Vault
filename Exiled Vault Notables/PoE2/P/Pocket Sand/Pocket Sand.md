@@ -1,10 +1,8 @@
-# Pocket Sand
-
-## Effects
+# Effects
 50% increased Blind Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

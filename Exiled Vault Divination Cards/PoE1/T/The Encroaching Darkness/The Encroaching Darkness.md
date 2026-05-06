@@ -1,17 +1,15 @@
-# The Encroaching Darkness
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Encroaching Darkness.png]]
 
-## Description
+# Flavour Text
 No matter where your dreams take you, Nightmare follows close behind.
 
-## Reward
+# Reward
 Map
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Darkness
 #Concept/Night/Dream

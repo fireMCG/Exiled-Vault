@@ -1,12 +1,10 @@
-# Controlled Metamorphosis
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Controlled Metamorphosis.png]]
 
-## Description
+# Flavour Text
 Our world was dying, but we chose to survive.
 We broke free from the chains within.
 
-## Details
+# Details
 - Limited to: 1
 - Radius: Variable
 - Only affects Passives in (Very Small-Massive) Ring
@@ -14,9 +12,9 @@ We broke free from the chains within.
 - -(20-5)% to all Elemental Resistances
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

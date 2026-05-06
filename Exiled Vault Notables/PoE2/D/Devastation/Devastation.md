@@ -1,11 +1,9 @@
-# Devastation
-
-## Effects
+# Effects
 15% increased Attack Area Damage
 12% increased Area of Effect for Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

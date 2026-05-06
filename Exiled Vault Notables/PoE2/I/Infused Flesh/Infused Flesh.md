@@ -1,11 +1,9 @@
-# Infused Flesh
-
-## Effects
+# Effects
 +20 to maximum Life
 8% of Damage taken Recouped as Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

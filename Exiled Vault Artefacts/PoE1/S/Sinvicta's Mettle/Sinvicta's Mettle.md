@@ -1,12 +1,10 @@
-# Sinvicta's Mettle
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Sinvicta's Mettle.png]]
 
-## Description
+# Flavour Text
 War is a thriving infection.
 It numbs the heart and eats away at the soul until only emptiness remains.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (208.8-219.24) to (314.4-330.12)
 - Critical Strike Chance: 5.70%
@@ -19,9 +17,9 @@ It numbs the heart and eats away at the soul until only emptiness remains.
 - Gain a Frenzy Charge on every 50th Rampage Kill
 - Rampage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

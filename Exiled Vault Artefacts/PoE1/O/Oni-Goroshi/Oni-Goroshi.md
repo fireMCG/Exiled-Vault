@@ -1,14 +1,12 @@
-# Oni-Goroshi
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Oni-Goroshi.png]]
 
-## Description
+# Flavour Text
 "Your name is Demon Slayer? Really? Good name for rotgut, that."
 She said: I prefer "The Goddess Of Swords". Much more dignified. And accurate.
 "Demon Slayer The Cheap And Nasty it is then. Burns going down, burns coming up?"
 She said: Every single time, Charan. And still...you'll bathe me, and you'll drink my love. Until you can't.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: 5-11
 - Critical Strike Chance: (8.50-9.50)%
@@ -23,9 +21,9 @@ She said: Every single time, Charan. And still...you'll bathe me, and you'll dri
 - Has 6 Linked Sockets (Hidden)
 - Uses goddess player audio (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

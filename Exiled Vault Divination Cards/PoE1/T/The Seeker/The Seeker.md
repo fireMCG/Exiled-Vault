@@ -1,16 +1,14 @@
-# The Seeker
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Seeker.png]]
 
-## Description
+# Flavour Text
 All that is flawed is worthless. The slightest error, and this might as well be trash.
 
-## Reward
+# Reward
 3x Orb of Annulment
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

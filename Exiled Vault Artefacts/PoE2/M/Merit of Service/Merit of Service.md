@@ -1,11 +1,9 @@
-# Merit of Service
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Merit of Service.png]]
 
-## Description
+# Flavour Text
 Lead by example, and you shall never be alone.
 
-## Details
+# Details
 - Shield
 - Chance to Block: (30-31)%
 - Armour: (28-32)
@@ -17,9 +15,9 @@ Lead by example, and you shall never be alone.
 - +(60-80) to Stun Threshold
 - Allies in your Presence have Block Chance equal to yours
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

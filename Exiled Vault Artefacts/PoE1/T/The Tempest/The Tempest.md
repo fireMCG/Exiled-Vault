@@ -1,11 +1,9 @@
-# The Tempest
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Tempest.png]]
 
-## Description
+# Flavour Text
 Where steel-grey clouds gather and crash together, a storm is sure to follow.
 
-## Details
+# Details
 - Bow
 - Elemental Damage: 1-85
 - Critical Strike Chance: 6.00%
@@ -16,9 +14,9 @@ Where steel-grey clouds gather and crash together, a storm is sure to follow.
 - Adds 1 to 85 Lightning Damage
 - (36-50)% increased Attack Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

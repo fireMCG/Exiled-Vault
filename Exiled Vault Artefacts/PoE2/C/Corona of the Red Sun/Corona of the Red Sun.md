@@ -1,12 +1,10 @@
-# Corona of the Red Sun
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Corona of the Red Sun.png]]
 
-## Description
+# Flavour Text
 Only the High Priests could enact the sacrifices,
 but all who witnessed shared in exultation.
 
-## Details
+# Details
 - Armour: 146
 - Requires Level 65, 52 Str
 - +(100-150) to Accuracy Rating
@@ -15,9 +13,9 @@ but all who witnessed shared in exultation.
 - 25% increased Light Radius
 - Leeching Life from your Hits causes Allies in your Presence to also Leech the same amount of Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

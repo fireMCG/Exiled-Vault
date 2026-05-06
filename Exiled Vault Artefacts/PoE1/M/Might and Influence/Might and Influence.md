@@ -1,14 +1,12 @@
-# Might and Influence
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Might and Influence.png]]
 
-## Description
+# Flavour Text
 Emperor Chitus could offer you a gift with one hand,
 and drive a blade into your back with the other.
 His blend of brutality and charisma cultured a potent
 mixture of fear and admiration among the masses.
 
-## Details
+# Details
 - Limited to: 1
 - Radius: Medium
 - (10-15)% increased Attack Damage
@@ -20,9 +18,9 @@ mixture of fear and admiration among the masses.
 - Accuracy Rating while wielding a Sword
 - Place into an allocated jewel socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,15 +1,13 @@
-# Fleet Orders
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Fleet Orders.png]]
 
-## Description
+# Flavour Text
 Fidium's fealty to fairness 
 makes him the perfect pawn in my plan.
 Our plan. Perfect pawn in OUR plan.
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Fidium
 #Category/QuestItem
 #QuestItem

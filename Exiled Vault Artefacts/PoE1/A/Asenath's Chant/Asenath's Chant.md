@@ -1,13 +1,11 @@
-# Asenath's Chant
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Asenath's Chant.png]]
 
-## Description
+# Flavour Text
 Asenath loosed arrows with almost musical rhythm,
 a rhythm matched by her nearly inaudible whispers,
 and the crunch of the dead hitting the dust.
 
-## Details
+# Details
 - Energy Shield: (112-135)
 - Requires Level 45, 23 Int
 - Trigger a Socketed Spell when you Attack with a Bow, with a 0.3 second Cooldown
@@ -18,9 +16,9 @@ and the crunch of the dead hitting the dust.
 - 30% increased Mana Regeneration Rate
 - 5% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Sekhema/Asenath
 #Society/Maraketh

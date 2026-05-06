@@ -1,16 +1,14 @@
-# Pitfighter
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Pitfighter.webp]]
 
-## Description
+# Flavour Text
 When winning is all that matters, you'll use everything at your disposal.
 
-## Effects
+# Effects
 1% increased Fishing Line Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE1

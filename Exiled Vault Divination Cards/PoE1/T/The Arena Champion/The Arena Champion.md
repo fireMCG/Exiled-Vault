@@ -1,17 +1,15 @@
-# The Arena Champion
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Arena Champion.png]]
 
-## Description
+# Flavour Text
 The fight is the easy part. It's the years of training that'll kill you.
 
-## Reward
+# Reward
 Map
 Map Tier: 12
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Moon
 #Concept/Sun
 #Category/DivinationCard

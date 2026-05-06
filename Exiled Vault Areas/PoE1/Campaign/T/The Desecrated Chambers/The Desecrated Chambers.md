@@ -1,14 +1,12 @@
-# The Desecrated Chambers
-
-## Description
+# Flavour Text
 Mad men toil under smoking skies to pervert a holy sanctum.
 
-## Connected Areas
+# Connected Areas
 - The Torched Courts
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

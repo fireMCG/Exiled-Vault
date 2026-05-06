@@ -1,11 +1,9 @@
-# Redblade Banner
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Redblade Banner.png]]
 
-## Description
+# Flavour Text
 Blood shed is blood shared.
 
-## Details
+# Details
 - Chance to Block: 30%
 - Armour: (338-432)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ Blood shed is blood shared.
 - 50% increased Warcry Cooldown Recovery Rate
 - Warcries have infinite Power
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

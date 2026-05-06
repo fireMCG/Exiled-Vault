@@ -1,13 +1,11 @@
-# Ylfeban's Trickery
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ylfeban's Trickery.png]]
 
-## Description
+# Flavour Text
 An angry god is one thing,
 but you should really fear a god
 with an unpredictable sense of humour.
 
-## Details
+# Details
 - Energy Shield: (184-248)
 - Requires Level 69, 154 Int
 - Trigger Level 10 Shock Ground when Hit
@@ -16,9 +14,9 @@ with an unpredictable sense of humour.
 - +(25-35)% to Lightning Resistance
 - Curse Enemies which Hit you with a random Hex, ignoring Curse Limit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

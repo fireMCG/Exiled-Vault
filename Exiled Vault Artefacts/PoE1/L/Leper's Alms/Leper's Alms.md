@@ -1,11 +1,9 @@
-# Leper's Alms
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Leper's Alms.png]]
 
-## Description
+# Flavour Text
 One's burden is another's gift.
 
-## Details
+# Details
 - Chance to Block: (29-30)%
 - Evasion: (906-1218)
 - Energy Shield: (186-245)
@@ -18,9 +16,9 @@ One's burden is another's gift.
 - +(3-4)% Chance to Block
 - Shared Suffering
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

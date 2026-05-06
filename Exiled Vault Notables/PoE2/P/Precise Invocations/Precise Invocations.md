@@ -1,10 +1,8 @@
-# Precise Invocations
-
-## Effects
+# Effects
 Invocated Spells have 30% increased Critical Hit Chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

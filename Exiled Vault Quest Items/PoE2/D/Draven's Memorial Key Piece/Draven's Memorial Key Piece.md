@@ -1,13 +1,11 @@
-# Draven's Memorial Key Piece
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Draven's Memorial Key Piece.png]]
 
-## Description
+# Flavour Text
 ... shall never be forgotten.
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Draven
 #Category/QuestItem
 #Society/EternalEmpire

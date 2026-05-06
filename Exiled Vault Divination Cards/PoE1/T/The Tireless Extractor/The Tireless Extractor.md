@@ -1,17 +1,15 @@
-# The Tireless Extractor
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Tireless Extractor.png]]
 
-## Description
+# Flavour Text
 "I am not alone in this. I have God by my side! And... you help sometimes, I suppose."
 - Sister Cassia
 
-## Reward
+# Reward
 10x Oil
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Cassia
 #Concept/God

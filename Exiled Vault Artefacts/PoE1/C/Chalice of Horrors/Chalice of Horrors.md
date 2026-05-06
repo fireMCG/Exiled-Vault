@@ -1,11 +1,9 @@
-# Chalice of Horrors
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Chalice of Horrors.png]]
 
-## Description
+# Flavour Text
 An eye for an eye. A curse for a curse.
 
-## Details
+# Details
 - Chance to Block: 26%
 - Evasion: (219-291)
 - Energy Shield: (50-70)
@@ -19,9 +17,9 @@ An eye for an eye. A curse for a curse.
 - 100% Chance to Cause Monster to Flee on Block
 - Inflict Decay on Enemies you Curse with Hex Skills, dealing 700 Chaos Damage per Second for 8 Seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

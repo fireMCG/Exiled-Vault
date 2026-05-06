@@ -1,12 +1,10 @@
-# Undying Hate
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Undying Hate.png]]
 
-## Description
+# Flavour Text
 They believed themselves driven by necessity,
 but that desperation made them monstrous.
 
-## Details
+# Details
 - Limited to: 1 Historic
 - Radius: Very Large
 - Glorifying the defilement of (79-30977) souls in tribute to (Amanamu-Ulaman-Kurgal-Tecrod-Kulemak)
@@ -18,9 +16,9 @@ but that desperation made them monstrous.
 - Can be Desecrated 4 Times.
 - Desecration makes the item unstable.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Emotion/Hate
 #League/Abyss

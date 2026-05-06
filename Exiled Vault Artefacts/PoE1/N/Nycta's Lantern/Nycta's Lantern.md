@@ -1,13 +1,11 @@
-# Nycta's Lantern
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Nycta's Lantern.png]]
 
-## Description
+# Flavour Text
 Left in her tomb by the lynch mob,
 the flame inside still blazed bright after her death,
 and so did hers.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: (87.5-105) to (130-156)
 - Elemental Damage: (76-98) to (161-176)
@@ -21,9 +19,9 @@ and so did hers.
 - 50% increased Light Radius
 - Battlemage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

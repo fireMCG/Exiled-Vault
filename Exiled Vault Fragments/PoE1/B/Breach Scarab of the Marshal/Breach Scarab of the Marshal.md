@@ -1,11 +1,9 @@
-# Breach Scarab of the Marshal
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Breach Scarab of the Marshal.webp]]
 
-## Description
+# Flavour Text
 Engineered and Unwavering Loyalty.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,8 +13,8 @@ Breach Hives in Area lead to a Hive Fortress
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

@@ -1,12 +1,10 @@
-# Venopuncture
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Venopuncture.png]]
 
-## Description
+# Flavour Text
 There is a way to survive the bite of an ice snake,
 but few have the resolve to attempt it.
 
-## Details
+# Details
 - Requires Level 36
 - Adds 1 to 4 Physical Damage to Attacks
 - Adds (5-7) to (9-13) Physical Damage to Attacks
@@ -16,9 +14,9 @@ but few have the resolve to attempt it.
 - (10-20)% chance to inflict Bleeding on Hit
 - (15-25)% increased Magnitude of Bleeding you inflict
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Animal/Snake
 #Artefact

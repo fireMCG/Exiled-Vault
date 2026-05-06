@@ -1,11 +1,9 @@
-# Sine Aequo
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Sine Aequo.png]]
 
-## Description
+# Flavour Text
 The greatest warrior of his era fought with honour.
 
-## Details
+# Details
 - Armour: (88-110)
 - Evasion: (80-100)
 - Energy Shield: (30-37)
@@ -15,9 +13,9 @@ The greatest warrior of his era fought with honour.
 - Immobilise enemies at 50% buildup instead of 100%
 - Enemies Immobilised by you take 20% more Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

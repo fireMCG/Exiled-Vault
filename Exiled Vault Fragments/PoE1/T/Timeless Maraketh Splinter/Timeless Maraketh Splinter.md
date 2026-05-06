@@ -1,15 +1,13 @@
-# Timeless Maraketh Splinter
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Timeless Maraketh Splinter.webp]]
 
-## Details
+# Details
 Stackable Currency
 Stack Size: 1 / 100
 Combine 100 Splinters to create a Timeless Maraketh Emblem.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

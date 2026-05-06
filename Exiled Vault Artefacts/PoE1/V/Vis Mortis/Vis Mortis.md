@@ -1,14 +1,12 @@
-# Vis Mortis
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Vis Mortis.png]]
 
-## Description
+# Flavour Text
 Reap what others have sown
 Muster them from their graves
 Parade them for your pleasure
 Zealots in mortis enslaved
 
-## Details
+# Details
 - Energy Shield: (369-470)
 - Movement Speed: -3%
 - Requires Level 59, 160 Int
@@ -18,9 +16,9 @@ Zealots in mortis enslaved
 - Minions deal 15% increased Damage
 - Minions gain (15-20)% of Elemental Damage as Extra Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

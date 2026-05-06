@@ -1,8 +1,6 @@
-# The Harvester
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Harvester.png]]
 
-## Description
+# Flavour Text
 Taste not of their
 forbidden fruit.
 Theirs is a harvest of
@@ -10,12 +8,12 @@ the darkest kind,
 twisted, rotten and
 damned for eternity.
 
-## Reward
+# Reward
 The Harvest
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Blood
 #Concept/Damnation

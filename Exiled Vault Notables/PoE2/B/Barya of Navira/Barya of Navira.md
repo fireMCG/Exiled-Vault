@@ -1,12 +1,10 @@
-# Barya of Navira
-
-## Effects
+# Effects
 Grants Skill: Navira, the Last Mirage
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

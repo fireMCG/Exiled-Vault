@@ -1,11 +1,9 @@
-# Sire of Shards
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Sire of Shards.png]]
 
-## Description
+# Flavour Text
 That which was broken may yet break.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 56-117
 - Critical Strike Chance: 7.80%
@@ -20,9 +18,9 @@ That which was broken may yet break.
 - (60-100)% increased Projectile Damage
 - 20% increased Light Radius
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

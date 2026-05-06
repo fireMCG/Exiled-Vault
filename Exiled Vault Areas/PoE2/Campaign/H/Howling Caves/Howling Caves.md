@@ -1,14 +1,12 @@
-# Howling Caves
-
-## Description
+# Flavour Text
 The caves can be heard, even against the ferocious winds.
 
-## Connected Areas
+# Connected Areas
 - Glacial Tarn
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

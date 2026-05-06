@@ -1,17 +1,15 @@
-# The Queen
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Queen.png]]
 
-## Description
+# Flavour Text
 The power of the world, 
 lies upon your hands.
 
-## Reward
+# Reward
 Atziri's Acuity
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Atziri
 #Concept/Nature/Earth

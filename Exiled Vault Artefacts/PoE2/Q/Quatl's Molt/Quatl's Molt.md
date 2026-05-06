@@ -1,11 +1,9 @@
-# Quatl's Molt
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Quatl's Molt.png]]
 
-## Description
+# Flavour Text
 As the serpent wills.
 
-## Details
+# Details
 - Evasion: (316-356)
 - Movement Speed: -3.0%
 - Requires Level 36, 59 Dex
@@ -16,9 +14,9 @@ As the serpent wills.
 - Cannot be Poisoned
 - Gain Deflection Rating equal to (40-60)% of Evasion Rating
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

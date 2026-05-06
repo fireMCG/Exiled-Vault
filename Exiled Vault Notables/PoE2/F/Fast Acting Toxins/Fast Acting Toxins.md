@@ -1,10 +1,8 @@
-# Fast Acting Toxins
-
-## Effects
+# Effects
 Damaging Ailments deal damage 12% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

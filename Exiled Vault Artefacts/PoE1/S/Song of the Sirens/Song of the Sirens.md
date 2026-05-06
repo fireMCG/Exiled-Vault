@@ -1,12 +1,10 @@
-# Song of the Sirens
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Song of the Sirens.png]]
 
-## Description
+# Flavour Text
 Give a man a fish, and you can feed him for a day.
 But give a fish a man, and you can feed it for a month.
 
-## Details
+# Details
 - Fishing Rod
 - Physical Damage: 8-15
 - Critical Strike Chance: 5.00%
@@ -17,9 +15,9 @@ But give a fish a man, and you can feed it for a month.
 - (50-60)% increased Rarity of Fish Caught
 - You can catch Exotic Fish
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

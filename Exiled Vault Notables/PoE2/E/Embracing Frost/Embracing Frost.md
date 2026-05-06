@@ -1,11 +1,9 @@
-# Embracing Frost
-
-## Effects
+# Effects
 +1% to Maximum Cold Resistance
 +10% to Cold Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

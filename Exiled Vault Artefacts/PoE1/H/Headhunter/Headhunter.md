@@ -1,14 +1,12 @@
-# Headhunter
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Headhunter.png]]
 
-## Description
+# Flavour Text
 "A man's soul rules from a cavern of bone, learns and
 judges through flesh-born windows. The heart is meat.
 The head is where the Man is."
 - Lavianga, Advisor to
 
-## Details
+# Details
 - Requires Level 40
 - +(25-40) to maximum Life
 - +(40-55) to Strength
@@ -17,9 +15,9 @@ The head is where the Man is."
 - (20-30)% increased Damage with Hits against Rare monsters
 - When you Kill a Rare monster, you gain its Modifiers for 60 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

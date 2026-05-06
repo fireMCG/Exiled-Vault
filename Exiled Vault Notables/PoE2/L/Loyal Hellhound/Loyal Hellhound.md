@@ -1,13 +1,11 @@
-# Loyal Hellhound
-
-## Effects
+# Effects
 Grants Skill: Summon Infernal Hound
 number of infernal familiars allowed [1]
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Infernalist
 #Witch
+#Notable
 #PoE2

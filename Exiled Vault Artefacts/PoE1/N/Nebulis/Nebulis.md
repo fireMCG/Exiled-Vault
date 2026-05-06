@@ -1,11 +1,9 @@
-# Nebulis
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Nebulis.png]]
 
-## Description
+# Flavour Text
 The vastness of the cosmos holds energies beyond comprehension, should one have the fortitude to grasp them.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 50-76
 - Critical Strike Chance: 7.30%
@@ -16,9 +14,9 @@ The vastness of the cosmos holds energies beyond comprehension, should one have 
 - (15-20)% increased Cast Speed
 - (5-10)% increased Elemental Damage per 1% Fire, Cold, or Lightning Resistance above 75%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Erian's Cobble
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Erian's Cobble.png]]
 
-## Description
+# Flavour Text
 Sometimes patching up your
 equipment gets out of hand.
 
-## Details
+# Details
 - Armour: (34-74)
 - Evasion: (28-58)
 - Energy Shield: (0-20)
@@ -27,9 +25,9 @@ equipment gets out of hand.
 - +(0-10)% to Lightning Resistance
 - (0-6) Life Regeneration per second
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

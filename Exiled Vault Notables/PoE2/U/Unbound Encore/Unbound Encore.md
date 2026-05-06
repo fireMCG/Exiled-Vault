@@ -1,12 +1,10 @@
-# Unbound Encore
-
-## Effects
+# Effects
 Grants Skill: Time Snap
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Chronomancer
 #Sorceress
+#Notable
 #PoE2

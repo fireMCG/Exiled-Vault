@@ -1,13 +1,11 @@
-# Malachai's Artifice
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Malachai's Artifice.png]]
 
-## Description
+# Flavour Text
 When the wind blows,
 Know which way to bend
 and watch the others break.
 
-## Details
+# Details
 - Requires Level 5
 - Has 1 Socket
 - Socketed Gems have Elemental Equilibrium
@@ -17,9 +15,9 @@ and watch the others break.
 - +(75-100)% to Lightning Resistance when Socketed with a Blue Gem
 - All Sockets are White
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

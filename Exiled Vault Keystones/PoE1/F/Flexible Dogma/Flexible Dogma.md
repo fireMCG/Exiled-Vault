@@ -1,12 +1,10 @@
-# Flexible Dogma
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Flexible Dogma.webp]]
 
-## Effects
+# Effects
 Rerolling Favours at Ritual Altars in your Maps costs 18% reduced Tribute
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

@@ -1,15 +1,13 @@
-# The Chamber of Sins Level 1
-
-## Description
+# Flavour Text
 Phantom whispers of maniacal passion.
 
-## Connected Areas
+# Connected Areas
 - The Crossroads
 - The Chamber of Sins Level 2
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

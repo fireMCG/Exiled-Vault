@@ -1,12 +1,10 @@
-# Coward's Legacy
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Coward's Legacy.png]]
 
-## Description
+# Flavour Text
 Death is your most important duty.
 Face it, or curse your bloodline for all eternity.
 
-## Details
+# Details
 - Requires Level 52
 - +(9-20) to maximum Energy Shield
 - +(15-20) to all Attributes
@@ -15,9 +13,9 @@ Face it, or curse your bloodline for all eternity.
 - You count as on Low Life while you are Cursed with Vulnerability
 - You are Cursed with Vulnerability
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

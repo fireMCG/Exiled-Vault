@@ -1,11 +1,9 @@
-# Serle's Masterwork
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Serle's Masterwork.png]]
 
-## Description
+# Flavour Text
 Truly great Artificers push the boundaries of the possible.
 
-## Details
+# Details
 - One Handed Mace
 - Physical Damage: (82.5-115.5) to (172.5-241.5)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ Truly great Artificers push the boundaries of the possible.
 - Can have 2 additional Runesmithing Enchantments
 - Can be Runesmithed as though it were all One Handed Melee Weapon Types
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

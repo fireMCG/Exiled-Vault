@@ -1,14 +1,12 @@
-# Cold River
-
-## Description
+# Flavour Text
 Ice forges a fickle path,
 
 as those beneath its veil can attest.
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #EndgameMap
 #PoE1
-#Interesting

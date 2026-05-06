@@ -1,11 +1,9 @@
-# Short Shot
-
-## Effects
+# Effects
 10% reduced Projectile Speed
 20% increased Projectile Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

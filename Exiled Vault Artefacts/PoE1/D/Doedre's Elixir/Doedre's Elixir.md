@@ -1,12 +1,10 @@
-# Doedre's Elixir
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Doedre's Elixir.png]]
 
-## Description
+# Flavour Text
 Doedre Darktongue knew the Way of the Thaumaturge.
 In order to receive, one must give... without hesitation.
 
-## Details
+# Details
 - Recovers 120 Mana over 4.00 Seconds
 - Consumes (31-36) of 36 Charges on use
 - Requires Level 12
@@ -18,9 +16,9 @@ In order to receive, one must give... without hesitation.
 - Gain (1-3) Endurance Charges on use
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

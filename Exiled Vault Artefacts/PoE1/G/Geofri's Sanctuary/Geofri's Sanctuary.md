@@ -1,12 +1,10 @@
-# Geofri's Sanctuary
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Geofri's Sanctuary.png]]
 
-## Description
+# Flavour Text
 Faith does not make us invulnerable.
 It makes us immortal.
 
-## Details
+# Details
 - Armour: (565-757)
 - Energy Shield: (183-253)
 - Movement Speed: -5%
@@ -18,9 +16,9 @@ It makes us immortal.
 - +2 maximum Energy Shield per 5 Strength
 - Zealot's Oath
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Fungal Hollow
-
-## Description
+# Flavour Text
 The water brings life,
 
 the poison takes it away.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

@@ -1,12 +1,10 @@
-# Voll's Protector
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Voll's Protector.png]]
 
-## Description
+# Flavour Text
 Although a great leader during the war,
 Voll proved disastrous in times of peace.
 
-## Details
+# Details
 - Armour: (467-561)
 - Energy Shield: (162-195)
 - Movement Speed: -4.0%
@@ -16,9 +14,9 @@ Voll proved disastrous in times of peace.
 - +(13-17)% to Chaos Resistance
 - 25% chance to gain a Power Charge on Critical Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Emperor/VollOfThebrus
 #Artefact

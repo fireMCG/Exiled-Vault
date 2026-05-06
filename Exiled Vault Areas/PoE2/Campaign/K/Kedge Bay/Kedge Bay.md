@@ -1,16 +1,14 @@
-# Kedge Bay
-
-## Description
+# Flavour Text
 The fog hides dangers both real and imagined.
 
-## Connected Areas
+# Connected Areas
 - Kingsmarch
 - Journey's End
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

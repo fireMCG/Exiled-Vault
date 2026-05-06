@@ -1,12 +1,10 @@
-# Heat of the Forge
-
-## Effects
+# Effects
 Grants Skill: Fire Spell on Hit
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Smith of Kitava
 #Warrior
+#Notable
 #PoE2

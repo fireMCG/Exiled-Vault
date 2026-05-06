@@ -1,12 +1,10 @@
-# Gloomform
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Gloomform.png]]
 
-## Description
+# Flavour Text
 It was in this forsaken land, where mists shroud the world in mystery,
 that thieves, murderers, and outcasts, sought refuge.
 
-## Details
+# Details
 - Evasion: (86-107)
 - Energy Shield: 24
 - Movement Speed: -3.0%
@@ -17,9 +15,9 @@ that thieves, murderers, and outcasts, sought refuge.
 - 20% reduced Light Radius
 - You have a Smoke Cloud around you while stationary
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

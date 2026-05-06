@@ -1,16 +1,14 @@
-# The Solaris Temple Level 1
-
-## Description
+# Flavour Text
 An empire at its height, reflected in polished gold.
 
-## Connected Areas
+# Connected Areas
 - The Battlefront
 - The Solaris Temple Level 2
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

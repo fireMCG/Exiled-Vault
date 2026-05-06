@@ -1,15 +1,13 @@
-# The Beacon
-
-## Description
+# Flavour Text
 An echo of destiny consumes the land.
 
-## Connected Areas
+# Connected Areas
 - The Cavern of Anger
 - The Brine King's Reef
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

@@ -1,11 +1,9 @@
-# Fragment of Emptiness
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Fragment of Emptiness.webp]]
 
-## Description
+# Flavour Text
 What is not cannot cause harm.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 10
 Limit: 1
@@ -15,9 +13,9 @@ Area Level: 84
 Can be used in a personal Map Device.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Eldritch/Elder
 #Concept/Decay
 #Category/Fragment

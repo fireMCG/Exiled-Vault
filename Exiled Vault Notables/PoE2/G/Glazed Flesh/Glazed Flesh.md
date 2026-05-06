@@ -1,10 +1,8 @@
-# Glazed Flesh
-
-## Effects
+# Effects
 3% of Damage Taken Recouped as Life, Mana and Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

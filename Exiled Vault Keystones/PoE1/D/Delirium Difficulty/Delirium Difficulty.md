@@ -1,12 +1,10 @@
-# Delirium Difficulty
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Delirium Difficulty.webp]]
 
-## Effects
+# Effects
 Delirium in your Maps increases 10% faster with distance from the mirror
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

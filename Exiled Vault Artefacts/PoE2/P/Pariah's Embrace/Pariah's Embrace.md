@@ -1,12 +1,10 @@
-# Pariah's Embrace
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Pariah's Embrace.png]]
 
-## Description
+# Flavour Text
 His isolation caused him to treasure
 their companionship all the more.
 
-## Details
+# Details
 - Armour: (142-171)
 - Evasion: 83
 - Movement Speed: -4.0%
@@ -17,9 +15,9 @@ their companionship all the more.
 - (10-15) Life Regeneration per second
 - (20-40)% increased Mana Cost Efficiency
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,12 +1,10 @@
-# The Black Insignia
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Black Insignia.png]]
 
-## Description
+# Flavour Text
 Brinerot pirates live in a perpetual blaze of glory,
 pushing their luck right to the end.
 
-## Details
+# Details
 - Evasion: (268-316)
 - Requires Level 45, 64 Dex
 - (70-100)% increased Evasion Rating
@@ -15,9 +13,9 @@ pushing their luck right to the end.
 - Gain Tailwind on Critical Hit, no more than once per second
 - Lose all Tailwind when Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

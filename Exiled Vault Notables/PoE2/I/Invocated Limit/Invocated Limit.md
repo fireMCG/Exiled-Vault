@@ -1,10 +1,8 @@
-# Invocated Limit
-
-## Effects
+# Effects
 Invocated skills have 30% increased Maximum Energy
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

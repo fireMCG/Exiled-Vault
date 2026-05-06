@@ -1,12 +1,10 @@
-# Thunderstep
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Thunderstep.png]]
 
-## Description
+# Flavour Text
 Where legends tread,
 the world hearkens.
 
-## Details
+# Details
 - Evasion: (110-126)
 - Requires Level 28, 39 Dex
 - (10-20)% increased Movement Speed
@@ -14,9 +12,9 @@ the world hearkens.
 - +(3-5)% to Maximum Lightning Resistance
 - +(30-50)% to Lightning Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

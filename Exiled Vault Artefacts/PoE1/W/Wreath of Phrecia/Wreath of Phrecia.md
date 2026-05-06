@@ -1,11 +1,9 @@
-# Wreath of Phrecia
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Wreath of Phrecia.png]]
 
-## Description
+# Flavour Text
 The Light drove the darkness from our lands and from our hearts.
 
-## Details
+# Details
 - Requires Level 8
 - Has no Attribute Requirements or Energy Shield (Hidden)
 - Has no Attribute Requirements
@@ -14,9 +12,9 @@ The Light drove the darkness from our lands and from our hearts.
 - (15-25)% increased Light Radius
 - Deal no Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

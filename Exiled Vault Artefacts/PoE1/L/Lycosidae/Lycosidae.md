@@ -1,11 +1,9 @@
-# Lycosidae
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Lycosidae.png]]
 
-## Description
+# Flavour Text
 A true predator does not chase; It waits.
 
-## Details
+# Details
 - Chance to Block: (29-31)%
 - Armour: (173-226)
 - Movement Speed: -3%
@@ -17,9 +15,9 @@ A true predator does not chase; It waits.
 - +(3-5)% Chance to Block
 - Adds 250 to 300 Cold Damage to Retaliation Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

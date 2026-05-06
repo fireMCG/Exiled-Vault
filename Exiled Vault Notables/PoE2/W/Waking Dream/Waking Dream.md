@@ -1,12 +1,10 @@
-# Waking Dream
-
-## Effects
+# Effects
 Grants Skill: Into the Breach
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Acolyte of Chayula
 #Monk
+#Notable
 #PoE2

@@ -1,16 +1,14 @@
-# Sandswept Marsh
-
-## Description
+# Flavour Text
 When the city flooded, the peasants fled quickly... but not quickly enough.
 
-## Connected Areas
+# Connected Areas
 - The Ardura Caravan
 - Ziggurat Encampment
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

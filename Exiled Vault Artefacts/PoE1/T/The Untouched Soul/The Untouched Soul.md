@@ -1,12 +1,10 @@
-# The Untouched Soul
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Untouched Soul.png]]
 
-## Description
+# Flavour Text
 Geomancy offered a safer way to use the Tears...
 but the Maji rejected that temptation as well.
 
-## Details
+# Details
 - Requires Level 48
 - (12-20)% increased Rarity of Items found
 - +40 to maximum Life for each Empty Red Socket on any Equipped Item
@@ -14,9 +12,9 @@ but the Maji rejected that temptation as well.
 - +40 to maximum Mana for each Empty Blue Socket on any Equipped Item
 - +18% to all Elemental Resistances for each Empty White Socket on any Equipped Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

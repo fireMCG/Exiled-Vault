@@ -1,11 +1,9 @@
-# Primal Protection
-
-## Effects
+# Effects
 40% increased Charm Effect Duration
 40% increased Charm Charges gained
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

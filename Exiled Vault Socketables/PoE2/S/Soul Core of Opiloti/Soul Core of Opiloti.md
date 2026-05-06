@@ -1,16 +1,14 @@
-# Soul Core of Opiloti
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Soul Core of Opiloti.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 
-## Effects
+# Effects
 - Martial Weapon: 15% chance to cause Bleeding on Hit
 - Helmets: 20% increased Charm Charges gained
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

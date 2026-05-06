@@ -1,12 +1,10 @@
-# Doedre's Scorn
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Doedre's Scorn.png]]
 
-## Description
+# Flavour Text
 A scar of the flesh you'll never forget,
 A scar of the mind you'll never remember.
 
-## Details
+# Details
 - Energy Shield: (141-168)
 - Requires Level 39, 83 Int
 - +2 to Level of Socketed Curse Gems
@@ -15,9 +13,9 @@ A scar of the mind you'll never remember.
 - Adds 37 to 71 Chaos Damage for each Curse on the Enemy
 - Curse Skills have (30-50)% increased Skill Effect Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

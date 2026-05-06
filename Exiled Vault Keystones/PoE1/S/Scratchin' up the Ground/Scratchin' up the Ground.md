@@ -1,12 +1,10 @@
-# Scratchin' up the Ground
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Scratchin' up the Ground.webp]]
 
-## Effects
+# Effects
 Expeditions in your Maps have 90% increased chance to be led by Tujen
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

@@ -1,12 +1,10 @@
-# Bitterbind Point
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bitterbind Point.png]]
 
-## Description
+# Flavour Text
 Though we live and act as individuals, in truth, we are tethered together.
 The barriers that divide us need not be broken for our spirits to become entangled.
 
-## Details
+# Details
 - Chance to Block: 25%
 - Energy Shield: (187-246)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ The barriers that divide us need not be broken for our spirits to become entangl
 - (50-100)% increased Spell Critical Strike Chance per Raised Spectre
 - Catarina's Veiled (prefix)
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Tangle
 #Category/Artefact
 #Concept/Spirit

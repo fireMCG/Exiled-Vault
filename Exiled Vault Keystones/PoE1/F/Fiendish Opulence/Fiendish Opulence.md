@@ -1,12 +1,10 @@
-# Fiendish Opulence
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Fiendish Opulence.webp]]
 
-## Effects
+# Effects
 25% increased Quantity of Tainted Currency dropped by Beyond Demons in your Maps
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

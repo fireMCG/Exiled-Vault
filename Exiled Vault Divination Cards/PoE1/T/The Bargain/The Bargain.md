@@ -1,16 +1,14 @@
-# The Bargain
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Bargain.png]]
 
-## Description
+# Flavour Text
 In the pursuit of power, as in that of wealth, anything goes.
 
-## Reward
+# Reward
 Disabled
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Power
 #Concept/Wealth
 #Category/DivinationCard

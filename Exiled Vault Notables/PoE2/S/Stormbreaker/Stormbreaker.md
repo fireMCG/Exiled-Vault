@@ -1,10 +1,8 @@
-# Stormbreaker
-
-## Effects
+# Effects
 20% increased Damage for each type of Elemental Ailment on Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

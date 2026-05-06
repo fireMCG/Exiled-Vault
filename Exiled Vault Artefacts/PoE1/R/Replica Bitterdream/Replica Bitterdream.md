@@ -1,12 +1,10 @@
-# Replica Bitterdream
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Bitterdream.png]]
 
-## Description
+# Flavour Text
 "Attempt #2520: Been slaving away at this one for longer than I can remember.
 Convinced this assignment is retribution from my superior..."
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 29-44
 - Critical Strike Chance: 7.30%
@@ -21,9 +19,9 @@ Convinced this assignment is retribution from my superior..."
 - Socketed Gems are Supported by Level 15 Inspiration
 - Socketed Gems are Supported by Level 15 Innervate
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

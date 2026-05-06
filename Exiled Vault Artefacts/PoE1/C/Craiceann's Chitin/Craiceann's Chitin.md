@@ -1,13 +1,11 @@
-# Craiceann's Chitin
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Craiceann's Chitin.png]]
 
-## Description
+# Flavour Text
 When the rains come, we cower beneath shelter.
 The First of the Deep teaches us
 that we should seek no shelter but ourselves.
 
-## Details
+# Details
 - Armour: (384-529)
 - Energy Shield: (79-109)
 - Requires Level 58, 64 Str, 64 Int
@@ -18,9 +16,9 @@ that we should seek no shelter but ourselves.
 - +3% Chance to Block Attack Damage while you have at least 5 Crab Barriers
 - +5% Chance to Block Attack Damage while you have at least 10 Crab Barriers
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

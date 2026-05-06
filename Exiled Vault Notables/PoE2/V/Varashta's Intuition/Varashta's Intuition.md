@@ -1,12 +1,10 @@
-# Varashta's Intuition
-
-## Effects
+# Effects
 100% of Elemental Damage is taken from Mana before Life
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

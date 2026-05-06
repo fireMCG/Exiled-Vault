@@ -1,12 +1,10 @@
-# Heavy Weaponry
-
-## Effects
+# Effects
 15% increased Melee Damage
 15% increased Stun Buildup with Melee Damage
 +15 to Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

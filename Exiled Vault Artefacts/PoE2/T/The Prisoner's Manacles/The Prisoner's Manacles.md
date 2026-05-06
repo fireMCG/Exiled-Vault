@@ -1,12 +1,10 @@
-# The Prisoner's Manacles
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Prisoner's Manacles.png]]
 
-## Description
+# Flavour Text
 Only once did Maligaro wonder if he'd gone too far.
 His greatest success took three entire legions to capture.
 
-## Details
+# Details
 - Armour: (144-192)
 - Energy Shield: (51-68)
 - Requires Level 45, 64 Str, 64 Int
@@ -18,9 +16,9 @@ His greatest success took three entire legions to capture.
 - Debuffs you inflict have (20-30)% increased Slow Magnitude
 - Cannot Immobilise enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

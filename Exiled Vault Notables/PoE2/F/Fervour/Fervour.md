@@ -1,10 +1,8 @@
-# Fervour
-
-## Effects
+# Effects
 +2 to Maximum Frenzy Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

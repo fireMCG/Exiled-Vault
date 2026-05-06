@@ -1,19 +1,17 @@
-# Eldritch Battery
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Eldritch Battery.webp]]
 
-## Description
+# Flavour Text
 What need have I for defence when my enemies
 are reduced to ash and splinters?
 
-## Effects
+# Effects
 Spend Energy Shield before Mana for Skill Mana Costs
 Energy Shield protects Mana instead of Life
 50% less Energy Shield Recharge Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE1

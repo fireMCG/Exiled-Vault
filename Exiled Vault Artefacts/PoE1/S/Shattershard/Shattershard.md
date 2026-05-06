@@ -1,11 +1,9 @@
-# Shattershard
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Shattershard.png]]
 
-## Description
+# Flavour Text
 Fragile, explosive, and punishing.
 
-## Details
+# Details
 - Chance to Block: (34-38)%
 - Armour: (341-445)
 - Evasion: (341-445)
@@ -16,9 +14,9 @@ Fragile, explosive, and punishing.
 - +(80-100) to maximum Life
 - +(8-12)% Chance to Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

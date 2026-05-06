@@ -1,12 +1,10 @@
-# Shaper of Storms
-
-## Effects
+# Effects
 All Damage from Hits Contributes to Shock Chance
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Stormweaver
 #Sorceress
+#Notable
 #PoE2

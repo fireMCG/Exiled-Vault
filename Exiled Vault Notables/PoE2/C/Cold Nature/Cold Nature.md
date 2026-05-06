@@ -1,11 +1,9 @@
-# Cold Nature
-
-## Effects
+# Effects
 25% increased Cold Damage
 15% increased Chill Duration on Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

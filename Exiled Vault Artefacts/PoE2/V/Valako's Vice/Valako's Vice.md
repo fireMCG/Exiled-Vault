@@ -1,12 +1,10 @@
-# Valako's Vice
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Valako's Vice.png]]
 
-## Description
+# Flavour Text
 Unlike the other gods, when he was born from the volcano,
 Valako rode the clouds of ash into the thundering sky.
 
-## Details
+# Details
 - Armour: (72-96)
 - Evasion: (66-88)
 - Requires Level 45, 32 Str, 32 Dex
@@ -17,9 +15,9 @@ Valako rode the clouds of ash into the thundering sky.
 - +(30-50)% to Lightning Resistance
 - 100% of Fire damage Converted to Lightning damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/God/Valako
 #Concept/Ash

@@ -1,18 +1,16 @@
-# Further Invention
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Further Invention.png]]
 
-## Description
+# Flavour Text
 Why not both?
 
-## Reward
+# Reward
 Helmet
 Double-Influenced Item
 Item Level: 100
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

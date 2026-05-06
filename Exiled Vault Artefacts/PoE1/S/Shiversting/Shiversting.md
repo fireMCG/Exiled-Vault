@@ -1,12 +1,10 @@
-# Shiversting
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Shiversting.png]]
 
-## Description
+# Flavour Text
 Stoic visage, icy heart.
 Life of sorrow, lived apart.
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: (30.6-34) to (52.2-58)
 - Elemental Damage: 35-70
@@ -20,9 +18,9 @@ Life of sorrow, lived apart.
 - 0.6% of Physical Attack Damage Leeched as Mana
 - Cannot be Frozen
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

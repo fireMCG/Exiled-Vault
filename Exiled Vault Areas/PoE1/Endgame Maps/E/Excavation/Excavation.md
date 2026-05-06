@@ -1,14 +1,12 @@
-# Excavation
-
-## Description
+# Flavour Text
 Two unexplored frontiers remain:
 
 The skies and the soil.
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #EndgameMap
 #PoE1
-#Interesting

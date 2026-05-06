@@ -1,11 +1,9 @@
-# Chains of Emancipation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Chains of Emancipation.png]]
 
-## Description
+# Flavour Text
 Freedom is won only by those who are not free.
 
-## Details
+# Details
 - Requires Level 61
 - +(9-20) to maximum Energy Shield
 - +(60-80) to maximum Life
@@ -14,9 +12,9 @@ Freedom is won only by those who are not free.
 - When you lose Temporal Chains you gain maximum Rage
 - Immune to Curses while you have at least 25 Rage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

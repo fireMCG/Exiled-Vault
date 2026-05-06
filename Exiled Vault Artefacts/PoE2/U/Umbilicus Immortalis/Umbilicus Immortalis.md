@@ -1,12 +1,10 @@
-# Umbilicus Immortalis
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Umbilicus Immortalis.png]]
 
-## Description
+# Flavour Text
 "The power of rebirth rivals that of immortality."
 - Icius Perandus, Antiquities Collection, Item 3
 
-## Details
+# Details
 - Requires Level 24
 - Has (1-3) Charm Slots
 - (20-30)% increased Mana Recovery from Flasks
@@ -17,9 +15,9 @@
 - Minions cannot Die while affected by a Life Flask
 - (20-30)% increased Flask Charges gained
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/IciusPerandus
 #Concept/Life/Immortality

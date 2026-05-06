@@ -1,11 +1,9 @@
-# Frazzled
-
-## Effects
+# Effects
 15% increased Mana Regeneration Rate
 30% increased Magnitude of Shock you inflict
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

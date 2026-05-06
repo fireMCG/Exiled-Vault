@@ -1,17 +1,15 @@
-# Loyalty
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Loyalty.png]]
 
-## Description
+# Flavour Text
 Bound by fate,
 inseparable by choice.
 
-## Reward
+# Reward
 3x Orb of Fusing
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

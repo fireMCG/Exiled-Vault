@@ -1,11 +1,9 @@
-# Light of Lunaris
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Light of Lunaris.png]]
 
-## Description
+# Flavour Text
 Without night, there can be no day.
 
-## Details
+# Details
 - Chance to Block: (29-33)%
 - Energy Shield: (143-203)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ Without night, there can be no day.
 - +1% to Critical Strike Multiplier per 1% Chance to Block Attack Damage
 - +25% to Critical Strike Multiplier if you've dealt a Non-Critical Strike Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

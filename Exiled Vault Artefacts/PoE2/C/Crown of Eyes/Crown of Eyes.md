@@ -1,14 +1,12 @@
-# Crown of Eyes
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Crown of Eyes.png]]
 
-## Description
+# Flavour Text
 Turning, gazing, blinking,
 behold the eyes of void.
 Burning, razing, drinking,
 your mind is destroyed.
 
-## Details
+# Details
 - Energy Shield: (126-151)
 - Requires Level 45, 64 Int
 - (100-140)% increased Energy Shield
@@ -17,9 +15,9 @@ your mind is destroyed.
 - -10% to Fire Resistance
 - Increases and Reductions to Spell damage also apply to Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

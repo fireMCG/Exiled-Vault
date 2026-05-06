@@ -1,11 +1,9 @@
-# The Black Cane
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Black Cane.png]]
 
-## Description
+# Flavour Text
 Lead the army of the damned from the front.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 34-80
 - Critical Strike Chance: 7.00%
@@ -19,9 +17,9 @@ Lead the army of the damned from the front.
 - Minions deal (40-60)% increased Damage
 - Each Summoned Phantasm grants you Phantasmal Might
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

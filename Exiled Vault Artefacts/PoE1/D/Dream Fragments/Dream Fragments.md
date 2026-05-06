@@ -1,12 +1,10 @@
-# Dream Fragments
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Dream Fragments.png]]
 
-## Description
+# Flavour Text
 Doryani stumbled into a realm of madness
 And awoke its Master.
 
-## Details
+# Details
 - Requires Level 24
 - +(20-30)% to Cold Resistance
 - 20% increased maximum Mana
@@ -15,9 +13,9 @@ And awoke its Master.
 - Cannot be Chilled
 - Cannot be Frozen
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

@@ -1,13 +1,11 @@
-# Elegant Idol
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Elegant Idol.png]]
 
-## Description
+# Flavour Text
 ...prized for their rarity...
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #Society/VaalEmpire
 #QuestItem

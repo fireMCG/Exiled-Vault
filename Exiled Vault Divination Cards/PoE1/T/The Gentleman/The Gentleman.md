@@ -1,17 +1,15 @@
-# The Gentleman
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Gentleman.png]]
 
-## Description
+# Flavour Text
 "Axes and mauls are so uncivilised. A good clean cut to the neck with a sharp blade, that's the Sarn way!"
 
-## Reward
+# Reward
 Sword
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

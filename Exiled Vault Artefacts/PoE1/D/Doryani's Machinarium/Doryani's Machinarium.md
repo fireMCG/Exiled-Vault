@@ -1,11 +1,9 @@
-# Doryani's Machinarium
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Doryani's Machinarium.png]]
 
-## Description
+# Flavour Text
 We are ever the makers of our own undoing.
 
-## Details
+# Details
 - Monster Level: 68
 - Item Quantity: +(40-60)%
 - Item Rarity: +(40-60)%
@@ -14,9 +12,9 @@ We are ever the makers of our own undoing.
 - Found Items have 10% chance to drop Corrupted in Area
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

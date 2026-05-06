@@ -1,11 +1,9 @@
-# Willclash
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Willclash.png]]
 
-## Description
+# Flavour Text
 Obtaining information depends upon pretending one already has it.
 
-## Details
+# Details
 - Evasion: (432-515)
 - Energy Shield: (90-110)
 - Requires Level 35, 40 Dex, 40 Int
@@ -15,9 +13,9 @@ Obtaining information depends upon pretending one already has it.
 - Gain a Power Charge every Second if you haven't lost Power Charges Recently
 - Lose all Power Charges when you Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

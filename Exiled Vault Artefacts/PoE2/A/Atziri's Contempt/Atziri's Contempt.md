@@ -1,14 +1,12 @@
-# Atziri's Contempt
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Atziri's Contempt.png]]
 
-## Description
+# Flavour Text
 "My people? I'm not doing this for them.
 They belong to me. They want this for me.
 Their sacrifice is a gift they give out of love
 and adoration... I deserve it. I am their Queen."
 
-## Details
+# Details
 - Spear
 - Physical Damage: (60-66) to (178-195.8)
 - Elemental Damage: (83-97) to (123-153), 1 to (193-207)
@@ -25,8 +23,8 @@ and adoration... I deserve it. I am their Queen."
 - (60-80)% increased Presence Area of Effect
 - Spear Skills inflict a Bloodstone Lance on Hit, up to a maximum of 30 on each target
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE2

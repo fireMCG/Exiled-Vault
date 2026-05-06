@@ -1,9 +1,7 @@
-# Implanted Gems
-
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Gemling Legionnaire
 #Mercenary
+#Notable
 #PoE2

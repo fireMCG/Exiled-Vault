@@ -1,12 +1,10 @@
-# Pledge of Hands
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Pledge of Hands.png]]
 
-## Description
+# Flavour Text
 "To shake a hand is to double your power."
 - Jaetai, Queen's Advisor
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 73-136
 - Critical Strike Chance: 8.00%
@@ -18,9 +16,9 @@
 - (120-160)% increased Spell Damage
 - (50-100)% increased maximum Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

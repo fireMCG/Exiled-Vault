@@ -1,12 +1,10 @@
-# Guarded Hoards
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Guarded Hoards.webp]]
 
-## Effects
+# Effects
 Voltaxic Sulphite Veins and Chests in your Maps are guarded by Sulphite-hoarding Monsters
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

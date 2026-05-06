@@ -1,11 +1,9 @@
-# Escape Strategy
-
-## Effects
+# Effects
 100% increased Evasion Rating if you have been Hit Recently
 30% reduced Evasion Rating if you haven't been Hit Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

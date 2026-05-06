@@ -1,11 +1,9 @@
-# Mahuxotl's Machination
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Mahuxotl's Machination.png]]
 
-## Description
+# Flavour Text
 The Banished Architect sought to employ the darkest secrets of the Vaal.
 
-## Details
+# Details
 - Shield
 - Chance to Block: 25%
 - Armour: (216-383)
@@ -18,9 +16,9 @@ The Banished Architect sought to employ the darkest secrets of the Vaal.
 - Everlasting Sacrifice
 - Has 2 Augment Sockets (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

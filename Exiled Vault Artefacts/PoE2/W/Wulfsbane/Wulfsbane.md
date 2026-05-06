@@ -1,12 +1,10 @@
-# Wulfsbane
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Wulfsbane.png]]
 
-## Description
+# Flavour Text
 The Counts of Ogham share a
 legacy of cunning and power.
 
-## Details
+# Details
 - Shield
 - Chance to Block: 26%
 - Armour: 29
@@ -18,9 +16,9 @@ legacy of cunning and power.
 - +(60-80) to Stun Threshold
 - Intimidate Enemies on Block for 8 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Legacy
 #Location/Wraeclast/Phaaryl/Ogham

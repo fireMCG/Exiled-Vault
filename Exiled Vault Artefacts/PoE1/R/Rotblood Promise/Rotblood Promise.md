@@ -1,12 +1,10 @@
-# Rotblood Promise
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rotblood Promise.png]]
 
-## Description
+# Flavour Text
 Accept the infection, let it take hold.
 Then carry it far and wide.
 
-## Details
+# Details
 - Requires Level 56
 - Has 1 Socket
 - Socketed Gems are Supported by Level 20 Blasphemy
@@ -16,9 +14,9 @@ Then carry it far and wide.
 - 20% reduced Effect of Curses on you
 - (15-25)% increased Damage with Hits and Ailments against Cursed Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

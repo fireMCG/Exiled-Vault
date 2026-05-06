@@ -1,13 +1,11 @@
-# Gravebind
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Gravebind.png]]
 
-## Description
+# Flavour Text
 Try as you like to hide the
 blood on your hands.
 You'll still know the truth.
 
-## Details
+# Details
 - Armour: (16-19)
 - Energy Shield: (8-9)
 - Requires Level 5
@@ -17,9 +15,9 @@ You'll still know the truth.
 - Gain (4-6) Mana per enemy killed
 - Enemies in your Presence killed by anyone count as being killed by you instead
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

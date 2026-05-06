@@ -1,13 +1,11 @@
-# Yoon's Barya
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Yoon's Barya.png]]
 
-## Description
+# Flavour Text
 Weep not for me. This punishment is my own doing.
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Djinn/Yoon
 #Concept/Barya
 #Category/QuestItem

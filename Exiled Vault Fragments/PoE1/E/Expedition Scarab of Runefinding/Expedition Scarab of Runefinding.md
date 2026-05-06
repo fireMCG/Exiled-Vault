@@ -1,11 +1,9 @@
-# Expedition Scarab of Runefinding
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Expedition Scarab of Runefinding.webp]]
 
-## Description
+# Flavour Text
 That which came from the stars longs to return.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -15,9 +13,9 @@ number of Runic Monster Markers
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Expedition
 #Category/Scarab
 #Fragment

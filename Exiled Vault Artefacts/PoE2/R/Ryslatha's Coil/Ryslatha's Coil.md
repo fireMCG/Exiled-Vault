@@ -1,11 +1,9 @@
-# Ryslatha's Coil
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Ryslatha's Coil.png]]
 
-## Description
+# Flavour Text
 All creatures have the potential for greatness or unequivocal failure.
 
-## Details
+# Details
 - Requires Level 31
 - Has (1-3) Charm Slots
 - (15-10)% reduced Charm Charges used
@@ -14,9 +12,9 @@ All creatures have the potential for greatness or unequivocal failure.
 - (30-40)% more maximum Physical Attack Damage
 - (40-30)% less minimum Physical Attack Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,18 +1,16 @@
-# The Grelwood
-
-## Description
+# Flavour Text
 A shadow waits and watches with mysterious intent.
 
-## Connected Areas
+# Connected Areas
 - Clearfell
 - The Red Vale
 - The Grim Tangle
 - Root Hollow
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

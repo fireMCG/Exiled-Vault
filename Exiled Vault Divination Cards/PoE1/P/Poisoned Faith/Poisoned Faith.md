@@ -1,17 +1,15 @@
-# Poisoned Faith
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Poisoned Faith.png]]
 
-## Description
+# Flavour Text
 Even our most devout beliefs are subtly shaped by our darkest desires.
 
-## Reward
+# Reward
 Arakaali's Fang
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/God/Arakaali
 #Concept/Religion/Devotion
 #Category/DivinationCard

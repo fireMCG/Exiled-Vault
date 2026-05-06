@@ -1,11 +1,9 @@
-# Giantsbane
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Giantsbane.png]]
 
-## Description
+# Flavour Text
 The monstrous men of yore used bows, they were just bigger.
 
-## Details
+# Details
 - Armour: (138-192)
 - Requires Level 23, 36 Str
 - +(30-40) to Strength
@@ -15,9 +13,9 @@ The monstrous men of yore used bows, they were just bigger.
 - 10% reduced Attack Speed
 - Arrows Pierce 2 additional Targets
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

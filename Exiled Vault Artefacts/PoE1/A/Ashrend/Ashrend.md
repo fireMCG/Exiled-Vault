@@ -1,11 +1,9 @@
-# Ashrend
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ashrend.png]]
 
-## Description
+# Flavour Text
 The blasted oak stands forever.
 
-## Details
+# Details
 - Evasion: (316-442)
 - Movement Speed: -3%
 - Requires Level 17, 53 Dex
@@ -15,9 +13,9 @@ The blasted oak stands forever.
 - (75-150)% increased Physical Damage with Ranged Weapons
 - -(60-30) Physical Damage taken from Attack Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Ash
 #Artefact

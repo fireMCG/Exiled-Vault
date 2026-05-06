@@ -1,14 +1,12 @@
-# Ribbon Spool
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Ribbon Spool.png]]
 
-## Description
+# Flavour Text
 Machinery makes the minions.
 Minions make the master.
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Master
 #Concept/Minion
 #Category/QuestItem

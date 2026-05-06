@@ -1,20 +1,18 @@
-# The Enthusiasts
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Enthusiasts.png]]
 
-## Description
+# Flavour Text
 "Glimmers of benevolence,
 Shrouded a lacquered lust for power,
 Yet still they followed his influence."
 
-## Reward
+# Reward
 Victario's Influence
 Two-Implicit
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Victario
 #Concept/Power

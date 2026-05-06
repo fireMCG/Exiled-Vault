@@ -1,10 +1,8 @@
-# General's Bindings
-
-## Effects
+# Effects
 Gain 8% of Evasion Rating as extra Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

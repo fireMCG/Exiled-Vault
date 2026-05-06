@@ -1,17 +1,15 @@
-# The Golden Era
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Golden Era.png]]
 
-## Description
+# Flavour Text
 Before gemlings, before thaumaturgy, a simple court magician could enthrall the masses.
 
-## Reward
+# Reward
 Flaring Eclipse Staff
 Item Level: 100
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Colour/Gold
 #Concept/Gemling

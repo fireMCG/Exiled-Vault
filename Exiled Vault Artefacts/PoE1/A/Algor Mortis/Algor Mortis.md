@@ -1,11 +1,9 @@
-# Algor Mortis
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Algor Mortis.png]]
 
-## Description
+# Flavour Text
 Winter's white blanket swaddles all.
 
-## Details
+# Details
 - Evasion: (90-101)
 - Energy Shield: (69-91)
 - Requires Level 50, 39 Dex, 39 Int
@@ -15,9 +13,9 @@ Winter's white blanket swaddles all.
 - Enemies in your Chilling Areas take (25-35)% increased Lightning Damage
 - (15-20)% increased Effect of Non-Damaging Ailments
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Season/Winter
 #Artefact

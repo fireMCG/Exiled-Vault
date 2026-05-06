@@ -1,17 +1,15 @@
-# Bowyer's Dream
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Bowyer's Dream.png]]
 
-## Description
+# Flavour Text
 If this is my dream, I don't wish to wake.
 
-## Reward
+# Reward
 Six-Link Harbinger Bow
 Item Level: 91
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Night/Dream
 #League/Harbinger

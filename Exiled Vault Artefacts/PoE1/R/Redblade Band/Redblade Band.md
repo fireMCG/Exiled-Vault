@@ -1,13 +1,11 @@
-# Redblade Band
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Redblade Band.png]]
 
-## Description
+# Flavour Text
 To ascend to leadership, the child of a Redblade warlord
 must pull the band from the still-hot
 ashes of their father.
 
-## Details
+# Details
 - Requires Level 44
 - Has 1 Socket
 - Socketed Golem Skills have 25% chance to Taunt on Hit
@@ -17,9 +15,9 @@ ashes of their father.
 - (20-30)% increased Fire Damage
 - +(30-40) to maximum Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

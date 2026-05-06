@@ -1,12 +1,10 @@
-# The Smiling Knight
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Smiling Knight.png]]
 
-## Description
+# Flavour Text
 He never spoke a word. His opponents imagined
 their own personal mockeries, most cruel.
 
-## Details
+# Details
 - Armour: (155-186)
 - Evasion: (135-162)
 - Requires Level 26, 22 Str, 22 Dex
@@ -15,9 +13,9 @@ their own personal mockeries, most cruel.
 - (15-25)% increased Critical Hit Chance
 - Aggravate Bleeding on targets you Critically Hit with Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

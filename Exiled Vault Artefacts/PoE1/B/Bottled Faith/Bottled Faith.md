@@ -1,11 +1,9 @@
-# Bottled Faith
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bottled Faith.png]]
 
-## Description
+# Flavour Text
 A tourniquet for the soul, squeezing ethereal into physical.
 
-## Details
+# Details
 - Lasts (5.60-6.80) Seconds
 - Consumes 40 of 60 Charges on use
 - 40% increased Damage
@@ -17,9 +15,9 @@ A tourniquet for the soul, squeezing ethereal into physical.
 - (100-150)% increased Critical Strike Chance against Enemies on Consecrated Ground during Effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

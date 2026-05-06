@@ -1,11 +1,9 @@
-# Channel
-
-## Description
+# Flavour Text
 The waters have returned, but no empire remains to greet them.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

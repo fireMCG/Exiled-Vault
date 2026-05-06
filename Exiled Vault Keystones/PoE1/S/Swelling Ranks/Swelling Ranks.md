@@ -1,13 +1,11 @@
-# Swelling Ranks
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Swelling Ranks.webp]]
 
-## Effects
+# Effects
 Breach Monsters in your Maps have 20% increased Pack Size
 20% increased Quantity of Wombgifts found in your Maps
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

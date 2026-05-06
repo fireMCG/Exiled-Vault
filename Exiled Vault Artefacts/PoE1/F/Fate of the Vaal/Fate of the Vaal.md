@@ -1,12 +1,10 @@
-# Fate of the Vaal
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fate of the Vaal.png]]
 
-## Description
+# Flavour Text
 Doryani promises immortality, yet we build great structures, carve magnificent works into stone, so a part of us lives onward.
 A sign of faithlessness through action.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (109.2-120.9) to (232.4-257.3)
 - Critical Strike Chance: 5.00%
@@ -22,9 +20,9 @@ A sign of faithlessness through action.
 - Hits with this Weapon deal (30-60)% increased Damage to Frozen Enemies
 - Hits with this Weapon deal (30-60)% increased Damage to Shocked Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

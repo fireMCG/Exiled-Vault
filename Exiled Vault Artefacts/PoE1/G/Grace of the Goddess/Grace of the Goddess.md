@@ -1,11 +1,9 @@
-# Grace of the Goddess
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Grace of the Goddess.png]]
 
-## Description
+# Flavour Text
 In a time of darkness, know that the Draíocht will bring you light.
 
-## Details
+# Details
 - Wand
 - Physical Damage: (104-117) to (192-216)
 - Critical Strike Chance: 8.70%
@@ -19,9 +17,9 @@ In a time of darkness, know that the Draíocht will bring you light.
 - +1 to maximum number of Sacred Wisps
 - +1 to number of Sacred Wisps Summoned
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Maven
 #Concept/Darkness

@@ -1,13 +1,11 @@
-# Golden Idol
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Golden Idol.png]]
 
-## Description
+# Flavour Text
 Golden Treasure lies forgotten...
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #Society/VaalEmpire
 #QuestItem

@@ -1,10 +1,8 @@
-# Piercing Claw
-
-## Effects
+# Effects
 Damage Penetrates 15% of Enemy Elemental Resistances while Shapeshifted
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

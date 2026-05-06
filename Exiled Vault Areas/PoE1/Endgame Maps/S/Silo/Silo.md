@@ -1,13 +1,11 @@
-# Silo
-
-## Description
+# Flavour Text
 Grim blessings whispered in the deepest,
 
 most secret of places.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

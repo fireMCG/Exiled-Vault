@@ -1,16 +1,14 @@
-# The Sarn Ramparts
-
-## Description
+# Flavour Text
 A parapet shakes beneath a billowing sky.
 
-## Connected Areas
+# Connected Areas
 - The Temple of Decay Level 2
 - The Sarn Encampment
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

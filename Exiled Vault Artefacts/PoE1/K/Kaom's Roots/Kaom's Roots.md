@@ -1,11 +1,9 @@
-# Kaom's Roots
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kaom's Roots.png]]
 
-## Description
+# Flavour Text
 Don't flinch. It's a waste of good hitting time.
 
-## Details
+# Details
 - Armour: (241-278)
 - Requires Level 68, 120 Str
 - Has no Sockets
@@ -14,9 +12,9 @@ Don't flinch. It's a waste of good hitting time.
 - Action Speed cannot be modified to below Base Value
 - Unwavering Stance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

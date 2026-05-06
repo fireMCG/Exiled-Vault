@@ -1,12 +1,10 @@
-# Garb of the Ephemeral
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Garb of the Ephemeral.png]]
 
-## Description
+# Flavour Text
 Exceptional men and women of strong will can flicker a spark,
 but something much greater is needed to unleash the wildfire of true divine flames.
 
-## Details
+# Details
 - Energy Shield: (322-435)
 - Movement Speed: -3%
 - Requires Level 56, 600 Str, 752 Int
@@ -19,9 +17,9 @@ but something much greater is needed to unleash the wildfire of true divine flam
 - Nearby Allies' Action Speed cannot be modified to below Base Value
 - Nearby Enemies cannot deal Critical Strikes
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

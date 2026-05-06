@@ -1,12 +1,10 @@
-# Gamblesprint
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Gamblesprint.png]]
 
-## Description
+# Flavour Text
 All your tomorrows lie ahead of you,
 unknown and snarled to the very last.
 
-## Details
+# Details
 - Armour: (212-305)
 - Evasion: (212-305)
 - Requires Level 59, 56 Str, 56 Dex
@@ -15,9 +13,9 @@ unknown and snarled to the very last.
 - +(20-40)% to Lightning Resistance
 - When Hit, gain a random Movement Speed modifier from 40% reduced to 100% increased, until Hit again
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

@@ -1,13 +1,11 @@
-# The Essence of Water
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - The Essence of Water.png]]
 
-## Description
+# Flavour Text
 The last few drops from veins dry as sand.
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Essence
 #Category/QuestItem
 #Society/Maraketh

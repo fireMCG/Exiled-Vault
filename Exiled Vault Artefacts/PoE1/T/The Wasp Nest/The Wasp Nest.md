@@ -1,12 +1,10 @@
-# The Wasp Nest
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Wasp Nest.png]]
 
-## Description
+# Flavour Text
 To discover how cruel nature can be,
 you need only shake the wrong branch.
 
-## Details
+# Details
 - Claw
 - Physical Damage: (52.5-56.7) to (182.5-197.1)
 - Critical Strike Chance: (9.00-9.38)%
@@ -22,9 +20,9 @@ you need only shake the wrong branch.
 - Attacks with this Weapon deal 80 to 120 added Chaos Damage against
 - Enemies affected by at least 5 Poisons
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

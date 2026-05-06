@@ -1,10 +1,8 @@
-# Overexposure
-
-## Effects
+# Effects
 30% increased Exposure Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

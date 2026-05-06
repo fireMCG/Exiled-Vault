@@ -1,12 +1,10 @@
-# Font of Power
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Font of Power.png]]
 
-## Description
+# Flavour Text
 Tale-women may not fight directly,
 for they have a much higher purpose.
 
-## Details
+# Details
 - Sceptre
 - Spirit: (130-150)
 - Requires Level 16
@@ -17,9 +15,9 @@ for they have a much higher purpose.
 - When a Party Member in your Presence Casts a Spell, you
 - Sacrifice 20% of Mana and they Leech that Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

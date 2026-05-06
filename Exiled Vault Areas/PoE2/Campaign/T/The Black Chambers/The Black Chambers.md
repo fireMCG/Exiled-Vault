@@ -1,14 +1,12 @@
-# The Black Chambers
-
-## Description
+# Flavour Text
 They scream not in agony, but in ecstasy.
 
-## Connected Areas
+# Connected Areas
 - Aggorat
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

@@ -1,12 +1,10 @@
-# Rust of Winter
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rust of Winter.png]]
 
-## Description
+# Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
-## Details
+# Details
 - One Handed Axe
 - Physical Damage: 8-15
 - Elemental Damage: 2-4
@@ -18,9 +16,9 @@ So goes the descent.
 - 50% chance to Avoid being Chilled
 - Your Physical Damage can Chill
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

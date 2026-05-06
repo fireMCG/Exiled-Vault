@@ -1,12 +1,10 @@
-# Thousand Teeth Temu
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Thousand Teeth Temu.png]]
 
-## Description
+# Flavour Text
 Crimson burn'd the star of sadness,
 All was woe that seem'd but gladness.
 
-## Details
+# Details
 - Chance to Block: 37%
 - Evasion: (660-833)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ All was woe that seem'd but gladness.
 - +10% Chance to Block
 - Reflects 1000 to 10000 Physical Damage to Attackers on Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Betrayal Scarab of Reinforcements
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Betrayal Scarab of Reinforcements.webp]]
 
-## Description
+# Flavour Text
 Move and countermove.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,9 +11,9 @@ Immortal Syndicate Members in Area have 50% increased chance to be accompanied b
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Betrayal
 #Category/Scarab
 #Fragment

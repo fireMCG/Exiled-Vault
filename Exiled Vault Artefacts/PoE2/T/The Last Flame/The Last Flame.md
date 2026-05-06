@@ -1,11 +1,9 @@
-# The Last Flame
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Last Flame.png]]
 
-## Description
+# Flavour Text
 In the coldest depths of the Winter of the World, overrun by darkness and fighting to the last, life itself clung to existence by the barest remaining thread.
 
-## Details
+# Details
 - Requires Level 64
 - Zarokh, the Temporal drops Temporalis
 - Damage taken cannot be Absorbed
@@ -14,9 +12,9 @@ In the coldest depths of the Winter of the World, overrun by darkness and fighti
 - This item is destroyed when applied to a Trial
 - Place this item on the Relic Altar at the start of the Trial of the Sekhemas
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

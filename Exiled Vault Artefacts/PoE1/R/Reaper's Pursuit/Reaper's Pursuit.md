@@ -1,12 +1,10 @@
-# Reaper's Pursuit
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Reaper's Pursuit.png]]
 
-## Description
+# Flavour Text
 Accept your fate, or lie, pretend.
 Death collects you in the end.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (98-110.25) to (146-164.25)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ Death collects you in the end.
 - Culling Strike
 - Hits can't be Evaded
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,14 +1,12 @@
-# Ahn's Might
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ahn's Might.png]]
 
-## Description
+# Flavour Text
 "Impossibly heavy, yet the ancient edge is keen as any modern blade.
 A reminder that, in the end, when we lie in the bellies of worms,
 it is what we make that makes us."
 - Icius Perandus, Antiquities Collection, Item 47
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (115-150) to (249-304)
 - Critical Strike Chance: (5.75-6.25)%
@@ -24,9 +22,9 @@ it is what we make that makes us."
 - +50% Global Critical Strike Multiplier while you have no Frenzy Charges
 - +(400-500) to Accuracy Rating while at Maximum Frenzy Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Ahn
 #Character/Aul

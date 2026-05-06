@@ -1,14 +1,12 @@
-# The Goddess Bound
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Goddess Bound.png]]
 
-## Description
+# Flavour Text
 She paints her offer in wicked hues
 An off-white grin, an elegant bruise.
 To the nascent scourge she sings the ruse:
 "With me in hand, what else need you use?"
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (14-16) to (59.5-68)
 - Elemental Damage: 3-7
@@ -27,9 +25,9 @@ To the nascent scourge she sings the ruse:
 - 20% reduced Rarity of Items found
 - 30% increased Movement Speed when on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

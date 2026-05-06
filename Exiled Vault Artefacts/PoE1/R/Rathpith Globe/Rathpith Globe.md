@@ -1,12 +1,10 @@
-# Rathpith Globe
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rathpith Globe.png]]
 
-## Description
+# Flavour Text
 The Vaal emptied their slaves of beating hearts,
 and left a mountain of twitching dead.
 
-## Details
+# Details
 - Chance to Block: 25%
 - Energy Shield: (147-200)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ and left a mountain of twitching dead.
 - 5% increased Spell Critical Strike Chance per 100 Player Maximum Life
 - 5% increased Spell Damage per 100 Player Maximum Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

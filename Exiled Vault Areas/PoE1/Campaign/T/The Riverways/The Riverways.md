@@ -1,16 +1,14 @@
-# The Riverways
-
-## Description
+# Flavour Text
 Once tamed rivers now running free.
 
-## Connected Areas
+# Connected Areas
 - The Forest Encampment
 - The Western Forest
 - The Wetlands
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

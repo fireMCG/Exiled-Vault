@@ -1,11 +1,9 @@
-# Breath of Fire
-
-## Effects
+# Effects
 Damage Penetrates 15% Fire Resistance
 +10 to Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

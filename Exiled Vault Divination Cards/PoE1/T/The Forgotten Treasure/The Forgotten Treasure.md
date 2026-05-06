@@ -1,17 +1,15 @@
-# The Forgotten Treasure
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Forgotten Treasure.png]]
 
-## Description
+# Flavour Text
 Don't let fool's gold deceive you.
 
-## Reward
+# Reward
 Leather Belt
 Double-Influenced Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

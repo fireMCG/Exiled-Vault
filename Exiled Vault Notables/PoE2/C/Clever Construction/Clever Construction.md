@@ -1,10 +1,8 @@
-# Clever Construction
-
-## Effects
+# Effects
 25% increased Critical Hit Chance with Traps
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

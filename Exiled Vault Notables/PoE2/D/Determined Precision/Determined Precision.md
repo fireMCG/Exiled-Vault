@@ -1,11 +1,9 @@
-# Determined Precision
-
-## Effects
+# Effects
 30% increased Accuracy Rating at Close Range
 +10 to Dexterity
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,14 +1,12 @@
-# Wolvenhold
-
-## Description
+# Flavour Text
 Built in honour of a Great Thane, but now sullying his memory.
 
-## Connected Areas
+# Connected Areas
 - Holten
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

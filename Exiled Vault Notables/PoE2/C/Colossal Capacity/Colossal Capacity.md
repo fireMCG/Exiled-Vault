@@ -1,12 +1,10 @@
-# Colossal Capacity
-
-## Effects
+# Effects
 Carry a Chest which adds 20 Inventory Slots
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Titan
 #Warrior
+#Notable
 #PoE2

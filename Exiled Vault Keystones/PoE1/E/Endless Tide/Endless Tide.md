@@ -1,13 +1,11 @@
-# Endless Tide
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Endless Tide.webp]]
 
-## Description
+# Flavour Text
 You fight on, muscles burning, limbs leaden,
 hoping for that singular moment of victory that
 might finally bring relief... but it never comes.
 
-## Effects
+# Effects
 2% increased Maps found in your Maps
 Beyond Portals in your Maps cannot spawn Unique Bosses
 Beyond Portals in your Maps have (40—50)% less Merging Radius
@@ -15,8 +13,8 @@ Beyond Portals in your Maps have (40—50)% less Merging Radius
 (Merging Radius is the distance at which Beyond Portals can merge with one another to spawn Beyond Demons)
 Unmodifiable
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

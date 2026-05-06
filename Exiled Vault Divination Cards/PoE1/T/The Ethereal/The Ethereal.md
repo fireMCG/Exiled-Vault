@@ -1,17 +1,15 @@
-# The Ethereal
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Ethereal.png]]
 
-## Description
+# Flavour Text
 "Long ago, people looked to the stars, believing they influenced us. Soon, it will be us who influence the stars."
 - Doryani, Queen's Thaumaturge
 
-## Reward
+# Reward
 Six-Link Vaal Regalia
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Doryani
 #Concept/Religion/Devotion

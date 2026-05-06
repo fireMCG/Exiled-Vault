@@ -1,12 +1,10 @@
-# Rigwald's Charge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rigwald's Charge.png]]
 
-## Description
+# Flavour Text
 "Today, clansmen, my sword is my voice!"
 - Rigwald, at the Battle of Glarryn
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: (99-112.5) to (184.8-210)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@
 - +(300-350) to Accuracy Rating
 - 15% increased Movement Speed if you've Killed Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

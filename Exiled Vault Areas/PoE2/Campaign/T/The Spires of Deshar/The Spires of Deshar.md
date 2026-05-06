@@ -1,15 +1,13 @@
-# The Spires of Deshar
-
-## Description
+# Flavour Text
 The dead slowly become one with the wind.
 
-## Connected Areas
+# Connected Areas
 - Path of Mourning
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

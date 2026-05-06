@@ -1,11 +1,9 @@
-# Abyss Scarab of Edifice
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Abyss Scarab of Edifice.webp]]
 
-## Description
+# Flavour Text
 Their empires ghastly and gaunt glitter with gold.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,9 +13,9 @@ Abyss pits in Area that do not lead to an Abyssal Depths or spawn an Abyssal Tro
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Abyss
 #Category/Scarab
 #Fragment

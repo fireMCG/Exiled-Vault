@@ -1,19 +1,17 @@
-# Daresso's Passion
-
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Daresso's Passion.webp]]
 
-## Description
+# Flavour Text
 "I raised my eyes to look upon my death. Instead, I saw her.
 Merveil. Fighting had always been about survival. Now the
 fight became about something much greater... love."
 
-## Effects
+# Effects
 Supported Skills require 50% less Glory to use
 Mana: 100%
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Daresso
 #Character/Merveil
 #Concept/Death

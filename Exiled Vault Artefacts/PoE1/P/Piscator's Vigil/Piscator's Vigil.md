@@ -1,8 +1,6 @@
-# Piscator's Vigil
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Piscator's Vigil.png]]
 
-## Description
+# Flavour Text
 "Stone still, amidst the reeds,
 breath fogging in the iron cold air.
 he sits, he waits, he watches.
@@ -10,7 +8,7 @@ A piscatorial vigil, sat by the river,
 his cathedral, his patience his unanswered prayer."
 - Jojoba Mansell, bard, angler, adventurer
 
-## Details
+# Details
 - Wand
 - Critical Strike Chance: (10.20-11.05)%
 - Attacks per Second: (1.76-1.89)
@@ -23,9 +21,9 @@ his cathedral, his patience his unanswered prayer."
 - Attacks with this Weapon have (100-115)% increased Elemental Damage
 - Damage with Weapons Penetrates 5% Elemental Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

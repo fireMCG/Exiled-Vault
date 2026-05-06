@@ -1,10 +1,8 @@
-# Dispatch Foes
-
-## Effects
+# Effects
 40% increased Critical Hit Chance if you haven't dealt a Critical Hit Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

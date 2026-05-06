@@ -1,11 +1,9 @@
-# Profane Proxy
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Profane Proxy.png]]
 
-## Description
+# Flavour Text
 The machines do not hate. They merely serve one who does.
 
-## Details
+# Details
 - Requires Level 52
 - Has 1 Socket
 - +3 to Level of Socketed Curse Gems
@@ -14,9 +12,9 @@ The machines do not hate. They merely serve one who does.
 - Left Ring Slot: Your Chilling Skitterbot's Aura applies Socketed Hex Curse instead
 - Right Ring Slot: Your Shocking Skitterbot's Aura applies Socketed Hex Curse instead
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

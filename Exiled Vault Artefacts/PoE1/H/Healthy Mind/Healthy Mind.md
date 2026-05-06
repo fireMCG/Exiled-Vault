@@ -1,11 +1,9 @@
-# Healthy Mind
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Healthy Mind.png]]
 
-## Description
+# Flavour Text
 For the ambitious, flesh is a limitation.
 
-## Details
+# Details
 - Limited to: 1
 - Radius: Large
 - (15-20)% increased maximum Mana
@@ -13,9 +11,9 @@ For the ambitious, flesh is a limitation.
 - Corrupted
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

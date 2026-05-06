@@ -1,16 +1,14 @@
-# Boundless Realms
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Boundless Realms.png]]
 
-## Description
+# Flavour Text
 Boundless is the distance between where we start and where we start again.
 
-## Reward
+# Reward
 Map
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Border
 #Concept/Time/Cycle

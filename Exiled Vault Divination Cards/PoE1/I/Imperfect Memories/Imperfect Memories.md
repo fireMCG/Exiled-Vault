@@ -1,19 +1,17 @@
-# Imperfect Memories
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Imperfect Memories.png]]
 
-## Description
+# Flavour Text
 Everything is eroded by time, but sometimes the edges that fade can make a wonderful memory even more beautiful.
 
-## Reward
+# Reward
 Jewellery
 Item Level: 100
 Three-Implicit
 Synthesised
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Memory
 #Category/DivinationCard
 #League/Synthesis

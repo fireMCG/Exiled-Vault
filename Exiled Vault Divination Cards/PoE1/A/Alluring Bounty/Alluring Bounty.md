@@ -1,17 +1,15 @@
-# Alluring Bounty
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Alluring Bounty.png]]
 
-## Description
+# Flavour Text
 A treasure worth killing for 
 is a treasure worth dying for.
 
-## Reward
+# Reward
 10x Exalted Orb
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

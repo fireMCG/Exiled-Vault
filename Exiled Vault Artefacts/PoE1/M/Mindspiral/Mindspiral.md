@@ -1,11 +1,9 @@
-# Mindspiral
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mindspiral.png]]
 
-## Description
+# Flavour Text
 Where top is bottom and weak is strong.
 
-## Details
+# Details
 - Armour: (101-119)
 - Energy Shield: (21-25)
 - Requires Level 37, 42 Str, 42 Int
@@ -15,9 +13,9 @@ Where top is bottom and weak is strong.
 - (10-20)% of Damage taken Recouped as Mana
 - Cannot Leech Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

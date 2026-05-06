@@ -1,18 +1,16 @@
-# Treasure Hunter
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Treasure Hunter.png]]
 
-## Description
+# Flavour Text
 "Don't worry, I know what I'm doing."
 - Toggo's Last Words
 
-## Reward
+# Reward
 Vaults of Atziri
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Atziri
 #Character/Toggo
 #Category/DivinationCard

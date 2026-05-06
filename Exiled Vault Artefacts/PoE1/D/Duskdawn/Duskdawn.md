@@ -1,15 +1,13 @@
-# Duskdawn
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Duskdawn.png]]
 
-## Description
+# Flavour Text
 "The world is not simply black and white,
 it is not divided into good and evil.
 But black and white, good and evil, do exist,
 and we must know how to recognize them."
 - Archbishop Geofri
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 71-147
 - Critical Strike Chance: 8.10%
@@ -24,9 +22,9 @@ and we must know how to recognize them."
 - +60% to Critical Strike Multiplier if you've dealt a Non-Critical Strike Recently
 - (120-150)% increased Spell Damage if you've dealt a Critical Strike Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

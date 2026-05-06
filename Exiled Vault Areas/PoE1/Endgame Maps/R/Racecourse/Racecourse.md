@@ -1,11 +1,9 @@
-# Racecourse
-
-## Description
+# Flavour Text
 Rats chase their tails for the amusement of fools.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

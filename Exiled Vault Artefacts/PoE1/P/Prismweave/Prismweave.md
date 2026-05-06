@@ -1,11 +1,9 @@
-# Prismweave
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Prismweave.png]]
 
-## Description
+# Flavour Text
 Nothing is as vivid as the rage of battle
 
-## Details
+# Details
 - Requires Level 25
 - (12-24)% increased Global Physical Damage
 - Adds (14-16) to (30-32) Fire Damage to Attacks
@@ -14,9 +12,9 @@ Nothing is as vivid as the rage of battle
 - +(6-15)% to all Elemental Resistances
 - 30% increased Elemental Damage with Attack Skills during any Flask Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,18 +1,16 @@
-# Unwavering Stance
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Unwavering Stance.webp]]
 
-## Description
+# Flavour Text
 Stand your ground, child, keep your senses.
 The pain is fleeting, but victory is forever.
 
-## Effects
+# Effects
 Cannot Evade enemy Attacks
 Cannot be Stunned
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE1

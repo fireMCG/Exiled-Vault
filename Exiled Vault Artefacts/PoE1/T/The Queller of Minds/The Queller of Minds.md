@@ -1,11 +1,9 @@
-# The Queller of Minds
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Queller of Minds.png]]
 
-## Description
+# Flavour Text
 Quiet thy troubled soul. Think not. Just pray... to me.
 
-## Details
+# Details
 - Requires Level 50
 - 50% reduced Effect of Curses on you
 - 50% increased Elemental Ailment Duration on you
@@ -14,9 +12,9 @@ Quiet thy troubled soul. Think not. Just pray... to me.
 - +(30-60) to maximum Mana
 - +(7-19)% to Chaos Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

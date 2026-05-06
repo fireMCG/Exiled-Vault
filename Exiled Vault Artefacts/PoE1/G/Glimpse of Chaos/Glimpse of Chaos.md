@@ -1,12 +1,10 @@
-# Glimpse of Chaos
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Glimpse of Chaos.png]]
 
-## Description
+# Flavour Text
 Man retains sanity and strives toward civilisation
 only under the blessed veil of ignorance.
 
-## Details
+# Details
 - Evasion: (207-239)
 - Energy Shield: (37-43)
 - Requires Level 62, 79 Dex, 72 Int
@@ -18,9 +16,9 @@ only under the blessed veil of ignorance.
 - Chaos Resistance is Zero
 - Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

@@ -1,13 +1,11 @@
-# The Hammer of Faith
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Hammer of Faith.png]]
 
-## Description
+# Flavour Text
 The secret Order endured by publicly
 praying however the Templars demanded.
 One day, justice would fall upon them...
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (384-432) to (576-648)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ One day, justice would fall upon them...
 - 50% increased Mana Regeneration Rate
 - Every 10 seconds, gain a random non-damaging Shrine buff for 20 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,8 +1,6 @@
-# Divine Beauty
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Divine Beauty.png]]
 
-## Description
+# Flavour Text
 In a land far away lived 
 a maiden most fair.
 Her smile melted the coldest
@@ -11,12 +9,12 @@ men and beast cry,
 her beauty unparalleled;
 Divine.
 
-## Reward
+# Reward
 7x Divine Orb
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Animal/Bird
 #Concept/Animal/Canidae/Fox

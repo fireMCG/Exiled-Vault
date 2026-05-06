@@ -1,12 +1,10 @@
-# Devoto's Devotion
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Devoto's Devotion.png]]
 
-## Description
+# Flavour Text
 Swift as thought are the actions of Man
 when borne on wings of divine providence.
 
-## Details
+# Details
 - Armour: (405-561)
 - Evasion: (582-804)
 - Requires Level 67, 62 Str, 85 Dex
@@ -18,9 +16,9 @@ when borne on wings of divine providence.
 - 20% increased Movement Speed
 - Mercury Footprints
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

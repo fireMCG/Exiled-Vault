@@ -1,12 +1,10 @@
-# Light on your Feet
-
-## Effects
+# Effects
 3% increased Movement Speed
 Immune to Hinder
 Immune to Maim
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

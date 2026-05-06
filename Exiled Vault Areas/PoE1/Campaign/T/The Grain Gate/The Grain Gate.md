@@ -1,16 +1,14 @@
-# The Grain Gate
-
-## Description
+# Flavour Text
 A barrier trembles before undying feet.
 
-## Connected Areas
+# Connected Areas
 - The Quay
 - The Imperial Fields
 - The Hidden Underbelly
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

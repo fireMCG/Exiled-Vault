@@ -1,16 +1,14 @@
-# The Craving
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Craving.png]]
 
-## Description
+# Flavour Text
 What was once a passing thought tickling the back of the mind is now a desperate, driving desire.
 
-## Reward
+# Reward
 Unending Hunger
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Desire
 #Concept/Eclipse

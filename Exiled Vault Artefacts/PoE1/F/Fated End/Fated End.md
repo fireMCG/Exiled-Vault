@@ -1,11 +1,9 @@
-# Fated End
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fated End.png]]
 
-## Description
+# Flavour Text
 All roads lead to that destined doom.
 
-## Details
+# Details
 - Requires Level 38
 - +(20-30) to maximum Mana
 - +(20-40) to Intelligence
@@ -13,9 +11,9 @@ All roads lead to that destined doom.
 - Non-Aura Hexes gain 20% increased Effect per second
 - Non-Aura Hexes expire upon reaching (180-220)% of base Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

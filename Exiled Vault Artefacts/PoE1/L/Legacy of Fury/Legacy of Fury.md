@@ -1,12 +1,10 @@
-# Legacy of Fury
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Legacy of Fury.png]]
 
-## Description
+# Flavour Text
 All that was loved, all that was hated -
 naught remains but ash.
 
-## Details
+# Details
 - Armour: (276-412)
 - Evasion: (276-412)
 - Requires Level 69, 48 Str, 48 Dex
@@ -18,9 +16,9 @@ naught remains but ash.
 - Enemy for 4 seconds, dealing 8% of the Killed Enemy's Life as Fire Damage per second
 - (Scorched Enemies have -10% to Elemental Resistances)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Maven
 #Concept/Ash

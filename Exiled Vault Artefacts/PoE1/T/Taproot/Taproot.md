@@ -1,11 +1,9 @@
-# Taproot
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Taproot.png]]
 
-## Description
+# Flavour Text
 Some things must die so that others can live.
 
-## Details
+# Details
 - Dagger
 - Physical Damage: (53.2-57) to (207.2-222)
 - Critical Strike Chance: 8.30%
@@ -21,9 +19,9 @@ Some things must die so that others can live.
 - (15-20)% chance to Maim on Hit
 - 20% chance to Poison on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

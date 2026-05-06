@@ -1,14 +1,12 @@
-# Pillar of the Caged God
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Pillar of the Caged God.png]]
 
-## Description
+# Flavour Text
 Forged to rule the waves and tide
 Destined to serve the monkey's paw
 Strong as a tower of iron
 Deft as the needle doubt
 
-## Details
+# Details
 - Quartertaff
 - Physical Damage: 9-18
 - Critical Strike Chance: 10.00%
@@ -20,9 +18,9 @@ Deft as the needle doubt
 - 1% increased Attack Speed per 10 Dexterity
 - 10% increased Weapon Damage per 10 Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

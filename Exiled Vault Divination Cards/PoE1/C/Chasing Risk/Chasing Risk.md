@@ -1,16 +1,14 @@
-# Chasing Risk
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Chasing Risk.png]]
 
-## Description
+# Flavour Text
 A fond memory fills me with nostalgia; some men would have felt guilt, but I felt no regret over the anguish and fear my ambitions caused.
 
-## Reward
+# Reward
 Synthesis Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/HighTemplar/Venarius
 #Concept/Emotion/Fear

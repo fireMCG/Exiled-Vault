@@ -1,11 +1,9 @@
-# Canyon
-
-## Description
+# Flavour Text
 These gates have facilitated many trades. Silks, spices, and now horrors.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

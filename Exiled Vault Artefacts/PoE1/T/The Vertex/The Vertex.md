@@ -1,12 +1,10 @@
-# The Vertex
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Vertex.png]]
 
-## Description
+# Flavour Text
 "A queen should be seen, admired, but never touched."
 - Atziri, Queen of the Vaal
 
-## Details
+# Details
 - Evasion: (714-908)
 - Energy Shield: (231-315)
 - Requires Level 62, 79 Dex, 72 Int
@@ -17,9 +15,9 @@
 - +(24-30)% to Chaos Resistance
 - Enemies Cannot Leech Mana From you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

@@ -1,11 +1,9 @@
-# Patient Barrier
-
-## Effects
+# Effects
 60% increased maximum Energy Shield
 20% slower start of Energy Shield Recharge
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

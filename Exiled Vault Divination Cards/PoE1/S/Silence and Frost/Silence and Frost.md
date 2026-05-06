@@ -1,17 +1,15 @@
-# Silence and Frost
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Silence and Frost.png]]
 
-## Description
+# Flavour Text
 Cry havoc!
 Unleash pandemonium!
 
-## Reward
+# Reward
 The Pandemonius
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

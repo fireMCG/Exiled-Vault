@@ -1,12 +1,10 @@
-# The Will of Tul
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Will of Tul.png]]
 
-## Description
+# Flavour Text
 They hide in deep places, and hidden places,
 but stillness will find them... and bury them.
 
-## Details
+# Details
 - Requires Level 42
 - Cannot roll Modifiers of Non-Cold Damage Types
 - +2% to maximum Cold Resistance
@@ -18,9 +16,9 @@ but stillness will find them... and bury them.
 - Increases and Reductions to Cold Damage also apply to Effect of
 - Auras from Cold Skills at (10-15)% of their value, up to a maximum of 150%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

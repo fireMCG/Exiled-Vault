@@ -1,18 +1,16 @@
-# Outfoxed
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Outfoxed.png]]
 
-## Description
+# Flavour Text
 The prize vanished. 
 No trail, no struggle.
 Just a single, rust-red hair.
 
-## Reward
+# Reward
 Veiled Exalted Orb
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Animal/Canidae/Fox
 #Category/DivinationCard
 #DivinationCard

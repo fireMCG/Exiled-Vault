@@ -1,12 +1,10 @@
-# Obliteration
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Obliteration.png]]
 
-## Description
+# Flavour Text
 We forge order from the world around us
 Wielding anarchy and destruction as our tools of genesis.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 24-45
 - Critical Strike Chance: 8.70%
@@ -16,9 +14,9 @@ Wielding anarchy and destruction as our tools of genesis.
 - Gain (30-40)% of Physical Damage as Extra Chaos Damage
 - Enemies you Kill have a 20% chance to Explode, dealing a quarter of their maximum Life as Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

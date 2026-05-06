@@ -1,11 +1,9 @@
-# Reverberating Parry
-
-## Effects
+# Effects
 15% increased Parried Debuff Magnitude
 20% increased Parry Hit Area of Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

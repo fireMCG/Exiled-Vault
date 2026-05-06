@@ -1,11 +1,9 @@
-# Sturdy Mind
-
-## Effects
+# Effects
 +30 to maximum Mana
 14% increased Mana Regeneration Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

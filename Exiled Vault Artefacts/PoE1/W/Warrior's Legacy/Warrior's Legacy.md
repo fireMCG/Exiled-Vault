@@ -1,11 +1,9 @@
-# Warrior's Legacy
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Warrior's Legacy.png]]
 
-## Description
+# Flavour Text
 Make your mark on history
 
-## Details
+# Details
 - Requires Level 40
 - +(20-30)% to Fire Resistance
 - +(30-50) to Strength
@@ -14,9 +12,9 @@ Make your mark on history
 - 20% less Attack Speed
 - Strike Skills also target the previous location they were used
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

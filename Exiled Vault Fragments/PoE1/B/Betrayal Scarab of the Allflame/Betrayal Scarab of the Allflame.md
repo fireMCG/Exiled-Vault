@@ -1,11 +1,9 @@
-# Betrayal Scarab of the Allflame
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Betrayal Scarab of the Allflame.webp]]
 
-## Description
+# Flavour Text
 Those that can never die fear only pain.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,9 +11,9 @@ Limit: 1
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Betrayal
 #Category/Scarab
 #Fragment

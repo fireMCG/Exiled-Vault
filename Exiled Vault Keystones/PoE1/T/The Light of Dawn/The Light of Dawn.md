@@ -1,12 +1,10 @@
-# The Light of Dawn
-
 ![[Exiled Vault Keystones/_Images/PoE1 - The Light of Dawn.webp]]
 
-## Effects
+# Effects
 50% chance to spawn a Searing Exarch Altar when the Influence of The Searing Exarch first appears in your Maps
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

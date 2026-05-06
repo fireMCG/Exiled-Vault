@@ -1,14 +1,12 @@
-# Thaumetic Sulphite
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Thaumetic Sulphite.png]]
 
-## Description
+# Flavour Text
 Essence of pure thaumaturgy.
 Apply with trepidation.
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Thaumaturgy
 #Category/QuestItem
 #QuestItem

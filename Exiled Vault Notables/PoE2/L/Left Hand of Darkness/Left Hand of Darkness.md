@@ -1,12 +1,10 @@
-# Left Hand of Darkness
-
-## Effects
+# Effects
 Minions have 20% additional Physical Damage Reduction
 Minions have +23% to Chaos Resistance
 Attacks Gain 5% of Damage as extra Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

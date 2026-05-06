@@ -1,16 +1,14 @@
-# Soul Core of Topotante
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Soul Core of Topotante.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 
-## Effects
+# Effects
 - Martial Weapon: Attacks with this Weapon Penetrate 15% Elemental Resistances
 - Boots: 25% increased Elemental Ailment Threshold
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

@@ -1,14 +1,12 @@
-# The Boiling Lake
-
-## Description
+# Flavour Text
 These corrosive waters devour both flesh and bone.
 
-## Connected Areas
+# Connected Areas
 - The Foothills
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

@@ -1,14 +1,12 @@
-# The Goddess Scorned
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Goddess Scorned.png]]
 
-## Description
+# Flavour Text
 Her purpose seems done; the oath is fulfilled.
 Rust dulls her smirk with the last demon killed.
 The embers grow dim and yet hope burns her lips:
 "An old flame renewed can define our eclipse!"
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (70-80) to (115.5-132)
 - Critical Strike Chance: (9.50-10.50)%
@@ -26,9 +24,9 @@ The embers grow dim and yet hope burns her lips:
 - Ignites you inflict deal Damage 50% faster
 - You can only deal Damage with this Weapon or Ignite
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

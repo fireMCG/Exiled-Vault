@@ -1,16 +1,14 @@
-# Iron Reflexes
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Iron Reflexes.webp]]
 
-## Description
+# Flavour Text
 Why should I dodge blows that I do not fear?
 
-## Effects
+# Effects
 Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE1

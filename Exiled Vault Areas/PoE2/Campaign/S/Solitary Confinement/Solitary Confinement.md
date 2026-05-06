@@ -1,14 +1,12 @@
-# Solitary Confinement
-
-## Description
+# Flavour Text
 Chains clank in the waveswept darkness...
 
-## Connected Areas
+# Connected Areas
 - Abandoned Prison
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

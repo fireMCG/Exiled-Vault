@@ -1,11 +1,9 @@
-# Careful Assassin
-
-## Effects
+# Effects
 20% reduced Critical Damage Bonus
 50% increased Critical Hit Chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

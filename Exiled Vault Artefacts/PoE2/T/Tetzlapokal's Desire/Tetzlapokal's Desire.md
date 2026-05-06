@@ -1,11 +1,9 @@
-# Tetzlapokal's Desire
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Tetzlapokal's Desire.png]]
 
-## Description
+# Flavour Text
 A faith born of flesh.
 
-## Details
+# Details
 - Energy Shield: (156-195)
 - Movement Speed: -3.0%
 - Requires Level 33, 54 Int
@@ -15,9 +13,9 @@ A faith born of flesh.
 - +(17-23)% to Chaos Resistance
 - Life Recharges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

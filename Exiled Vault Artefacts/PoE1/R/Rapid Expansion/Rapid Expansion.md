@@ -1,14 +1,12 @@
-# Rapid Expansion
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rapid Expansion.png]]
 
-## Description
+# Flavour Text
 Chitus began to aggressively expand his empire
 into neighbouring nations at great human cost.
 But for absolute power, there is no price
 that a Perandus won't pay.
 
-## Details
+# Details
 - Limited to: 2
 - Radius: Medium
 - (8-12)% increased Global Physical Damage
@@ -18,9 +16,9 @@ that a Perandus won't pay.
 - has a 50% increased angle
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

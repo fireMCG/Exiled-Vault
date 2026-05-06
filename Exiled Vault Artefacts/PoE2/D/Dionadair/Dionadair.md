@@ -1,12 +1,10 @@
-# Dionadair
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Dionadair.png]]
 
-## Description
+# Flavour Text
 Praetor Draven knew his only chance to subjugate
 the Ezomytes was to catch them unaware.
 
-## Details
+# Details
 - Shield
 - Chance to Block: 26%
 - Armour: (28-32)
@@ -18,9 +16,9 @@ the Ezomytes was to catch them unaware.
 - 20% reduced Stun Threshold
 - Double Stun Threshold while Shield is Raised
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

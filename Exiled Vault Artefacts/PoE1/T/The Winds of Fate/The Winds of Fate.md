@@ -1,12 +1,10 @@
-# The Winds of Fate
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Winds of Fate.png]]
 
-## Description
+# Flavour Text
 Life... Death...
 The whim of the cosmos.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: (520-585) to (968-1089)
 - Critical Strike Chance: 7.50%
@@ -21,9 +19,9 @@ The whim of the cosmos.
 - Maximum Critical Strike Chance is 50%
 - Non-Critical Strikes deal no Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

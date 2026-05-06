@@ -1,12 +1,10 @@
-# Disintegrator
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Disintegrator.png]]
 
-## Description
+# Flavour Text
 Blurred is the boundary
 between creator and destroyer.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: (291-311) to (417-447)
 - Critical Strike Chance: 8.10%
@@ -24,9 +22,9 @@ between creator and destroyer.
 - Take 150 Physical Damage per Second per Siphoning Charge if you've used a Skill Recently
 - Battlemage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

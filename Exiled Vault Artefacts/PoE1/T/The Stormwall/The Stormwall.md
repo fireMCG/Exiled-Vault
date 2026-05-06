@@ -1,12 +1,10 @@
-# The Stormwall
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Stormwall.png]]
 
-## Description
+# Flavour Text
 You cannot control the storm,
 But you can utilise it.
 
-## Details
+# Details
 - Staff
 - Physical Damage: (269-287) to (349-366)
 - Critical Strike Chance: (10.20-11.48)%
@@ -23,9 +21,9 @@ But you can utilise it.
 - (30-40)% chance to Chill Attackers for 4 seconds on Block
 - (30-40)% chance to Shock Attackers for 4 seconds on Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Replica Heartbreaker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Heartbreaker.png]]
 
-## Description
+# Flavour Text
 "There is something incredibly satisfying about impaling test subjects with Ethereal Knives. Perhaps it is the sound - the spell, the screams, or both."
 - Researcher Olesya
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: 16-64
 - Critical Strike Chance: 8.50%
@@ -20,9 +18,9 @@
 - 20% increased Impale Effect
 - 20% chance to Impale on Spell Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Olesya
 #Artefact

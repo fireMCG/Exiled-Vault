@@ -1,11 +1,9 @@
-# Finesse
-
-## Effects
+# Effects
 10% increased Accuracy Rating
 Gain Accuracy Rating equal to your Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

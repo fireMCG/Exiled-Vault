@@ -1,13 +1,11 @@
-# Coralito's Signature
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Coralito's Signature.png]]
 
-## Description
+# Flavour Text
 "What cruelty it is, that to be judged a success,
 such great work must go uncredited."
 - Coralito, Brotherhood of Silence
 
-## Details
+# Details
 - Lasts 6.00 Seconds
 - Consumes 20 of 40 Charges on use
 - 100% increased Global Critical Strike Chance
@@ -18,9 +16,9 @@ such great work must go uncredited."
 - Take 250 Chaos Damage per Second during Effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

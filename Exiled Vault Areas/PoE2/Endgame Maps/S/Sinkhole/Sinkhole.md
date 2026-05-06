@@ -1,11 +1,9 @@
-# Sinkhole
-
-## Description
+# Flavour Text
 Spirits gather where the world falls away.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

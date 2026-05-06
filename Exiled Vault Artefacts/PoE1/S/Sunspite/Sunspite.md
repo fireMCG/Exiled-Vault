@@ -1,12 +1,10 @@
-# Sunspite
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Sunspite.png]]
 
-## Description
+# Flavour Text
 Burning goddess, shine so bright.
 Set the world 'fore you alight.
 
-## Details
+# Details
 - Evasion: (180-228)
 - Energy Shield: (39-48)
 - Requires Level 59, 27 Dex, 27 Int
@@ -19,9 +17,9 @@ Set the world 'fore you alight.
 - +25% chance to be Ignited
 - Regenerate (75-125) Life per second while Ignited
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

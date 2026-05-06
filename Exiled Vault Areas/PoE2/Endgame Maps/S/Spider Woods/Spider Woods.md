@@ -1,11 +1,9 @@
-# Spider Woods
-
-## Description
+# Flavour Text
 Vast lairs of silk span the treetops.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

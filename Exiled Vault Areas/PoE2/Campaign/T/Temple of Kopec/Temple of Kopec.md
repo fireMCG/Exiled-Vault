@@ -1,14 +1,12 @@
-# Temple of Kopec
-
-## Description
+# Flavour Text
 Wet stone emanates an inner warmth. Vaal brilliance lies in wait.
 
-## Connected Areas
+# Connected Areas
 - Ziggurat Encampment
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

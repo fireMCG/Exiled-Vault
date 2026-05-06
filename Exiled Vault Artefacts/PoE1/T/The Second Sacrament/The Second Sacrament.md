@@ -1,13 +1,11 @@
-# The Second Sacrament
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Second Sacrament.png]]
 
-## Description
+# Flavour Text
 "He took many of his people's traditions and gilded them, hollowed them. They
 rejected his new religion, and he and his followers were forced to depart the
 mountains for lands unknown." - Lycia, the Heretic
 
-## Details
+# Details
 - Requires Level 64
 - The Herald of the Scourge deals 100% more Damage
 - The Herald of the Scourge takes 75% less Damage
@@ -17,9 +15,9 @@ mountains for lands unknown." - Lycia, the Heretic
 - Unmodifiable
 - Place this item on the Relic Altar at the start of each Sanctum run
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

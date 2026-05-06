@@ -1,12 +1,10 @@
-# Replica Ambu's Charge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Ambu's Charge.png]]
 
-## Description
+# Flavour Text
 "Prototype #7 achieved even greater injury responsiveness than expected,
 though at considerable cost to the long-term survival rate of the user."
 
-## Details
+# Details
 - Armour: (663-851)
 - Energy Shield: (140-176)
 - Movement Speed: -5%
@@ -18,9 +16,9 @@ though at considerable cost to the long-term survival rate of the user."
 - Gain an Endurance Charge when you are Hit
 - Lose 2% of Life per second if you have been Hit Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Farrul's Chase
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Farrul's Chase.png]]
 
-## Description
+# Flavour Text
 A secret is a weapon your enemies do not have.
 When the First of the Plains hunted, she moved in silence and acted quickly.
 To do otherwise is to arm your foes.
 
-## Details
+# Details
 - Evasion: (516-707)
 - Requires Level 69, 120 Dex
 - Trigger Level 20 Intimidating Cry when you lose Cat's Stealth
@@ -17,9 +15,9 @@ To do otherwise is to arm your foes.
 - (40-50)% chance to Avoid Bleeding
 - 20% increased Movement Speed while you have Cat's Stealth
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

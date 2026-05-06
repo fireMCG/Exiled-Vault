@@ -1,15 +1,13 @@
-# The Cavern of Anger
-
-## Description
+# Flavour Text
 The air needles the skin with its frigid fury.
 
-## Connected Areas
+# Connected Areas
 - The Cavern of Wrath
 - The Southern Forest
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

@@ -1,11 +1,9 @@
-# Essence Infusion
-
-## Effects
+# Effects
 40% increased Energy Shield Recharge Rate
 +10 to Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# Apep's Slumber
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Apep's Slumber.png]]
 
-## Description
+# Flavour Text
 The heart grows slow,
 the spirit grows strong.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Energy Shield: (136-164)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ the spirit grows strong.
 - Regenerate 80 Energy Shield per Second per Poison on you, up to 400 per second
 - Poisons on you expire 50% slower
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/God/Apep
 #Concept/Body/Heart

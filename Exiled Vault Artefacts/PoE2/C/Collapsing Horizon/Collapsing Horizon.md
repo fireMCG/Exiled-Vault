@@ -1,11 +1,9 @@
-# Collapsing Horizon
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Collapsing Horizon.png]]
 
-## Description
+# Flavour Text
 The edges bend, the world flexes, the infinite spills into view.
 
-## Details
+# Details
 - Quartertaff
 - Physical Damage: 57-94
 - Critical Strike Chance: (15.00-20.00)%
@@ -17,9 +15,9 @@ The edges bend, the world flexes, the infinite spills into view.
 - +(2-4) to Level of all Elemental Skills
 - Trigger skills refund half of Energy spent
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

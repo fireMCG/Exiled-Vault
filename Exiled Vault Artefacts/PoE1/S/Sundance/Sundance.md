@@ -1,12 +1,10 @@
-# Sundance
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Sundance.png]]
 
-## Description
+# Flavour Text
 Blazing body, shining bold.
 Dance beneath the orb of gold!
 
-## Details
+# Details
 - Evasion: (90-125)
 - Energy Shield: (11-12)
 - Requires Level 27, 27 Dex, 27 Int
@@ -16,9 +14,9 @@ Dance beneath the orb of gold!
 - +(30-40)% to Fire Resistance
 - 20% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

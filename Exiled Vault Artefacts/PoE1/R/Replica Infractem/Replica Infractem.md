@@ -1,13 +1,11 @@
-# Replica Infractem
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Infractem.png]]
 
-## Description
+# Flavour Text
 How did you manage to lodge arrows in every single test subject
 and researcher in Lab Three simultaneously... again?"
 - Doctor Bircus
 
-## Details
+# Details
 - Bow
 - Physical Damage: (117.3-142.2) to (258.4-289.8)
 - Critical Strike Chance: (6.50-7.50)%
@@ -23,9 +21,9 @@ and researcher in Lab Three simultaneously... again?"
 - Projectiles from Attacks Fork
 - Projectiles from Attacks can Fork 1 additional time
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Baryanic Leylines
-
-## Effects
+# Effects
 Non-Unique Time-Lost Jewels have 40% increased radius
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

@@ -1,10 +1,8 @@
-# Quick Fingers
-
-## Effects
+# Effects
 +24% Surpassing chance to fire an additional Arrow
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

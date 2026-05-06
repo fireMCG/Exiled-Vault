@@ -1,11 +1,9 @@
-# Fragment of Shape
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Fragment of Shape.webp]]
 
-## Description
+# Flavour Text
 Beauty is in the eye of the creator.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 10
 Limit: 1
@@ -15,9 +13,9 @@ Area Level: 84
 Can be used in a personal Map Device.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius
 #Concept/Creation

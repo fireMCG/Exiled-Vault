@@ -1,11 +1,9 @@
-# Wings of Caelyn
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Wings of Caelyn.png]]
 
-## Description
+# Flavour Text
 The older brother rtetained calm in the midst of fury.
 
-## Details
+# Details
 - Armour: 49
 - +20 to Armour
 - (5-15)% increased Rarity of Items found
@@ -13,9 +11,9 @@ The older brother rtetained calm in the midst of fury.
 - Gain 1 Rage on Melee Hit
 - Every Rage also grants 1% increased Stun Threshold
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

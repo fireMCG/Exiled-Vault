@@ -1,13 +1,11 @@
-# Vaal Caress
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Vaal Caress.png]]
 
-## Description
+# Flavour Text
 "The gems are strangely human at times.
 They simply love to be held."
 - Doryani, First Seer to the Queen
 
-## Details
+# Details
 - Armour: (110-148)
 - Evasion: (110-148)
 - Requires Level 27, 22 Str, 22 Dex
@@ -18,9 +16,9 @@ They simply love to be held."
 - +40% to Cold Resistance
 - You gain Onslaught for 20 seconds on using a Vaal Skill
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

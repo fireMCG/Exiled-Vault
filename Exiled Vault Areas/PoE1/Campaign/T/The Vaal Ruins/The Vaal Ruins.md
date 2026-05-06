@@ -1,16 +1,14 @@
-# The Vaal Ruins
-
-## Description
+# Flavour Text
 Shades scratching at imprisoning stone.
 
-## Connected Areas
+# Connected Areas
 - The Wetlands
 - The Northern Forest
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

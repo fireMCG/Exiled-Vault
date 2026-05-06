@@ -1,12 +1,10 @@
-# The Ephemeral Bond
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Ephemeral Bond.png]]
 
-## Description
+# Flavour Text
 For how little time they had together,
 their love was all the more powerful.
 
-## Details
+# Details
 - Requires Level 68
 - +(20-30) to Intelligence
 - (25-40)% increased Mana Regeneration Rate
@@ -15,9 +13,9 @@ their love was all the more powerful.
 - (1-2) to (36-40) Lightning Damage per Power Charge
 - 90% less Power Charge Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

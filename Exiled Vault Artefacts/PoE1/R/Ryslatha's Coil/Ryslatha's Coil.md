@@ -1,11 +1,9 @@
-# Ryslatha's Coil
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ryslatha's Coil.png]]
 
-## Description
+# Flavour Text
 All creatures have the potential for greatness or unequivocal failure.
 
-## Details
+# Details
 - Requires Level 32
 - (20-30)% increased Stun Duration on Enemies
 - +(20-40) to Strength
@@ -15,9 +13,9 @@ All creatures have the potential for greatness or unequivocal failure.
 - +(80-100) to maximum Life
 - Gain 50 Life when you Stun an Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

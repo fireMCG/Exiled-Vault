@@ -1,15 +1,13 @@
-# Lioneye's Watch
-
-## Description
+# Flavour Text
 Cold, dank and reeking of infection. That's how Hope fares in Wraeclast.
 
-## Connected Areas
+# Connected Areas
 - The Twilight Strand
 - The Coast
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

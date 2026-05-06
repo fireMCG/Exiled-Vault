@@ -1,15 +1,13 @@
-# The Ascent
-
-## Description
+# Flavour Text
 The greater the rise, the greater the fall.
 
-## Connected Areas
+# Connected Areas
 - Highgate
 - The Slave Pens
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

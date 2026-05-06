@@ -1,11 +1,9 @@
-# Malachai's Vision
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Malachai's Vision.png]]
 
-## Description
+# Flavour Text
 Wicked men chase power like stray dogs chase a rat.
 
-## Details
+# Details
 - Armour: (161-185)
 - Energy Shield: (201-258)
 - Requires Level 68, 62 Str, 91 Int
@@ -17,9 +15,9 @@ Wicked men chase power like stray dogs chase a rat.
 - Regenerate 35 Mana per second if all Equipped Items are Corrupted
 - Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

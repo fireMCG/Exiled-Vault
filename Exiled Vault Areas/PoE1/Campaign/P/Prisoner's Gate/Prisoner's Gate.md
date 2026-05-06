@@ -1,16 +1,14 @@
-# Prisoner's Gate
-
-## Description
+# Flavour Text
 The cliffs watch with goatish eyes.
 
-## Connected Areas
+# Connected Areas
 - The Upper Prison
 - The Ship Graveyard
 - The Western Forest
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

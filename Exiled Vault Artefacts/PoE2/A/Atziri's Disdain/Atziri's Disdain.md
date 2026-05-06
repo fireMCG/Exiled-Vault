@@ -1,12 +1,10 @@
-# Atziri's Disdain
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Atziri's Disdain.png]]
 
-## Description
+# Flavour Text
 They screamed her name in adulation as they gave
 their very lives. She looked on with impatience.
 
-## Details
+# Details
 - Energy Shield: 58
 - Requires Level 40, 58 Int
 - +(60-100) to maximum Mana
@@ -14,9 +12,9 @@ their very lives. She looked on with impatience.
 - 10% of Damage taken bypasses Energy Shield
 - Gain (10-15)% of maximum Life as Extra maximum Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Atziri
 #Society/VaalEmpire

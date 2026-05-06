@@ -1,13 +1,11 @@
-# Venom Draught of Clarity
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Venom Draught of Clarity.png]]
 
-## Description
+# Flavour Text
 The smell is bad enough to make a veteran warrior faint.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE2

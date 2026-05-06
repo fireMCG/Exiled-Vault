@@ -1,13 +1,11 @@
-# Scornflux
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Scornflux.png]]
 
-## Description
+# Flavour Text
 The grave insult had to be answered; in a mystic flash,
 Bardiya crossed the room and struck Cyaxan.
 Thus began the War of the Great Families.
 
-## Details
+# Details
 - Energy Shield: (26-30)
 - Requires Level 54, 69 Int
 - +(5-15) to Intelligence
@@ -17,9 +15,9 @@ Thus began the War of the Great Families.
 - Increases to Cast Speed from Arcane Surge also applies to Movement Speed
 - Misty Footprints
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

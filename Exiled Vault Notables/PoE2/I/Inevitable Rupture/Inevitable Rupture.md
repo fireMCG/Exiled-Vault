@@ -1,10 +1,8 @@
-# Inevitable Rupture
-
-## Effects
+# Effects
 10% chance for Attack Hits to apply ten Incision
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# Silverbranch
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Silverbranch.png]]
 
-## Description
+# Flavour Text
 "The wild takes care of its own."
 - Hyrri of the Karui
 
-## Details
+# Details
 - Bow
 - Physical Damage: (9-10) to (23.4-26)
 - Critical Strike Chance: 5.00%
@@ -17,9 +15,9 @@
 - Gain 10 Mana per Enemy Killed
 - +30 to Accuracy Rating
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

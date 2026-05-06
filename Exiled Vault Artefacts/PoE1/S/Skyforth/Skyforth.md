@@ -1,12 +1,10 @@
-# Skyforth
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Skyforth.png]]
 
-## Description
+# Flavour Text
 The quick die young, the brilliant go mad,
 and the powerful stand alone in a wasteland of their own creation.
 
-## Details
+# Details
 - Energy Shield: (51-59)
 - Requires Level 67, 123 Int
 - +(60-120) to maximum Mana
@@ -16,9 +14,9 @@ and the powerful stand alone in a wasteland of their own creation.
 - You have no Life Regeneration
 - Stun Threshold is based on 500% of your Mana instead of Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

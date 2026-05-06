@@ -1,13 +1,11 @@
-# The Beast Fur Shawl
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Beast Fur Shawl.png]]
 
-## Description
+# Flavour Text
 The quickest way to understand
 your own strengths and weaknesses
 is to walk in the skin of another.
 
-## Details
+# Details
 - Energy Shield: (376-512)
 - Movement Speed: -3%
 - Requires Level 68, 194 Int
@@ -17,9 +15,9 @@ is to walk in the skin of another.
 - 10% increased Damage taken
 - (50-100)% increased Energy Shield Recovery rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

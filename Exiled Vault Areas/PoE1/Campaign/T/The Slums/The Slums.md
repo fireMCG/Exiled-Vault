@@ -1,16 +1,14 @@
-# The Slums
-
-## Description
+# Flavour Text
 Only the wind whistles and whines here now.
 
-## Connected Areas
+# Connected Areas
 - The Sarn Encampment
 - The Crematorium
 - The Sewers
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

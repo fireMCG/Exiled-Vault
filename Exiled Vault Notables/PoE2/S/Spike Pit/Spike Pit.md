@@ -1,10 +1,8 @@
-# Spike Pit
-
-## Effects
+# Effects
 Enemies in Jagged Ground you create take 10% increased Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

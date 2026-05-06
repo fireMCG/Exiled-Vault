@@ -1,11 +1,9 @@
-# Jungle Valley
-
-## Description
+# Flavour Text
 Verdant canopies shroud the world in darkness.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

@@ -1,11 +1,9 @@
-# The Hollow Mask
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Hollow Mask.png]]
 
-## Description
+# Flavour Text
 The roots take hold within...
 
-## Details
+# Details
 - Evasion: 18
 - Energy Shield: 12
 - Requires Level 5
@@ -14,9 +12,9 @@ The roots take hold within...
 - -10% to all Elemental Resistances
 - +13% to Chaos Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

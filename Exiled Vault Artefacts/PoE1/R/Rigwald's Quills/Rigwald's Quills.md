@@ -1,14 +1,12 @@
-# Rigwald's Quills
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rigwald's Quills.png]]
 
-## Description
+# Flavour Text
 The fortunate inscribe their legacy
 in the pages of history books.
 The rest of us must leave our mark with our blood
 or the blood of others.
 
-## Details
+# Details
 - Requires Level 56
 - (20-30)% increased Global Accuracy Rating
 - -10% to Fire Resistance
@@ -18,9 +16,9 @@ or the blood of others.
 - (30-50)% increased Projectile Damage
 - Arrows Fork
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

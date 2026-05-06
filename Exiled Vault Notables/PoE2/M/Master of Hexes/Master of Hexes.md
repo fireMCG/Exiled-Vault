@@ -1,11 +1,9 @@
-# Master of Hexes
-
-## Effects
+# Effects
 25% reduced Curse Duration
 18% increased Curse Magnitudes
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

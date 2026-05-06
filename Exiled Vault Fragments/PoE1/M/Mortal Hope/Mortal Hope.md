@@ -1,11 +1,9 @@
-# Mortal Hope
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Mortal Hope.webp]]
 
-## Description
+# Flavour Text
 Look to our Queen, for she will lead us from the darkness.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 10
 Limit: 1
@@ -20,9 +18,9 @@ map mortal fragment count [1]
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Fragment
 #Fragment
 #PoE1

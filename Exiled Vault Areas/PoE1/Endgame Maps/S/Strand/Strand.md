@@ -1,13 +1,11 @@
-# Strand
-
-## Description
+# Flavour Text
 Nothing good washes up
 
 on this dark shore.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

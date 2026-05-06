@@ -1,13 +1,11 @@
-# Promenade
-
-## Description
+# Flavour Text
 Even the greatest achievements
 
 will eventually be abandoned.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

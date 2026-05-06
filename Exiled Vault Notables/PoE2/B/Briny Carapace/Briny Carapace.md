@@ -1,10 +1,8 @@
-# Briny Carapace
-
-## Effects
+# Effects
 100% increased Stun Threshold for each time you've been Stunned Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

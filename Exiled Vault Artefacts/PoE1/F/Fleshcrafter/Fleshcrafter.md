@@ -1,11 +1,9 @@
-# Fleshcrafter
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fleshcrafter.png]]
 
-## Description
+# Flavour Text
 Imbue the body with stolen spirit, hold the leash tight.
 
-## Details
+# Details
 - Energy Shield: (246-367)
 - Movement Speed: -3%
 - Requires Level 59, 160 Int
@@ -16,9 +14,9 @@ Imbue the body with stolen spirit, hold the leash tight.
 - Minions have (50-100)% faster start of Energy Shield Recharge
 - While Minions have Energy Shield, their Hits Ignore Monster Elemental Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

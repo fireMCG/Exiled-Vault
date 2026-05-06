@@ -1,12 +1,10 @@
-# Temporalis
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Temporalis.png]]
 
-## Description
+# Flavour Text
 The final element the tale-women
 mastered was Time itself.
 
-## Details
+# Details
 - Energy Shield: (161-211)
 - Movement Speed: -3.0%
 - Requires Level 64, 37 Int
@@ -16,9 +14,9 @@ mastered was Time itself.
 - (5-30)% of Damage taken Recouped as Mana
 - Skills have -(2-1) seconds to Cooldown
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

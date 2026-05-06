@@ -1,13 +1,11 @@
-# Medved's Challenge
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Medved's Challenge.png]]
 
-## Description
+# Flavour Text
 For forty-two nights, the Feller of Heroes challenged
 the next greatest warrior to a one-on-one duel.
 None could match his might.
 
-## Details
+# Details
 - Ward: (132-175)
 - Requires Level 69, 342 Str, 342 Dex, 342 Int
 - 800% increased Attribute Requirements
@@ -16,9 +14,9 @@ None could match his might.
 - 80% less Flask Charges gained from Kills
 - Flasks gain 1 Charge per second if you've Hit a Unique Enemy Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Medved
 #Artefact

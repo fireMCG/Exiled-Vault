@@ -1,16 +1,14 @@
-# The Nurse
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Nurse.png]]
 
-## Description
+# Flavour Text
 We tried to tell him to get his head checked.
 
-## Reward
+# Reward
 The Doctor
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

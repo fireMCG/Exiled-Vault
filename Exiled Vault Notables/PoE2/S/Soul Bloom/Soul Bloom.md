@@ -1,10 +1,8 @@
-# Soul Bloom
-
-## Effects
+# Effects
 20% increased Energy Shield Recovery rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

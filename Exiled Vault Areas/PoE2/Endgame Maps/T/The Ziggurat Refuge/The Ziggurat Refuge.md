@@ -1,11 +1,9 @@
-# The Ziggurat Refuge
-
-## Description
+# Flavour Text
 There is no failure. Only shifting definitions of success.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE2

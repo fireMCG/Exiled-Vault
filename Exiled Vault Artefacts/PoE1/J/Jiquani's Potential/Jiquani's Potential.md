@@ -1,13 +1,11 @@
-# Jiquani's Potential
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Jiquani's Potential.png]]
 
-## Description
+# Flavour Text
 "I have risked everything. My position, my ambition, my
 very life. There has to be a way to save our people. If we
 must, let us tear apart the very foundations of reality!"
 
-## Details
+# Details
 - Staff
 - Physical Damage: 57-171
 - Critical Strike Chance: 8.50%
@@ -22,9 +20,9 @@ must, let us tear apart the very foundations of reality!"
 - 1 to (31-53) Spell Lightning Damage per 10 Intelligence
 - Blood Magic
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

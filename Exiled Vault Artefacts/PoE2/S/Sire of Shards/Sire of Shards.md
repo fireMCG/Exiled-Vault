@@ -1,11 +1,9 @@
-# Sire of Shards
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Sire of Shards.png]]
 
-## Description
+# Flavour Text
 That which was broken may yet break.
 
-## Details
+# Details
 - Staff
 - Requires Level 25
 - Grants Skill: Level (7-20) Sigil of Power
@@ -16,9 +14,9 @@ That which was broken may yet break.
 - Spells fire 4 additional Projectiles
 - Spells fire Projectiles in a circle
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,12 +1,10 @@
-# Bringer of the Apocalypse
-
-## Effects
+# Effects
 Grants Skill: Apocalypse
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Shaman
 #Druid
+#Notable
 #PoE2

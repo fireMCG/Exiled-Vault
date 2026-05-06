@@ -1,12 +1,10 @@
-# Replica Lioneye's Paws
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Lioneye's Paws.png]]
 
-## Description
+# Flavour Text
 "Twelve dead, and the seventh lab cannot be entered for several years.
 Prototype #12 is a 'success,' if we can ever reach it."
 
-## Details
+# Details
 - Armour: (55-63)
 - Evasion: (55-63)
 - Requires Level 30, 30 Str, 30 Dex
@@ -17,9 +15,9 @@ Prototype #12 is a 'success,' if we can ever reach it."
 - 20% increased Movement Speed
 - 40% reduced Movement Speed when on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

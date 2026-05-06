@@ -1,11 +1,9 @@
-# Ritual Scarab of Selectiveness
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Ritual Scarab of Selectiveness.webp]]
 
-## Description
+# Flavour Text
 Pick and choose which sacred tenets you prefer...
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -15,9 +13,9 @@ Ritual Altars in Area allow rerolling Favours 2 additional times
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Ritual
 #Category/Scarab
 #Fragment

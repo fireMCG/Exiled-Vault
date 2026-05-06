@@ -1,12 +1,10 @@
-# Atsak's Sight
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Atsak's Sight.png]]
 
-## Description
+# Flavour Text
 Remaining unseen, the Dishonoured Assassin struck
 only in the depths of the harshest sandstorms.
 
-## Details
+# Details
 - Evasion: (116-145)
 - Energy Shield: (50-62)
 - Requires Level 28, 23 Dex, 23 Int
@@ -16,9 +14,9 @@ only in the depths of the harshest sandstorms.
 - +(10-20) to Intelligence
 - Critical Hits Poison the enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

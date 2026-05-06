@@ -1,11 +1,9 @@
-# Ungil's Harmony
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Ungil's Harmony.png]]
 
-## Description
+# Flavour Text
 Gentle anger, raging calm.
 
-## Details
+# Details
 - Requires Level 25
 - (20-30)% increased Mana Regeneration Rate
 - +(30-50) to maximum Life
@@ -14,9 +12,9 @@ Gentle anger, raging calm.
 - +(60-100) to Stun Threshold
 - Your Critical Hits do not deal extra Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

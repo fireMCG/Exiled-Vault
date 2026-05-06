@@ -1,10 +1,8 @@
-# Blood of Rage
-
-## Effects
+# Effects
 Gain 8 Rage when you use a Life Flask
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

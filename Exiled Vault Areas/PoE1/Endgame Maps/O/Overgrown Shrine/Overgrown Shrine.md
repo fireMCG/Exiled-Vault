@@ -1,13 +1,11 @@
-# Overgrown Shrine
-
-## Description
+# Flavour Text
 A once great monument,
 
 now a forgotten memorial.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

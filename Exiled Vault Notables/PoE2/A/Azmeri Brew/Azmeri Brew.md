@@ -1,12 +1,10 @@
-# Azmeri Brew
-
-## Effects
+# Effects
 Life Flasks also recover ManaMana Flasks also recover Life
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Amazon
 #Huntress
+#Notable
 #PoE2

@@ -1,10 +1,8 @@
-# Restless Dead
-
-## Effects
+# Effects
 Minions Revive 25% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,20 +1,18 @@
-# Farrul's Rune of the Hunt
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Farrul's Rune of the Hunt.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Martial Weapon: 50% increased Attack Damage against Rare or Unique Enemies
 
-## Bonded Effects
+# Bonded Effects
 - Martial Weapon: +1 to Level of all Attack Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

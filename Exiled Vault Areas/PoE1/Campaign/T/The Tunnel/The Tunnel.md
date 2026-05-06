@@ -1,15 +1,13 @@
-# The Tunnel
-
-## Description
+# Flavour Text
 Unspeakable horrors filigree and haunt the nameless dark.
 
-## Connected Areas
+# Connected Areas
 - The Foothills
 - The Quarry
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

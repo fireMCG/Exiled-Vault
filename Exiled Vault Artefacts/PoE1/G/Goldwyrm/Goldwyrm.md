@@ -1,11 +1,9 @@
-# Goldwyrm
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Goldwyrm.png]]
 
-## Description
+# Flavour Text
 The wyrm draws warmth from the fires of desire.
 
-## Details
+# Details
 - Evasion: (113-126)
 - Requires Level 34, 62 Dex
 - 60% increased Mana Regeneration Rate
@@ -13,9 +11,9 @@ The wyrm draws warmth from the fires of desire.
 - +(40-50)% to Fire Resistance
 - 10% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Ghostwrithe
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ghostwrithe.png]]
 
-## Description
+# Flavour Text
 Faith springs abundant at the edge of death.
 
-## Details
+# Details
 - Energy Shield: (130-238)
 - Movement Speed: -3%
 - Requires Level 11, 37 Int
@@ -14,9 +12,9 @@ Faith springs abundant at the edge of death.
 - +50% to Chaos Resistance
 - 50% of Maximum Life Converted to Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

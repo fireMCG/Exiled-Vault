@@ -1,12 +1,10 @@
-# Malachai's Loop
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Malachai's Loop.png]]
 
-## Description
+# Flavour Text
 Thaumaturgy has no limit.
 It is our fragile reality that imposes boundaries.
 
-## Details
+# Details
 - Chance to Block: 23%
 - Energy Shield: (179-231)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ It is our fragile reality that imposes boundaries.
 - Lose all Power Charges on reaching Maximum Power Charges
 - Shocks you when you reach Maximum Power Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

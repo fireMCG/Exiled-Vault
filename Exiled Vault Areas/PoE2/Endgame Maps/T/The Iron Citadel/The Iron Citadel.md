@@ -1,11 +1,9 @@
-# The Iron Citadel
-
-## Description
+# Flavour Text
 A heart of corruption, borne of steel.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

@@ -1,18 +1,16 @@
-# The Skeleton
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Skeleton.png]]
 
-## Description
+# Flavour Text
 They stand among us, and within us.
 
-## Reward
+# Reward
 Level 1 Summon Skeletons
 Quality: +23%
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

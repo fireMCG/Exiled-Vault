@@ -1,11 +1,9 @@
-# The Black Doubt
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Black Doubt.png]]
 
-## Description
+# Flavour Text
 Suspicion is a sinister shadow slithering in the soul.
 
-## Details
+# Details
 - Energy Shield: (70-88)
 - Movement Speed: -3.0%
 - Requires Level 11, 21 Int
@@ -15,9 +13,9 @@ Suspicion is a sinister shadow slithering in the soul.
 - Damage over Time bypasses your Energy Shield
 - While not on Full Life, Sacrifice 10% of maximum Mana per Second to Recover that much Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

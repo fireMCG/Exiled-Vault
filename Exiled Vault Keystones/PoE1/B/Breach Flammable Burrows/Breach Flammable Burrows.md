@@ -1,12 +1,10 @@
-# Breach Flammable Burrows
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Breach Flammable Burrows.webp]]
 
-## Effects
+# Effects
 Breach Hives in your Maps have 20% increased number of Flammable Burrows
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

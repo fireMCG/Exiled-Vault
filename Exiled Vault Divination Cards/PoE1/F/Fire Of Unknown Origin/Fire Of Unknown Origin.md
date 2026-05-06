@@ -1,18 +1,16 @@
-# Fire Of Unknown Origin
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Fire Of Unknown Origin.png]]
 
-## Description
+# Flavour Text
 Faith sparks the flame,
 a frenzy on the wind;
 a fervour that drives us wildly onward.
 
-## Reward
+# Reward
 Nimis
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Element/Fire
 #Concept/Wind
 #Category/DivinationCard

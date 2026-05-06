@@ -1,11 +1,9 @@
-# Holy Protector
-
-## Effects
+# Effects
 Minions have 25% increased maximum Life
 10% increased Block chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

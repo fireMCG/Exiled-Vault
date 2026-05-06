@@ -1,16 +1,14 @@
-# Conduit
-
 ![[Exiled Vault Keystones/_Images/PoE2 - Conduit.webp]]
 
-## Description
+# Flavour Text
 To me, brave companions! Feel my radiance flow through you!
 
-## Effects
+# Effects
 If you would gain a Charge, Allies in your Presence gain that Charge instead
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE2

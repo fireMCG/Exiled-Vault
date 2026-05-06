@@ -1,11 +1,9 @@
-# Entropic Incarnation
-
-## Effects
+# Effects
 Minions have +13% to Chaos Resistance
 Minions gain 10% of Physical Damage as Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

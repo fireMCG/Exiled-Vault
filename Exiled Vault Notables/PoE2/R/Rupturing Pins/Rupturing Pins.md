@@ -1,10 +1,8 @@
-# Rupturing Pins
-
-## Effects
+# Effects
 40% increased Magnitude of Bleeding you inflict against Pinned Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# Tainted Carapaces
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Tainted Carapaces.webp]]
 
-## Details
+# Details
 Scarabs dropped in your Maps have 100% increased chance to be Beyond Scarabs
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

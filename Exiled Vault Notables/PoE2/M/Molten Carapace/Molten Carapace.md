@@ -1,12 +1,10 @@
-# Molten Carapace
-
-## Effects
+# Effects
 50% increased Armour while Ignited
 +2% to Maximum Fire Resistance while Ignited
 50% increased Fire Damage while Ignited
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

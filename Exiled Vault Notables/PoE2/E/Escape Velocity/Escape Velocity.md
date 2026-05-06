@@ -1,11 +1,9 @@
-# Escape Velocity
-
-## Effects
+# Effects
 3% increased Movement Speed
 30% increased Evasion Rating
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

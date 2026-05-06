@@ -1,17 +1,15 @@
-# Beauty Through Death
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Beauty Through Death.png]]
 
-## Description
+# Flavour Text
 Her beauty did not fade 
 her humanity did not survive.
 
-## Reward
+# Reward
 Atziri's Reflection
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Atziri
 #Category/DivinationCard
 #Concept/Death

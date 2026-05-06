@@ -1,13 +1,11 @@
-# Replica Cortex
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Cortex.png]]
 
-## Description
+# Flavour Text
 "Did nobody think to report that we had acquired some sort of free-floating
 Memory? Cease testing and lock this away immediately!"
 - Administrator Qotra
 
-## Details
+# Details
 - Monster Level: 84
 - Item Quantity: +100%
 - Monster Pack Size: +25%
@@ -18,9 +16,9 @@ Memory? Cease testing and lock this away immediately!"
 - Corrupted
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Qotra
 #Concept/Memory

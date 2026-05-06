@@ -1,13 +1,11 @@
-# Tavukai
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Tavukai.png]]
 
-## Description
+# Flavour Text
 "Hyrri and her arrows broke the sacred code, damning herself.
 Kaom seized her sacrifice, and in doing so, seized victory."
 - Lavianga, Advisor to Kaom
 
-## Details
+# Details
 - Requires Level 54
 - Regenerate (2-4) Life per second
 - +(30-40) to Intelligence
@@ -17,9 +15,9 @@ Kaom seized her sacrifice, and in doing so, seized victory."
 - Summoned Raging Spirits have (25-40)% increased maximum Life
 - Summoned Raging Spirits take 20% of their Maximum Life per second as Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

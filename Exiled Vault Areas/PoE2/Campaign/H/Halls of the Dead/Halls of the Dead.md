@@ -1,15 +1,13 @@
-# Halls of the Dead
-
-## Description
+# Flavour Text
 The greatest warriors in history challenge one another eternal.
 
-## Connected Areas
+# Connected Areas
 - Eye of Hinekora
 - Trial of the Ancestors
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

@@ -1,18 +1,16 @@
-# The Long Con
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Long Con.png]]
 
-## Description
+# Flavour Text
 "This was the proudest moment of my life."
 
 "... so far"
 
-## Reward
+# Reward
 Elderslayer's Exalted Orb
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

@@ -1,11 +1,9 @@
-# Forthcoming
-
-## Effects
+# Effects
 16% reduced Skill Effect Duration
 10% increased Cooldown Recovery Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

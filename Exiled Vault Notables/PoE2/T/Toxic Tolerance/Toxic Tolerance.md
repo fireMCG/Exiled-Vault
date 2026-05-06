@@ -1,10 +1,8 @@
-# Toxic Tolerance
-
-## Effects
+# Effects
 Immune to Poison
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,13 +1,11 @@
-# Death and Taxes
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Death and Taxes.png]]
 
-## Description
+# Flavour Text
 So the raiders danced,
 leading their foe ever west,
 towards certain death.
 
-## Details
+# Details
 - Monster Level: 68
 - Item Quantity: +150%
 - Unique Boss deals (30-35)% increased Damage
@@ -16,9 +14,9 @@ towards certain death.
 - Unique Boss drops (12-20) additional Currency Items
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

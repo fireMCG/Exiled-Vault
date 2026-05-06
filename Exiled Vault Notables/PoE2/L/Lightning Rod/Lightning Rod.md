@@ -1,10 +1,8 @@
-# Lightning Rod
-
-## Effects
+# Effects
 30% chance for Lightning Damage with Hits to be Lucky
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,10 +1,8 @@
-# Primal Rage
-
-## Effects
+# Effects
 +12 to maximum Rage while Shapeshifted
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# The Blue Dream
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Blue Dream.png]]
 
-## Description
+# Flavour Text
 We crash against Chayula's body,
 and fall like rain into the place we cannot go.
 
-## Details
+# Details
 - Limited to: 1
 - Radius: Large
 - Gain (6-10)% of Lightning Damage as Extra Chaos Damage
@@ -14,9 +12,9 @@ and fall like rain into the place we cannot go.
 - also grant an equal chance to gain a Power Charge on Kill
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Cornathaum
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Cornathaum.png]]
 
-## Description
+# Flavour Text
 Pain brings clarity.
 
-## Details
+# Details
 - Armour: 75
 - Energy Shield: 28
 - Requires Level 33, 27 Str, 27 Int
@@ -14,9 +12,9 @@ Pain brings clarity.
 - 30% increased Light Radius
 - 5% increased Experience gain
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

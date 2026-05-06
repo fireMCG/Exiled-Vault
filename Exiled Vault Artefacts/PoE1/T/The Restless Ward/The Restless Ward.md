@@ -1,14 +1,12 @@
-# The Restless Ward
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Restless Ward.png]]
 
-## Description
+# Flavour Text
 Use the dead to stave off death,
 An armour of bones and rot.
 Hanging on with bated breath,
 One lapse and all for naught.
 
-## Details
+# Details
 - Evasion: (1129-1358)
 - Energy Shield: (329-395)
 - Movement Speed: -3%
@@ -20,9 +18,9 @@ One lapse and all for naught.
 - Regenerate 75 Life per second per Endurance Charge
 - (100-200)% increased Endurance, Frenzy and Power Charge Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

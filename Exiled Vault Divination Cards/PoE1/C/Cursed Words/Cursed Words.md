@@ -1,16 +1,14 @@
-# Cursed Words
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Cursed Words.png]]
 
-## Description
+# Flavour Text
 If you look hard enough for hidden meaning, you will find it.
 
-## Reward
+# Reward
 Maw of Mischief
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Curse
 #DivinationCard

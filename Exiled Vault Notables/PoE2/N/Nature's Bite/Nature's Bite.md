@@ -1,11 +1,9 @@
-# Nature's Bite
-
-## Effects
+# Effects
 20% increased Elemental Damage
 15% increased chance to inflict Ailments
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,10 +1,8 @@
-# Heartstopping Presence
-
-## Effects
+# Effects
 Enemies in your Presence have 75% reduced Life Regeneration rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

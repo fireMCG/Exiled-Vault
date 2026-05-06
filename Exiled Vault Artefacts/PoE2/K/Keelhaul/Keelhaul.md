@@ -1,12 +1,10 @@
-# Keelhaul
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Keelhaul.png]]
 
-## Description
+# Flavour Text
 Below all living things,
 there exists a flow...
 
-## Details
+# Details
 - Has (1-3) Charm Slots
 - (20-30)% increased Mana Recovery from Flasks
 - (-25-25)% increased Flask Life Recovery rate
@@ -14,9 +12,9 @@ there exists a flow...
 - Life Flasks gain 0.25 charges per Second
 - Mana Flasks gain 0.25 charges per Second
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Thundersight
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Thundersight.png]]
 
-## Description
+# Flavour Text
 See creation as it is, energetic and storming.
 
-## Details
+# Details
 - Energy Shield: (204-258)
 - Requires Level 59, 122 Int
 - (240-280)% increased Energy Shield
@@ -14,9 +12,9 @@ See creation as it is, energetic and storming.
 - (25-50)% chance to Sap Enemies
 - Cannot inflict Shock
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

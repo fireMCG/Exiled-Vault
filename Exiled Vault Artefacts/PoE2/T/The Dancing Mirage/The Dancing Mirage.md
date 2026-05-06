@@ -1,11 +1,9 @@
-# The Dancing Mirage
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Dancing Mirage.png]]
 
-## Description
+# Flavour Text
 Be not where death falls.
 
-## Details
+# Details
 - Evasion: (220-264)
 - Energy Shield: (97-117)
 - Movement Speed: -3.0%
@@ -15,9 +13,9 @@ Be not where death falls.
 - 20% less Damage taken if you have not been Hit Recently
 - 100% increased Evasion Rating if you have been Hit Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

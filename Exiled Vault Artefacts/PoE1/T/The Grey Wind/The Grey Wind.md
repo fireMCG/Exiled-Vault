@@ -1,14 +1,12 @@
-# The Grey Wind
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Grey Wind.png]]
 
-## Description
+# Flavour Text
 Silence fell... we gazed upon high.
 The Red Pyre flared, palms wide.
 Ash-laden gales scoured our flesh.
 Four screams became one roar.
 
-## Details
+# Details
 - One Handed Axe
 - Physical Damage: 29-48
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ Four screams became one roar.
 - Nearby Enemies have Fire Exposure while at maximum Rage
 - +(-5-5) to Maximum Rage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

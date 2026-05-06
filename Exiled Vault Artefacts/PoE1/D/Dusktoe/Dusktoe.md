@@ -1,13 +1,11 @@
-# Dusktoe
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Dusktoe.png]]
 
-## Description
+# Flavour Text
 "A lick of shadow may ease
 the petty frictions of one's life."
 - Inquisitor Maligaro
 
-## Details
+# Details
 - Armour: (54-88)
 - Evasion: (54-88)
 - Requires Level 18, 19 Str, 19 Dex
@@ -17,9 +15,9 @@ the petty frictions of one's life."
 - +50% to Chaos Resistance during any Flask Effect
 - Adds (30-40) to (50-60) Chaos Damage to Spells and Attacks during any Flask Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,10 +1,8 @@
-# Hefty Unit
-
-## Effects
+# Effects
 +3 to Stun Threshold per Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

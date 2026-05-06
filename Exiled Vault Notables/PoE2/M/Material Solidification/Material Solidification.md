@@ -1,11 +1,9 @@
-# Material Solidification
-
-## Effects
+# Effects
 Gain 8% of Damage as Extra Physical Damage
 15% increased effect of Fully Broken Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

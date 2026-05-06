@@ -1,19 +1,17 @@
-# The Formless Sea
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Formless Sea.png]]
 
-## Description
+# Flavour Text
 Formless might,
 Wild beauty tamed,
 The brine of gods,
 The seas restrained.
 
-## Reward
+# Reward
 Varunastra
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Beauty
 #Concept/God

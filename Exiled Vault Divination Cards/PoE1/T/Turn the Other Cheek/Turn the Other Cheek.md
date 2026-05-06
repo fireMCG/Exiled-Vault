@@ -1,18 +1,16 @@
-# Turn the Other Cheek
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Turn the Other Cheek.png]]
 
-## Description
+# Flavour Text
 "Only after one forsakes rage, can true power be found."
 - Sekhema Asenath
 
-## Reward
+# Reward
 Pacifism
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Sekhema/Asenath
 #Category/DivinationCard
 #DivinationCard

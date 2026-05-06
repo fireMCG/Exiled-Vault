@@ -1,17 +1,15 @@
-# Scorched Farmlands
-
-## Description
+# Flavour Text
 Shadows in the night come for the farmers and torch their crops.
 
-## Connected Areas
+# Connected Areas
 - The Refuge
 - Stones of Serle
 - The Blackwood
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

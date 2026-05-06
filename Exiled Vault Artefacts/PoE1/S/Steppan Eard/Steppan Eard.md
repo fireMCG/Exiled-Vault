@@ -1,12 +1,10 @@
-# Steppan Eard
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Steppan Eard.png]]
 
-## Description
+# Flavour Text
 To fight an enemy on their lands is a tactical mistake.
 Make those lands your own, and the mistake becomes theirs.
 
-## Details
+# Details
 - Energy Shield: (106-160)
 - Requires Level 67, 123 Int
 - +(20-30) to maximum Energy Shield
@@ -17,9 +15,9 @@ Make those lands your own, and the mistake becomes theirs.
 - Regenerate 2% of Life per second on Chilled Ground
 - Unaffected by Desecrated Ground
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

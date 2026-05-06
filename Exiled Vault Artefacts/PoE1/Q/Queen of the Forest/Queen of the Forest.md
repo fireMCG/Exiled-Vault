@@ -1,8 +1,6 @@
-# Queen of the Forest
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Queen of the Forest.png]]
 
-## Description
+# Flavour Text
 Shedding away her regal past,
 she forged a new destiny.
 Sacrificing the ephemeral joys of man,
@@ -10,7 +8,7 @@ she embraced the eternal grasp of nature.
 Seizing her one true wish,
 she found peace at last.
 
-## Details
+# Details
 - Evasion: (1803-2451)
 - Movement Speed: -3%
 - Requires Level 59, 160 Dex
@@ -23,9 +21,9 @@ she found peace at last.
 - 1% increased Movement Speed per 600 Evasion Rating, up to 75%
 - -(50-40) Physical Damage taken from Hits by Animals
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

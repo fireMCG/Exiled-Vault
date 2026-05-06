@@ -1,13 +1,11 @@
-# Foul Hand
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Foul Hand.png]]
 
-## Description
+# Flavour Text
 Let the Mother's love
 embrace our flesh.
 
-##
+#
 ---
-## Tags
+# Tags
 #QuestItem
 #PoE1

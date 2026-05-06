@@ -1,10 +1,8 @@
-# Push the Advantage
-
-## Effects
+# Effects
 40% increased Critical Damage Bonus with One Handed Melee Weapons
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

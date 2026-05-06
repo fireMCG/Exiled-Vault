@@ -1,13 +1,11 @@
-# Sulphuric Caverns
-
-## Description
+# Flavour Text
 Beasts of many kinds sought shelter one final time.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

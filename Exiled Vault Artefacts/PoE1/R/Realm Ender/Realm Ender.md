@@ -1,13 +1,11 @@
-# Realm Ender
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Realm Ender.png]]
 
-## Description
+# Flavour Text
 "The flames are surely coming.
 I just pray I am long dead before they arrive."
 - Archbishop Geofri
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 14-42
 - Elemental Damage: (10-15) to (20-25), (10-15) to (20-25)
@@ -24,9 +22,9 @@ I just pray I am long dead before they arrive."
 - Adds (10-15) to (20-25) Cold Damage
 - (30-50)% increased Elemental Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

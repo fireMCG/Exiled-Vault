@@ -1,12 +1,10 @@
-# The Scales of Justice
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Scales of Justice.png]]
 
-## Description
+# Flavour Text
 You shall be weighed and measured. You shall be judged...
 and perhaps you shall be found worthy.
 
-## Details
+# Details
 - Chance to Block: 23%
 - Movement Speed: -3%
 - Requires Level 49, 119 Int
@@ -17,9 +15,9 @@ and perhaps you shall be found worthy.
 - (3-4) to (7-8) added Fire Damage per 100 of Maximum Life or Maximum Mana, whichever is lower
 - Unaffected by Ignite or Shock if Maximum Life and Maximum Mana are within 500
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

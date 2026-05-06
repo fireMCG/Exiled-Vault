@@ -1,11 +1,9 @@
-# Unyielding Flame
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Unyielding Flame.png]]
 
-## Description
+# Flavour Text
 An Emperor must conquer his own darkness before he can act as a beacon of light.
 
-## Details
+# Details
 - Chance to Block: 22%
 - Armour: (156-179)
 - Energy Shield: (32-37)
@@ -19,9 +17,9 @@ An Emperor must conquer his own darkness before he can act as a beacon of light.
 - (8-12)% increased Attack Speed if you've dealt a Critical Strike Recently
 - (8-12)% increased Cast Speed if you've dealt a Critical Strike Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

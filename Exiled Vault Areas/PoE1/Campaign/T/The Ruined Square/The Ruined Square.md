@@ -1,17 +1,15 @@
-# The Ruined Square
-
-## Description
+# Flavour Text
 Oriath's bleeding heart is the main course in a terrible feast.
 
-## Connected Areas
+# Connected Areas
 - The Torched Courts
 - The Ossuary
 - The Cathedral Rooftop
 - The Reliquary
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

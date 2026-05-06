@@ -1,11 +1,9 @@
-# Bitterbloom
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Bitterbloom.png]]
 
-## Description
+# Flavour Text
 The soul cannot flourish in a doubting mind.
 
-## Details
+# Details
 - Energy Shield: (52-70)
 - Movement Speed: -3.0%
 - Requires Level 5, 11 Int
@@ -14,9 +12,9 @@ The soul cannot flourish in a doubting mind.
 - 50% increased Energy Shield Recharge Rate
 - Energy Shield Recharge starts when you use a Mana Flask
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

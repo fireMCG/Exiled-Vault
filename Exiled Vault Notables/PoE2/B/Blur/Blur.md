@@ -1,12 +1,10 @@
-# Blur
-
-## Effects
+# Effects
 4% increased Movement Speed
 20% increased Evasion Rating
 +10 to Dexterity
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

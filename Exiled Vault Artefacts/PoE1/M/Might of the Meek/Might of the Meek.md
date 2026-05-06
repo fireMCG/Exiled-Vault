@@ -1,19 +1,17 @@
-# Might of the Meek
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Might of the Meek.png]]
 
-## Description
+# Flavour Text
 Enough mice can kill a wolf.
 
-## Details
+# Details
 - Radius: Large
 - 50% increased Effect of non-Keystone Passive Skills in Radius
 - Notable Passive Skills in Radius grant nothing
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

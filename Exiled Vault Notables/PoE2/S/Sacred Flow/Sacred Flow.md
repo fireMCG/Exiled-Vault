@@ -1,12 +1,10 @@
-# Sacred Flow
-
-## Effects
+# Effects
 +40 to Spirit for each of your empty Charm slots
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Shaman
 #Druid
+#Notable
 #PoE2

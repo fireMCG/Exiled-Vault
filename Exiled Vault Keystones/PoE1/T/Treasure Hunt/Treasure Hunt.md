@@ -1,13 +1,11 @@
-# Treasure Hunt
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Treasure Hunt.webp]]
 
-## Effects
+# Effects
 Incursions in your Maps contain Cursed Treasures
 (Cursed Treasure can be claimed for valuable rewards, but doing so will lose time while in Incursions)
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

@@ -1,13 +1,11 @@
-# Thousand Ribbons
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Thousand Ribbons.png]]
 
-## Description
+# Flavour Text
 To remember the day of a thousand flames
 When Sarn burned
 And was born again
 
-## Details
+# Details
 - Evasion: (30-60)
 - Energy Shield: (44-80)
 - Movement Speed: -3%
@@ -24,9 +22,9 @@ And was born again
 - +(15-30)% to Cold Resistance
 - +(15-30)% to Lightning Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

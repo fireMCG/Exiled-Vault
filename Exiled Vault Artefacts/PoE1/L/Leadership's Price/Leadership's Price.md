@@ -1,11 +1,9 @@
-# Leadership's Price
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Leadership's Price.png]]
 
-## Description
+# Flavour Text
 "Remain poised. Remain balanced. Keep all the emotions of a lifetime caged. Let only your enemies see the truth of your rage."
 
-## Details
+# Details
 - Requires Level 68
 - +(10-16) to all Attributes
 - +(-3-3)% to maximum Fire Resistance
@@ -15,9 +13,9 @@
 - Cannot Ignite, Chill, Freeze or Shock
 - Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

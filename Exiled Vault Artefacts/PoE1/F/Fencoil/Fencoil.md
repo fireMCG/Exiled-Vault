@@ -1,12 +1,10 @@
-# Fencoil
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fencoil.png]]
 
-## Description
+# Flavour Text
 You've no reason for fear when you're a root in a fen
 - Old Ezomyte saying.
 
-## Details
+# Details
 - Staff
 - Physical Damage: 9-19
 - Critical Strike Chance: 7.50%
@@ -18,9 +16,9 @@ You've no reason for fear when you're a root in a fen
 - (10-20)% increased maximum Life
 - (10-20)% increased maximum Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

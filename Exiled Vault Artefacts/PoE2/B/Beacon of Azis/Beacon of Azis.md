@@ -1,13 +1,11 @@
-# Beacon of Azis
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Beacon of Azis.png]]
 
-## Description
+# Flavour Text
 The homeguard signalled for aid against a surprise attack,
 but it was not their dekharas that responded.
 It was Solerai herself.
 
-## Details
+# Details
 - Requires Level 30
 - +(10-15) to Spirit
 - +(60-100) to maximum Mana
@@ -15,9 +13,9 @@ It was Solerai herself.
 - 30% increased Light Radius
 - Critical Hits ignore Enemy Monster Elemental Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

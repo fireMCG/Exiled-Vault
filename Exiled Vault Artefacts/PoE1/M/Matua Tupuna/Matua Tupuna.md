@@ -1,12 +1,10 @@
-# Matua Tupuna
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Matua Tupuna.png]]
 
-## Description
+# Flavour Text
 You carried me through life,
 The least I can do is carry you through death.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Energy Shield: (29-45)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ The least I can do is carry you through death.
 - 20% increased effect of Non-Curse Auras from your Skills
 - Spreads Tar when you Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

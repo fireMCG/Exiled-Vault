@@ -1,11 +1,9 @@
-# Grounded in the Earth
-
-## Effects
+# Effects
 16% increased Skill Effect Duration
 16% increased Stun Threshold
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,10 +1,8 @@
-# One With Flame
-
-## Effects
+# Effects
 50% reduced Magnitude of Ignite on you
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

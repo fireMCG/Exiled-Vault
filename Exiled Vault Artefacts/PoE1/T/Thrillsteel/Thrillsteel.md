@@ -1,19 +1,17 @@
-# Thrillsteel
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Thrillsteel.png]]
 
-## Description
+# Flavour Text
 We may fight, and we may die, but in these
 moments of blood and battle, we truly live.
 
-## Details
+# Details
 - Armour: (92-115)
 - Requires Level 18, 42 Str
 - Onslaught
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

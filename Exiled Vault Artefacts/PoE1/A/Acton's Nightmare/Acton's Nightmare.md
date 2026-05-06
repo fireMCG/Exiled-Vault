@@ -1,14 +1,12 @@
-# Acton's Nightmare
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Acton's Nightmare.png]]
 
-## Description
+# Flavour Text
 Curious, she shook it then,
 And tiny screams emerged.
 Curiouser, she shook again,
 And an eerie silence purred.
 
-## Details
+# Details
 - Monster Level: 68
 - Item Quantity: +(80-100)%
 - Item Rarity: +(220-250)%
@@ -22,9 +20,9 @@ And an eerie silence purred.
 - Area contains a Large Chest
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

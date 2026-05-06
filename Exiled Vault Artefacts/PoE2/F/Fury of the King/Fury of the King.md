@@ -1,13 +1,11 @@
-# Fury of the King
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Fury of the King.png]]
 
-## Description
+# Flavour Text
 Gruthkul was the Mother of Despair...
 but one day, the Father will return,
 and discover the fate of his children.
 
-## Details
+# Details
 - Physical Damage: 50-105
 - Elemental Damage: (524-610) to (692-758)
 - Critical Strike Chance: 8.00%
@@ -24,8 +22,8 @@ and discover the fate of his children.
 - Skills which require Glory generate (2-5) Glory every 2 seconds
 - Enemies in your Presence have Exposure
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE2

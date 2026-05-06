@@ -1,19 +1,17 @@
-# Deadly Joy
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Deadly Joy.png]]
 
-## Description
+# Flavour Text
 "Be fast. That is all that matters."
 - Rita of the Asylum
 
-## Reward
+# Reward
 Torrent's Reclamation
 Two-Implicit
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

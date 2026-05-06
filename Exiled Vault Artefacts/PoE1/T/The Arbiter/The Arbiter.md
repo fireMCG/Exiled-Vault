@@ -1,11 +1,9 @@
-# The Arbiter
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Arbiter.png]]
 
-## Description
+# Flavour Text
 On judgement day, only those who are worthy will survive.
 
-## Details
+# Details
 - Duration: 10 seconds
 - Empowers: 50 enemies
 - Empowerment: 22
@@ -18,9 +16,9 @@ On judgement day, only those who are worthy will survive.
 - (300-400)% increased chance to add Rewards
 - Unmodifiable
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

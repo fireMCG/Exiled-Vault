@@ -1,20 +1,18 @@
-# Firesong
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Firesong.png]]
 
-## Description
+# Flavour Text
 Within a firestorm, the Thane commands the flames
 Emblazoned by glory and the song of the First Ones
 For the master of fire fears nothing.
 
-## Details
+# Details
 - +(10-15)% to Fire Resistance
 - Modifiers to Ignite Duration on you apply to all Elemental Ailments
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

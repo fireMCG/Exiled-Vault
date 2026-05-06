@@ -1,15 +1,13 @@
-# Breach Splinter
-
 ![[Exiled Vault Fragments/_Images/PoE2 - Breach Splinter.webp]]
 
-## Details
+# Details
 Stackable Currency
 Stack Size: 1 / 300
 Consume at least 50 Splinters at the Realmgate to enter the Twisted Domain.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE2

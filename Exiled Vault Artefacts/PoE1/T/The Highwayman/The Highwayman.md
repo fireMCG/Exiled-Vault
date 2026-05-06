@@ -1,11 +1,9 @@
-# The Highwayman
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Highwayman.png]]
 
-## Description
+# Flavour Text
 Somebody does have to get hurt.
 
-## Details
+# Details
 - Requires Level 44
 - (6-15)% increased Rarity of Items found
 - (15-25)% increased Rarity of Items found
@@ -14,9 +12,9 @@ Somebody does have to get hurt.
 - Steal Power, Frenzy, and Endurance Charges on Hit
 - Total Recovery per second from Life Leech is Doubled
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

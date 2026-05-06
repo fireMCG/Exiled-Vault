@@ -1,12 +1,10 @@
-# Faith is a Choice
-
-## Effects
+# Effects
 Grants Skill: Meditate
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Invoker
 #Monk
+#Notable
 #PoE2

@@ -1,12 +1,10 @@
-# Powertread
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Powertread.png]]
 
-## Description
+# Flavour Text
 The combat stance used by Vaal nobles
 was as elegant as it was deadly.
 
-## Details
+# Details
 - Evasion: (80-90)
 - Energy Shield: (33-37)
 - Requires Level 33, 26 Dex, 26 Int
@@ -16,9 +14,9 @@ was as elegant as it was deadly.
 - +1 to Maximum Power Charges
 - 12% increased Critical Damage Bonus per Power Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

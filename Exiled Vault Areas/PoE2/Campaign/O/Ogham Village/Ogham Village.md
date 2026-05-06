@@ -1,15 +1,13 @@
-# Ogham Village
-
-## Description
+# Flavour Text
 Madness boils over into fire and death.
 
-## Connected Areas
+# Connected Areas
 - Ogham Farmlands
 - The Manor Ramparts
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

@@ -1,12 +1,10 @@
-# Bushwhack
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Bushwhack.png]]
 
-## Description
+# Flavour Text
 Banished for his tragic failure,
 Erian learned to hunt to survive.
 
-## Details
+# Details
 - Evasion: (135-162)
 - Requires Level 33, 45 Dex
 - (15-25)% increased Movement Speed
@@ -14,9 +12,9 @@ Erian learned to hunt to survive.
 - +(10-20) to Dexterity
 - Physical Damage is Pinning
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Bear's Girdle
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bear's Girdle.png]]
 
-## Description
+# Flavour Text
 Simple. Deadly. Unstoppable
 
-## Details
+# Details
 - Requires Level 68
 - +(25-40) to maximum Life
 - Adds (5-7) to (11-12) Physical Damage to Attacks
@@ -13,9 +11,9 @@ Simple. Deadly. Unstoppable
 - Nearby Enemies are Crushed while you have at least 25 Rage
 - +10 to Maximum Rage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

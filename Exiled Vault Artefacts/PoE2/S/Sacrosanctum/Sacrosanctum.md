@@ -1,12 +1,10 @@
-# Sacrosanctum
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Sacrosanctum.png]]
 
-## Description
+# Flavour Text
 The Twilight Order rejected the gods, choosing
 instead to put their faith in each other.
 
-## Details
+# Details
 - Armour: (441-539)
 - Energy Shield: (151-184)
 - Movement Speed: -4.0%
@@ -19,9 +17,9 @@ instead to put their faith in each other.
 - (10-20)% of Damage taken Recouped as Life
 - Damage taken Recouped as Life is also Recouped as Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

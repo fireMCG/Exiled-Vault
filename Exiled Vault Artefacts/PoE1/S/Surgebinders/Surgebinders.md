@@ -1,14 +1,12 @@
-# Surgebinders
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Surgebinders.png]]
 
-## Description
+# Flavour Text
 Your lies are our strength.
 Your threats are our laughter.
 Your hate is our infinity
 The fire rises!
 
-## Details
+# Details
 - Armour: (229-291)
 - Evasion: (229-291)
 - Requires Level 67, 51 Str, 51 Dex
@@ -18,9 +16,9 @@ The fire rises!
 - (4-7)% increased Spell Damage per Power Charge
 - 10% chance to Steal Power, Frenzy, and Endurance Charges on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

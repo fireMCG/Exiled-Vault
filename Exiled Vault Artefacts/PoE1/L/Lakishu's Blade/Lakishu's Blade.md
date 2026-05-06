@@ -1,12 +1,10 @@
-# Lakishu's Blade
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Lakishu's Blade.png]]
 
-## Description
+# Flavour Text
 "May the Blessed Lakishu watch our backs and our wives."
 - Legionnaire Battle Blessing
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (40-50.4) to (68.8-84.6)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@
 - 20% chance to Avoid being Stunned
 - (40-30)% reduced Stun and Block Recovery
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

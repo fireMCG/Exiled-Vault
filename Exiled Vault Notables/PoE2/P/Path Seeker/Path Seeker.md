@@ -1,9 +1,7 @@
-# Path Seeker
-
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Pathfinder
 #Ranger
+#Notable
 #PoE2

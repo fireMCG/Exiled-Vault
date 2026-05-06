@@ -1,17 +1,15 @@
-# The Explorer
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Explorer.png]]
 
-## Description
+# Flavour Text
 A map is only useful if you know where you stand.
 
-## Reward
+# Reward
 Map
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Map
 #DivinationCard

@@ -1,13 +1,11 @@
-# Warcaller's Bellow
-
-## Effects
+# Effects
 Warcries Explode Corpses dealing 25% of their Life as Physical Damage
 Ignore Warcry Cooldowns
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Warbringer
 #Warrior
+#Notable
 #PoE2

@@ -1,20 +1,18 @@
-# The Gulf
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Gulf.png]]
 
-## Description
+# Flavour Text
 I thought love stronger than all,
 but time and isolation broke
 that which madness could not.
 
-## Reward
+# Reward
 Thread of Hope
 Two-Implicit
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Emotion/Love
 #Concept/Madness

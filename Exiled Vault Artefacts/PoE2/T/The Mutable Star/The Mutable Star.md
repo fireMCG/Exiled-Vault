@@ -1,12 +1,10 @@
-# The Mutable Star
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Mutable Star.png]]
 
-## Description
+# Flavour Text
 Through every great purge, and every fiery inquisition,
 the Twilight Order endured in secret.
 
-## Details
+# Details
 - Armour: (296-370)
 - Energy Shield: (106-132)
 - Movement Speed: -4.0%
@@ -18,9 +16,9 @@ the Twilight Order endured in secret.
 - (30-50)% reduced Ignite Duration on you
 - Defend against Hits as though you had 1% more Armour per 1% current Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

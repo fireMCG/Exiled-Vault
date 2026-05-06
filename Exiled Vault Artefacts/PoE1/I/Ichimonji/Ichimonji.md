@@ -1,11 +1,9 @@
-# Ichimonji
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ichimonji.png]]
 
-## Description
+# Flavour Text
 Master yourself before you seek to master others.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (45-58.5) to (167.4-195)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ Master yourself before you seek to master others.
 - Allies' Aura Buffs do not affect you
 - Your Aura Buffs do not affect allies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

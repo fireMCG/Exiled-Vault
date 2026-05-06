@@ -1,12 +1,10 @@
-# Imagined Pursuits
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Imagined Pursuits.webp]]
 
-## Effects
+# Effects
 Delirium Reward Types in your Maps gain +1 to count on Map Completion
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

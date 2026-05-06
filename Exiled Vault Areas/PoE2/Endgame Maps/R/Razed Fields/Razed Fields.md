@@ -1,11 +1,9 @@
-# Razed Fields
-
-## Description
+# Flavour Text
 Shadows in the night came for the farmers and torched their crops.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE2

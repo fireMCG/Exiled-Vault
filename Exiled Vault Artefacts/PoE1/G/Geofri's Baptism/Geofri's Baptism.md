@@ -1,12 +1,10 @@
-# Geofri's Baptism
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Geofri's Baptism.png]]
 
-## Description
+# Flavour Text
 "One quick tap is all the persuasion you'll need."
 - Archbishop Geofri of Phrecia Cathedral
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: 120-180
 - Elemental Damage: 11-23
@@ -20,9 +18,9 @@
 - (10-20)% increased Stun Duration on Enemies
 - Never deal Critical Strikes
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

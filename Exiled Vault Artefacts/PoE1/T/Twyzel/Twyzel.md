@@ -1,12 +1,10 @@
-# Twyzel
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Twyzel.png]]
 
-## Description
+# Flavour Text
 Life persisted,
 hardened, twisted.
 
-## Details
+# Details
 - Wand
 - Physical Damage: (46.8-69.6) to (93.6-134.4)
 - Critical Strike Chance: (9.35-10.20)%
@@ -20,9 +18,9 @@ hardened, twisted.
 - Attacks have (40-60)% increased Area of Effect when in Main Hand
 - Attacks fire (1-2) additional Projectiles when in Off Hand
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

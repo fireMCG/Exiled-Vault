@@ -1,14 +1,12 @@
-# The Unborn Lich
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Unborn Lich.png]]
 
-## Description
+# Flavour Text
 In ghastly pits beneath the world,
 Kulemak grows countless new bodies,
 each more powerful than the last.
 Not all of his abominations survive.
 
-## Details
+# Details
 - Staff
 - Requires Level 78, 137 Int
 - Grants Skill: Level (18-20) Feast of Flesh
@@ -24,9 +22,9 @@ Not all of his abominations survive.
 - (6-10)% increased Spirit Reservation Efficiency of SkillsYou have Unholy Might
 - (28-56)% increased Magnitude of Unholy Might buffs you grant
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,13 +1,11 @@
-# Horned Skull
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Horned Skull.png]]
 
-## Description
+# Flavour Text
 Lay bare our flesh under the
 searing light of the Torus Eternal.
 
-##
+#
 ---
-## Tags
+# Tags
 #QuestItem
 #PoE1

@@ -1,8 +1,6 @@
-# The Dreamer
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Dreamer.png]]
 
-## Description
+# Flavour Text
 A dark note drips 
 from the dreamer's lips, 
 A honeyed melody. 
@@ -10,12 +8,12 @@ We stand, we fall
 on his beck and call, 
 for in his dream we're free.
 
-## Reward
+# Reward
 Chayula Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Breachlord/Chayula
 #Concept/Globe

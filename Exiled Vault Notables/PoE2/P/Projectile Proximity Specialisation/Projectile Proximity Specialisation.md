@@ -1,9 +1,7 @@
-# Projectile Proximity Specialisation
-
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Deadeye
 #Ranger
+#Notable
 #PoE2

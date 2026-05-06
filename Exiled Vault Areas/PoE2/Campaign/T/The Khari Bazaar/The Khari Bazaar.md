@@ -1,14 +1,12 @@
-# The Khari Bazaar
-
-## Description
+# Flavour Text
 Once a wondrous market, now a desolate shell.
 
-## Connected Areas
+# Connected Areas
 - The Khari Crossing
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

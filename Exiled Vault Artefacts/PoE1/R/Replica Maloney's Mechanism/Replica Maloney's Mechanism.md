@@ -1,12 +1,10 @@
-# Replica Maloney's Mechanism
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Maloney's Mechanism.png]]
 
-## Description
+# Flavour Text
 "The Midnight Tinkerer's aid was invaluable during our brief alliance,
 but when we failed to make any progress on resurrection, he continued his search elsewhere..."
 
-## Details
+# Details
 - Requires Level 45
 - Has 1 Socket
 - Has 2 Sockets
@@ -16,9 +14,9 @@ but when we failed to make any progress on resurrection, he continued his search
 - +(50-70) to maximum Life
 - 5% chance to Blind Enemies on Hit with Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/RikerMaloney
 #Concept/Rebirth

@@ -1,11 +1,9 @@
-# Tower
-
-## Description
+# Flavour Text
 We ascend to great heights to commit low acts.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

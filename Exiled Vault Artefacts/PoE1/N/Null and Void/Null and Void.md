@@ -1,12 +1,10 @@
-# Null and Void
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Null and Void.png]]
 
-## Description
+# Flavour Text
 What is freedom but a clean slate
 in an unclean world?
 
-## Details
+# Details
 - Armour: (257-338)
 - Energy Shield: (52-70)
 - Requires Level 57, 44 Str, 44 Int
@@ -18,9 +16,9 @@ in an unclean world?
 - Gain Immunity to Physical Damage for 1.5 seconds on Rampage
 - Rampage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

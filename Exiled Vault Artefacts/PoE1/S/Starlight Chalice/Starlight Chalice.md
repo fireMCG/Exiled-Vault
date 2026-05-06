@@ -1,12 +1,10 @@
-# Starlight Chalice
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Starlight Chalice.png]]
 
-## Description
+# Flavour Text
 Uhtred and his priests drank of the skies
 to empower runes... and themselves.
 
-## Details
+# Details
 - Lasts 4.00 Seconds
 - Consumes 40 of 60 Charges on use
 - +200 to Ward
@@ -17,9 +15,9 @@ to empower runes... and themselves.
 - (20-30)% increased Effect of Non-Damaging Ailments you inflict during Effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Uhtred
 #Artefact

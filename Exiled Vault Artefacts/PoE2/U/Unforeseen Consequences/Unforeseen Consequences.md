@@ -1,13 +1,11 @@
-# Unforeseen Consequences
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Unforeseen Consequences.png]]
 
-## Description
+# Flavour Text
 The Well was naught.
 The Precursors dug too deep.
 The Well always had been.
 
-## Details
+# Details
 - Adds Abysses to a Map
 - 1 use remaining
 - Map contains (14-18) additional Abysses
@@ -15,8 +13,8 @@ The Well always had been.
 - (4-6) additional Rare Monsters are spawned from Abysses in Map
 - Can be used in a personal Map Device to add modifiers to a Map.
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE2

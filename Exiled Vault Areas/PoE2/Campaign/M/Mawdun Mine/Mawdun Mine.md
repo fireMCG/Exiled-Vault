@@ -1,15 +1,13 @@
-# Mawdun Mine
-
-## Description
+# Flavour Text
 To keep their plans secret, defectors were sealed away to die.
 
-## Connected Areas
+# Connected Areas
 - Mawdun Quarry
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE2
-#Interesting

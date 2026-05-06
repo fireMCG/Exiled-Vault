@@ -1,10 +1,8 @@
-# Feathered Fletching
-
-## Effects
+# Effects
 Increases and Reductions to Projectile Speed also apply to Damage with Bows
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

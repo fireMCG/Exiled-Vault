@@ -1,13 +1,11 @@
-# Replica Perfect Form
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Perfect Form.png]]
 
-## Description
+# Flavour Text
 ""This is what I've been trying to tell you. This prototype
 was different before. Now, it's always been this way!"
 - Researcher Graven"
 
-## Details
+# Details
 - Evasion: (2135-2946)
 - Movement Speed: -3%
 - Requires Level 65, 197 Dex
@@ -17,9 +15,9 @@ was different before. Now, it's always been this way!"
 - Evasion Rating is increased by Overcapped Cold Resistance
 - Versatile Combatant
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Graven
 #Concept/Enigma

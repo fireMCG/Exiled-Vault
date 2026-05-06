@@ -1,14 +1,12 @@
-# Mud Burrow
-
-## Description
+# Flavour Text
 Hungry jaws hide in dripping darkness.
 
-## Connected Areas
+# Connected Areas
 - Clearfell
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

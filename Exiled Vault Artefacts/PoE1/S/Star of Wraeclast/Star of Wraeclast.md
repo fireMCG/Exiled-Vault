@@ -1,15 +1,13 @@
-# Star of Wraeclast
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Star of Wraeclast.png]]
 
-## Description
+# Flavour Text
 "I offer to you an eternal oath
 that binds your heart to mine;
 a bond that not even death will break.
 Will you accept?"
 - Daresso, to his beloved
 
-## Details
+# Details
 - Requires Level 28
 - +(20-30)% to Fire Resistance
 - Grants Level 10 Frostblink Skill
@@ -20,9 +18,9 @@ Will you accept?"
 - Frostblink has 50% increased Duration
 - Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

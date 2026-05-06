@@ -1,10 +1,8 @@
-# Mystical Rage
-
-## Effects
+# Effects
 Every Rage also grants 2% increased Spell Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

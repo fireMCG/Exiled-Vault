@@ -1,13 +1,11 @@
-# Ice Cave
-
-## Description
+# Flavour Text
 These caves offer scant protection from the elements.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

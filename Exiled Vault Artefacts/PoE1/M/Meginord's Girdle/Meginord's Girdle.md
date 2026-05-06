@@ -1,12 +1,10 @@
-# Meginord's Girdle
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Meginord's Girdle.png]]
 
-## Description
+# Flavour Text
 Kaom's strength was rivaled only by
 the great Meginord of the north.
 
-## Details
+# Details
 - Requires Level 8
 - +(25-35) to Strength
 - +25 to Strength
@@ -15,9 +13,9 @@ the great Meginord of the north.
 - +(10-20)% to Cold Resistance
 - 25% increased Flask Life Recovery rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

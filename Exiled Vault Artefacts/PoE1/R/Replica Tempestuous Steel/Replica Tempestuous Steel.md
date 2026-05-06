@@ -1,12 +1,10 @@
-# Replica Tempestuous Steel
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Tempestuous Steel.png]]
 
-## Description
+# Flavour Text
 "Test subjects were unable to strike even a motionless target.
 However, when a trained guard tried it..."
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (21-24) to (45-50)
 - Critical Strike Chance: 5.00%
@@ -22,9 +20,9 @@ However, when a trained guard tried it..."
 - Gain 15% of Physical Attack Damage as Extra Fire Damage
 - Gain 15% of Physical Attack Damage as Extra Lightning Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

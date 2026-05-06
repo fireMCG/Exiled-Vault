@@ -1,12 +1,10 @@
-# Jaws of Agony
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Jaws of Agony.png]]
 
-## Description
+# Flavour Text
 One wrong step triggers destruction.
 Agony slowly dominates the will to live.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Evasion: (242-278)
 - Energy Shield: (49-57)
@@ -20,9 +18,9 @@ Agony slowly dominates the will to live.
 - -(18-14) Physical Damage taken from Attack Hits
 - 25% chance to gain a Power Charge when you Throw a Trap
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

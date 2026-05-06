@@ -1,11 +1,9 @@
-# Augury
-
-## Description
+# Flavour Text
 They watched the birds to foretell what any fool could see.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

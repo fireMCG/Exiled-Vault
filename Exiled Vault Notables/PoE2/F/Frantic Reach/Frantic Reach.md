@@ -1,11 +1,9 @@
-# Frantic Reach
-
-## Effects
+# Effects
 20% reduced Accuracy Rating
 18% increased Area of Effect for Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

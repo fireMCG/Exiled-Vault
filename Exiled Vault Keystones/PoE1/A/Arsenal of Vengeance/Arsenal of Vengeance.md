@@ -1,16 +1,14 @@
-# Arsenal of Vengeance
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Arsenal of Vengeance.webp]]
 
-## Description
+# Flavour Text
 Never start the war... but be sure to end it.
 
-## Effects
+# Effects
 Damaging Retaliation Skills become Usable every sixth Hit from Enemies instead
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE1

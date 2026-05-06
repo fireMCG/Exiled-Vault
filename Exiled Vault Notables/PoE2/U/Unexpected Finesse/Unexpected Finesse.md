@@ -1,11 +1,9 @@
-# Unexpected Finesse
-
-## Effects
+# Effects
 10% increased Attack Damage
 30% increased Accuracy Rating while moving
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

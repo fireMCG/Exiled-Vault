@@ -1,13 +1,11 @@
-# Dance of the Offered
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Dance of the Offered.png]]
 
-## Description
+# Flavour Text
 Facing their death,
 the mind of a sacrifice
 retreats into instinct and madness.
 
-## Details
+# Details
 - Evasion: (99-117)
 - Energy Shield: (20-24)
 - Requires Level 55, 52 Dex, 52 Int
@@ -17,9 +15,9 @@ retreats into instinct and madness.
 - You have Onslaught while not on Low Mana
 - The Agnostic
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

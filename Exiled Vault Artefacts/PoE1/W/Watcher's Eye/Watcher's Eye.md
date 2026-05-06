@@ -1,13 +1,11 @@
-# Watcher's Eye
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Watcher's Eye.png]]
 
-## Description
+# Flavour Text
 One by one, they stood their ground against a creature
 they had no hope of understanding, let alone defeating,
 and one by one, they became a part of it.
 
-## Details
+# Details
 - Limited to: 1
 - (4-6)% increased maximum Energy Shield
 - (4-6)% increased maximum Life
@@ -17,9 +15,9 @@ and one by one, they became a part of it.
 - affected by Purity of LightningImmune to Shock while affected by Purity of Lightning(6-10)% of Physical Damage from Hits taken as Lightning Damage while affected by Purity of LightningUnaffected by Conductivity while affected by Purity of LightningUnaffected by Shocked Ground while affected by Purity of Lightning(0.8-1.2)% of Damage leeched as Life while affected by VitalityGain (20-30) Life per Enemy Hit while affected by Vitality(50-70)% increased Life Recovery from Flasks while affected by Vitality(10-15)% increased Life Recovery Rate while affected by VitalityRegenerate (1.00-1.50)% of Life per second while affected by Vitality(70-100)% increased Critical Strike Chance while affected by Wrath(40-60)% increased Lightning Damage while affected by Wrath(1-1.5)% of Lightning Damage is Leeched as Energy Shield while affected by WrathDamage Penetrates (10-15)% Lightning Resistance while affected by WrathGain (15-25)% of Physical Damage as Extra Lightning Damage while affected by Wrath(25-40)% of Physical Damage Converted to Lightning Damage while affected by Wrath(10-15)% increased Cast Speed while affected by ZealotryEffects of Consecrated Ground you create while affected by Zealotry Linger for 2 secondsConsecrated Ground you create while affected by Zealotry causes enemies to take (8-10)% increased Damage(100-120)% increased Critical Strike Chance against Enemies on Consecrated Ground while affected by ZealotryCritical Strikes Penetrate (8-10)% of Enemy Elemental Resistances while affected by ZealotryGain Arcane Surge for 4 seconds when you create Consecrated Ground while affected by Zealotry30% increased Maximum total Energy Shield Recovery per second from Leech while affected by Zealotry
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

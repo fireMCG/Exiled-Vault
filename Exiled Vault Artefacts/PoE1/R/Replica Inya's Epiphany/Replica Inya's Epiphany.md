@@ -1,13 +1,11 @@
-# Replica Inya's Epiphany
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Inya's Epiphany.png]]
 
-## Description
+# Flavour Text
 "Prototype #56 was deemed safe, but judging by Administrator Qotra's new hustle
 and improved ability to micromanage us, I'm not so sure."
 - Researcher Graven
 
-## Details
+# Details
 - Energy Shield: (47-55)
 - Requires Level 61, 119 Int
 - +(50-70) to maximum Life
@@ -16,9 +14,9 @@ and improved ability to micromanage us, I'm not so sure."
 - 5% increased Damage per Power Charge
 - 5% increased Movement Speed per Power Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Graven
 #Character/Qotra

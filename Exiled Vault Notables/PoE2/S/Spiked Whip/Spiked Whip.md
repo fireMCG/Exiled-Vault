@@ -1,10 +1,8 @@
-# Spiked Whip
-
-## Effects
+# Effects
 25% increased Damage with Flails
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

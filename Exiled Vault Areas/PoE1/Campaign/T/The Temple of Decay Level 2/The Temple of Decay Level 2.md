@@ -1,15 +1,13 @@
-# The Temple of Decay Level 2
-
-## Description
+# Flavour Text
 Arachnoid servants dribble and drool, coveting pilgrim flesh to feed abhorrent desires.
 
-## Connected Areas
+# Connected Areas
 - The Temple of Decay Level 1
 - The Sarn Ramparts
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

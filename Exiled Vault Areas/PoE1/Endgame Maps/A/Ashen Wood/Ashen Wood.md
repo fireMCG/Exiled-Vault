@@ -1,6 +1,4 @@
-# Ashen Wood
-
-## Description
+# Flavour Text
 Desperately reaching skyward
 
 and digging downwards.
@@ -9,10 +7,10 @@ Sustenance is an
 
 eternal struggle.
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #EndgameMap
 #PoE1
-#Interesting

@@ -1,13 +1,11 @@
-# Crystal Vault
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Crystal Vault.png]]
 
-## Description
+# Flavour Text
 Beneath the frozen eye of Lunaris
 a new world will be born.
 A crystalline, perfectly still utopia.
 
-## Details
+# Details
 - Armour: (518-644)
 - Energy Shield: (108-135)
 - Movement Speed: -5%
@@ -21,9 +19,9 @@ A crystalline, perfectly still utopia.
 - 30% of Fire Damage from Hits taken as Cold Damage
 - (15-20)% increased Effect of Cold Ailments
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

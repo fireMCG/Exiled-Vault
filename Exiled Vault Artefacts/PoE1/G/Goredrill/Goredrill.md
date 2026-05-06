@@ -1,14 +1,12 @@
-# Goredrill
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Goredrill.png]]
 
-## Description
+# Flavour Text
 A tap on the shoulder
 A peck on the cheek
 A sip of your wine
 So red and so sleek
 
-## Details
+# Details
 - Dagger
 - Physical Damage: (7.5-10.2) to (30-37.4)
 - Critical Strike Chance: 10.40%
@@ -23,9 +21,9 @@ So red and so sleek
 - 40% increased Attack Damage against Bleeding Enemies
 - 50% chance to cause Bleeding on Critical Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

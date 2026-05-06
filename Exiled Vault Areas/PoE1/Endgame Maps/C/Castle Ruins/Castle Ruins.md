@@ -1,13 +1,11 @@
-# Castle Ruins
-
-## Description
+# Flavour Text
 When the castle falls,
 
 it has failed its only purpose.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

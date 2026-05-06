@@ -1,14 +1,12 @@
-# Divination Distillate
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Divination Distillate.png]]
 
-## Description
+# Flavour Text
 Knowledge is fermented in pain and loss
 Distilled with reflection
 To quench the thirst of those
 who dream of enlightenment
 
-## Details
+# Details
 - Recovers 140 Mana over 5.00 Seconds
 - Recovers 510 Life over 5.00 Seconds
 - Consumes 20 of 40 Charges on use
@@ -18,9 +16,9 @@ who dream of enlightenment
 - +10% to Elemental Resistances during Effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

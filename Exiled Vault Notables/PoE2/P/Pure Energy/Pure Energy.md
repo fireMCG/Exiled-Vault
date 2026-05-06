@@ -1,11 +1,9 @@
-# Pure Energy
-
-## Effects
+# Effects
 30% increased maximum Energy Shield
 +10 to Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

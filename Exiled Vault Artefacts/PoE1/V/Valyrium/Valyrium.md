@@ -1,11 +1,9 @@
-# Valyrium
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Valyrium.png]]
 
-## Description
+# Flavour Text
 They will rise and fall in fire and blood.
 
-## Details
+# Details
 - Requires Level 38
 - +(15-25) to maximum Energy Shield
 - +(30-40) to maximum Energy Shield
@@ -13,9 +11,9 @@ They will rise and fall in fire and blood.
 - -40% to Cold Resistance
 - Stun Threshold is based on Energy Shield instead of Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

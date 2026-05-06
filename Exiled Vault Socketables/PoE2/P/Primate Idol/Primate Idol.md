@@ -1,20 +1,18 @@
-# Primate Idol
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Primate Idol.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 
-## Effects
+# Effects
 - Helmets: Minions have 12% increased maximum Life
 - Sceptres: Allies in your Presence deal 30% increased Damage
 
-## Bonded Effects
+# Bonded Effects
 - Helmets: Remnants can be collected from 20% further away
 - Sceptres: 40% increased Damage while Shapeshifted
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

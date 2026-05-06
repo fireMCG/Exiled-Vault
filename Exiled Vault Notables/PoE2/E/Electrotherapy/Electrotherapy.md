@@ -1,11 +1,9 @@
-# Electrotherapy
-
-## Effects
+# Effects
 5% increased Skill Speed
 30% increased Electrocute Buildup
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

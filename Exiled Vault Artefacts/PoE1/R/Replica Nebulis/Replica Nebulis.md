@@ -1,12 +1,10 @@
-# Replica Nebulis
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Nebulis.png]]
 
-## Description
+# Flavour Text
 "We could rival the gods with this power, if only we had the mitigating mechanisms
 to make it work. A jewel, a talisman, an armour... or the Font..."
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 50-76
 - Critical Strike Chance: 7.30%
@@ -19,9 +17,9 @@ to make it work. A jewel, a talisman, an armour... or the Font..."
 - (10-15)% increased Elemental Damage per 1% Missing
 - Fire, Cold, or Lightning Resistance, up to a maximum of 450%
 
-##
+#
 ---
-## Tags
+# Tags
 #Attributes/Important
 #Category/Artefact
 #Artefact

@@ -1,11 +1,9 @@
-# Mokou's Embrace
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mokou's Embrace.png]]
 
-## Description
+# Flavour Text
 Fire makes the perfect blossom in the endless night.
 
-## Details
+# Details
 - Requires Level 16
 - +(20-30)% to Fire Resistance
 - +(25-40)% to Cold Resistance
@@ -14,9 +12,9 @@ Fire makes the perfect blossom in the endless night.
 - +25% chance to be Ignited
 - All Damage Taken from Hits can Ignite you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

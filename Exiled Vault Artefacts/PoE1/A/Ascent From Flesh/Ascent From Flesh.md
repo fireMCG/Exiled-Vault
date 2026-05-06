@@ -1,13 +1,11 @@
-# Ascent From Flesh
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ascent From Flesh.png]]
 
-## Description
+# Flavour Text
 A single step forward
 Snap free from the prison
 Reborn into freedom eternal
 
-## Details
+# Details
 - Requires Level 44
 - +(9-20) to maximum Energy Shield
 - +300 to Evasion Rating
@@ -17,9 +15,9 @@ Reborn into freedom eternal
 - 30% increased Evasion Rating while Phasing
 - 10% increased Movement Speed while Phasing
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Time/Cycle
 #Concept/Time/Eternity

@@ -1,10 +1,8 @@
-# Precise Volatility
-
-## Effects
+# Effects
 Volatile Power also grants 1% increased Critical Hit chance per Volatility exploded
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

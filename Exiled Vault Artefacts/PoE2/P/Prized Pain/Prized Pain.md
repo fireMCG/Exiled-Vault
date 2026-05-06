@@ -1,11 +1,9 @@
-# Prized Pain
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Prized Pain.png]]
 
-## Description
+# Flavour Text
 Agony brings clarity to those of pure mind.
 
-## Details
+# Details
 - Requires Level 48
 - Adds 1 to 4 Physical Damage to Attacks
 - +(20-30) to Strength
@@ -13,9 +11,9 @@ Agony brings clarity to those of pure mind.
 - Deal your Thorns Damage to Enemies you Stun with Melee Attacks
 - (24-35) to (35-53) Physical Thorns damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

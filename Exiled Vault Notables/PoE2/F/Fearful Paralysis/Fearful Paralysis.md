@@ -1,10 +1,8 @@
-# Fearful Paralysis
-
-## Effects
+# Effects
 Enemies are Intimidated for 4 seconds when you Immobilise them
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

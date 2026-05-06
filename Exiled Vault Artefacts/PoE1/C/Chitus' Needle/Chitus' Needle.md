@@ -1,13 +1,11 @@
-# Chitus' Needle
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Chitus' Needle.png]]
 
-## Description
+# Flavour Text
 "With this, I will weave the threads of fate
 into a noose for our 'glorious' emperor."
 - Chitus Perandus
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (43.2-46.8) to (79.2-85.8)
 - Critical Strike Chance: 5.50%
@@ -22,9 +20,9 @@ into a noose for our 'glorious' emperor."
 - 30% increased Elemental Damage
 - +0.2 metres to Weapon Range
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

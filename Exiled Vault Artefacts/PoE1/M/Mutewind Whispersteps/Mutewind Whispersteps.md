@@ -1,13 +1,11 @@
-# Mutewind Whispersteps
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mutewind Whispersteps.png]]
 
-## Description
+# Flavour Text
 Corruption sweeps across this land,
 but our bloodline is clear.
 It is our duty to keep it so.
 
-## Details
+# Details
 - Armour: (76-90)
 - Evasion: (152-225)
 - Requires Level 42, 40 Str, 40 Dex
@@ -18,9 +16,9 @@ It is our duty to keep it so.
 - 25% increased Movement Speed
 - Unaffected by Chilled Ground
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

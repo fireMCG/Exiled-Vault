@@ -1,15 +1,13 @@
-# The Refinery
-
-## Description
+# Flavour Text
 Madness was visited upon those who dug too deep.
 
-## Connected Areas
+# Connected Areas
 - The Quarry
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

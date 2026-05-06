@@ -1,10 +1,8 @@
-# Glancing Deflection
-
-## Effects
+# Effects
 10% increased Deflection Rating
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

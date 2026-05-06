@@ -1,17 +1,15 @@
-# Alone in the Darkness
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Alone in the Darkness.png]]
 
-## Description
+# Flavour Text
 "Sometimes, the most beautiful treasures...are the ones you cannot have." 
 - Beryl, Survivor from the Azurite Mines
 
-## Reward
+# Reward
 Delve Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

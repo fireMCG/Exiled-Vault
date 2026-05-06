@@ -1,12 +1,10 @@
-# Essentia Sanguis
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Essentia Sanguis.png]]
 
-## Description
+# Flavour Text
 The darkest clouds clashed and coupled,
 giving birth to four lightning children of hate.
 
-## Details
+# Details
 - Evasion: (75-85)
 - Energy Shield: (28-32)
 - Requires Level 52, 36 Dex, 36 Int
@@ -16,9 +14,9 @@ giving birth to four lightning children of hate.
 - +(25-35)% to Lightning Resistance
 - Life Leech is Converted to Energy Shield Leech
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

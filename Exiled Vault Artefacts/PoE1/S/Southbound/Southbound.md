@@ -1,12 +1,10 @@
-# Southbound
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Southbound.png]]
 
-## Description
+# Flavour Text
 Far south, the winter crawls under the skin.
 Below the snow, adrift wanderers sleep.
 
-## Details
+# Details
 - Armour: (92-103)
 - Energy Shield: (19-21)
 - Requires Level 51, 40 Str, 40 Int
@@ -16,9 +14,9 @@ Below the snow, adrift wanderers sleep.
 - 100% increased Freeze Duration on Enemies
 - Your Hits can only Kill Frozen Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

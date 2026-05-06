@@ -1,13 +1,11 @@
-# Seepage
-
-## Description
+# Flavour Text
 The fetid home of foul generations.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

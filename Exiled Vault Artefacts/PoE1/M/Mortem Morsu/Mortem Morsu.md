@@ -1,13 +1,11 @@
-# Mortem Morsu
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mortem Morsu.png]]
 
-## Description
+# Flavour Text
 Fear blisters the heart and thins the blood.
 Fear squeezes lungs and sets the guts to fester.
 Fear is the wound left untended.
 
-## Details
+# Details
 - Claw
 - Physical Damage: (21-24) to (80.5-92)
 - Critical Strike Chance: 9.38%
@@ -23,9 +21,9 @@ Fear is the wound left untended.
 - 25% reduced Enemy Stun Threshold with this Weapon
 - 60% chance to Poison on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

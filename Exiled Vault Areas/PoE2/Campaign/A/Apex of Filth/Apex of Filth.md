@@ -1,14 +1,12 @@
-# Apex of Filth
-
-## Description
+# Flavour Text
 An ascent into squalor and madness.
 
-## Connected Areas
+# Connected Areas
 - The Drowned City
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

@@ -1,14 +1,12 @@
-# Murkshaft
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Murkshaft.png]]
 
-## Description
+# Flavour Text
 "Boiling frogs isn't for spells, dear.
 That's a disgusting rumour.
 They're actually for brewing poisons."
 - Selassie of the Black Fen
 
-## Details
+# Details
 - Requires Level 39
 - Grants Skill: Level (10-20) Bursting Fen Toad
 - (20-30)% chance to Poison on Hit with Attacks
@@ -19,9 +17,9 @@ They're actually for brewing poisons."
 - Blind Targets when you Poison them
 - Can only be equipped if you are wielding a Bow.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

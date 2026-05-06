@@ -1,14 +1,12 @@
-# Waveshaper
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Waveshaper.png]]
 
-## Description
+# Flavour Text
 "Move in ways your enemy does not expect.
 Confuse them with elegance and grace.
 They'll never see the axe coming."
 - Rakiata, Chieftain of the Tasalio Tribe
 
-## Details
+# Details
 - Armour: 165
 - Energy Shield: (158-258)
 - Movement Speed: -4.0%
@@ -21,9 +19,9 @@ They'll never see the axe coming."
 - apply to Energy Shield Recharge Rate
 - Gain (30-50)% of Maximum Mana as Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Rakiata
 #Society/Karui/Tribe/Tasalio

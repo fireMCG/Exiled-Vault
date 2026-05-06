@@ -1,11 +1,9 @@
-# Utility Ordnance
-
-## Effects
+# Effects
 40% increased Cooldown Recovery Rate for Grenade Skills
 80% reduced Grenade Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

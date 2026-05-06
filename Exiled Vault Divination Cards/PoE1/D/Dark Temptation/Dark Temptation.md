@@ -1,17 +1,15 @@
-# Dark Temptation
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Dark Temptation.png]]
 
-## Description
+# Flavour Text
 "Only a fool looks to the occult for power and expects to be spared from its wrath." 
 - Voll, Emperor of Purity
 
-## Reward
+# Reward
 Obliteration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Emotion/Wrath
 #Character/Emperor/VollOfThebrus

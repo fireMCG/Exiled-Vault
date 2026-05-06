@@ -1,18 +1,16 @@
-# A Note in the Wind
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - A Note in the Wind.png]]
 
-## Description
+# Flavour Text
 The artist is long dead,
 the lyrics are long forgotten,
 yet the Song of War longs to be sung again
 
-## Reward
+# Reward
 Asenath's Mark
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

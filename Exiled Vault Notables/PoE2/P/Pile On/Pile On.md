@@ -1,10 +1,8 @@
-# Pile On
-
-## Effects
+# Effects
 30% increased effect of Fully Broken Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,17 +1,15 @@
-# The Ezomyte Megaliths
-
-## Description
+# Flavour Text
 {"Sons from foreign shores}
 {Took refuge from the storm}
 {Bringing knowledge of runes}
 {Our fate was carved soon."}
 - Ezomyte Folklore
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

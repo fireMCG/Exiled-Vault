@@ -1,11 +1,9 @@
-# Bleeding Out
-
-## Effects
+# Effects
 +250 to Accuracy against Bleeding Enemies
 Bleeding you inflict deals Damage 10% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# Replica Twyzel
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Twyzel.png]]
 
-## Description
+# Flavour Text
 "Energy redirected is energy imbalanced.
 Prototype #78 serves as a prime example."
 
-## Details
+# Details
 - Wand
 - Physical Damage: (44.1-56.7) to (81.9-105.3)
 - Critical Strike Chance: (10.20-11.90)%
@@ -18,9 +16,9 @@ Prototype #78 serves as a prime example."
 - (20-40)% increased Critical Strike Chance
 - Attacks fire an additional Projectile
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

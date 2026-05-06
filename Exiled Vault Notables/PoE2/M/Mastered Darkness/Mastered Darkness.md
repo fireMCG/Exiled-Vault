@@ -1,12 +1,10 @@
-# Mastered Darkness
-
-## Effects
+# Effects
 Demonflame has no maximum
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Infernalist
 #Witch
+#Notable
 #PoE2

@@ -1,14 +1,12 @@
-# Legacy of the Rose
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Legacy of the Rose.png]]
 
-## Description
+# Flavour Text
 We shared a memory of your mother,
 a memory of roses, of autumn.
 One day, I will be but a memory as well,
 but I will never leave your side.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: (219-292) to (408-544)
 - Critical Strike Chance: 8.00%
@@ -26,9 +24,9 @@ but I will never leave your side.
 - Maximum 10 Remembrance
 - Eldritch Battery
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

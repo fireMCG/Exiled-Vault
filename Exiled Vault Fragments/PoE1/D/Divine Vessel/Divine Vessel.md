@@ -1,13 +1,11 @@
-# Divine Vessel
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Divine Vessel.webp]]
 
-## Description
+# Flavour Text
 Power is a curious thing.
 It can be contained, hidden, locked away,
 and yet it always breaks free.
 
-## Details
+# Details
 Map Fragments
 Unique Boss deals 10% increased Damage
 
@@ -18,9 +16,9 @@ Unique Boss has 10% increased Life
 Unique Boss has 20% increased Area of Effect
 Can be used in a personal Map Device, allowing you to capture the Soul of the Map's Boss. The Vessel containing the captured Soul can be retrieved from the Map Device. You must be in the Map when the boss is defeated.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Fragment
 #Fragment
 #PoE1

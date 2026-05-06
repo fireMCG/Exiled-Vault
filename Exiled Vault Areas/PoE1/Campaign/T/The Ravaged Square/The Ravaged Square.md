@@ -1,9 +1,7 @@
-# The Ravaged Square
-
-## Description
+# Flavour Text
 A flourishing place of trade, barely recognizable amidst the countless deaths.
 
-## Connected Areas
+# Connected Areas
 - The Cathedral Rooftop
 - The Torched Courts
 - The Ossuary
@@ -11,9 +9,9 @@ A flourishing place of trade, barely recognizable amidst the countless deaths.
 - The Canals
 - The Control Blocks
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

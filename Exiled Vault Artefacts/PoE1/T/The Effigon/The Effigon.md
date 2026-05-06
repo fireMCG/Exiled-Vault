@@ -1,12 +1,10 @@
-# The Effigon
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Effigon.png]]
 
-## Description
+# Flavour Text
 By light we are shadowed,
 in darkness we are bound.
 
-## Details
+# Details
 - Requires Level 57
 - (12-20)% increased Rarity of Items found
 - +25 to Dexterity
@@ -17,9 +15,9 @@ in darkness we are bound.
 - Your Hits can't be Evaded by Blinded Enemies
 - Damage Penetrates 10% Fire Resistance against Blinded Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

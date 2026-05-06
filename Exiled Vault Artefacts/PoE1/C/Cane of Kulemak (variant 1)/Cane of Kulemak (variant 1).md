@@ -1,11 +1,9 @@
-# Cane of Kulemak (variant 1)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cane of Kulemak (variant 1).png]]
 
-## Description
+# Flavour Text
 Stolen power is still power.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 56-117
 - Critical Strike Chance: 7.80%
@@ -18,9 +16,9 @@ Stolen power is still power.
 - of the Veil (suffix)
 - Veiled (prefix)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

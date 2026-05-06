@@ -1,10 +1,8 @@
-# Molten Claw
-
-## Effects
+# Effects
 Gain 8% of Damage as Extra Fire Damage while Shapeshifted
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

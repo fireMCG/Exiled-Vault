@@ -1,12 +1,10 @@
-# Polaric Devastation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Polaric Devastation.png]]
 
-## Description
+# Flavour Text
 Those that escaped the annihilating light
 sank eternally into crushing darkness.
 
-## Details
+# Details
 - Requires Level 80
 - (15-25)% increased Elemental Damage
 - (15-25)% increased Global Critical Strike Chance
@@ -16,9 +14,9 @@ sank eternally into crushing darkness.
 - Left Ring slot: Cover Enemies in Ash for 5 seconds when you Ignite them
 - Right Ring slot: Cover Enemies in Frost for 5 seconds when you Freeze them
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

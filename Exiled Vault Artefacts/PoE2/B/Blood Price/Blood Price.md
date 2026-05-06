@@ -1,11 +1,9 @@
-# Blood Price
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Blood Price.png]]
 
-## Description
+# Flavour Text
 An eye for an eye makes the whole world dead.
 
-## Details
+# Details
 - Armour: (352-431)
 - Requires Level 51, 73 Str
 - (80-120)% increased Armour
@@ -14,9 +12,9 @@ An eye for an eye makes the whole world dead.
 - (30-60)% increased Presence Area of Effect
 - Enemies in your Presence have at least 10% of Life Reserved
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

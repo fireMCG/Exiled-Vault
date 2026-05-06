@@ -1,13 +1,11 @@
-# Oriath's End
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Oriath's End.png]]
 
-## Description
+# Flavour Text
 Ennui prevailed, until inspiration sparked
 a mote of flame, kindled by fury
 and all in his path were obliterated.
 
-## Details
+# Details
 - Lasts 8.50 Seconds
 - Consumes 15 of 40 Charges on use
 - +35% to all Elemental Resistances
@@ -16,9 +14,9 @@ and all in his path were obliterated.
 - Enemies you Kill during Effect have a (20-30)% chance to Explode, dealing a tenth of their maximum Life as Damage of a Random Element
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Dendrobate
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Dendrobate.png]]
 
-## Description
+# Flavour Text
 Ask any tracker and they'll tell you:
 the most dangerous animals
 are the ones who don't bother to hide.
 
-## Details
+# Details
 - Evasion: (758-925)
 - Energy Shield: (246-290)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ are the ones who don't bother to hide.
 - (75-100)% increased Damage with Poison if you have at least 300 Dexterity
 - (15-25)% increased Poison Duration if you have at least 150 Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

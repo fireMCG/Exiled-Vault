@@ -1,13 +1,11 @@
-# Offering to the Serpent (Fractured)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Offering to the Serpent (Fractured).png]]
 
-## Description
+# Flavour Text
 "You covet the strength of your peers, mortal?
 Perhaps it can be yours, if you are willing to make an offering of their blood..."
 - Vaal Myth of the Third Snake
 
-## Details
+# Details
 - Armour: (257-363)
 - Energy Shield: (52-75)
 - Requires Level 57, 44 Str, 44 Int
@@ -18,9 +16,9 @@ Perhaps it can be yours, if you are willing to make an offering of their blood..
 - (15-25)% increased Damage while Leeching
 - Life Leech effects are not removed when Unreserved Life is Filled
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

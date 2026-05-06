@@ -1,13 +1,11 @@
-# Moonsorrow
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Moonsorrow.png]]
 
-## Description
+# Flavour Text
 Cast into darkness
 And trapped for a thousand years,
 The lonely moon weeps
 
-## Details
+# Details
 - Wand
 - Physical Damage: (101.5-108.75) to (189-202.5)
 - Critical Strike Chance: 8.50%
@@ -22,9 +20,9 @@ The lonely moon weeps
 - 10% increased Cast Speed
 - 10% chance to Blind Enemies on hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

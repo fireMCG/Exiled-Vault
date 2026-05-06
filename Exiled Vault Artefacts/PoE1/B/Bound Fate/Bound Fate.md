@@ -1,13 +1,11 @@
-# Bound Fate
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bound Fate.png]]
 
-## Description
+# Flavour Text
 Knowing what will happen
 and knowing when it will happen
 are two very different things.
 
-## Details
+# Details
 - Requires Level 49
 - (15-25)% increased Stun and Block Recovery
 - +(20-30) to Dexterity
@@ -21,9 +19,9 @@ are two very different things.
 - Your Damage with Hits is Lucky
 - Damage of Hits against you is Lucky
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

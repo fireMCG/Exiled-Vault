@@ -1,12 +1,10 @@
-# The Twilight Temple
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Twilight Temple.png]]
 
-## Description
+# Flavour Text
 In the shadow of war,
 all are eclipsed.
 
-## Details
+# Details
 - Monster Level: 68
 - Item Quantity: +(75-100)%
 - Item Rarity: +(125-175)%
@@ -18,9 +16,9 @@ all are eclipsed.
 - Area is inhabited by Solaris fanatics
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

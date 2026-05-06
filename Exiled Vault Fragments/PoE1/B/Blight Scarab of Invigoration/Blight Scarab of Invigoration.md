@@ -1,11 +1,9 @@
-# Blight Scarab of Invigoration
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Blight Scarab of Invigoration.webp]]
 
-## Description
+# Flavour Text
 Reversing the polarity of the compression modulator seems to have intriguing effects...
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,9 +13,9 @@ range increased Difficulty and Reward
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Blight
 #Category/Scarab
 #Fragment

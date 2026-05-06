@@ -1,13 +1,11 @@
-# Skirmish
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Skirmish.png]]
 
-## Description
+# Flavour Text
 If two great leaders like Lioneye and Kaom
 had been on the same side of the battle,
 nothing would remain unconquered.
 
-## Details
+# Details
 - Requires Level 36
 - (20-30)% increased Global Accuracy Rating
 - +(15-25) to Intelligence
@@ -16,9 +14,9 @@ nothing would remain unconquered.
 - 0.2% of Physical Attack Damage Leeched as Mana
 - Attack Skills have +1 to maximum number of Summoned Totems
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

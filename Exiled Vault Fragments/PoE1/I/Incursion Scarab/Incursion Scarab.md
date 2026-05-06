@@ -1,11 +1,9 @@
-# Incursion Scarab
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Incursion Scarab.webp]]
 
-## Description
+# Flavour Text
 Uncover the secrets of the Vaal one incursion at a time.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,9 +11,9 @@ Area contains Alva
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Incursion
 #Category/Scarab
 #Fragment

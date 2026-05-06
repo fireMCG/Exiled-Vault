@@ -1,22 +1,20 @@
-# Fenumus' Rune of Agony
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Fenumus' Rune of Agony.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Martial Weapon: Gain 13% of Damage as Extra Chaos Damage
 - Wand or Staff: Gain 13% of Damage as Extra Chaos Damage
 
-## Bonded Effects
+# Bonded Effects
 - Martial Weapon: Gain 8% of Damage as Extra Physical Damage
 - Wand or Staff: Gain 8% of Damage as Extra Physical Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

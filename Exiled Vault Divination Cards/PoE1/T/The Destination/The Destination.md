@@ -1,18 +1,16 @@
-# The Destination
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Destination.png]]
 
-## Description
+# Flavour Text
 You may be nothing to everybody, but you are everything to somebody.
 
-## Reward
+# Reward
 Watcher's Eye
 Two-Implicit
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Animal/Canidae/Dog
 #Concept/Body/Eye

@@ -1,13 +1,11 @@
-# Predatory Instinct
-
-## Effects
+# Effects
 Reveal Weaknesses against Rare and Unique enemies
 50% more damage against enemies with an Open Weakness
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Amazon
 #Huntress
+#Notable
 #PoE2

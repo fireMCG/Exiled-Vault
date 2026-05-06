@@ -1,10 +1,8 @@
-# Reverberation
-
-## Effects
+# Effects
 Spell Skills have 15% increased Area of Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

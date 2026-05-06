@@ -1,15 +1,13 @@
-# The Bridge Encampment
-
-## Description
+# Flavour Text
 Surviving rodents cling tight to cracks found in the masonry.
 
-## Connected Areas
+# Connected Areas
 - The Brine King's Reef
 - The Broken Bridge
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

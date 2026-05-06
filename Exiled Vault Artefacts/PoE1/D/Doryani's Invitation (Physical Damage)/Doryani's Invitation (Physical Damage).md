@@ -1,13 +1,11 @@
-# Doryani's Invitation (Physical Damage)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Doryani's Invitation (Physical Damage).png]]
 
-## Description
+# Flavour Text
 "You can invite them but you can never be
 sure who will come knocking."
 - Doryani, Queen's Thaumaturgist
 
-## Details
+# Details
 - Requires Level 68
 - +(25-35) to Strength
 - (20-30)% increased Global Physical Damage
@@ -17,9 +15,9 @@ sure who will come knocking."
 - 0.6% of Physical Damage Leeched as Life
 - 25% reduced Enemy Stun Threshold during any Flask Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

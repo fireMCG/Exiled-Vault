@@ -1,14 +1,12 @@
-# The Crypt Level 2
-
-## Description
+# Flavour Text
 Stones worn smooth by centuries of devotion.
 
-## Connected Areas
+# Connected Areas
 - The Crypt Level 1
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

@@ -1,11 +1,9 @@
-# Sturdy Ally
-
-## Effects
+# Effects
 Companions gain your Strength
 +15 to Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

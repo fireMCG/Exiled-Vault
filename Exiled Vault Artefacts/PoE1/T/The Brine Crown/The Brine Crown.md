@@ -1,13 +1,11 @@
-# The Brine Crown
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Brine Crown.png]]
 
-## Description
+# Flavour Text
 Greatest is the Brine King's domain,
 and every day it grows a little greater,
 not through force, but patience.
 
-## Details
+# Details
 - Armour: (761-1032)
 - Energy Shield: (108-148)
 - Requires Level 63, 85 Str, 62 Int
@@ -18,9 +16,9 @@ not through force, but patience.
 - +1500 Armour while stationary
 - 15% chance to create Chilled Ground when Hit with an Attack
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

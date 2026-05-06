@@ -1,10 +1,8 @@
-# Open Mind
-
-## Effects
+# Effects
 25% increased Mana Regeneration Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

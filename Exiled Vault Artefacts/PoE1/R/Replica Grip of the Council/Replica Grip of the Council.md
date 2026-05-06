@@ -1,13 +1,11 @@
-# Replica Grip of the Council
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Grip of the Council.png]]
 
-## Description
+# Flavour Text
 "I feel altered when Administrator Qotra wears these gloves.
 Somehow, I find that disturbing."
 - Researcher Arn
 
-## Details
+# Details
 - Energy Shield: (45-52)
 - Requires Level 60, 95 Int
 - +30 to Strength
@@ -17,9 +15,9 @@ Somehow, I find that disturbing."
 - Minions have +40% to Fire Resistance
 - Minions gain 20% of Physical Damage as Extra Fire Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Arn
 #Character/Qotra

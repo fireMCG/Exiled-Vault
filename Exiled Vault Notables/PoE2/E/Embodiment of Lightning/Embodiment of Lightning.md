@@ -1,10 +1,8 @@
-# Embodiment of Lightning
-
-## Effects
+# Effects
 Immune to Shock while affected by an Archon Buff
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

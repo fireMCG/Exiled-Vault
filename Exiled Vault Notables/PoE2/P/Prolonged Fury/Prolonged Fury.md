@@ -1,10 +1,8 @@
-# Prolonged Fury
-
-## Effects
+# Effects
 Inherent loss of Rage is 25% slower
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

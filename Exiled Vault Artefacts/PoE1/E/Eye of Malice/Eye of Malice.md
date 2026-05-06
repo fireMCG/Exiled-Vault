@@ -1,11 +1,9 @@
-# Eye of Malice
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Eye of Malice.png]]
 
-## Description
+# Flavour Text
 Through vision coloured by burning rage and icy hate peers a visitor from a realm of ill intent...
 
-## Details
+# Details
 - Evasion: (610-822)
 - Energy Shield: (125-168)
 - Requires Level 45, 51 Dex, 51 Int
@@ -18,9 +16,9 @@ Through vision coloured by burning rage and icy hate peers a visitor from a real
 - (Cold Exposure applies -10% to Cold Resistance for 4 seconds)
 - (Fire Exposure applies -10% to Fire Resistance for 4 seconds)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Vestige of Divinity
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Vestige of Divinity.png]]
 
-## Description
+# Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
-## Details
+# Details
 - Staff
 - Physical Damage: 11-23
 - Critical Strike Chance: 7.50%
@@ -19,9 +17,9 @@ So goes the descent.
 - Reflects 8 to 14 Physical Damage to Attackers on Block
 - +0.2 metres to Weapon Range
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

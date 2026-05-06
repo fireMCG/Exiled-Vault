@@ -1,11 +1,9 @@
-# Horns of Bynden
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Horns of Bynden.png]]
 
-## Description
+# Flavour Text
 The Younger Brother waded into Battle, shrugging off Blows.
 
-## Details
+# Details
 - Armour: 49
 - +20 to Armour
 - (5-15)% increased Rarity of Items found
@@ -13,9 +11,9 @@ The Younger Brother waded into Battle, shrugging off Blows.
 - Gain 1 Rage on Melee Hit
 - Every Rage also grants 1% increased Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

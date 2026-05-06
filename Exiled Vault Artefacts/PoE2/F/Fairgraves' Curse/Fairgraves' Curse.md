@@ -1,12 +1,10 @@
-# Fairgraves' Curse
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Fairgraves' Curse.png]]
 
-## Description
+# Flavour Text
 The power of the Allflame rends
 souls just as easily as flesh.
 
-## Details
+# Details
 - Bow
 - Physical Damage: 39-72
 - Elemental Damage: (76-98) to (126-193)
@@ -22,9 +20,9 @@ souls just as easily as flesh.
 - -30 Physical Damage taken from Hits
 - Attack Hits inflict Spectral Fire for 8 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Wheel of the Stormsail
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Wheel of the Stormsail.png]]
 
-## Description
+# Flavour Text
 Doomed to plunder forever.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Armour: (33-58)
 - Evasion: (33-58)
@@ -18,9 +16,9 @@ Doomed to plunder forever.
 - +(50-75)% to Lightning Resistance
 - 100% increased Duration of Curses on you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Death's Oath
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Death's Oath.png]]
 
-## Description
+# Flavour Text
 Tears of blood, aching heart,
 My dear Isildria must depart.
 
-## Details
+# Details
 - Armour: (1990-2502)
 - Movement Speed: -5%
 - Requires Level 62, 180 Str
@@ -20,9 +18,9 @@ My dear Isildria must depart.
 - You take 450 Chaos Damage per second for 3 seconds on Kill
 - Gore Footprints
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

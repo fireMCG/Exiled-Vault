@@ -1,11 +1,9 @@
-# Maiming Strike
-
-## Effects
+# Effects
 25% increased Attack Damage
 Attacks have 25% chance to Maim on Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

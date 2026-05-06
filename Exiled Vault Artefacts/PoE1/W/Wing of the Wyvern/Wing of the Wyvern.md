@@ -1,14 +1,12 @@
-# Wing of the Wyvern
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Wing of the Wyvern.png]]
 
-## Description
+# Flavour Text
 Fear flies by night,
 a bone, cold as death,
 all that remains
 of hope's whisper.
 
-## Details
+# Details
 - Bow
 - Physical Damage: 29-117
 - Elemental Damage: (164-204) to (250-300)
@@ -25,9 +23,9 @@ of hope's whisper.
 - Your Chaos Damage can Freeze
 - Battlemage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

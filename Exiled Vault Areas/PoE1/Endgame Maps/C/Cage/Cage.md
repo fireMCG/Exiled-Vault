@@ -1,13 +1,11 @@
-# Cage
-
-## Description
+# Flavour Text
 Treat a man like a wild animal,
 
 and he will soon learn to bite.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

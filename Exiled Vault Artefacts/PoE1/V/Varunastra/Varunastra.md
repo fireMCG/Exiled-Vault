@@ -1,13 +1,11 @@
-# Varunastra
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Varunastra.png]]
 
-## Description
+# Flavour Text
 "Painful suicide in the hands of a fool,
 Creative death in the hands of a master."
 - Icius Perandus, Antiquities Collection, Item 2992
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (136.8-182) to (298.8-372)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ Creative death in the hands of a master."
 - Grants (2-3) Mana per Enemy Hit
 - Counts as all One Handed Melee Weapon Types
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

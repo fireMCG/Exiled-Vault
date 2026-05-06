@@ -1,12 +1,10 @@
-# Aul's Uprising (Intelligence)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Aul's Uprising (Intelligence).png]]
 
-## Description
+# Flavour Text
 It was not his fearlessness or ferocity, nor his tactical genius,
 it was his leadership that earned Aul, the Last King, his crown.
 
-## Details
+# Details
 - Requires Level 55
 - +(10-16) to all Attributes
 - +(20-30) to Intelligence
@@ -15,9 +13,9 @@ it was his leadership that earned Aul, the Last King, his crown.
 - Hits against Nearby Enemies have 50% increased Critical Strike Chance
 - has no ReservationClarity has no ReservationDiscipline has no ReservationMalevolence has no ReservationPurity of Ice has no ReservationPurity of Lightning has no ReservationPurity of Elements has no ReservationPurity of Lightning has no ReservationWrath has no ReservationZealotry has no Reservation
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Attributes/Timeline
 #Artefact

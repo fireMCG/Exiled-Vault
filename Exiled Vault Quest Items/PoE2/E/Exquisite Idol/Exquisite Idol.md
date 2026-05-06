@@ -1,13 +1,11 @@
-# Exquisite Idol
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Exquisite Idol.png]]
 
-## Description
+# Flavour Text
 Brilliant idols of immense value...
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #Society/VaalEmpire
 #QuestItem

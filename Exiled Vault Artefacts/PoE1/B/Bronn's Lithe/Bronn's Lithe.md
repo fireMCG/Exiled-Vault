@@ -1,12 +1,10 @@
-# Bronn's Lithe
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bronn's Lithe.png]]
 
-## Description
+# Flavour Text
 Forget your kite shield. Just put the biggest man
 in the field between you and the archers.
 
-## Details
+# Details
 - Evasion: (1590-2079)
 - Movement Speed: -3%
 - Requires Level 53, 145 Dex
@@ -16,9 +14,9 @@ in the field between you and the archers.
 - (200-250)% increased Evasion Rating
 - 10% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

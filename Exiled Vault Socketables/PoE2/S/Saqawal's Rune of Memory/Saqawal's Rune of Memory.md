@@ -1,20 +1,18 @@
-# Saqawal's Rune of Memory
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Saqawal's Rune of Memory.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Helmets: 2% increased Experience gain
 
-## Bonded Effects
+# Bonded Effects
 - Helmets: +10% to all Elemental Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

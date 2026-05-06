@@ -1,13 +1,11 @@
-# Cowards' Wail
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cowards' Wail.png]]
 
-## Description
+# Flavour Text
 "A tale-woman passed through here not long ago.
 Taught us a thing or two. We're not going to execute
 you for what you've done... no. You've a debt to repay."
 
-## Details
+# Details
 - Chance to Block: (29-34)%
 - Armour: (906-1611)
 - Movement Speed: -3%
@@ -20,9 +18,9 @@ you for what you've done... no. You've a debt to repay."
 - Maximum (3-5) Spectral Totems
 - Unwavering Stance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

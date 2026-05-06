@@ -1,11 +1,9 @@
-# Flashy Parrying
-
-## Effects
+# Effects
 12% increased Block chance
 20% increased Parried Debuff Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

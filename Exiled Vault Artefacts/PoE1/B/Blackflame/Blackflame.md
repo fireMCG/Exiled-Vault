@@ -1,12 +1,10 @@
-# Blackflame
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Blackflame.png]]
 
-## Description
+# Flavour Text
 Beyond the veil of death, there burns a fire
 by whose light night is borne.
 
-## Details
+# Details
 - Requires Level 49
 - +(17-23)% to Chaos Resistance
 - +(8-12)% to Fire Damage over Time Multiplier
@@ -16,9 +14,9 @@ by whose light night is borne.
 - Withered does not expire on Enemies Ignited by you
 - +(20-25)% to Fire and Chaos Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Death
 #Concept/Element/Fire

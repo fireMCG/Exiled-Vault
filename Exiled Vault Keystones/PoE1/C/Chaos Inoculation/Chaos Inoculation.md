@@ -1,16 +1,14 @@
-# Chaos Inoculation
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Chaos Inoculation.webp]]
 
-## Description
+# Flavour Text
 Give up everything in pursuit of greatness - even life itself.
 
-## Effects
+# Effects
 Maximum Life becomes 1, Immune to Chaos Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE1

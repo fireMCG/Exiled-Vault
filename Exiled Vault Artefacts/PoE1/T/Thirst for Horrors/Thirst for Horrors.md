@@ -1,11 +1,9 @@
-# Thirst for Horrors
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Thirst for Horrors.png]]
 
-## Description
+# Flavour Text
 What goes out must come in.
 
-## Details
+# Details
 - Chance to Block: 31%
 - Evasion: (219-291)
 - Energy Shield: (50-70)
@@ -21,9 +19,9 @@ What goes out must come in.
 - 1% of Damage Leeched as Life against Cursed Enemies
 - Curse Skills have 100% increased Skill Effect Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

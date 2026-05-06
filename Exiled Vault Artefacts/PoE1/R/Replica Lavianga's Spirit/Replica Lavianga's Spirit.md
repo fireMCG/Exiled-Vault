@@ -1,11 +1,9 @@
-# Replica Lavianga's Spirit
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Lavianga's Spirit.png]]
 
-## Description
+# Flavour Text
 "An intriguing paradox."
 
-## Details
+# Details
 - Recovers (1430-1650) Mana over 13.00 Seconds
 - Consumes 7 of 35 Charges on use
 - Requires Level 50
@@ -16,9 +14,9 @@
 - 10% increased Mana Cost of Skills during Effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Anvil's Weight
-
-## Effects
+# Effects
 Break Armour equal to 10% of Hit Damage dealt
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Warbringer
 #Warrior
+#Notable
 #PoE2

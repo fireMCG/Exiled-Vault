@@ -1,12 +1,10 @@
-# Chittering Champions
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Chittering Champions.webp]]
 
-## Effects
+# Effects
 Final Map Boss in each Map has 25% chance to drop an additional Scarab
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

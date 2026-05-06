@@ -1,21 +1,19 @@
-# Merciless Armament
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Merciless Armament.png]]
 
-## Description
+# Flavour Text
 "Through thick and thin,
 blood and bone,
 a peaceful life
 is one I can't condone."
 - Tukohama, Father Of War
 
-## Reward
+# Reward
 Merciless Two-Hand Weapon
 Item Level: 100
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/God/Tukohama
 #Category/DivinationCard
 #DivinationCard

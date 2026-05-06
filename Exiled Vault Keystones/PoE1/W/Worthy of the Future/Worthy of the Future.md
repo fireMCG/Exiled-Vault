@@ -1,13 +1,11 @@
-# Worthy of the Future
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Worthy of the Future.webp]]
 
-## Effects
+# Effects
 Inscribed Ultimatums found in your Maps have 50% increased chance to reward Divination Cards
 Ultimatum Rewards in your Maps have 50% increased chance to be Divination Cards
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

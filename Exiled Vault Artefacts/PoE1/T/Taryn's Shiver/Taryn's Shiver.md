@@ -1,14 +1,12 @@
-# Taryn's Shiver
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Taryn's Shiver.png]]
 
-## Description
+# Flavour Text
 Shed by the winged beast of night,
 A scaly frost-encrusted thorn.
 All who feel its wintry light
 Shiver in pain at the frozen dawn.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 71-147
 - Critical Strike Chance: 8.10%
@@ -23,9 +21,9 @@ Shiver in pain at the frozen dawn.
 - 8% chance to Freeze
 - Enemies Frozen by you take 20% increased Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

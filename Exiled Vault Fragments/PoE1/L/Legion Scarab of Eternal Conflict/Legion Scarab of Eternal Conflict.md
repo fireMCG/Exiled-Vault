@@ -1,11 +1,9 @@
-# Legion Scarab of Eternal Conflict
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Legion Scarab of Eternal Conflict.webp]]
 
-## Description
+# Flavour Text
 An eternity of blood. Glorious.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,9 +13,9 @@ Legion Monsters in Area gain increased Difficulty and Reward for each time they 
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Legion
 #Category/Scarab
 #Fragment

@@ -1,12 +1,10 @@
-# Heavy Ammunition
-
-## Effects
+# Effects
 5% reduced Attack Speed
 40% increased Projectile Damage
 40% increased Projectile Stun Buildup
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

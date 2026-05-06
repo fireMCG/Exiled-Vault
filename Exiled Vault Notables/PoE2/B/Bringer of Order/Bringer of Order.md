@@ -1,11 +1,9 @@
-# Bringer of Order
-
-## Effects
+# Effects
 20% increased Damage
 Minions deal 20% increased Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# Replica Atziri's Acuity
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Atziri's Acuity.png]]
 
-## Description
+# Flavour Text
 "One of our researchers cut himself on Prototype #2,
 and he has not stopped screaming for months..."
 
-## Details
+# Details
 - Armour: (696-851)
 - Requires Level 63, 100 Str
 - +(60-80) to Intelligence
@@ -15,9 +13,9 @@ and he has not stopped screaming for months..."
 - +(60-75) to maximum Life
 - You have Perfect Agony if you've dealt a Critical Strike recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

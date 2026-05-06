@@ -1,18 +1,16 @@
-# Sambodhi's Vow
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Sambodhi's Vow.png]]
 
-## Description
+# Flavour Text
 He dispels dark realms
 until mortal sufferings
 yield to hopeful light.
 
-## Reward
+# Reward
 Mortal Fragment
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Darkness
 #Concept/Light
 #Concept/Wing

@@ -1,10 +1,8 @@
-# Inspiring Ally
-
-## Effects
+# Effects
 Increases and Reductions to Companion Damage also apply to you
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

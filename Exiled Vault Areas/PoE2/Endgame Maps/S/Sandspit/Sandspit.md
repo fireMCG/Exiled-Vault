@@ -1,11 +1,9 @@
-# Sandspit
-
-## Description
+# Flavour Text
 A haven for seabirds. A hazard for sailors.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

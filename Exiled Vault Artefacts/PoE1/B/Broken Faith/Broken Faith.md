@@ -1,11 +1,9 @@
-# Broken Faith
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Broken Faith.png]]
 
-## Description
+# Flavour Text
 Be not blinded by the light.
 
-## Details
+# Details
 - Chance to Block: 12%
 - Armour: (156-179)
 - Energy Shield: (32-37)
@@ -18,9 +16,9 @@ Be not blinded by the light.
 - You have Unholy Might while you have no Energy Shield
 - Create Profane Ground instead of Consecrated Ground
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,14 +1,12 @@
-# Doon Cuebiyari
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Doon Cuebiyari.png]]
 
-## Description
+# Flavour Text
 My Iron heart will beat when yours is rust.
 I take your Strength, your power, your lust.
 By Iron Will alone I set my mind in motion.
 Through endless storms of fervent devotion.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 37-70
 - Critical Strike Chance: 7.00%
@@ -23,9 +21,9 @@ Through endless storms of fervent devotion.
 - 1% increased Damage per 8 Strength when in Main Hand
 - 1% increased Armour per 16 Strength when in Off Hand
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Rockpools
-
-## Description
+# Flavour Text
 Life abounds on the shells of its dead ancestors.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE2

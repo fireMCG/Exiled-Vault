@@ -1,11 +1,9 @@
-# Voidhome
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Voidhome.png]]
 
-## Description
+# Flavour Text
 Cursed is the star whence it came.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: 192.5-260
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ Cursed is the star whence it came.
 - (50-30)% reduced Experience gain
 - 0.4% of Physical Attack Damage Leeched as Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

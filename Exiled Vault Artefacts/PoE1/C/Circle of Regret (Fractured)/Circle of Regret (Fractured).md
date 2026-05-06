@@ -1,11 +1,9 @@
-# Circle of Regret (Fractured)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Circle of Regret (Fractured).png]]
 
-## Description
+# Flavour Text
 I sacrificed a life of love for one of responsibility, so that she, and others like her, might be kept safe.
 
-## Details
+# Details
 - Requires Level 52
 - +(20-30)% to Lightning Resistance
 - +(20-30) to Intelligence
@@ -15,9 +13,9 @@ I sacrificed a life of love for one of responsibility, so that she, and others l
 - Herald of Thunder has (40-60)% increased Buff Effect(40-60)% increased Lightning Damage while affected by Herald of Thunder+(50-60)% to Lightning Resistance while affected by Herald of Thunder+1% to maximum Lightning Resistance while affected by Herald of ThunderHerald of Thunder has (40-30)% increased Mana Reservation Efficiency
 - Combine this item with two Rare Fractured items of the same item class at the Synthesiser in the Memory Nexus
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

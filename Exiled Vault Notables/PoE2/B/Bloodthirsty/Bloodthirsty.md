@@ -1,11 +1,9 @@
-# Bloodthirsty
-
-## Effects
+# Effects
 20% increased amount of Life Leeched
 Leech Life 25% faster
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

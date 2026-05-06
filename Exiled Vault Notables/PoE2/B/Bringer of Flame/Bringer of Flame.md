@@ -1,12 +1,10 @@
-# Bringer of Flame
-
-## Effects
+# Effects
 All Damage from you and Allies in your Presencecontributes to Flammability and Ignite Magnitudes
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Infernalist
 #Witch
+#Notable
 #PoE2

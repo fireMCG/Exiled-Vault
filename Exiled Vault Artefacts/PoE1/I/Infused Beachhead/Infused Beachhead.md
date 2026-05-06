@@ -1,8 +1,6 @@
-# Infused Beachhead
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Infused Beachhead.png]]
 
-## Details
+# Details
 - Monster Level: 83
 - Item Quantity: +(80-120)%
 - Item Rarity: +(80-120)%
@@ -13,9 +11,9 @@
 - Corrupted
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

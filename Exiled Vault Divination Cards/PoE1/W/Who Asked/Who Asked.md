@@ -1,8 +1,6 @@
-# Who Asked
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Who Asked.png]]
 
-## Description
+# Flavour Text
 In the midst 
 of unrelenting requests,
 the blacksmith's forge 
@@ -11,14 +9,14 @@ Countless voices, countless desires –
 yielding weapons as diverse
 as those who ask
 
-## Reward
+# Reward
 Dictator's Weapon
 Item Level: 83
 Fractured
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

@@ -1,11 +1,9 @@
-# Brynhand's Mark
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Brynhand's Mark.png]]
 
-## Description
+# Flavour Text
 The mark of the smith was widely known.
 
-## Details
+# Details
 - One Hand Mace
 - Physical Damage: (16-20) to (26-30)
 - Critical Strike Chance: 5.00%
@@ -16,9 +14,9 @@ The mark of the smith was widely known.
 - +(10-20) to Strength
 - Causes Double Stun Buildup
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

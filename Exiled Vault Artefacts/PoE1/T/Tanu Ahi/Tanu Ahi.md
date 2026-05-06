@@ -1,12 +1,10 @@
-# Tanu Ahi
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Tanu Ahi.png]]
 
-## Description
+# Flavour Text
 There is no greater thrill than leaping into combat,
 slashing and hewing with utmost abandon.
 
-## Details
+# Details
 - Armour: (176-260)
 - Evasion: (176-260)
 - Requires Level 49, 38 Str, 38 Dex
@@ -18,9 +16,9 @@ slashing and hewing with utmost abandon.
 - 10% chance to gain Onslaught for 4 Seconds when Leech is
 - removed by Filling Unreserved Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

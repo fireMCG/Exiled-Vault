@@ -1,12 +1,10 @@
-# Mistwall
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mistwall.png]]
 
-## Description
+# Flavour Text
 Light as a board,
 Stiff as a feather.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Evasion: (1049-1372)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ Stiff as a feather.
 - You are at Maximum Chance to Block Attack Damage if you have not Blocked Recently
 - You have Phasing if you have Blocked Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

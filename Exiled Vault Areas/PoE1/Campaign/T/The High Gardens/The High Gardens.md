@@ -1,14 +1,12 @@
-# The High Gardens
-
-## Description
+# Flavour Text
 Creeping dread chokes life from this thriving terrace.
 
-## Connected Areas
+# Connected Areas
 - The Bath House
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

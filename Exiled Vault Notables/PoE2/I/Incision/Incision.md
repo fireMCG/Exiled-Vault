@@ -1,10 +1,8 @@
-# Incision
-
-## Effects
+# Effects
 50% increased effect of Incision
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

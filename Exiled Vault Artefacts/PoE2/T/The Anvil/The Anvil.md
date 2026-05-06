@@ -1,11 +1,9 @@
-# The Anvil
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Anvil.png]]
 
-## Description
+# Flavour Text
 Forge your Perseverance on the Anvil of Faith.
 
-## Details
+# Details
 - Requires Level 18
 - +(30-40) to maximum Life
 - 10% reduced Movement Speed
@@ -14,9 +12,9 @@ Forge your Perseverance on the Anvil of Faith.
 - 25% increased Block chance
 - +(5-10)% to maximum Block chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,14 +1,12 @@
-# Contract_ Opal's Jewels
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Contract_ Opal's Jewels.png]]
 
-## Description
+# Flavour Text
 Damn near everything I've earned.
 Worth every little bit.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE1

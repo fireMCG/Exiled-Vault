@@ -1,12 +1,10 @@
-# Ultimate Command
-
-## Effects
+# Effects
 Grants Skill: Time Freeze
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Chronomancer
 #Sorceress
+#Notable
 #PoE2

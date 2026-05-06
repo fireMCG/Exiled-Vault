@@ -1,12 +1,10 @@
-# The Hunt for Craiceann
-
 ![[Exiled Vault Keystones/_Images/PoE1 - The Hunt for Craiceann.webp]]
 
-## Effects
+# Effects
 Red Beasts in your Maps have 100% increased chance to be from The Deep
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

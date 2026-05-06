@@ -1,18 +1,16 @@
-# Azyran's Reward
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Azyran's Reward.png]]
 
-## Description
+# Flavour Text
 Method transcends shape and size. Do something in parallel long enough, and you will always find 
 another way.
 
-## Reward
+# Reward
 Prismatic Jewel
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

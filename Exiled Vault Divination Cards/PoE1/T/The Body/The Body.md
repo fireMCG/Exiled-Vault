@@ -1,16 +1,14 @@
-# The Body
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Body.png]]
 
-## Description
+# Flavour Text
 They say it is the head that leads, but all must flow through the body at some point.
 
-## Reward
+# Reward
 Body Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Blood
 #Category/DivinationCard
 #DivinationCard

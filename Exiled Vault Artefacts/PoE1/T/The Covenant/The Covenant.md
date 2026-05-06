@@ -1,12 +1,10 @@
-# The Covenant
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Covenant.png]]
 
-## Description
+# Flavour Text
 My Soul is your Strength
 My Price is your Blood
 
-## Details
+# Details
 - Energy Shield: (313-409)
 - Movement Speed: -3%
 - Requires Level 49, 134 Int
@@ -16,9 +14,9 @@ My Price is your Blood
 - 10% increased maximum Life
 - Skills gain a Base Life Cost equal to 100% of Base Mana Cost
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

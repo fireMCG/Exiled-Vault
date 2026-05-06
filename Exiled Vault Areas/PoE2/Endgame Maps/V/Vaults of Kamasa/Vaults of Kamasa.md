@@ -1,13 +1,11 @@
-# Vaults of Kamasa
-
-## Description
+# Flavour Text
 By that era, Kamasa was just a name. Gold was their true god.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

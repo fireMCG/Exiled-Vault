@@ -1,13 +1,11 @@
-# Support Straps
-
-## Effects
+# Effects
 Body Armour grants 20% increased Strength
 base physical damage reduction rating no display [200]
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Smith of Kitava
 #Warrior
+#Notable
 #PoE2

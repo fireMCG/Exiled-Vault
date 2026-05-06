@@ -1,11 +1,9 @@
-# Escalation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Escalation.png]]
 
-## Description
+# Flavour Text
 A life without risk is no life at all.
 
-## Details
+# Details
 - Duration: 40 seconds
 - Empowers: 50 enemies
 - Empowerment: 22
@@ -16,9 +14,9 @@ A life without risk is no life at all.
 - (1.6-2.4)% increased chance to add a Reward for each Enemy Empowered
 - Unmodifiable
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Crimson Temple
-
-## Description
+# Flavour Text
 A sanguine supplication to death and depravity.
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #EndgameMap
 #PoE1
-#Interesting

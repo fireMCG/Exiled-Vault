@@ -1,12 +1,10 @@
-# Brinerot Whalers
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Brinerot Whalers.png]]
 
-## Description
+# Flavour Text
 Those Theopolis fatcats put a price on our heads.
 Let's see what they'll pay for their own.
 
-## Details
+# Details
 - Evasion: (74-85)
 - Energy Shield: (96-118)
 - Requires Level 41, 40 Dex, 40 Int
@@ -17,9 +15,9 @@ Let's see what they'll pay for their own.
 - (20-40)% increased Projectile Damage
 - Unaffected by Shocked Ground
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

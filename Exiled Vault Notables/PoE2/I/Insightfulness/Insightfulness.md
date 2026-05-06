@@ -1,12 +1,10 @@
-# Insightfulness
-
-## Effects
+# Effects
 18% increased maximum Energy Shield
 12% increased Mana Regeneration Rate
 6% increased Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

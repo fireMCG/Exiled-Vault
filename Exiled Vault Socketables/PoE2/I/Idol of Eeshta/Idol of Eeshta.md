@@ -1,20 +1,18 @@
-# Idol of Eeshta
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Idol of Eeshta.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Helmets: 12% increased Cost Efficiency
 
-## Bonded Effects
+# Bonded Effects
 - Helmets: Meta Skills have 12% increased Reservation Efficiency
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

@@ -1,11 +1,9 @@
-# Winterweave
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Winterweave.png]]
 
-## Description
+# Flavour Text
 Fury fuels defiance.
 
-## Details
+# Details
 - Requires Level 24
 - +(20-30) to maximum Life
 - Adds (12-15) to (25-30) Fire Damage to Attacks
@@ -15,9 +13,9 @@ Fury fuels defiance.
 - 10% increased Movement Speed while Ignited
 - The Effect of Chill on you is reversed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

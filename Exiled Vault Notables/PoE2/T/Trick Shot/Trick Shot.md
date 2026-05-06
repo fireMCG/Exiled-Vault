@@ -1,10 +1,8 @@
-# Trick Shot
-
-## Effects
+# Effects
 Projectiles have 15% chance to Chain an additional time from terrain
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

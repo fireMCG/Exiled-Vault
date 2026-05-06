@@ -1,12 +1,10 @@
-# Screaming Invitation
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Screaming Invitation.webp]]
 
-## Details
+# Details
 Item Level:
 
-##
+#
 ---
-## Tags
+# Tags
 #Fragment
 #PoE1

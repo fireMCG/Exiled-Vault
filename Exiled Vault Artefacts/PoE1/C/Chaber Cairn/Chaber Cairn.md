@@ -1,12 +1,10 @@
-# Chaber Cairn
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Chaber Cairn.png]]
 
-## Description
+# Flavour Text
 The weight of faith is great
 Yet it is never borne alone.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (204-249.6) to (399-457.6)
 - Critical Strike Chance: 5.00%
@@ -22,9 +20,9 @@ Yet it is never borne alone.
 - Minions have (20-40)% increased maximum Life
 - 30% increased Skill Effect Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

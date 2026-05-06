@@ -1,12 +1,10 @@
-# Mask of the Spirit Drinker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mask of the Spirit Drinker.png]]
 
-## Description
+# Flavour Text
 Our flesh is our most sacred gift.
 Taint it not with the occult.
 
-## Details
+# Details
 - Armour: (384-604)
 - Energy Shield: (151-316)
 - Requires Level 58, 64 Str, 64 Int
@@ -19,9 +17,9 @@ Taint it not with the occult.
 - Regenerate 100 Life per second if you have at least 1000 Maximum Energy Shield
 - Regenerate 150 Life per second if you have at least 1500 Maximum Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

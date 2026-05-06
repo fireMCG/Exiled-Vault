@@ -1,11 +1,9 @@
-# Greymake
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Greymake.png]]
 
-## Description
+# Flavour Text
 In the end, even heroes fade away.
 
-## Details
+# Details
 - Armour: 23
 - Evasion: 18
 - Requires Level 5
@@ -15,9 +13,9 @@ In the end, even heroes fade away.
 - -1 to all Attributes per Level
 - Has 4 Augment Sockets (Hidden)
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

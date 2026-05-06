@@ -1,11 +1,9 @@
-# Kaltenhalt
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Kaltenhalt.png]]
 
-## Description
+# Flavour Text
 Cold, miserable and alone... but alive.
 
-## Details
+# Details
 - Buckler
 - Chance to Block: 20%
 - Evasion: (77-94)
@@ -18,9 +16,9 @@ Cold, miserable and alone... but alive.
 - 100% of Parry Physical Damage Converted to Cold Damage
 - 25 to 35 Cold Thorns damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

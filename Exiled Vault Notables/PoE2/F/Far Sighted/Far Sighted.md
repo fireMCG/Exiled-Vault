@@ -1,10 +1,8 @@
-# Far Sighted
-
-## Effects
+# Effects
 30% reduced penalty to Accuracy Rating at range
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

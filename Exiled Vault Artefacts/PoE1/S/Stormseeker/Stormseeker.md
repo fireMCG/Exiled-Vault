@@ -1,13 +1,11 @@
-# Stormseeker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Stormseeker.png]]
 
-## Description
+# Flavour Text
 A Karui settlement within the far reaches of the Atlas
 Was devastated by lightning sparked by tempests
 At the hands of their storm-god, Valako.
 
-## Details
+# Details
 - Evasion: (81-91)
 - Energy Shield: (57-79)
 - Requires Level 45, 35 Dex, 35 Int
@@ -18,9 +16,9 @@ At the hands of their storm-god, Valako.
 - Unaffected by Chill while Leeching Mana
 - Unaffected by Shock while Leeching Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

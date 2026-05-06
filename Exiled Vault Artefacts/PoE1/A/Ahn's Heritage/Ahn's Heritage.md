@@ -1,13 +1,11 @@
-# Ahn's Heritage
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ahn's Heritage.png]]
 
-## Description
+# Flavour Text
 "It's not Karui, Azmeri or even Vaal in origin,
 but one thing is certain. It is very, very old."
 - Icius Perandus, Antiquities Collection, Item 46
 
-## Details
+# Details
 - Chance to Block: 29%
 - Armour: (783-1202)
 - Movement Speed: -3%
@@ -21,9 +19,9 @@ but one thing is certain. It is very, very old."
 - +2% to all maximum Resistances while you have no Endurance Charges
 - You have Onslaught while at maximum Endurance Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Ahn
 #Character/Aul

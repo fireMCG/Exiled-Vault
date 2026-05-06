@@ -1,11 +1,9 @@
-# Consistent Intake
-
-## Effects
+# Effects
 15% increased Parried Debuff Magnitude
 Cannot be Critically Hit while Parrying
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

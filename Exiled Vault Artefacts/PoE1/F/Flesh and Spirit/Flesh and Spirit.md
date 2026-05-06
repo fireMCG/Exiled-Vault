@@ -1,11 +1,9 @@
-# Flesh and Spirit
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Flesh and Spirit.png]]
 
-## Description
+# Flavour Text
 What is greed but trading a mountain of death for a sliver of life?
 
-## Details
+# Details
 - Armour: (50-81)
 - Evasion: (50-81)
 - Requires Level 15
@@ -16,9 +14,9 @@ What is greed but trading a mountain of death for a sliver of life?
 - Kills grant an additional Vaal Soul if you have Rampaged Recently
 - Rampage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

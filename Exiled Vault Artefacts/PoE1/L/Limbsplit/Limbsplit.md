@@ -1,12 +1,10 @@
-# Limbsplit
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Limbsplit.png]]
 
-## Description
+# Flavour Text
 Swinging through the air, it sings
 of sundered, severed, missing things.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (43.2-48) to (88.2-98)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ of sundered, severed, missing things.
 - Adds 5 to 10 Physical Damage
 - Culling Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

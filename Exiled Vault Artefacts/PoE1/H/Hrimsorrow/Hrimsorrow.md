@@ -1,12 +1,10 @@
-# Hrimsorrow
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hrimsorrow.png]]
 
-## Description
+# Flavour Text
 Of ancient giants, none remain,
 Their only trace is timeless pain.
 
-## Details
+# Details
 - Evasion: (72-92)
 - Requires Level 9, 17 Dex
 - +(20-30) to Strength
@@ -15,9 +13,9 @@ Their only trace is timeless pain.
 - 100% of Physical Damage Converted to Cold Damage
 - Reflects 100 Cold Damage to Melee Attackers
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

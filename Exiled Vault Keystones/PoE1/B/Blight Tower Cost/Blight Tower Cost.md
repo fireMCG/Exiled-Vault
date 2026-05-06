@@ -1,12 +1,10 @@
-# Blight Tower Cost
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Blight Tower Cost.webp]]
 
-## Effects
+# Effects
 20% reduced Cost of Building and Upgrading Towers
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

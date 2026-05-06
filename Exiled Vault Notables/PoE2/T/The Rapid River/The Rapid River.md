@@ -1,12 +1,10 @@
-# The Rapid River
-
-## Effects
+# Effects
 Recoup Effects instead occur over 4 seconds
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Chronomancer
 #Sorceress
+#Notable
 #PoE2

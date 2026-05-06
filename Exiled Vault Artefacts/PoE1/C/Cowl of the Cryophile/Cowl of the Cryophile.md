@@ -1,11 +1,9 @@
-# Cowl of the Cryophile
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cowl of the Cryophile.png]]
 
-## Description
+# Flavour Text
 The villagers seared the blight with cold, but it only bloomed countless spears.
 
-## Details
+# Details
 - Evasion: (553-685)
 - Requires Level 60, 138 Dex
 - Can have a second Enchantment Modifier
@@ -16,9 +14,9 @@ The villagers seared the blight with cold, but it only bloomed countless spears.
 - (55-50)% reduced Lightning Resistance
 - This item can be anointed by Cassia
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Haunted Mansion
-
-## Description
+# Flavour Text
 Forlorn and sorrowful, this once opulent
 
 ruin conceals the sins of a fallen line.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

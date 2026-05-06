@@ -1,16 +1,14 @@
-# Soul Core of Atmohua
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Soul Core of Atmohua.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 
-## Effects
+# Effects
 - Martial Weapon: Convert 20% of Requirements to Strength
 - Armour: Convert 20% of Requirements to Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

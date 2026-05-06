@@ -1,11 +1,9 @@
-# Mjölner
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mjölner.png]]
 
-## Description
+# Flavour Text
 Look the storm in the eye and you will have its respect.
 
-## Details
+# Details
 - One Handed Mace
 - Physical Damage: (97.2-118.8) to (181.8-222.2)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ Look the storm in the eye and you will have its respect.
 - Skills Chain +1 times
 - (80-100)% increased Lightning Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

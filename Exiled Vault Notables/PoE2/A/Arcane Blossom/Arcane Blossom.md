@@ -1,10 +1,8 @@
-# Arcane Blossom
-
-## Effects
+# Effects
 15% increased Mana Recovery rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

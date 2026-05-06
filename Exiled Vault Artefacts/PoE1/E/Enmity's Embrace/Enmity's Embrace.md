@@ -1,14 +1,12 @@
-# Enmity's Embrace
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Enmity's Embrace.png]]
 
-## Description
+# Flavour Text
 In truth, your terror is cold
 You mask it with heat and ire
 But they know.
 They know.
 
-## Details
+# Details
 - Requires Level 80
 - (5-7)% increased maximum Life
 - +(30-50) to Strength
@@ -17,9 +15,9 @@ They know.
 - Take (300-500) Fire Damage when you Use a Skill
 - Damage Penetrates Fire Resistance equal to your Overcapped Fire Resistance, up to a maximum of 200%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

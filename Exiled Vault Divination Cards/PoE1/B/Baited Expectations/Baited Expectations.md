@@ -1,16 +1,14 @@
-# Baited Expectations
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Baited Expectations.png]]
 
-## Description
+# Flavour Text
 The line between having not enough to do and too much to do is unusually fine.
 
-## Reward
+# Reward
 Fishing Item
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Animal/Fish
 #Concept/Sun

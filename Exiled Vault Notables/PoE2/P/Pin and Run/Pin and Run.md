@@ -1,11 +1,9 @@
-# Pin and Run
-
-## Effects
+# Effects
 30% increased Pin Buildup
 5% increased Movement Speed if you've Pinned an Enemy Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

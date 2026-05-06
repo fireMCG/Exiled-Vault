@@ -1,12 +1,10 @@
-# The Hidden Blade
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Hidden Blade.png]]
 
-## Description
+# Flavour Text
 The shadow warrior moves like the wind;
 his strikes land long after he is gone.
 
-## Details
+# Details
 - Dagger
 - Physical Damage: (62.7-68.4) to (244.2-266.4)
 - Critical Strike Chance: 8.30%
@@ -19,9 +17,9 @@ his strikes land long after he is gone.
 - (230-260)% increased Physical Damage
 - 30% reduced Attack Speed while Phasing
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

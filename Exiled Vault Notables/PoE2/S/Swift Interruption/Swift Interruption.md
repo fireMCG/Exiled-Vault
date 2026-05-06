@@ -1,11 +1,9 @@
-# Swift Interruption
-
-## Effects
+# Effects
 12% increased Attack Speed if you've successfully Parried Recently
 6% increased Movement Speed if you've successfully Parried Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

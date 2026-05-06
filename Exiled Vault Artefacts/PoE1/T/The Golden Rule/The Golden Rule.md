@@ -1,11 +1,9 @@
-# The Golden Rule
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Golden Rule.png]]
 
-## Description
+# Flavour Text
 Hurt as you would be hurt.
 
-## Details
+# Details
 - Limited to: 1
 - (30-40)% increased Armour while Bleeding
 - Bleeding you inflict is Reflected to you
@@ -14,9 +12,9 @@ Hurt as you would be hurt.
 - Corrupted
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

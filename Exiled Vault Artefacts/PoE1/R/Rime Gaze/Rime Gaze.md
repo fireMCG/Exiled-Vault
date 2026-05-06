@@ -1,11 +1,9 @@
-# Rime Gaze
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rime Gaze.png]]
 
-## Description
+# Flavour Text
 The malice in her gaze froze blood and shattered bone.
 
-## Details
+# Details
 - Energy Shield: (109-126)
 - Requires Level 65, 138 Int
 - Socketed Gems are Supported by Level 20 Concentrated Effect
@@ -14,9 +12,9 @@ The malice in her gaze froze blood and shattered bone.
 - 50% reduced Energy Shield Recharge Rate
 - +(25-75) to maximum Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

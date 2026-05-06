@@ -1,11 +1,9 @@
-# Breath of the Council
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Breath of the Council.png]]
 
-## Description
+# Flavour Text
 Breathe deep, and give yourself over to eternity.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: (147.6-168.1) to (342-389.5)
 - Critical Strike Chance: 7.00%
@@ -18,9 +16,9 @@ Breathe deep, and give yourself over to eternity.
 - 10% increased Area of Effect
 - Chaos Skills have 40% increased Skill Effect Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

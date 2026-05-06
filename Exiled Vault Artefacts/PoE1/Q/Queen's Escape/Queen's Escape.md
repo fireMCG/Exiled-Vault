@@ -1,8 +1,6 @@
-# Queen's Escape
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Queen's Escape.png]]
 
-## Description
+# Flavour Text
 The soldiers stormed her throne room.
 The guards held them at bay.
 The peasants overwhelmed the guards.
@@ -10,7 +8,7 @@ The nobles paid for their lives.
 The nobles took her throne,
 and so she fled to the woods.
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: 30-50
 - Critical Strike Chance: 5.00%
@@ -27,9 +25,9 @@ and so she fled to the woods.
 - +(1-2) to maximum number of Skeletons
 - +(1-2) to maximum number of Spectres
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

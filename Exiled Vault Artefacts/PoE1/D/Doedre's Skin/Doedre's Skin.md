@@ -1,14 +1,12 @@
-# Doedre's Skin
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Doedre's Skin.png]]
 
-## Description
+# Flavour Text
 As she was sentenced to death, Doedre was silent.
 As she was tied to the stake, Doedre was silent.
 As the flames licked away her life, Doedre was silent.
 But Wraeclast had not heard the last of her.
 
-## Details
+# Details
 - Energy Shield: (361-452)
 - Movement Speed: -3%
 - Requires Level 65, 187 Int
@@ -20,9 +18,9 @@ But Wraeclast had not heard the last of her.
 - (130-150)% increased Energy Shield
 - 20% less Effect of your Curses
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

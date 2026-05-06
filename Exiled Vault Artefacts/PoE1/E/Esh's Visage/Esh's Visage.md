@@ -1,13 +1,11 @@
-# Esh's Visage
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Esh's Visage.png]]
 
-## Description
+# Flavour Text
 She could see what she was not;
 a silhouette wreathed in light.
 And she was still.
 
-## Details
+# Details
 - Chance to Block: 24%
 - Energy Shield: (190-230)
 - Movement Speed: -3%
@@ -20,9 +18,9 @@ And she was still.
 - Chaos Damage taken does not bypass Energy Shield while not on Low Life
 - Reflect Shocks applied to you to all Nearby Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

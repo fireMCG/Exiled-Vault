@@ -1,15 +1,13 @@
-# The Grand Promenade
-
-## Description
+# Flavour Text
 A favourite walk of noble lords, now fallen into disrepair.
 
-## Connected Areas
+# Connected Areas
 - Doedre's Cesspool
 - The Bath House
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

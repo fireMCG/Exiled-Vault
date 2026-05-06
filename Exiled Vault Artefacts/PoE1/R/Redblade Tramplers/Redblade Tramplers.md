@@ -1,14 +1,12 @@
-# Redblade Tramplers
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Redblade Tramplers.png]]
 
-## Description
+# Flavour Text
 Our home was swallowed beneath
 the great mountain for our complacency.
 Now we must prove our value to the Molten One
 by sating his hunger for life.
 
-## Details
+# Details
 - Armour: (377-522)
 - Requires Level 46, 82 Str
 - Adds (2-5) to (7-10) Physical Damage to Attacks
@@ -19,9 +17,9 @@ by sating his hunger for life.
 - 25% increased Movement Speed
 - Unaffected by Burning Ground
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

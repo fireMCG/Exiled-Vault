@@ -1,10 +1,8 @@
-# Rallying Icon
-
-## Effects
+# Effects
 When a Banner expires, recover 15% of the Glory required for that Banner
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

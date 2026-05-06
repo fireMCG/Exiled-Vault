@@ -1,12 +1,10 @@
-# Thunder of the Dawn
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Thunder of the Dawn.png]]
 
-## Description
+# Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: 8-16
 - Elemental Damage: 1-9
@@ -20,9 +18,9 @@ So goes the descent.
 - 50% of Physical Damage from Hits taken as Lightning Damage
 - When you Kill a Shocked Enemy, inflict an equivalent Shock on each nearby Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

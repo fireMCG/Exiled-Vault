@@ -1,20 +1,18 @@
-# Saqawal's Rune of Erosion
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Saqawal's Rune of Erosion.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Helmets: 25% increased Exposure Effect
 
-## Bonded Effects
+# Bonded Effects
 - Helmets: 15% increased Magnitude of Non-Damaging Ailments you inflict
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

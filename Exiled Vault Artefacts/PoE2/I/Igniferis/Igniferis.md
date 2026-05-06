@@ -1,12 +1,10 @@
-# Igniferis
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Igniferis.png]]
 
-## Description
+# Flavour Text
 A hearth unyielding, ever warm,
 A light unbroken, endlessly reborn.
 
-## Details
+# Details
 - Requires Level 65
 - (2-4) Life Regeneration per second
 - +(10-20)% to Fire Resistance
@@ -15,9 +13,9 @@ A light unbroken, endlessly reborn.
 - Life Recovery from Regeneration is not applied
 - Every 4 seconds, Recover 1 Life for every 0.2 Life Recovery per second from Regeneration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

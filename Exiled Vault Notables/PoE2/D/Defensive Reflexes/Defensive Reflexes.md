@@ -1,11 +1,9 @@
-# Defensive Reflexes
-
-## Effects
+# Effects
 12% increased Block chance
 5 Mana gained when you Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

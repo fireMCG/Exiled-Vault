@@ -1,10 +1,8 @@
-# Easy Going
-
-## Effects
+# Effects
 25% increased Reservation Efficiency of Companion Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# Sentari's Answer
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Sentari's Answer.png]]
 
-## Description
+# Flavour Text
 Open your eyes and you will see the cracks in your enemy's walls.
 Open your mind and you will see the cracks in your enemy's plans.
 
-## Details
+# Details
 - Chance to Block: 30%
 - Energy Shield: (35-40)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ Open your mind and you will see the cracks in your enemy's plans.
 - Curse Enemies with Temporal Chains when you Block their Projectile Attack Damage, ignoring Curse Limit
 - Curse Enemies with Elemental Weakness when you Block their Spell Damage, ignoring Curse Limit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

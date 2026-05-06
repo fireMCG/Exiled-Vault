@@ -1,14 +1,12 @@
-# Poorjoy's Asylum
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Poorjoy's Asylum.png]]
 
-## Description
+# Flavour Text
 Laughs of all the twisted
 Echo through these halls of gold.
 In this cold forgotten void
 They wander, forever uncontrolled.
 
-## Details
+# Details
 - Monster Level: 68
 - Item Quantity: +100%
 - Item Rarity: +250%
@@ -22,9 +20,9 @@ They wander, forever uncontrolled.
 - Unique Boss drops (10-15) additional Rare
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

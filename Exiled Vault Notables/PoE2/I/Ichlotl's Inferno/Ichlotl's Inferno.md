@@ -1,10 +1,8 @@
-# Ichlotl's Inferno
-
-## Effects
+# Effects
 Every Rage also grants 1% increased Fire Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

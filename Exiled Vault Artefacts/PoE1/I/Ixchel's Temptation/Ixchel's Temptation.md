@@ -1,12 +1,10 @@
-# Ixchel's Temptation
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ixchel's Temptation.png]]
 
-## Description
+# Flavour Text
 Chaos offers possibility, not outcome.
 Our own imaginations ensnare us.
 
-## Details
+# Details
 - Requires Level 20
 - (6-15)% increased Rarity of Items found
 - +(10-15) to all Attributes
@@ -23,9 +21,9 @@ Our own imaginations ensnare us.
 - Maximum Quality is 200%
 - Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

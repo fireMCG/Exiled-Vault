@@ -1,11 +1,9 @@
-# Near Sighted
-
-## Effects
+# Effects
 30% increased Critical Hit Chance for Attacks
 30% increased penalty to Accuracy Rating at range
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

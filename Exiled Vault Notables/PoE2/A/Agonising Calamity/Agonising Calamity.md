@@ -1,11 +1,9 @@
-# Agonising Calamity
-
-## Effects
+# Effects
 40% increased Chaos Damage while affected by Herald of Plague
 40% increased Physical Damage while affected by Herald of Blood
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

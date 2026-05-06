@@ -1,11 +1,9 @@
-# Shaper's Seed
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Shaper's Seed.png]]
 
-## Description
+# Flavour Text
 The first light to grow in the primordial darkness.
 
-## Details
+# Details
 - Requires Level 16
 - +(16-24) to Strength and Intelligence
 - (60-100)% increased Mana Regeneration Rate
@@ -13,9 +11,9 @@ The first light to grow in the primordial darkness.
 - Nearby Allies gain 4% of Life Regenerated per second
 - Nearby Allies gain 80% increased Mana Regeneration Rate
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

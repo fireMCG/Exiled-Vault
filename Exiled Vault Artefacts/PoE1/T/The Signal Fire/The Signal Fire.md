@@ -1,12 +1,10 @@
-# The Signal Fire
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Signal Fire.png]]
 
-## Description
+# Flavour Text
 Fire spreads thick and fast.
 The first spark is never the last.
 
-## Details
+# Details
 - Requires Level 45
 - Adds (12-15) to (24-27) Fire Damage to Attacks
 - 10% increased Attack Speed
@@ -16,9 +14,9 @@ The first spark is never the last.
 - 5 to 10 Added Fire Damage with Bow Attacks
 - Gain (25-35)% of Physical Attack Damage as Extra Fire Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

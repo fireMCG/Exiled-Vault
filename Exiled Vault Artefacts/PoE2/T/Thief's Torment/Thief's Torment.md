@@ -1,8 +1,6 @@
-# Thief's Torment
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Thief's Torment.png]]
 
-## Description
+# Flavour Text
 The ring I stole,
 My finger they took,
 A shrouded mind,
@@ -11,7 +9,7 @@ As I drained their spirit
 And stole their soul.
 A blessing is often a curse.
 
-## Details
+# Details
 - Requires Level 26
 - +(120-160) to Accuracy Rating
 - (30-40)% increased Rarity of Items found
@@ -21,9 +19,9 @@ A blessing is often a curse.
 - Gain 15 Mana per Enemy Hit with Attacks
 - 50% reduced Duration of Curses on you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Melding
-
-## Effects
+# Effects
 40% increased maximum Energy Shield
 10% reduced maximum Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

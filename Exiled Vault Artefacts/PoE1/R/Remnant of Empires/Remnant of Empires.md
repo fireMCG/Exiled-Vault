@@ -1,12 +1,10 @@
-# Remnant of Empires
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Remnant of Empires.png]]
 
-## Description
+# Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
-## Details
+# Details
 - Chance to Block: 28%
 - Evasion: (14-20)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ So goes the descent.
 - +3% Chance to Block
 - Reflects 4 to 8 Physical Damage to Attackers on Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

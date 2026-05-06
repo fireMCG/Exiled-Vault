@@ -1,12 +1,10 @@
-# Altered Distant Memory
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Altered Distant Memory.png]]
 
-## Description
+# Flavour Text
 The winters of my youth were cold and harsh.
 We had nothing, yet to my mother's credit, I wanted for so little.
 
-## Details
+# Details
 - Monster Level: 81
 - Item Quantity: +100%
 - Monster Pack Size: +25%
@@ -17,9 +15,9 @@ We had nothing, yet to my mother's credit, I wanted for so little.
 - Corrupted
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/HighTemplar/Venarius
 #Concept/Memory

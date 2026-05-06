@@ -1,13 +1,11 @@
-# Deshret's Banner
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Deshret's Banner.png]]
 
-## Description
+# Flavour Text
 When the sun sets, the plains should be red.
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Sekhema/Deshret
 #Concept/Animal/Bird
 #Concept/Time/Dusk

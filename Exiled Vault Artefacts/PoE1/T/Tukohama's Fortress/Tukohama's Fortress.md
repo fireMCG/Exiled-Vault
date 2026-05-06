@@ -1,12 +1,10 @@
-# Tukohama's Fortress
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Tukohama's Fortress.png]]
 
-## Description
+# Flavour Text
 Tukohama knew that he could not lose a fight in his fortress.
 So he carried his fortress to the fight.
 
-## Details
+# Details
 - Chance to Block: 25%
 - Armour: (357-411)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ So he carried his fortress to the fight.
 - +300 Armour per Summoned Totem
 - Blood Magic
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

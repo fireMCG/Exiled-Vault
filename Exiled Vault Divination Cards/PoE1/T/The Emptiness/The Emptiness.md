@@ -1,16 +1,14 @@
-# The Emptiness
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Emptiness.png]]
 
-## Description
+# Flavour Text
 He appeared before the Light Eater, and at once knew his soul was damned.
 
-## Reward
+# Reward
 Disabled
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCardç
 #Concept/Damnation
 #Concept/Eclipse/Solar

@@ -1,20 +1,18 @@
-# Perandus Seal
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Perandus Seal.png]]
 
-## Description
+# Flavour Text
 A pact with Prospero always comes at a price.
 
-## Details
+# Details
 - Requires Level 40
 - (6-15)% increased Rarity of Items found
 - +(30-50) to maximum Mana
 - +(5-10) to all Attributes
 - (10-15)% increased Quantity of Gold Dropped by Slain Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

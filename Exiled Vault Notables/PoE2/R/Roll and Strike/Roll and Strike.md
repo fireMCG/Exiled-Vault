@@ -1,11 +1,9 @@
-# Roll and Strike
-
-## Effects
+# Effects
 25% increased Damage with Spears
 10% increased Attack Speed with Spears
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

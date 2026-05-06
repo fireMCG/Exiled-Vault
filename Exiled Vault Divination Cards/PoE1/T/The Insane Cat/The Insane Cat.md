@@ -1,18 +1,16 @@
-# The Insane Cat
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Insane Cat.png]]
 
-## Description
+# Flavour Text
 One person's madness is another person's reality.
 
-## Reward
+# Reward
 Mageblood
 Item Level: 84
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Animal/Feline/Cat
 #Concept/Madness

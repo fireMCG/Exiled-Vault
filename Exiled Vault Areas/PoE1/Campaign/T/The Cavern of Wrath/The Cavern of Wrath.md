@@ -1,15 +1,13 @@
-# The Cavern of Wrath
-
-## Description
+# Flavour Text
 The air needles the skin with its frigid fury.
 
-## Connected Areas
+# Connected Areas
 - The Ship Graveyard
 - The Cavern of Anger
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

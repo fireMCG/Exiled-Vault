@@ -1,11 +1,9 @@
-# Obern's Bastion
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Obern's Bastion.png]]
 
-## Description
+# Flavour Text
 The storm cannot sway those of sure footing.
 
-## Details
+# Details
 - Armour: (140-168)
 - Evasion: (125-150)
 - Requires Level 33, 26 Str, 26 Dex
@@ -16,9 +14,9 @@ The storm cannot sway those of sure footing.
 - (30-50)% reduced Freeze Duration on you
 - (30-50)% reduced Shock duration on you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

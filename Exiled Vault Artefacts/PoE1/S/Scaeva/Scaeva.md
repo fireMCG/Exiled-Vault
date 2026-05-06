@@ -1,14 +1,12 @@
-# Scaeva
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Scaeva.png]]
 
-## Description
+# Flavour Text
 Even from the back rows,
 the whistling steel was mesmerising.
 They watched the dance in the arena dust, silent as the dead.
 A spell only broken by the spilling of blood.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (129-146) to (203-232)
 - Critical Strike Chance: (5.75-6.25)%
@@ -25,9 +23,9 @@ A spell only broken by the spilling of blood.
 - (60-80)% increased Global Critical Strike Chance when in Main Hand
 - +8% Chance to Block Attack Damage when in Off Hand
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

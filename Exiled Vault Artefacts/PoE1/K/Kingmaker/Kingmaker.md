@@ -1,14 +1,12 @@
-# Kingmaker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kingmaker.png]]
 
-## Description
+# Flavour Text
 A King and his people are linked together
 like a soul and a beating heart.
 Both can be severed by a same edge,
 then forged anew.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (360-414) to (488-561.2)
 - Critical Strike Chance: (6.50-7.00)%
@@ -24,9 +22,9 @@ then forged anew.
 - Nearby Allies have +50% to Critical Strike Multiplier
 - Nearby Allies have +10 Fortification
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

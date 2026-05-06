@@ -1,12 +1,10 @@
-# Kelari's Judgment
-
-## Effects
+# Effects
 Grants Skill: Kelari's Judgment
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

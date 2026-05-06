@@ -1,17 +1,15 @@
-# Cowardly Fate
-
 ![[Exiled Vault Fragments/_Images/PoE2 - Cowardly Fate.webp]]
 
-## Description
+# Flavour Text
 The ignoblest of choices.
 
-## Details
+# Details
 Map Fragments
 Can be placed in the door at the end of the Trial of Chaos to challenge the Trialmaster.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Fragment
 #Fragment
 #PoE2

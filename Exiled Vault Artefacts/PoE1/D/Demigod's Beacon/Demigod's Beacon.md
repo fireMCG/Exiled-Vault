@@ -1,11 +1,9 @@
-# Demigod's Beacon
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Demigod's Beacon.png]]
 
-## Description
+# Flavour Text
 The light of victory burns eternally.
 
-## Details
+# Details
 - Chance to Block: 20%
 - Movement Speed: -3%
 - Requires Level 15
@@ -14,9 +12,9 @@ The light of victory burns eternally.
 - (10-20)% increased Rarity of Items found
 - 20% increased Light Radius
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Overwhelming Odds
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Overwhelming Odds.png]]
 
-## Description
+# Flavour Text
 Even as the tide turned, and victory swiftly became impossible,
 The legionnaires of Lioneye's Watch stood their ground and fought on,
 Every last man dying a brutal but honourable death.
 
-## Details
+# Details
 - Limited to: 1
 - Radius: Medium
 - (10-15)% increased Global Physical Damage
@@ -16,9 +14,9 @@ Every last man dying a brutal but honourable death.
 - Enemy, up to a maximum of +1 metre
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Worldcarver
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Worldcarver.png]]
 
-## Description
+# Flavour Text
 Is it better to find new lands - or to create them?
 
-## Details
+# Details
 - Armour: (266-347)
 - Evasion: (266-347)
 - Requires Level 67, 51 Str, 51 Dex
@@ -16,9 +14,9 @@ Is it better to find new lands - or to create them?
 - 6% increased Attack Damage for each Map Item Modifier affecting the Area
 - 3% increased Attack Speed for each Map Item Modifier affecting the Area
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

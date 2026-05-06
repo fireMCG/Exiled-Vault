@@ -1,12 +1,10 @@
-# Breach Pack Size
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Breach Pack Size.webp]]
 
-## Effects
+# Effects
 Breach Monsters in your Maps have 5% increased Pack Size
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

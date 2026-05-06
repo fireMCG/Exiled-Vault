@@ -1,11 +1,9 @@
-# Fury Valve
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fury Valve.png]]
 
-## Description
+# Flavour Text
 A single act of anger travels countless paths of destruction.
 
-## Details
+# Details
 - Requires Level 40
 - +(16-24) to Dexterity and Intelligence
 - (15-25)% increased Evasion Rating
@@ -15,9 +13,9 @@ A single act of anger travels countless paths of destruction.
 - Modifiers to number of Projectiles instead apply
 - to the number of targets Projectiles Split towards
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

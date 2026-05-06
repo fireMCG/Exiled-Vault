@@ -1,13 +1,11 @@
-# Feastbind
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Feastbind.png]]
 
-## Description
+# Flavour Text
 Our forefathers danced and drank and ate their fill
 and did not honour the First Ones for their gifts.
 So the First Ones filled the sky with fire.
 
-## Details
+# Details
 - Requires Level 11
 - (12-24)% increased Global Physical Damage
 - Adds 5 to 10 Physical Damage to Attacks
@@ -16,9 +14,9 @@ So the First Ones filled the sky with fire.
 - 50% increased Flask Charges gained during any Flask Effect
 - 50% increased Mana Regeneration Rate during any Flask Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

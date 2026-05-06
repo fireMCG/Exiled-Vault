@@ -1,12 +1,10 @@
-# Atziri's Disfavour
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Atziri's Disfavour.png]]
 
-## Description
+# Flavour Text
 "I do not believe in disguising my disappointment."
 - Atziri, Queen of the Vaal
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (414-434) to (544-564)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@
 - 25% chance to cause Bleeding on Hit
 - +1 metres to Weapon Range
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Atziri
 #Society/VaalEmpire

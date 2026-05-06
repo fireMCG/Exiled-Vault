@@ -1,14 +1,12 @@
-# Singing Caverns
-
-## Description
+# Flavour Text
 A song so exquisite it can only be heard once.
 
-## Connected Areas
+# Connected Areas
 - Whakapanu Island
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

@@ -1,16 +1,14 @@
-# Mitts
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Mitts.png]]
 
-## Description
+# Flavour Text
 Those whose hands are their livelihood know the importance of keeping them safe and warm.
 
-## Reward
+# Reward
 Gloves
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

@@ -1,10 +1,8 @@
-# Haemorrhaging Cuts
-
-## Effects
+# Effects
 Enemies you inflict Bleeding on cannot Regenerate Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

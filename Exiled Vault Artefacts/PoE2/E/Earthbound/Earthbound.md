@@ -1,11 +1,9 @@
-# Earthbound
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Earthbound.png]]
 
-## Description
+# Flavour Text
 An ancient Azmeri staff, overgrown by roots...
 
-## Details
+# Details
 - Staff
 - Grants Skill: Level (1-20) Lightning Bolt
 - Grants Skill: Level (1-20) Spark
@@ -15,9 +13,9 @@ An ancient Azmeri staff, overgrown by roots...
 - Trigger Spark Skill on killing a Shocked Enemy
 - (20-40)% increased chance to Shock
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

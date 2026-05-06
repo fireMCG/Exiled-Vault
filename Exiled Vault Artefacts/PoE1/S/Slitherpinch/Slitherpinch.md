@@ -1,12 +1,10 @@
-# Slitherpinch
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Slitherpinch.png]]
 
-## Description
+# Flavour Text
 A soft caress in dead of night,
 that slips about the neck, so tight.
 
-## Details
+# Details
 - Armour: (50-62)
 - Evasion: (80-124)
 - Requires Level 27, 22 Str, 22 Dex
@@ -16,9 +14,9 @@ that slips about the neck, so tight.
 - 0.6% of Physical Attack Damage Leeched as Life
 - 0.4% of Physical Attack Damage Leeched as Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

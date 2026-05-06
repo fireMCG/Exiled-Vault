@@ -1,11 +1,9 @@
-# Primal Sundering
-
-## Effects
+# Effects
 Damage Penetrates 12% Elemental Resistances
 8% increased Area of Effect for Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

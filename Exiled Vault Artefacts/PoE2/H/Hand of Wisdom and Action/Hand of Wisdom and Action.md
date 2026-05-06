@@ -1,13 +1,11 @@
-# Hand of Wisdom and Action
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Hand of Wisdom and Action.png]]
 
-## Description
+# Flavour Text
 She thinks and we act.
 She acts and we think.
 Fragments of the whole that washes clean the skies.
 
-## Details
+# Details
 - Evasion: 33
 - Energy Shield: 14
 - Requires Level 33, 24 Dex, 24 Int
@@ -16,9 +14,9 @@ Fragments of the whole that washes clean the skies.
 - 1% increased Attack Speed per 20 Dexterity
 - Adds 1 to 10 Lightning Damage to Attacks per 20 Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

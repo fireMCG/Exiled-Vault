@@ -1,10 +1,8 @@
-# Crystal Elixir
-
-## Effects
+# Effects
 40% increased Elemental Damage with Attack Skills during any Flask Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

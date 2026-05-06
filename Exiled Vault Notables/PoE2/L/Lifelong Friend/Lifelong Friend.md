@@ -1,10 +1,8 @@
-# Lifelong Friend
-
-## Effects
+# Effects
 Minions Revive 35% faster if all your Minions are Companions
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

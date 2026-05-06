@@ -1,12 +1,10 @@
-# Cameria's Avarice
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cameria's Avarice.png]]
 
-## Description
+# Flavour Text
 "Please, take whatever you want. Just don't kill me"
 "But then I wouldn't have everything I want, would I?"
 
-## Details
+# Details
 - One Handed Mace
 - Physical Damage: (156-190.4) to (283.2-341.6)
 - Critical Strike Chance: (5.75-7.00)%
@@ -21,9 +19,9 @@
 - 40% increased Rarity of Items Dropped by Frozen Enemies
 - (30-40)% increased Cold Damage with Attack Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Visage of Ayah
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Visage of Ayah.png]]
 
-## Description
+# Flavour Text
 Tale-women do not fight as dekharas.
 They command a power all thier own.
 
-## Details
+# Details
 - Energy Shield: (51-61)
 - Requires Level 16, 25 Int
 - (50-80)% increased Energy Shield
@@ -15,9 +13,9 @@ They command a power all thier own.
 - +(10-20)% to Lightning Resistance
 - Eldritch Battery
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Warrior
 #Society/Maraketh

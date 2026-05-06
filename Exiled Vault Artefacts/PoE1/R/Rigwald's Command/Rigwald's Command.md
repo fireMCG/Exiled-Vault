@@ -1,13 +1,11 @@
-# Rigwald's Command
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rigwald's Command.png]]
 
-## Description
+# Flavour Text
 Fear not death. Turn to him, face him.
 And smile as he sinks his teeth
 into the throats of our oppressors.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (95-115) to (249-279)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ into the throats of our oppressors.
 - +(350-400) to Accuracy Rating
 - Each Rage also grants +2% to Damage over Time Multiplier for Bleeding while wielding an Axe
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

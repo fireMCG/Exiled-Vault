@@ -1,16 +1,14 @@
-# Palace
-
-## Description
+# Flavour Text
 Death forces even the most
 
 determined of despots to
 
 pass the crown.
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #EndgameMap
 #PoE1
-#Interesting

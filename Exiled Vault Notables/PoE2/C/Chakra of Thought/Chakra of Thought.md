@@ -1,11 +1,9 @@
-# Chakra of Thought
-
-## Effects
+# Effects
 8% of Damage is taken from Mana before Life
 15% increased Attack Speed while not on Low Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

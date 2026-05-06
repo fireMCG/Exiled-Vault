@@ -1,12 +1,10 @@
-# The Red Trail
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Red Trail.png]]
 
-## Description
+# Flavour Text
 We leave a trail, that we may know
 where never we will return.
 
-## Details
+# Details
 - Armour: (385-556)
 - Requires Level 68, 120 Str
 - (60-100)% increased Armour
@@ -17,9 +15,9 @@ where never we will return.
 - 50% chance to be inflicted with Bleeding when Hit by an Attack
 - Gore Footprints
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

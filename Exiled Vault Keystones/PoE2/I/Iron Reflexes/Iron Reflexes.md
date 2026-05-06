@@ -1,16 +1,14 @@
-# Iron Reflexes
-
 ![[Exiled Vault Keystones/_Images/PoE2 - Iron Reflexes.webp]]
 
-## Description
+# Flavour Text
 Why should I dodge blows that I do not fear?
 
-## Effects
+# Effects
 Converts all Evasion Rating to Armour
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE2

@@ -1,10 +1,8 @@
-# Hunter's Talisman
-
-## Effects
+# Effects
 +1 Charm Slot
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# The Supreme Truth
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Supreme Truth.png]]
 
-## Description
+# Flavour Text
 Knowledge brings power, and with power you can
 grab truth by the throat and shape it as you wish.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: (63-70) to (93.6-104)
 - Critical Strike Chance: 8.00%
@@ -21,9 +19,9 @@ grab truth by the throat and shape it as you wish.
 - (10-20)% increased Attack Speed
 - 3% increased Experience gain
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

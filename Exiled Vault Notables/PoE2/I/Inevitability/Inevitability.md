@@ -1,12 +1,10 @@
-# Inevitability
-
-## Effects
+# Effects
 Grants Skill: Inevitable Agony
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Chronomancer
 #Sorceress
+#Notable
 #PoE2

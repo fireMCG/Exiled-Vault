@@ -1,12 +1,10 @@
-# The Magnate
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Magnate.png]]
 
-## Description
+# Flavour Text
 Few men cast a longer shadow
 than the Great Meginord of the North.
 
-## Details
+# Details
 - Requires Level 16
 - (20-30)% increased Stun Duration on Enemies
 - +(40-50) to Strength
@@ -15,9 +13,9 @@ than the Great Meginord of the North.
 - 10% chance to deal Double Damage while you have at least 200 Strength
 - 5% chance to deal Triple Damage while you have at least 400 Strength
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

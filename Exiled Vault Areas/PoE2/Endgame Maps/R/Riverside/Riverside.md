@@ -1,11 +1,9 @@
-# Riverside
-
-## Description
+# Flavour Text
 Rushing waters threaten to move the earth.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

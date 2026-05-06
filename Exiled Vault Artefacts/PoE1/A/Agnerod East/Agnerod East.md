@@ -1,11 +1,9 @@
-# Agnerod East
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Agnerod East.png]]
 
-## Description
+# Flavour Text
 One for each corner of the great .
 
-## Details
+# Details
 - Staff
 - Physical Damage: 57-171
 - Critical Strike Chance: 8.50%
@@ -20,9 +18,9 @@ One for each corner of the great .
 - Damage Penetrates 20% Lightning Resistance
 - 100% increased Duration of Lightning Ailments
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

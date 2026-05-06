@@ -1,11 +1,9 @@
-# Facebreaker
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Facebreaker.png]]
 
-## Description
+# Flavour Text
 Fly like a Storm Crow, crush like a Rhoa
 
-## Details
+# Details
 - Evasion: (30-39)
 - Energy Shield: (7-9)
 - Requires Level 16
@@ -14,9 +12,9 @@ Fly like a Storm Crow, crush like a Rhoa
 - (600-1000)% more Physical Damage with Unarmed Melee Attacks
 - Extra gore
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Blessed Bonds
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Blessed Bonds.png]]
 
-## Description
+# Flavour Text
 "We survived the endless winter.
 We endure the long summer.
 One day, spring will return the rains."
 
-## Details
+# Details
 - Evasion: (78-118)
 - Energy Shield: (39-59)
 - Requires Level 56, 13 Dex, 13 Int
@@ -18,9 +16,9 @@ One day, spring will return the rains."
 - Inflict Fire Exposure on Shocking an Enemy
 - Inflict Lightning Exposure on Critical Hit
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,11 +1,9 @@
-# Lasting Incantations
-
-## Effects
+# Effects
 20% increased Spell Damage
 15% increased Skill Effect Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,13 +1,11 @@
-# The Putrid Cloister
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Putrid Cloister.png]]
 
-## Description
+# Flavour Text
 Please take out your blades,
 your whips, and your spikes.
 Class is now in session.
 
-## Details
+# Details
 - Monster Level: 68
 - Item Quantity: +90%
 - Item Rarity: +45%
@@ -19,9 +17,9 @@ Class is now in session.
 - Unique Boss drops divination cards
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

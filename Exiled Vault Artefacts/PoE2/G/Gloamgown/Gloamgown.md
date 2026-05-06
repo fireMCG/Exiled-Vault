@@ -1,11 +1,9 @@
-# Gloamgown
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Gloamgown.png]]
 
-## Description
+# Flavour Text
 The tale-women of old knew how to build anticipation.
 
-## Details
+# Details
 - Energy Shield: (194-232)
 - Movement Speed: -3.0%
 - Requires Level 45, 72 Int
@@ -15,9 +13,9 @@ The tale-women of old knew how to build anticipation.
 - 1000% increased Energy Shield Recharge Rate
 - Your base Energy Shield Recharge Delay is 10 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

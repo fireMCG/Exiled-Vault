@@ -1,12 +1,10 @@
-# Tyranny's Grip
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Tyranny's Grip.png]]
 
-## Description
+# Flavour Text
 The might of the Eternal Empire was formidable,
 but rebels of every culture stood together as one.
 
-## Details
+# Details
 - Spear
 - Physical Damage: (22.5-27) to (30-36)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ but rebels of every culture stood together as one.
 - Knocks Back Enemies on Hit
 - Cannot use Projectile Attacks
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

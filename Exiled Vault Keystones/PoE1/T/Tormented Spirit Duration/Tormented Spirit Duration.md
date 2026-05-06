@@ -1,12 +1,10 @@
-# Tormented Spirit Duration
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Tormented Spirit Duration.webp]]
 
-## Effects
+# Effects
 Tormented Spirits in your Maps have 50% increased Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

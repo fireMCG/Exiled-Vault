@@ -1,18 +1,16 @@
-# The Price of Prescience
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Price of Prescience.png]]
 
-## Description
+# Flavour Text
 The strange voice showed Aul a future where his legacy was forgotten, where new cultures broke themselves upon Aul's ruined world.
 
-## Reward
+# Reward
 Vaal Temple Map
 Delirium: 100%
 Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Character/Aul
 #Character/God/Tangmazu

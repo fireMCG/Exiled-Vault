@@ -1,11 +1,9 @@
-# Font of Thunder
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Font of Thunder.png]]
 
-## Description
+# Flavour Text
 The lightning fears not the flame.
 
-## Details
+# Details
 - Chance to Block: 26%
 - Evasion: (755-1044)
 - Energy Shield: (155-210)
@@ -18,9 +16,9 @@ The lightning fears not the flame.
 - 40% of Cold Damage taken as Lightning Damage
 - 40% of Fire Damage taken as Lightning Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

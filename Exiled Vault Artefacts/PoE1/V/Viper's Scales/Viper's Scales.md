@@ -1,12 +1,10 @@
-# Viper's Scales
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Viper's Scales.png]]
 
-## Description
+# Flavour Text
 Swift and silent.
 One strike, one corpse.
 
-## Details
+# Details
 - Armour: (280-360)
 - Evasion: (280-360)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ One strike, one corpse.
 - 20% chance to Poison on Hit with Attacks
 - Cannot be Poisoned
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Lioneye's Remorse
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Lioneye's Remorse.png]]
 
-## Description
+# Flavour Text
 Marceus' unblemished shield is a testament
 to his arrogance... and his fate.
 
-## Details
+# Details
 - Chance to Block: 30%
 - Armour: (1307-1718)
 - Movement Speed: -3%
@@ -19,9 +17,9 @@ to his arrogance... and his fate.
 - -25 Physical Damage taken from Projectile Attacks
 - +5% Chance to Block
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

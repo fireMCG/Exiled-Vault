@@ -1,14 +1,12 @@
-# Magna Eclipsis
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Magna Eclipsis.png]]
 
-## Description
+# Flavour Text
 Lunaris crossed silently, shining and full,
 Softly night left her, alone and forlorn.
 Solaris rose to meet her, feeling her pull.
 'Neath the midday sun, the night was reborn.
 
-## Details
+# Details
 - Chance to Block: 25%
 - Armour: (1307-1718)
 - Evasion: (80-100)
@@ -22,9 +20,9 @@ Solaris rose to meet her, feeling her pull.
 - +(60-80) to maximum Life
 - +(80-100) to Evasion Rating and Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

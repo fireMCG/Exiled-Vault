@@ -1,13 +1,11 @@
-# Arena
-
-## Description
+# Flavour Text
 The sound of a thousand calls
 
 for blood echo for eternity.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

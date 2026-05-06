@@ -1,13 +1,11 @@
-# The Viridian Wildwood
-
-## Description
+# Flavour Text
 As separate worlds draw ever closer, the Nameless gather at the edge of existence.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
+#Interesting
 #Area
 #EndgameMap
 #PoE2
-#Interesting

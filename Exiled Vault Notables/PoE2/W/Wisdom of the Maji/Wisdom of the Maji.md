@@ -1,12 +1,10 @@
-# Wisdom of the Maji
-
-## Effects
+# Effects
 Gain the benefits of Bonded modifiers on Runes and Idols
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Shaman
 #Druid
+#Notable
 #PoE2

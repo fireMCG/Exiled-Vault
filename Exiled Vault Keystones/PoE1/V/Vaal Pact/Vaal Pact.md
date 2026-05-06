@@ -1,18 +1,16 @@
-# Vaal Pact
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Vaal Pact.webp]]
 
-## Description
+# Flavour Text
 My ancestral pact was sealed. Forevermore, I would gain sustenance
 only from the ravaged flesh of my enemies.
 
-## Effects
+# Effects
 Life Leech from Melee Damage is Instant
 Cannot Recover Life other than from Leech
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Keystone
 #Keystone
 #PoE1

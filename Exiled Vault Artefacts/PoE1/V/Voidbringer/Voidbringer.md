@@ -1,11 +1,9 @@
-# Voidbringer
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Voidbringer.png]]
 
-## Description
+# Flavour Text
 Absolute corruption empowers absolutely.
 
-## Details
+# Details
 - Energy Shield: (103-154)
 - Requires Level 55, 79 Int
 - +1 to Level of Socketed Elemental Gems
@@ -14,9 +12,9 @@ Absolute corruption empowers absolutely.
 - Lose (40-80) Mana when you use a Skill
 - Gain (15-20) Energy Shield per Enemy Killed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

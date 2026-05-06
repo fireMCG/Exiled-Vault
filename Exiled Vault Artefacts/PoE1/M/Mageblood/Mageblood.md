@@ -1,11 +1,9 @@
-# Mageblood
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mageblood.png]]
 
-## Description
+# Flavour Text
 Rivers of power course through your veins.
 
-## Details
+# Details
 - Requires Level 44
 - +(25-35) to Strength
 - +(30-50) to Dexterity
@@ -15,9 +13,9 @@ Rivers of power course through your veins.
 - Leftmost (2-4) Magic Utility Flasks constantly apply their Flask Effects to you
 - Magic Utility Flask Effects cannot be removed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

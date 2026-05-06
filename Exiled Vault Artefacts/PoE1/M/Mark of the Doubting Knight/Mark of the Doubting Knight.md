@@ -1,13 +1,11 @@
-# Mark of the Doubting Knight
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mark of the Doubting Knight.png]]
 
-## Description
+# Flavour Text
 Nothing is pure.
 Slice open the Innocent
 And spill a thousand Sins.
 
-## Details
+# Details
 - Rune Dagger
 - Physical Damage: (84-88.8) to (332.5-351.5)
 - Critical Strike Chance: (12.60-14.40)%
@@ -23,9 +21,9 @@ And spill a thousand Sins.
 - 50% chance to Cause Bleeding on Critical Strike
 - 50% chance to Cause Poison on Critical Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

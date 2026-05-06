@@ -1,12 +1,10 @@
-# Big Game
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Big Game.webp]]
 
-## Effects
+# Effects
 Yellow Beasts in your Maps have 15% chance to be replaced with Red Beasts
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

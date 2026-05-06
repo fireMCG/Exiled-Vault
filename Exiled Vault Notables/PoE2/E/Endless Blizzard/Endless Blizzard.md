@@ -1,10 +1,8 @@
-# Endless Blizzard
-
-## Effects
+# Effects
 +1 to Level of all Cold Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,10 +1,8 @@
-# Steadfast Resolve
-
-## Effects
+# Effects
 You cannot be Light Stunned if you've been Stunned Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

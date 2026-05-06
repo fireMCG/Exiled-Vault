@@ -1,12 +1,10 @@
-# Quickening Covenant
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Quickening Covenant.png]]
 
-## Description
+# Flavour Text
 Lose that which you never had.
 Gain power you could not have grasped.
 
-## Details
+# Details
 - Limited to: 1
 - Radius: Medium
 - Minions have (12-16)% increased Attack Speed
@@ -17,9 +15,9 @@ Gain power you could not have grasped.
 - Corrupted
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

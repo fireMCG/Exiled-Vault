@@ -1,11 +1,9 @@
-# Sun Temple
-
-## Description
+# Flavour Text
 Wet stone emanates an inner warmth. Vaal brilliance lies in wait.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

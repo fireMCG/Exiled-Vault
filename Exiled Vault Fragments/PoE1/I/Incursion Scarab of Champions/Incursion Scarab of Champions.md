@@ -1,11 +1,9 @@
-# Incursion Scarab of Champions
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Incursion Scarab of Champions.webp]]
 
-## Description
+# Flavour Text
 Only the best served in Atzoatl.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -15,9 +13,9 @@ Incursions in Area have 15% increased Pack Size
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #League/Incursion
 #Category/Scarab
 #Fragment

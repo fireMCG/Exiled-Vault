@@ -1,14 +1,12 @@
-# Soulthirst
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Soulthirst.png]]
 
-## Description
+# Flavour Text
 "They say a draught of fine spirits will ward off
 the elements and promote a longer, merrier life.
 I have found this to be true on all counts."
 - Zerphi of the Vaal
 
-## Details
+# Details
 - Requires Level 45
 - (15-25)% increased Stun and Block Recovery
 - +(60-80) to maximum Life
@@ -18,9 +16,9 @@ I have found this to be true on all counts."
 - Gain Soul Eater during any Flask Effect
 - Lose all Eaten Souls when you use a Flask
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

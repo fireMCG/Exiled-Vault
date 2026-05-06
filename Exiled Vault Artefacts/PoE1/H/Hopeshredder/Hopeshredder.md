@@ -1,14 +1,12 @@
-# Hopeshredder
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Hopeshredder.png]]
 
-## Description
+# Flavour Text
 Their last thoughts were not of their friends,
 or their families, or their homes.
 Their last thoughts were untethered from reality,
 and bathed in fear and ferocity.
 
-## Details
+# Details
 - Bow
 - Physical Damage: 56-117
 - Elemental Damage: (130-150) to (270-300)
@@ -24,9 +22,9 @@ and bathed in fear and ferocity.
 - 0.5% of Attack Damage Leeched as Life per Frenzy Charge
 - 200 Cold Damage taken per second per Frenzy Charge while moving
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/Elder
 #Concept/Decay

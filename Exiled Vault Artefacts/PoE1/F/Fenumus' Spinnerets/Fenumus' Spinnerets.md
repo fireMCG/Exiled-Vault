@@ -1,12 +1,10 @@
-# Fenumus' Spinnerets
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Fenumus' Spinnerets.png]]
 
-## Description
+# Flavour Text
 When the fires spilled out of the mountain, The First of the Night wove a net and was carried into the night on its hot winds.
 Though we cannot live without danger, we can learn to live with it.
 
-## Details
+# Details
 - Evasion: (314-417)
 - Energy Shield: (65-84)
 - Requires Level 63, 62 Dex, 62 Int
@@ -18,9 +16,9 @@ Though we cannot live without danger, we can learn to live with it.
 - Gain (15-20) Energy Shield for each Enemy you Hit which is affected by a Spider's Web
 - (40-50)% increased Aspect of the Spider Debuff Duration
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

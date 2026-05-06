@@ -1,11 +1,9 @@
-# Badge of the Brotherhood
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Badge of the Brotherhood.png]]
 
-## Description
+# Flavour Text
 Greater than any blade, agility and intellect will be your weapons.
 
-## Details
+# Details
 - Requires Level 60
 - +(16-24) to Dexterity and Intelligence
 - (7-10)% increased Cooldown Recovery Rate of Travel Skills per Frenzy Charge
@@ -14,9 +12,9 @@ Greater than any blade, agility and intellect will be your weapons.
 - (20-25)% chance to lose a Power Charge when you gain Elusive
 - Your Maximum Frenzy Charges is equal to your Maximum Power Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/BrotherhoodOfSilence
 #Artefact

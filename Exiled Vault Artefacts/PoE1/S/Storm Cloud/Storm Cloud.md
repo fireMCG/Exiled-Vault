@@ -1,13 +1,11 @@
-# Storm Cloud
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Storm Cloud.png]]
 
-## Description
+# Flavour Text
 Centuries of development in steel armoursmithing
 turned the armies of the Eternal Empire
 into very effective lightning rods.
 
-## Details
+# Details
 - Bow
 - Elemental Damage: 1-85
 - Critical Strike Chance: 6.00%
@@ -17,9 +15,9 @@ into very effective lightning rods.
 - Adds 1 to 85 Lightning Damage
 - (36-50)% increased Attack Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Effigy of Cruelty
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Effigy of Cruelty.png]]
 
-## Description
+# Flavour Text
 The horrors we imagined as children
 still exist somewhere in the dark...
 
-## Details
+# Details
 - Focus
 - Energy Shield: (37-47)
 - Requires Level 10, 17 Int
@@ -16,9 +14,9 @@ still exist somewhere in the dark...
 - +(7-13)% to Chaos Resistance
 - Critical Hits with Spells apply (1-3) Stacks of Critical Weakness
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

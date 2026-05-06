@@ -1,13 +1,11 @@
-# Doryani's Invitation (Fire Damage)
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Doryani's Invitation (Fire Damage).png]]
 
-## Description
+# Flavour Text
 "You can invite them but you can never be
 sure who will come knocking."
 - Doryani, Queen's Thaumaturgist
 
-## Details
+# Details
 - Requires Level 68
 - +(25-35) to Strength
 - (20-30)% increased Fire Damage
@@ -17,9 +15,9 @@ sure who will come knocking."
 - 0.6% of Fire Damage Leeched as Life
 - (20-30)% chance to Ignite during any Flask Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

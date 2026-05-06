@@ -1,16 +1,14 @@
-# The Belly of the Beast Level 1
-
-## Description
+# Flavour Text
 Enter the Nightmare.
 
-## Connected Areas
+# Connected Areas
 - The Crystal Veins
 - The Belly of the Beast Level 2
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #CampaignArea
 #PoE1
-#Interesting

@@ -1,17 +1,15 @@
-# I See Brothers
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - I See Brothers.png]]
 
-## Description
+# Flavour Text
 "Where does the light go
 when it is dark?"
 
-## Reward
+# Reward
 2x Fracturing Orb
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Darkness
 #Concept/Time/Day
 #Concept/Fracture

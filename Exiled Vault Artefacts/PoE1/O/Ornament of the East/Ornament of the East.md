@@ -1,11 +1,9 @@
-# Ornament of the East
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ornament of the East.png]]
 
-## Description
+# Flavour Text
 To the Maraketh, death is as intimate as love.
 
-## Details
+# Details
 - Claw
 - Physical Damage: (52-56) to (137.8-148.4)
 - Critical Strike Chance: 7.50%
@@ -20,9 +18,9 @@ To the Maraketh, death is as intimate as love.
 - 25% increased Stun and Block Recovery
 - Hits can't be Evaded
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,23 +1,21 @@
-# Greater Iron Rune
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Greater Iron Rune.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Requires: Level 30
 
-## Effects
+# Effects
 - Martial Weapon: 18% increased Physical Damage
 - Wand or Staff: 30% increased Spell Damage
 - Armour: 18% increased Armour, Evasion and Energy Shield
 
-## Bonded Effects
+# Bonded Effects
 - Martial Weapon: 20% increased effect of Fully Broken Armour
 - Wand or Staff: Break Armour on Critical Hit with Spells equal to 12% of Physical Damage dealt
 - Armour: +10 to maximum Life, +10 to maximum Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

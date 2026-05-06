@@ -1,12 +1,10 @@
-# The Fourth Vow
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Fourth Vow.png]]
 
-## Description
+# Flavour Text
 Seek not to avoid the mortal pains of this world.
 In flagellation, there lies freedom from temptation.
 
-## Details
+# Details
 - Armour: (755-1270)
 - Energy Shield: (155-259)
 - Movement Speed: -5%
@@ -17,9 +15,9 @@ In flagellation, there lies freedom from temptation.
 - Regenerate 3% of Life per second
 - Armour also applies to Chaos Damage taken from Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

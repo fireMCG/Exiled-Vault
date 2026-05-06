@@ -1,15 +1,13 @@
-# Doomfletch
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Doomfletch.png]]
 
-## Description
+# Flavour Text
 "Toasted or frozen
 Or twitching in the light
 I'm not fussy
 And neither is Death."
 - Koralus Doomfletch
 
-## Details
+# Details
 - Bow
 - Physical Damage: (24-26) to (41-43)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ And neither is Death."
 - (30-50)% increased Mana Regeneration Rate
 - Attacks with this Weapon gain 100% of Physical damage as Extra damage of each Element
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

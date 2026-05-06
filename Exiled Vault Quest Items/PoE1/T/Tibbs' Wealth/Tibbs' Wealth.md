@@ -1,14 +1,12 @@
-# Tibbs' Wealth
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Tibbs' Wealth.png]]
 
-## Description
+# Flavour Text
 Damn near everything I've earned. 
 Worth every little bit.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #QuestItem
 #PoE1

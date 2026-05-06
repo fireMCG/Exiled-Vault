@@ -1,10 +1,8 @@
-# Staggering Wounds
-
-## Effects
+# Effects
 50% chance to Knock Back Bleeding Enemies with Hits
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

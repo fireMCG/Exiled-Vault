@@ -1,11 +1,9 @@
-# The Broken Crown
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Broken Crown.png]]
 
-## Description
+# Flavour Text
 Every rule has an exception.
 
-## Details
+# Details
 - Armour: (358-516)
 - Energy Shield: (131-214)
 - Requires Level 63, 85 Str, 62 Int
@@ -17,9 +15,9 @@ Every rule has an exception.
 - 20% reduced Mana Regeneration Rate
 - +(43-61)% to Chaos Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,12 +1,10 @@
-# Killjoy
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Killjoy.png]]
 
-## Description
+# Flavour Text
 "Stitches? Wouldn't that defeat the purpose?"
 - Jeffry, Torturer's Apprentice
 
-## Details
+# Details
 - Evasion: (23-28)
 - Energy Shield: (11-14)
 - Requires Level 16, 13 Dex, 13 Int
@@ -16,9 +14,9 @@
 - Life Flasks do not recover Life
 - On-Kill Effects happen twice
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

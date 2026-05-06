@@ -1,16 +1,14 @@
-# The Risk
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Risk.png]]
 
-## Description
+# Flavour Text
 "There is no right or wrong choice, no best or worst. There are only choices and their consequences."
 
-## Reward
+# Reward
 Ventor's Gamble
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

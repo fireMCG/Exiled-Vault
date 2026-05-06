@@ -1,12 +1,10 @@
-# Stormfire
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Stormfire.png]]
 
-## Description
+# Flavour Text
 When your skin sloughs, and your blood cooks,
 you'll wish the lightning strike had killed you.
 
-## Details
+# Details
 - Requires Level 80
 - (15-25)% increased Elemental Damage
 - (40-45)% increased Mana Regeneration Rate
@@ -15,9 +13,9 @@ you'll wish the lightning strike had killed you.
 - Adds (1-3) to (62-70) Lightning Damage to Hits against Ignited Enemies
 - Your Lightning Damage can Ignite
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

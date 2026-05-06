@@ -1,11 +1,9 @@
-# The Felbog Fang
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Felbog Fang.png]]
 
-## Description
+# Flavour Text
 Death creeps closer; unseen, inexorable, hungry.
 
-## Details
+# Details
 - Requires Level 61
 - +(16-24) to Strength and Dexterity
 - +(30-50) to Intelligence
@@ -15,9 +13,9 @@ Death creeps closer; unseen, inexorable, hungry.
 - Your Curses have 25% increased Effect if 50% of Curse Duration expired
 - Enemies Cursed by you take 35% increased Damage if 75% of Curse Duration expired
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

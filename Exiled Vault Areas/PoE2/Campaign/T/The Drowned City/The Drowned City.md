@@ -1,16 +1,14 @@
-# The Drowned City
-
-## Description
+# Flavour Text
 A waterlogged corpse, ripe for the looting.
 
-## Connected Areas
+# Connected Areas
 - Ziggurat Encampment
 - The Molten Vault
 - Apex of Filth
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

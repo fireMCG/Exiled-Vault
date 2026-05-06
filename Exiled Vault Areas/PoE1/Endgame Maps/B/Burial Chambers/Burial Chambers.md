@@ -1,13 +1,11 @@
-# Burial Chambers
-
-## Description
+# Flavour Text
 Vile fiends hide beneath
 
 the peaceful plains.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

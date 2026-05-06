@@ -1,11 +1,9 @@
-# Gruthkul's Pelt
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Gruthkul's Pelt.png]]
 
-## Description
+# Flavour Text
 Simple is the life of the bear.
 
-## Details
+# Details
 - Armour: (840-1180)
 - Evasion: (840-1180)
 - Movement Speed: -3%
@@ -18,9 +16,9 @@ Simple is the life of the bear.
 - Spell Skills deal no Damage
 - Your Spells are disabled
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

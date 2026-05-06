@@ -1,12 +1,10 @@
-# Malachai's Awakening
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Malachai's Awakening.png]]
 
-## Description
+# Flavour Text
 There is no cost too great to pay for power.
 Merely men who lack the conviction to pay it.
 
-## Details
+# Details
 - Evasion: (48-60)
 - Energy Shield: (11-14)
 - Requires Level 60, 21 Dex, 21 Int
@@ -18,9 +16,9 @@ Merely men who lack the conviction to pay it.
 - Adds (5-14) to (160-173) Lightning Damage to Spells while no Life is Reserved
 - Blood Magic
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

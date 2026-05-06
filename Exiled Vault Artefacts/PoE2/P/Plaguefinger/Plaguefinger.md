@@ -1,11 +1,9 @@
-# Plaguefinger
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Plaguefinger.png]]
 
-## Description
+# Flavour Text
 Ulcers, scabs, and pocks, the third army makes its claim.
 
-## Details
+# Details
 - Evasion: (10-12)
 - Energy Shield: (7-9)
 - Requires Level 4
@@ -14,9 +12,9 @@ Ulcers, scabs, and pocks, the third army makes its claim.
 - (20-30)% chance to Poison on Hit
 - All Damage from Hits Contributes to Poison Magnitude
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

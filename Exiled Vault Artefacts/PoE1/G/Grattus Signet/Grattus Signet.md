@@ -1,11 +1,9 @@
-# Grattus Signet
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Grattus Signet.png]]
 
-## Description
+# Flavour Text
 The first Grattus patriarch had only one tell. When he slowly turned his ring, all cowered before him.
 
-## Details
+# Details
 - Requires Level 20
 - (20-30)% increased Global Critical Strike Chance
 - (5-10)% increased Attack Speed
@@ -15,9 +13,9 @@ The first Grattus patriarch had only one tell. When he slowly turned his ring, a
 - Attacks inflict Unnerve on Critical Strike for 4 seconds
 - Spells inflict Intimidate on Critical Strike for 4 seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

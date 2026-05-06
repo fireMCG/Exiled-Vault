@@ -1,11 +1,9 @@
-# Siphon
-
-## Effects
+# Effects
 Recover 2% of maximum Mana on Kill
 25% increased amount of Mana Leeched
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

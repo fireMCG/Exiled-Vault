@@ -1,14 +1,12 @@
-# Bust of Hector Titucius
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Bust of Hector Titucius.png]]
 
-## Description
+# Flavour Text
 The Emperor honours Hector Titucius as Supreme Servant.
 "Strength in purpose is strength in deed.
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Emperor/ChitusPerandus
 #Character/HectorTitucius
 #Category/QuestItem

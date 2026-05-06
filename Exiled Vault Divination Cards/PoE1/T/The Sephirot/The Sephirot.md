@@ -1,16 +1,14 @@
-# The Sephirot
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Sephirot.png]]
 
-## Description
+# Flavour Text
 If the path to divinity were simple, we'd all be gods.
 
-## Reward
+# Reward
 10x Divine Orb
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #Concept/Crown/Halo
 #Concept/God

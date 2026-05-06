@@ -1,11 +1,9 @@
-# The Ignomon
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Ignomon.png]]
 
-## Description
+# Flavour Text
 The light that reveals is the glare that blinds.
 
-## Details
+# Details
 - Requires Level 8
 - (12-20)% increased Rarity of Items found
 - 20% increased Light Radius
@@ -15,9 +13,9 @@ The light that reveals is the glare that blinds.
 - +20% to Fire Resistance
 - Nearby Enemies are Blinded
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

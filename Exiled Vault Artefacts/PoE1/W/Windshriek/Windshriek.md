@@ -1,12 +1,10 @@
-# Windshriek
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Windshriek.png]]
 
-## Description
+# Flavour Text
 An open mouth, a blinding shriek,
 Your mind goes dark, your body weak.
 
-## Details
+# Details
 - Armour: (327-420)
 - Requires Level 60, 61 Str
 - (200-250)% increased Armour
@@ -16,9 +14,9 @@ Your mind goes dark, your body weak.
 - You can apply an additional Curse
 - 60% increased Area of Effect of Hex Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

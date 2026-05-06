@@ -1,10 +1,8 @@
-# Anticipation
-
-## Effects
+# Effects
 Skills Supported by Unleash have 25% increased Seal gain frequency
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,12 +1,10 @@
-# Kalisa's Grace
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kalisa's Grace.png]]
 
-## Description
+# Flavour Text
 "You shall hang, in blissful agony, on my every note."
 - Kalisa, Prima Donna of Sarn
 
-## Details
+# Details
 - Energy Shield: (82-117)
 - Requires Level 55, 68 Int
 - Socketed Gems are Supported by Level 18 Faster Casting
@@ -15,9 +13,9 @@
 - +(50-70) to maximum Life
 - Gain +2% to Critical Strike Chance for 2 seconds after Spending a total of 800 Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

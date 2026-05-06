@@ -1,11 +1,9 @@
-# Forbidden Taste
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Forbidden Taste.png]]
 
-## Description
+# Flavour Text
 Your reach exceeds your grasp.
 
-## Details
+# Details
 - Lasts 6.00 Seconds
 - Consumes 30 of 60 Charges on use
 - Phasing
@@ -15,9 +13,9 @@ Your reach exceeds your grasp.
 - 25% of Maximum Life taken as Chaos Damage per second
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Kaom's Spirit
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kaom's Spirit.png]]
 
-## Description
+# Flavour Text
 Who can tell when whispers are truly from a god?
 
-## Details
+# Details
 - Armour: (242-278)
 - Requires Level 69, 98 Str
 - +(50-70) to maximum Life
@@ -15,9 +13,9 @@ Who can tell when whispers are truly from a god?
 - Regenerate 1 Rage per second for every 200 Life Recovery per second from Regeneration
 - Does not delay Inherent Loss of Rage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

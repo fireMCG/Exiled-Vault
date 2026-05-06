@@ -1,11 +1,9 @@
-# Felled Hideout
-
-## Description
+# Flavour Text
 A fortress of fallen wood.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Map
 #Area
 #EndgameMap

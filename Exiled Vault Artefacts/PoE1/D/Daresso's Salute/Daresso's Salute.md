@@ -1,13 +1,11 @@
-# Daresso's Salute
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Daresso's Salute.png]]
 
-## Description
+# Flavour Text
 "A bit short in the arm, are you?
 Then you'll be short of a head soon enough."
 - Daresso the Daring
 
-## Details
+# Details
 - Requires Level 16
 - +(16-24) to Strength and Dexterity
 - 50% reduced maximum Energy Shield
@@ -17,9 +15,9 @@ Then you'll be short of a head soon enough."
 - +0.2 metres to Melee Strike Range
 - 60% increased Melee Damage when on Full Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

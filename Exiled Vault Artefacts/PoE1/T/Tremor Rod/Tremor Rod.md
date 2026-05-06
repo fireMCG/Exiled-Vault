@@ -1,13 +1,11 @@
-# Tremor Rod
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Tremor Rod.png]]
 
-## Description
+# Flavour Text
 The best way to gain the element of surprise,
 is to let your enemy learn your plans,
 and execute them - twice.
 
-## Details
+# Details
 - Warstaff
 - Physical Damage: 38-114
 - Critical Strike Chance: 7.90%
@@ -21,9 +19,9 @@ and execute them - twice.
 - (15-20)% reduced Enemy Stun Threshold
 - Mines can be Detonated an additional time
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

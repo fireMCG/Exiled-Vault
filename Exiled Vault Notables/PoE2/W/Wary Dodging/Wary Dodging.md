@@ -1,10 +1,8 @@
-# Wary Dodging
-
-## Effects
+# Effects
 Cannot be Light Stunned if you haven't been Hit Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

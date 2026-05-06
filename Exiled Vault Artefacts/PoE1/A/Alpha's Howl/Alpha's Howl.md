@@ -1,13 +1,11 @@
-# Alpha's Howl
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Alpha's Howl.png]]
 
-## Description
+# Flavour Text
 Nature respects the strong
 And paints the snow red
 With the blood of the weak
 
-## Details
+# Details
 - Evasion: (664-850)
 - Requires Level 64, 138 Dex
 - +2 to Level of Socketed Aura Gems
@@ -17,9 +15,9 @@ With the blood of the weak
 - Cannot be Frozen
 - 16% increased Mana Reservation Efficiency of Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Animal/Canidae/Wolf
 #Concept/Blood

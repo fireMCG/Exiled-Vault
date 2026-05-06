@@ -1,10 +1,8 @@
-# Arcane Intensity
-
-## Effects
+# Effects
 3% increased Spell Damage per 100 maximum Mana
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

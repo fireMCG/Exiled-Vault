@@ -1,11 +1,9 @@
-# Acceleration
-
-## Effects
+# Effects
 3% increased Movement Speed
 10% increased Skill Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

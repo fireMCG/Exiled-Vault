@@ -1,12 +1,10 @@
-# Trenchtimbre
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Trenchtimbre.png]]
 
-## Description
+# Flavour Text
 Ezomyte loyalty was not given to distant leaders.
 It was earned by comrades in arms.
 
-## Details
+# Details
 - One Hand Mace
 - Physical Damage: (28-30) to (46-49)
 - Critical Strike Chance: 5.00%
@@ -18,9 +16,9 @@ It was earned by comrades in arms.
 - +(1-2) to Level of all Minion Skills
 - Increases and Reductions to Minion Attack Speed also affect you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

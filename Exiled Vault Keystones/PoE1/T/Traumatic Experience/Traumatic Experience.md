@@ -1,12 +1,10 @@
-# Traumatic Experience
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Traumatic Experience.webp]]
 
-## Effects
+# Effects
 80% reduced chance for Memory Threads to lead towards the Incarnation of Dread
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

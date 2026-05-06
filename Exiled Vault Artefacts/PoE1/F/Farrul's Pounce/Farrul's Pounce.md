@@ -1,13 +1,11 @@
-# Farrul's Pounce
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Farrul's Pounce.png]]
 
-## Description
+# Flavour Text
 A hungry beast wastes no energy.
 Every strike, no matter how small, must work towards victory.
 The First of the Plains teaches us that the largest prey can still be whittled away.
 
-## Details
+# Details
 - Armour: (212-292)
 - Evasion: (212-292)
 - Requires Level 59, 45 Str, 45 Dex
@@ -18,9 +16,9 @@ The First of the Plains teaches us that the largest prey can still be whittled a
 - (40-50)% increased Damage with Hits and Ailments against Bleeding Enemies
 - You have Crimson Dance while you have Cat's Stealth
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

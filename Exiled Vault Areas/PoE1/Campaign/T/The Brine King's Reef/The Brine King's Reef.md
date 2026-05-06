@@ -1,15 +1,13 @@
-# The Brine King's Reef
-
-## Description
+# Flavour Text
 A coral throne for a salt-soured god.
 
-## Connected Areas
+# Connected Areas
 - The Beacon
 - The Bridge Encampment
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

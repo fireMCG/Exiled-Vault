@@ -1,13 +1,11 @@
-# Essence Worm
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Essence Worm.png]]
 
-## Description
+# Flavour Text
 "This thing is not a pet. It is a parasite that feeds on the very will of its host.
 Like any part of nightmare, it has found a way to make its price... acceptable."
 - Malachai the Soulless
 
-## Details
+# Details
 - Requires Level 38
 - Has 1 Socket
 - +2 to Level of Socketed Aura Gems
@@ -15,9 +13,9 @@ Like any part of nightmare, it has found a way to make its price... acceptable."
 - Your Blessing Skills are Disabled
 - 80% reduced Reservation Efficiency of Skills
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

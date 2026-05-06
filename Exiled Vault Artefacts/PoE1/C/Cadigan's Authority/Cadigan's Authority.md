@@ -1,13 +1,11 @@
-# Cadigan's Authority
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cadigan's Authority.png]]
 
-## Description
+# Flavour Text
 Over the course of a lifetime, Cadigan the First
 conquered every city-state on Middengard one by one,
 continually leveraging the power of each against the next.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: (111-136) to (176-209)
 - Critical Strike Chance: 7.00%
@@ -21,9 +19,9 @@ continually leveraging the power of each against the next.
 - (40-70)% increased Totem Placement speed
 - Battlemage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

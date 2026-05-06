@@ -1,12 +1,10 @@
-# The Aylardex
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Aylardex.png]]
 
-## Description
+# Flavour Text
 Shackled fires dance about;
 Might within from force without.
 
-## Details
+# Details
 - Requires Level 32
 - +(16-24) to Strength and Intelligence
 - +(30-50) to maximum Life
@@ -17,9 +15,9 @@ Might within from force without.
 - 1% of Damage is taken from Mana before Life per Power Charge
 - 40% reduced Critical Strike Chance per Power Charge
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

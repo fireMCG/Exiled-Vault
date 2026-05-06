@@ -1,15 +1,13 @@
-# The Temple of Chaos
-
-## Description
+# Flavour Text
 Here, all challengers were welcome, regardless of wealth or station.
 
-## Connected Areas
+# Connected Areas
 - Chimeral Wetlands
 - The Trial of Chaos
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

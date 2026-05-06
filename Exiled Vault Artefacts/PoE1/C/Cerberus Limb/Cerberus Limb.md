@@ -1,11 +1,9 @@
-# Cerberus Limb
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cerberus Limb.png]]
 
-## Description
+# Flavour Text
 The greatest of guardians make the greatest of sacrifices.
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: 30-55
 - Critical Strike Chance: 7.00%
@@ -20,9 +18,9 @@ The greatest of guardians make the greatest of sacrifices.
 - +5 to Armour per 5 Evasion Rating on Equipped Shield
 - +20 to Evasion Rating per 5 Maximum Energy Shield on Equipped Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

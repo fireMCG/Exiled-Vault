@@ -1,12 +1,10 @@
-# Tangletongue
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Tangletongue.png]]
 
-## Description
+# Flavour Text
 "In the hands of Orbala, it made a god bleed."
 - Wranga, tale-woman of the Wahida akhara
 
-## Details
+# Details
 - Spear
 - Physical Damage: (27-31) to (68-74)
 - Critical Strike Chance: (10.00-13.00)%
@@ -20,9 +18,9 @@
 - Bifurcates Critical Hits
 - 10% of Skill Mana Costs Converted to Life Costs
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

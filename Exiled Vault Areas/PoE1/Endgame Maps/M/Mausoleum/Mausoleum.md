@@ -1,14 +1,12 @@
-# Mausoleum
-
-## Description
+# Flavour Text
 A vault for the dead, as if
 
 they were valuable. Pathetic.
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #EndgameMap
 #PoE1
-#Interesting

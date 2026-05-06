@@ -1,14 +1,12 @@
-# Dig
-
-## Description
+# Flavour Text
 A hollow echo of bygone times
 
 in a land where none lived long.
 
-##
+#
 ---
-## Tags
+# Tags
+#Interesting
 #Area
 #EndgameMap
 #PoE1
-#Interesting

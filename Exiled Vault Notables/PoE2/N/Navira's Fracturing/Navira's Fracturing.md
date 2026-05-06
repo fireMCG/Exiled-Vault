@@ -1,12 +1,10 @@
-# Navira's Fracturing
-
-## Effects
+# Effects
 Grants Skill: Navira's Fracturing
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

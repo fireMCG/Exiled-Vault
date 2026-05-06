@@ -1,11 +1,9 @@
-# Essence Scarab of Adaptation
-
 ![[Exiled Vault Fragments/_Images/PoE1 - Essence Scarab of Adaptation.webp]]
 
-## Description
+# Flavour Text
 The crystalline lattice expands in directions alien to the mortal mind.
 
-## Details
+# Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -17,9 +15,9 @@ each Essence Modifier
 Can be used in a personal Map Device to add modifiers to a Map.
 Shift click to unstack.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Scarab
 #Fragment
 #PoE1

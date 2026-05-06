@@ -1,12 +1,10 @@
-# Replica Pillars of Arun
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Pillars of Arun.png]]
 
-## Description
+# Flavour Text
 "Whatever these maps are, it is clear they are dangerous. Send in only test subjects, no guards or researchers."
 - Administrator Qotra
 
-## Details
+# Details
 - Monster Level: 68
 - Item Quantity: +(200-250)%
 - Item Rarity: +(200-300)%
@@ -21,9 +19,9 @@
 - Players have 200% increased Cooldown Recovery Rate for Movement Skills
 - Travel to a Map by using this in a personal Map Device. Maps can only be used once.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Qotra
 #Artefact

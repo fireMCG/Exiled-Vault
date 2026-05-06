@@ -1,11 +1,9 @@
-# Corruption Endures
-
-## Effects
+# Effects
 7% chance to Avoid Death from Hits
 Requires The Unseen Path
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

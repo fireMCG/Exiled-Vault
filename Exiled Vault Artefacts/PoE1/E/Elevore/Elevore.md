@@ -1,11 +1,9 @@
-# Elevore
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Elevore.png]]
 
-## Description
+# Flavour Text
 Ancient worshippers of the Greatwolf were overtaken by a ravenous hunger for all things mystical.
 
-## Details
+# Details
 - Evasion: (240-344)
 - Requires Level 30, 66 Dex
 - +(20-25)% chance to Suppress Spell Damage
@@ -13,9 +11,9 @@ Ancient worshippers of the Greatwolf were overtaken by a ravenous hunger for all
 - (20-25)% chance to Avoid Elemental Ailments
 - Recover (100-200) Life when you Suppress Spell Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

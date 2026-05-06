@@ -1,14 +1,12 @@
-# The Retch
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Retch.png]]
 
-## Description
+# Flavour Text
 But the grain grew twisted and the water turned dark
 and those who partook of Mother Gull's gift
 birthed monsters that fed
 on the flesh of one another.
 
-## Details
+# Details
 - Requires Level 44
 - (12-24)% increased Global Physical Damage
 - +(60-80) to maximum Life
@@ -19,9 +17,9 @@ on the flesh of one another.
 - 200% of Life Leech applies to Enemies as Chaos Damage
 - 15% increased Movement Speed during any Flask Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

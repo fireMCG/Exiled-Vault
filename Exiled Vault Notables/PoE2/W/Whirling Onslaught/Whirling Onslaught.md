@@ -1,10 +1,8 @@
-# Whirling Onslaught
-
-## Effects
+# Effects
 50% chance to gain Onslaught on Killing Blow with Axes
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

@@ -1,10 +1,8 @@
-# Decisive Retreat
-
-## Effects
+# Effects
 50% increased Critical Damage Bonus against Enemies that have exited your Presence Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

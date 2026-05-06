@@ -1,12 +1,10 @@
-# The Pandemonius
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Pandemonius.png]]
 
-## Description
+# Flavour Text
 A single moment sets in motion an eternal fall,
 beneath which all are buried.
 
-## Details
+# Details
 - Requires Level 64
 - +(20-30) to Dexterity
 - (20-30)% increased Cold Damage
@@ -15,9 +13,9 @@ beneath which all are buried.
 - Blind Chilled Enemies on Hit
 - Damage Penetrates 20% Cold Resistance against Chilled Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Valako's Sign
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Valako's Sign.png]]
 
-## Description
+# Flavour Text
 A gift from Valako,
 appointing Kiloava as the Herald of War.
 A title Kaom claimed when he ended Kiloava's bloodline.
 
-## Details
+# Details
 - Requires Level 38
 - +(20-30)% to Lightning Resistance
 - 40% increased Damage with Hits against Shocked Enemies
@@ -16,9 +14,9 @@ A title Kaom claimed when he ended Kiloava's bloodline.
 - 1% of Damage Leeched as Life against Shocked Enemies
 - 25% chance to Shock
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

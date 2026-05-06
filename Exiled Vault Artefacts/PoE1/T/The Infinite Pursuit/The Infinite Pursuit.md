@@ -1,11 +1,9 @@
-# The Infinite Pursuit
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Infinite Pursuit.png]]
 
-## Description
+# Flavour Text
 We move to be closer to her, but the distance yet grows.
 
-## Details
+# Details
 - Armour: (241-278)
 - Requires Level 68, 120 Str
 - 20% increased Movement Speed
@@ -16,9 +14,9 @@ We move to be closer to her, but the distance yet grows.
 - Cannot be Stunned while Bleeding
 - Cannot be Poisoned while Bleeding
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

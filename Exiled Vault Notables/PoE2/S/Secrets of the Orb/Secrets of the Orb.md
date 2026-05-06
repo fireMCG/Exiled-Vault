@@ -1,10 +1,8 @@
-# Secrets of the Orb
-
-## Effects
+# Effects
 Orb Skills have +1 to Limit
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

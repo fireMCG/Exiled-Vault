@@ -1,11 +1,9 @@
-# Chainsting
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Chainsting.png]]
 
-## Description
+# Flavour Text
 The Sacred Hunt ends with mercy.
 
-## Details
+# Details
 - Spear
 - Physical Damage: (23-27) to (39-45)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ The Sacred Hunt ends with mercy.
 - All Damage from Hits with this Weapon Contributes to Pin Buildup
 - (20-30)% increased Projectile Speed with this Weapon
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

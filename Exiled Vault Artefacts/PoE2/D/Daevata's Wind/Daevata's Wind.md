@@ -1,11 +1,9 @@
-# Daevata's Wind
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Daevata's Wind.png]]
 
-## Description
+# Flavour Text
 As the flow of battle demanded, she became a sudden storm or a vanishing wind.
 
-## Details
+# Details
 - Spear
 - Physical Damage: (26-31) to (48-53)
 - Critical Strike Chance: 5.00%
@@ -20,9 +18,9 @@ As the flow of battle demanded, she became a sudden storm or a vanishing wind.
 - (30-60)% increased Melee Damage if you've dealt a Projectile Attack Hit in the past eight seconds
 - (30-60)% increased Projectile Damage if you've dealt a Melee Hit in the past eight seconds
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,12 +1,10 @@
-# Increased Ore Found
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Increased Ore Found.webp]]
 
-## Effects
+# Effects
 Ore Deposits in your Maps contain 10% increased Ore
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

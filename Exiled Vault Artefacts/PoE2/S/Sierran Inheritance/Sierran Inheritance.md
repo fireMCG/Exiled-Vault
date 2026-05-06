@@ -1,12 +1,10 @@
-# Sierran Inheritance
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Sierran Inheritance.png]]
 
-## Description
+# Flavour Text
 Born among the high peaks, many Mutewind
 live their entire lives in snow and ice.
 
-## Details
+# Details
 - Evasion: (84-100)
 - Energy Shield: (42-50)
 - Movement Speed: -3.0%
@@ -18,9 +16,9 @@ live their entire lives in snow and ice.
 - The Effect of Chill on you is reversed
 - All Damage taken from Hits Contributes to Magnitude of Chill inflicted on you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

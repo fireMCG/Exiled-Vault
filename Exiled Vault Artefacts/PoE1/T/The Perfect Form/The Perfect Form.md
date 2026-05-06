@@ -1,15 +1,13 @@
-# The Perfect Form
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Perfect Form.png]]
 
-## Description
+# Flavour Text
 We share one space,
 speak one voice,
 act through one body.
 A flawless crystal.
 Brittle.
 
-## Details
+# Details
 - Evasion: (2135-2946)
 - Movement Speed: -3%
 - Requires Level 65, 197 Dex
@@ -19,9 +17,9 @@ Brittle.
 - Evasion Rating is increased by Overcapped Cold Resistance
 - Acrobatics
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

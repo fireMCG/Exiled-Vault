@@ -1,12 +1,10 @@
-# Nuro's Harp
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Nuro's Harp.png]]
 
-## Description
+# Flavour Text
 Night's frost becomes morning's dew
 Darkness cleansed, pure and new.
 
-## Details
+# Details
 - Bow
 - Elemental Damage: (180-210) to (240-280)
 - Critical Strike Chance: (6.50-7.50)%
@@ -22,9 +20,9 @@ Darkness cleansed, pure and new.
 - (30-50)% increased Effect of Chilled Ground
 - (30-50)% increased Effect of Consecrated Ground you create
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

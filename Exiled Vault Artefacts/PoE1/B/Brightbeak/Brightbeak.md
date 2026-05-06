@@ -1,12 +1,10 @@
-# Brightbeak
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Brightbeak.png]]
 
-## Description
+# Flavour Text
 "I know how to say 'faster' and 'attack' in Karui, Marak and Ezo."
 - Voll of Thebrus
 
-## Details
+# Details
 - One Handed Mace
 - Physical Damage: (19.5-22.75) to (46.5-54.25)
 - Critical Strike Chance: 6.25%
@@ -20,9 +18,9 @@
 - +(20-30)% to Fire Resistance
 - +(20-30)% to Lightning Resistance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

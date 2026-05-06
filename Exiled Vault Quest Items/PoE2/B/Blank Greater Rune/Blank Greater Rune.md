@@ -1,12 +1,10 @@
-# Blank Greater Rune
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Blank Greater Rune.png]]
 
-## Description
+# Flavour Text
 Untouched by fate. Its power waits for a purpose.
 
-##
+#
 ---
-## Tags
+# Tags
 #QuestItem
 #PoE2

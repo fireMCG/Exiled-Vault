@@ -1,11 +1,9 @@
-# Xoph's Inception
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Xoph's Inception.png]]
 
-## Description
+# Flavour Text
 Upon the red pyre we are born.
 
-## Details
+# Details
 - Bow
 - Physical Damage: (93.6-104.4) to (374.4-417.6)
 - Critical Strike Chance: 6.00%
@@ -18,9 +16,9 @@ Upon the red pyre we are born.
 - Projectiles Pierce all Burning Enemies
 - Arrows deal 30 to 50 Added Fire Damage for each time they've Pierced
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

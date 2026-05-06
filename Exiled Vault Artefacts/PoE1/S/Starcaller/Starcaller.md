@@ -1,11 +1,9 @@
-# Starcaller
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Starcaller.png]]
 
-## Description
+# Flavour Text
 What began in the stars was settled in blood, beneath an uncaring sky.
 
-## Details
+# Details
 - Two Handed Axe
 - Physical Damage: (178.2-226.8) to (266.2-338.8)
 - Critical Strike Chance: (6.00-6.50)%
@@ -19,9 +17,9 @@ What began in the stars was settled in blood, beneath an uncaring sky.
 - (10-20)% increased Area of Effect
 - Gain (40-60)% of Weapon Physical Damage as Extra Damage of a random Element
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

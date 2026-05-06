@@ -1,11 +1,9 @@
-# The Dark Defiler
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Dark Defiler.png]]
 
-## Description
+# Flavour Text
 Rare is the Necromancer who leads his undead armies from the front.
 
-## Details
+# Details
 - Sceptre
 - Spirit: 100
 - Grants Skill: Level (1-20) Skeletal Warrior Minion
@@ -14,9 +12,9 @@ Rare is the Necromancer who leads his undead armies from the front.
 - (10-30)% increased Mana Regeneration Rate
 - Gain 5% of Damage as Chaos Damage per Undead Minion
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

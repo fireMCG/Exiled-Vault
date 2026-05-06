@@ -1,20 +1,18 @@
-# Idol of Grold
-
 ![[Exiled Vault Socketables/_Images/PoE2 - Idol of Grold.webp]]
 
-## Details
+# Details
 - Stack Size: 1 / 10
 - Limited to: 1
 - Requires: Level 50
 
-## Effects
+# Effects
 - Gloves: 20% increased total Power counted by Warcries
 
-## Bonded Effects
+# Bonded Effects
 - Gloves: 20% increased Glory generation
 
-##
+#
 ---
-## Tags
+# Tags
 #Socketable
 #PoE2

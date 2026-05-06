@@ -1,8 +1,6 @@
-# The Sigil
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Sigil.png]]
 
-## Description
+# Flavour Text
 Three men travel
 through the gate;
 they carry a protective ward.
@@ -10,12 +8,12 @@ A faction conspires
 against their fate,
 but magic unravels the sword.
 
-## Reward
+# Reward
 Unassailable Amulet
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/DivinationCard
 #DivinationCard
 #PoE1

@@ -1,17 +1,15 @@
-# Imperial Legacy
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Imperial Legacy.png]]
 
-## Description
+# Flavour Text
 A life lost, A legacy born.
 
-## Reward
+# Reward
 Six-Link Imperial Bow
 Item Level: 100
 
-##
+#
 ---
-## Tags
+# Tags
 #Attributes/Legacy
 #Category/DivinationCard
 #DivinationCard

@@ -1,12 +1,10 @@
-# Shavronne's Wrappings
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Shavronne's Wrappings.png]]
 
-## Description
+# Flavour Text
 Shavronne's apparel became ever more extravagant
 as her body and soul became ever more corrupted.
 
-## Details
+# Details
 - Energy Shield: (274-377)
 - Movement Speed: -3%
 - Requires Level 62, 180 Int
@@ -17,9 +15,9 @@ as her body and soul became ever more corrupted.
 - Reflects 1 to 250 Lightning Damage to Melee Attackers
 - Chaos Damage taken does not bypass Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

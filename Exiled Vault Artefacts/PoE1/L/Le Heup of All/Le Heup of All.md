@@ -1,14 +1,12 @@
-# Le Heup of All
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Le Heup of All.png]]
 
-## Description
+# Flavour Text
 Existence is infinite
 A weave of the living and dead
 Beyond the understanding
 Of the many mortal threads
 
-## Details
+# Details
 - Requires Level 24
 - Adds 1 to 4 Physical Damage to Attacks
 - +(10-30) to all Attributes
@@ -16,9 +14,9 @@ Of the many mortal threads
 - (10-30)% increased Rarity of Items found
 - +(10-30)% to all Elemental Resistances
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

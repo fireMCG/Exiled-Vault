@@ -1,13 +1,11 @@
-# Beltimber Blade
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Beltimber Blade.png]]
 
-## Description
+# Flavour Text
 By wind and wing they are carried,
 Their fates not theirs to control,
 Yet the fates of others dragged in their wake.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (116.85-129.15) to (193.8-214.2)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ Yet the fates of others dragged in their wake.
 - Skills fire 2 additional Projectiles if you've used a Movement Skill Recently
 - Far Shot
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Concept/Fate
 #Concept/Wind

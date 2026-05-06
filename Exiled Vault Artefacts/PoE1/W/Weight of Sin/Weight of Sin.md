@@ -1,19 +1,17 @@
-# Weight of Sin
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Weight of Sin.png]]
 
-## Description
+# Flavour Text
 Ill will is the greatest of burdens.
 
-## Details
+# Details
 - (15-20)% increased Chaos Damage
 - 15% reduced Movement Speed
 - Corrupted
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

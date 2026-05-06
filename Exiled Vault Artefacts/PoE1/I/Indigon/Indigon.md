@@ -1,12 +1,10 @@
-# Indigon
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Indigon.png]]
 
-## Description
+# Flavour Text
 Where the body's limits begin,
 the mind's limits end.
 
-## Details
+# Details
 - Energy Shield: (200-257)
 - Requires Level 69, 154 Int
 - (150-180)% increased Energy Shield
@@ -16,9 +14,9 @@ the mind's limits end.
 - (50-60)% increased Cost of Skills for each 200 total Mana Spent Recently
 - (20-25)% increased Spell Damage for each 200 total Mana you have Spent Recently, up to 2000%
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

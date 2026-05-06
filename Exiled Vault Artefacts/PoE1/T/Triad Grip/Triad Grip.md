@@ -1,11 +1,9 @@
-# Triad Grip
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Triad Grip.png]]
 
-## Description
+# Flavour Text
 The secret of the elements lies within a square triangle.
 
-## Details
+# Details
 - Armour: (104-147)
 - Energy Shield: (21-30)
 - Requires Level 32, 26 Str, 26 Int
@@ -16,9 +14,9 @@ The secret of the elements lies within a square triangle.
 - Minions convert 25% of Physical Damage to Chaos Damage per White Socket
 - Minions have (5-10)% chance to Freeze, Shock and Ignite
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

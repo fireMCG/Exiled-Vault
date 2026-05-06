@@ -1,11 +1,9 @@
-# Drenched
-
-## Effects
+# Effects
 40% increased chance to Shock
 Gain 5% of Lightning Damage as Extra Cold Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

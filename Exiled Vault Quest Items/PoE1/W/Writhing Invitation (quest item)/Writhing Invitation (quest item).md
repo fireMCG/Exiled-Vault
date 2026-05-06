@@ -1,14 +1,12 @@
-# Writhing Invitation (quest item)
-
 ![[Exiled Vault Quest Items/_Images/PoE1 - Writhing Invitation (quest item).png]]
 
-## Description
+# Flavour Text
 The Infinite Hunger awaits in a cosmic stomach where
 whole civilisations are digested - but do not die.
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Eldritch/InfiniteHunger
 #Concept/Tangle
 #Category/QuestItem

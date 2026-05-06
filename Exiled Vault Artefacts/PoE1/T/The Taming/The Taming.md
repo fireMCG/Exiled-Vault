@@ -1,8 +1,6 @@
-# The Taming
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Taming.png]]
 
-## Description
+# Flavour Text
 "Moon after moon did Berek make fools
 Of the great and Untamed Three
 Until malice for a Brother
@@ -11,7 +9,7 @@ And Berek did hunt
 Alone and free."
 - Berek and the Untamed
 
-## Details
+# Details
 - Requires Level 30
 - +(8-10)% to all Elemental Resistances
 - (30-40)% increased Elemental Damage with Hits and Ailments for
@@ -19,9 +17,9 @@ Alone and free."
 - +(20-30)% to all Elemental Resistances
 - 10% chance to Freeze, Shock and Ignite
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #League/Domination
 #League/Nemesis

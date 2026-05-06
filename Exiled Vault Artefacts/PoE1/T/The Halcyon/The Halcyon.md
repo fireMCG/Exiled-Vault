@@ -1,12 +1,10 @@
-# The Halcyon
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Halcyon.png]]
 
-## Description
+# Flavour Text
 We wait, still as the dead.
 To join the great avalanche.
 
-## Details
+# Details
 - Requires Level 35
 - +(20-30) to Dexterity
 - Freezes you inflict spread to other Enemies within 1.5 metres
@@ -15,9 +13,9 @@ To join the great avalanche.
 - 10% chance to Freeze
 - 60% increased Damage if you've Frozen an Enemy Recently
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

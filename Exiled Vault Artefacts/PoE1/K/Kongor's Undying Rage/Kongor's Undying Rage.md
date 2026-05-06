@@ -1,11 +1,9 @@
-# Kongor's Undying Rage
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kongor's Undying Rage.png]]
 
-## Description
+# Flavour Text
 Command like a king and nothing will stand in your way.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (144-157) to (467-537)
 - Critical Strike Chance: (7.80-8.40)%
@@ -20,9 +18,9 @@ Command like a king and nothing will stand in your way.
 - Your Critical Strikes do not deal extra Damage
 - You gain Onslaught for 4 seconds on Critical Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

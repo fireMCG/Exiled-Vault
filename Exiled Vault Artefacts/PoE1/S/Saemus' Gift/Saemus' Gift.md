@@ -1,14 +1,12 @@
-# Saemus' Gift
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Saemus' Gift.png]]
 
-## Description
+# Flavour Text
 Beaten in contest, he would try once more
 Guided by magic, Magjar took aim at a dove
 Saemus' gift would influence the score
 Guided by darkness, Magjar spilled the blood of his love
 
-## Details
+# Details
 - Requires Level 45
 - (20-30)% increased Projectile Speed
 - +(30-40) to Dexterity
@@ -18,9 +16,9 @@ Guided by darkness, Magjar spilled the blood of his love
 - 20% chance to Avoid being Stunned
 - 1% increased Lightning Damage per 10 Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

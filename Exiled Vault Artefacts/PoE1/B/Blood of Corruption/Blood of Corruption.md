@@ -1,15 +1,13 @@
-# Blood of Corruption
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Blood of Corruption.png]]
 
-## Description
+# Flavour Text
 In my dream, a voice spoke to me. It said:
 'My reach knows no bounds.
 All that is pure is destined to rot.
 All that lives is destined to serve.'
 - Doryani, Queen's Thaumaturgist
 
-## Details
+# Details
 - Requires Level 5
 - +(20-30) to Strength
 - Grants Level 10 Gluttony of Elements Skill
@@ -18,9 +16,9 @@ All that lives is destined to serve.'
 - +(17-29)% to Chaos Resistance
 - Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact

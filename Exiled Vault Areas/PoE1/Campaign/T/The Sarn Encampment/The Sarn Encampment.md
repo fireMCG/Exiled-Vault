@@ -1,17 +1,15 @@
-# The Sarn Encampment
-
-## Description
+# Flavour Text
 The forging ground of heroes, past and present.
 
-## Connected Areas
+# Connected Areas
 - The City of Sarn
 - The Slums
 - Sarn Arena
 - Aspirants' Plaza
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

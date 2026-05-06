@@ -1,13 +1,11 @@
-# Verisium Spikes
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Verisium Spikes.png]]
 
-## Description
+# Flavour Text
 They are engraved with the runes for 'Authority,' 'Break,' and 'Release.'
 
-##
+#
 ---
-## Tags
+# Tags
 #Concept/Rune
 #Category/QuestItem
 #Society/Kalguur

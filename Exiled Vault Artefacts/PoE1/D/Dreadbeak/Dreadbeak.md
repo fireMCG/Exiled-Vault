@@ -1,11 +1,9 @@
-# Dreadbeak
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Dreadbeak.png]]
 
-## Description
+# Flavour Text
 As death arrives, so too does instinct.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (130.5-142.5) to (198-208.5)
 - Critical Strike Chance: 5.00%
@@ -21,9 +19,9 @@ As death arrives, so too does instinct.
 - Grants 2 Life per Enemy Hit
 - You have Onslaught while on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

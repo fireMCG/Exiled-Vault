@@ -1,13 +1,11 @@
-# The Narcissist
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Narcissist.png]]
 
-## Description
+# Flavour Text
 Knowing the human body to harbour infinite potential,
 she endowed her subjects with the most potent forces at her disposal,
 striving invariably for improvement.
 
-## Details
+# Details
 - Duration: 20 seconds
 - Empowers: 1 enemies
 - Empowerment: 100
@@ -20,9 +18,9 @@ striving invariably for improvement.
 - Empowered Monsters drop (8-12) > RewardsEmpowered Monsters drop (8-12) Currency RewardsEmpowered Monsters drop (8-12) Divination Card RewardsEmpowered Monsters drop (8-12) Fragment RewardsEmpowered Monsters drop (8-12) Map RewardsEmpowered Monsters drop (8-12) Scarab RewardsEmpowered Monsters drop (8-12) Sentinel RewardsEmpowered Monsters drop (8-12) Unique Rewards
 - Unmodifiable
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

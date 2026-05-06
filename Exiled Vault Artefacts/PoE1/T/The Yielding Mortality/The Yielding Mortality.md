@@ -1,8 +1,6 @@
-# The Yielding Mortality
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Yielding Mortality.png]]
 
-## Details
+# Details
 - Staff
 - Physical Damage: (282-322) to (486-556)
 - Critical Strike Chance: (11.05-11.90)%
@@ -17,9 +15,9 @@
 - Adds (225-265) to (315-385) Physical Damage
 - (30-40)% increased Critical Strike Chance
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

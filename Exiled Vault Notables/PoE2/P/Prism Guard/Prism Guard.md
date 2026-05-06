@@ -1,10 +1,8 @@
-# Prism Guard
-
-## Effects
+# Effects
 +30% of Armour also applies to Elemental Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

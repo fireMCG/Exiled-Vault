@@ -1,13 +1,11 @@
-# The Original Scripture
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Original Scripture.png]]
 
-## Description
+# Flavour Text
 "It's all here. The lie at the core of my faith. Maxarius was not the first chosen of
 Innocence. Maxarius was Innocence himself. A charlatan, a liar, and a power-seeker."
 - Lycia, the Heretic
 
-## Details
+# Details
 - Requires Level 64
 - The Herald of the Scourge drops the Original Sin
 - Cannot have Inspiration
@@ -17,9 +15,9 @@ Innocence. Maxarius was Innocence himself. A charlatan, a liar, and a power-seek
 - Unmodifiable
 - Place this item on the Relic Altar at the start of each Sanctum run
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

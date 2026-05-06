@@ -1,13 +1,11 @@
-# Howlcrack
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Howlcrack.png]]
 
-## Description
+# Flavour Text
 "Our new capital will be called Korathin.
 My slaves will build it. My price is dominion...
 or blood." - Keita's proclaimation, 872 IC
 
-## Details
+# Details
 - Armour: (692-990)
 - Requires Level 60, 138 Str
 - +(30-40) to Strength
@@ -16,9 +14,9 @@ or blood." - Keita's proclaimation, 872 IC
 - Warcries Cost +15% of Life
 - Warcry Skills have (15-25)% increased Area of Effect
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

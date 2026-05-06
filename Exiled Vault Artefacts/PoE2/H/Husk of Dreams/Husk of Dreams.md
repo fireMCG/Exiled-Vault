@@ -1,11 +1,9 @@
-# Husk of Dreams
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Husk of Dreams.png]]
 
-## Description
+# Flavour Text
 Yes... but what if?
 
-## Details
+# Details
 - Armour: (200-250)
 - Energy Shield: (78-97)
 - Movement Speed: -4.0%
@@ -16,9 +14,9 @@ Yes... but what if?
 - (20-30)% increased Flask Charges gained
 - 50% less Flask Charges used
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

@@ -1,10 +1,8 @@
-# Insulated Treads
-
-## Effects
+# Effects
 Gain Ailment Threshold equal to the lowest of Evasion and Armour on your Boots
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

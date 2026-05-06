@@ -1,10 +1,8 @@
-# Efficient Contraptions
-
-## Effects
+# Effects
 Hazards have 15% chance to rearm after they are triggered
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

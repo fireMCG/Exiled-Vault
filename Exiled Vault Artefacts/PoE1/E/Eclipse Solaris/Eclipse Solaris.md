@@ -1,12 +1,10 @@
-# Eclipse Solaris
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Eclipse Solaris.png]]
 
-## Description
+# Flavour Text
 Every decade, Lunaris devours Solaris
 Each time, Solaris emerges from Lunaris, born anew.
 
-## Details
+# Details
 - Wand
 - Physical Damage: 21-38
 - Elemental Damage: (30-45) to (60-80)
@@ -22,9 +20,9 @@ Each time, Solaris emerges from Lunaris, born anew.
 - (120-140)% increased Critical Strike Chance against Blinded Enemies
 - Adds 2 to 5 Fire Damage to Attacks for every 1% your Light Radius is above base value
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

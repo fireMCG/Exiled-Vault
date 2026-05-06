@@ -1,13 +1,11 @@
-# Instruments of Power
-
-## Effects
+# Effects
 You can equip a Focus while wielding a Staff
 50% reduced bonuses gained from Equipped Focus
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Disciple of Varashta
 #Sorceress
+#Notable
 #PoE2

@@ -1,11 +1,9 @@
-# Inescapable Cold
-
-## Effects
+# Effects
 40% increased Freeze Buildup
 20% increased Freeze Duration on Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

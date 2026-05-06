@@ -1,10 +1,8 @@
-# Repeating Explosives
-
-## Effects
+# Effects
 Grenades have 15% chance to activate a second time
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

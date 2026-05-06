@@ -1,13 +1,11 @@
-# Replica Windripper
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Windripper.png]]
 
-## Description
+# Flavour Text
 "Beware. Prototype #91 is haunted by a strange miasma,
 an odour of evil. Nothing can shield the senses."
 - Researcher Arn
 
-## Details
+# Details
 - Bow
 - Physical Damage: 29-117
 - Elemental Damage: (48-60) to (72-90), 1 to (120-150)
@@ -22,9 +20,9 @@ an odour of evil. Nothing can shield the senses."
 - Enemies Frozen by you take 20% increased Damage
 - +(90-120) Energy Shield gained on Killing a Shocked Enemy
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Arn
 #Artefact

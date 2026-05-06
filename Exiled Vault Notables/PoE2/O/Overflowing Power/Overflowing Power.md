@@ -1,10 +1,8 @@
-# Overflowing Power
-
-## Effects
+# Effects
 +2 to Maximum Power Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

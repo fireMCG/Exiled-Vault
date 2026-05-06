@@ -1,12 +1,10 @@
-# Squirming Terror
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Squirming Terror.png]]
 
-## Description
+# Flavour Text
 Madness crawls under the skin,
 bursting forth from the flesh.
 
-## Details
+# Details
 - Requires Level 32
 - Has 1 Socket
 - An Enemy Writhing Worm spawns every 2 seconds
@@ -14,9 +12,9 @@ bursting forth from the flesh.
 - Lose (20-10) Life per Enemy Killed
 - Gain (5-10) Mana per Enemy Killed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

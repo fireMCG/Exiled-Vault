@@ -1,12 +1,10 @@
-# The Pariah
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Pariah.png]]
 
-## Description
+# Flavour Text
 A man who changes his loyalties often,
 soon finds he has none.
 
-## Details
+# Details
 - Requires Level 5
 - Has 1 Socket
 - +2 to Level of Socketed Gems
@@ -16,9 +14,9 @@ soon finds he has none.
 - +100 to Maximum Energy Shield per Blue Socket
 - 60% increased Item Rarity per White Socket
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

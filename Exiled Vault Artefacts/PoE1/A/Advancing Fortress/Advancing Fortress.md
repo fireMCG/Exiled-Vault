@@ -1,14 +1,12 @@
-# Advancing Fortress
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Advancing Fortress.png]]
 
-## Description
+# Flavour Text
 "A man cowers behind his walls.
 A woman carries her fortress with her.
 In heart, in mind, in hand."
 - Sekhema Deshret
 
-## Details
+# Details
 - Claw
 - Physical Damage: (40-44) to (106-116.6)
 - Critical Strike Chance: 7.50%
@@ -24,9 +22,9 @@ In heart, in mind, in hand."
 - +(30-50) to maximum Life
 - Reflects (71-90) Physical Damage to Melee Attackers
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Sekhema/Deshret
 #Concept/Body/Hand

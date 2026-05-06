@@ -1,12 +1,10 @@
-# Death's Hand
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Death's Hand.png]]
 
-## Description
+# Flavour Text
 "All are welcome in Hinekora's eternal home."
 - Karui Proverb
 
-## Details
+# Details
 - Sceptre
 - Physical Damage: (72-83) to (140-183)
 - Critical Strike Chance: (8.75-10.50)%
@@ -19,9 +17,9 @@
 - 30% chance to gain a Power Charge when you Stun
 - Gain Unholy Might for 4 seconds on Critical Strike
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

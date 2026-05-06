@@ -1,13 +1,11 @@
-# Replica Last Resort
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Replica Last Resort.png]]
 
-## Description
+# Flavour Text
 "An absurdly vicious weapon in the hands of our test subjects. It seems to
 channel the desperate will to live. Intriguing."
 - Researcher Olesya
 
-## Details
+# Details
 - Claw
 - Physical Damage: (7.2-8) to (19.8-22)
 - Critical Strike Chance: 7.30%
@@ -20,9 +18,9 @@ channel the desperate will to live. Intriguing."
 - 200% increased Damage with Claws while on Low Life
 - Deal no Damage when not on Low Life
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Olesya
 #Artefact

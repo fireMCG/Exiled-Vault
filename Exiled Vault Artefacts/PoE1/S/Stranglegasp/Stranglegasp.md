@@ -1,19 +1,17 @@
-# Stranglegasp
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Stranglegasp.png]]
 
-## Description
+# Flavour Text
 Death's approach brings clarity.
 
-## Details
+# Details
 - Requires Level 52
 - +(10-16) to all Attributes
 - Can have 3 additional Enchantment Modifiers
 - This item can be anointed by Cassia
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

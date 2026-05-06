@@ -1,10 +1,8 @@
-# Sigil of Lightning
-
-## Effects
+# Effects
 30% increased Damage with Hits against Shocked Enemies
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

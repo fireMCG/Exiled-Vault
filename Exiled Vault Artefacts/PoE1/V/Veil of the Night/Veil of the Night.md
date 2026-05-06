@@ -1,14 +1,12 @@
-# Veil of the Night
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Veil of the Night.png]]
 
-## Description
+# Flavour Text
 The seeds of greatness are planted in darkness,
 Watered by suffering,
 Tended by desperation,
 And bloom steel flowers of victory.
 
-## Details
+# Details
 - Armour: (61-76)
 - Energy Shield: (14-17)
 - Requires Level 22, 27 Str, 27 Int
@@ -18,9 +16,9 @@ And bloom steel flowers of victory.
 - (18-22)% increased Global Defences
 - Elemental Resistances are Zero
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

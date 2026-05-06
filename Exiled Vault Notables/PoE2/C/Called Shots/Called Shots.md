@@ -1,12 +1,10 @@
-# Called Shots
-
-## Effects
+# Effects
 Grants Skill: Called Shots
 
-##
+#
 ---
-## Tags
-#Notable
+# Tags
 #Deadeye
 #Ranger
+#Notable
 #PoE2

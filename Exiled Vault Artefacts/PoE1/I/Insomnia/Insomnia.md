@@ -1,12 +1,10 @@
-# Insomnia
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Insomnia.png]]
 
-## Description
+# Flavour Text
 He feeds on the nightmares of the Atlas' denizens.
 If you fall asleep in the Atlas, he'll be waiting...
 
-## Details
+# Details
 - Duration: 20 seconds
 - Empowers: 1 enemies
 - Empowerment: 100
@@ -19,9 +17,9 @@ If you fall asleep in the Atlas, he'll be waiting...
 - Empowered Monsters drop (8-12) > RewardsEmpowered Monsters drop (8-12) Currency RewardsEmpowered Monsters drop (8-12) Divination Card RewardsEmpowered Monsters drop (8-12) Fragment RewardsEmpowered Monsters drop (8-12) Map RewardsEmpowered Monsters drop (8-12) Scarab RewardsEmpowered Monsters drop (8-12) Sentinel RewardsEmpowered Monsters drop (8-12) Unique Rewards
 - Unmodifiable
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

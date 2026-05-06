@@ -1,11 +1,9 @@
-# Galesight
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Galesight.png]]
 
-## Description
+# Flavour Text
 See creation as it will be, frozen and silent.
 
-## Details
+# Details
 - Energy Shield: (204-258)
 - Requires Level 59, 122 Int
 - (240-280)% increased Energy Shield
@@ -14,9 +12,9 @@ See creation as it will be, frozen and silent.
 - (25-50)% chance to inflict Brittle
 - Cannot inflict Freeze or Chill
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,11 +1,9 @@
-# Assailum
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Assailum.png]]
 
-## Description
+# Flavour Text
 A moment of calm before the battle can end the war.
 
-## Details
+# Details
 - Armour: (291-388)
 - Evasion: (261-348)
 - Requires Level 45, 36 Str, 36 Dex
@@ -14,9 +12,9 @@ A moment of calm before the battle can end the war.
 - (30-50)% increased Critical Hit Chance
 - Skills have a (100-150)% longer Perfect Timing window
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

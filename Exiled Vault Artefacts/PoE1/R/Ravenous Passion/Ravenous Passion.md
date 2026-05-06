@@ -1,12 +1,10 @@
-# Ravenous Passion
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ravenous Passion.png]]
 
-## Description
+# Flavour Text
 There is power in hunger, though it will
 consume all that you have... and more.
 
-## Details
+# Details
 - Armour: (214-301)
 - Energy Shield: (45-63)
 - Requires Level 44, 50 Str, 50 Int
@@ -15,9 +13,9 @@ consume all that you have... and more.
 - Gain (7-10) Rage after Spending a total of 200 Mana
 - Rage grants Spell Damage instead of Attack Damage
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/EaterOfWorlds
 #Concept/Hunger

@@ -1,11 +1,9 @@
-# March of the Legion
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - March of the Legion.png]]
 
-## Description
+# Flavour Text
 When the time comes to face evil, the faithful are never alone.
 
-## Details
+# Details
 - Armour: (364-480)
 - Energy Shield: (73-100)
 - Requires Level 58, 54 Str, 54 Int
@@ -15,9 +13,9 @@ When the time comes to face evil, the faithful are never alone.
 - +(12-18)% to all Elemental Resistances
 - (20-30)% increased Movement Speed
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

@@ -1,13 +1,11 @@
-# Courtyard
-
-## Description
+# Flavour Text
 An elaborate, beautiful garden,
 
 hidden from the public. Selfish.
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #EndgameMap
 #PoE1

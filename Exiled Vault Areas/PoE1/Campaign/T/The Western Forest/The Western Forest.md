@@ -1,16 +1,14 @@
-# The Western Forest
-
-## Description
+# Flavour Text
 Bathed in the cool light of obsession.
 
-## Connected Areas
+# Connected Areas
 - The Riverways
 - The Weaver's Chambers
 - Prisoner's Gate
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

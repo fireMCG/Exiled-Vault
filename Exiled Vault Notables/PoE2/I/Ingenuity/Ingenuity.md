@@ -1,10 +1,8 @@
-# Ingenuity
-
-## Effects
+# Effects
 +25 to Intelligence
 
-##
+#
 ---
-## Tags
+# Tags
 #Notable
 #PoE2

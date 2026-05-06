@@ -1,12 +1,10 @@
-# The Red Dream
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Red Dream.png]]
 
-## Description
+# Flavour Text
 We flow like blood into Chayula's open mouth,
 and spill into the land we have watched forever.
 
-## Details
+# Details
 - Limited to: 1
 - Radius: Large
 - Gain (6-10)% of Fire Damage as Extra Chaos Damage
@@ -14,9 +12,9 @@ and spill into the land we have watched forever.
 - also grant an equal chance to gain an Endurance Charge on Kill
 - Place into an allocated Jewel Socket on the Passive Skill Tree. Right click to remove from the Socket.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

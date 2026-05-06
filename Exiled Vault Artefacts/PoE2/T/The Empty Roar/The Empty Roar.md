@@ -1,11 +1,9 @@
-# The Empty Roar
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - The Empty Roar.png]]
 
-## Description
+# Flavour Text
 Secrecy and silence are powers all their own.
 
-## Details
+# Details
 - Two Hand Mace
 - Physical Damage: (61-71) to (89-99)
 - Critical Strike Chance: 5.00%
@@ -19,9 +17,9 @@ Secrecy and silence are powers all their own.
 - All Attacks count as Empowered Attacks
 - Cannot use Warcries
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

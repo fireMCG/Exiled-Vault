@@ -1,13 +1,11 @@
-# Edge of Madness
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Edge of Madness.png]]
 
-## Description
+# Flavour Text
 Soon, the pleas for mercy were muted.
 Only one voice remained.
 Laughing.
 
-## Details
+# Details
 - Two Hand Sword
 - Physical Damage: (32.2-36.8) to (67.2-76.8)
 - Chaos Damage: (60-68) to (90-102)
@@ -22,9 +20,9 @@ Laughing.
 - 1% increased Chaos Damage per Level
 - Adds 1 to 2 Physical Damage to Attacks per Level
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

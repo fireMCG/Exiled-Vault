@@ -1,14 +1,12 @@
-# Chain of Endurance
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Chain of Endurance.png]]
 
-## Description
+# Flavour Text
 "A man confronted with sufficient adversity
 may ascend to unprecedented heights
 and triumph over his coddled rivals."
 - Weylan the Ezomyte
 
-## Details
+# Details
 - Requires Level 14
 - +(9-20) to maximum Energy Shield
 - +(40-50) to maximum Life
@@ -16,9 +14,9 @@ and triumph over his coddled rivals."
 - Reflects (100-150) Physical Damage to Melee Attackers
 - Regenerate 2% of Life per second for each different Ailment affecting you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

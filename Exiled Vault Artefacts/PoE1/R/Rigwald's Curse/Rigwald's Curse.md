@@ -1,14 +1,12 @@
-# Rigwald's Curse
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Rigwald's Curse.png]]
 
-## Description
+# Flavour Text
 I once thought the First Ones were just
 stories made to scare children.
 But I've seen what they can do. I've felt it.
 And now I must live with that terrible knowledge.
 
-## Details
+# Details
 - Talisman Tier: 2
 - Requires Level 28
 - +(24-36)% to Global Critical Strike Multiplier
@@ -18,9 +16,9 @@ And now I must live with that terrible knowledge.
 - Modifiers to Claw Critical Strike Chance also apply to Unarmed Critical Strike Chance with Melee Skills
 - Corrupted
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

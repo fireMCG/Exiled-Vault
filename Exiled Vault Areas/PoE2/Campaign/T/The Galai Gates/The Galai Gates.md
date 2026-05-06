@@ -1,15 +1,13 @@
-# The Galai Gates
-
-## Description
+# Flavour Text
 The fifth river is but a distant memory on tale-women's tongues.
 
-## Connected Areas
+# Connected Areas
 - The Khari Crossing
 - Qimah
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

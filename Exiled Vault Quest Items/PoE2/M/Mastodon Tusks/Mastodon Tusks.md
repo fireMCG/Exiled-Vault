@@ -1,13 +1,11 @@
-# Mastodon Tusks
-
 ![[Exiled Vault Quest Items/_Images/PoE2 - Mastodon Tusks.png]]
 
-## Description
+# Flavour Text
 Age-old ivory from a forgotten era.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/QuestItem
 #Society/Maraketh
 #Society/SunClan

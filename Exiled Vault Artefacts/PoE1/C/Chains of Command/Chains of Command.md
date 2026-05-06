@@ -1,11 +1,9 @@
-# Chains of Command
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Chains of Command.png]]
 
-## Description
+# Flavour Text
 A general may carry his men to greatness, or be dragged beneath the mire by their burden.
 
-## Details
+# Details
 - Armour: (1002-1336)
 - Energy Shield: (240-319)
 - Movement Speed: -5%
@@ -20,9 +18,9 @@ A general may carry his men to greatness, or be dragged beneath the mire by thei
 - Animated and Manifested Minions' Melee Strikes deal 50% less Splash Damage
 - You cannot have Non-Animated, Non-Manifested Minions
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

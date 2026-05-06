@@ -1,15 +1,13 @@
-# The Toxic Conduits
-
-## Description
+# Flavour Text
 Spells of blood foul the waters below.
 
-## Connected Areas
+# Connected Areas
 - The Sarn Encampment
 - Doedre's Cesspool
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE1

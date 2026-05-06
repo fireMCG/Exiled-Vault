@@ -1,12 +1,10 @@
-# Death's Door
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Death's Door.png]]
 
-## Description
+# Flavour Text
 To extend your life as long as possible
 is to extend all the maladies that come with it.
 
-## Details
+# Details
 - Armour: (363-417)
 - Energy Shield: (75-84)
 - Requires Level 64, 62 Str, 62 Int
@@ -18,9 +16,9 @@ is to extend all the maladies that come with it.
 - 50% increased Elemental Ailment Duration on you
 - Bleeding cannot be inflicted on you
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

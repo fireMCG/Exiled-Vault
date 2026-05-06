@@ -1,12 +1,10 @@
-# Elixir of the Unbroken Circle
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Elixir of the Unbroken Circle.png]]
 
-## Description
+# Flavour Text
 Nothing endures. All things end.
 Then, they begin again.
 
-## Details
+# Details
 - Lasts (6.00-7.20) Seconds
 - Consumes 40 of 60 Charges on use
 - +200 to Ward
@@ -18,9 +16,9 @@ Then, they begin again.
 - Gain 1 Endurance Charge per Second during Effect
 - Right click to drink. Can only hold charges while in belt. Refills as you kill monsters.
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

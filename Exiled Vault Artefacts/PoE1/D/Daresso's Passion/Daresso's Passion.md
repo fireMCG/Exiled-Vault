@@ -1,12 +1,10 @@
-# Daresso's Passion
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Daresso's Passion.png]]
 
-## Description
+# Flavour Text
 It doesn't matter how well the young swordsman trains.
 All form and finesse are forgotten when blood first hits the ground.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (51-59) to (90-100)
 - Elemental Damage: (30-38) to (40-50)
@@ -21,9 +19,9 @@ All form and finesse are forgotten when blood first hits the ground.
 - 25% chance to gain a Frenzy Charge on Kill
 - (60-80)% increased Damage while you have no Frenzy Charges
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

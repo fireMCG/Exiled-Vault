@@ -1,14 +1,12 @@
-# Abberath's Hooves
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Abberath's Hooves.png]]
 
-## Description
+# Flavour Text
 The goat king knew not of war,
 of the lands and laws he trampled.
 The goat king knew only joy
 at turning life into ash.
 
-## Details
+# Details
 - Evasion: (42-54)
 - Requires Level 12, 26 Dex
 - Triggers Level 7 Abberath's Fury when Equipped
@@ -19,9 +17,9 @@ at turning life into ash.
 - 1% increased Fire Damage per 20 Strength
 - Burning Hoofprints
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/God/Abberath
 #Concept/Ash

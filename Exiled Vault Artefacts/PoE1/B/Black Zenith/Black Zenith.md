@@ -1,12 +1,10 @@
-# Black Zenith
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Black Zenith.png]]
 
-## Description
+# Flavour Text
 He reached for his home one last time, a shining jewel among the stars...
 Only to watch in horror as it ruptured and shattered under a tide of limbs.
 
-## Details
+# Details
 - Energy Shield: (108-145)
 - Requires Level 70, 95 Int
 - (12-16)% increased Spell Damage
@@ -17,9 +15,9 @@ Only to watch in horror as it ruptured and shattered under a tide of limbs.
 - Socketed Projectile Spells have 80% less Skill Effect Duration
 - (140-180)% increased Energy Shield
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Character/Eldritch/InfiniteHunger
 #Concept/Body/Hand

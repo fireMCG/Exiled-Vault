@@ -1,13 +1,11 @@
-# Meginord's Vise
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Meginord's Vise.png]]
 
-## Description
+# Flavour Text
 Ride with pride,
 strike with vengeance,
 live with honour.
 
-## Details
+# Details
 - Armour: (290-381)
 - Requires Level 35, 52 Str
 - Melee Strike Skills deal Splash Damage to surrounding targets
@@ -16,9 +14,9 @@ live with honour.
 - 100% increased Knockback Distance
 - Melee Hits with Strike Skills always Knockback
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

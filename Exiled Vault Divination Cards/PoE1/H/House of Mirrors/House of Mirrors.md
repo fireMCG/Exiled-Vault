@@ -1,16 +1,14 @@
-# House of Mirrors
-
 ![[Exiled Vault Divination Cards/_Images/PoE1 - House of Mirrors.png]]
 
-## Description
+# Flavour Text
 What do you see in the mirror?
 
-## Reward
+# Reward
 Mirror of Kalandra
 
-##
+#
 ---
-## Tags
+# Tags
 #Character/Unknown/Kalandra
 #Concept/Mirror
 #Category/DivinationCard

@@ -1,12 +1,10 @@
-# Abyss Monster Count
-
 ![[Exiled Vault Keystones/_Images/PoE1 - Abyss Monster Count.webp]]
 
-## Effects
+# Effects
 Abysses in your Maps spawn 5% increased Monsters
 
-##
+#
 ---
-## Tags
+# Tags
 #Keystone
 #PoE1

@@ -1,13 +1,11 @@
-# Grelwood Shank
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Grelwood Shank.png]]
 
-## Description
+# Flavour Text
 Through countless seasons they stand, stoic,
 Each season leaving its mark;
 a memory written in fibrous flesh.
 
-## Details
+# Details
 - One Handed Sword
 - Physical Damage: (116.85-129.15) to (193.8-214.2)
 - Critical Strike Chance: 5.00%
@@ -22,9 +20,9 @@ a memory written in fibrous flesh.
 - Point Blank
 - Iron Reflexes while stationary
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

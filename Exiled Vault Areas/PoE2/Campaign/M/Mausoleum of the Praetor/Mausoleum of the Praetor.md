@@ -1,14 +1,12 @@
-# Mausoleum of the Praetor
-
-## Description
+# Flavour Text
 The wealthy wished to rest in opulence. They failed to take it with them.
 
-## Connected Areas
+# Connected Areas
 - Cemetery of the Eternals
 
-##
+#
 ---
-## Tags
+# Tags
 #Area
 #CampaignArea
 #PoE2

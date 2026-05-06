@@ -1,12 +1,10 @@
-# Scar of Fate
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Scar of Fate.png]]
 
-## Description
+# Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
-## Details
+# Details
 - Claw
 - Physical Damage: 6-17
 - Critical Strike Chance: 7.30%
@@ -18,9 +16,9 @@ So goes the descent.
 - Adds 2 to 6 Physical Damage
 - Gain 3 Life per Enemy Hit with Spells
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE1

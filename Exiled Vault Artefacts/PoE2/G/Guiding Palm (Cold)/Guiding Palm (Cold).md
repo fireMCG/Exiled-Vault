@@ -1,11 +1,9 @@
-# Guiding Palm (Cold)
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Guiding Palm (Cold).png]]
 
-## Description
+# Flavour Text
 The stories we tell serve to unite us.
 
-## Details
+# Details
 - Sceptre
 - Spirit: 100
 - Requires Level 65
@@ -15,9 +13,9 @@ The stories we tell serve to unite us.
 - 25% increased Light Radius
 - 50% of your Base Life Regeneration is granted to Allies in your Presence
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Artefact
 #PoE2

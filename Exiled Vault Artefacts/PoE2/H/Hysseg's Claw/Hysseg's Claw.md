@@ -1,13 +1,11 @@
-# Hysseg's Claw
-
 ![[Exiled Vault Artefacts/_Images/PoE2 - Hysseg's Claw.png]]
 
-## Description
+# Flavour Text
 In a time of great need, surrounded by Abyssals,
 the Wayward Druid came to the Sun Clan's aid.
 It is a debt they have never forgotten.
 
-## Details
+# Details
 - Physical Damage: (34-40) to (57.8-68)
 - Critical Strike Chance: 8.00%
 - Attacks per Second: 1.25
@@ -21,8 +19,8 @@ It is a debt they have never forgotten.
 - +(8-15) to Intelligence
 - (5-8)% increased Damage per Minion
 
-##
+#
 ---
-## Tags
+# Tags
 #Artefact
 #PoE2

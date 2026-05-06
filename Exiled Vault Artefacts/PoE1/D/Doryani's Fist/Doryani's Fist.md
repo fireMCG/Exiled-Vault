@@ -1,11 +1,9 @@
-# Doryani's Fist
-
 ![[Exiled Vault Artefacts/_Images/PoE1 - Doryani's Fist.png]]
 
-## Description
+# Flavour Text
 Doryani's ingenuity raised the Vaal Empire to unprecedented heights. His curiosity reduced it to ruins and bones.
 
-## Details
+# Details
 - Armour: (232-266)
 - Energy Shield: (80-100)
 - Requires Level 63, 100 Str
@@ -17,9 +15,9 @@ Doryani's ingenuity raised the Vaal Empire to unprecedented heights. His curiosi
 - +(200-250) Energy Shield gained on Killing a Shocked Enemy
 - 30% increased Effect of Lightning Ailments
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Artefact
 #Society/VaalEmpire
 #Artefact
