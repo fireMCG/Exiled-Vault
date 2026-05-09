@@ -1,476 +1,357 @@
-# Cameria the Coldblooded
-
-## Dialogue
-#### CameriaPrimaryDefenderStartsFightZero
+## CameriaPrimaryDefenderStartsFightZero
 Don't try running. It'll just make things worse for you.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightZero.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightOne
+## CameriaPrimaryDefenderStartsFightOne
 Looks like our guest of honour has finally arrived...
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightOne.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightTwo
+## CameriaPrimaryDefenderStartsFightTwo
 I was hoping you'd find us out here.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightTwo.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightThree
+## CameriaPrimaryDefenderStartsFightThree
 Oh no! They found us! What ever will we do?
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightThree.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightFour
+## CameriaPrimaryDefenderStartsFightFour
 I usually like to draw this out, but orders is orders.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightFour.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightFive
+## CameriaPrimaryDefenderStartsFightFive
 Left you a little present in the cell. Not that you'll live to see it...
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightFive.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightSix
+## CameriaPrimaryDefenderStartsFightSix
 Think I prefer killing over negotiating.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightSix.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightSeven
+## CameriaPrimaryDefenderStartsFightSeven
 Though I enjoyed our little cooperation, I think this time I'll just snap you in half.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightSeven.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightEight
+## CameriaPrimaryDefenderStartsFightEight
 Funny what you learn to do while you're dead...
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightEight.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightNine
+## CameriaPrimaryDefenderStartsFightNine
 Thought I killed you. Must've just been a pleasant dream.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightNine.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightTen
+## CameriaPrimaryDefenderStartsFightTen
 Darkness will consume you!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightTen.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightEleven
+## CameriaPrimaryDefenderStartsFightEleven
 Acid will make this fun.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightEleven.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightTwelve
+## CameriaPrimaryDefenderStartsFightTwelve
 I wonder what I can rip apart with this new find...
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightTwelve.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightThirteen
+## CameriaPrimaryDefenderStartsFightThirteen
 I'm going to turn you to stone and see how you break.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightThirteen.ogg]]
-
-#### CameriaPrimaryDefenderStartsFightFourteen
+## CameriaPrimaryDefenderStartsFightFourteen
 I am the plague!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaPrimaryDefenderStartsFightFourteen.ogg]]
-
-#### CameriaSafehouseLeaderIntroZero
+## CameriaSafehouseLeaderIntroZero
 My, my, usually I have to go looking for my victims. How wonderful.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSafehouseLeaderIntroZero.ogg]]
-
-#### CameriaSecondaryDefenderArrivalZero
+## CameriaSecondaryDefenderArrivalZero
 Weren't planning to have a party without me, were you?
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalZero.ogg]]
-
-#### CameriaSecondaryDefenderArrivalOne
+## CameriaSecondaryDefenderArrivalOne
 Oh good! Still plenty of fun to be had.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalOne.ogg]]
-
-#### CameriaSecondaryDefenderArrivalTwo
+## CameriaSecondaryDefenderArrivalTwo
 This does bring back some wonderful memories.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalTwo.ogg]]
-
-#### CameriaSecondaryDefenderArrivalThree
+## CameriaSecondaryDefenderArrivalThree
 Guess who!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalThree.ogg]]
-
-#### CameriaSecondaryDefenderArrivalFour
+## CameriaSecondaryDefenderArrivalFour
 This? This is personal, exile.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalFour.ogg]]
-
-#### CameriaSecondaryDefenderArrivalFive
+## CameriaSecondaryDefenderArrivalFive
 I usually prefer to do this alone, but for you I'll make an exception.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalFive.ogg]]
-
-#### CameriaSecondaryDefenderArrivalSix
+## CameriaSecondaryDefenderArrivalSix
 Show me what kind of goodies that hook can rip out of a man, freak.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalSix.ogg]]
-
-#### CameriaSecondaryDefenderArrivalSeven
+## CameriaSecondaryDefenderArrivalSeven
 Save some for me, big man.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalSeven.ogg]]
-
-#### CameriaSecondaryDefenderArrivalEight
+## CameriaSecondaryDefenderArrivalEight
 I should help, huh?
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalEight.ogg]]
-
-#### CameriaSecondaryDefenderArrivalNine
+## CameriaSecondaryDefenderArrivalNine
 Let me see how you move, Rin...
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalNine.ogg]]
-
-#### CameriaSecondaryDefenderArrivalTen
+## CameriaSecondaryDefenderArrivalTen
 A delicate flower like yourself shouldn't be fightin' all alone...
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalTen.ogg]]
-
-#### CameriaSecondaryDefenderArrivalEleven
+## CameriaSecondaryDefenderArrivalEleven
 It's my turn to rip the exile limb from limb!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalEleven.ogg]]
-
-#### CameriaSecondaryDefenderArrivalTwelve
+## CameriaSecondaryDefenderArrivalTwelve
 This party needs a bit of... chaos!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalTwelve.ogg]]
-
-#### CameriaSecondaryDefenderArrivalThirteen
+## CameriaSecondaryDefenderArrivalThirteen
 I feel like seizing some property. Don't care what... or whose...
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalThirteen.ogg]]
-
-#### CameriaSecondaryDefenderArrivalFourteen
+## CameriaSecondaryDefenderArrivalFourteen
 Now why would we want to go and destroy a funhouse like this?
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalFourteen.ogg]]
-
-#### CameriaSecondaryDefenderArrivalFifteen
+## CameriaSecondaryDefenderArrivalFifteen
 Eenie, meenie, miney, mo... you!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalFifteen.ogg]]
-
-#### CameriaSecondaryDefenderArrivalSixteen
+## CameriaSecondaryDefenderArrivalSixteen
 I'm taking that hook.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalSixteen.ogg]]
-
-#### CameriaSecondaryDefenderArrivalSeventeen
+## CameriaSecondaryDefenderArrivalSeventeen
 I'm going to tear you open just to see what you're made of, freak.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalSeventeen.ogg]]
-
-#### CameriaSecondaryDefenderArrivalEighteen
+## CameriaSecondaryDefenderArrivalEighteen
 Gravicius, I've had enough of your lectures!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalEighteen.ogg]]
-
-#### CameriaSecondaryDefenderArrivalNineteen
+## CameriaSecondaryDefenderArrivalNineteen
 I'll make a flesh sculpture in your style - out of you! An homage.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalNineteen.ogg]]
-
-#### CameriaSecondaryDefenderArrivalTwenty
+## CameriaSecondaryDefenderArrivalTwenty
 I'll rip that mask off - along with your head!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalTwenty.ogg]]
-
-#### CameriaSecondaryDefenderArrivalTwentyOne
+## CameriaSecondaryDefenderArrivalTwentyOne
 I don't really care who I'm ripping apart, as long as limbs go flying.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalTwentyOne.ogg]]
-
-#### CameriaReplyToSecondaryDefenderArrivalZero
+## CameriaReplyToSecondaryDefenderArrivalZero
 I'm gonna smear you across the walls for this.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToSecondaryDefenderArrivalZero.ogg]]
-
-#### CameriaReplyToSecondaryDefenderArrivalOne
+## CameriaReplyToSecondaryDefenderArrivalOne
 I'll make sure we run you over on the return trip.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToSecondaryDefenderArrivalOne.ogg]]
-
-#### CameriaReplyToSecondaryDefenderArrivalTwo
+## CameriaReplyToSecondaryDefenderArrivalTwo
 Well I guess we'll just clean up your corpse, too.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToSecondaryDefenderArrivalTwo.ogg]]
-
-#### CameriaReplyToSecondaryDefenderArrivalThree
+## CameriaReplyToSecondaryDefenderArrivalThree
 Need to team up with the exile? No bloody balls.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToSecondaryDefenderArrivalThree.ogg]]
-
-#### CameriaReplyToSecondaryDefenderArrivalFour
+## CameriaReplyToSecondaryDefenderArrivalFour
 What, fun's not reason enough?
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToSecondaryDefenderArrivalFour.ogg]]
-
-#### CameriaReplyToSecondaryDefenderArrivalFive
+## CameriaReplyToSecondaryDefenderArrivalFive
 Since when do you ask permission?
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToSecondaryDefenderArrivalFive.ogg]]
-
-#### CameriaReplyToSecondaryDefenderArrivalSix
+## CameriaReplyToSecondaryDefenderArrivalSix
 I wish you'd stayed dead.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToSecondaryDefenderArrivalSix.ogg]]
-
-#### CameriaReplyToSecondaryDefenderArrivalSeven
+## CameriaReplyToSecondaryDefenderArrivalSeven
 We're more alike than you think, Mutewind.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToSecondaryDefenderArrivalSeven.ogg]]
-
-#### CameriaReplyToSecondaryDefenderArrivalEight
+## CameriaReplyToSecondaryDefenderArrivalEight
 I couldn't care about impressing you, Aisling.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToSecondaryDefenderArrivalEight.ogg]]
-
-#### CameriaReplyToSecondaryDefenderArrivalNine
+## CameriaReplyToSecondaryDefenderArrivalNine
 Just more limbs to add to my pile.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToSecondaryDefenderArrivalNine.ogg]]
-
-#### CameriaSecondaryDefenderArrivalTwentyTwo
+## CameriaSecondaryDefenderArrivalTwentyTwo
 I love it when my minions decide to share.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalTwentyTwo.ogg]]
-
-#### CameriaSecondaryDefenderArrivalTwentyThree
+## CameriaSecondaryDefenderArrivalTwentyThree
 Nobody messes with the Syndicate and keeps their head.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalTwentyThree.ogg]]
-
-#### CameriaSecondaryDefenderArrivalTwentyFour
+## CameriaSecondaryDefenderArrivalTwentyFour
 Let me show you how to do ripping and killing proper.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalTwentyFour.ogg]]
-
-#### CameriaSecondaryDefenderArrivalTwentyFive
+## CameriaSecondaryDefenderArrivalTwentyFive
 This ragdoll is mine!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalTwentyFive.ogg]]
-
-#### CameriaSecondaryDefenderArrivalTwentySix
+## CameriaSecondaryDefenderArrivalTwentySix
 What's a crusade without the slaughtering of infidels?
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalTwentySix.ogg]]
-
-#### CameriaSecondaryDefenderArrivalTwentySeven
+## CameriaSecondaryDefenderArrivalTwentySeven
 They said I'm in charge here, Vagan.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalTwentySeven.ogg]]
-
-#### CameriaSecondaryDefenderArrivalTwentyEight
+## CameriaSecondaryDefenderArrivalTwentyEight
 Hey Janus, I'm the boss now!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalTwentyEight.ogg]]
-
-#### CameriaSecondaryDefenderArrivalTwentyNine
+## CameriaSecondaryDefenderArrivalTwentyNine
 I'll take the lead on this dance, my little flower.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalTwentyNine.ogg]]
-
-#### CameriaSecondaryDefenderArrivalThirty
+## CameriaSecondaryDefenderArrivalThirty
 Riker! I'm leading now! You do what I say!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalThirty.ogg]]
-
-#### CameriaSecondaryDefenderArrivalThirtyOne
+## CameriaSecondaryDefenderArrivalThirtyOne
 Those who stand in my way will be ripped limb from limb.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSecondaryDefenderArrivalThirtyOne.ogg]]
-
-#### CameriaKillPlayerZero
+## CameriaKillPlayerZero
 Your bones will rot in these walls for all time.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaKillPlayerZero.ogg]]
-
-#### CameriaKillPlayerOne
+## CameriaKillPlayerOne
 I think I'll drag you behind this caravan just for fun.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaKillPlayerOne.ogg]]
-
-#### CameriaKillPlayerTwo
+## CameriaKillPlayerTwo
 So many limbs, so little time!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaKillPlayerTwo.ogg]]
-
-#### CameriaKillPlayerThree
+## CameriaKillPlayerThree
 Aww, over too soon!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaKillPlayerThree.ogg]]
-
-#### CameriaEscapeZero
+## CameriaEscapeZero
 Woulda preferred to stay and play, but this still worked out well.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaEscapeZero.ogg]]
-
-#### CameriaEscapeOne
+## CameriaEscapeOne
 I did the job. They can't say I didn't.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaEscapeOne.ogg]]
-
-#### CameriaEscapeTwo
+## CameriaEscapeTwo
 Shame we're in such a hurry. Would've loved to peel your skin off.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaEscapeTwo.ogg]]
-
-#### CameriaDefeatedZero
+## CameriaDefeatedZero
 I had you!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaDefeatedZero.ogg]]
-
-#### CameriaDefeatedOne
+## CameriaDefeatedOne
 Urgh... not possible...
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaDefeatedOne.ogg]]
-
-#### CameriaDefeatedTwo
+## CameriaDefeatedTwo
 How? You are weak!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaDefeatedTwo.ogg]]
-
-#### CameriaDefeatedThree
+## CameriaDefeatedThree
 But I had the upper hand!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaDefeatedThree.ogg]]
-
-#### CameriaDefeatedFour
+## CameriaDefeatedFour
 No, not the questions again!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaDefeatedFour.ogg]]
-
-#### CameriaDefeatedFive
+## CameriaDefeatedFive
 Pretty good... for a talker...
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaDefeatedFive.ogg]]
-
-#### CameriaDefeatedSix
+## CameriaDefeatedSix
 What... gonna make me hurt my little friends again?
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaDefeatedSix.ogg]]
-
-#### CameriaDefeatedSeven
+## CameriaDefeatedSeven
 Kill me once, shame on you...
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaDefeatedSeven.ogg]]
-
-#### CameriaDefeatedEight
+## CameriaDefeatedEight
 Is this... is this a bloody prank?
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaDefeatedEight.ogg]]
-
-#### CameriaDefeatedNine
+## CameriaDefeatedNine
 Why did I come here?
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaDefeatedNine.ogg]]
-
-#### CameriaDefeatedTen
+## CameriaDefeatedTen
 I don't understand how I lost.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaDefeatedTen.ogg]]
-
-#### CameriaOfferBargainZero
+## CameriaOfferBargainZero
 You're my kind of murderer, exile! My favourite part's when their head first hits the ground. Glad it wasn't my head, if I'm honest. So, what can I do to keep it that way?
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBargainZero.ogg]]
-
-#### CameriaOfferBargainOne
+## CameriaOfferBargainOne
 I was a naughty little boy back in my day. Used to make friends with the rich and proper, get nice and close to them, before killin' em and taking everything they had. I can be very persuasive - and patient - when I have to be. I could even let you choose my target, just for fun.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBargainOne.ogg]]
-
-#### CameriaOfferBargainTwo
+## CameriaOfferBargainTwo
 I'm not afraid to admit to a core of cowardice underneath my callous exterior. That's what you want to hear, isn't it? Don't kill me, and I'll... I'll befriend another member of the Syndicate and give you information about their job. I know how to say the right words. They'll never suspect me.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBargainTwo.ogg]]
-
-#### CameriaOfferBargainThree
+## CameriaOfferBargainThree
 I get bored easy, exile, and when I get bored, I get the... craving. Maybe with a little change of scenery I won't feel the urge to tear your scalp off with my teeth the way I do right now.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBargainThree.ogg]]
-
-#### CameriaOfferBargainFour
+## CameriaOfferBargainFour
 I'm tired of the Syndicate. I'm going to give going solo a try. That's how I used to be, you know, before falling in with Aisling and Hillock and Gravicius here. They've been bad influences on me. I'll be good once I'm away from them, I promise.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBargainFour.ogg]]
-
-#### CameriaOfferBargainFive
+## CameriaOfferBargainFive
 You want to know what we've been doing here? Sure, I'll tell ya, as long as it gets me back on the battlefield faster. I'm already feeling cooped up.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBargainFive.ogg]]
-
-#### CameriaOfferBargainSix
+## CameriaOfferBargainSix
 Killing and stealing stuff. That's what got me locked up the first time. Truth is, I only stole the stuff so it looked like that's why I did the killing! I don't even want the stuff. You want the stuff? Take the stuff and piss off.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBargainSix.ogg]]
-
-#### CameriaBargainAcceptedZero
+## CameriaBargainAcceptedZero
 Just like the old days.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaBargainAcceptedZero.ogg]]
-
-#### CameriaBargainAcceptedOne
+## CameriaBargainAcceptedOne
 Deal's a deal.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaBargainAcceptedOne.ogg]]
-
-#### CameriaBargainAcceptedTwo
+## CameriaBargainAcceptedTwo
 I knew we could see eye to eye. Here, I've even got an eye in my pocket you can have. No? Alright, I'll keep it then.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaBargainAcceptedTwo.ogg]]
-
-#### CameriaBargainAcceptedThree
+## CameriaBargainAcceptedThree
 I'll find people to rip up in my own time!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaBargainAcceptedThree.ogg]]
-
-#### CameriaBargainAcceptedFour
+## CameriaBargainAcceptedFour
 Don't tell the Syndicate I told you. Or do, I don't care.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaBargainAcceptedFour.ogg]]
-
-#### CameriaBargainAcceptedFive
+## CameriaBargainAcceptedFive
 Great. Can we hurry this up?
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaBargainAcceptedFive.ogg]]
-
-#### CameriaOfferBetrayalZero
+## CameriaOfferBetrayalZero
 I've been itching to backstab the boss, if you catch my meaning. I'm quite literally wanting to stab them in the back with a big bloody knife. Put 'em out of business for a bit. Long enough to put myself in charge. You can watch if you want. I don't really care, honestly.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBetrayalZero.ogg]]
-
-#### CameriaOfferBetrayalOne
+## CameriaOfferBetrayalOne
 The Syndicate's a social machine, exile, and if there's one thing I understand, it's faking my way through social machines. If you let me live, I can steal the ranks of those around me and promote myself! It might just be to your benefit.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBetrayalOne.ogg]]
-
-#### CameriaOfferBetrayalTwo
+## CameriaOfferBetrayalTwo
 I don't tell them to their faces, but I despise the other members of the Syndicate. In fact, I've been working on a way to get someone kicked out using a carefully-crafted frame job. If you'll allow me to live, you could even pick who goes.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBetrayalTwo.ogg]]
-
-#### CameriaOfferBetrayalThree
+## CameriaOfferBetrayalThree
 Traitor's just a word, exile. I know a lot of words. How about I tell you all the words I know about all of my brethren here, and you let me go?
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBetrayalThree.ogg]]
-
-#### CameriaOfferBetrayalFour
+## CameriaOfferBetrayalFour
 Reckon Leo can take a beating? I reckon he can. Been dying to try, actually. Let me go and I'll do what I do best. Give you a well-earned break from all this delicious violence.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBetrayalFour.ogg]]
-
-#### CameriaOfferBetrayalFive
+## CameriaOfferBetrayalFive
 Aren't you sick of Elreon's preaching? God this, God that, bless this mess... let's close that mouth of his.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBetrayalFive.ogg]]
-
-#### CameriaOfferBetrayalSix
+## CameriaOfferBetrayalSix
 I am so tired of hearing Tora go on and on about nature. Let me go and I'll knock her down a peg.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBetrayalSix.ogg]]
-
-#### CameriaOfferBetrayalSeven
+## CameriaOfferBetrayalSeven
 Vorici really pisses me off. He's a killer, no better than you or me, but he tries to hide it like a dirty little secret. I don't. I kill out in the open, like a man. Give him what he deserves.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBetrayalSeven.ogg]]
-
-#### CameriaOfferBetrayalEight
+## CameriaOfferBetrayalEight
 Don't look at me. Look at that monster. Thing doesn't even sleep! That's who we should be fighting!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBetrayalEight.ogg]]
-
-#### CameriaOfferBetrayalNine
+## CameriaOfferBetrayalNine
 I'm supposed to offer to betray here. That's what he taught me.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferBetrayalNine.ogg]]
-
-#### CameriaOfferExecuteZero
+## CameriaOfferExecuteZero
 I just can't bring myself to care. It's death for me.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferExecuteZero.ogg]]
-
-#### CameriaOfferExecuteOne
+## CameriaOfferExecuteOne
 The boss here will have my hide unless I act stoic.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferExecuteOne.ogg]]
-
-#### CameriaOfferExecuteTwo
+## CameriaOfferExecuteTwo
 Wouldn't want to appear weak in front of my brethren.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferExecuteTwo.ogg]]
-
-#### CameriaOfferExecuteThree
+## CameriaOfferExecuteThree
 No interrogation this time. Just murder.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaOfferExecuteThree.ogg]]
-
-#### CameriaReplyToBetrayalAcceptedZero
+## CameriaReplyToBetrayalAcceptedZero
 Everyone in this Syndicate's a bastard, apparently.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToBetrayalAcceptedZero.ogg]]
-
-#### CameriaReplyToBetrayalAcceptedOne
+## CameriaReplyToBetrayalAcceptedOne
 Can't please everyone.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToBetrayalAcceptedOne.ogg]]
-
-#### CameriaReplyToBetrayalAcceptedTwo
+## CameriaReplyToBetrayalAcceptedTwo
 I will eat you, huntress!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToBetrayalAcceptedTwo.ogg]]
-
-#### CameriaReplyToBetrayalAcceptedThree
+## CameriaReplyToBetrayalAcceptedThree
 Honestly, most of what that thing says goes in one ear and out the other. Ain't got time to decipher that.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToBetrayalAcceptedThree.ogg]]
-
-#### CameriaReplyToBetrayalAcceptedFour
+## CameriaReplyToBetrayalAcceptedFour
 Stop punishing me!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToBetrayalAcceptedFour.ogg]]
-
-#### CameriaReplyToBetrayalAcceptedFive
+## CameriaReplyToBetrayalAcceptedFive
 Riker, when I catch you, expect your suffering to be legendary.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToBetrayalAcceptedFive.ogg]]
-
-#### CameriaReplyToBetrayalAcceptedSix
+## CameriaReplyToBetrayalAcceptedSix
 I will rip your traitorous bones from your still-living body one by one!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToBetrayalAcceptedSix.ogg]]
-
-#### CameriaInterrogatedZero
+## CameriaInterrogatedZero
 Crude choice. I approve.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaInterrogatedZero.ogg]]
-
-#### CameriaInterrogatedOne
+## CameriaInterrogatedOne
 You're getting on my nerves!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaInterrogatedOne.ogg]]
-
-#### CameriaInterrogatedTwo
+## CameriaInterrogatedTwo
 Finally, you've shown some mettle.
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaInterrogatedTwo.ogg]]
-
-#### CameriaReplyToExecutionZero
+## CameriaReplyToExecutionZero
 Absolutely brutal! More!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToExecutionZero.ogg]]
-
-#### CameriaReplyToExecutionOne
+## CameriaReplyToExecutionOne
 Hahaha that's the best!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToExecutionOne.ogg]]
-
-#### CameriaReplyToExecutionTwo
+## CameriaReplyToExecutionTwo
 Hahahahahaha ahh hahahahahaha!
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaReplyToExecutionTwo.ogg]]
-
-#### CameriaSafehouseLeaderDefeatedZero
+## CameriaSafehouseLeaderDefeatedZero
 This is a lie...
 ![[Exiled Vault Dialogue/PoE1/C/Cameria the Coldblooded/_Audio/Cameria the Coldblooded - CameriaSafehouseLeaderDefeatedZero.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

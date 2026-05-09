@@ -1,11 +1,8 @@
-# Lioneye's Standard
-
-## Lore
-#### Read
+## Read
 {There is no Honour without Sacrifice.}
 
-##
+#
 ---
-## Tags
-#EnvironmentalLore
+# Tags
+#Category/Lore/Environmental
 #PoE1

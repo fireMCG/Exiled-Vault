@@ -1,20 +1,15 @@
-# Lachlann of Endless Lament
-
-## Dialogue
-#### BitterGuyDeath
+## BitterGuyDeath
 Together... at last...
 ![[Exiled Vault Dialogue/PoE2/L/Lachlann of Endless Lament/_Audio/Lachlann of Endless Lament - BitterGuyDeath.ogg]]
-
-#### LachlannSlamRandom
+## LachlannSlamRandom
 My rage burns!
 ![[Exiled Vault Dialogue/PoE2/L/Lachlann of Endless Lament/_Audio/Lachlann of Endless Lament - LachlannSlamRandom.ogg]]
-
-#### LachlannStompRandom
+## LachlannStompRandom
 Feel the chill of the grave!
 ![[Exiled Vault Dialogue/PoE2/L/Lachlann of Endless Lament/_Audio/Lachlann of Endless Lament - LachlannStompRandom.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE2

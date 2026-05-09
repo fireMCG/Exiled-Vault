@@ -1,544 +1,408 @@
-# Scion
-
-## Dialogue
-#### Scion45
+## Scion45
 Though we were worlds apart before, exile has brought us together. Back in Oriath, there were those that referred to me as the wonder child, but as you've likely discovered, titles mean little here. Wonder, Exile, monster, hero... it's not the name that defines you. It's what you do that makes you what you are in Wraeclast. Thank you. You have given me what matters most: the freedom to finish what I started.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - Scion45.ogg]]
-
-#### EventWashedUp
+## EventWashedUp
 Why not just execute us and be done with it, Dominus?
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EventWashedUp.ogg]]
-
-#### KillBiteZombie
+## KillBiteZombie
 So it's true... dead men walk in Wraeclast.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillBiteZombie.ogg]]
-
-#### KillHillock
+## KillHillock
 I'll not be joining you today, dead man.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillHillock.ogg]]
-
-#### EnterCannibalBay
+## EnterCannibalBay
 I've a simple choice ahead of me. Kill... or be eaten.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterCannibalBay.ogg]]
-
-#### EnterPrison
+## EnterPrison
 From Oriath to Axiom, one prison to another.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterPrison.ogg]]
-
-#### KillBrutus
+## KillBrutus
 You remind me of my ex-husband.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillBrutus.ogg]]
-
-#### EnterShipGraveyard
+## EnterShipGraveyard
 The wall between life and death is crumbling.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterShipGraveyard.ogg]]
-
-#### KillFairgraves
+## KillFairgraves
 Shore leave is over, captain.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillFairgraves.ogg]]
-
-#### KillMerveil
+## KillMerveil
 Why must men turn us into monsters?
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillMerveil.ogg]]
-
-#### EnterSouthernForest
+## EnterSouthernForest
 Savagery thrives all around me.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterSouthernForest.ogg]]
-
-#### EnterChamberofSins
+## EnterChamberofSins
 The men here should have listened to their hearts. Their minds were not their own.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterChamberofSins.ogg]]
-
-#### KillFidelitas
+## KillFidelitas
 Someone had to put an end to this cruel experiment.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillFidelitas.ogg]]
-
-#### KillKraityn
+## KillKraityn
 After what this land's become, your kind still manages to make it worse.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillKraityn.ogg]]
-
-#### KillAlira
+## KillAlira
 Women like you give the rest of us a bad name.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillAlira.ogg]]
-
-#### KillOak
+## KillOak
 There's your 'peace', Oak. The only peace that anyone can expect in Wraeclast.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillOak.ogg]]
-
-#### EventUnleashDarkness
+## EventUnleashDarkness
 Oh my God, no! If there's a way to put this right, I have to find it.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EventUnleashDarkness.ogg]]
-
-#### KillVaalOversoul
+## KillVaalOversoul
 The least we can do in life is tidy up after ourselves.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillVaalOversoul.ogg]]
-
-#### EnterCityOfSarn
+## EnterCityOfSarn
 Sarn, where emperors ruled... and died, just like everyone else.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterCityOfSarn.ogg]]
-
-#### EnterSewerAqueduct
+## EnterSewerAqueduct
 You are remembered only for the mess you leave behind.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterSewerAqueduct.ogg]]
-
-#### EventApproachSphincter
+## EventApproachSphincter
 If left to its own devices, all of Wraeclast would come to be this way.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EventApproachSphincter.ogg]]
-
-#### EnterSolarisTemple
+## EnterSolarisTemple
 It seems that even Time loses its will in Wraeclast.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterSolarisTemple.ogg]]
-
-#### KillGravicius
+## KillGravicius
 Men like you shall not inherit Wraeclast.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillGravicius.ogg]]
-
-#### EnterLunaris2
+## EnterLunaris2
 I know of only one woman capable of such depravity. Piety.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterLunaris2.ogg]]
-
-#### KillPiety
+## KillPiety
 You should die a thousand times over for what you've done.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillPiety.ogg]]
-
-#### EnterSceptreOfGod
+## EnterSceptreOfGod
 This tower says it all. Pride killed the Eternal Empire.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterSceptreOfGod.ogg]]
-
-#### KillDominus
+## KillDominus
 I prefer the view from where I'm standing now, Dominus.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillDominus.ogg]]
-
-#### EnterAqueduct
+## EnterAqueduct
 I've killed the puppet. Now I just need to follow the strings to his master.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterAqueduct.ogg]]
-
-#### EnterDriedLake
+## EnterDriedLake
 The Empire didn't need a cataclysm. It created its own desolation.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterDriedLake.ogg]]
-
-#### KillVoll
+## KillVoll
 Sin is the crack through which Nightmare seeps. What was your Sin, Voll? Pride?
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillVoll.ogg]]
-
-#### EnterMines1
+## EnterMines1
 The Beast knows that I'm here.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterMines1.ogg]]
-
-#### EnterMines2
+## EnterMines2
 Yes, Beast, you have every reason to be afraid.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterMines2.ogg]]
-
-#### EventFreedDeshret
+## EventFreedDeshret
 You will be the first of many to throw off Nightmare's shackles, Deshret.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EventFreedDeshret.ogg]]
-
-#### EnterCrystalVeins
+## EnterCrystalVeins
 As your terror grows, Beast, so does my resolve.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterCrystalVeins.ogg]]
-
-#### Scion34
+## Scion34
 You have my pity, slave.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - Scion34.ogg]]
-
-#### KillDaresso
+## KillDaresso
 Love was the blade that you turned upon yourself, Sword King.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillDaresso.ogg]]
-
-#### EnterKaomDream
+## EnterKaomDream
 I stand within the tortured mind of Kaom himself.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterKaomDream.ogg]]
-
-#### KillKaom
+## KillKaom
 Save your breath for the Ancestors, Kaom. You'll need it.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillKaom.ogg]]
-
-#### EnterBellyOfTheBeast
+## EnterBellyOfTheBeast
 Nightmare, made real.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterBellyOfTheBeast.ogg]]
-
-#### EnterHarvest
+## EnterHarvest
 This twisting of flesh and life... both brilliant and insane.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterHarvest.ogg]]
-
-#### KillMaligaro
+## KillMaligaro
 I'm sorry, Maligaro, but I can be quite critical when it comes to Art.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillMaligaro.ogg]]
-
-#### KillShavronne
+## KillShavronne
 The world doesn't want your kind of 'beauty', Shavronne.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillShavronne.ogg]]
-
-#### KillDoedre
+## KillDoedre
 This was the only way to satisfy your appetite, Doedre.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillDoedre.ogg]]
-
-#### EventPietySacrifice
+## EventPietySacrifice
 I have the only answer I need, Piety. The Beast dies.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EventPietySacrifice.ogg]]
-
-#### KillMalachai
+## KillMalachai
 Poor Malachai. You spent three centuries fighting Death, and in all that time, not once did you take the time to live.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillMalachai.ogg]]
-
-#### Cooldown
+## Cooldown
 Can I not have but a moment's respite?
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - Cooldown.ogg]]
-
-#### LowDEX
+## LowDEX
 I haven't quite the finesse for this.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - LowDEX.ogg]]
-
-#### FlaskLowLifeToHighLife
+## FlaskLowLifeToHighLife
 Ah... much better.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - FlaskLowLifeToHighLife.ogg]]
-
-#### LowINT
+## LowINT
 I wouldn't know where to start with that.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - LowINT.ogg]]
-
-#### InvFull
+## InvFull
 Far too much baggage.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - InvFull.ogg]]
-
-#### NoMana
+## NoMana
 I have nothing more to give.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - NoMana.ogg]]
-
-#### QuestItem
+## QuestItem
 I'll be needing that in the near future.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - QuestItem.ogg]]
-
-#### KillRare
+## KillRare
 Your death is a mercy.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillRare.ogg]]
-
-#### KillRare_2
+## KillRare_2
 Sleep now, little nightmare.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillRare_2.ogg]]
-
-#### KillRare_3
+## KillRare_3
 And kindly stay dead.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillRare_3.ogg]]
-
-#### KillRare_4
+## KillRare_4
 That felt disturbingly good.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillRare_4.ogg]]
-
-#### KillRare_5
+## KillRare_5
 Your torment is over.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillRare_5.ogg]]
-
-#### SkillTown
+## SkillTown
 Neither the time nor the place.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - SkillTown.ogg]]
-
-#### LowSTR
+## LowSTR
 Too weighty a prospect for me.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - LowSTR.ogg]]
-
-#### LevelUp2
+## LevelUp2
 Exile is a lesson and I've always been a fast study.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - LevelUp2.ogg]]
-
-#### LevelUp3
+## LevelUp3
 Life grows, even in a graveyard.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - LevelUp3.ogg]]
-
-#### LevelUp5
+## LevelUp5
 I learn, I kill, I live.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - LevelUp5.ogg]]
-
-#### LevelUp10
+## LevelUp10
 I might just earn my 'wonder child' title yet.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - LevelUp10.ogg]]
-
-#### LevelUp15
+## LevelUp15
 Power corrupts and corruption empowers.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - LevelUp15.ogg]]
-
-#### LevelUp20
+## LevelUp20
 There's no resting on your laurels in Wraeclast.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - LevelUp20.ogg]]
-
-#### LevelUp30
+## LevelUp30
 I have become a walking nightmare.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - LevelUp30.ogg]]
-
-#### EventDropOniGoroshi
+## EventDropOniGoroshi
 What? I'm free? You did this? Well, anything is better than being stuck in that. His mindless thirst fell far short of My desires, simple though they are. But now there's you: so vital, so defiant... So take Me. This dying world is but kindling, yet its unquickened blood may boil once again...and I've waited so long for a real bath.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EventDropOniGoroshi.ogg]]
-
-#### EnterTheAscent
+## EnterTheAscent
 I will save Oriath... or die trying.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterTheAscent.ogg]]
-
-#### EnterSlavePens
+## EnterSlavePens
 These are the slave pens? I never knew it was this bad.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterSlavePens.ogg]]
-
-#### KillKrow
+## KillKrow
 Let this be the end of slavery in Oriath!
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillKrow.ogg]]
-
-#### PickUpMiasmeter
+## PickUpMiasmeter
 You could have been so much more, Piety.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - PickUpMiasmeter.ogg]]
-
-#### KillCasticus
+## KillCasticus
 The Templars should have seen this coming.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillCasticus.ogg]]
-
-#### EnterOriathSquare
+## EnterOriathSquare
 I return home with the power to make a difference.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterOriathSquare.ogg]]
-
-#### EnterTemplarCourts
+## EnterTemplarCourts
 These corrupt courts should be burned to the ground.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterTemplarCourts.ogg]]
-
-#### EnterChamberOfInnocence
+## EnterChamberOfInnocence
 Such a beautiful house of lies.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterChamberOfInnocence.ogg]]
-
-#### SeenAvarius
+## SeenAvarius
 Who among us is qualified to judge? You?!
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - SeenAvarius.ogg]]
-
-#### SeenInnocence
+## SeenInnocence
 God is real?!... good. Someone must be made to answer.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - SeenInnocence.ogg]]
-
-#### MetSinInnocence
+## MetSinInnocence
 I'm starting to think destroying the Beast was not the best idea...
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - MetSinInnocence.ogg]]
-
-#### EnterTorchedCourts
+## EnterTorchedCourts
 It seems my wish has been granted!
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterTorchedCourts.ogg]]
-
-#### EnterRuinedSquare
+## EnterRuinedSquare
 This 'feast' seems more like a funeral pyre. I have to put a stop to this madness!
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterRuinedSquare.ogg]]
-
-#### KillUtula
+## KillUtula
 The Karui deserve freedom, Utula, but you took it too far.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillUtula.ogg]]
-
-#### EnterOssuary
+## EnterOssuary
 They've been throwing bones in here since before the Eternal Empire. How does anyone keep track?
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterOssuary.ogg]]
-
-#### PickUpSignOfPurity
+## PickUpSignOfPurity
 This feeling... is this Divinity?
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - PickUpSignOfPurity.ogg]]
-
-#### FaceKitavaA5
+## FaceKitavaA5
 I won't let you destroy my home!
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - FaceKitavaA5.ogg]]
-
-#### ApproachLilly
+## ApproachLilly
 This isn't over. I will return. I vow to save Oriath.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - ApproachLilly.ogg]]
-
-#### MetSinA6
+## MetSinA6
 There is so much more to this world than what I was taught in the Academy.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - MetSinA6.ogg]]
-
-#### EnterTwilightStrandA6
+## EnterTwilightStrandA6
 The first moment of true freedom in my entire life was right here on this shore...
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterTwilightStrandA6.ogg]]
-
-#### EnterCoastA6
+## EnterCoastA6
 Something's changed. The very air seems alive with strange energies...
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterCoastA6.ogg]]
-
-#### ScionReactsToNessa
+## ScionReactsToNessa
 I'll do what I can, my friend.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - ScionReactsToNessa.ogg]]
-
-#### MetSinTukohama
+## MetSinTukohama
 If we must wage war on the gods to save humanity, so be it.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - MetSinTukohama.ogg]]
-
-#### EnterThePrisonA6
+## EnterThePrisonA6
 Once more into the den of misery.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterThePrisonA6.ogg]]
-
-#### KillShavronneA6
+## KillShavronneA6
 The world ill needs women like you, Shavronne. Beauty is so much more than skin deep.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillShavronneA6.ogg]]
-
-#### MetSinAbberath
+## MetSinAbberath
 You might have been their progenitor, foul alchemist, but the goatmen deserve freedom from tyranny just as much as anyone else.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - MetSinAbberath.ogg]]
-
-#### MetSinRyslatha
+## MetSinRyslatha
 I'm beginning to understand. She was the Azmeri Goddess of Motherhood, but over time, she grew toward the extreme...
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - MetSinRyslatha.ogg]]
-
-#### ScionNoAzmeri
+## ScionNoAzmeri
 The Azmeri are gone! What's happened?
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - ScionNoAzmeri.ogg]]
-
-#### ScionReactsToNessaTwo
+## ScionReactsToNessaTwo
 Something seems off about her...
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - ScionReactsToNessaTwo.ogg]]
-
-#### EnterTheReefA6
+## EnterTheReefA6
 The gods seem to reshape the world around them wherever they go.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterTheReefA6.ogg]]
-
-#### MetSinBrineKing
+## MetSinBrineKing
 I never had a chance to save you, Nessa. You were already gone.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - MetSinBrineKing.ogg]]
-
-#### PickUpMaligaroMap
+## PickUpMaligaroMap
 I know this strange sensation. Why is it familiar?
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - PickUpMaligaroMap.ogg]]
-
-#### EnterChamberOfSinsA7
+## EnterChamberOfSinsA7
 Everywhere I've gone, evil springs forth once more. Have I even made a difference?
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterChamberOfSinsA7.ogg]]
-
-#### EnterMaligaroSanctum
+## EnterMaligaroSanctum
 I'm dreaming while I'm awake. How is this possible?
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterMaligaroSanctum.ogg]]
-
-#### KillMaligaroA7
+## KillMaligaroA7
 It's time you were part of a dark experiment, Maligaro.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillMaligaroA7.ogg]]
-
-#### EnterAshenFields
+## EnterAshenFields
 More divine devastation! Wraeclast can never heal so long as the gods trample us underfoot!
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterAshenFields.ogg]]
-
-#### MetSinRalakesh
+## MetSinRalakesh
 First Nessa, now Greust. How many more innocents will pay the price?
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - MetSinRalakesh.ogg]]
-
-#### EventGreustHonoured
+## EventGreustHonoured
 I hope your soul evades the grip of your gods, Greust. I hope you find peace.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EventGreustHonoured.ogg]]
-
-#### GlyphArakaaliShrine
+## GlyphArakaaliShrine
 Another parasite on the emotions and faith of mankind.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - GlyphArakaaliShrine.ogg]]
-
-#### MetSinGruthkul
+## MetSinGruthkul
 You alone, I forgive, Gruthkul. You're like Sin. You never wanted this, and it cost you everything.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - MetSinGruthkul.ogg]]
-
-#### ScionReactToYeenaTransforming
+## ScionReactToYeenaTransforming
 How did she do that without a virtue gem?
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - ScionReactToYeenaTransforming.ogg]]
-
-#### EnterTempleOfDecay2
+## EnterTempleOfDecay2
 Another twisted domain of the divine. One more ancient tyrant I must depose.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterTempleOfDecay2.ogg]]
-
-#### ScionReactToArakaali
+## ScionReactToArakaali
 She's part machine... which means she can be dismantled!
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - ScionReactToArakaali.ogg]]
-
-#### ScionReactToSilkDeath
+## ScionReactToSilkDeath
 Silk! No!
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - ScionReactToSilkDeath.ogg]]
-
-#### MetSinArakaali
+## MetSinArakaali
 Silk's death will be the last. I vow it. I will banish every last mad god on this damned continent!
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - MetSinArakaali.ogg]]
-
-#### EnterA8Town
+## EnterA8Town
 This place isn't cursed. That's the smell of alchemical byproducts. Somebody's brewing...
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterA8Town.ogg]]
-
-#### EnterToxicConduits
+## EnterToxicConduits
 Doedre is close. I'll follow the flow of chemicals and fumes.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterToxicConduits.ogg]]
-
-#### KillDoedreA8
+## KillDoedreA8
 I could have used a mind like yours against the tyranny of the gods, Doedre. I'll settle for your soul, though.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillDoedreA8.ogg]]
-
-#### EventAfterTolman
+## EventAfterTolman
 I would have given anything to feel a love like that, Clarissa. Treasure what you had.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EventAfterTolman.ogg]]
-
-#### KillGemlingLegion
+## KillGemlingLegion
 Centuries in one spot because of a single order... they were little more than machines, in the end.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillGemlingLegion.ogg]]
-
-#### MetSinYugul
+## MetSinYugul
 Yugul! The only god being honest about his rule through fear.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - MetSinYugul.ogg]]
-
-#### EnterLunarisTempleA8
+## EnterLunarisTempleA8
 This place has been transformed by divine madness... but the stench of death remains.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterLunarisTempleA8.ogg]]
-
-#### PickUpSunOrb
+## PickUpSunOrb
 Visions... there lies a secret in the heart of the Sun...
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - PickUpSunOrb.ogg]]
-
-#### PickUpMoonOrb
+## PickUpMoonOrb
 A vision... the Moon... I never knew...
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - PickUpMoonOrb.ogg]]
-
-#### MetSinSolarisLunaris
+## MetSinSolarisLunaris
 Imagine what you two could have accomplished had you worked together. Madness, pure madness.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - MetSinSolarisLunaris.ogg]]
-
-#### PickUpBasiliskAcid
+## PickUpBasiliskAcid
 Now it's my turn to delve into forbidden alchemy, I suppose.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - PickUpBasiliskAcid.ogg]]
-
-#### MetSinGarukhan
+## MetSinGarukhan
 I can only imagine what you have lost, my friend... but she was a god. She had to be put down.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - MetSinGarukhan.ogg]]
-
-#### MetSinShakari
+## MetSinShakari
 She wasn't your daughter, my friend. She was nothing more than a dangerous husk... though I imagine it still hurts, just the same.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - MetSinShakari.ogg]]
-
-#### PickUpTrarthanPowder
+## PickUpTrarthanPowder
 Nothing good ever comes from Trarthus. Let's hope this is the exception.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - PickUpTrarthanPowder.ogg]]
-
-#### EnterBellyOfTheBeastA9
+## EnterBellyOfTheBeastA9
 If only I had time to study this place, I could advance science a thousand years...
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterBellyOfTheBeastA9.ogg]]
-
-#### KillUnholyTrio
+## KillUnholyTrio
 It is done. Now we have everything we need to face Kitava.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillUnholyTrio.ogg]]
-
-#### EnterRavagedSquareA10
+## EnterRavagedSquareA10
 Oriath... what have they done to you? This nightmare must be put to an end!
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterRavagedSquareA10.ogg]]
-
-#### KillAvariusA10
+## KillAvariusA10
 Good riddance.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillAvariusA10.ogg]]
-
-#### EnterCanals
+## EnterCanals
 I won't fail this time!
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnterCanals.ogg]]
-
-#### KillKitavaA10
+## KillKitavaA10
 Fall, damn you! This world belongs to mortals!
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - KillKitavaA10.ogg]]
-
-#### WakeUpKaruiShores
+## WakeUpKaruiShores
 Hard to believe it's been a year already.
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - WakeUpKaruiShores.ogg]]
-
-#### EnteredMaps
+## EnteredMaps
 This place... I'm dreaming while awake, just like in Maligaro's Sanctuary...
 ![[Exiled Vault Dialogue/PoE1/S/Scion/_Audio/Scion - EnteredMaps.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

@@ -1,244 +1,183 @@
-# Sirus, Awakener of Worlds
-
-## Dialogue
-#### SirusExilEnters
+## SirusExilEnters
 My friends are dead, and now you come to me. Is it bravery? Or foolishness?
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusExilEnters.ogg]]
-
-#### SirusProtectsBody
+## SirusProtectsBody
 Did you really think this would work?
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusProtectsBody.ogg]]
-
-#### SirusMerges
+## SirusMerges
 I transcended all this long ago.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusMerges.ogg]]
-
-#### SirusAttacksZana
+## SirusAttacksZana
 Destroying you is as easy as flicking a pest.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusAttacksZana.ogg]]
-
-#### SirusSeesKiracWounded
+## SirusSeesKiracWounded
 How boring and small.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusSeesKiracWounded.ogg]]
-
-#### SirusTurnsTowardRealWorldA
+## SirusTurnsTowardRealWorldA
 There is nothing left for me here. For a few brief days, destroying something real may make me feel alive again.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusTurnsTowardRealWorldA.ogg]]
-
-#### SirusTurnsTowardRealWorldB
+## SirusTurnsTowardRealWorldB
 You slew my friends. You brought ruin to my worlds. You have invaded my very sanctum. I should be furious, and yet... I feel nothing.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusTurnsTowardRealWorldB.ogg]]
-
-#### SirusTurnsTowardRealWorldC
+## SirusTurnsTowardRealWorldC
 You want the Atlas? Take it. It's yours. But Oriath? Oriath I will burn to the ground. Perhaps the suffering of my fellow citizens will finally stir something.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusTurnsTowardRealWorldC.ogg]]
-
-#### SirusInvasionRandom
+## SirusInvasionRandom
 Meaningless. All meaningless.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusInvasionRandom.ogg]]
-
-#### SirusInvasion2
+## SirusInvasion2
 Return to nothing.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusInvasion2.ogg]]
-
-#### SirusInvasion3
+## SirusInvasion3
 Bask in the emptiness.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusInvasion3.ogg]]
-
-#### SirusInvasion4
+## SirusInvasion4
 Immaterial.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusInvasion4.ogg]]
-
-#### SirusInvasion5
+## SirusInvasion5
 Wipe clean the slate.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusInvasion5.ogg]]
-
-#### SirusInvasion6
+## SirusInvasion6
 Cease to be.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusInvasion6.ogg]]
-
-#### SirusInvasion7
+## SirusInvasion7
 Be undone.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusInvasion7.ogg]]
-
-#### SirusInvasion8
+## SirusInvasion8
 The world unravels.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusInvasion8.ogg]]
-
-#### SirusOffScreenApparition1
+## SirusOffScreenApparition1
 Watch 'beauty' crumble.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusOffScreenApparition1.ogg]]
-
-#### SirusOffScreenApparition2
+## SirusOffScreenApparition2
 This city is nothing.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusOffScreenApparition2.ogg]]
-
-#### SirusOffScreenApparition3
+## SirusOffScreenApparition3
 Your lives are meaningless.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusOffScreenApparition3.ogg]]
-
-#### SirusOffScreenApparition4
+## SirusOffScreenApparition4
 Why run? What's the point?
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusOffScreenApparition4.ogg]]
-
-#### SirusMeteorShower1
+## SirusMeteorShower1
 Fury of the cosmos!
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusMeteorShower1.ogg]]
-
-#### SirusMeteorShower2
+## SirusMeteorShower2
 Rain of stars!
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusMeteorShower2.ogg]]
-
-#### SirusFusionNukeBeam1
+## SirusFusionNukeBeam1
 Be utterly annihilated!
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusFusionNukeBeam1.ogg]]
-
-#### SirusFusionNukeBeam2
+## SirusFusionNukeBeam2
 Creation itself!
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusFusionNukeBeam2.ogg]]
-
-#### SirusFusionNukeBeamC
+## SirusFusionNukeBeamC
 Everlasting fire!
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusFusionNukeBeamC.ogg]]
-
-#### SirusCarpetBomb1
+## SirusCarpetBomb1
 Obliteration!
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusCarpetBomb1.ogg]]
-
-#### SirusCarpetBomb2
+## SirusCarpetBomb2
 Glorious flames!
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusCarpetBomb2.ogg]]
-
-#### SirusShortCooldownAHumanMtx
+## SirusShortCooldownAHumanMtx
 SirusShortCooldownAHumanMtx
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusShortCooldownAHumanMtx.ogg]]
-
-#### SirusShortCooldownBHuman
+## SirusShortCooldownBHuman
 Give in.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusShortCooldownBHuman.ogg]]
-
-#### SirusShortCooldownCHuman
+## SirusShortCooldownCHuman
 Be silent.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusShortCooldownCHuman.ogg]]
-
-#### SirusShortCooldownAMtx
+## SirusShortCooldownAMtx
 SirusShortCooldownAMtx
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusShortCooldownAMtx.ogg]]
-
-#### SirusShortCoolDownCNoText
+## SirusShortCoolDownCNoText
 SirusShortCoolDownCNoText
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusShortCoolDownCNoText.ogg]]
-
-#### SirusMediumCooldown1
+## SirusMediumCooldown1
 You are nothing.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusMediumCooldown1.ogg]]
-
-#### SirusMediumCooldown2
+## SirusMediumCooldown2
 Why resist?
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusMediumCooldown2.ogg]]
-
-#### SirusMediumCooldown3
+## SirusMediumCooldown3
 Pointless.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusMediumCooldown3.ogg]]
-
-#### SirusMediumCooldown4
+## SirusMediumCooldown4
 Embrace nothingness.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusMediumCooldown4.ogg]]
-
-#### SirusLongCooldown1
+## SirusLongCooldown1
 This world is doomed.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusLongCooldown1.ogg]]
-
-#### SirusLongCooldown2
+## SirusLongCooldown2
 I have seen beyond.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusLongCooldown2.ogg]]
-
-#### SirusLongCooldown3
+## SirusLongCooldown3
 Beyond, there is only horror.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusLongCooldown3.ogg]]
-
-#### SirusDismountA
+## SirusDismountA
 What's this? A real challenge? You've finally caught my attention!
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusDismountA.ogg]]
-
-#### SirusDismountB
+## SirusDismountB
 The others found strength in their projections. They became reliant on them. I am not so foolish.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusDismountB.ogg]]
-
-#### SirusDismountC
+## SirusDismountC
 You assumed I share the same weakness as my fellows. I do not.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusDismountC.ogg]]
-
-#### SirusAcknowledgesExile
+## SirusAcknowledgesExile
 A fellow exile? One more fool under Zana's sway. Allow me to destroy you before she has a chance to betray you, too. At least my way will be quick.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusAcknowledgesExile.ogg]]
-
-#### SirusHumanAndApparitionSkill1
+## SirusHumanAndApparitionSkill1
 Feel the thrill of {the void!}
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusHumanAndApparitionSkill1.ogg]]
-
-#### SirusHumanAndApparitionSkill2
+## SirusHumanAndApparitionSkill2
 You will long for {nonexistence!}
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusHumanAndApparitionSkill2.ogg]]
-
-#### SirusHumanAndApparitionSkill3
+## SirusHumanAndApparitionSkill3
 Meaning {is an illusion.}
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusHumanAndApparitionSkill3.ogg]]
-
-#### SirusHumanAndApparitionSkillD
+## SirusHumanAndApparitionSkillD
 You cling to life {only out of ignorance.}
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusHumanAndApparitionSkillD.ogg]]
-
-#### SirusDismountOneA
+## SirusDismountOneA
 Is life really interesting enough to warrant all this pain?
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusDismountOneA.ogg]]
-
-#### SirusDismountOneB
+## SirusDismountOneB
 Do you yet see the futility of your efforts?
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusDismountOneB.ogg]]
-
-#### SirusDismountTwoA
+## SirusDismountTwoA
 Why do you insist on continuing to exist?
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusDismountTwoA.ogg]]
-
-#### SirusDismountTwoB
+## SirusDismountTwoB
 Everything ends. Everything crumbles. Everything.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusDismountTwoB.ogg]]
-
-#### SirusDismountThreeA
+## SirusDismountThreeA
 On the edge of death, my heart races. I {am} alive!
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusDismountThreeA.ogg]]
-
-#### SirusDismountThreeB
+## SirusDismountThreeB
 Savour your excitement, your fear... they are the last things you will feel.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusDismountThreeB.ogg]]
-
-#### SirusSimpleDeathLine
+## SirusSimpleDeathLine
 At least I felt something...
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusSimpleDeathLine.ogg]]
-
-#### SirusComplexDeathLineA
+## SirusComplexDeathLineA
 You left me there, Zana... centuries alone in the Atlas... all I wanted was to feel something again...
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusComplexDeathLineA.ogg]]
-
-#### SirusComplexDeathLineBOne
+## SirusComplexDeathLineBOne
 Impressive... but now you will fight on {my} lands.
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusComplexDeathLineBOne.ogg]]
-
-#### SirusComplexDeathLineBTwo
+## SirusComplexDeathLineBTwo
 I feel... something... at last...
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusComplexDeathLineBTwo.ogg]]
-
-#### SirusComplexDeathLineCOne
+## SirusComplexDeathLineCOne
 The Atlas will fuel me. Behold. ...What?! No!
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusComplexDeathLineCOne.ogg]]
-
-#### SirusComplexDeathLineCTwo
+## SirusComplexDeathLineCTwo
 I always knew it would be you... Zana... to make me feel something... one last... time...
 ![[Exiled Vault Dialogue/PoE1/S/Sirus, Awakener of Worlds/_Audio/Sirus, Awakener of Worlds - SirusComplexDeathLineCTwo.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

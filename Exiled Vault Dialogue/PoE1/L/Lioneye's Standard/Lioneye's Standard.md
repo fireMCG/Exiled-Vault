@@ -1,11 +1,8 @@
-# Lioneye's Standard
-
-## Dialogue
-#### Read
+## Read
 {There is no Honour without Sacrifice.}
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

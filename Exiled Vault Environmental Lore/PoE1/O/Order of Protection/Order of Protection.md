@@ -1,15 +1,11 @@
-# Order of Protection
-
-## Lore
-#### Read
+## Read
 My loyal Declan, Give our Lady Piety your absolute support and watch her with absolute scrutiny. There is much to learn from the likes of the Inquisitor, the Umbra and the Soulless One. I would hate for Piety to feel that she need shoulder such perilous wisdom alone. - Dominus
 ![[Exiled Vault Environmental Lore/PoE1/O/Order of Protection/_Audio/Order of Protection - Read.ogg]]
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Lore/Environmental
 #MissingTags
 #PoE1/Act1
-#EnvironmentalLore
 #PoE1

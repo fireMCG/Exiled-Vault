@@ -1,15 +1,11 @@
-# Malachai's Dedication
-
-## Lore
-#### Read
+## Read
 On this day, the eve of this Rapture's completion, I honour those who have passed and whose passion and knowledge have brought us to the brink of salvation. Inquisitor Maligaro, a creative force without equal. Shavronne of Umbra, an aesthete of transcendent sensibility. Doedre Darktongue, an idol of fervor and dedication. You taught me far more than I ever taught you, my students... my friends. We strove to make a greater world together and, in your memory, I shall make that world a reality. Malachai
 ![[Exiled Vault Environmental Lore/PoE1/M/Malachai's Dedication/_Audio/Malachai's Dedication - Read.ogg]]
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Lore/Environmental
 #MissingTags
 #PoE1/Act4
-#EnvironmentalLore
 #PoE1

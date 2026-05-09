@@ -1,14 +1,10 @@
-# Etchings on Wood II
-
-## Lore
-#### Read
+## Read
 It has been a little over a week since the black storm. My husband has not returned and sickness now sweeps through our village. Many have died and those that lived have... changed. These were folk we once called neighbour and friend. Now they limp and stagger through the night, their deformities as grotesque as the madness in their eyes. {-Tani}
 ![[Exiled Vault Environmental Lore/PoE1/E/Etchings on Wood II/_Audio/Etchings on Wood II - Read.ogg]]
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Lore/Environmental
 #PoE1/Act2
-#EnvironmentalLore
 #PoE1

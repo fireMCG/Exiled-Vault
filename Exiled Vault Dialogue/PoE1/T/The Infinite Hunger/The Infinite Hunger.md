@@ -1,100 +1,75 @@
-# The Infinite Hunger
-
-## Dialogue
-#### DoomBossBurrowStartRandom
+## DoomBossBurrowStartRandom
 Hunger!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossBurrowStartRandom.ogg]]
-
-#### DoomBossBurrowEndRandom
+## DoomBossBurrowEndRandom
 Feast!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossBurrowEndRandom.ogg]]
-
-#### DoomBossCrunchRandom
+## DoomBossCrunchRandom
 Crunch!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossCrunchRandom.ogg]]
-
-#### DoomBossDashStartRandom
+## DoomBossDashStartRandom
 Cull!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossDashStartRandom.ogg]]
-
-#### DoomBossDashStart3
+## DoomBossDashStart3
 Slaughter!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossDashStart3.ogg]]
-
-#### DoomBossDefeatedRandom
+## DoomBossDefeatedRandom
 The pain... never ends...
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossDefeatedRandom.ogg]]
-
-#### DoomBossDefeated3
+## DoomBossDefeated3
 Death... is meaningless...
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossDefeated3.ogg]]
-
-#### DoomBossDyingTarpitRandom
+## DoomBossDyingTarpitRandom
 Satiated... for but a moment...
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossDyingTarpitRandom.ogg]]
-
-#### DoomBossIntroRandom
+## DoomBossIntroRandom
 Foolish Maven, come to feed me her champion!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossIntroRandom.ogg]]
-
-#### DoomBossIntro3
+## DoomBossIntro3
 Your champion looks delicious.
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossIntro3.ogg]]
-
-#### DoomBossPLayerDeathRandom
+## DoomBossPLayerDeathRandom
 A feast of muscle and bone!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossPLayerDeathRandom.ogg]]
-
-#### DoomBossPulveriseRandom
+## DoomBossPulveriseRandom
 Pulverise!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossPulveriseRandom.ogg]]
-
-#### DoomBossScapingTarpitRandom
+## DoomBossScapingTarpitRandom
 The Tangle will not be denied!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossScapingTarpitRandom.ogg]]
-
-#### DoomBossSlamRandom
+## DoomBossSlamRandom
 Obliterate!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossSlamRandom.ogg]]
-
-#### DoomBossSlam5
+## DoomBossSlam5
 Mash!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossSlam5.ogg]]
-
-#### DoomBossSmashRandom
+## DoomBossSmashRandom
 Smash!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossSmashRandom.ogg]]
-
-#### DoomBossTarpitScapeRandom
+## DoomBossTarpitScapeRandom
 Hunger without end...
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossTarpitScapeRandom.ogg]]
-
-#### DoomBossTauntRandom
+## DoomBossTauntRandom
 The Tangle will feast upon this realm forever.
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossTauntRandom.ogg]]
-
-#### DoomBossTaunt4
+## DoomBossTaunt4
 There is no escape.
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossTaunt4.ogg]]
-
-#### DoomBossVomitRandom
+## DoomBossVomitRandom
 Digestion!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossVomitRandom.ogg]]
-
-#### DoomBossVomit3
+## DoomBossVomit3
 Melt!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossVomit3.ogg]]
-
-#### DoomBossDashEndRandom
+## DoomBossDashEndRandom
 Trample!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossDashEndRandom.ogg]]
-
-#### DoomBossDashEnd3
+## DoomBossDashEnd3
 Crush!
 ![[Exiled Vault Dialogue/PoE1/T/The Infinite Hunger/_Audio/The Infinite Hunger - DoomBossDashEnd3.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

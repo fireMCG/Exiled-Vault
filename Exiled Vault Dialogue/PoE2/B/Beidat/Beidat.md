@@ -1,11 +1,8 @@
-# Beidat
-
-## Dialogue
-#### Lycia_Glyph_08
+## Lycia_Glyph_08
 Beidat is a cruel master. He calls himself the Archangel of Death, but there is nothing angelic about him. He is a demon-lord, and bargaining with him was like parting with my very soul. If only he had taken my emotions... It would have made eternity pass unnoticed.
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE2

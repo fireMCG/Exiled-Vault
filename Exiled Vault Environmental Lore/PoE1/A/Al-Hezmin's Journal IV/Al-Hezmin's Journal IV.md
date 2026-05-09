@@ -1,12 +1,9 @@
-# Al-Hezmin's Journal IV
-
-## Lore
-#### Read
+## Read
 New Person: I don't recognise this one. Doesn't move like the other ones. More sentience. Saw them talking to Zana. Didn't see where they came from or where they went. Seems strong. Stronger than a lot of the other exiles we saw. Would definitely have remembered this one if I'd seen them before. Maybe Zana hid them from us. Not as strong as me though. Going to lay some traps. Test them out. See what they are made of. Then I'll kill Drox.
 ![[Exiled Vault Environmental Lore/PoE1/A/Al-Hezmin's Journal IV/_Audio/Al-Hezmin's Journal IV - Read.ogg]]
 
-##
+#
 ---
-## Tags
-#EnvironmentalLore
+# Tags
+#Category/Lore/Environmental
 #PoE1

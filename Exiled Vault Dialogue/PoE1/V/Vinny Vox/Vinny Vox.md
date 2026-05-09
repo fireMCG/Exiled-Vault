@@ -1,104 +1,78 @@
-# Vinny Vox
-
-## Dialogue
-#### KuraiContractThreeVinnyToVicOne
+## KuraiContractThreeVinnyToVicOne
 Look, brother! At last, the guest of honour has arrived, with company.
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - KuraiContractThreeVinnyToVicOne.ogg]]
-
-#### KuraiContractThreeVinnyToKuraiOne
+## KuraiContractThreeVinnyToKuraiOne
 You were {meant} to come alone! What's wrong Lady Kurai? Are you afraid of us?
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - KuraiContractThreeVinnyToKuraiOne.ogg]]
-
-#### KuraiContractThreeVinnyToKuraiTwo
+## KuraiContractThreeVinnyToKuraiTwo
 You kept us waiting so very long that we got bored. We decided to pass the time. We were playing with little... Hana, was it?
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - KuraiContractThreeVinnyToKuraiTwo.ogg]]
-
-#### KuraiContractThreeVinnyToKuraiThree
+## KuraiContractThreeVinnyToKuraiThree
 Very affectionate! And we were having such a pleasant time with her! But then things took a turn!
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - KuraiContractThreeVinnyToKuraiThree.ogg]]
-
-#### KuraiContractThreeVinnytoVicTwo
+## KuraiContractThreeVinnytoVicTwo
 Not at all. Beautiful little Hana was being vicious. Mean.
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - KuraiContractThreeVinnytoVicTwo.ogg]]
-
-#### KuraiContractThreeVinnytoKuraiFour
+## KuraiContractThreeVinnytoKuraiFour
 So we did to Hana what we do to anyone who attacks a Vox.
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - KuraiContractThreeVinnytoKuraiFour.ogg]]
-
-#### KuraiContractThreeVinnyToKuraiFive
+## KuraiContractThreeVinnyToKuraiFive
 Good. Then we have a proposal for you. Very favourable. A truce, as long as you never interfere in Vox business again. ... Lady Kurai?
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - KuraiContractThreeVinnyToKuraiFive.ogg]]
-
-#### KuraiContractThreeVinnyToKuraiSix
+## KuraiContractThreeVinnyToKuraiSix
 Shame. Farewell, Lady Kurai.
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - KuraiContractThreeVinnyToKuraiSix.ogg]]
-
-#### KuraiContractFourVinnyToKuraiOne
+## KuraiContractFourVinnyToKuraiOne
 Lady Kurai? How nice of you to join us.
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - KuraiContractFourVinnyToKuraiOne.ogg]]
-
-#### KuraiContractFourVinnyToKuraiTwo
+## KuraiContractFourVinnyToKuraiTwo
 But the fun is just beginning!
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - KuraiContractFourVinnyToKuraiTwo.ogg]]
-
-#### KuraiContractFourVinnyToVicDeath
+## KuraiContractFourVinnyToVicDeath
 Vic! No!
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - KuraiContractFourVinnyToVicDeath.ogg]]
-
-#### KuraiContractFourVinnyToKuraiThree
+## KuraiContractFourVinnyToKuraiThree
 All this... f-...for a book? For a cat?
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - KuraiContractFourVinnyToKuraiThree.ogg]]
-
-#### KuraiContractFourVinnyToKuraiThreeAlt
+## KuraiContractFourVinnyToKuraiThreeAlt
 Enough, enough! You win... what do you want?
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - KuraiContractFourVinnyToKuraiThreeAlt.ogg]]
-
-#### VinnyVoxBleed
+## VinnyVoxBleed
 Bleed!
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - VinnyVoxBleed.ogg]]
-
-#### VinnyVoxBleedForMe
+## VinnyVoxBleedForMe
 Bleed for me!
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - VinnyVoxBleedForMe.ogg]]
-
-#### VinnyVoxBow
+## VinnyVoxBow
 Bow before your betters!
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - VinnyVoxBow.ogg]]
-
-#### VinnyVoxCantCompete
+## VinnyVoxCantCompete
 You can't compete!
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - VinnyVoxCantCompete.ogg]]
-
-#### VinnyVoxControl
+## VinnyVoxControl
 We control the people.
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - VinnyVoxControl.ogg]]
-
-#### VinnyVoxDarkness
+## VinnyVoxDarkness
 Darkness of the Underworld!
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - VinnyVoxDarkness.ogg]]
-
-#### VinnyVoxGutterTrashRandom
+## VinnyVoxGutterTrashRandom
 Gutter trash!
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - VinnyVoxGutterTrashRandom.ogg]]
-
-#### VinnyVoxNoOne
+## VinnyVoxNoOne
 No one will remember you!
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - VinnyVoxNoOne.ogg]]
-
-#### VinnyVoxPointless
+## VinnyVoxPointless
 Pointless!
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - VinnyVoxPointless.ogg]]
-
-#### VinnyVoxSpinelessRandom
+## VinnyVoxSpinelessRandom
 Spineless!
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - VinnyVoxSpinelessRandom.ogg]]
-
-#### VinnyVoxYoureNothing
+## VinnyVoxYoureNothing
 You're nothing!
 ![[Exiled Vault Dialogue/PoE1/V/Vinny Vox/_Audio/Vinny Vox - VinnyVoxYoureNothing.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

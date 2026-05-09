@@ -1,12 +1,12 @@
-# Eternal Pursuit
 [[Ramako Tribe]]
 The Sun chases the Moon across the sky, thirsting for a momentary touch.
 
 #
 ![[CrystalLegband.webp]]
 
+#
 ---
-## Tags
+# Tags
 #Category/AncestorEquipment
 #Concept/Time/Eternity
 #Concept/Moon
@@ -15,3 +15,4 @@ The Sun chases the Moon across the sky, thirsting for a momentary touch.
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Ramako
+#Interesting 

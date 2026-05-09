@@ -1,32 +1,22 @@
-# Imperial Knight
-
-## Dialogue
-#### GraveKnight_SwordPickUp_Random
+## GraveKnight_SwordPickUp_Random
 Innocence, save my soul!
-
-#### GraveKnight_SwordPickUp_4
+## GraveKnight_SwordPickUp_4
 I cannot stop myself!
-
-#### GraveKnight_Emerge
+## GraveKnight_Emerge
 You must flee from here!
-
-#### GraveKnight_Death
+## GraveKnight_Death
 I... will not be... a slave to evil!
-
-#### GraveKnight_Cleave_Random
+## GraveKnight_Cleave_Random
 Run, fool!
-
-#### GraveKnight_Cleave_4
+## GraveKnight_Cleave_4
 Make haste!
-
-#### GraveKnight_Skill_Random
+## GraveKnight_Skill_Random
 Get back!
-
-#### GraveKnight_Skill_3
+## GraveKnight_Skill_3
 Look out!
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE2

@@ -1,79 +1,57 @@
-# Olroth, Origin of the Fall
-
-## Dialogue
-#### OlrothAssaultRandom
+## OlrothAssaultRandom
 Assault!
-
-#### OlrothBurnRandom
+## OlrothBurnRandom
 Burn!
-
-#### OlrothIAmTheDoomRandom
+## OlrothIAmTheDoomRandom
 I am the doom at the door!
 ![[Exiled Vault Dialogue/PoE2/O/Olroth, Origin of the Fall/_Audio/Olroth, Origin of the Fall - OlrothIAmTheDoomRandom.ogg]]
-
-#### OlrothHoldTheLineRandom
+## OlrothHoldTheLineRandom
 Hold the line!
-
-#### OlrothICannotYieldRandom
+## OlrothICannotYieldRandom
 I cannot yield!
 ![[Exiled Vault Dialogue/PoE2/O/Olroth, Origin of the Fall/_Audio/Olroth, Origin of the Fall - OlrothICannotYieldRandom.ogg]]
-
-#### OlrothIHaveBecomeTheDarknessRandom
+## OlrothIHaveBecomeTheDarknessRandom
 I have become the darkness...
-
-#### OlrothIWillNeverYieldRandom
+## OlrothIWillNeverYieldRandom
 I will never yield!
 ![[Exiled Vault Dialogue/PoE2/O/Olroth, Origin of the Fall/_Audio/Olroth, Origin of the Fall - OlrothIWillNeverYieldRandom.ogg]]
-
-#### OlrothNeverRandom
+## OlrothNeverRandom
 Never!
-
-#### OlrothNever4
+## OlrothNever4
 For the king!
-
-#### OlrothPurifyRandom
+## OlrothPurifyRandom
 Purify!
 ![[Exiled Vault Dialogue/PoE2/O/Olroth, Origin of the Fall/_Audio/Olroth, Origin of the Fall - OlrothPurifyRandom.ogg]]
-
-#### OlrothStarfireRandom
+## OlrothStarfireRandom
 Starfire!
 ![[Exiled Vault Dialogue/PoE2/O/Olroth, Origin of the Fall/_Audio/Olroth, Origin of the Fall - OlrothStarfireRandom.ogg]]
-
-#### OlrothTheCurseRandom
+## OlrothTheCurseRandom
 The curse... sprung from the mountain...
-
-#### OlrothTraitorRandom
+## OlrothTraitorRandom
 Traitor!
 ![[Exiled Vault Dialogue/PoE2/O/Olroth, Origin of the Fall/_Audio/Olroth, Origin of the Fall - OlrothTraitorRandom.ogg]]
-
-#### OlrothTripleBladeRandom
+## OlrothTripleBladeRandom
 Triple blade!
-
-#### OlrothWastelandRandom
+## OlrothWastelandRandom
 Wasteland!
 ![[Exiled Vault Dialogue/PoE2/O/Olroth, Origin of the Fall/_Audio/Olroth, Origin of the Fall - OlrothWastelandRandom.ogg]]
-
-#### OlrothWhoDares
+## OlrothWhoDares
 Who... Dares?
-
-#### OlrothYouveDoomedUsAllRandom
+## OlrothYouveDoomedUsAllRandom
 You've doomed us all!
 ![[Exiled Vault Dialogue/PoE2/O/Olroth, Origin of the Fall/_Audio/Olroth, Origin of the Fall - OlrothYouveDoomedUsAllRandom.ogg]]
-
-#### OlrothYouWillFail
+## OlrothYouWillFail
 You will fail!
 ![[Exiled Vault Dialogue/PoE2/O/Olroth, Origin of the Fall/_Audio/Olroth, Origin of the Fall - OlrothYouWillFail.ogg]]
-
-#### OlrothDarknessAtLast
+## OlrothDarknessAtLast
 Darkness... at last...
 ![[Exiled Vault Dialogue/PoE2/O/Olroth, Origin of the Fall/_Audio/Olroth, Origin of the Fall - OlrothDarknessAtLast.ogg]]
-
-#### OlrothICannotDieRandom
+## OlrothICannotDieRandom
 I cannot... die...
 ![[Exiled Vault Dialogue/PoE2/O/Olroth, Origin of the Fall/_Audio/Olroth, Origin of the Fall - OlrothICannotDieRandom.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE2

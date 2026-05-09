@@ -1,12 +1,12 @@
-# Jade Blade
 [[Tukohama Tribe]]
 A true warrior is never unarmed.
 
 #
 ![[JadeBlade.webp]]
 
+#
 ---
-## Tags
+# Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

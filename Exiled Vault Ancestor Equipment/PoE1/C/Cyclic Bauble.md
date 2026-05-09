@@ -1,12 +1,12 @@
-# Cyclic Bauble
 [[Hinekora Tribe]]
 The end of Time is also its beginning.
 
 #
 ![[SunMoonAmulet.webp]]
 
+#
 ---
-## Tags
+# Tags
 #Category/AncestorEquipment
 #Concept/Time/Beginning
 #Concept/Time/Cycle 
@@ -14,3 +14,4 @@ The end of Time is also its beginning.
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Hinekora 
+#Interesting 

@@ -1,24 +1,18 @@
-# Iktab, the Deathlord
-
-## Dialogue
-#### BoneCultistDeathlordDaGokRandom
+## BoneCultistDeathlordDaGokRandom
 {Dagok}!
 ![[Exiled Vault Dialogue/PoE2/I/Iktab, the Deathlord/_Audio/Iktab, the Deathlord - BoneCultistDeathlordDaGokRandom.ogg]]
-
-#### BoneCultistDeathlordGralRandom
+## BoneCultistDeathlordGralRandom
 {Gral}!
 ![[Exiled Vault Dialogue/PoE2/I/Iktab, the Deathlord/_Audio/Iktab, the Deathlord - BoneCultistDeathlordGralRandom.ogg]]
-
-#### BoneCultistDeathlordHakgrumRandom
+## BoneCultistDeathlordHakgrumRandom
 {Hak-grum}.
 ![[Exiled Vault Dialogue/PoE2/I/Iktab, the Deathlord/_Audio/Iktab, the Deathlord - BoneCultistDeathlordHakgrumRandom.ogg]]
-
-#### BoneCultistDeathlordNirHagokRandom
+## BoneCultistDeathlordNirHagokRandom
 {Nir hagok}.
 ![[Exiled Vault Dialogue/PoE2/I/Iktab, the Deathlord/_Audio/Iktab, the Deathlord - BoneCultistDeathlordNirHagokRandom.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE2

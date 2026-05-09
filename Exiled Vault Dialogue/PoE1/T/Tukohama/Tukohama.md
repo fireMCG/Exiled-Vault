@@ -1,12 +1,9 @@
-# Tukohama
-
-## Dialogue
-#### TukohamaIntro
+## TukohamaIntro
 Let me teach you the laws of war.
 ![[Exiled Vault Dialogue/PoE1/T/Tukohama/_Audio/Tukohama - TukohamaIntro.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

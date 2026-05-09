@@ -1,472 +1,354 @@
-# Hillock, the Blacksmith
-
-## Dialogue
-#### HillockPrimaryDefenderStartsFightZero
+## HillockPrimaryDefenderStartsFightZero
 Hey...! Why do you look so familiar...?
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightZero.ogg]]
-
-#### HillockPrimaryDefenderStartsFightOne
+## HillockPrimaryDefenderStartsFightOne
 This is MY house. You're gonna DIE, little invaders.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightOne.ogg]]
-
-#### HillockPrimaryDefenderStartsFightTwo
+## HillockPrimaryDefenderStartsFightTwo
 My things, not yours! I'll SMASH YOU TO BITS!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightTwo.ogg]]
-
-#### HillockPrimaryDefenderStartsFightThree
+## HillockPrimaryDefenderStartsFightThree
 You're not meant to see this! I'll KILL YOU TO DEATH!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightThree.ogg]]
-
-#### HillockPrimaryDefenderStartsFightFour
+## HillockPrimaryDefenderStartsFightFour
 Found you, little Exile. Now I'm gonna kill you!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightFour.ogg]]
-
-#### HillockPrimaryDefenderStartsFightFive
+## HillockPrimaryDefenderStartsFightFive
 Hate the dark. Hate YOU for putting me there!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightFive.ogg]]
-
-#### HillockPrimaryDefenderStartsFightSix
+## HillockPrimaryDefenderStartsFightSix
 YOU! Confuse me you did. Snap your little neck for that.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightSix.ogg]]
-
-#### HillockPrimaryDefenderStartsFightSeven
+## HillockPrimaryDefenderStartsFightSeven
 You made me hurt my friends. Now I'll hurt you!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightSeven.ogg]]
-
-#### HillockPrimaryDefenderStartsFightEight
+## HillockPrimaryDefenderStartsFightEight
 You killed me. Now, I kill you. Make this one last.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightEight.ogg]]
-
-#### HillockPrimaryDefenderStartsFightNine
+## HillockPrimaryDefenderStartsFightNine
 I liked breaking you, little Exile. Glad I get to do it again.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightNine.ogg]]
-
-#### HillockPrimaryDefenderStartsFightTen
+## HillockPrimaryDefenderStartsFightTen
 Bash you harder than I've ever bashed before!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightTen.ogg]]
-
-#### HillockPrimaryDefenderStartsFightEleven
+## HillockPrimaryDefenderStartsFightEleven
 The people I kill are still with me.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightEleven.ogg]]
-
-#### HillockPrimaryDefenderStartsFightTwelve
+## HillockPrimaryDefenderStartsFightTwelve
 One hit, Exile. All I need.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightTwelve.ogg]]
-
-#### HillockPrimaryDefenderStartsFightThirteen
+## HillockPrimaryDefenderStartsFightThirteen
 Run, toy! Run!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightThirteen.ogg]]
-
-#### HillockPrimaryDefenderStartsFightFourteen
+## HillockPrimaryDefenderStartsFightFourteen
 When I get mad, things burn. PEOPLE burn.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockPrimaryDefenderStartsFightFourteen.ogg]]
-
-#### HillockSafehouseLeaderIntroZero
+## HillockSafehouseLeaderIntroZero
 You walk into my home. MY home. I'll RIP your spine OUT!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSafehouseLeaderIntroZero.ogg]]
-
-#### HillockSecondaryDefenderArrivalZero
+## HillockSecondaryDefenderArrivalZero
 I'll help kill the little invaders!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalZero.ogg]]
-
-#### HillockSecondaryDefenderArrivalOne
+## HillockSecondaryDefenderArrivalOne
 They're not your things little Exile!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalOne.ogg]]
-
-#### HillockSecondaryDefenderArrivalTwo
+## HillockSecondaryDefenderArrivalTwo
 Mash the little invaders into GOO!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalTwo.ogg]]
-
-#### HillockSecondaryDefenderArrivalThree
+## HillockSecondaryDefenderArrivalThree
 Kill them dead! Hahahaha!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalThree.ogg]]
-
-#### HillockSecondaryDefenderArrivalFour
+## HillockSecondaryDefenderArrivalFour
 I'ma hurt you for fun.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalFour.ogg]]
-
-#### HillockSecondaryDefenderArrivalFive
+## HillockSecondaryDefenderArrivalFive
 I'll protect you! I'll protect the family! Rip little Exile heads off!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalFive.ogg]]
-
-#### HillockSecondaryDefenderArrivalSix
+## HillockSecondaryDefenderArrivalSix
 I'll help you smite.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalSix.ogg]]
-
-#### HillockSecondaryDefenderArrivalSeven
+## HillockSecondaryDefenderArrivalSeven
 Arrows? I hate arrows.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalSeven.ogg]]
-
-#### HillockSecondaryDefenderArrivalEight
+## HillockSecondaryDefenderArrivalEight
 I'll help you stab.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalEight.ogg]]
-
-#### HillockSecondaryDefenderArrivalNine
+## HillockSecondaryDefenderArrivalNine
 I'll help you tear.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalNine.ogg]]
-
-#### HillockSecondaryDefenderArrivalTen
+## HillockSecondaryDefenderArrivalTen
 I'll help you, scary lady.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalTen.ogg]]
-
-#### HillockSecondaryDefenderArrivalEleven
+## HillockSecondaryDefenderArrivalEleven
 I'll help you bash.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalEleven.ogg]]
-
-#### HillockSecondaryDefenderArrivalTwelve
+## HillockSecondaryDefenderArrivalTwelve
 You all hurt me. I'll hurt you all!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalTwelve.ogg]]
-
-#### HillockSecondaryDefenderArrivalThirteen
+## HillockSecondaryDefenderArrivalThirteen
 These are my things now, stupid.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalThirteen.ogg]]
-
-#### HillockSecondaryDefenderArrivalFourteen
+## HillockSecondaryDefenderArrivalFourteen
 Gonna kill all of you down here.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalFourteen.ogg]]
-
-#### HillockSecondaryDefenderArrivalFifteen
+## HillockSecondaryDefenderArrivalFifteen
 Ha! You stupid idiot, you fell into my trap.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalFifteen.ogg]]
-
-#### HillockSecondaryDefenderArrivalSixteen
+## HillockSecondaryDefenderArrivalSixteen
 I'm gonna get you, wild one!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalSixteen.ogg]]
-
-#### HillockSecondaryDefenderArrivalSeventeen
+## HillockSecondaryDefenderArrivalSeventeen
 You talk too much Vagan. I'm gonna shut that pretty little mouth.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalSeventeen.ogg]]
-
-#### HillockSecondaryDefenderArrivalEighteen
+## HillockSecondaryDefenderArrivalEighteen
 Pretty Rin, I'm coming for ya!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalEighteen.ogg]]
-
-#### HillockSecondaryDefenderArrivalNineteen
+## HillockSecondaryDefenderArrivalNineteen
 Can I bash you, Cameria?
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalNineteen.ogg]]
-
-#### HillockSecondaryDefenderArrivalTwenty
+## HillockSecondaryDefenderArrivalTwenty
 Scary little Aisling... you're mine now.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalTwenty.ogg]]
-
-#### HillockSecondaryDefenderArrivalTwentyOne
+## HillockSecondaryDefenderArrivalTwentyOne
 Bash Exile, bash Syndicate. Bash whoever.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalTwentyOne.ogg]]
-
-#### HillockReplyToSecondaryDefenderArrivalZero
+## HillockReplyToSecondaryDefenderArrivalZero
 You're in my house though, stupid.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToSecondaryDefenderArrivalZero.ogg]]
-
-#### HillockReplyToSecondaryDefenderArrivalOne
+## HillockReplyToSecondaryDefenderArrivalOne
 I'll kill you too! I'll break all of you to CRUMBS!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToSecondaryDefenderArrivalOne.ogg]]
-
-#### HillockReplyToSecondaryDefenderArrivalTwo
+## HillockReplyToSecondaryDefenderArrivalTwo
 Gonna keep your body. You're not gonna wake up again.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToSecondaryDefenderArrivalTwo.ogg]]
-
-#### HillockReplyToSecondaryDefenderArrivalThree
+## HillockReplyToSecondaryDefenderArrivalThree
 I'll paint with you later. A big red smear. Hahaha!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToSecondaryDefenderArrivalThree.ogg]]
-
-#### HillockReplyToSecondaryDefenderArrivalFour
+## HillockReplyToSecondaryDefenderArrivalFour
 I'm gonna use your body to test my blades.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToSecondaryDefenderArrivalFour.ogg]]
-
-#### HillockReplyToSecondaryDefenderArrivalFive
+## HillockReplyToSecondaryDefenderArrivalFive
 Hate pirates! Salty, smelly, rotten bunch.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToSecondaryDefenderArrivalFive.ogg]]
-
-#### HillockReplyToSecondaryDefenderArrivalSix
+## HillockReplyToSecondaryDefenderArrivalSix
 Yeah? Well you're gonna be DEAD-dead!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToSecondaryDefenderArrivalSix.ogg]]
-
-#### HillockReplyToSecondaryDefenderArrivalSeven
+## HillockReplyToSecondaryDefenderArrivalSeven
 Hey! Who are you calling dumb? Me? Hey!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToSecondaryDefenderArrivalSeven.ogg]]
-
-#### HillockReplyToSecondaryDefenderArrivalEight
+## HillockReplyToSecondaryDefenderArrivalEight
 I'll snap off every limb that touches me, bitch.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToSecondaryDefenderArrivalEight.ogg]]
-
-#### HillockReplyToSecondaryDefenderArrivalNine
+## HillockReplyToSecondaryDefenderArrivalNine
 Then I'll bash you too.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToSecondaryDefenderArrivalNine.ogg]]
-
-#### HillockSecondaryDefenderArrivalTwentyTwo
+## HillockSecondaryDefenderArrivalTwentyTwo
 Don't get in the way.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalTwentyTwo.ogg]]
-
-#### HillockSecondaryDefenderArrivalTwentyThree
+## HillockSecondaryDefenderArrivalTwentyThree
 You protect the things! I'll bash the little Exile.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalTwentyThree.ogg]]
-
-#### HillockSecondaryDefenderArrivalTwentyFour
+## HillockSecondaryDefenderArrivalTwentyFour
 The bashing will be legendary!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalTwentyFour.ogg]]
-
-#### HillockSecondaryDefenderArrivalTwentyFive
+## HillockSecondaryDefenderArrivalTwentyFive
 Grind the Exile's bones into snuff.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalTwentyFive.ogg]]
-
-#### HillockSecondaryDefenderArrivalTwentySix
+## HillockSecondaryDefenderArrivalTwentySix
 Bash good, Leo, and I'll make you another hook.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalTwentySix.ogg]]
-
-#### HillockSecondaryDefenderArrivalTwentySeven
+## HillockSecondaryDefenderArrivalTwentySeven
 Keep them arrows away from me. Point 'em at the Exile!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalTwentySeven.ogg]]
-
-#### HillockSecondaryDefenderArrivalTwentyEight
+## HillockSecondaryDefenderArrivalTwentyEight
 Little man with his blades, you stab what I say.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalTwentyEight.ogg]]
-
-#### HillockSecondaryDefenderArrivalTwentyNine
+## HillockSecondaryDefenderArrivalTwentyNine
 I am the strongest here, little Thane. I command.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalTwentyNine.ogg]]
-
-#### HillockSecondaryDefenderArrivalThirty
+## HillockSecondaryDefenderArrivalThirty
 My turn to choose what we rip apart!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalThirty.ogg]]
-
-#### HillockSecondaryDefenderArrivalThirtyOne
+## HillockSecondaryDefenderArrivalThirtyOne
 You know what I want. Bash. Bash! BASH!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSecondaryDefenderArrivalThirtyOne.ogg]]
-
-#### HillockKillPlayerZero
+## HillockKillPlayerZero
 And stay out!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockKillPlayerZero.ogg]]
-
-#### HillockKillPlayerOne
+## HillockKillPlayerOne
 What's mine is mine.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockKillPlayerOne.ogg]]
-
-#### HillockKillPlayerTwo
+## HillockKillPlayerTwo
 Smushed.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockKillPlayerTwo.ogg]]
-
-#### HillockKillPlayerThree
+## HillockKillPlayerThree
 Easy easy easy.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockKillPlayerThree.ogg]]
-
-#### HillockEscapeZero
+## HillockEscapeZero
 Huhuhahaha... HAHahahahahaha!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockEscapeZero.ogg]]
-
-#### HillockEscapeOne
+## HillockEscapeOne
 See? Nobody takes my things!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockEscapeOne.ogg]]
-
-#### HillockEscapeTwo
+## HillockEscapeTwo
 Bash you to bits later, little invaders.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockEscapeTwo.ogg]]
-
-#### HillockDefeatedZero
+## HillockDefeatedZero
 Arrrgh!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockDefeatedZero.ogg]]
-
-#### HillockDefeatedOne
+## HillockDefeatedOne
 Uggggggh!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockDefeatedOne.ogg]]
-
-#### HillockDefeatedTwo
+## HillockDefeatedTwo
 My... toys...!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockDefeatedTwo.ogg]]
-
-#### HillockDefeatedThree
+## HillockDefeatedThree
 You cheated! Must have!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockDefeatedThree.ogg]]
-
-#### HillockDefeatedFour
+## HillockDefeatedFour
 No... not in the dark again...
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockDefeatedFour.ogg]]
-
-#### HillockDefeatedFive
+## HillockDefeatedFive
 My head still hurts!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockDefeatedFive.ogg]]
-
-#### HillockDefeatedSix
+## HillockDefeatedSix
 Don't make me... hurt my friends again...
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockDefeatedSix.ogg]]
-
-#### HillockDefeatedSeven
+## HillockDefeatedSeven
 No... don't want to die... again..
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockDefeatedSeven.ogg]]
-
-#### HillockDefeatedEight
+## HillockDefeatedEight
 My turn... already...?
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockDefeatedEight.ogg]]
-
-#### HillockDefeatedNine
+## HillockDefeatedNine
 Bad... bad... BAD!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockDefeatedNine.ogg]]
-
-#### HillockDefeatedTen
+## HillockDefeatedTen
 Stupid Hillock! Stupid!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockDefeatedTen.ogg]]
-
-#### HillockOfferBargainZero
+## HillockOfferBargainZero
 You kill so good, Exile. Quick and splatty. You want to be friends just for today?
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBargainZero.ogg]]
-
-#### HillockOfferBargainOne
+## HillockOfferBargainOne
 Want a friend, I do. Sit in my room, bashing my hammer, talking to myself... gettin' ANGRY... with a friend maybe I wouldn't hurt people no more. Will you help me find a friend?
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBargainOne.ogg]]
-
-#### HillockOfferBargainTwo
+## HillockOfferBargainTwo
 Making a new friend, I am. We was gonna eat dinner together. Bit of the drink. Talk about work. Told me a few things already you know. Let me go and I'll tell you what they told me.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBargainTwo.ogg]]
-
-#### HillockOfferBargainThree
+## HillockOfferBargainThree
 I tried and tried to do this job but I don't get it. It doesn't make SENSE to me! Hurts my head! Makes me ANGRY. Makes me BREAK STUFF! Don't make me stay here.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBargainThree.ogg]]
-
-#### HillockOfferBargainFour
+## HillockOfferBargainFour
 Miss the forge, I do. Can't make swords here the way I used to. Maybe you can tell the Lifegiver I burned to ashes and I can go back home. Back to the anvil, and the pub.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBargainFour.ogg]]
-
-#### HillockOfferBargainFive
+## HillockOfferBargainFive
 I hate this job. Hate it! Makes no sense to me! My boss gave me some scribbled paper. Told me everything I need to know is on it, but I can't make out the pictures. If you let me go, you can take a look. Maybe you can work out what it means.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBargainFive.ogg]]
-
-#### HillockOfferBargainSix
+## HillockOfferBargainSix
 Miss making my swords, I do. Sometimes, I get pictures in my head from a long time ago. Making beautiful swords. Better than I can make now. Feels like a different man in those pictures. A smarter man. Quicker. Been collecting a few pieces here and there. Not like the ones I make, but still strong. Makes me think of home, makes me feel connected to that smarter man. You can have them if you promise you won't hurt me anymore.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBargainSix.ogg]]
-
-#### HillockBargainAcceptedZero
+## HillockBargainAcceptedZero
 Maybe this will make the bad thoughts go...
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockBargainAcceptedZero.ogg]]
-
-#### HillockBargainAcceptedOne
+## HillockBargainAcceptedOne
 Hard to make new friends, it is...
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockBargainAcceptedOne.ogg]]
-
-#### HillockBargainAcceptedTwo
+## HillockBargainAcceptedTwo
 Oh no... this sounds hard, too!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockBargainAcceptedTwo.ogg]]
-
-#### HillockBargainAcceptedThree
+## HillockBargainAcceptedThree
 I feel... happy...!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockBargainAcceptedThree.ogg]]
-
-#### HillockBargainAcceptedFour
+## HillockBargainAcceptedFour
 This make any sense to you?
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockBargainAcceptedFour.ogg]]
-
-#### HillockBargainAcceptedFive
+## HillockBargainAcceptedFive
 Treat 'em good, okay?
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockBargainAcceptedFive.ogg]]
-
-#### HillockOfferBetrayalZero
+## HillockOfferBetrayalZero
 Boss talks down to me. Like I'm stupid. I'm not stupid. I'm NOT! Makes me SO ANGRY. Angry enough to bash them over and over again! I should be the boss, not them!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBetrayalZero.ogg]]
-
-#### HillockOfferBetrayalOne
+## HillockOfferBetrayalOne
 The people in the Syndicate are afraid of me, they are. Know how good I can bash them. They'll give me whatever I want or else. Want to see?
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBetrayalOne.ogg]]
-
-#### HillockOfferBetrayalTwo
+## HillockOfferBetrayalTwo
 I'm so angry right now Exile. Everything's RED. I need to hear bones SNAPPING. Need to feel it in my FISTS! I don't care who I break. Just tell me who. Tell me who!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBetrayalTwo.ogg]]
-
-#### HillockOfferBetrayalThree
+## HillockOfferBetrayalThree
 I'll give the Syndicate here an option. I bash and bash and bash until I'm happy, or they tell you what you want to know. Then you let me go, okay?
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBetrayalThree.ogg]]
-
-#### HillockOfferBetrayalFour
+## HillockOfferBetrayalFour
 Vagan's too wriggly. Tried to catch him but he slipped away. Don't let him slip away again. Might not get another chance!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBetrayalFour.ogg]]
-
-#### HillockOfferBetrayalFive
+## HillockOfferBetrayalFive
 I think I could smash Guff into the ground like a fence post. Bet he'd do anything to get out of that. What do you think, little Exile?
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBetrayalFive.ogg]]
-
-#### HillockOfferBetrayalSix
+## HillockOfferBetrayalSix
 Found Korell in my room praying to my forge. In MY room. I didn't say he could do that! Makes me so ANGRY! Learn respect, Redblade! Teach him respect, Exile!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBetrayalSix.ogg]]
-
-#### HillockOfferBetrayalSeven
+## HillockOfferBetrayalSeven
 I want to break the mask off Maloney's face, just to see how his skull cracks. Bet there's a lot of good knowledge inside that skull.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBetrayalSeven.ogg]]
-
-#### HillockOfferBetrayalEight
+## HillockOfferBetrayalEight
 You bash well, Exile! Today we are friends. Let's bash another one shall we? Yeah?
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferBetrayalEight.ogg]]
-
-#### HillockOfferExecuteZero
+## HillockOfferExecuteZero
 Hate myself. Hate the Syndicate. Rather be dead.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferExecuteZero.ogg]]
-
-#### HillockOfferExecuteOne
+## HillockOfferExecuteOne
 Kill me now, or the boss kills me later. Dead either way.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferExecuteOne.ogg]]
-
-#### HillockOfferExecuteTwo
+## HillockOfferExecuteTwo
 I will miss you, friend.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferExecuteTwo.ogg]]
-
-#### HillockOfferExecuteThree
+## HillockOfferExecuteThree
 Rather be dead than go back to the dark.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockOfferExecuteThree.ogg]]
-
-#### HillockReplyToBetrayalAcceptedZero
+## HillockReplyToBetrayalAcceptedZero
 You... rrggghh... rrrrRRAAAGGHHH!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToBetrayalAcceptedZero.ogg]]
-
-#### HillockReplyToBetrayalAcceptedOne
+## HillockReplyToBetrayalAcceptedOne
 You're not my friend anymore, Leo Redmane.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToBetrayalAcceptedOne.ogg]]
-
-#### HillockReplyToBetrayalAcceptedTwo
+## HillockReplyToBetrayalAcceptedTwo
 Sleep with your eyes open, wild woman.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToBetrayalAcceptedTwo.ogg]]
-
-#### HillockReplyToBetrayalAcceptedThree
+## HillockReplyToBetrayalAcceptedThree
 Oh, Mutewind. I will BURY you for this.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToBetrayalAcceptedThree.ogg]]
-
-#### HillockReplyToBetrayalAcceptedFour
+## HillockReplyToBetrayalAcceptedFour
 You... are awful! Bash you so hard you need to be scraped up!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToBetrayalAcceptedFour.ogg]]
-
-#### HillockReplyToBetrayalAcceptedFive
+## HillockReplyToBetrayalAcceptedFive
 You don't scare me, little mask boy. I'll break you and all your little machines.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToBetrayalAcceptedFive.ogg]]
-
-#### HillockReplyToBetrayalAcceptedSix
+## HillockReplyToBetrayalAcceptedSix
 Bad! You're bad! Gonna bash you into RED MILK for this.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToBetrayalAcceptedSix.ogg]]
-
-#### HillockInterrogatedZero
+## HillockInterrogatedZero
 Hate the dark!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockInterrogatedZero.ogg]]
-
-#### HillockInterrogatedOne
+## HillockInterrogatedOne
 No, no, stop sending me to the dark!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockInterrogatedOne.ogg]]
-
-#### HillockInterrogatedTwo
+## HillockInterrogatedTwo
 So confusing, this Exile.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockInterrogatedTwo.ogg]]
-
-#### HillockReplyToExecutionZero
+## HillockReplyToExecutionZero
 Bye bye!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToExecutionZero.ogg]]
-
-#### HillockReplyToExecutionOne
+## HillockReplyToExecutionOne
 Friend, no! NO!
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToExecutionOne.ogg]]
-
-#### HillockReplyToExecutionTwo
+## HillockReplyToExecutionTwo
 Bwahahaha. Very messy.
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockReplyToExecutionTwo.ogg]]
-
-#### HillockSafehouseLeaderDefeatedZero
+## HillockSafehouseLeaderDefeatedZero
 I don't... understand... I was the boss...
 ![[Exiled Vault Dialogue/PoE1/H/Hillock, the Blacksmith/_Audio/Hillock, the Blacksmith - HillockSafehouseLeaderDefeatedZero.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

@@ -1,12 +1,12 @@
-# Firebreather Mead
 [[Ngamahu Tribe]]
 The fruit of the volcanic nightshade plant can leave veteran warriors in tears.
 
 #
 ![[SpicyMedicine.webp]]
 
+#
 ---
-## Tags
+# Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

@@ -1,20 +1,14 @@
-# Bearer Of Penitence
-
-## Dialogue
-#### BearerOfPenitenceAttackRandom
+## BearerOfPenitenceAttackRandom
 Judgement!
-
-#### BearerOfPenitenceAttack3
+## BearerOfPenitenceAttack3
 Repent!
-
-#### BearerOfPenitenceDeathRandom
+## BearerOfPenitenceDeathRandom
 Forgive.. me...
-
-#### BearerOfPenitenceAggroRandom
+## BearerOfPenitenceAggroRandom
 Pay the penance!
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE2

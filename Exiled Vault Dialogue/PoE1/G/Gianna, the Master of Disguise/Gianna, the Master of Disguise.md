@@ -1,1096 +1,822 @@
-# Gianna, the Master of Disguise
-
-## Dialogue
-#### EntryBanterTullinaGiannaReply
+## EntryBanterTullinaGiannaReply
 Uh, yeah, but make sure it isn't actually me.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterTullinaGiannaReply.ogg]]
-
-#### EntryBanterGiannaToTullina
+## EntryBanterGiannaToTullina
 Tullina...?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterGiannaToTullina.ogg]]
-
-#### EntryBanterGiannaToTullinaTwo
+## EntryBanterGiannaToTullinaTwo
 Are we... are we friends?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterGiannaToTullinaTwo.ogg]]
-
-#### EntryBanterGiannaToTullinaThree
+## EntryBanterGiannaToTullinaThree
 EntryBanterGiannaToTullinaThree
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterGiannaToTullinaThree.ogg]]
-
-#### ExitBanterTullinaGiannaReply
+## ExitBanterTullinaGiannaReply
 That reminds me! Tullina, I simply must know your workout regiment. Your core is to die for.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterTullinaGiannaReply.ogg]]
-
-#### ExitBanterGiannaToTullina
+## ExitBanterGiannaToTullina
 A stellar performance! Five stars! Two thumbs up!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToTullina.ogg]]
-
-#### SelectionBanterTullinaGiannaReply
+## SelectionBanterTullinaGiannaReply
 Somewhere to be?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterTullinaGiannaReply.ogg]]
-
-#### SelectionBanterTullinaGiannaReplyTwo
+## SelectionBanterTullinaGiannaReplyTwo
 I've always kind of enjoyed them. Feels like I only really get to talk to you during these meetings.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterTullinaGiannaReplyTwo.ogg]]
-
-#### SelectionBanterTullinaGiannaReplyThree
+## SelectionBanterTullinaGiannaReplyThree
 ... about...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterTullinaGiannaReplyThree.ogg]]
-
-#### SelectionBanterGiannaToTullina
+## SelectionBanterGiannaToTullina
 Hello everyone!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToTullina.ogg]]
-
-#### SelectionBanterGiannaToKurai
+## SelectionBanterGiannaToKurai
 Plans look to be progressing nicely. Lady Kurai, while I'm here, has the Boss' schedule opened up at all?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToKurai.ogg]]
-
-#### SelectionBanterGiannaToTullinaTwo
+## SelectionBanterGiannaToTullinaTwo
 Shame... Tullina, would you mind running lines with me later?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToTullinaTwo.ogg]]
-
-#### SelectionBanterGiannaToTullinaThree
+## SelectionBanterGiannaToTullinaThree
 Oh...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToTullinaThree.ogg]]
-
-#### SelectionBanterGiannaToTullinaFour
+## SelectionBanterGiannaToTullinaFour
 Hooray! Best friends!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToTullinaFour.ogg]]
-
-#### ExitBanterGiannaToAdiyah
+## ExitBanterGiannaToAdiyah
 You've got quite the stature, Adiyah. Have you ever considered acting?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToAdiyah.ogg]]
-
-#### ExitBanterGiannaToAdiyahTwo
+## ExitBanterGiannaToAdiyahTwo
 Would you?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToAdiyahTwo.ogg]]
-
-#### ExitBanterGiannaToAdiyahThree
+## ExitBanterGiannaToAdiyahThree
 Oh... okay then...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToAdiyahThree.ogg]]
-
-#### ExitBanterAdiyahGiannaReply
+## ExitBanterAdiyahGiannaReply
 A star, as always.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterAdiyahGiannaReply.ogg]]
-
-#### EntryBanterTibbsGiannaReply
+## EntryBanterTibbsGiannaReply
 Helps to know you're looking out for us, Tibbs.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterTibbsGiannaReply.ogg]]
-
-#### EntryBanterGiannaToTibbs
+## EntryBanterGiannaToTibbs
 How's my scary voice? You there! I'll break you in half!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterGiannaToTibbs.ogg]]
-
-#### ExitBanterTibbsGiannaReply
+## ExitBanterTibbsGiannaReply
 Thanks for keeping us all safe, big guy.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterTibbsGiannaReply.ogg]]
-
-#### ExitBanterGiannaToTibbs
+## ExitBanterGiannaToTibbs
 We did it! Three cheers! Hip-hip?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToTibbs.ogg]]
-
-#### ExitBanterGiannaToTibbsTwo
+## ExitBanterGiannaToTibbsTwo
 Thanks anyway.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToTibbsTwo.ogg]]
-
-#### SelectionBanterTibbsGiannaReply
+## SelectionBanterTibbsGiannaReply
 Tibbie! Always love a job with you.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterTibbsGiannaReply.ogg]]
-
-#### SelectionBanterTibbsGiannaReplyTwo
+## SelectionBanterTibbsGiannaReplyTwo
 Uhh, yeah, that was... a mistake.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterTibbsGiannaReplyTwo.ogg]]
-
-#### SelectionBanterTibbsGiannaReplyThree
+## SelectionBanterTibbsGiannaReplyThree
 Well, let's just say he looked a lot more than he listened.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterTibbsGiannaReplyThree.ogg]]
-
-#### SelectionBanterTibbsGiannaReplyFour
+## SelectionBanterTibbsGiannaReplyFour
 Aha! Sailors...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterTibbsGiannaReplyFour.ogg]]
-
-#### SelectionBanterGiannaToTibbs
+## SelectionBanterGiannaToTibbs
 Fingers crossed this one goes better than our sewer scrape, eh, Tibbie?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToTibbs.ogg]]
-
-#### SelectionBanterGiannaToTibbsTwo
+## SelectionBanterGiannaToTibbsTwo
 Did you ever find out where those busts were?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToTibbsTwo.ogg]]
-
-#### SelectionBanterGiannaToTibbsThree
+## SelectionBanterGiannaToTibbsThree
 That was a lot of platinum!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToTibbsThree.ogg]]
-
-#### SelectionBanterGiannaToTibbsFour
+## SelectionBanterGiannaToTibbsFour
 Could've bought an island with that platinum.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToTibbsFour.ogg]]
-
-#### SelectionBanterGiannaToKuraiTwo
+## SelectionBanterGiannaToKuraiTwo
 Nothing Ku.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToKuraiTwo.ogg]]
-
-#### EntryBanterKarstGiannaReply
+## EntryBanterKarstGiannaReply
 Improvisation! Lovely.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterKarstGiannaReply.ogg]]
-
-#### EntryBanterGiannaToKarst
+## EntryBanterGiannaToKarst
 Stick to the script everyone.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterGiannaToKarst.ogg]]
-
-#### ExitBanterKarstGiannaReply
+## ExitBanterKarstGiannaReply
 Count me in!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterKarstGiannaReply.ogg]]
-
-#### ExitBanterGiannaToKarst
+## ExitBanterGiannaToKarst
 Take a bow, everyone!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToKarst.ogg]]
-
-#### SelectionBanterKarstGiannaReply
+## SelectionBanterKarstGiannaReply
 Keep it in your tights, Karst.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKarstGiannaReply.ogg]]
-
-#### SelectionBanterKarstGiannaReplyTwo
+## SelectionBanterKarstGiannaReplyTwo
 That depends... Are you expecting something in return?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKarstGiannaReplyTwo.ogg]]
-
-#### SelectionBanterKarstGiannaReplyThree
+## SelectionBanterKarstGiannaReplyThree
 I don't think Nenet is all that interested.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKarstGiannaReplyThree.ogg]]
-
-#### SelectionBanterKarstGiannaReplyFour
+## SelectionBanterKarstGiannaReplyFour
 Oh Karst, you're such a good thief! You can take anything... but a hint.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKarstGiannaReplyFour.ogg]]
-
-#### SelectionBanterKarstGiannaReplyFive
+## SelectionBanterKarstGiannaReplyFive
 I'm... not sure you used that word ri--
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKarstGiannaReplyFive.ogg]]
-
-#### SelectionBanterKarstGiannaReplySix
+## SelectionBanterKarstGiannaReplySix
 Oh! Were the roses from you?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKarstGiannaReplySix.ogg]]
-
-#### SelectionBanterKarstGiannaReplySeven
+## SelectionBanterKarstGiannaReplySeven
 The toffees?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKarstGiannaReplySeven.ogg]]
-
-#### SelectionBanterKarstGiannaReplyEight
+## SelectionBanterKarstGiannaReplyEight
 Aww, did you get me that beautiful gown!?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKarstGiannaReplyEight.ogg]]
-
-#### SelectionBanterKarstGiannaReplyNine
+## SelectionBanterKarstGiannaReplyNine
 Sorry?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKarstGiannaReplyNine.ogg]]
-
-#### SelectionBanterKarstGiannaReplyTen
+## SelectionBanterKarstGiannaReplyTen
 ...Oh. Yes. ...Thank you.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKarstGiannaReplyTen.ogg]]
-
-#### SelectionBanterGiannaToIsla
+## SelectionBanterGiannaToIsla
 I'm here. Isla, will we be seeing some new inventions for this job?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToIsla.ogg]]
-
-#### SelectionBanterGiannaToIslaTwo
+## SelectionBanterGiannaToIslaTwo
 But you've tested them at least, right? ...Right? ...Isla?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToIslaTwo.ogg]]
-
-#### SelectionBanterIslaGiannaReply
+## SelectionBanterIslaGiannaReply
 The ones that make people sick?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterIslaGiannaReply.ogg]]
-
-#### SelectionBanterIslaGiannaReplyTwo
+## SelectionBanterIslaGiannaReplyTwo
 What's the difference?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterIslaGiannaReplyTwo.ogg]]
-
-#### SelectionBanterIslaGiannaReplyThree
+## SelectionBanterIslaGiannaReplyThree
 Just what every man likes to see.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterIslaGiannaReplyThree.ogg]]
-
-#### EntryBanterGiannaToIsla
+## EntryBanterGiannaToIsla
 You know what we could really use...?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterGiannaToIsla.ogg]]
-
-#### EntryBanterGiannaToIslaTwo
+## EntryBanterGiannaToIslaTwo
 Yes!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterGiannaToIslaTwo.ogg]]
-
-#### EntryBanterGiannaToIslaThree
+## EntryBanterGiannaToIslaThree
 Or just a normal mirror! For makeup!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterGiannaToIslaThree.ogg]]
-
-#### EntryBanterIslaGiannaReply
+## EntryBanterIslaGiannaReply
 Ah, but a watched rose never blossoms, my dear.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterIslaGiannaReply.ogg]]
-
-#### EntryBanterIslaGiannaReplyTwo
+## EntryBanterIslaGiannaReplyTwo
 Thank you. But seriously, if you stare at me, we WILL be caught.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterIslaGiannaReplyTwo.ogg]]
-
-#### ExitBanterGiannaToIsla
+## ExitBanterGiannaToIsla
 I have to admit, engineer, you make quite the spectacle yourself sometimes!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToIsla.ogg]]
-
-#### ExitBanterGiannaToIslaTwo
+## ExitBanterGiannaToIslaTwo
 I have so much to learn about science...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToIslaTwo.ogg]]
-
-#### ExitBanterIslaGiannaReply
+## ExitBanterIslaGiannaReply
 You know what? You might.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterIslaGiannaReply.ogg]]
-
-#### ExitBanterIslaGiannaReplyTwo
+## ExitBanterIslaGiannaReplyTwo
 Normally I'd disapprove, but it's Niles, so...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterIslaGiannaReplyTwo.ogg]]
-
-#### Introduction
+## Introduction
 Hey good lookin'. Huh. Most people recognise me. I'm Gianna. Worked a spell in the Chitus Theatre, back when you could leave your house without being followed by Templar secret police. I was Shavronne in {An Axiom Tragedy}. I played Dialla, the Gemling Queen, in {Purity Tales}, and the fair lady Merveil in {Daresso and Merveil}, for which I was very nearly nominated to receive a 'Tario. No? Not a fan of the theatre, I suppose? That's-... That's fine. That act of my story has drawn to a close anyway, but I'm always looking for the next great role. Nothing's quite so thrilling as immersing oneself among the people, and seeing if you can, in fact, pass for the real deal.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - Introduction.ogg]]
-
-#### The Boss
+## The Boss
 I wasn't exactly planning on a life of crime. Yes, most in my profession do end up begging or stealing, but my career was on the up and up, until I was accused of {Pecuniary Lust} and exiled. It just so happens that the Boss, cultural elite that he is, saw me in a few shows. He must have noticed my ability to fully embody any role, to become not just the character, but the person. I'm told he was a practitioner of the performing arts himself, in his youth. Obviously, he has a keen eye for talent. I'm dying to perform a dialogue with him. Good material is hard to come by 'round here, but I did find a piece by a Bestel floating in the foam. Not particularly engaging, and a frankly unhealthy focus on the female lead's figure in the stage direction, but it's something, at least. Alas, Kurai maintains the Boss' schedule, and I'm told he is booked up indefinitely. Imagine having lucrative work for months to come! A performer can only dream...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - The Boss.ogg]]
-
-#### The Nameless Play
+## The Nameless Play
 Just my luck! Of course you are put on my contract. Do you even know anything about the theatre? The cursed play? The one no performer should ever name, lest they end up consumed by the phantom that haunts it? It's said that the play's author wrote it while high as an eagle on ergot. He didn't know, of course, and died upon penning the final word. The play, whose name I shall not utter, is about a beautiful young lady who finds herself swept into a world beneath the sands of the Vastiri, where the dead have built a city of bones. She marries a statue, becomes the queen of this city, and then her skin peels off and a hundred little versions of her spill out. Completely nutty. It's locked up with the rest of the works deemed distasteful by the Templar, and I simply must have it.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - The Nameless Play.ogg]]
-
-#### The Nameless Play_2
+## The Nameless Play_2
 {Marilla turns to her beloved's unmoving face and speaks the blessed words: Marilla: Two into one, one into many, to churn the world beneath the crashing dunes. Marilla's body shatters like porcelain, each fragment becoming Marilla. Each new Marilla shatters again, and again, each fragment becomes whole. The stage is flooded by Marilla. All is Marilla. The statue rises and exits stage right. Fin.} Wow. I mean... wow. That was something! Right? That... that was something, right? I think I might just stick to the unbanned works for a little while, actually. Thanks, though.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - The Nameless Play_2.ogg]]
-
-#### The Finest Costumes
+## The Finest Costumes
 You're handling my contract again? I thought I specifically requested someone with a working understanding of the arts! Fine, fine. It's just a job. Well, I'm sure you've done the necessary reading, but I'm dying to gab a bit. When I worked with the Theopolis Thespian Society, there was an old, old, {old} woman. I mean, at {least} forty. She was our seamstress. She created these costumes that looked just like the real thing. Blackguard uniforms, Templar outfits, you name it. Well, one day she vanished, but the costumes remained. I want to get ahold of that old woman's costumes. They were just so... believable! With those, it'll be much easier to slip into a role undetected.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - The Finest Costumes.ogg]]
-
-#### The Finest Costumes_2
+## The Finest Costumes_2
 I don't know how she did it. Each outfit so perfectly matches the original piece. It's almost as if-...what!? {Property of Templar Logistics Office}!? They're the genuine article! That woman stole real bloody uniforms! Well, I guess that explains why they always looked so genuine. It also explains why we didn't ever see her again. Oh well, her loss is our gain!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - The Finest Costumes_2.ogg]]
-
-#### IntroductionVinderiGiannaReply
+## IntroductionVinderiGiannaReply
 Gianna.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - IntroductionVinderiGiannaReply.ogg]]
-
-#### IntroductionVinderiGiannaReplyTwo
+## IntroductionVinderiGiannaReplyTwo
 Performer. Actress.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - IntroductionVinderiGiannaReplyTwo.ogg]]
-
-#### IntroductionVinderiGiannaReplyThree
+## IntroductionVinderiGiannaReplyThree
 We met when Vinderi was hired to do the pyrotechnics for a production. He set the curtains on fire, but no one died. I'm here to help you with this job. And other jobs, later. If you want.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - IntroductionVinderiGiannaReplyThree.ogg]]
-
-#### IntroductionVinderiGiannaReplyFour
+## IntroductionVinderiGiannaReplyFour
 I think that covers it. Thanks, Vin.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - IntroductionVinderiGiannaReplyFour.ogg]]
-
-#### GiannaPerceptionOne
+## GiannaPerceptionOne
 I know set dressing when I see it.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaPerceptionOne.ogg]]
-
-#### GiannaPerceptionTwo
+## GiannaPerceptionTwo
 They're hiding something. Look.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaPerceptionTwo.ogg]]
-
-#### GiannaPerceptionThree
+## GiannaPerceptionThree
 Those are props. Something's amiss.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaPerceptionThree.ogg]]
-
-#### GiannaPerceptionFour
+## GiannaPerceptionFour
 Something about this doesn't ring true... Hmm.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaPerceptionFour.ogg]]
-
-#### GiannaPerceptionFive
+## GiannaPerceptionFive
 It'd be easier to see with proper stage lighting...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaPerceptionFive.ogg]]
-
-#### GiannaPerceptionSix
+## GiannaPerceptionSix
 All that time squinting at cue cards has trained me for this.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaPerceptionSix.ogg]]
-
-#### GiannaDeceptionOne
+## GiannaDeceptionOne
 Back in line, soldier! I will inspect!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaDeceptionOne.ogg]]
-
-#### GiannaDeceptionTwo
+## GiannaDeceptionTwo
 Did I say you could speak? Let me do this.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaDeceptionTwo.ogg]]
-
-#### GiannaDeceptionThree
+## GiannaDeceptionThree
 Quiet. ... See? Nothing. I'll show you.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaDeceptionThree.ogg]]
-
-#### GiannaDeceptionFour
+## GiannaDeceptionFour
 Are you drunk, soldier?! There's nothing on the other side.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaDeceptionFour.ogg]]
-
-#### GiannaDeceptionFive
+## GiannaDeceptionFive
 Stay in formation! This is a drill!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaDeceptionFive.ogg]]
-
-#### GiannaDeceptionSix
+## GiannaDeceptionSix
 Obey your orders! I'll take point!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaDeceptionSix.ogg]]
-
-#### GiannaSmugglerOne
+## GiannaSmugglerOne
 I didn't hear nothin', but let's see.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSmugglerOne.ogg]]
-
-#### GiannaSmugglerTwo
+## GiannaSmugglerTwo
 Oi, keep it down. Gettin' each other spooked. Here, I'll prove it.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSmugglerTwo.ogg]]
-
-#### GiannaSmugglerThree
+## GiannaSmugglerThree
 Don't be so paranoid. Look, nothing's here...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSmugglerThree.ogg]]
-
-#### GiannaSmugglerFour
+## GiannaSmugglerFour
 You're just drunk, mate. Watch, it'll be empty.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSmugglerFour.ogg]]
-
-#### GiannaSmugglerFive
+## GiannaSmugglerFive
 Probably just the rats. Afraid of rats? Let's find out!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSmugglerFive.ogg]]
-
-#### GiannaSmugglerSix
+## GiannaSmugglerSix
 Nah, you're just losin' it. How could anything be here?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSmugglerSix.ogg]]
-
-#### GiannaCultistOne
+## GiannaCultistOne
 Ease off the elixir. Nothing is here. Observe.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCultistOne.ogg]]
-
-#### GiannaCultistTwo
+## GiannaCultistTwo
 The fumes are affecting your judgement. I shall prove it.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCultistTwo.ogg]]
-
-#### GiannaCultistThree
+## GiannaCultistThree
 Likely a mere apparition, but I'll make sure.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCultistThree.ogg]]
-
-#### GiannaCultistFour
+## GiannaCultistFour
 Perhaps you should rest. I'll check for you.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCultistFour.ogg]]
-
-#### GiannaCultistFive
+## GiannaCultistFive
 A hallucinatory phenomena. Anything you see is, as well.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCultistFive.ogg]]
-
-#### GiannaCultistSix
+## GiannaCultistSix
 Hearing things is a known side effect, but just to be sure...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCultistSix.ogg]]
-
-#### EngineeringGiannaOne
+## EngineeringGiannaOne
 Just like the stagehands taught me.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EngineeringGiannaOne.ogg]]
-
-#### EngineeringGiannaTwo
+## EngineeringGiannaTwo
 Let's hope this thing holds.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EngineeringGiannaTwo.ogg]]
-
-#### EngineeringGiannaThree
+## EngineeringGiannaThree
 Should be sturdy... enough.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EngineeringGiannaThree.ogg]]
-
-#### EngineeringGiannaFour
+## EngineeringGiannaFour
 Not the sort of catwalk I thought I'd be walking...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EngineeringGiannaFour.ogg]]
-
-#### EngineeringGiannaFive
+## EngineeringGiannaFive
 We used one of these backstage, 'til it took a lad's head off.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EngineeringGiannaFive.ogg]]
-
-#### EngineeringGiannaSix
+## EngineeringGiannaSix
 Drumroll please... But quietly.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EngineeringGiannaSix.ogg]]
-
-#### GiannaBusyOne
+## GiannaBusyOne
 My focus is elsewhere.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaBusyOne.ogg]]
-
-#### GiannaBusyTwo
+## GiannaBusyTwo
 I need to finish this first.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaBusyTwo.ogg]]
-
-#### GiannaBusyThree
+## GiannaBusyThree
 You can't rush a good performance.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaBusyThree.ogg]]
-
-#### GiannaBusyFour
+## GiannaBusyFour
 Good work takes time.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaBusyFour.ogg]]
-
-#### GiannaBusyFive
+## GiannaBusyFive
 Please try to be patient.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaBusyFive.ogg]]
-
-#### GiannaInterruptedOne
+## GiannaInterruptedOne
 Protect your female lead.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaInterruptedOne.ogg]]
-
-#### GiannaInterruptedTwo
+## GiannaInterruptedTwo
 Hey, you're hindering a great performance.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaInterruptedTwo.ogg]]
-
-#### GiannaInterruptedThree
+## GiannaInterruptedThree
 So distracting and awful.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaInterruptedThree.ogg]]
-
-#### GiannaInterruptedFour
+## GiannaInterruptedFour
 Mean. Mean mean mean.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaInterruptedFour.ogg]]
-
-#### GiannaCombatStartOne
+## GiannaCombatStartOne
 We've got trouble.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatStartOne.ogg]]
-
-#### GiannaCombatStartTwo
+## GiannaCombatStartTwo
 We're just looking around, I swear!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatStartTwo.ogg]]
-
-#### GiannaCombatStartThree
+## GiannaCombatStartThree
 Exile? Need you for this!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatStartThree.ogg]]
-
-#### GiannaCombatStartFour
+## GiannaCombatStartFour
 Guards! Weapons up!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatStartFour.ogg]]
-
-#### GiannaCombatStartFive
+## GiannaCombatStartFive
 Enemies heading our way!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatStartFive.ogg]]
-
-#### GiannaCombatEndOne
+## GiannaCombatEndOne
 What an anticlimax.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatEndOne.ogg]]
-
-#### GiannaCombatEndTwo
+## GiannaCombatEndTwo
 Should've rehearsed more.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatEndTwo.ogg]]
-
-#### GiannaCombatEndThree
+## GiannaCombatEndThree
 Saw that ending coming a mile away.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatEndThree.ogg]]
-
-#### GiannaCombatEndFour
+## GiannaCombatEndFour
 What, no plot twist?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatEndFour.ogg]]
-
-#### GiannaCombatEndFive
+## GiannaCombatEndFive
 Always knew I'd knock 'em dead.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatEndFive.ogg]]
-
-#### GiannaLootOne
+## GiannaLootOne
 Oooh, that's soooo pretty.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaLootOne.ogg]]
-
-#### GiannaLootTwo
+## GiannaLootTwo
 That gives me an idea for a character.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaLootTwo.ogg]]
-
-#### GiannaLootThree
+## GiannaLootThree
 Really good find.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaLootThree.ogg]]
-
-#### GiannaLootFour
+## GiannaLootFour
 Finders keepers, eh?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaLootFour.ogg]]
-
-#### GiannaLootFive
+## GiannaLootFive
 You've a keen eye for pretty little things, don't you?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaLootFive.ogg]]
-
-#### GiannaAlertOne
+## GiannaAlertOne
 Shh. We don't want an audience.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaAlertOne.ogg]]
-
-#### GiannaAlertTwo
+## GiannaAlertTwo
 Keep it down. There's a lot left to do.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaAlertTwo.ogg]]
-
-#### GiannaAlertThree
+## GiannaAlertThree
 Quiet, or we'll have to end early.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaAlertThree.ogg]]
-
-#### GiannaAlertFour
+## GiannaAlertFour
 This is far more tense than I like.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaAlertFour.ogg]]
-
-#### GiannaAlarmOne
+## GiannaAlarmOne
 That's our cue to leave!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaAlarmOne.ogg]]
-
-#### GiannaAlarmTwo
+## GiannaAlarmTwo
 Head for the exit!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaAlarmTwo.ogg]]
-
-#### GiannaAlarmThree
+## GiannaAlarmThree
 Make a run for it!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaAlarmThree.ogg]]
-
-#### GiannaSurpriseAlarmOne
+## GiannaSurpriseAlarmOne
 Well, now we improvise!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSurpriseAlarmOne.ogg]]
-
-#### GiannaSurpriseAlarmTwo
+## GiannaSurpriseAlarmTwo
 So much for the plan! Run!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSurpriseAlarmTwo.ogg]]
-
-#### GiannaSurpriseAlarmThree
+## GiannaSurpriseAlarmThree
 That's not good! We need to rush!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSurpriseAlarmThree.ogg]]
-
-#### GiannaFinalRoomOne
+## GiannaFinalRoomOne
 And there, before her, was everything she wanted...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaFinalRoomOne.ogg]]
-
-#### GiannaFinalRoomTwo
+## GiannaFinalRoomTwo
 They were so close, they could almost taste it.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaFinalRoomTwo.ogg]]
-
-#### GiannaFinalRoomThree
+## GiannaFinalRoomThree
 In most plays, this is where I'd double-cross you. ... I-... I'm not going to double-cross you.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaFinalRoomThree.ogg]]
-
-#### GiannaFinalRoomFour
+## GiannaFinalRoomFour
 This is what we're here for. Go on.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaFinalRoomFour.ogg]]
-
-#### GiannaFinalRoomFive
+## GiannaFinalRoomFive
 Well? Don't keep the audience waiting!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaFinalRoomFive.ogg]]
-
-#### GiannaObjectiveOne
+## GiannaObjectiveOne
 This is the part where you would double-cross me. Please don't.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaObjectiveOne.ogg]]
-
-#### GiannaObjectiveTwo
+## GiannaObjectiveTwo
 Now all that's left is to head for the exit.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaObjectiveTwo.ogg]]
-
-#### GiannaObjectiveThree
+## GiannaObjectiveThree
 That's a relief. I always expect a trap for some reason.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaObjectiveThree.ogg]]
-
-#### GiannaObjectiveFour
+## GiannaObjectiveFour
 People have strange taste, don't you think?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaObjectiveFour.ogg]]
-
-#### GiannaEntryBanterOne
+## GiannaEntryBanterOne
 Ladies and gentlemen, the show's about to begin.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaEntryBanterOne.ogg]]
-
-#### GiannaEntryBanterTwo
+## GiannaEntryBanterTwo
 Stay on script and hit your marks.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaEntryBanterTwo.ogg]]
-
-#### GiannaEntryBanterThree
+## GiannaEntryBanterThree
 Take a deep breath before we head in. Might be your last.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaEntryBanterThree.ogg]]
-
-#### GiannaEntryBanterFour
+## GiannaEntryBanterFour
 Focus. Watch your breath and move with caution.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaEntryBanterFour.ogg]]
-
-#### GiannaEntryBanterFive
+## GiannaEntryBanterFive
 Take your time. This is just the warmup act.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaEntryBanterFive.ogg]]
-
-#### GiannaExitBanterOne
+## GiannaExitBanterOne
 Aaaaand scene!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaExitBanterOne.ogg]]
-
-#### GiannaExitBanterTwo
+## GiannaExitBanterTwo
 Take a BOW! That was phenomenal!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaExitBanterTwo.ogg]]
-
-#### GiannaExitBanterThree
+## GiannaExitBanterThree
 How about a bloody round of applause, eh?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaExitBanterThree.ogg]]
-
-#### GiannaExitBanterFour
+## GiannaExitBanterFour
 By Innocence, I do love a happy ending.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaExitBanterFour.ogg]]
-
-#### GiannaExitBanterFive
+## GiannaExitBanterFive
 Faultless! Stunning! An incredible performance! And you were also very good!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaExitBanterFive.ogg]]
-
-#### GiannaPerceptionLoudOne
+## GiannaPerceptionLoudOne
 Wait, what's that!?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaPerceptionLoudOne.ogg]]
-
-#### GiannaPerceptionLoudTwo
+## GiannaPerceptionLoudTwo
 Look! There! No, there!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaPerceptionLoudTwo.ogg]]
-
-#### GiannaPerceptionLoudThree
+## GiannaPerceptionLoudThree
 They've tried to hide something!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaPerceptionLoudThree.ogg]]
-
-#### GiannaPerceptionLoudFour
+## GiannaPerceptionLoudFour
 I know there's something wrong here, just need a bit of time!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaPerceptionLoudFour.ogg]]
-
-#### GiannaPerceptionLoudFive
+## GiannaPerceptionLoudFive
 A lot of work went into hiding something here!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaPerceptionLoudFive.ogg]]
-
-#### GiannaPerceptionLoudSix
+## GiannaPerceptionLoudSix
 Some convincing fakes here! What are they hiding!?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaPerceptionLoudSix.ogg]]
-
-#### GiannaDeceptionLoudOne
+## GiannaDeceptionLoudOne
 Open it! Let them through! Oh, I'll do it!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaDeceptionLoudOne.ogg]]
-
-#### GiannaDeceptionLoudTwo
+## GiannaDeceptionLoudTwo
 Stand back! I'll take them on single handedly!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaDeceptionLoudTwo.ogg]]
-
-#### GiannaDeceptionLoudThree
+## GiannaDeceptionLoudThree
 Make way! I must let the reinforcements in!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaDeceptionLoudThree.ogg]]
-
-#### GiannaDeceptionLoudFour
+## GiannaDeceptionLoudFour
 Give passage! I have a plan!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaDeceptionLoudFour.ogg]]
-
-#### GiannaDeceptionLoudFive
+## GiannaDeceptionLoudFive
 They're with us!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaDeceptionLoudFive.ogg]]
-
-#### GiannaDeceptionLoudSix
+## GiannaDeceptionLoudSix
 I'll open the passage, and you take them alive!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaDeceptionLoudSix.ogg]]
-
-#### GiannaSmugglerOneCopy
+## GiannaSmugglerOneCopy
 We'll get 'em in here, lads!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSmugglerOneCopy.ogg]]
-
-#### GiannaSmugglerTwoCopy
+## GiannaSmugglerTwoCopy
 Wait, ain't they with us!? They is, right!?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSmugglerTwoCopy.ogg]]
-
-#### GiannaSmugglerThreeCopy
+## GiannaSmugglerThreeCopy
 Can't get 'em from this side! Pop 'er open!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSmugglerThreeCopy.ogg]]
-
-#### GiannaSmugglerFourCopy
+## GiannaSmugglerFourCopy
 If we let 'em through, they'll be too confused to fight!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSmugglerFourCopy.ogg]]
-
-#### GiannaSmugglerFiveCopy
+## GiannaSmugglerFiveCopy
 Oi, boss wants us to open the door!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSmugglerFiveCopy.ogg]]
-
-#### GiannaSmugglerSixCopy
+## GiannaSmugglerSixCopy
 I ain't scared, mate! I'm opening it!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSmugglerSixCopy.ogg]]
-
-#### GiannaCultistOneCopy
+## GiannaCultistOneCopy
 Allow passage! We shall claim their ichors!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCultistOneCopy.ogg]]
-
-#### GiannaCultistTwoCopy
+## GiannaCultistTwoCopy
 They beg to be sacrificed! I say we let them!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCultistTwoCopy.ogg]]
-
-#### GiannaCultistThreeCopy
+## GiannaCultistThreeCopy
 Their flesh demands passage! We must obey!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCultistThreeCopy.ogg]]
-
-#### GiannaCultistFourCopy
+## GiannaCultistFourCopy
 We must unify! Open the gate!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCultistFourCopy.ogg]]
-
-#### GiannaCultistFiveCopy
+## GiannaCultistFiveCopy
 Separation is trickery! Open the way!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCultistFiveCopy.ogg]]
-
-#### GiannaCultistSixCopy
+## GiannaCultistSixCopy
 They test our faith! Let faith shield you!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCultistSixCopy.ogg]]
-
-#### GiannaEngineerLoudOne
+## GiannaEngineerLoudOne
 Bridge going up!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaEngineerLoudOne.ogg]]
-
-#### GiannaEngineerLoudTwo
+## GiannaEngineerLoudTwo
 Setting up a crossing!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaEngineerLoudTwo.ogg]]
-
-#### GiannaEngineerLoudThree
+## GiannaEngineerLoudThree
 Bridging the gap!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaEngineerLoudThree.ogg]]
-
-#### GiannaEngineerLoudFour
+## GiannaEngineerLoudFour
 We've got to get across as soon as it's ready!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaEngineerLoudFour.ogg]]
-
-#### GiannaEngineerLoudFive
+## GiannaEngineerLoudFive
 If this breaks, we'll improvise!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaEngineerLoudFive.ogg]]
-
-#### GiannaEngineerLoudSix
+## GiannaEngineerLoudSix
 This sort of thing always breaks when everyone's watching!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaEngineerLoudSix.ogg]]
-
-#### GiannaBusyLoudOne
+## GiannaBusyLoudOne
 I can play a thousand roles, but not at once!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaBusyLoudOne.ogg]]
-
-#### GiannaBusyLoudTwo
+## GiannaBusyLoudTwo
 You can't rush perfection!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaBusyLoudTwo.ogg]]
-
-#### GiannaBusyLoudThree
+## GiannaBusyLoudThree
 Can you see I'm in the middle of something!?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaBusyLoudThree.ogg]]
-
-#### GiannaBusyLoudFour
+## GiannaBusyLoudFour
 Bad timing! Really bad timing!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaBusyLoudFour.ogg]]
-
-#### GiannaBusyLoudFive
+## GiannaBusyLoudFive
 I'm busy right now!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaBusyLoudFive.ogg]]
-
-#### GiannaInterruptedLoudOne
+## GiannaInterruptedLoudOne
 I need an understudy!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaInterruptedLoudOne.ogg]]
-
-#### GiannaInterruptedLoudTwo
+## GiannaInterruptedLoudTwo
 Out of my face! Now!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaInterruptedLoudTwo.ogg]]
-
-#### GiannaInterruptedLoudThree
+## GiannaInterruptedLoudThree
 Do something or this will take forever!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaInterruptedLoudThree.ogg]]
-
-#### GiannaInterruptedLoudFour
+## GiannaInterruptedLoudFour
 Too rough! Far too rough!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaInterruptedLoudFour.ogg]]
-
-#### GiannaCombatStartLoudOne
+## GiannaCombatStartLoudOne
 Security incoming!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatStartLoudOne.ogg]]
-
-#### GiannaCombatStartLoudTwo
+## GiannaCombatStartLoudTwo
 Let us through, or face your death!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatStartLoudTwo.ogg]]
-
-#### GiannaCombatStartLoudThree
+## GiannaCombatStartLoudThree
 This is your final scene!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatStartLoudThree.ogg]]
-
-#### GiannaCombatStartLoudFour
+## GiannaCombatStartLoudFour
 They just keep coming!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatStartLoudFour.ogg]]
-
-#### GiannaCombatStartLoudFive
+## GiannaCombatStartLoudFive
 Leave us alone!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatStartLoudFive.ogg]]
-
-#### GiannaCombatEndLoudOne
+## GiannaCombatEndLoudOne
 No second act!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatEndLoudOne.ogg]]
-
-#### GiannaCombatEndLoudTwo
+## GiannaCombatEndLoudTwo
 It's like they forget they're the villains! Wait... Are they the villains? No, yeah, they're the villains.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatEndLoudTwo.ogg]]
-
-#### GiannaCombatEndLoudThree
+## GiannaCombatEndLoudThree
 Don't stop moving!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatEndLoudThree.ogg]]
-
-#### GiannaCombatEndLoudFour
+## GiannaCombatEndLoudFour
 Keep it up, Exile!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatEndLoudFour.ogg]]
-
-#### GiannaCombatEndLoudFive
+## GiannaCombatEndLoudFive
 Spectacular! Keep going!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaCombatEndLoudFive.ogg]]
-
-#### GiannaLootLoudOne
+## GiannaLootLoudOne
 Make sure that's not a posthumous award!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaLootLoudOne.ogg]]
-
-#### GiannaLootLoudTwo
+## GiannaLootLoudTwo
 Great find, but shouldn't we be leaving!?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaLootLoudTwo.ogg]]
-
-#### GiannaLootLoudThree
+## GiannaLootLoudThree
 Come on, greedy-guts!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaLootLoudThree.ogg]]
-
-#### GiannaLootLoudFour
+## GiannaLootLoudFour
 Don't be blinded by all that glitters!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaLootLoudFour.ogg]]
-
-#### GiannaLootLoudFive
+## GiannaLootLoudFive
 Wrap it up! I don't want this to be my final role!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaLootLoudFive.ogg]]
-
-#### GiannaFinalRoomLoudOne
+## GiannaFinalRoomLoudOne
 There it is! Hurry!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaFinalRoomLoudOne.ogg]]
-
-#### GiannaFinalRoomLoudTwo
+## GiannaFinalRoomLoudTwo
 It's right there! Grab it!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaFinalRoomLoudTwo.ogg]]
-
-#### GiannaFinalRoomLoudThree
+## GiannaFinalRoomLoudThree
 Get it! I can't handle the suspense!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaFinalRoomLoudThree.ogg]]
-
-#### GiannaFinalRoomLoudFour
+## GiannaFinalRoomLoudFour
 It's there! Grab it while we can!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaFinalRoomLoudFour.ogg]]
-
-#### GiannaFinalRoomLoudFive
+## GiannaFinalRoomLoudFive
 We're so close! The tension is palpable!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaFinalRoomLoudFive.ogg]]
-
-#### GiannaObjectiveLoudOne
+## GiannaObjectiveLoudOne
 Perfect! Now for the climax!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaObjectiveLoudOne.ogg]]
-
-#### GiannaObjectiveLoudTwo
+## GiannaObjectiveLoudTwo
 Good! Now rush to the exit!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaObjectiveLoudTwo.ogg]]
-
-#### GiannaObjectiveLoudThree
+## GiannaObjectiveLoudThree
 No time for accolades! Go!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaObjectiveLoudThree.ogg]]
-
-#### GiannaObjectiveLoudFour
+## GiannaObjectiveLoudFour
 Hope you're not waiting for applause!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaObjectiveLoudFour.ogg]]
-
-#### EntryBanterGiannaToVinderi
+## EntryBanterGiannaToVinderi
 Vinderi, ever thought about a keg that makes a lot of smoke but no explosion?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterGiannaToVinderi.ogg]]
-
-#### EntryBanterGiannaToNenet
+## EntryBanterGiannaToNenet
 They say all the world's a stage...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterGiannaToNenet.ogg]]
-
-#### EntryBanterGiannaToNiles
+## EntryBanterGiannaToNiles
 Job first, joking around afterwards.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterGiannaToNiles.ogg]]
-
-#### EntryBanterGiannaToNilesTwo
+## EntryBanterGiannaToNilesTwo
 Niles! I said save it for later!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterGiannaToNilesTwo.ogg]]
-
-#### EntryBanterGiannaToHuck
+## EntryBanterGiannaToHuck
 Break a leg, everyone!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterGiannaToHuck.ogg]]
-
-#### EntryBanterVinderiGiannaReply
+## EntryBanterVinderiGiannaReply
 Oh, the Wilted Quill? Yeah, burnt down.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterVinderiGiannaReply.ogg]]
-
-#### EntryBanterNenetGiannaReply
+## EntryBanterNenetGiannaReply
 Yeah, but, acting... that endures. People care about good acting. The universe cares about good acting.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterNenetGiannaReply.ogg]]
-
-#### EntryBanterNilesGiannaReply
+## EntryBanterNilesGiannaReply
 Good, I was planning to hold you responsible too.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterNilesGiannaReply.ogg]]
-
-#### EntryBanterHuckGiannaReply
+## EntryBanterHuckGiannaReply
 Actually, I auditioned! ... and I got the role.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - EntryBanterHuckGiannaReply.ogg]]
-
-#### ExitBanterGiannaToVinderi
+## ExitBanterGiannaToVinderi
 Encore! Encore!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToVinderi.ogg]]
-
-#### ExitBanterGiannaToNenet
+## ExitBanterGiannaToNenet
 A performance worthy of an audience! Do they have plays where you're from Nenet?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToNenet.ogg]]
-
-#### ExitBanterGiannaToNenetTwo
+## ExitBanterGiannaToNenetTwo
 How do you stay entertained?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToNenetTwo.ogg]]
-
-#### ExitBanterGiannaToNiles
+## ExitBanterGiannaToNiles
 That went so well I could kiss someone!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToNiles.ogg]]
-
-#### ExitBanterGiannaToNilesTwo
+## ExitBanterGiannaToNilesTwo
 Oh, but Niles, what if I accidentally turn you into a prince? I sure would miss you.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToNilesTwo.ogg]]
-
-#### ExitBanterGiannaToHuck
+## ExitBanterGiannaToHuck
 Did you see me in there? Damn, I'm good.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterGiannaToHuck.ogg]]
-
-#### ExitBanterVinderiGiannaReply
+## ExitBanterVinderiGiannaReply
 Honestly? That went too smoothly. If one of us had died, that would have been dramatic!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterVinderiGiannaReply.ogg]]
-
-#### ExitBanterNenetGiannaReply
+## ExitBanterNenetGiannaReply
 Five stars. The thumbs are a different thing.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterNenetGiannaReply.ogg]]
-
-#### ExitBanterNilesGianaReply
+## ExitBanterNilesGianaReply
 ({Laughs}) I can't remember the last time I laughed that hard! Thanks Niles!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterNilesGianaReply.ogg]]
-
-#### ExitBanterHuckGianaReply
+## ExitBanterHuckGianaReply
 Huh!? We did great!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterHuckGianaReply.ogg]]
-
-#### ExitBanterHuckGianaReplyTwo
+## ExitBanterHuckGianaReplyTwo
 Okay. Okay.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - ExitBanterHuckGianaReplyTwo.ogg]]
-
-#### SelectionBanterKuraiToGianna
+## SelectionBanterKuraiToGianna
 Always nice to be invited!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKuraiToGianna.ogg]]
-
-#### SelectionBanterKuraiToGiannaTwo
+## SelectionBanterKuraiToGiannaTwo
 Say, before we get too deep into this, do you think my role could use an accent?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKuraiToGiannaTwo.ogg]]
-
-#### SelectionBanterKuraiToGiannaThree
+## SelectionBanterKuraiToGiannaThree
 Oh! What about a limp? Or an eyepatch!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKuraiToGiannaThree.ogg]]
-
-#### SelectionBanterKuraiToGiannaFour
+## SelectionBanterKuraiToGiannaFour
 I'm Big Toe Gren, Captain of the Salty Hound.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKuraiToGiannaFour.ogg]]
-
-#### SelectionBanterGiannaToVinderi
+## SelectionBanterGiannaToVinderi
 Your star has arrived.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToVinderi.ogg]]
-
-#### SelectionBanterGiannaToVinderiTwo
+## SelectionBanterGiannaToVinderiTwo
 No, no! Vin! Me! I mean me!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToVinderiTwo.ogg]]
-
-#### SelectionBanterGiannaToVinderiThree
+## SelectionBanterGiannaToVinderiThree
 What did you think was happening?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToVinderiThree.ogg]]
-
-#### SelectionBanterGiannaToNenet
+## SelectionBanterGiannaToNenet
 Hello all! Did I miss anything important?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToNenet.ogg]]
-
-#### SelectionBanterGiannaToNenetTwo
+## SelectionBanterGiannaToNenetTwo
 Oh. Can you catch me up?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToNenetTwo.ogg]]
-
-#### SelectionBanterGiannaToNenetThree
+## SelectionBanterGiannaToNenetThree
 ... Oh, is that it?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToNenetThree.ogg]]
-
-#### SelectionBanterGiannaToNenetFour
+## SelectionBanterGiannaToNenetFour
 Well, uh, thank you Nenet. Very concise.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToNenetFour.ogg]]
-
-#### SelectionBanterNilesGiannaReplyTwo
+## SelectionBanterNilesGiannaReplyTwo
 How are you?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterNilesGiannaReplyTwo.ogg]]
-
-#### SelectionBanterNilesGiannaReplyThree
+## SelectionBanterNilesGiannaReplyThree
 Not quite...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterNilesGiannaReplyThree.ogg]]
-
-#### SelectionBanterNilesGiannaReplyFour
+## SelectionBanterNilesGiannaReplyFour
 Almost there...
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterNilesGiannaReplyFour.ogg]]
-
-#### SelectionBanterNilesGiannaReplyFive
+## SelectionBanterNilesGiannaReplyFive
 There it is.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterNilesGiannaReplyFive.ogg]]
-
-#### SelectionBanterNilesGiannaReplySix
+## SelectionBanterNilesGiannaReplySix
 So wonderful.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterNilesGiannaReplySix.ogg]]
-
-#### SelectionBanterGiannaToHuckTwo
+## SelectionBanterGiannaToHuckTwo
 Your armour is looking sooo shiny today Huck.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToHuckTwo.ogg]]
-
-#### SelectionBanterGiannaToHuckThree
+## SelectionBanterGiannaToHuckThree
 Can't wait to see what's underneath.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterGiannaToHuckThree.ogg]]
-
-#### SelectionBanterKuraiGiannaReplyFive
+## SelectionBanterKuraiGiannaReplyFive
 Thanks, lady Kurai. Good role for me today?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKuraiGiannaReplyFive.ogg]]
-
-#### SelectionBanterKuraiGiannaReplySix
+## SelectionBanterKuraiGiannaReplySix
 Ah, of course.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterKuraiGiannaReplySix.ogg]]
-
-#### SelectionBanterVinderiGiannaReply
+## SelectionBanterVinderiGiannaReply
 No, wait, you're meant to be here. We're planning a heist!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterVinderiGiannaReply.ogg]]
-
-#### SelectionBanterVinderiGiannaReplyTwo
+## SelectionBanterVinderiGiannaReplyTwo
 What'd you have on?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterVinderiGiannaReplyTwo.ogg]]
-
-#### SelectionBanterVinderiGiannaReplyThree
+## SelectionBanterVinderiGiannaReplyThree
 No, I mean, what were you doing later today?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterVinderiGiannaReplyThree.ogg]]
-
-#### SelectionBanterNenetGiannaReply
+## SelectionBanterNenetGiannaReply
 Nenet! Mind if I practise your accent?
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterNenetGiannaReply.ogg]]
-
-#### SelectionBanterNenetGiannaReplyTwo
+## SelectionBanterNenetGiannaReplyTwo
 I suppohz noht.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterNenetGiannaReplyTwo.ogg]]
-
-#### SelectionBanterNenetGiannaReplyThree
+## SelectionBanterNenetGiannaReplyThree
 Eckchully, I tink I do mind.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterNenetGiannaReplyThree.ogg]]
-
-#### SelectionBanterNenetGiannaReplyFour
+## SelectionBanterNenetGiannaReplyFour
 Plez st--.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterNenetGiannaReplyFour.ogg]]
-
-#### SelectionBanterNenetGiannaReplyFive
+## SelectionBanterNenetGiannaReplyFive
 Oh. Apologies.
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterNenetGiannaReplyFive.ogg]]
-
-#### SelectionBanterNilesGiannaReply
+## SelectionBanterNilesGiannaReply
 Niles, please carefully consider--
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterNilesGiannaReply.ogg]]
-
-#### SelectionBanterHuckGiannaReply
+## SelectionBanterHuckGiannaReply
 To stay handsome!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterHuckGiannaReply.ogg]]
-
-#### SelectionBanterHuckGiannaReplyTwo
+## SelectionBanterHuckGiannaReplyTwo
 Keep being cute!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterHuckGiannaReplyTwo.ogg]]
-
-#### SelectionBanterHuckGiannaReplyThree
+## SelectionBanterHuckGiannaReplyThree
 Focus on that bu--
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - SelectionBanterHuckGiannaReplyThree.ogg]]
-
-#### GiannaSelectedForContract1
+## GiannaSelectedForContract1
 A star, as always!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSelectedForContract1.ogg]]
-
-#### GiannaSelectedForContract2
+## GiannaSelectedForContract2
 Your star has arrived!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSelectedForContract2.ogg]]
-
-#### GiannaSelectedForContract3
+## GiannaSelectedForContract3
 I'm here!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSelectedForContract3.ogg]]
-
-#### GiannaSelectedForContract4
+## GiannaSelectedForContract4
 Oh, okay then!
 ![[Exiled Vault Dialogue/PoE1/G/Gianna, the Master of Disguise/_Audio/Gianna, the Master of Disguise - GiannaSelectedForContract4.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

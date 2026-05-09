@@ -1,268 +1,201 @@
-# Drox, the Warlord
-
-## Dialogue
-#### DroxNoStoneEncounterOne
+## DroxNoStoneEncounterOne
 First warning, for treading upon lands that do not belong to you. Travel elsewhere and the law will have no quarrel with you.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxNoStoneEncounterOne.ogg]]
-
-#### DroxNoStoneEncounterTwo
+## DroxNoStoneEncounterTwo
 Second warning. There are many other territories in this realm that have no law. Tread upon them instead.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxNoStoneEncounterTwo.ogg]]
-
-#### DroxNoStoneEncounterThree
+## DroxNoStoneEncounterThree
 You were twice warned. The law will have your head, trespasser.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxNoStoneEncounterThree.ogg]]
-
-#### DroxNoStoneFleeing
+## DroxNoStoneFleeing
 You can bend the law, but never break it...
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxNoStoneFleeing.ogg]]
-
-#### DroxOneStoneEncounterOne
+## DroxOneStoneEncounterOne
 The criminal returns! How audacious!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxOneStoneEncounterOne.ogg]]
-
-#### DroxOneStoneEncounterTwo
+## DroxOneStoneEncounterTwo
 Have you no respect for order?
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxOneStoneEncounterTwo.ogg]]
-
-#### DroxOneStoneEncounterThree
+## DroxOneStoneEncounterThree
 You are chaos incarnate. I will teach you order.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxOneStoneEncounterThree.ogg]]
-
-#### DroxOneStoneFleeing
+## DroxOneStoneFleeing
 You reject my lesson at your own peril...
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxOneStoneFleeing.ogg]]
-
-#### DroxTwoStoneEncounterOne
+## DroxTwoStoneEncounterOne
 You broach my lands yet again? An arrogant fiend!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxTwoStoneEncounterOne.ogg]]
-
-#### DroxTwoStoneEncounterTwo
+## DroxTwoStoneEncounterTwo
 Beyond law, your punishment will be personal.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxTwoStoneEncounterTwo.ogg]]
-
-#### DroxTwoStoneEncounterThree
+## DroxTwoStoneEncounterThree
 No respect for law and order. No right to live.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxTwoStoneEncounterThree.ogg]]
-
-#### DroxTwoStoneFleeing
+## DroxTwoStoneFleeing
 Law and order are not enough, it seems...
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxTwoStoneFleeing.ogg]]
-
-#### DroxThreeStoneEncounterOne
+## DroxThreeStoneEncounterOne
 Broach the anarchy you helped create.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxThreeStoneEncounterOne.ogg]]
-
-#### DroxThreeStoneEncounterTwo
+## DroxThreeStoneEncounterTwo
 Without law, strength reigns supreme.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxThreeStoneEncounterTwo.ogg]]
-
-#### DroxThreeStoneEncounterThree
+## DroxThreeStoneEncounterThree
 Ha! To the victor shall go the spoils.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxThreeStoneEncounterThree.ogg]]
-
-#### DroxThreeStoneFleeing
+## DroxThreeStoneFleeing
 You have not yet witnessed... the peak of my power...
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxThreeStoneFleeing.ogg]]
-
-#### DroxFourStoneEncounter1a
+## DroxFourStoneEncounter1a
 Ah, my favourite trespasser returns!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneEncounter1a.ogg]]
-
-#### DroxFourStoneEncounter1b
+## DroxFourStoneEncounter1b
 Hahaha! Kill and steal to your heart's content. There is no law here.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneEncounter1b.ogg]]
-
-#### DroxFourStoneEncounter1c
+## DroxFourStoneEncounter1c
 Anarchy is the only law here now, trespasser.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneEncounter1c.ogg]]
-
-#### DroxFourStoneEncounter2a
+## DroxFourStoneEncounter2a
 Hahaha! Glorious freedom. Violence. Death! This is our promised land!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneEncounter2a.ogg]]
-
-#### DroxFourStoneEncounter2b
+## DroxFourStoneEncounter2b
 I've been looking forward to your return. How many have you slaughtered since I last saw you?
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneEncounter2b.ogg]]
-
-#### DroxFourStoneEncounter2c
+## DroxFourStoneEncounter2c
 Let us rain blood and gore upon the misty peaks and valleys of this lawless realm!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneEncounter2c.ogg]]
-
-#### DroxFourStoneEncounter3a
+## DroxFourStoneEncounter3a
 Blood and gore!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneEncounter3a.ogg]]
-
-#### DroxFourStoneEncounter3b
+## DroxFourStoneEncounter3b
 Visit me in my fortress, trespasser. Witness what you have created.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneEncounter3b.ogg]]
-
-#### DroxFourStoneFighta
+## DroxFourStoneFighta
 I shall crush all who oppose my will!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneFighta.ogg]]
-
-#### DroxFourStoneFightb
+## DroxFourStoneFightb
 Killing you will be utterly satisfying.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneFightb.ogg]]
-
-#### DroxFourStoneFightc
+## DroxFourStoneFightc
 You've made lawless criminals of us both. Let me show you what I have learned.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneFightc.ogg]]
-
-#### DroxFourStoneFightd
+## DroxFourStoneFightd
 I wasted so much time trying to enforce the law. Those rules were nothing but a cage.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneFightd.ogg]]
-
-#### DroxFourStoneFighte
+## DroxFourStoneFighte
 I've killed countless thousands. What's one more?
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneFighte.ogg]]
-
-#### DroxFourStoneDeatha
+## DroxFourStoneDeatha
 Your strength... is the law...
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneDeatha.ogg]]
-
-#### DroxFourStoneDeathb
+## DroxFourStoneDeathb
 My kingdom is yours... if you can keep it...
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneDeathb.ogg]]
-
-#### DroxFourStoneDeathc
+## DroxFourStoneDeathc
 Time takes even the greatest of men...
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneDeathc.ogg]]
-
-#### DroxFourStoneDeathd
+## DroxFourStoneDeathd
 Veritania... my kingdom for... Veritania...
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneDeathd.ogg]]
-
-#### DroxFourStoneWins1
+## DroxFourStoneWins1
 Might has made right.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneWins1.ogg]]
-
-#### DroxFourStoneWins2
+## DroxFourStoneWins2
 Yes! Another challenger to bury in an unmarked grave.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneWins2.ogg]]
-
-#### DroxFourStoneWins3
+## DroxFourStoneWins3
 Nothing makes a man feel alive like a fight to the death.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxFourStoneWins3.ogg]]
-
-#### DroxCombatTaunt1
+## DroxCombatTaunt1
 You are nothing!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatTaunt1.ogg]]
-
-#### DroxCombatTaunt2
+## DroxCombatTaunt2
 Lawless fiend!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatTaunt2.ogg]]
-
-#### DroxCombatTaunt3
+## DroxCombatTaunt3
 Face your lord!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatTaunt3.ogg]]
-
-#### DroxCombatTaunt4
+## DroxCombatTaunt4
 I shall crush you!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatTaunt4.ogg]]
-
-#### DroxCombatTaunt5
+## DroxCombatTaunt5
 Obey the law!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatTaunt5.ogg]]
-
-#### DroxCombatGladiators1
+## DroxCombatGladiators1
 Crush the intruder!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatGladiators1.ogg]]
-
-#### DroxCombatGladiators2
+## DroxCombatGladiators2
 Force of arms!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatGladiators2.ogg]]
-
-#### DroxCombatGladiators3
+## DroxCombatGladiators3
 I am the law!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatGladiators3.ogg]]
-
-#### DroxCombatTelekinesis1
+## DroxCombatTelekinesis1
 Answer to your lord!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatTelekinesis1.ogg]]
-
-#### DroxCombatTelekinesis2
+## DroxCombatTelekinesis2
 By my authority!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatTelekinesis2.ogg]]
-
-#### DroxCombatTelekinesis3
+## DroxCombatTelekinesis3
 My word is law!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatTelekinesis3.ogg]]
-
-#### DroxCombatThumbsDown1
+## DroxCombatThumbsDown1
 Unworthy!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatThumbsDown1.ogg]]
-
-#### DroxCombatThumbsDown2
+## DroxCombatThumbsDown2
 Your sentence is death.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatThumbsDown2.ogg]]
-
-#### DroxCombatThumbsDown3
+## DroxCombatThumbsDown3
 No mercy!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatThumbsDown3.ogg]]
-
-#### DroxCombatBigSlam1
+## DroxCombatBigSlam1
 The weight of law!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatBigSlam1.ogg]]
-
-#### DroxCombatBigSlam2
+## DroxCombatBigSlam2
 Hand of Justice!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatBigSlam2.ogg]]
-
-#### DroxCombatBigSlam3
+## DroxCombatBigSlam3
 Lawbreaker!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatBigSlam3.ogg]]
-
-#### DroxCombatBanners1
+## DroxCombatBanners1
 By the people's will!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatBanners1.ogg]]
-
-#### DroxCombatBanners2
+## DroxCombatBanners2
 Tithes for their lord!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatBanners2.ogg]]
-
-#### DroxCombatBanners3
+## DroxCombatBanners3
 I call upon my kingdom!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatBanners3.ogg]]
-
-#### DroxCombatBanners4
+## DroxCombatBanners4
 My kingdom's wrath!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatBanners4.ogg]]
-
-#### DroxCombatMartialLaw
+## DroxCombatMartialLaw
 I declare martial law until justice is served!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxCombatMartialLaw.ogg]]
-
-#### DroxResponseToSirus0
+## DroxResponseToSirus0
 Exile, there is always a mightier lord.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxResponseToSirus0.ogg]]
-
-#### DroxResponseToSirus2
+## DroxResponseToSirus2
 Beyond law and anarchy, Exile, there is annihilation.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxResponseToSirus2.ogg]]
-
-#### DroxResponseToSirus3
+## DroxResponseToSirus3
 Even Kings answer to an Emperor, fool...
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxResponseToSirus3.ogg]]
-
-#### DroxResponseToSirus4
+## DroxResponseToSirus4
 If might makes right, then no law can judge Sirus.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxResponseToSirus4.ogg]]
-
-#### DroxResponseToSirus5
+## DroxResponseToSirus5
 Sirus has no need of laws or punishments. He merely obliterates.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxResponseToSirus5.ogg]]
-
-#### DroxResponseToSirus6
+## DroxResponseToSirus6
 Exile, you've stirred the beast!
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxResponseToSirus6.ogg]]
-
-#### DroxResponseToSirus7
+## DroxResponseToSirus7
 What is a kingdom with no subjects? A land of corpses and flames will be all that remains.
 ![[Exiled Vault Dialogue/PoE1/D/Drox, the Warlord/_Audio/Drox, the Warlord - DroxResponseToSirus7.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

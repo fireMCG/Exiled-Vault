@@ -1,13 +1,10 @@
-# Voll's Confession
-
-## Lore
-#### Read
+## Read
 I vowed to "care for this empire with my eyes open". I lied to my people. I lied to myself. Blinded by my lust for 'purity', I placed my faith in the most corrupt of men. I watch now as my legion dies, their flesh melting from their twisted bones. They fall... and rise. A tide of mortal death and eternal damnation. I feel it now in my own flesh. The heat. The corruption. I have failed you, my Empire of Purity. Do not forgive me but please, I beg of you, survive me. {-Voll}
 ![[Exiled Vault Environmental Lore/PoE1/V/Voll's Confession/_Audio/Voll's Confession - Read.ogg]]
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Lore/Environmental
 #Character/Emperor/VollOfThebrus
 #Character/Malachai
@@ -21,5 +18,4 @@ I vowed to "care for this empire with my eyes open". I lied to my people. I lied
 #Concept/Religion/Faith
 #Location/Wraeclast/TheDriedLake
 #PoE1/Act4
-#EnvironmentalLore
 #PoE1

@@ -1,13 +1,9 @@
-# Lifegiver's Manifesto 2
-
-## Lore
-#### Read
+## Read
 What new thing have you learned today? Or this week? How far have you come in your lifetime? If you died today, how much of what you have learned would be lost for all time? We advance as a society by building upon previous knowledge. Bricks stacked atop bricks. Too often are key advances lost due to an unforeseen death, leaving a gap in the wall. How long until someone climbs high enough once more to continue to build? We cannot all live forever. Sacrifices must be made. But with sufficient time to build our knowledge, what we fuel with the blood of our brothers and sisters today may come freely tomorrow.
 ![[Exiled Vault Environmental Lore/PoE1/L/Lifegiver's Manifesto 2/_Audio/Lifegiver's Manifesto 2 - Read.ogg]]
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Lore/Environmental
-#EnvironmentalLore
 #PoE1

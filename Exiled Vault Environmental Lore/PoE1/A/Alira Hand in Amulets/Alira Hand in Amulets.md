@@ -1,12 +1,9 @@
-# Alira Hand in Amulets
-
-## Lore
 That was almost better than Oriathan chocolate. You keep this trinket... to remember me by on your travels. I'd ask you to stay but I think we both know where that would lead. How does the old maxim go? Oh yes: "familiarity breeds contempt, and contempt is murder's concubine." A threat? No, my dear. Merely reality.
 
 ![[Exiled Vault Environmental Lore/PoE1/A/Alira Hand in Amulets/_Audio/Alira Hand in Amulets.ogg]]
 
-##
+#
 ---
-## Tags
-#EnvironmentalLore
+# Tags
+#Category/Lore/Environmental
 #PoE1

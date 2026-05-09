@@ -1,14 +1,10 @@
-# Ravaged Corpse
-
-## Lore
-#### Ravaged Corpse
+## Ravaged Corpse
 {A lifeless body sits brutalized and impaled.}
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Lore/Environmental
 #Attributes/IgnoreGraph
 #Society/Unknown
-#EnvironmentalLore
 #PoE2

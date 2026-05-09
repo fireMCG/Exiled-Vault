@@ -1,12 +1,9 @@
-# Drox's Journal III
-
-## Lore
-#### Read
+## Read
 I strike harder and move more quickly with each passing clash. Always, I am on the verge of reaching that glorious flow of battle when my haste shall outmatch the mists. I feel it in my limbs, burning in my arms as I cleave the enemy in twain. It no longer matters what phantasm I fight, only that it falls in a single blow, making way for my next opponent. The dream is close. My kingdom is nearly within my grasp. I will have it, even if it means I must fight ceaselessly and forever. Raw might flows through me, and exhilaration is my constant companion. My people will have their home. Drox the Warrior
 ![[Exiled Vault Environmental Lore/PoE1/D/Drox's Journal III/_Audio/Drox's Journal III - Read.ogg]]
 
-##
+#
 ---
-## Tags
-#EnvironmentalLore
+# Tags
+#Category/Lore/Environmental
 #PoE1

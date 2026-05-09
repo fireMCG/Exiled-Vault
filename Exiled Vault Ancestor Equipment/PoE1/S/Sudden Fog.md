@@ -1,12 +1,12 @@
-# Sudden Fog
 [[Tasalio Tribe]]
 A clear day dawns only for the lucky.
 
 #
 ![[SmokeBomb.webp]]
 
+#
 ---
-## Tags
+# Tags
 #Category/AncestorEquipment
 #Concept/Time/Dawn
 #Concept/Time/Day

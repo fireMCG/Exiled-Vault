@@ -1,53 +1,39 @@
-# Krutog, Lord of Kin
-
-## Dialogue
-#### GoblinGiantBossApproachRandom
+## GoblinGiantBossApproachRandom
 You don't bring sulphite?
 ![[Exiled Vault Dialogue/PoE2/K/Krutog, Lord of Kin/_Audio/Krutog, Lord of Kin - GoblinGiantBossApproachRandom.ogg]]
-
-#### GoblinGiantBossApproach2
+## GoblinGiantBossApproach2
 You not bring sulphite?!
 ![[Exiled Vault Dialogue/PoE2/K/Krutog, Lord of Kin/_Audio/Krutog, Lord of Kin - GoblinGiantBossApproach2.ogg]]
-
-#### GoblinGiantBossSlamRandom
+## GoblinGiantBossSlamRandom
 I'll crush you!
 ![[Exiled Vault Dialogue/PoE2/K/Krutog, Lord of Kin/_Audio/Krutog, Lord of Kin - GoblinGiantBossSlamRandom.ogg]]
-
-#### GoblinGiantBossSlam6
+## GoblinGiantBossSlam6
 Puny... Squash!
 ![[Exiled Vault Dialogue/PoE2/K/Krutog, Lord of Kin/_Audio/Krutog, Lord of Kin - GoblinGiantBossSlam6.ogg]]
-
-#### GoblinGiantBossStompRandom
+## GoblinGiantBossStompRandom
 Stay... still!
 ![[Exiled Vault Dialogue/PoE2/K/Krutog, Lord of Kin/_Audio/Krutog, Lord of Kin - GoblinGiantBossStompRandom.ogg]]
-
-#### GoblinGiantBossStomp5
+## GoblinGiantBossStomp5
 Little rat!
 ![[Exiled Vault Dialogue/PoE2/K/Krutog, Lord of Kin/_Audio/Krutog, Lord of Kin - GoblinGiantBossStomp5.ogg]]
-
-#### GoblinGiantBossEatSulphiteRandom
+## GoblinGiantBossEatSulphiteRandom
 More...
 ![[Exiled Vault Dialogue/PoE2/K/Krutog, Lord of Kin/_Audio/Krutog, Lord of Kin - GoblinGiantBossEatSulphiteRandom.ogg]]
-
-#### GoblinGiantBossEatSulphite5
+## GoblinGiantBossEatSulphite5
 Make strong!
 ![[Exiled Vault Dialogue/PoE2/K/Krutog, Lord of Kin/_Audio/Krutog, Lord of Kin - GoblinGiantBossEatSulphite5.ogg]]
-
-#### GoblinGiantBossEatSulphite9
+## GoblinGiantBossEatSulphite9
 Still hungry!
 ![[Exiled Vault Dialogue/PoE2/K/Krutog, Lord of Kin/_Audio/Krutog, Lord of Kin - GoblinGiantBossEatSulphite9.ogg]]
-
-#### GoblinGiantBossLimbThrowRandom
+## GoblinGiantBossLimbThrowRandom
 For Raka' ta!
 ![[Exiled Vault Dialogue/PoE2/K/Krutog, Lord of Kin/_Audio/Krutog, Lord of Kin - GoblinGiantBossLimbThrowRandom.ogg]]
-
-#### GoblinGiantBossLimbThrow3
+## GoblinGiantBossLimbThrow3
 Angry!
 ![[Exiled Vault Dialogue/PoE2/K/Krutog, Lord of Kin/_Audio/Krutog, Lord of Kin - GoblinGiantBossLimbThrow3.ogg]]
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Dialogue
-#Dialogue
 #PoE2

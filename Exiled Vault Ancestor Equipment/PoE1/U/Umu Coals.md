@@ -1,4 +1,3 @@
-# Umu Coals
 [[Ngamahu Tribe]]
 Traditional meals are cooked in a great fire-stone pit.  
 In a crisis, those stones can pull double duty.
@@ -6,8 +5,9 @@ In a crisis, those stones can pull double duty.
 #
 ![[CharcoalPot.webp]]
 
+#
 ---
-## Tags
+# Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

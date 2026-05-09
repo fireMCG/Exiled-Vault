@@ -1,68 +1,46 @@
-# Lieutenant
-
-## Dialogue
-#### WarlordLieutenantBossKillRandom
+## WarlordLieutenantBossKillRandom
 An easy feat for you!
-
-#### WarlordLieutenantBossKill6
+## WarlordLieutenantBossKill6
 A fine accomplishment.
-
-#### WarlordLieutenantBossKill10
+## WarlordLieutenantBossKill10
 Slain, with finesse!
-
-#### WarlordLieutenantCheeringRandom
+## WarlordLieutenantCheeringRandom
 Well done, my Lord!
-
-#### WarlordLieutenantCheering5
+## WarlordLieutenantCheering5
 * Cheers Happily *
-
-#### WarlordLieutenantCheering9
+## WarlordLieutenantCheering9
 Yeearghh!
-
-#### WarlordLieutenantPlayerDeathRandom
+## WarlordLieutenantPlayerDeathRandom
 Better luck next time.
-
-#### WarlordLieutenantPlayerDeath5
+## WarlordLieutenantPlayerDeath5
 A valiant effort.
-
-#### WarlordLieutenantPlayerDeath9
+## WarlordLieutenantPlayerDeath9
 Live another day.
-
-#### WarlordLieutenantPlayerLogInRandom
+## WarlordLieutenantPlayerLogInRandom
 Welcome back, my lord.
-
-#### WarlordLieutenantPlayerLogIn6
+## WarlordLieutenantPlayerLogIn6
 Wonderful to see you.
-
-#### WarlordLieutenantPlayerLogIn10
+## WarlordLieutenantPlayerLogIn10
 A fine day for slaughter.
-
-#### WarlordLieutenantPortalToCombatRandom
+## WarlordLieutenantPortalToCombatRandom
 Onward, to battle!
-
-#### WarlordLieutenantPortalToCombat5
+## WarlordLieutenantPortalToCombat5
 Make your mark!
-
-#### WarlordLieutenantPortalToCombat10
+## WarlordLieutenantPortalToCombat10
 Show no mercy.
-
-#### WarlordLieutenantPortalToCombat16
+## WarlordLieutenantPortalToCombat16
 We go forth, into the fray!
-
-#### WarlordLieutenantPortalToTownRandom
+## WarlordLieutenantPortalToTownRandom
 It's a little more peaceful here.
-
-#### WarlordLieutenantPortalToTown6
+## WarlordLieutenantPortalToTown6
 Tired of battle so soon?
-
-#### WarlordLieutenantPortalToTown10
+## WarlordLieutenantPortalToTown10
 A reprieve from the chaos.
-
-#### WarlordLieutenantPortalToTown13
+## WarlordLieutenantPortalToTown13
 Seek refuge here.
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE2

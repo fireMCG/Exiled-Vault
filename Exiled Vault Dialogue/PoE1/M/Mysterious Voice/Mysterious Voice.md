@@ -1,244 +1,183 @@
-# Mysterious Voice
-
-## Dialogue
-#### CultistSpiritAttackRandom
+## CultistSpiritAttackRandom
 Sacrifice them!
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritAttackRandom.ogg]]
-
-#### CultistSpiritAttack4
+## CultistSpiritAttack4
 Let the fires guide your blade!
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritAttack4.ogg]]
-
-#### CultistSpiritAttack8
+## CultistSpiritAttack8
 Perish!
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritAttack8.ogg]]
-
-#### CultistSpiritAttack12
+## CultistSpiritAttack12
 Burn them all!
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritAttack12.ogg]]
-
-#### CultistSpiritAttack16
+## CultistSpiritAttack16
 [deranged screech]
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritAttack16.ogg]]
-
-#### CultistSpiritKillRandom
+## CultistSpiritKillRandom
 More for the slaughter.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKillRandom.ogg]]
-
-#### CultistSpiritKill4
+## CultistSpiritKill4
 Consumed by flame!
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKill4.ogg]]
-
-#### CultistSpiritKill8
+## CultistSpiritKill8
 Cremated.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKill8.ogg]]
-
-#### CultistSpiritKill11
+## CultistSpiritKill11
 Unto ash.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKill11.ogg]]
-
-#### CultistSpiritKill14
+## CultistSpiritKill14
 A fiery demise.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKill14.ogg]]
-
-#### CultistSpiritKillBossRandom
+## CultistSpiritKillBossRandom
 And now, to harvest its organs...
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKillBossRandom.ogg]]
-
-#### CultistSpiritKillBoss4
+## CultistSpiritKillBoss4
 A momentous feat.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKillBoss4.ogg]]
-
-#### CultistSpiritKillBoss7
+## CultistSpiritKillBoss7
 Reduced to ashes.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKillBoss7.ogg]]
-
-#### CultistSpiritKillManyRandom
+## CultistSpiritKillManyRandom
 Annihilation.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKillManyRandom.ogg]]
-
-#### CultistSpiritKillMany5
+## CultistSpiritKillMany5
 Infernal devastation.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKillMany5.ogg]]
-
-#### CultistSpiritKillMany8
+## CultistSpiritKillMany8
 Total destruction.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKillMany8.ogg]]
-
-#### CultistSpiritKillMany11
+## CultistSpiritKillMany11
 A delightful bloodbath.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKillMany11.ogg]]
-
-#### CultistSpiritKillUniqueRandom
+## CultistSpiritKillUniqueRandom
 Drain their blood...
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKillUniqueRandom.ogg]]
-
-#### CultistSpiritKillUnique5
+## CultistSpiritKillUnique5
 Extinguished, like a candle in the wind.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKillUnique5.ogg]]
-
-#### CultistSpiritKillUnique8
+## CultistSpiritKillUnique8
 An unusual encounter.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritKillUnique8.ogg]]
-
-#### CultistSpiritNewAreaRandom
+## CultistSpiritNewAreaRandom
 Conquer these lands.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritNewAreaRandom.ogg]]
-
-#### CultistSpiritNewArea4
+## CultistSpiritNewArea4
 These lands will smoulder...
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritNewArea4.ogg]]
-
-#### CultistSpiritNewArea7
+## CultistSpiritNewArea7
 Uncharted territory.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritNewArea7.ogg]]
-
-#### CultistSpiritNoKillRandom
+## CultistSpiritNoKillRandom
 I thirst for blood...
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritNoKillRandom.ogg]]
-
-#### CultistSpiritNoKill5
+## CultistSpiritNoKill5
 Stoke the embers...
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritNoKill5.ogg]]
-
-#### CultistSpiritNoKill8
+## CultistSpiritNoKill8
 Burn your foes...
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritNoKill8.ogg]]
-
-#### CultistSpiritRandom
+## CultistSpiritRandom
 Don't we make a fine pair?
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritRandom.ogg]]
-
-#### CultistSpiritTownIdleRandom
+## CultistSpiritTownIdleRandom
 Wreak some havoc!
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritTownIdleRandom.ogg]]
-
-#### CultistSpiritTownIdle4
+## CultistSpiritTownIdle4
 Surely you grow weary of standing about?
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritTownIdle4.ogg]]
-
-#### CultistSpiritTownIdle7
+## CultistSpiritTownIdle7
 This is a little too quiet for comfort...
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - CultistSpiritTownIdle7.ogg]]
-
-#### MercenarySpiritAttackRandom
+## MercenarySpiritAttackRandom
 [otherworldly screech]
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - MercenarySpiritAttackRandom.ogg]]
-
-#### MercenarySpiritAttack8
+## MercenarySpiritAttack8
 Make your mark upon this world!
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - MercenarySpiritAttack8.ogg]]
-
-#### MercenarySpiritKillRandom
+## MercenarySpiritKillRandom
 Not bad... for a mortal.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - MercenarySpiritKillRandom.ogg]]
-
-#### MercenarySpiritKillBossRandom
+## MercenarySpiritKillBossRandom
 A majestic feat.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - MercenarySpiritKillBossRandom.ogg]]
-
-#### MercenarySpiritKillManyRandom
+## MercenarySpiritKillManyRandom
 A magnificent display of prowess.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - MercenarySpiritKillManyRandom.ogg]]
-
-#### MercenarySpiritKillUniqueRandom
+## MercenarySpiritKillUniqueRandom
 My thirst for such souls shall never be sated.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - MercenarySpiritKillUniqueRandom.ogg]]
-
-#### MercenarySpiritNewAreaRandom
+## MercenarySpiritNewAreaRandom
 Feast your eyes upon this hallowed world.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - MercenarySpiritNewAreaRandom.ogg]]
-
-#### MercenarySpiritNoKillsRandom
+## MercenarySpiritNoKillsRandom
 There are souls yet to be claimed...
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - MercenarySpiritNoKillsRandom.ogg]]
-
-#### MercenarySpiritRandom
+## MercenarySpiritRandom
 Do not ignore the unmistakable call of the void...
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - MercenarySpiritRandom.ogg]]
-
-#### MercenarySpirit5
+## MercenarySpirit5
 The void calls...
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - MercenarySpirit5.ogg]]
-
-#### MercenarySpiritTownIdleRandom
+## MercenarySpiritTownIdleRandom
 The cosmos itself yearns for bloodshed...
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - MercenarySpiritTownIdleRandom.ogg]]
-
-#### PyromaniacSpiritAttack13
+## PyromaniacSpiritAttack13
 Scorch them!
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - PyromaniacSpiritAttack13.ogg]]
-
-#### PyromaniacSpiritKill14
+## PyromaniacSpiritKill14
 Burnt to a crisp.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - PyromaniacSpiritKill14.ogg]]
-
-#### PyromaniacSpiritKillBossRandom
+## PyromaniacSpiritKillBossRandom
 Incinerated.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - PyromaniacSpiritKillBossRandom.ogg]]
-
-#### PyromaniacSpiritKillMany11
+## PyromaniacSpiritKillMany11
 Unstoppable carnage.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - PyromaniacSpiritKillMany11.ogg]]
-
-#### PyromaniacSpiritKillUniqueRandom
+## PyromaniacSpiritKillUniqueRandom
 Especially flammable.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - PyromaniacSpiritKillUniqueRandom.ogg]]
-
-#### PyromaniacSpiritNewArea4
+## PyromaniacSpiritNewArea4
 Set this place ablaze...!
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - PyromaniacSpiritNewArea4.ogg]]
-
-#### PyromaniacSpiritNoKills4
+## PyromaniacSpiritNoKills4
 Char some more bodies, won't you?
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - PyromaniacSpiritNoKills4.ogg]]
-
-#### PyromaniacSpiritRandom
+## PyromaniacSpiritRandom
 Wreathed in flame.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - PyromaniacSpiritRandom.ogg]]
-
-#### PyromaniacSpiritTownIdle4
+## PyromaniacSpiritTownIdle4
 The fires won't ignite themselves...
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - PyromaniacSpiritTownIdle4.ogg]]
-
-#### TemplarZealotSpiritAttackRandom
+## TemplarZealotSpiritAttackRandom
 Divine fury!
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - TemplarZealotSpiritAttackRandom.ogg]]
-
-#### TemplarZealotSpiritKillRandom
+## TemplarZealotSpiritKillRandom
 For righteousness!
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - TemplarZealotSpiritKillRandom.ogg]]
-
-#### TemplarZealotSpiritKillBossRandom
+## TemplarZealotSpiritKillBossRandom
 Claimed by the divine light!
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - TemplarZealotSpiritKillBossRandom.ogg]]
-
-#### TemplarZealotSpiritKillManyRandom
+## TemplarZealotSpiritKillManyRandom
 Purified by flame.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - TemplarZealotSpiritKillManyRandom.ogg]]
-
-#### TemplarZealotSpiritKillUniqueRandom
+## TemplarZealotSpiritKillUniqueRandom
 Another heretic slain.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - TemplarZealotSpiritKillUniqueRandom.ogg]]
-
-#### TemplarZealotSpiritNewAreaRandom
+## TemplarZealotSpiritNewAreaRandom
 Reap what you sow.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - TemplarZealotSpiritNewAreaRandom.ogg]]
-
-#### TemplarZealotSpiritNoKillsRandom
+## TemplarZealotSpiritNoKillsRandom
 The wicked must not be allowed to rest!
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - TemplarZealotSpiritNoKillsRandom.ogg]]
-
-#### TemplarZealotSpiritRandom
+## TemplarZealotSpiritRandom
 Innocence presides over us all.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - TemplarZealotSpiritRandom.ogg]]
-
-#### TemplarZealotSpiritTownIdleRandom
+## TemplarZealotSpiritTownIdleRandom
 Idling will not serve us.
 ![[Exiled Vault Dialogue/PoE1/M/Mysterious Voice/_Audio/Mysterious Voice - TemplarZealotSpiritTownIdleRandom.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

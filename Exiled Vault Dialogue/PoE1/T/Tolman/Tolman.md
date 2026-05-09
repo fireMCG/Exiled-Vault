@@ -1,12 +1,9 @@
-# Tolman
-
-## Dialogue
-#### TolmanScream
+## TolmanScream
 TolmanScream
 ![[Exiled Vault Dialogue/PoE1/T/Tolman/_Audio/Tolman - TolmanScream.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

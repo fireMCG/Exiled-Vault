@@ -1,14 +1,10 @@
-# Abandoned Rhoa
-
-## Lore
-#### Troubling Implication
+## Troubling Implication
 {It appears someone rode in on this rhoa, but never left...}
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Lore/Environmental
 #Attributes/IgnoreGraph
 #Society/Maraketh
-#EnvironmentalLore
 #PoE2

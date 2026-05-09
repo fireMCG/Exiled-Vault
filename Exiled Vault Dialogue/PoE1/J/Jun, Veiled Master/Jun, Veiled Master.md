@@ -1,978 +1,731 @@
-# Jun, Veiled Master
-
-## Dialogue
-#### NinjaCopIntro
+## NinjaCopIntro
 I am Jun Ortoi, of the sun-scorched plains of Vastiri. I am investigating the disappearance of several prominent exiles. I have surreptitiously been observing your movements since you washed ashore. The way you handled the blacksmith showed me you are suitable for the task I must ask of you. Wraeclast is lawless, but it is not without justice, and some here are more deserving of death than others. The missing were good people. Capable fighters doing what they could to bring light to a situation mired in darkness. I believe they were taken by a group calling themselves the Immortal Syndicate, and I fear they will not be the last.
-
-#### NinjaCopFirstTraitor
+## NinjaCopFirstTraitor
 Cannibals roam the shores here, but hidden amongst them is a small fortification I believe to be an Immortal Syndicate outpost. They have posted guards along the perimeter, so we must be cautious. Seek it out. I will meet you there, and together we will infiltrate it.
-
-#### NinjaCopUndergroundLab
+## NinjaCopUndergroundLab
 This is no beast den. Through these tunnels lies an Immortal Syndicate shelter. I fear they are in the process of dismantling, leaving us with no evidence. Together, we must rush inside and stop them as best we can. We are certain to find important information within.
-
-#### JunOrtoiCloseToFort
+## JunOrtoiCloseToFort
 Here, exile! I will follow your lead. Be careful.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiCloseToFort.ogg]]
-
-#### JunOrtoiFirstEncounterComplete
+## JunOrtoiFirstEncounterComplete
 This person... they were dead. I saw their body, cold and blue as the sea. Yet here they are, as alive as you or I.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiFirstEncounterComplete.ogg]]
-
-#### Investigation
+## Investigation
 We must decide what we will do with our captive. What you choose to do will impact our ability to investigate further. Talk to our captive. I will watch your back.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Investigation.ogg]]
-
-#### The Immortal Syndicate
+## The Immortal Syndicate
 Catch and release? You may scare the other fish away, but you may also follow it to a hidden reef. Information is important, and can be gathered by force or by politics. Go now. It is risky to be seen with each other.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - The Immortal Syndicate.ogg]]
-
-#### The Immortal Syndicate_2
+## The Immortal Syndicate_2
 So be it. I will take them to a secret location and extract what information I can about their co-conspirators. Go, I will seek you out again soon.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - The Immortal Syndicate_2.ogg]]
-
-#### JunOrtoiFirstCartMission
+## JunOrtoiFirstCartMission
 Exile! I have found another member of this Immortal Syndicate not far from here. They appear to be loading strange cargo. I fear if we do not act quickly, they will escape. I will join you once you near them.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiFirstCartMission.ogg]]
-
-#### JunOrtoiCloseToCart
+## JunOrtoiCloseToCart
 Exile, they are trying to escape. We must defeat them quickly!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiCloseToCart.ogg]]
-
-#### Investigation_2
+## Investigation_2
 Great work, exile. What do you want to do with our captive?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Investigation_2.ogg]]
-
-#### Syndicate Supplies
+## Syndicate Supplies
 We were too slow. They have escaped with the cargo and any hope of discovering more about them. Perhaps we will run into them again soon.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Syndicate Supplies.ogg]]
-
-#### JunOrtoiOnCompletionLab
+## JunOrtoiOnCompletionLab
 Excellent. I knew you could do it. What shall we do with our captive?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiOnCompletionLab.ogg]]
-
-#### JunOrtoiOnFailureLab
+## JunOrtoiOnFailureLab
 We were too slow. They have destroyed everything, and on top of that, they have escaped. It may be some time before another opportunity such as this arises. We should make sure that next time we are ready for it.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiOnFailureLab.ogg]]
-
-#### JunOrtoiAfterSecondMission
+## JunOrtoiAfterSecondMission
 Exile, I want to show you something. I have been carefully tracking the Syndicate members we have encountered. Understanding how they interrelate will help us paint a picture of the rest of the organisation, and eventually, lead us to whoever is in charge. I believe we can manipulate and take advantage of their relationships to bring us closer to the head of the Syndicate, and I have made this chart to keep track of all the details. I believe you will find it useful.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiAfterSecondMission.ogg]]
-
-#### JunOrtoiDuringFirstAssassination
+## JunOrtoiDuringFirstAssassination
 Exile! I came as quickly as I could - be careful!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiDuringFirstAssassination.ogg]]
-
-#### JunOrtoiAfterFirstAssassination
+## JunOrtoiAfterFirstAssassination
 I am so sorry, exile. It seems we have raised the ire of the Syndicate, and now they wish us dead. I too was attacked, and I sought you out as soon as I was safe, but I was too late. I brought this on us. I hope you can forgive me. At least we can make the most of a bad situation... Every defeated Syndicate member is a new opportunity for information and manipulation.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiAfterFirstAssassination.ogg]]
-
-#### Syndicate Members
+## Syndicate Members
 Some of the members we have come across... well... they have come back from the dead. I don't have any better way of putting it. They are no mindless zombies. Somehow they are returning... whole. This must be why they call themselves the Immortal Syndicate. Immortality is dangerous, even in the hands of those with good intentions.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Syndicate Members.ogg]]
-
-#### Why Jun Fights
+## Why Jun Fights
 Do I really need a reason? For what reason did you help the sick and dying in Lioneye's Watch? We do these things because no one else will. We do these things because the world has enough pain in it already. Would you have me sit idly by, watching the few good souls left on this wretched stretch of land fall into the shadows? Creation cannot occur without destruction, nor destruction without creation. Light and darkness. The two must coexist. One cannot be without the other. But forces work to break Wraeclast's already precarious balance. And who but us can put it right?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Why Jun Fights.ogg]]
-
-#### Catarina
+## Catarina
 At last, we have a name; Catarina. I know of her. She was a powerful necromancer whose talents were... misdirected. I do not know for certain how she learned to raise the dead back to true life, but... I have my suspicions. And I have reason to believe that such power does not come without a great price. It is likely she is paying that price in very inhumane ways. We must find out where she is hiding. Too much is at stake to let her continue.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Catarina.ogg]]
-
-#### Jun's Secret
+## Jun's Secret
 Exile, I fear I have not been entirely honest with you. This dusty pit was once the Forbidden Vault, and I its guardian. That you have not heard of it is not surprising; it was kept in absolute secrecy for countless generations, known only to my {akhara}, the-... the Order of the Djinn. It feels so strange to tell someone. To speak so plainly would have been a sin of the highest order, punishable by death. It seems harsh to an outsider like yourself, but you do not know the importance of what we did...
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Jun's Secret.ogg]]
-
-#### The Forbidden Vault
+## The Forbidden Vault
 My {akhara}, my people, were long ago tasked with protecting the people of Wraeclast from themselves. Many artefacts of great power exist - you have come across some such in your travels. But there are some artefacts whose power is so great that to use them would put the world in jeopardy. Artefacts like the Horns of Kulemak. We, the Order of the Djinn, existed to keep such power sealed away and secret. Better that the world forget that it, and we, exist, than fight for control of a power they have no hope of controlling.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - The Forbidden Vault.ogg]]
-
-#### Order of the Djinn
+## Order of the Djinn
 You have not heard of us because you were never meant to hear of us. I say us... in truth, it is just me left. We came from all walks of life, but we were all orphans, taken in and raised by the Order, and taught never to speak of it under punishment of death. It sounds harsh, I understand, but such was the importance of our duty that a life of solitude and secrecy was necessary. For hundreds, maybe thousands of years, we remained secret, until Janus Perandus... that... that imbecile... He sold us out. Reaching for the last vestiges of his ancestral glory. Just like his great grandfather Chitus, he may have doomed us all.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Order of the Djinn.ogg]]
-
-#### The Syndicate Leader
+## The Syndicate Leader
 The picture is at last clear. Catarina has obtained the Horns of Kulemak, an artefact capable of shifting the very energies of life freely. She sought power, not just magical, but political power. To be able to grant immortality is a powerful bargaining tool indeed. Wraeclast is fractured. Many little societies separated by vast tracts of land. But it will not always be so, and Catarina knows this. She is playing the long game. She sees herself as an immortal Queen just biding her time. Her subordinates dare not cross her, for she has the power to gift them immortality, but also to take it away. There is a reason my Order hid the Horns for so long, and we are seeing it play out before our very eyes.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - The Syndicate Leader.ogg]]
-
-#### Horns of Kulemak
+## Horns of Kulemak
 We were only taught what was passed down for generations. We believed the Horns to be the ultimate tool of life and death; capable of siphoning the very breath of life from any living thing. We do not know where it came from. Perhaps the remains of a powerful, long-dead animal. Perhaps a creation of the gods themselves. Regardless of its provenance, I believe the Horns are what have given the Immortal Syndicate their miraculous ability to return from the dead unscathed.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Horns of Kulemak.ogg]]
-
-#### Syndicate Safehouse
+## Syndicate Safehouse
 Thanks to your hard work, we have at last pinpointed the location of a Syndicate safehouse. I believe a leader to be sending orders from there. When you are ready, I can take us close. Together we will infiltrate and dismantle it. If we can capture the leader, they may be able to get us closer to the one they call "The Lifegiver".
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Syndicate Safehouse.ogg]]
-
-#### JunOrtoiAssassinationOngoingArrival
+## JunOrtoiAssassinationOngoingArrival
 Exile, I'm here. Keep fighting!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiAssassinationOngoingArrival.ogg]]
-
-#### JunOrtoiAssassinationOverIntro
+## JunOrtoiAssassinationOverIntro
 I came to warn you of a plot on your life, but clearly you have a handle on the situation. Let's use this as an opportunity to extract some information.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiAssassinationOverIntro.ogg]]
-
-#### JunOrtoiInviteToHideout
+## JunOrtoiInviteToHideout
 My home died with my {akhara}. Already, I cannot repay you for all you have done, but if you have room for me in your hideout, I would gladly accept a place.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiInviteToHideout.ogg]]
-
-#### JunOrtoiJoinHideout
+## JunOrtoiJoinHideout
 I cannot thank you enough.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiJoinHideout.ogg]]
-
-#### JunOrtoiFightCatarina
+## JunOrtoiFightCatarina
 Thanks to our continued, fastidious work, we now know Catarina leads the Immortal Syndicate. We also know exactly where she is hiding. Exile, we must defeat her, but we must be ready for anything. Catarina has not only an army at her disposal, but some of the most powerful artefacts ever known, including the Horns of Kulemak. You must be prepared to face her. When you are ready, I will open a way.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiFightCatarina.ogg]]
-
-#### Janus Perandus
+## Janus Perandus
 You have heard of the famed Perandus family, I have no doubt. Wealthy and powerful and responsible for putting Malachai in position to bring Wraeclast to ruin all those centuries ago. Though Emperor Chitus is the most famous of the Perandus family, some remnants of his vile bloodline linger even still. Janus was one such remnant. He too was orphaned, but with the Perandus coffers dry and the Perandus name worth its weight in gold, no one took him in. No one except my {akhara}. That he is the only other survivor, and is now a powerful member of the Immortal Syndicate leaves no doubt in my mind that it was he who sold us out. If there is but one silver lining in all of this, it is that I may get to sink my blades into his flesh over, and over, and over again.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Janus Perandus.ogg]]
-
-#### Einhar
+## Einhar
 Anyone who believes the world is coming to an end raises some red flags. He has that unusual accent, but he claims to be from Oriath. I think Einhar is hiding more than just his face. But... who am I to talk?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Einhar.ogg]]
-
-#### Alva
+## Alva
 Greed has spilled more blood than all the other vices combined, and Alva is one of the greediest people I have ever met. That you have aligned with her makes me question your own motives.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Alva.ogg]]
-
-#### JunOrtoiAboutNavali
+## JunOrtoiAboutNavali
 Navali can see the future, yet she does nothing to prevent malicious acts. Am I just supposed to act like that is fine?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiAboutNavali.ogg]]
-
-#### Helena
+## Helena
 Helena looked within herself and chose to turn her back on what she was made to believe, even under fear of death. She is a woman worthy of admiration.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Helena.ogg]]
-
-#### Niko
+## Niko
 Niko is... a strange one. I believe there is a good person buried within him somewhere, but he is lost within his own darkness, struggling to climb out.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Niko.ogg]]
-
-#### Zana
+## Zana
 The rules of my {akhara} forbid women ever feeling the touch of a man. No families, no loose lips, no loose ends. But it makes no mention of two women... When our jobs are done at last, I believe I would like a stronger bond with her. Perhaps we could find some orphans of our own to take in.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Zana.ogg]]
-
-#### JunOrtoiGenericMissionIntro
+## JunOrtoiGenericMissionIntro
 I've been tracking a member of the Immortal Syndicate. They're near here. We need to move quickly and quietly and dismantle their operation before they can seek reinforcements. I will follow your lead, exile.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiGenericMissionIntro.ogg]]
-
-#### JunOrtoiAssassinationOverArrival
+## JunOrtoiAssassinationOverArrival
 Exile! Carefu-... Oh. It seems I'm late.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiAssassinationOverArrival.ogg]]
-
-#### Oriath
+## Oriath
 I'd not believe you if I had not witnessed the boats lurching onto the shores of Wraeclast myself. So... The gods have returned, and Oriath has fallen. This complicates things, to say the least. Exile, I believe the Syndicate has been planning to form a new government. The Templar were cruel, but at least they were mortal. If the Syndicate's power continues to grow, they will be able to rule Wraeclast and beyond without fear of reprisal, and we mere mortals will have no choice but to serve, or fuel their cycle of death and rebirth.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Oriath.ogg]]
-
-#### Oriath_2
+## Oriath_2
 Kitava is slain, and you are the saviour of Oriath. In any other era, such an act would etch your name into the pages of history, but... The Immortal Syndicate remains, positioned to wrest control of the few remaining survivors, and you are the only one with the might to tear them down. Please, for the sake of those that still live, we must push onwards. Oriath has seen too much horror as it is.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Oriath_2.ogg]]
-
-#### JunOrtoiWildGreetingRandom
+## JunOrtoiWildGreetingRandom
 Akh'salla, exile!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiWildGreetingRandom.ogg]]
-
-#### JunOrtoiWildGreeting4
+## JunOrtoiWildGreeting4
 Exile, we must speak.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiWildGreeting4.ogg]]
-
-#### JunOrtoiStealthedGreetingRandom
+## JunOrtoiStealthedGreetingRandom
 Over here!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiStealthedGreetingRandom.ogg]]
-
-#### JunOrtoiStealthedGreetingAltRandom
+## JunOrtoiStealthedGreetingAltRandom
 Quickly and quietly, exile.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOrtoiStealthedGreetingAltRandom.ogg]]
-
-#### VaganPrimaryDefenderStartsFightFifteen
+## VaganPrimaryDefenderStartsFightFifteen
 This one smiles, but his eyes are deadly serious.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VaganPrimaryDefenderStartsFightFifteen.ogg]]
-
-#### VaganEscapeThree
+## VaganEscapeThree
 Since when does a warrior run from a fight?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VaganEscapeThree.ogg]]
-
-#### VaganDefeatedEleven
+## VaganDefeatedEleven
 An impressive display, warrior, but not enough.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VaganDefeatedEleven.ogg]]
-
-#### VaganBargainAcceptedSix
+## VaganBargainAcceptedSix
 I expect you will come at us with a new strategy next time, Vagan. I look forward to it.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VaganBargainAcceptedSix.ogg]]
-
-#### VaganInterrogatedThree
+## VaganInterrogatedThree
 I will be cruel in my methods, because he can take it.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VaganInterrogatedThree.ogg]]
-
-#### VaganSecondaryDefenderArrivalTwentyTwo
+## VaganSecondaryDefenderArrivalTwentyTwo
 Vagan, are you so desperate to win?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VaganSecondaryDefenderArrivalTwentyTwo.ogg]]
-
-#### VaganSecondaryDefenderArrivalTwentyThree
+## VaganSecondaryDefenderArrivalTwentyThree
 Surely you want the thrill of a free for all, warrior!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VaganSecondaryDefenderArrivalTwentyThree.ogg]]
-
-#### VaganReplyToSecondaryDefenderArrivalTwenty
+## VaganReplyToSecondaryDefenderArrivalTwenty
 Warrior, how do you stand for this?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VaganReplyToSecondaryDefenderArrivalTwenty.ogg]]
-
-#### ToraSecondaryDefenderArrivalThirtyFour
+## ToraSecondaryDefenderArrivalThirtyFour
 Tora, our conflict is not with you!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ToraSecondaryDefenderArrivalThirtyFour.ogg]]
-
-#### VaganReplyToSecondaryDefenderArrivalTwentyTwo
+## VaganReplyToSecondaryDefenderArrivalTwentyTwo
 Come on, warrior, you don't need help!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VaganReplyToSecondaryDefenderArrivalTwentyTwo.ogg]]
-
-#### VaganReplyToBetrayalAcceptedSeven
+## VaganReplyToBetrayalAcceptedSeven
 Best sleep in your armour from now on, warrior.
-
-#### HakuPrimaryDefenderStartsFightFifteen
+## HakuPrimaryDefenderStartsFightFifteen
 Care, exile... a Karui and his fortress are not easily separated.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HakuPrimaryDefenderStartsFightFifteen.ogg]]
-
-#### HakuPrimaryDefenderStartsFightSixteen
+## HakuPrimaryDefenderStartsFightSixteen
 Did Hinekora reject you, Karui?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HakuPrimaryDefenderStartsFightSixteen.ogg]]
-
-#### HakuEscapeThree
+## HakuEscapeThree
 A truce, Karui... for now.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HakuEscapeThree.ogg]]
-
-#### HakuDefeatedEleven
+## HakuDefeatedEleven
 Stay down, Haku.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HakuDefeatedEleven.ogg]]
-
-#### HakuInterrogatedThree
+## HakuInterrogatedThree
 Your body is strong, Karui... but the cell will test your mind.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HakuInterrogatedThree.ogg]]
-
-#### HakuSecondaryDefenderArrivalThirtyTwo
+## HakuSecondaryDefenderArrivalThirtyTwo
 You're better than this, Karui!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HakuSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### HakuSecondaryDefenderArrivalThirtyThree
+## HakuSecondaryDefenderArrivalThirtyThree
 Have you come to your senses at last, Karui?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HakuSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### HakuReplyToSecondaryDefenderArrivalNineteen
+## HakuReplyToSecondaryDefenderArrivalNineteen
 Witness the Syndicate's treachery, Karui.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HakuReplyToSecondaryDefenderArrivalNineteen.ogg]]
-
-#### HakuReplyToSecondaryDefenderArrivalTwenty
+## HakuReplyToSecondaryDefenderArrivalTwenty
 The Karui will make this much harder.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HakuReplyToSecondaryDefenderArrivalTwenty.ogg]]
-
-#### HakuReplyToSecondaryDefenderArrivalTwentyOne
+## HakuReplyToSecondaryDefenderArrivalTwentyOne
 They clearly don't trust you, Karui.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HakuReplyToSecondaryDefenderArrivalTwentyOne.ogg]]
-
-#### HakuReplyToBetrayalAcceptedSeven
+## HakuReplyToBetrayalAcceptedSeven
 You made the right choice, Karui.
-
-#### ItThatFledPrimaryDefenderStartsFightEighteen
+## ItThatFledPrimaryDefenderStartsFightEighteen
 Whatever the Syndicate is telling you, monster, you should not listen.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ItThatFledPrimaryDefenderStartsFightEighteen.ogg]]
-
-#### ItThatFledDefeatedEleven
+## ItThatFledDefeatedEleven
 Don't get back up, fiend.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ItThatFledDefeatedEleven.ogg]]
-
-#### ItThatFledBargainAcceptedSix
+## ItThatFledBargainAcceptedSix
 We have come to an accord... I think.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ItThatFledBargainAcceptedSix.ogg]]
-
-#### ItThatFledInterrogatedThree
+## ItThatFledInterrogatedThree
 Beasts belong behind bars.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ItThatFledInterrogatedThree.ogg]]
-
-#### ItThatFledReplyToExecutionThree
+## ItThatFledReplyToExecutionThree
 Did you see that, fiend? Talk.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ItThatFledReplyToExecutionThree.ogg]]
-
-#### ItThatFledSecondaryDefenderArrivalThirtyTwo
+## ItThatFledSecondaryDefenderArrivalThirtyTwo
 The Syndicate knows no limits, no law. Look at what they fight with!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ItThatFledSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### ItThatFledSecondaryDefenderArrivalThirtyThree
+## ItThatFledSecondaryDefenderArrivalThirtyThree
 Have you had enough of your new family, creature?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ItThatFledSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### ItThatFledReplyToSecondaryDefenderArrivalTwenty
+## ItThatFledReplyToSecondaryDefenderArrivalTwenty
 That poor creature doesn't even understand.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ItThatFledReplyToSecondaryDefenderArrivalTwenty.ogg]]
-
-#### ItThatFledReplyToSecondaryDefenderArrivalTwentyOne
+## ItThatFledReplyToSecondaryDefenderArrivalTwentyOne
 This is not your hive, creature. Begone!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ItThatFledReplyToSecondaryDefenderArrivalTwentyOne.ogg]]
-
-#### ItThatFledReplyToSecondaryDefenderArrivalTwentyTwo
+## ItThatFledReplyToSecondaryDefenderArrivalTwentyTwo
 The Syndicate... helping that creature...?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ItThatFledReplyToSecondaryDefenderArrivalTwentyTwo.ogg]]
-
-#### ItThatFledReplyToBetrayalAcceptedSeven
+## ItThatFledReplyToBetrayalAcceptedSeven
 You'd do well to return to wherever it is you came from.
-
-#### Veiled Items
+## Veiled Items
 I've spent some time around powerful magical objects. There are some whose magical properties are obscured and tangled, trapped and restricted by a curse placed upon it. I cannot restore such items to their original glory, but I can at least break the curse and release some of its power, if you bring it to me.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Veiled Items.ogg]]
-
-#### JunCatarinaEncounterOne
+## JunCatarinaEncounterOne
 It can't be! This... this... it's the Forbidden Vault!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunCatarinaEncounterOne.ogg]]
-
-#### JunZombiesRaisedOne
+## JunZombiesRaisedOne
 No! Why...? My - my family! Please, no!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunZombiesRaisedOne.ogg]]
-
-#### JunZombiesRaisedTwo
+## JunZombiesRaisedTwo
 No more games, Catarina. I'm going to kill you.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunZombiesRaisedTwo.ogg]]
-
-#### JunZombiesRaisedThree
+## JunZombiesRaisedThree
 We can't let her escape!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunZombiesRaisedThree.ogg]]
-
-#### JunCatarinaGauntletOne
+## JunCatarinaGauntletOne
 Ignore her, exile. We need to get closer. We need to stop her!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunCatarinaGauntletOne.ogg]]
-
-#### JunCatarinaGauntletTwo
+## JunCatarinaGauntletTwo
 I would rather die than join her.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunCatarinaGauntletTwo.ogg]]
-
-#### JunCatarinaEncounterTwo
+## JunCatarinaEncounterTwo
 I wouldn't be here if I didn't.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunCatarinaEncounterTwo.ogg]]
-
-#### JunCatarinaEncounterPOne
+## JunCatarinaEncounterPOne
 You're no immortal. You're a thief. Nothing more.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunCatarinaEncounterPOne.ogg]]
-
-#### JunCatarinaEncounterPTwo
+## JunCatarinaEncounterPTwo
 We must persevere! Too much hinges on this!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunCatarinaEncounterPTwo.ogg]]
-
-#### JunCatarinaEncounterPThree
+## JunCatarinaEncounterPThree
 My cause fuels me!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunCatarinaEncounterPThree.ogg]]
-
-#### JunCatarinaEncounterPFour
+## JunCatarinaEncounterPFour
 Then come, take it from me.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunCatarinaEncounterPFour.ogg]]
-
-#### JunOnKillingCatarinaOne
+## JunOnKillingCatarinaOne
 Shut up.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOnKillingCatarinaOne.ogg]]
-
-#### JunOnKillingCatarinaTwo
+## JunOnKillingCatarinaTwo
 They wouldn't want that... not if it took the life of another.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOnKillingCatarinaTwo.ogg]]
-
-#### JunOnKillingCatarinaThree
+## JunOnKillingCatarinaThree
 No deal.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunOnKillingCatarinaThree.ogg]]
-
-#### Catarina_2
+## Catarina_2
 Then... it is done. Catarina is dead. The Syndicate is fractured. My {akhara} can at last find peace. The road to justice is long and bloody, exile, and is best travelled with friends. I am glad we travelled this road together. From the bottom of my heart... for all that you've done... thank you.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Catarina_2.ogg]]
-
-#### Introduction
+## Introduction
 I am Jun Ortoi, of the sun-scorched plains of Vastiri. I am investigating the disappearance of several prominent exiles. I have surreptitiously been observing your movements for some time. The way you slew the monster beneath this mountain tells me you are suitable for what I must ask of you. Wraeclast is lawless, but it is not without justice, and some here are more deserving of death than others. The missing were good people. Capable fighters doing what they could to bring light to a situation mired in darkness. I believe they were taken by a group calling themselves the Immortal Syndicate, and I fear they will not be the last.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - Introduction.ogg]]
-
-#### The Immortal Syndicate_3
+## The Immortal Syndicate_3
 Scattered across the plains and mountains are small fortifications I believe to be Immortal Syndicate outposts. They have posted guards along their perimeters, so we must be cautious. Seek one out. I will meet you there, and together we will infiltrate it.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - The Immortal Syndicate_3.ogg]]
-
-#### JunPetarusAndVanja
+## JunPetarusAndVanja
 I am not overly fond of relic hunters. Some things should stay buried.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunPetarusAndVanja.ogg]]
-
-#### JunSiegeHealersRandom
+## JunSiegeHealersRandom
 Something is healing them!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunSiegeHealersRandom.ogg]]
-
-#### JunSiegeHealersThree
+## JunSiegeHealersThree
 We must destroy whatever is healing them!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunSiegeHealersThree.ogg]]
-
-#### JunSiegeHealersSix
+## JunSiegeHealersSix
 Destroy the source of the healing, exile!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunSiegeHealersSix.ogg]]
-
-#### JunUndergroundLabHintRandom
+## JunUndergroundLabHintRandom
 We must hurry! They're destroying vital evidence!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunUndergroundLabHintRandom.ogg]]
-
-#### JunUndergroundLabHintThree
+## JunUndergroundLabHintThree
 Quickly, we must stop them from destroying evidence!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JunUndergroundLabHintThree.ogg]]
-
-#### The Syndicate Leader_2
+## The Syndicate Leader_2
 The picture is at last clear. Catarina has obtained an artefact capable of shifting the very energies of life freely. She sought power, not just magical, but political power. To be able to grant immortality is a powerful bargaining tool indeed. Wraeclast is fractured. Many little societies separated by vast tracts of land. But it will not always be so, and Catarina knows this. She is playing the long game. She sees herself as an immortal Queen just biding her time. Her subordinates dare not cross her, for she has the power to gift them immortality, but also to take it away. She is a tyrant in the making, and the longer we let her accumulate power, the harder it will be to depose her.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - The Syndicate Leader_2.ogg]]
-
-#### JorginPrimaryDefenderStartsFightEighteen
+## JorginPrimaryDefenderStartsFightEighteen
 Watch yourself exile... this one's feral.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JorginPrimaryDefenderStartsFightEighteen.ogg]]
-
-#### JorginDefeatedEleven
+## JorginDefeatedEleven
 Where are your First Ones now, Ezomyte?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JorginDefeatedEleven.ogg]]
-
-#### JorginEscapeThree
+## JorginEscapeThree
 How brave, Thane. How brave.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JorginEscapeThree.ogg]]
-
-#### JorginInterrogatedThree
+## JorginInterrogatedThree
 I wonder how much more of an animal you will be when we're through...
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JorginInterrogatedThree.ogg]]
-
-#### JorginDefeatedTwelve
+## JorginDefeatedTwelve
 You're not the strongest here. We are. Tell us what we want to know.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JorginDefeatedTwelve.ogg]]
-
-#### JorginSecondaryDefenderArrivalThirtyOne
+## JorginSecondaryDefenderArrivalThirtyOne
 You are nothing but a wild animal, Thane.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JorginSecondaryDefenderArrivalThirtyOne.ogg]]
-
-#### JorginSecondaryDefenderArrivalThirtyTwo
+## JorginSecondaryDefenderArrivalThirtyTwo
 Ezomyte, test your strength against your own allies!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JorginSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### JorginReplyToSecondaryDefenderArrivalTwenty
+## JorginReplyToSecondaryDefenderArrivalTwenty
 Ezomyte, they don't care about your code!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JorginReplyToSecondaryDefenderArrivalTwenty.ogg]]
-
-#### JorginReplyToSecondaryDefenderArrivalTwentyOne
+## JorginReplyToSecondaryDefenderArrivalTwentyOne
 We'll take your test of strength, Ezomyte, and surpass you.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JorginReplyToSecondaryDefenderArrivalTwentyOne.ogg]]
-
-#### JorginReplyToSecondaryDefenderArrivalTwentyTwo
+## JorginReplyToSecondaryDefenderArrivalTwentyTwo
 It's not a true test of strength now, is it, Ezomyte?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JorginReplyToSecondaryDefenderArrivalTwentyTwo.ogg]]
-
-#### JorginReplyToBetrayalAcceptedSeven
+## JorginReplyToBetrayalAcceptedSeven
 Brave, Ezomyte. Brave and foolish.
-
-#### AislingPrimaryDefenderStartsFightEighteen
+## AislingPrimaryDefenderStartsFightEighteen
 Growing tired of dying yet? We're not growing tired of killing you.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - AislingPrimaryDefenderStartsFightEighteen.ogg]]
-
-#### AislingDefeatedEleven
+## AislingDefeatedEleven
 You're done, Aisling.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - AislingDefeatedEleven.ogg]]
-
-#### AislingInterrogatedThree
+## AislingInterrogatedThree
 Death's too kind for a monster like you.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - AislingInterrogatedThree.ogg]]
-
-#### AislingDefeatedTwelve
+## AislingDefeatedTwelve
 Your reign of terror's over. Talk.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - AislingDefeatedTwelve.ogg]]
-
-#### AislingSecondaryDefenderArrivalThirtyTwo
+## AislingSecondaryDefenderArrivalThirtyTwo
 Have you no conscience, assassin?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - AislingSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### AislingSecondaryDefenderArrivalThirtyThree
+## AislingSecondaryDefenderArrivalThirtyThree
 Have you finally snapped, Aisling?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - AislingSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### AislingReplyToSecondaryDefenderArrivalTwenty
+## AislingReplyToSecondaryDefenderArrivalTwenty
 I can't say you don't deserve this, Aisling.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - AislingReplyToSecondaryDefenderArrivalTwenty.ogg]]
-
-#### AislingReplyToSecondaryDefenderArrivalTwentyOne
+## AislingReplyToSecondaryDefenderArrivalTwentyOne
 Aisling, keep your corpse-art far from us!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - AislingReplyToSecondaryDefenderArrivalTwentyOne.ogg]]
-
-#### AislingReplyToSecondaryDefenderArrivalTwentyTwo
+## AislingReplyToSecondaryDefenderArrivalTwentyTwo
 Why do you put up with this coddling, Aisling?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - AislingReplyToSecondaryDefenderArrivalTwentyTwo.ogg]]
-
-#### AislingReplyToBetrayalAcceptedSeven
+## AislingReplyToBetrayalAcceptedSeven
 You're a monster, Aisling, but at least you're not a fool as well.
-
-#### CameriaPrimaryDefenderStartsFightEighteen
+## CameriaPrimaryDefenderStartsFightEighteen
 Beware, the ogre has new tricks.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - CameriaPrimaryDefenderStartsFightEighteen.ogg]]
-
-#### CameriaDefeatedEleven
+## CameriaDefeatedEleven
 See? Even nightmares may be defeated.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - CameriaDefeatedEleven.ogg]]
-
-#### CameriaInterrogatedThree
+## CameriaInterrogatedThree
 A big tough man like you should be fine in solitary, Cameria.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - CameriaInterrogatedThree.ogg]]
-
-#### CameriaEscapeThree
+## CameriaEscapeThree
 Run away, scared little child. We'll get him next time...
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - CameriaEscapeThree.ogg]]
-
-#### CameriaSecondaryDefenderArrivalThirtyTwo
+## CameriaSecondaryDefenderArrivalThirtyTwo
 One as cruel as you does not deserve to breathe, Cameria.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - CameriaSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### CameriaSecondaryDefenderArrivalThirtyThree
+## CameriaSecondaryDefenderArrivalThirtyThree
 Dismember indiscriminately, ogre!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - CameriaSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### CameriaReplyToSecondaryDefenderArrivalTwenty
+## CameriaReplyToSecondaryDefenderArrivalTwenty
 Some beasts should be betrayed.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - CameriaReplyToSecondaryDefenderArrivalTwenty.ogg]]
-
-#### CameriaReplyToSecondaryDefenderArrivalTwentyOne
+## CameriaReplyToSecondaryDefenderArrivalTwentyOne
 This battlefield is about to get bloodier.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - CameriaReplyToSecondaryDefenderArrivalTwentyOne.ogg]]
-
-#### CameriaReplyToSecondaryDefenderArrivalTwentyTwo
+## CameriaReplyToSecondaryDefenderArrivalTwentyTwo
 The Syndicate's trying to restrain your baser impulses, ogre.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - CameriaReplyToSecondaryDefenderArrivalTwentyTwo.ogg]]
-
-#### CameriaReplyToBetrayalAcceptedSeven
+## CameriaReplyToBetrayalAcceptedSeven
 You can go, ogre. Your past will catch up to you soon enough.
-
-#### LeoPrimaryDefenderStartsFightEighteen
+## LeoPrimaryDefenderStartsFightEighteen
 You must miss the cell, gladiator.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - LeoPrimaryDefenderStartsFightEighteen.ogg]]
-
-#### LeoDefeatedEleven
+## LeoDefeatedEleven
 Talk, or else I will make you talk.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - LeoDefeatedEleven.ogg]]
-
-#### LeoEscapeThree
+## LeoEscapeThree
 Go on then, coward. Run away.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - LeoEscapeThree.ogg]]
-
-#### LeoInterrogatedThree
+## LeoInterrogatedThree
 You fight well in a cage. Let's see how you live in one.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - LeoInterrogatedThree.ogg]]
-
-#### LeoDefeatedTwelve
+## LeoDefeatedTwelve
 It's over, Leo. Where's the Lifegiver?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - LeoDefeatedTwelve.ogg]]
-
-#### LeoSecondaryDefenderArrivalThirtyTwo
+## LeoSecondaryDefenderArrivalThirtyTwo
 Gladiator, where do your loyalties truly lie?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - LeoSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### LeoReplyToSecondaryDefenderArrivalNine
+## LeoReplyToSecondaryDefenderArrivalNine
 You should be leading the Syndicate, arena master!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - LeoReplyToSecondaryDefenderArrivalNine.ogg]]
-
-#### LeoReplyToSecondaryDefenderArrivalTen
+## LeoReplyToSecondaryDefenderArrivalTen
 No respect, gladiator. Not from them.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - LeoReplyToSecondaryDefenderArrivalTen.ogg]]
-
-#### LeoReplyToSecondaryDefenderArrivalEleven
+## LeoReplyToSecondaryDefenderArrivalEleven
 Arena master, why do you step into the fight yourself?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - LeoReplyToSecondaryDefenderArrivalEleven.ogg]]
-
-#### LeoSecondaryDefenderArrivalThirtyThree
+## LeoSecondaryDefenderArrivalThirtyThree
 Leo. You used to fight with honour.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - LeoSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### LeoReplyToBetrayalAcceptedEight
+## LeoReplyToBetrayalAcceptedEight
 Not every conflict must end with death, gladiator.
-
-#### ElreonPrimaryDefenderStartsFightFifteen
+## ElreonPrimaryDefenderStartsFightFifteen
 Others say you've long helped this land, holy man. Why turn your back on it now?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ElreonPrimaryDefenderStartsFightFifteen.ogg]]
-
-#### ElreonEscapeThree
+## ElreonEscapeThree
 I underestimated Elreon. That won't happen again.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ElreonEscapeThree.ogg]]
-
-#### ElreonDefeatedEleven
+## ElreonDefeatedEleven
 I'm sorry, holy man, but you've chosen the wrong crusade.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ElreonDefeatedEleven.ogg]]
-
-#### ElreonBargainAcceptedSix
+## ElreonBargainAcceptedSix
 Better a deal than having to kill you, old man.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ElreonBargainAcceptedSix.ogg]]
-
-#### ElreonInterrogatedThree
+## ElreonInterrogatedThree
 I will not be too hard on him, Exile... as long as he talks.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ElreonInterrogatedThree.ogg]]
-
-#### ElreonSecondaryDefenderArrivalThirtyTwo
+## ElreonSecondaryDefenderArrivalThirtyTwo
 Elreon, have you become so blind to the light?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ElreonSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### ElreonSecondaryDefenderArrivalThirtyThree
+## ElreonSecondaryDefenderArrivalThirtyThree
 Did your God send you to us, holy man?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ElreonSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### ElreonReplyToSecondaryDefenderArrivalTen
+## ElreonReplyToSecondaryDefenderArrivalTen
 You're too good for the Syndicate, holy man.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ElreonReplyToSecondaryDefenderArrivalTen.ogg]]
-
-#### ElreonReplyToSecondaryDefenderArrivalEleven
+## ElreonReplyToSecondaryDefenderArrivalEleven
 Be careful! The crusader fights with conviction!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ElreonReplyToSecondaryDefenderArrivalEleven.ogg]]
-
-#### ElreonReplyToSecondaryDefenderArrivalTwelve
+## ElreonReplyToSecondaryDefenderArrivalTwelve
 They're keeping a close eye on you, holy man.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ElreonReplyToSecondaryDefenderArrivalTwelve.ogg]]
-
-#### ToraPrimaryDefenderStartsFightFifteen
+## ToraPrimaryDefenderStartsFightFifteen
 Deadly and swift, like a wild and beautiful animal.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ToraPrimaryDefenderStartsFightFifteen.ogg]]
-
-#### ToraEscapeThree
+## ToraEscapeThree
 I'm sorry, Exile, I got distracted...
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ToraEscapeThree.ogg]]
-
-#### ToraDefeatedEleven
+## ToraDefeatedEleven
 You forced us down this path, Tora.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ToraDefeatedEleven.ogg]]
-
-#### ToraBargainAcceptedSix
+## ToraBargainAcceptedSix
 I'm glad we could come to an understanding.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ToraBargainAcceptedSix.ogg]]
-
-#### ToraInterrogatedThree
+## ToraInterrogatedThree
 This one will be difficult to tame.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ToraInterrogatedThree.ogg]]
-
-#### ToraSecondaryDefenderArrivalThirtyTwo
+## ToraSecondaryDefenderArrivalThirtyTwo
 Tora, this is not natural! Don't you see?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ToraSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### ToraSecondaryDefenderArrivalThirtyThree
+## ToraSecondaryDefenderArrivalThirtyThree
 Have you chosen to follow your own path once more, Tora?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ToraSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### ToraReplyToSecondaryDefenderArrivalTwelve
+## ToraReplyToSecondaryDefenderArrivalTwelve
 Tora, why are you working with them and not us?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ToraReplyToSecondaryDefenderArrivalTwelve.ogg]]
-
-#### ToraReplyToSecondaryDefenderArrivalThirteen
+## ToraReplyToSecondaryDefenderArrivalThirteen
 How can you take orders from them, Tora?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - ToraReplyToSecondaryDefenderArrivalThirteen.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightFifteen
+## VoriciPrimaryDefenderStartsFightFifteen
 You picked the wrong job, assassin.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VoriciPrimaryDefenderStartsFightFifteen.ogg]]
-
-#### VoriciReplyToExecutionThree
+## VoriciReplyToExecutionThree
 What's wrong Vorici? This is what you do.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VoriciReplyToExecutionThree.ogg]]
-
-#### VoriciDefeatedEleven
+## VoriciDefeatedEleven
 Too easy, assassin.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VoriciDefeatedEleven.ogg]]
-
-#### VoriciDefeatedTwelve
+## VoriciDefeatedTwelve
 You've lost. Time to speak, silent brother.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VoriciDefeatedTwelve.ogg]]
-
-#### VoriciInterrogatedThree
+## VoriciInterrogatedThree
 You should have no trouble in that dark little cage, assassin.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VoriciInterrogatedThree.ogg]]
-
-#### VoriciSecondaryDefenderArrivalThirtyTwo
+## VoriciSecondaryDefenderArrivalThirtyTwo
 Dishonourable, I'd expect nothing less from you Vorici.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VoriciSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### VoriciSecondaryDefenderArrivalThirtyThree
+## VoriciSecondaryDefenderArrivalThirtyThree
 You're so skilled at murder, assassin. Why limit yourself?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VoriciSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### VoriciReplyToSecondaryDefenderArrivalTen
+## VoriciReplyToSecondaryDefenderArrivalTen
 An assassin betrayed by his masters. Inevitable.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VoriciReplyToSecondaryDefenderArrivalTen.ogg]]
-
-#### VoriciReplyToSecondaryDefenderArrivalEleven
+## VoriciReplyToSecondaryDefenderArrivalEleven
 What kind of cowardice is this, assassin?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VoriciReplyToSecondaryDefenderArrivalEleven.ogg]]
-
-#### VoriciReplyToSecondaryDefenderArrivalTwelve
+## VoriciReplyToSecondaryDefenderArrivalTwelve
 Eyes sharp! Assassin on the scene!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - VoriciReplyToSecondaryDefenderArrivalTwelve.ogg]]
-
-#### GuffPrimaryDefenderStartsFightFifteen
+## GuffPrimaryDefenderStartsFightFifteen
 Brinerot! Dead ahead!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GuffPrimaryDefenderStartsFightFifteen.ogg]]
-
-#### GuffPrimaryDefenderStartsFightSixteen
+## GuffPrimaryDefenderStartsFightSixteen
 You Brinerots are as stupid as they say, aren't you?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GuffPrimaryDefenderStartsFightSixteen.ogg]]
-
-#### GuffDefeatedEleven
+## GuffDefeatedEleven
 Fun's over, Brinerot.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GuffDefeatedEleven.ogg]]
-
-#### GuffBargainAcceptedSix
+## GuffBargainAcceptedSix
 Keep your word, or lose your head.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GuffBargainAcceptedSix.ogg]]
-
-#### GuffInterrogatedThree
+## GuffInterrogatedThree
 Know where you're going? I believe you know it as the brig.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GuffInterrogatedThree.ogg]]
-
-#### GuffSecondaryDefenderArrivalThirtyTwo
+## GuffSecondaryDefenderArrivalThirtyTwo
 Brinerot, show the Syndicate you're still your own man!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GuffSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### GuffSecondaryDefenderArrivalThirtyThree
+## GuffSecondaryDefenderArrivalThirtyThree
 Villainous scoundrel. Slink back to the seas, Brinerot.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GuffSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### GuffReplyToSecondaryDefenderArrivalNine
+## GuffReplyToSecondaryDefenderArrivalNine
 Brinerot, you've been betrayed!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GuffReplyToSecondaryDefenderArrivalNine.ogg]]
-
-#### GuffReplyToSecondaryDefenderArrivalTen
+## GuffReplyToSecondaryDefenderArrivalTen
 Since when does a Brinerot accept help?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GuffReplyToSecondaryDefenderArrivalTen.ogg]]
-
-#### GuffReplyToSecondaryDefenderArrivalEleven
+## GuffReplyToSecondaryDefenderArrivalEleven
 You dare face us head on, Brinerot?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GuffReplyToSecondaryDefenderArrivalEleven.ogg]]
-
-#### JanusPrimaryDefenderStartsFightFifteen
+## JanusPrimaryDefenderStartsFightFifteen
 At last, a chance to drive a sword through that Perandus skull.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JanusPrimaryDefenderStartsFightFifteen.ogg]]
-
-#### JanusDefeatedEleven
+## JanusDefeatedEleven
 In the dirt, worm.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JanusDefeatedEleven.ogg]]
-
-#### JanusDefeatedTwelve
+## JanusDefeatedTwelve
 Beg for your life, Perandus.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JanusDefeatedTwelve.ogg]]
-
-#### JanusBargainAcceptedSix
+## JanusBargainAcceptedSix
 I'm going to kill you Janus... Just not yet.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JanusBargainAcceptedSix.ogg]]
-
-#### JanusInterrogatedThree
+## JanusInterrogatedThree
 Rot in that cage, bastard.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JanusInterrogatedThree.ogg]]
-
-#### JanusSecondaryDefenderArrivalThirtyTwo
+## JanusSecondaryDefenderArrivalThirtyTwo
 A vile devil of lies and greed betrays his own.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JanusSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### JanusSecondaryDefenderArrivalThirtyThree
+## JanusSecondaryDefenderArrivalThirtyThree
 Janus... You-... You-...! You are going to pay for what you did to my- to OUR family.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JanusSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### JanusReplyToSecondaryDefenderArrivalTen
+## JanusReplyToSecondaryDefenderArrivalTen
 Nothing you don't deserve, Janus.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JanusReplyToSecondaryDefenderArrivalTen.ogg]]
-
-#### JanusReplyToSecondaryDefenderArrivalEleven
+## JanusReplyToSecondaryDefenderArrivalEleven
 Be careful how you help Janus... He may stab you in the back too.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JanusReplyToSecondaryDefenderArrivalEleven.ogg]]
-
-#### JanusReplyToSecondaryDefenderArrivalTwelve
+## JanusReplyToSecondaryDefenderArrivalTwelve
 Janus! I'm going to enjoy killing you.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - JanusReplyToSecondaryDefenderArrivalTwelve.ogg]]
-
-#### HillockPrimaryDefenderStartsFightFifteen
+## HillockPrimaryDefenderStartsFightFifteen
 You'll need more than brawn to best us, brute!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HillockPrimaryDefenderStartsFightFifteen.ogg]]
-
-#### HillockEscape0Three
+## HillockEscape0Three
 How did we lose to that bowl of rocks on a body?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HillockEscape0Three.ogg]]
-
-#### HillockDefeatedTwelve
+## HillockDefeatedTwelve
 Brains over brawn, every time.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HillockDefeatedTwelve.ogg]]
-
-#### HillockBargainAcceptedSix
+## HillockBargainAcceptedSix
 You surprise me, Hillock.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HillockBargainAcceptedSix.ogg]]
-
-#### HillockInterrogatedThree
+## HillockInterrogatedThree
 I hope this one can tell us something!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HillockInterrogatedThree.ogg]]
-
-#### HillockSecondaryDefenderArrivalThirtyTwo
+## HillockSecondaryDefenderArrivalThirtyTwo
 Brute, wouldn't it be more fun to bash everyone?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HillockSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### HillockSecondaryDefenderArrivalThirtyThree
+## HillockSecondaryDefenderArrivalThirtyThree
 You should have stayed dead, brute.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HillockSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### HillockReplyToSecondaryDefenderArrivalTen
+## HillockReplyToSecondaryDefenderArrivalTen
 The brute clearly doesn't care.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HillockReplyToSecondaryDefenderArrivalTen.ogg]]
-
-#### HillockReplyToSecondaryDefenderArrivalEleven
+## HillockReplyToSecondaryDefenderArrivalEleven
 A brute with backup is twice as fearsome.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HillockReplyToSecondaryDefenderArrivalEleven.ogg]]
-
-#### HillockReplyToSecondaryDefenderArrivalTwelve
+## HillockReplyToSecondaryDefenderArrivalTwelve
 Brute, you take on more than you can handle.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - HillockReplyToSecondaryDefenderArrivalTwelve.ogg]]
-
-#### GraviciusPrimaryDefenderStartsFightSixteen
+## GraviciusPrimaryDefenderStartsFightSixteen
 Has failure taught you nothing, General?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GraviciusPrimaryDefenderStartsFightSixteen.ogg]]
-
-#### GraviciusReplyToExecutionThree
+## GraviciusReplyToExecutionThree
 Last chance, General...
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GraviciusReplyToExecutionThree.ogg]]
-
-#### GraviciusDefeatedTwelve
+## GraviciusDefeatedTwelve
 On your knees, General.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GraviciusDefeatedTwelve.ogg]]
-
-#### GraviciusBargainAcceptedSix
+## GraviciusBargainAcceptedSix
 A truce... for now.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GraviciusBargainAcceptedSix.ogg]]
-
-#### GraviciusInterrogatedThree
+## GraviciusInterrogatedThree
 I will enjoy watching you break, Gravicius.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GraviciusInterrogatedThree.ogg]]
-
-#### GraviciusSecondaryDefenderArrivalThirtyTwo
+## GraviciusSecondaryDefenderArrivalThirtyTwo
 The General is a renowned monster. This is no surprise.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GraviciusSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### GraviciusSecondaryDefenderArrivalThirtyThree
+## GraviciusSecondaryDefenderArrivalThirtyThree
 Has death taught you nothing, General?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GraviciusSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### GraviciusReplyToSecondaryDefenderArrivalEleven
+## GraviciusReplyToSecondaryDefenderArrivalEleven
 Good, yes, good. Turn against the General.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GraviciusReplyToSecondaryDefenderArrivalEleven.ogg]]
-
-#### GraviciusReplyToSecondaryDefenderArrivalTwelve
+## GraviciusReplyToSecondaryDefenderArrivalTwelve
 The little General needs aid, does he?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GraviciusReplyToSecondaryDefenderArrivalTwelve.ogg]]
-
-#### GraviciusReplyToSecondaryDefenderArrivalThirteen
+## GraviciusReplyToSecondaryDefenderArrivalThirteen
 Exile, take out the General before he can rally these fools to order!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - GraviciusReplyToSecondaryDefenderArrivalThirteen.ogg]]
-
-#### RikerPrimaryDefenderStartsFightSeventeen
+## RikerPrimaryDefenderStartsFightSeventeen
 Do I know you? You wear a mask, but your eyes...
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RikerPrimaryDefenderStartsFightSeventeen.ogg]]
-
-#### RikerEscapeThree
+## RikerEscapeThree
 He planned for this. He expected our interference!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RikerEscapeThree.ogg]]
-
-#### RikerDefeatedEleven
+## RikerDefeatedEleven
 Leave the mask on. I don't care who he is.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RikerDefeatedEleven.ogg]]
-
-#### RikerBargainAcceptedSix
+## RikerBargainAcceptedSix
 Somehow, trusting this 'Riker Maloney' feels like a mistake... but I see no better option right now.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RikerBargainAcceptedSix.ogg]]
-
-#### RikerInterrogatedThree
+## RikerInterrogatedThree
 You may despise the machine, rogue, but you'll hate my prison even more.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RikerInterrogatedThree.ogg]]
-
-#### RikerSecondaryDefenderArrivalThirtyTwo
+## RikerSecondaryDefenderArrivalThirtyTwo
 Help us smash the machine you despise so much, rogue!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RikerSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### RikerSecondaryDefenderArrivalThirtyThree
+## RikerSecondaryDefenderArrivalThirtyThree
 Humanity has left you, Riker. What is left to fight for?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RikerSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### RikerReplyToSecondaryDefenderArrivalTen
+## RikerReplyToSecondaryDefenderArrivalTen
 You don't seem surprised, rogue.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RikerReplyToSecondaryDefenderArrivalTen.ogg]]
-
-#### RikerReplyToSecondaryDefenderArrivalEleven
+## RikerReplyToSecondaryDefenderArrivalEleven
 All part of your machinations, rogue?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RikerReplyToSecondaryDefenderArrivalEleven.ogg]]
-
-#### RikerReplyToSecondaryDefenderArrivalTwelve
+## RikerReplyToSecondaryDefenderArrivalTwelve
 The rogue eyes a new step in his plan. Let us disappoint him!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RikerReplyToSecondaryDefenderArrivalTwelve.ogg]]
-
-#### KorellPrimaryDefenderStartsFightSeventeen
+## KorellPrimaryDefenderStartsFightSeventeen
 Where there's smoke, there's a Redblade. Get ready.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - KorellPrimaryDefenderStartsFightSeventeen.ogg]]
-
-#### KorellDefeatedEleven
+## KorellDefeatedEleven
 Don't try anything stupid, Korell.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - KorellDefeatedEleven.ogg]]
-
-#### KorellDefeatedTwelve
+## KorellDefeatedTwelve
 Your fight's done, Redblade. Information. Now.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - KorellDefeatedTwelve.ogg]]
-
-#### KorellBargainAcceptedSix
+## KorellBargainAcceptedSix
 Not as dumb as you seem, Redblade.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - KorellBargainAcceptedSix.ogg]]
-
-#### KorellInterrogatedThree
+## KorellInterrogatedThree
 We'll let you smolder behind bars for a while.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - KorellInterrogatedThree.ogg]]
-
-#### KorellSecondaryDefenderArrivalThirtyTwo
+## KorellSecondaryDefenderArrivalThirtyTwo
 Redblade! Let your flames rage in every direction!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - KorellSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### KorellReplyToSecondaryDefenderArrivalNine
+## KorellReplyToSecondaryDefenderArrivalNine
 Burn them, Redblade. Set them aflame!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - KorellReplyToSecondaryDefenderArrivalNine.ogg]]
-
-#### KorellReplyToSecondaryDefenderArrivalTen
+## KorellReplyToSecondaryDefenderArrivalTen
 A Redblade sullies his pride by relying on numbers.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - KorellReplyToSecondaryDefenderArrivalTen.ogg]]
-
-#### KorellSecondaryDefenderArrivalThirtyThree
+## KorellSecondaryDefenderArrivalThirtyThree
 Go back to your volcano, Redblade!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - KorellSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### KorellSecondaryDefenderArrivalThirtyFour
+## KorellSecondaryDefenderArrivalThirtyFour
 There is no honour in this fight, Redblade. Turn back.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - KorellSecondaryDefenderArrivalThirtyFour.ogg]]
-
-#### RinPrimaryDefenderStartsFightFifteen
+## RinPrimaryDefenderStartsFightFifteen
 I spy a Mutewind! Careful, Exile.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RinPrimaryDefenderStartsFightFifteen.ogg]]
-
-#### RinPrimaryDefenderStartsFightSixteen
+## RinPrimaryDefenderStartsFightSixteen
 Your blood didn't look that pure to me last time, Mutewind.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RinPrimaryDefenderStartsFightSixteen.ogg]]
-
-#### RinDefeatedEleven
+## RinDefeatedEleven
 Pathetic. Stay, dog.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RinDefeatedEleven.ogg]]
-
-#### RinBargainAcceptedSix
+## RinBargainAcceptedSix
 Don't make us regret this, Mutewind.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RinBargainAcceptedSix.ogg]]
-
-#### RinInterrogatedThree
+## RinInterrogatedThree
 We'll get what we need from you one way or another, Rin.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RinInterrogatedThree.ogg]]
-
-#### RinSecondaryDefenderArrivalThirtyTwo
+## RinSecondaryDefenderArrivalThirtyTwo
 Are you skilled enough to take us all on, Rin?
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RinSecondaryDefenderArrivalThirtyTwo.ogg]]
-
-#### RinSecondaryDefenderArrivalThirtyThree
+## RinSecondaryDefenderArrivalThirtyThree
 You fight for a lie, Mutewind. Go home.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RinSecondaryDefenderArrivalThirtyThree.ogg]]
-
-#### RinReplyToSecondaryDefenderArrivalTen
+## RinReplyToSecondaryDefenderArrivalTen
 Rin, you're too cunning to fall for the Syndicate's lies!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RinReplyToSecondaryDefenderArrivalTen.ogg]]
-
-#### RinReplyToSecondaryDefenderArrivalEleven
+## RinReplyToSecondaryDefenderArrivalEleven
 Clever, Rin, very clever.
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RinReplyToSecondaryDefenderArrivalEleven.ogg]]
-
-#### RinReplyToSecondaryDefenderArrivalTwelve
+## RinReplyToSecondaryDefenderArrivalTwelve
 If Rin is here, she sees some advantage we don't expect!
 ![[Exiled Vault Dialogue/PoE1/J/Jun, Veiled Master/_Audio/Jun, Veiled Master - RinReplyToSecondaryDefenderArrivalTwelve.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

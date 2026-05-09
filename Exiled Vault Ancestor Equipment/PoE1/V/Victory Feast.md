@@ -1,12 +1,12 @@
-# Victory Feast
 [[Kitava Tribe]]
 "The Oriathans have generously provided us with a banquet!"
 
 #
 ![[KitavaCharm.webp]]
 
+#
 ---
-## Tags
+# Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

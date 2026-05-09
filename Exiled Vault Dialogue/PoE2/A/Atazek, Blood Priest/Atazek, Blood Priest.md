@@ -1,26 +1,18 @@
-# Atazek, Blood Priest
-
-## Dialogue
-#### Atazek_G3_16_On_Aggro
+## Atazek_G3_16_On_Aggro
 You shall make a worthy sacrifice!
-
-#### Atazek_G3_16_Buff_Counterpart
+## Atazek_G3_16_Buff_Counterpart
 Strength of blood!
-
-#### Atazek_G3_16_Blood_Drain
+## Atazek_G3_16_Blood_Drain
 Lend me your strength!
-
-#### Atazek_G3_16_Body_Swap
+## Atazek_G3_16_Body_Swap
 Sister!
-
-#### Atazek_G3_16_Raise_Elemental
+## Atazek_G3_16_Raise_Elemental
 Blood will have its revenge!
-
-#### Atazek_G3_16_Death
+## Atazek_G3_16_Death
 I shall live on...
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE2

@@ -1,48 +1,36 @@
-# Ormud, Fiend of the Flood
-
-## Dialogue
-#### OrmudIntroRandom
+## OrmudIntroRandom
 Drown in these sacred waters.
 ![[Exiled Vault Dialogue/PoE1/O/Ormud, Fiend of the Flood/_Audio/Ormud, Fiend of the Flood - OrmudIntroRandom.ogg]]
-
-#### OrmudIntro4
+## OrmudIntro4
 The pools welcome your bloated corpse.
 ![[Exiled Vault Dialogue/PoE1/O/Ormud, Fiend of the Flood/_Audio/Ormud, Fiend of the Flood - OrmudIntro4.ogg]]
-
-#### OrmudIntro7
+## OrmudIntro7
 Suffocate and drown!
 ![[Exiled Vault Dialogue/PoE1/O/Ormud, Fiend of the Flood/_Audio/Ormud, Fiend of the Flood - OrmudIntro7.ogg]]
-
-#### OrmudDeathRandom
+## OrmudDeathRandom
 I... will... return...
 ![[Exiled Vault Dialogue/PoE1/O/Ormud, Fiend of the Flood/_Audio/Ormud, Fiend of the Flood - OrmudDeathRandom.ogg]]
-
-#### OrmudDeath4
+## OrmudDeath4
 You only delay...
 ![[Exiled Vault Dialogue/PoE1/O/Ormud, Fiend of the Flood/_Audio/Ormud, Fiend of the Flood - OrmudDeath4.ogg]]
-
-#### OrmudDeath7
+## OrmudDeath7
 Death... cannot stop... me.
 ![[Exiled Vault Dialogue/PoE1/O/Ormud, Fiend of the Flood/_Audio/Ormud, Fiend of the Flood - OrmudDeath7.ogg]]
-
-#### OrmudRiseWatersRandom
+## OrmudRiseWatersRandom
 Rise, waters!
 ![[Exiled Vault Dialogue/PoE1/O/Ormud, Fiend of the Flood/_Audio/Ormud, Fiend of the Flood - OrmudRiseWatersRandom.ogg]]
-
-#### OrmudFloodAndCrashRandom
+## OrmudFloodAndCrashRandom
 Flood and crash!
 ![[Exiled Vault Dialogue/PoE1/O/Ormud, Fiend of the Flood/_Audio/Ormud, Fiend of the Flood - OrmudFloodAndCrashRandom.ogg]]
-
-#### OrmudSwirlingDeathRandom
+## OrmudSwirlingDeathRandom
 Swirling death!
 ![[Exiled Vault Dialogue/PoE1/O/Ormud, Fiend of the Flood/_Audio/Ormud, Fiend of the Flood - OrmudSwirlingDeathRandom.ogg]]
-
-#### OrmudWaterBurialRandom
+## OrmudWaterBurialRandom
 A water burial!
 ![[Exiled Vault Dialogue/PoE1/O/Ormud, Fiend of the Flood/_Audio/Ormud, Fiend of the Flood - OrmudWaterBurialRandom.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

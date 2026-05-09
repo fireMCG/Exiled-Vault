@@ -1,14 +1,10 @@
-# Mysterious Orders
-
-## Lore
-#### Mysterious Orders
+## Mysterious Orders
 We have focused our excavations under the Manor, but we would be remiss to ignore other clan sites in our search for corpses that retain what we need. We should investigate the blasphemous graveyard the Eternals built atop our burial mounds...
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Lore/Environmental
 #Attributes/IgnoreGraph
 #Society/Ezomyte
-#EnvironmentalLore
 #PoE2

@@ -1,13 +1,9 @@
-# Ancient Etchings V
-
-## Lore
-#### Ancient Etchings V
+## Ancient Etchings V
 They have started finding their way to me - some that imagine themselves grand heroes, some that are simply peasants to a lord, all in their time of greatest despair and need. I cannot help them, yet we talk, and they leave here with a new direction, ignorant of the cost they will pay. My latest conversation has given me much to think about. The problem is one of image; of a likeness cast by faith, of a reflection drawn by belief. What you need, my little thief, is a shattered mirror.
 ![[Exiled Vault Environmental Lore/PoE1/A/Ancient Etchings V/_Audio/Ancient Etchings V - Ancient Etchings V.ogg]]
 
-##
+#
 ---
-## Tags
+# Tags
 #Category/Lore/Environmental
-#EnvironmentalLore
 #PoE1

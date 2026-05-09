@@ -1,11 +1,8 @@
-# Ngakanu Tribesman
-
-## Dialogue
-#### Tavakai_PreFight_No
+## Tavakai_PreFight_No
 Tavakai... This is not the way!
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE2

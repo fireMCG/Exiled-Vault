@@ -3,7 +3,7 @@
 # Flavour Text
 Long ago, the ocean was a puddle where a golden fish dwelt,
 who lit the ocean from within and kept the water fresh.
-When the sky burned, the  fish dived deep,
+When the sky burned, the fish dived deep,
 never to return, and the waters turned sour.
 
 # Details
@@ -21,5 +21,4 @@ never to return, and the waters turned sour.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

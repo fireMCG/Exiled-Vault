@@ -1,52 +1,39 @@
-# Kadaris, Crimson Mayor
-
-## Dialogue
-#### KadarisIntroRandom
+## KadarisIntroRandom
 Another lawbreaker in our midst!
 ![[Exiled Vault Dialogue/PoE1/K/Kadaris, Crimson Mayor/_Audio/Kadaris, Crimson Mayor - KadarisIntroRandom.ogg]]
-
-#### KadarisIntro2
+## KadarisIntro2
 Trespasser!
 ![[Exiled Vault Dialogue/PoE1/K/Kadaris, Crimson Mayor/_Audio/Kadaris, Crimson Mayor - KadarisIntro2.ogg]]
-
-#### KadarisIntro3
+## KadarisIntro3
 An untapped source.
 ![[Exiled Vault Dialogue/PoE1/K/Kadaris, Crimson Mayor/_Audio/Kadaris, Crimson Mayor - KadarisIntro3.ogg]]
-
-#### KadarisIntro4
+## KadarisIntro4
 Blasphemer!
 ![[Exiled Vault Dialogue/PoE1/K/Kadaris, Crimson Mayor/_Audio/Kadaris, Crimson Mayor - KadarisIntro4.ogg]]
-
-#### KadarisIntro5
+## KadarisIntro5
 Immoral deviant!
 ![[Exiled Vault Dialogue/PoE1/K/Kadaris, Crimson Mayor/_Audio/Kadaris, Crimson Mayor - KadarisIntro5.ogg]]
-
-#### KadarisDeathRandom
+## KadarisDeathRandom
 Unlawful...
 ![[Exiled Vault Dialogue/PoE1/K/Kadaris, Crimson Mayor/_Audio/Kadaris, Crimson Mayor - KadarisDeathRandom.ogg]]
-
-#### KadarisDeath3
+## KadarisDeath3
 Meeting adjourned...
 ![[Exiled Vault Dialogue/PoE1/K/Kadaris, Crimson Mayor/_Audio/Kadaris, Crimson Mayor - KadarisDeath3.ogg]]
-
-#### KadarisDeath4
+## KadarisDeath4
 One with the crimson...
 ![[Exiled Vault Dialogue/PoE1/K/Kadaris, Crimson Mayor/_Audio/Kadaris, Crimson Mayor - KadarisDeath4.ogg]]
-
-#### KadarisCouncilRiseRandom
+## KadarisCouncilRiseRandom
 Council, rise!
 ![[Exiled Vault Dialogue/PoE1/K/Kadaris, Crimson Mayor/_Audio/Kadaris, Crimson Mayor - KadarisCouncilRiseRandom.ogg]]
-
-#### KadarisBloodIntoPainRandom
+## KadarisBloodIntoPainRandom
 Blood into pain!
 ![[Exiled Vault Dialogue/PoE1/K/Kadaris, Crimson Mayor/_Audio/Kadaris, Crimson Mayor - KadarisBloodIntoPainRandom.ogg]]
-
-#### KadarisHeartQuickensRandom
+## KadarisHeartQuickensRandom
 Your heart quickens!
 ![[Exiled Vault Dialogue/PoE1/K/Kadaris, Crimson Mayor/_Audio/Kadaris, Crimson Mayor - KadarisHeartQuickensRandom.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

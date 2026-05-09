@@ -1,476 +1,357 @@
-# Vorici, Silent Brother
-
-## Dialogue
-#### VoriciPrimaryDefenderStartsFightZero
+## VoriciPrimaryDefenderStartsFightZero
 Another malcontent with a death wish... so be it.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightZero.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightOne
+## VoriciPrimaryDefenderStartsFightOne
 It seems you possess bravery and foolishness in equal abundance.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightOne.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightTwo
+## VoriciPrimaryDefenderStartsFightTwo
 You are becoming a nuisance.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightTwo.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightThree
+## VoriciPrimaryDefenderStartsFightThree
 You're early! No matter... loose threads must be severed.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightThree.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightFour
+## VoriciPrimaryDefenderStartsFightFour
 We do not tolerate selfish malcontents.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightFour.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightFive
+## VoriciPrimaryDefenderStartsFightFive
 Don't worry, Exile, I won't submit you to the same humiliation of imprisonment. A quick death will do.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightFive.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightSix
+## VoriciPrimaryDefenderStartsFightSix
 Did you forget our deal so quickly, Exile? How disappointing.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightSix.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightSeven
+## VoriciPrimaryDefenderStartsFightSeven
 My conscience is still bloodied, malcontent. Soon my weapons will match.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightSeven.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightEight
+## VoriciPrimaryDefenderStartsFightEight
 I have experienced enough death. I believe I'd rather stay here.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightEight.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightNine
+## VoriciPrimaryDefenderStartsFightNine
 I knew you were a fool, but you continue to disappoint.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightNine.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightTen
+## VoriciPrimaryDefenderStartsFightTen
 I will answer the pain you inflicted tenfold!
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightTen.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightEleven
+## VoriciPrimaryDefenderStartsFightEleven
 I see energy swimming within you. I will cut it free.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightEleven.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightTwelve
+## VoriciPrimaryDefenderStartsFightTwelve
 I've returned from the void. I brought a piece back with me.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightTwelve.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightThirteen
+## VoriciPrimaryDefenderStartsFightThirteen
 I live once more. Does madness yet grip your mind?
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightThirteen.ogg]]
-
-#### VoriciPrimaryDefenderStartsFightFourteen
+## VoriciPrimaryDefenderStartsFightFourteen
 The stench of death... you'll reek of it soon enough.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciPrimaryDefenderStartsFightFourteen.ogg]]
-
-#### VoriciSafehouseLeaderIntroZero
+## VoriciSafehouseLeaderIntroZero
 You have become tangled in our tapestry, Exile. Time to cut you free.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSafehouseLeaderIntroZero.ogg]]
-
-#### VoriciSecondaryDefenderArrivalZero
+## VoriciSecondaryDefenderArrivalZero
 You can't weave a tapestry with just one thread.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalZero.ogg]]
-
-#### VoriciSecondaryDefenderArrivalOne
+## VoriciSecondaryDefenderArrivalOne
 We can't let our cargo fall into the hands of a malcontent.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalOne.ogg]]
-
-#### VoriciSecondaryDefenderArrivalTwo
+## VoriciSecondaryDefenderArrivalTwo
 No loose threads.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalTwo.ogg]]
-
-#### VoriciSecondaryDefenderArrivalThree
+## VoriciSecondaryDefenderArrivalThree
 Let's keep this professional. Quick and clean.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalThree.ogg]]
-
-#### VoriciSecondaryDefenderArrivalFour
+## VoriciSecondaryDefenderArrivalFour
 Need to keep the skills sharp. It's nothing personal.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalFour.ogg]]
-
-#### VoriciSecondaryDefenderArrivalFive
+## VoriciSecondaryDefenderArrivalFive
 Show me the might of those Ancestors you won't shut up about.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalFive.ogg]]
-
-#### VoriciSecondaryDefenderArrivalSix
+## VoriciSecondaryDefenderArrivalSix
 You might be uncouth and unclean, Tora, but I like the way you hunt.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalSix.ogg]]
-
-#### VoriciSecondaryDefenderArrivalSeven
+## VoriciSecondaryDefenderArrivalSeven
 Vagan, show some civility. Kill them quickly.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalSeven.ogg]]
-
-#### VoriciSecondaryDefenderArrivalEight
+## VoriciSecondaryDefenderArrivalEight
 I've half a mind to slay you myself, Gravicius - but not today.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalEight.ogg]]
-
-#### VoriciSecondaryDefenderArrivalNine
+## VoriciSecondaryDefenderArrivalNine
 Show me what you're capable of, Aisling.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalNine.ogg]]
-
-#### VoriciSecondaryDefenderArrivalTen
+## VoriciSecondaryDefenderArrivalTen
 Let's kill this selfish malcontent.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalTen.ogg]]
-
-#### VoriciSecondaryDefenderArrivalEleven
+## VoriciSecondaryDefenderArrivalEleven
 Did you think it would be that simple, Exile?
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalEleven.ogg]]
-
-#### VoriciSecondaryDefenderArrivalTwelve
+## VoriciSecondaryDefenderArrivalTwelve
 All my loose threads boxed in. How convenient.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalTwelve.ogg]]
-
-#### VoriciSecondaryDefenderArrivalThirteen
+## VoriciSecondaryDefenderArrivalThirteen
 Bad apples must be plucked and disposed of.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalThirteen.ogg]]
-
-#### VoriciSecondaryDefenderArrivalFourteen
+## VoriciSecondaryDefenderArrivalFourteen
 My, my, what a mess this is. You know I hate a mess.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalFourteen.ogg]]
-
-#### VoriciSecondaryDefenderArrivalFifteen
+## VoriciSecondaryDefenderArrivalFifteen
 No. Loose. Threads.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalFifteen.ogg]]
-
-#### VoriciSecondaryDefenderArrivalSixteen
+## VoriciSecondaryDefenderArrivalSixteen
 If it's any consolation, Leo, I don't expect you to die without a fight.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalSixteen.ogg]]
-
-#### VoriciSecondaryDefenderArrivalSeventeen
+## VoriciSecondaryDefenderArrivalSeventeen
 Your faith-blind eyes have deceived you, old man. Don't worry, I'll pluck them out for you.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalSeventeen.ogg]]
-
-#### VoriciSecondaryDefenderArrivalEighteen
+## VoriciSecondaryDefenderArrivalEighteen
 Consider this the Brotherhood collecting on an old debt, Perandus.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalEighteen.ogg]]
-
-#### VoriciSecondaryDefenderArrivalNineteen
+## VoriciSecondaryDefenderArrivalNineteen
 Please beg for your life, Gravicius, so that I can have the pleasure of refusing you.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalNineteen.ogg]]
-
-#### VoriciSecondaryDefenderArrivalTwenty
+## VoriciSecondaryDefenderArrivalTwenty
 You make a mockery of man's finest moment, Aisling. The dead deserve respect.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalTwenty.ogg]]
-
-#### VoriciSecondaryDefenderArrivalTwentyOne
+## VoriciSecondaryDefenderArrivalTwentyOne
 How fortunate, all my loose threads in one place!
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalTwentyOne.ogg]]
-
-#### VoriciReplyToSecondaryDefenderArrivalZero
+## VoriciReplyToSecondaryDefenderArrivalZero
 You selfish malcontent.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToSecondaryDefenderArrivalZero.ogg]]
-
-#### VoriciReplyToSecondaryDefenderArrivalOne
+## VoriciReplyToSecondaryDefenderArrivalOne
 You're late. You know how I hate tardiness.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToSecondaryDefenderArrivalOne.ogg]]
-
-#### VoriciReplyToSecondaryDefenderArrivalTwo
+## VoriciReplyToSecondaryDefenderArrivalTwo
 Another loose thread needing to be snipped.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToSecondaryDefenderArrivalTwo.ogg]]
-
-#### VoriciReplyToSecondaryDefenderArrivalThree
+## VoriciReplyToSecondaryDefenderArrivalThree
 You were next on my list anyway.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToSecondaryDefenderArrivalThree.ogg]]
-
-#### VoriciReplyToSecondaryDefenderArrivalFour
+## VoriciReplyToSecondaryDefenderArrivalFour
 Fair? I'd have to give you one of my arms for this to be fair.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToSecondaryDefenderArrivalFour.ogg]]
-
-#### VoriciReplyToSecondaryDefenderArrivalFive
+## VoriciReplyToSecondaryDefenderArrivalFive
 I think I'll pass.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToSecondaryDefenderArrivalFive.ogg]]
-
-#### VoriciReplyToSecondaryDefenderArrivalSix
+## VoriciReplyToSecondaryDefenderArrivalSix
 What's more natural than the cycle of life and death? I'm just helping things along.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToSecondaryDefenderArrivalSix.ogg]]
-
-#### VoriciReplyToSecondaryDefenderArrivalSeven
+## VoriciReplyToSecondaryDefenderArrivalSeven
 I told you to stop calling me that. Now I'll make you stop.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToSecondaryDefenderArrivalSeven.ogg]]
-
-#### VoriciReplyToSecondaryDefenderArrivalEight
+## VoriciReplyToSecondaryDefenderArrivalEight
 Oh, death's not my weapon, General. It's my closest ally. Allow me to introduce you!
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToSecondaryDefenderArrivalEight.ogg]]
-
-#### VoriciReplyToSecondaryDefenderArrivalNine
+## VoriciReplyToSecondaryDefenderArrivalNine
 You'll find me a most disagreeable mark.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToSecondaryDefenderArrivalNine.ogg]]
-
-#### VoriciSecondaryDefenderArrivalTwentyTwo
+## VoriciSecondaryDefenderArrivalTwentyTwo
 What beautiful violence we will weave together.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalTwentyTwo.ogg]]
-
-#### VoriciSecondaryDefenderArrivalTwentyThree
+## VoriciSecondaryDefenderArrivalTwentyThree
 Come, noble ally. Let us cut this misfit down together.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalTwentyThree.ogg]]
-
-#### VoriciSecondaryDefenderArrivalTwentyFour
+## VoriciSecondaryDefenderArrivalTwentyFour
 A partner of such enlightenment. How pleasant.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalTwentyFour.ogg]]
-
-#### VoriciSecondaryDefenderArrivalTwentyFive
+## VoriciSecondaryDefenderArrivalTwentyFive
 Elegance and sophistication. Try to enjoy this, Exile.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalTwentyFive.ogg]]
-
-#### VoriciSecondaryDefenderArrivalTwentySix
+## VoriciSecondaryDefenderArrivalTwentySix
 Crusade all you like, Elreon, just follow my orders.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalTwentySix.ogg]]
-
-#### VoriciSecondaryDefenderArrivalTwentySeven
+## VoriciSecondaryDefenderArrivalTwentySeven
 I think I can rely on you to do some cutting, yes?
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalTwentySeven.ogg]]
-
-#### VoriciSecondaryDefenderArrivalTwentyEight
+## VoriciSecondaryDefenderArrivalTwentyEight
 This time you're working for an assassin. I do love irony.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalTwentyEight.ogg]]
-
-#### VoriciSecondaryDefenderArrivalTwentyNine
+## VoriciSecondaryDefenderArrivalTwentyNine
 Your orders are simple, Cameria. Kill them all.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalTwentyNine.ogg]]
-
-#### VoriciSecondaryDefenderArrivalThirty
+## VoriciSecondaryDefenderArrivalThirty
 This situation needs a bit less cutting and a bit more intellect.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalThirty.ogg]]
-
-#### VoriciSecondaryDefenderArrivalThirtyOne
+## VoriciSecondaryDefenderArrivalThirtyOne
 Looks like this situation's in need of some cutting intellect.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSecondaryDefenderArrivalThirtyOne.ogg]]
-
-#### VoriciKillPlayerZero
+## VoriciKillPlayerZero
 A nice, clean kill.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciKillPlayerZero.ogg]]
-
-#### VoriciKillPlayerOne
+## VoriciKillPlayerOne
 I do like a tidy ending.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciKillPlayerOne.ogg]]
-
-#### VoriciKillPlayerTwo
+## VoriciKillPlayerTwo
 Secrets remain secret.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciKillPlayerTwo.ogg]]
-
-#### VoriciKillPlayerThree
+## VoriciKillPlayerThree
 A shame. I rather liked that villain.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciKillPlayerThree.ogg]]
-
-#### VoriciEscapeZero
+## VoriciEscapeZero
 Consider this a warning, Exile.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciEscapeZero.ogg]]
-
-#### VoriciEscapeOne
+## VoriciEscapeOne
 We inch closer to utopia.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciEscapeOne.ogg]]
-
-#### VoriciEscapeTwo
+## VoriciEscapeTwo
 A necessary loss.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciEscapeTwo.ogg]]
-
-#### VoriciDefeatedZero
+## VoriciDefeatedZero
 Defeated... within my own walls.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciDefeatedZero.ogg]]
-
-#### VoriciDefeatedOne
+## VoriciDefeatedOne
 A costly error.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciDefeatedOne.ogg]]
-
-#### VoriciDefeatedTwo
+## VoriciDefeatedTwo
 How uncivilised...
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciDefeatedTwo.ogg]]
-
-#### VoriciDefeatedThree
+## VoriciDefeatedThree
 Deeply disappointing.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciDefeatedThree.ogg]]
-
-#### VoriciDefeatedFour
+## VoriciDefeatedFour
 Perhaps my time in confinement had a larger impact than I anticipated.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciDefeatedFour.ogg]]
-
-#### VoriciDefeatedFive
+## VoriciDefeatedFive
 I... want another moment of your time...
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciDefeatedFive.ogg]]
-
-#### VoriciDefeatedSix
+## VoriciDefeatedSix
 I was a fool to work with you.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciDefeatedSix.ogg]]
-
-#### VoriciDefeatedSeven
+## VoriciDefeatedSeven
 I faced death before... what's once more?
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciDefeatedSeven.ogg]]
-
-#### VoriciDefeatedEight
+## VoriciDefeatedEight
 You! You have improved!
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciDefeatedEight.ogg]]
-
-#### VoriciDefeatedNine
+## VoriciDefeatedNine
 How inelegant...
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciDefeatedNine.ogg]]
-
-#### VoriciDefeatedTen
+## VoriciDefeatedTen
 Foiled by my own selfishness. Humiliating.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciDefeatedTen.ogg]]
-
-#### VoriciOfferBargainZero
+## VoriciOfferBargainZero
 Even an ignoramus like yourself can see you have the upper hand. What do you want?
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBargainZero.ogg]]
-
-#### VoriciOfferBargainOne
+## VoriciOfferBargainOne
 If you kill me, another will take my place, and you will have made a target of yourself. The sensible action would be to sow the seeds of loyalty within the Syndicate. Whisper a name, and they will soon find themselves at my side.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBargainOne.ogg]]
-
-#### VoriciOfferBargainTwo
+## VoriciOfferBargainTwo
 Killing me will bring you no closer to your precious artefacts. Not even I know where they have been secreted, but I may know who does, and I know how to ingratiate myself with them. All you have to do is free me.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBargainTwo.ogg]]
-
-#### VoriciOfferBargainThree
+## VoriciOfferBargainThree
 It seems to me that no job is worth dying over, least of all this one. I propose that I leave here - alive - and find a task more suitable to my disposition. Of course, this would involve an exchange. What say you?
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBargainThree.ogg]]
-
-#### VoriciOfferBargainFour
+## VoriciOfferBargainFour
 I can see that you are more than capable of claiming my head. Don't. I will see myself out of here - and out of the Syndicate - and I will not return.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBargainFour.ogg]]
-
-#### VoriciOfferBargainFive
+## VoriciOfferBargainFive
 Wars are not won on the battlefront, Exile. They're won in the dimly lit rooms, over maps and dossiers. I hold information you may find valuable. Allow me to leave here alive, and that information is yours.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBargainFive.ogg]]
-
-#### VoriciOfferBargainSix
+## VoriciOfferBargainSix
 The Syndicate is not just a cluster of like-minded individuals. We have a very wealthy benefactor, who would be very sad to see me dead, but would most certainly look the other way if I were to offer you recompense.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBargainSix.ogg]]
-
-#### VoriciBargainAcceptedZero
+## VoriciBargainAcceptedZero
 I knew you were sharp. Consider it done.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciBargainAcceptedZero.ogg]]
-
-#### VoriciBargainAcceptedOne
+## VoriciBargainAcceptedOne
 So be it. But if word of our deal makes it to other ears, I will cut out your tongue.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciBargainAcceptedOne.ogg]]
-
-#### VoriciBargainAcceptedTwo
+## VoriciBargainAcceptedTwo
 A wise decision. I do hope we cross paths again.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciBargainAcceptedTwo.ogg]]
-
-#### VoriciBargainAcceptedThree
+## VoriciBargainAcceptedThree
 Then I am gone. With any luck, I will not be drawn into this mess again.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciBargainAcceptedThree.ogg]]
-
-#### VoriciBargainAcceptedFour
+## VoriciBargainAcceptedFour
 The tapestry we weave is complex indeed. What will you do with this information, I wonder...
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciBargainAcceptedFour.ogg]]
-
-#### VoriciBargainAcceptedFive
+## VoriciBargainAcceptedFive
 There could be no simpler exchange.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciBargainAcceptedFive.ogg]]
-
-#### VoriciOfferBetrayalZero
+## VoriciOfferBetrayalZero
 My immediate superior has many secrets, Exile. Secrets that would turn your stomach. Were I to reveal these secrets to the rest of the Syndicate I have no doubt that my 'esteemed' leader here would be relegated to a much more menial position, and you would be forced to endure far less of their company. We are killers, but not all of us are monsters.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBetrayalZero.ogg]]
-
-#### VoriciOfferBetrayalOne
+## VoriciOfferBetrayalOne
 It seems clear to me that our failure is due to the machinations of other Syndicate members, and were you to let me go, I would make that crystal-clear. The others here will be punished for their part and I will be rewarded. The Syndicate does not value loyalty, they value results, and today, they didn't get results.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBetrayalOne.ogg]]
-
-#### VoriciOfferBetrayalTwo
+## VoriciOfferBetrayalTwo
 If it's blood you want, I propose an exchange. Release me, and I will take the life of another. I hold no true loyalty to my Syndicate brethren. Is my blood any more valuable than that of another Syndicate member?
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBetrayalTwo.ogg]]
-
-#### VoriciOfferBetrayalThree
+## VoriciOfferBetrayalThree
 You are after the crown. The Eternal One. The Lifegiver. I see the tapestry for what it is. Only information will bring you closer. Information I possess, taken from the mouths of the others here today. How much is this information worth to you, Exile?
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBetrayalThree.ogg]]
-
-#### VoriciOfferBetrayalFour
+## VoriciOfferBetrayalFour
 Faith, or perhaps age, has rotted away Elreon's mind. The things he whispers in his sleep... they make me look positively devout.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBetrayalFour.ogg]]
-
-#### VoriciOfferBetrayalFive
+## VoriciOfferBetrayalFive
 I don't think I need remind you what young Janus here has done. I think you'll find a fitting punishment.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBetrayalFive.ogg]]
-
-#### VoriciOfferBetrayalSix
+## VoriciOfferBetrayalSix
 Few men deserve betrayal more than Gravicius. I am not one of them.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBetrayalSix.ogg]]
-
-#### VoriciOfferBetrayalSeven
+## VoriciOfferBetrayalSeven
 Thane Jorgin was cast out of his homeland after the 'mysterious' death of his brother. The implication is clear.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBetrayalSeven.ogg]]
-
-#### VoriciOfferBetrayalEight
+## VoriciOfferBetrayalEight
 I'm an assassin, yes, but Aisling is something far worse.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBetrayalEight.ogg]]
-
-#### VoriciOfferBetrayalNine
+## VoriciOfferBetrayalNine
 Let's make a deal.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferBetrayalNine.ogg]]
-
-#### VoriciOfferExecuteZero
+## VoriciOfferExecuteZero
 If you think I am going to say or do anything to further your pathetic cause, you are sorely mistaken.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferExecuteZero.ogg]]
-
-#### VoriciOfferExecuteOne
+## VoriciOfferExecuteOne
 I'd sooner die than forsake my loyalty to the Syndicate.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferExecuteOne.ogg]]
-
-#### VoriciOfferExecuteTwo
+## VoriciOfferExecuteTwo
 I know what you want from me, malcontent. But as long as Syndicate eyes are cast upon us, I will give you nothing.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferExecuteTwo.ogg]]
-
-#### VoriciOfferExecuteThree
+## VoriciOfferExecuteThree
 I would rather rot on the ground here than in some filthy, uncivilised prison cell.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciOfferExecuteThree.ogg]]
-
-#### VoriciReplyToBetrayalAcceptedZero
+## VoriciReplyToBetrayalAcceptedZero
 Well that is disappointing.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToBetrayalAcceptedZero.ogg]]
-
-#### VoriciReplyToBetrayalAcceptedOne
+## VoriciReplyToBetrayalAcceptedOne
 I've been nothing but a perfect gentleman, huntress - to your face, at least.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToBetrayalAcceptedOne.ogg]]
-
-#### VoriciReplyToBetrayalAcceptedTwo
+## VoriciReplyToBetrayalAcceptedTwo
 We should have cut you loose long ago, Vagan.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToBetrayalAcceptedTwo.ogg]]
-
-#### VoriciReplyToBetrayalAcceptedThree
+## VoriciReplyToBetrayalAcceptedThree
 Once a turncoat, always a turncoat.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToBetrayalAcceptedThree.ogg]]
-
-#### VoriciReplyToBetrayalAcceptedFour
+## VoriciReplyToBetrayalAcceptedFour
 For this, General, I will pluck you free of the tapestry myself.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToBetrayalAcceptedFour.ogg]]
-
-#### VoriciReplyToBetrayalAcceptedFive
+## VoriciReplyToBetrayalAcceptedFive
 It was not I who killed your brother, Thane. But I think you know that full well.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToBetrayalAcceptedFive.ogg]]
-
-#### VoriciReplyToBetrayalAcceptedSix
+## VoriciReplyToBetrayalAcceptedSix
 My retribution will be swift, invisible, and painful.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToBetrayalAcceptedSix.ogg]]
-
-#### VoriciInterrogatedZero
+## VoriciInterrogatedZero
 You will have to cut the words from my mouth.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciInterrogatedZero.ogg]]
-
-#### VoriciInterrogatedOne
+## VoriciInterrogatedOne
 Cruel. Truly cruel.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciInterrogatedOne.ogg]]
-
-#### VoriciInterrogatedTwo
+## VoriciInterrogatedTwo
 What? I thought you were reasonable.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciInterrogatedTwo.ogg]]
-
-#### VoriciReplyToExecutionZero
+## VoriciReplyToExecutionZero
 What a waste.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToExecutionZero.ogg]]
-
-#### VoriciReplyToExecutionOne
+## VoriciReplyToExecutionOne
 At least it was quick.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToExecutionOne.ogg]]
-
-#### VoriciReplyToExecutionTwo
+## VoriciReplyToExecutionTwo
 I will savour that image.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciReplyToExecutionTwo.ogg]]
-
-#### VoriciSafehouseLeaderDefeatedZero
+## VoriciSafehouseLeaderDefeatedZero
 You... only delay our inexorable rise.
 ![[Exiled Vault Dialogue/PoE1/V/Vorici, Silent Brother/_Audio/Vorici, Silent Brother - VoriciSafehouseLeaderDefeatedZero.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

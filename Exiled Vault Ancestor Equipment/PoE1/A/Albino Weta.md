@@ -1,11 +1,11 @@
-# Albino Weta
 A blessing upon all those trees touched by the sacred spirit.
 
 #
 ![[AlbinoWeta.webp]]
 
+#
 ---
-## Tags
+# Tags
 #Category/AncestorEquipment
 #Concept/Animal/Insect
 #Concept/Colour/White
@@ -14,3 +14,4 @@ A blessing upon all those trees touched by the sacred spirit.
 #League/Ancestor
 #PoE1 
 #Society/Karui 
+#Interesting 

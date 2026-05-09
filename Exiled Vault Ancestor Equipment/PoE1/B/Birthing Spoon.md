@@ -1,12 +1,12 @@
-# Birthing Spoon
 [[Hinekora Tribe]]
 With each new life, the entire tribe is invigorated.
 
 #
 ![[BirthingSpoonTrinket.webp]]
 
+#
 ---
-## Tags
+# Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

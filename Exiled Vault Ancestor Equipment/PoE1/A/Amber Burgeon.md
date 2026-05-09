@@ -1,12 +1,12 @@
-# Amber Burgeon
 [[Tawhoa Tribe]]
 Though you might not see it, the forest is always growing.
 
 #
 ![[EmberChoker.webp]]
 
+#
 ---
-## Tags
+# Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

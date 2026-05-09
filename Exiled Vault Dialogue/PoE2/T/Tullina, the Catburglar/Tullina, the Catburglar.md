@@ -1,878 +1,598 @@
-# Tullina, the Catburglar
-
-## Dialogue
-#### TullinaIntro
+## TullinaIntro
 I'm Tullina. Not Tully, not Lina, not Lin, not even Tee. Tullina, got it? Good. If you know when to speak and know when to keep your mouth shut, we'll get on just fine. I'm here to make bank, not friends, and I'm very good at what I do.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaIntro.ogg]]
-
-#### TullinaAboutTheBoss
+## TullinaAboutTheBoss
 The Boss is private to the point of paranoia. I've never visited his home, but I've heard he has some very particular requests of his guests. No boots. No cloaks or coats. No hats. No slacks. No dresses. Undergarments are strongly discouraged. You're given a robe for privacy. It has no sleeves. You're never to enter his kitchen or approach him from behind or from the side. Or above. Absolutely never above. No mention of approaching him from below, but I've also heard he lives underground, so that would be quite a task.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaAboutTheBoss.ogg]]
-
-#### TullinaContractOne
+## TullinaContractOne
 Look, as a rule I don't ask for help. I don't need someone getting involved in my business and messing everything up. Unfortunately, I must now break that rule. I need... I-... Ugh. Why is this so hard? Ineedyourhelp. There. I said it. Before I was exiled, I was romantically involved with a man from a very good family. We kept it secret while he tested the waters with his mother and father -- it's not exactly ideal for the nobility to be fraternising with the 'uncouth', as they say. Less than a week before I was heaved overboard and my exile began in earnest, he proposed. I know it's crazy, and I know it's almost certainly impossible, but I want so desperately to marry that man. Just taking his name would wash clean my past, and I know I could find happiness. So I need a dress. When Merveil and Daresso wed, they held a most elaborate ceremony. Merveil was said to be the most beautiful visage ever to walk down the Basilica aisle. It took six people to carry the train on her dress. I want that dress. I need that dress. My beloved deserves to see me in that dress. So you're going to help me get it, got it?
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaContractOne.ogg]]
-
-#### TullinaContractOneEnd
+## TullinaContractOneEnd
 The Lady Merveil's dress is even more beautiful than I'd imagined. It's held up well over the years, and fits nearly perfectly. I appreciate your help on this matter. I'll add you to our invitees. No plus-ones.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaContractOneEnd.ogg]]
-
-#### TullinaContractTwo
+## TullinaContractTwo
 I'm fine. Sorry, I mean, hello. But, really, I'm fine. I don't need your help. ...Wait. I... I do need your help. It's time to face reality. The wedding's off. Given our wildly different lifestyles, it no longer seems possible for my fiance and I to live happily ever after. Whakano has kept abreast of his movements, and, though he has remained faithful, he is... unhappy. I don't think it's because they have locked him up in an attempt to draw me out, but it couldn't have helped. I miss him dearly, and he misses me, but we cannot meet in person without jeopardising his safety or my freedom. He needs to move on, and so do I. I want to return our engagement ring. He'll understand. I cannot bear to do it myself, hence the contract. ...Please?
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaContractTwo.ogg]]
-
-#### TullinaContractTwoEnd
+## TullinaContractTwoEnd
 So... it's done. We're done. I feel... absolutely awful, actually. But I also feel lighter. He will no doubt grieve for a long time, and will, of course, never find another woman that meets the lofty bar I set, but he will meet someone eventually. He will fall in love. He will propose to her. She will be delighted. They will marry and start a family, and they will have their happy ending. It was the right thing to do, for both of us. Thank you for your help, and your discretion. I'm keeping that dress, by the way. Lady Merveil's? That's mine now.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaContractTwoEnd.ogg]]
-
-#### TullinaSelectedforContractOne
+## TullinaSelectedforContractOne
 You need the best? Well here I am.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaSelectedforContractOne.ogg]]
-
-#### TullinaSelectedforContractTwo
+## TullinaSelectedforContractTwo
 Mmhm.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaSelectedforContractTwo.ogg]]
-
-#### TullinaSelectedforContractThree
+## TullinaSelectedforContractThree
 What's the job?
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaSelectedforContractThree.ogg]]
-
-#### TullinaSelectedforBlueprintOne
+## TullinaSelectedforBlueprintOne
 Hmm. Seems simple enough.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaSelectedforBlueprintOne.ogg]]
-
-#### TullinaSelectedforBlueprintTwo
+## TullinaSelectedforBlueprintTwo
 Straightforward. Good.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaSelectedforBlueprintTwo.ogg]]
-
-#### TullinaSelectedforBlueprintThree
+## TullinaSelectedforBlueprintThree
 What's the play?
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaSelectedforBlueprintThree.ogg]]
-
-#### TullinaAgilityOne
+## TullinaAgilityOne
 Nice and easy...
-
-#### TullinaAgilityTwo
+## TullinaAgilityTwo
 Not too challenging...
-
-#### TullinaAgilityThree
+## TullinaAgilityThree
 I'll handle it.
-
-#### TullinaAgilityFour
+## TullinaAgilityFour
 I'm not charging you enough.
-
-#### TullinaAgilityFive
+## TullinaAgilityFive
 Okay, Tullina, just like you practised.
-
-#### TullinaAgilitySix
+## TullinaAgilitySix
 Careful... Careful...
-
-#### TullinaDisarmTrapOne
+## TullinaDisarmTrapOne
 I see what they've done here...
-
-#### TullinaDisarmTrapTwo
+## TullinaDisarmTrapTwo
 Hmph. Who falls for this?
-
-#### TullinaDisarmTrapThree
+## TullinaDisarmTrapThree
 Huh. Ah. I see.
-
-#### TullinaDisarmTrapFour
+## TullinaDisarmTrapFour
 Hmm. Yes. Devious. Very devious.
-
-#### TullinaDisarmTrapFive
+## TullinaDisarmTrapFive
 What an ingenious little ploy.
-
-#### TullinaDisarmTrapSix
+## TullinaDisarmTrapSix
 Clever. Almost... too clever. Almost.
-
-#### TullinaLockpickOne
+## TullinaLockpickOne
 I'll get us in there.
-
-#### TullinaLockpickTwo
+## TullinaLockpickTwo
 Let's see what you're hiding.
-
-#### TullinaLockpickThree
+## TullinaLockpickThree
 I can unlock this.
-
-#### TullinaLockpickFour
+## TullinaLockpickFour
 This might take some time, okay?
-
-#### TullinaLockpickFive
+## TullinaLockpickFive
 I can do it, but it won't be quick.
-
-#### TullinaLockpickSix
+## TullinaLockpickSix
 Sure. Just be patient.
-
-#### TullinaBusyOne
+## TullinaBusyOne
 Don't be impatient.
-
-#### TullinaBusyTwo
+## TullinaBusyTwo
 I'm somewhat preoccupied.
-
-#### TullinaBusyThree
+## TullinaBusyThree
 Perhaps you should've planned this better.
-
-#### TullinaBusyFour
+## TullinaBusyFour
 I can't be in two places at once.
-
-#### TullinaBusyFive
+## TullinaBusyFive
 Wait. I'm busy.
-
-#### TullinaInterruptedOne
+## TullinaInterruptedOne
 If I wasn't busy you'd be dead.
-
-#### TullinaInterruptedTwo
+## TullinaInterruptedTwo
 Get them off me. Now.
-
-#### TullinaInterruptedThree
+## TullinaInterruptedThree
 I can't work while I'm being attacked.
-
-#### TullinaInterruptedFour
+## TullinaInterruptedFour
 You will regret this.
-
-#### TullinaCombatStartOne
+## TullinaCombatStartOne
 Security has spotted us.
-
-#### TullinaCombatStartTwo
+## TullinaCombatStartTwo
 We've got a fight on our hands.
-
-#### TullinaCombatStartThree
+## TullinaCombatStartThree
 You want to dance? Let's dance.
-
-#### TullinaCombatStartFour
+## TullinaCombatStartFour
 No witnesses.
-
-#### TullinaCombatStartFive
+## TullinaCombatStartFive
 Let's take them out.
-
-#### TullinaCombatEndOne
+## TullinaCombatEndOne
 Back to work.
-
-#### TullinaCombatEndTwo
+## TullinaCombatEndTwo
 No. Witnesses.
-
-#### TullinaCombatEndThree
+## TullinaCombatEndThree
 Good. Now, focus.
-
-#### TullinaCombatEndFour
+## TullinaCombatEndFour
 We have a job to do.
-
-#### TullinaCombatEndFive
+## TullinaCombatEndFive
 No more distractions.
-
-#### TullinaLootOne
+## TullinaLootOne
 A worthy prize.
-
-#### TullinaLootTwo
+## TullinaLootTwo
 That's why we do this.
-
-#### TullinaLootThree
+## TullinaLootThree
 Good find, but don't lose focus.
-
-#### TullinaLootFour
+## TullinaLootFour
 Well, I've taken worse!
-
-#### TullinaLootFive
+## TullinaLootFive
 Not bad. Not bad at all.
-
-#### TullinaAlertThresholdOne
+## TullinaAlertThresholdOne
 We need to be careful.
-
-#### TullinaAlertThresholdTwo
+## TullinaAlertThresholdTwo
 We're pushing our luck now.
-
-#### TullinaAlertThresholdThree
+## TullinaAlertThresholdThree
 Clumsy work is going to get us caught.
-
-#### TullinaAlertThresholdFour
+## TullinaAlertThresholdFour
 Messy. I don't like where this is headed.
-
-#### TullinaAlarmOne
+## TullinaAlarmOne
 Head for the exit. Quick as possible!
-
-#### TullinaAlarmTwo
+## TullinaAlarmTwo
 Time to leave! Come on!
-
-#### TullinaAlarmThree
+## TullinaAlarmThree
 Now? Now we run!
-
-#### TullinaEarlyAlarmOne
+## TullinaEarlyAlarmOne
 Damn. Should've been more careful.
-
-#### TullinaEarlyAlarmTwo
+## TullinaEarlyAlarmTwo
 We've screwed this up. Time to leave!
-
-#### TullinaEarlyAlarmThree
+## TullinaEarlyAlarmThree
 Ugh, what a mess. What an absolute mess.
-
-#### TullinaFinalRoomOne
+## TullinaFinalRoomOne
 We're here, but it isn't over yet.
-
-#### TullinaFinalRoomTwo
+## TullinaFinalRoomTwo
 Good. Now, take it and get ready to run.
-
-#### TullinaFinalRoomThree
+## TullinaFinalRoomThree
 Ready? This is where it gets hairy.
-
-#### TullinaFinalRoomFour
+## TullinaFinalRoomFour
 Fun part's almost over.
-
-#### TullinaFinalRoomFive
+## TullinaFinalRoomFive
 That's the mark. You got it?
-
-#### TullinaObjectiveLootedOne
+## TullinaObjectiveLootedOne
 Good. Very good.
-
-#### TullinaObjectiveLootedTwo
+## TullinaObjectiveLootedTwo
 Safely tucked away? Good.
-
-#### TullinaObjectiveLootedThree
+## TullinaObjectiveLootedThree
 Don't get overconfident. We're not done yet.
-
-#### TullinaObjectiveLootedFour
+## TullinaObjectiveLootedFour
 Now we've got their attention.
-
-#### TullinaEntryBanterExileOne
+## TullinaEntryBanterExileOne
 Most people think I don't like small talk...
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaEntryBanterExileOne.ogg]]
-
-#### TullinaEntryBanterExileTwo
+## TullinaEntryBanterExileTwo
 Hope you know what you're doing.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaEntryBanterExileTwo.ogg]]
-
-#### TullinaEntryBanterExileThree
+## TullinaEntryBanterExileThree
 On a job like this, careful maneuvering is key.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaEntryBanterExileThree.ogg]]
-
-#### TullinaEntryBanterExileFour
+## TullinaEntryBanterExileFour
 Limbered up and ready to go.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaEntryBanterExileFour.ogg]]
-
-#### TullinaEntryBanterExileFive
+## TullinaEntryBanterExileFive
 Once we get in there, we have to have each other's backs.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaEntryBanterExileFive.ogg]]
-
-#### TullinaExitBanterExileOne
+## TullinaExitBanterExileOne
 Not as smooth as I'd hoped, but not too bad!
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaExitBanterExileOne.ogg]]
-
-#### TullinaExitBanterExileTwo
+## TullinaExitBanterExileTwo
 Well done! Not as messy as I'd feared!
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaExitBanterExileTwo.ogg]]
-
-#### TullinaExitBanterExileThree
+## TullinaExitBanterExileThree
 That could've gone better, but it could have gone a LOT worse!
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaExitBanterExileThree.ogg]]
-
-#### TullinaExitBanterExileFour
+## TullinaExitBanterExileFour
 If you plan on working with me in the future, you ought to get used to the feeling of success.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaExitBanterExileFour.ogg]]
-
-#### TullinaExitBanterExileFive
+## TullinaExitBanterExileFive
 Ah, that's one for the books.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaExitBanterExileFive.ogg]]
-
-#### TullinaAgilityLoudOne
+## TullinaAgilityLoudOne
 Just get it done.
-
-#### TullinaAgilityLoudTwo
+## TullinaAgilityLoudTwo
 I'm on it!
-
-#### TullinaAgilityLoudThree
+## TullinaAgilityLoudThree
 Power through, Tullina!
-
-#### TullinaAgilityLoudFour
+## TullinaAgilityLoudFour
 Now? So unprofessional!
-
-#### TullinaAgilityLoudFive
+## TullinaAgilityLoudFive
 This is what you've been training for!
-
-#### TullinaAgilityLoudSix
+## TullinaAgilityLoudSix
 Fine, but you should know I hold grudges!
-
-#### TullinaTrapDisarmLoudOne
+## TullinaTrapDisarmLoudOne
 Right, what's the quickest--... Ah!
-
-#### TullinaTrapDisarmLoudTwo
+## TullinaTrapDisarmLoudTwo
 Lucky it's straightforward!
-
-#### TullinaTrapDisarmLoudThree
+## TullinaTrapDisarmLoudThree
 I think I've got this one figured out!
-
-#### TullinaTrapDisarmLoudFour
+## TullinaTrapDisarmLoudFour
 Even without this racket, it'd take me a while...!
-
-#### TullinaTrapDisarmLoudFive
+## TullinaTrapDisarmLoudFive
 I'll be as quick as I can, but that still won't be quick.
-
-#### TullinaTrapDisarmLoudSix
+## TullinaTrapDisarmLoudSix
 Wish we'd sorted this before we had to run!
-
-#### TullinaLockpickLoudOne
+## TullinaLockpickLoudOne
 Fine. Fine!
-
-#### TullinaLockpickLoudTwo
+## TullinaLockpickLoudTwo
 I've got this one!
-
-#### TullinaLockpickLoudThree
+## TullinaLockpickLoudThree
 On it!
-
-#### TullinaLockpickLoudFour
+## TullinaLockpickLoudFour
 This is going to take some time!
-
-#### TullinaLockpickLoudFive
+## TullinaLockpickLoudFive
 Just keep us safe while I work!
-
-#### TullinaLockpickLoudSix
+## TullinaLockpickLoudSix
 You just make sure we're all still alive when I'm done.
-
-#### TullinaBusyLoudOne
+## TullinaBusyLoudOne
 Testing my patience!
-
-#### TullinaBusyLoudTwo
+## TullinaBusyLoudTwo
 Make up your mind!
-
-#### TullinaBusyLoudThree
+## TullinaBusyLoudThree
 Not now, you--... Not now!
-
-#### TullinaBusyLoudFour
+## TullinaBusyLoudFour
 Really?! Don't test me!
-
-#### TullinaBusyLoudFive
+## TullinaBusyLoudFive
 Not now! This mess is on you!
-
-#### TullinaInterruptedLoudOne
+## TullinaInterruptedLoudOne
 I'm under attack!
-
-#### TullinaInterruptedLoudTwo
+## TullinaInterruptedLoudTwo
 Can't work with this harassment!
-
-#### TullinaInterruptedLoudThree
+## TullinaInterruptedLoudThree
 Where's my protection!?
-
-#### TullinaInterruptedLoudFour
+## TullinaInterruptedLoudFour
 Hey! I need assistance!
-
-#### TullinaCombatStartLoudOne
+## TullinaCombatStartLoudOne
 Out of our way!
-
-#### TullinaCombatStartLoudTwo
+## TullinaCombatStartLoudTwo
 Let us through or die!
-
-#### TullinaCombatStartLoudThree
+## TullinaCombatStartLoudThree
 No witnesses!
-
-#### TullinaCombatStartLoudFour
+## TullinaCombatStartLoudFour
 You must not value your lives!
-
-#### TullinaCombatStartLoudFive
+## TullinaCombatStartLoudFive
 Guards incoming!
-
-#### TullinaCombatEndLoudOne
+## TullinaCombatEndLoudOne
 Move! Move!
-
-#### TullinaCombatEndLoudTwo
+## TullinaCombatEndLoudTwo
 Good! Keep up the momentum!
-
-#### TullinaCombatEndLoudThree
+## TullinaCombatEndLoudThree
 Very good! Stay focused!
-
-#### TullinaCombatEndLoudFour
+## TullinaCombatEndLoudFour
 Guards down! Let's go!
-
-#### TullinaCombatEndLoudFive
+## TullinaCombatEndLoudFive
 All clear!
-
-#### TullinaLootLoudOne
+## TullinaLootLoudOne
 If we die because you slowed us down, I'll kill you!
-
-#### TullinaLootLoudTwo
+## TullinaLootLoudTwo
 Don't get too greedy!
-
-#### TullinaLootLoudThree
+## TullinaLootLoudThree
 Fine, but we have to keep moving!
-
-#### TullinaLootLoudFour
+## TullinaLootLoudFour
 You're pushing it! Not in a good way!
-
-#### TullinaLootLoudFive
+## TullinaLootLoudFive
 The stealing was meant to happen earlier!
-
-#### TullinaFinalRoomLoudOne
+## TullinaFinalRoomLoudOne
 Made it in! Quick!
-
-#### TullinaFinalRoomLoudTwo
+## TullinaFinalRoomLoudTwo
 Grab it and let's go!
-
-#### TullinaFinalRoomLoudThree
+## TullinaFinalRoomLoudThree
 There's our target! Hurry!
-
-#### TullinaFinalRoomLoudFour
+## TullinaFinalRoomLoudFour
 We're not done yet! Grab it!
-
-#### TullinaFinalRoomLoudFive
+## TullinaFinalRoomLoudFive
 Get it! Now! What a mess...
-
-#### TullinaObjectiveLootedLoudOne
+## TullinaObjectiveLootedLoudOne
 Great! Let's go!
-
-#### TullinaObjectiveLootedLoudTwo
+## TullinaObjectiveLootedLoudTwo
 Go! Go! Go!
-
-#### TullinaObjectiveLootedLoudThree
+## TullinaObjectiveLootedLoudThree
 Back out! Just gotta survive...
-
-#### TullinaObjectiveLootedLoudFour
+## TullinaObjectiveLootedLoudFour
 Good! Time to leave!
-
-#### TullinaGreetingsOneA
+## TullinaGreetingsOneA
 Yes?
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaGreetingsOneA.ogg]]
-
-#### TullinaGreetingsTwoA
+## TullinaGreetingsTwoA
 Keep it quick.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaGreetingsTwoA.ogg]]
-
-#### TullinaGreetingsThreeA
+## TullinaGreetingsThreeA
 Well?
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaGreetingsThreeA.ogg]]
-
-#### TullinaGreetingsFourA
+## TullinaGreetingsFourA
 Go on.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaGreetingsFourA.ogg]]
-
-#### TullinaGreetingsFiveA
+## TullinaGreetingsFiveA
 What?
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaGreetingsFiveA.ogg]]
-
-#### TullinaFarewellsOneA
+## TullinaFarewellsOneA
 Bye.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaFarewellsOneA.ogg]]
-
-#### TullinaFarewellsTwoA
+## TullinaFarewellsTwoA
 Good.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaFarewellsTwoA.ogg]]
-
-#### TullinaFarewellsThreeA
+## TullinaFarewellsThreeA
 See you.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaFarewellsThreeA.ogg]]
-
-#### TullinaFarewellsFourA
+## TullinaFarewellsFourA
 TullinaFarewellsFourA
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaFarewellsFourA.ogg]]
-
-#### TullinaFarewellsFourB
+## TullinaFarewellsFourB
 TullinaFarewellsFourB
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaFarewellsFourB.ogg]]
-
-#### TullinaFarewellsFourC
+## TullinaFarewellsFourC
 TullinaFarewellsFourC
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaFarewellsFourC.ogg]]
-
-#### TullinaFarewellsFiveA
+## TullinaFarewellsFiveA
 Back to it!
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - TullinaFarewellsFiveA.ogg]]
-
-#### IntroductionTullinaTullinaToExile
+## IntroductionTullinaTullinaToExile
 Pleasure to meet you.
-
-#### IntroductionTullinaTullinaToExileTwo
+## IntroductionTullinaTullinaToExileTwo
 --excuse me?
-
-#### IntroductionNenetTullinaToExile
+## IntroductionNenetTullinaToExile
 Before we set off, I'd like to introduce you to an associate of mine. This is Nenet.
-
-#### IntroductionNenetTullinaToExileTwo
+## IntroductionNenetTullinaToExileTwo
 See? She's got better eyesight than anyone I know.
-
-#### IntroductionNenetTullinaToExileThree
+## IntroductionNenetTullinaToExileThree
 I believe she will be an asset in the future.
-
-#### EntryBanterTullinaToTibbs
+## EntryBanterTullinaToTibbs
 Only do what's essential. Anything else makes you a bigger target.
-
-#### EntryBanterTullinaToKarst
+## EntryBanterTullinaToKarst
 Remember, look out for each other when we get in there.
-
-#### EntryBanterTullinaToIsla
+## EntryBanterTullinaToIsla
 Keep it down when we're in there. That means no unexpected explosions, Isla.
-
-#### EntryBanterTullinaToVinderi
+## EntryBanterTullinaToVinderi
 Everyone know what they're doing?
-
-#### EntryBanterTullinaToNenet
+## EntryBanterTullinaToNenet
 Any words of wisdom before we head in, Nenet?
-
-#### EntryBanterTullinaToNenetTwo
+## EntryBanterTullinaToNenetTwo
 ... Good. Good advice. Thank you.
-
-#### EntryBanterTullinaToNiles
+## EntryBanterTullinaToNiles
 Good luck, everyone.
-
-#### EntryBanterTullinaToExile
+## EntryBanterTullinaToExile
 Remember what Huck says: Heads on a pike--
-
-#### EntryBanterTullinaToExileTwo
+## EntryBanterTullinaToExileTwo
 On a swivel.
-
-#### EntryBanterTullinaToExileThree
+## EntryBanterTullinaToExileThree
 Kill any guards you come across quick.
-
-#### EntryBanterTibbsTullinaReply
+## EntryBanterTibbsTullinaReply
 Try not to focus on how badly everything could go and how hurt everyone could get. Better?
-
-#### EntryBanterKarstTullinaReply
+## EntryBanterKarstTullinaReply
 Tullina
-
-#### EntryBanterKarstTullinaReplyTwo
+## EntryBanterKarstTullinaReplyTwo
 Yep. All good.
-
-#### EntryBanterIslaTullinaReply
+## EntryBanterIslaTullinaReply
 Strongly disfavourable.
-
-#### EntryBanterIslaTullinaReplyTwo
+## EntryBanterIslaTullinaReplyTwo
 That isn't better.
-
-#### EntryBanterVinderiTullinaReply
+## EntryBanterVinderiTullinaReply
 No one say yes.
-
-#### EntryBanterNenetTullinaReply
+## EntryBanterNenetTullinaReply
 ...So should we hurry?
-
-#### EntryBanterNenetTullinaReplyTwo
+## EntryBanterNenetTullinaReplyTwo
 So... Yes?
-
-#### EntryBanterNilesTullinaReply
+## EntryBanterNilesTullinaReply
 Do you also wish to feel a dagger in your eye socket? No? There's your answer.
-
-#### EntryBanterHuckTullinaToExile
+## EntryBanterHuckTullinaToExile
 And stay out of my way.
-
-#### EntryBanterGiannaTullinaReply
+## EntryBanterGiannaTullinaReply
 Mmhm?
-
-#### EntryBanterGiannaTullinaReplyTwo
+## EntryBanterGiannaTullinaReplyTwo
 What? Yeah, I guess. Whatever.
-
-#### ExitBanterTullinaToExile
+## ExitBanterTullinaToExile
 Near-flawless execution. Be proud.
-
-#### ExitBanterTullinaToTibbsTwo
+## ExitBanterTullinaToTibbsTwo
 The burning pond?
-
-#### ExitBanterTullinaToKarst
+## ExitBanterTullinaToKarst
 Job well done, everyone.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - ExitBanterTullinaToKarst.ogg]]
-
-#### ExitBanterTullinaToIsla
+## ExitBanterTullinaToIsla
 That went as smooth as could realistically be expected.
-
-#### ExitBanterTullinaToIslaTwo
+## ExitBanterTullinaToIslaTwo
 ...I need less of you right now.
-
-#### ExitBanterTullinaToVinderi
+## ExitBanterTullinaToVinderi
 Everyone in one piece?
-
-#### ExitBanterTullinaToVinderiTwo
+## ExitBanterTullinaToVinderiTwo
 I mean, is everyone healthy?
-
-#### ExitBanterTullinaToNenet
+## ExitBanterTullinaToNenet
 Excellent teamwork, everyone.
-
-#### ExitBanterTullinaToNenetTwo
+## ExitBanterTullinaToNenetTwo
 ... Yeah. Great work all round.
-
-#### ExitBanterTullinaToNiles
+## ExitBanterTullinaToNiles
 Let's get back and enjoy the fruits of our labour.
-
-#### ExitBanterTullinaToHuck
+## ExitBanterTullinaToHuck
 That was one I'll be telling my kids about.
-
-#### ExitBanterTullinaHuckTwo
+## ExitBanterTullinaHuckTwo
 Hmm. You're right. That was one I'll never tell my kids about.
-
-#### ExitBanterTullinaToGianna
+## ExitBanterTullinaToGianna
 I can already tell I'll be sore tomorrow.
-
-#### ExitBanterTullinaToAdiyah
+## ExitBanterTullinaToAdiyah
 Adiyah, get us home to a cold drink and a warm fire.
-
-#### ExitBanterTullinaToAdiyahTwo
+## ExitBanterTullinaToAdiyahTwo
 It will.
-
-#### ExitBanterTibbsTullinaReply
+## ExitBanterTibbsTullinaReply
 And barely any spiders are on you this time!
-
-#### ExitBanterKarstTullinaReply
+## ExitBanterKarstTullinaReply
 Couldn't agree more.
 ![[Exiled Vault Dialogue/PoE2/T/Tullina, the Catburglar/_Audio/Tullina, the Catburglar - ExitBanterKarstTullinaReply.ogg]]
-
-#### ExitBanterIslaTullinaReply
+## ExitBanterIslaTullinaReply
 Dare I ask why not?
-
-#### ExitBanterIslaTullinaReplyTwo
+## ExitBanterIslaTullinaReplyTwo
 Oh no.
-
-#### ExitBanterVinderiTullinaReply
+## ExitBanterVinderiTullinaReply
 It's alright, Vinderi. There will be more.
-
-#### ExitBanterNenetTullinaReply
+## ExitBanterNenetTullinaReply
 You should write that down, Nenet. That was beautiful.
-
-#### ExitBanterNilesTullinaReply
+## ExitBanterNilesTullinaReply
 What... vivid imagery.
-
-#### ExitBanterNilesTullinaReplyTwo
+## ExitBanterNilesTullinaReplyTwo
 Please don't.
-
-#### ExitBanterHuckTullinaReply
+## ExitBanterHuckTullinaReply
 Savour it. It doesn't happen all that often!
-
-#### ExitBanterGiannaTullinaReply
+## ExitBanterGiannaTullinaReply
 Worth the price of entry, that's for sure!
-
-#### ExitBanterAdiyahTullinaReply
+## ExitBanterAdiyahTullinaReply
 Oh, come on Adiyah. I can see you holding back a smile.
-
-#### SelectionBanterTullinaToKurai
+## SelectionBanterTullinaToKurai
 I'm here. Plans all drawn up?
-
-#### SelectionBanterTullinaToKuraiTwo
+## SelectionBanterTullinaToKuraiTwo
 If you're overseeing them, I'm not too worried. Any word from the Boss?
-
-#### SelectionBanterTullinaToTibbs
+## SelectionBanterTullinaToTibbs
 Job looks straightforward enough.
-
-#### SelectionBanterTullinaToTibbsTwo
+## SelectionBanterTullinaToTibbsTwo
 You never were fond of heights.
-
-#### SelectionBanterTullinaToTibbsThree
+## SelectionBanterTullinaToTibbsThree
 Or spiders.
-
-#### SelectionBanterTullinaToTibbsFour
+## SelectionBanterTullinaToTibbsFour
 Or ghosts.
-
-#### SelectionBanterTullinaToKarst
+## SelectionBanterTullinaToKarst
 Need me?
-
-#### SelectionBanterTullinaToKarstTwo
+## SelectionBanterTullinaToKarstTwo
 Tullina.
-
-#### SelectionBanterTullinaToKarstThree
+## SelectionBanterTullinaToKarstThree
 It's... complicated. I'd rather we just focus on the job, if you don't mind.
-
-#### SelectionBanterTullinaToKarstFive
+## SelectionBanterTullinaToKarstFive
 I'd like that. Thank you.
-
-#### SelectionBanterTullinaToIsla
+## SelectionBanterTullinaToIsla
 Heard you might need me for a job?
-
-#### SelectionBanterTullinaToIslaTwo
+## SelectionBanterTullinaToIslaTwo
 That sounds like some sort of horrifying mechanical spider.
-
-#### SelectionBanterTullinaToIslaThree
+## SelectionBanterTullinaToIslaThree
 ...and you've tested it?
-
-#### SelectionBanterTullinaToKuraiFour
+## SelectionBanterTullinaToKuraiFour
 Thank you.
-
-#### SelectionBanterTullinaToVinderi
+## SelectionBanterTullinaToVinderi
 Hello, all.
-
-#### SelectionBanterTullinaToVinderiTwo
+## SelectionBanterTullinaToVinderiTwo
 You were?
-
-#### SelectionBanterTullinaToVinderiThree
+## SelectionBanterTullinaToVinderiThree
 ...Huh?
-
-#### SelectionBanterTullinaToVinderiFour
+## SelectionBanterTullinaToVinderiFour
 I don't--
-
-#### SelectionBanterTullinaToNenet
+## SelectionBanterTullinaToNenet
 So what's the play?
-
-#### SelectionBanterTullinaToNenetTwo
+## SelectionBanterTullinaToNenetTwo
 So, the usual.
-
-#### SelectionBanterTullinaToNiles
+## SelectionBanterTullinaToNiles
 Hope I didn't keep you waiting.
-
-#### SelectionBanterTullinaToNilesTwo
+## SelectionBanterTullinaToNilesTwo
 Niles, do we really need to do this every time?
-
-#### SelectionBanterTullinaToNilesThree
+## SelectionBanterTullinaToNilesThree
 Or, I suppose, until I slit your throat?
-
-#### SelectionBanterTullinaKuraiToNiles
+## SelectionBanterTullinaKuraiToNiles
 You are.
-
-#### SelectionBanterTullinaToHuck
+## SelectionBanterTullinaToHuck
 Plans drawn up?
-
-#### SelectionBanterTullinaToHuckTwo
+## SelectionBanterTullinaToHuckTwo
 The Sin is in the details.
-
-#### SelectionBanterTullinaToHuckThree
+## SelectionBanterTullinaToHuckThree
 Or no door.
-
-#### SelectionBanterTullinaToHuckFour
+## SelectionBanterTullinaToHuckFour
 Well, I'm glad we can discuss doors in such detail.
-
-#### SelectionBanterTullinaToGianna
+## SelectionBanterTullinaToGianna
 Can we keep this short?
-
-#### SelectionBanterTullinaToGiannaTwo
+## SelectionBanterTullinaToGiannaTwo
 Anywhere but here. Meetings make me fidgety.
-
-#### SelectionBanterTullinaToGiannaThree
+## SelectionBanterTullinaToGiannaThree
 That can't be true. What about...
-
-#### SelectionBanterTullinaToGiannaFour
+## SelectionBanterTullinaToGiannaFour
 ... Huh. Sorry... If it helps, it's nothing to do with you. I guess I'm not much of a people-person.
-
-#### SelectionBanterKuraiTullinaReply
+## SelectionBanterKuraiTullinaReply
 Thanks, Ku. What's the latest?
-
-#### SelectionBanterKuraiTullinaReplyTwo
+## SelectionBanterKuraiTullinaReplyTwo
 A blueprint.
-
-#### SelectionBanterKuraiTullinaReplyThree
+## SelectionBanterKuraiTullinaReplyThree
 Well, I'm keen. If you'll have me, that is.
-
-#### SelectionBanterTibbsTullinaReply
+## SelectionBanterTibbsTullinaReply
 Gil, always a pleasure.
-
-#### SelectionBanterTibbsTullinaReplyTwo
+## SelectionBanterTibbsTullinaReplyTwo
 The Bleakworth Alley job?
-
-#### SelectionBanterTibbsTullinaReplyThree
+## SelectionBanterTibbsTullinaReplyThree
 Well now we know to look for webs. And eggs. And legs. And, if it happens again, I'll put you out of your misery. Sound good?
-
-#### SelectionBanterKarstTullinaReply
+## SelectionBanterKarstTullinaReply
 A little anxious, but, you know...
-
-#### SelectionBanterKarstTullinaReplyTwo
+## SelectionBanterKarstTullinaReplyTwo
 Exactly.
-
-#### SelectionBanterIslaTullinaReply
+## SelectionBanterIslaTullinaReply
 We're actually in the middle of--
-
-#### SelectionBanterIslaTullinaReplyTwo
+## SelectionBanterIslaTullinaReplyTwo
 A window.
-
-#### SelectionBanterIslaTullinaReplyThree
+## SelectionBanterIslaTullinaReplyThree
 The heist we're planning?
-
-#### SelectionBanterVinderiTullinaReply
+## SelectionBanterVinderiTullinaReply
 Nice to see you, Vinderi.
-
-#### SelectionBanterVinderiTullinaReplyThree
+## SelectionBanterVinderiTullinaReplyThree
 No, I'm Tul--
-
-#### SelectionBanterVinderiTullinaReplyFour
+## SelectionBanterVinderiTullinaReplyFour
 It's my na--
-
-#### SelectionBanterNenetTullinaReply
+## SelectionBanterNenetTullinaReply
 Hello, Nenet.
-
-#### SelectionBanterNenetTullinaReplyTwo
+## SelectionBanterNenetTullinaReplyTwo
 Another job is in the works.
-
-#### SelectionBanterNenetTullinaReplyThree
+## SelectionBanterNenetTullinaReplyThree
 Not quite, but nearly.
-
-#### SelectionBanterNilesTullinaReply
+## SelectionBanterNilesTullinaReply
 Hi Niles.
-
-#### SelectionBanterNilesTullinaReplyTwo
+## SelectionBanterNilesTullinaReplyTwo
 It wasn't my decision.
-
-#### SelectionBanterHuckTullinaReply
+## SelectionBanterHuckTullinaReply
 Huck.
-
-#### SelectionBanterHuckTullinaInteruptOneB
+## SelectionBanterHuckTullinaInteruptOneB
 What's ne--
-
-#### SelectionBanterHuckTullinaInteruptTwoA
+## SelectionBanterHuckTullinaInteruptTwoA
 You go--
-
-#### SelectionBanterHuckTullinaInteruptThreeA
+## SelectionBanterHuckTullinaInteruptThreeA
 I was just going to ask--
-
-#### SelectionBanterHuckTullinaInteruptFourA
+## SelectionBanterHuckTullinaInteruptFourA
 I--
-
-#### SelectionBanterHuckTullinaToKuraiB
+## SelectionBanterHuckTullinaToKuraiB
 ...Thanks Kurai, yeah, thank you.
-
-#### SelectionBanterGiannaTullinaReply
+## SelectionBanterGiannaTullinaReply
 Welcome aboard, Gi.
-
-#### SelectionBanterGiannaTullinaReplyTwo
+## SelectionBanterGiannaTullinaReplyTwo
 I was planning to take a nap...
-
-#### SelectionBanterGiannaTullinaReplyThree
+## SelectionBanterGiannaTullinaReplyThree
 ..but I suppose I can squeeze you in beforehand?
-
-#### [DNT-UNUSED] Tullina Introduction
+## [DNT-UNUSED] Tullina Introduction
 [DNT-UNUSED] This Sniper has been keeping me here all day. I need you to navigate through the Estates and kill this Sniper. Be sure to hide behind objects and buildings to avoid their fire!
-
-#### TullinaA5UnderFireWild
+## TullinaA5UnderFireWild
 Hey, who the hell are you? I... - Shite!
-
-#### TullinaA5StayBackWild
+## TullinaA5StayBackWild
 Stay back! We're under fire!
-
-#### TullinaA5PlayerDiesWild
+## TullinaA5PlayerDiesWild
 You can't be serious right now...
-
-#### TullinaA5SniperWild
+## TullinaA5SniperWild
 There's some bastard with a bow up the street taking shots every time we poke our heads out!
-
-#### TullinaA5RescueTibbsWild
+## TullinaA5RescueTibbsWild
 My friend Tibbs is injured down there. I don't know what brought you to this forsaken city, but that gemling sniper doesn't care what side you're on. If you can take the long way round and sneak up behind him, I'll do my best to keep him distracted.
-
-#### TullinaA5IntroSniperWild
+## TullinaA5IntroSniperWild
 Are you seriously asking me my name right now? I'm Tullina. Come on, let's rescue Tibbs!
-
-#### TullinaA5ShoutToTibbs_Random
+## TullinaA5ShoutToTibbs_Random
 Hold fast, Tibbs!
-
-#### TullinaA5ShoutToTibbs_2
+## TullinaA5ShoutToTibbs_2
 I'm working on a plan!
-
-#### TullinaA5ShoutToTibbs_3
+## TullinaA5ShoutToTibbs_3
 Hang in there, Tibbs!
-
-#### TullinaA5RundownWild
+## TullinaA5RundownWild
 Tibbs can give you the rundown on what you're in for.
-
-#### TullinaA5LeavingDenWild
+## TullinaA5LeavingDenWild
 Come on, Tibbs, let's get you out of here.
-
-#### TullinaA5TownIntro
+## TullinaA5TownIntro
 Thanks for giving us a hand back there. This bolt-hole reminds me of my old home. This'll be a good place for Tibbs to rest up and heal. Did I mention my name's Tullina? Well, now I have.
-
-#### TullinaA5ExoticWine
+## TullinaA5ExoticWine
 Thanks for retrieving that exotic wine. A shame I had to hang back with Tibbs, that Den sounded like my kind of party!
-
-#### TullinaA5OnOriath
+## TullinaA5OnOriath
 We knew Oriath was a dangerous place, but we figured we could sneak our way through for a big enough payoff. That was a huge mistake. All the monstrous little secrets the Templars kept hidden are now free to roam. This place is beyond deadly. It's outright cursed.
-
-#### TullinaA5OldHome
+## TullinaA5OldHome
 Family is whoever won't rob and kill you when you're vulnerable. Seems pretty relevant right now, what with Tibbs' injury, and this collection of strangers holed up together. I never truly feel safe, but I'll be less on edge once we get back to the Rogue Harbour, especially now that Tibbs is back from his... sabbatical.
-
-#### TullinaA5OnRogueMarkers
+## TullinaA5OnRogueMarkers
 You did pretty well back there. You're still green to the whole thievery thing, but don't worry, we can work on that. Rogue Markers aren't just the currency of the Ring. They also serve a purpose. If you activate one, it'll give you access to the Rogue Harbour. If you're interested in joining us, I'll vouch for you.
-
-#### TullinaA5OnTibbs
+## TullinaA5OnTibbs
 You'll never meet a stronger - or kinder - man. He doesn't let on, but I know he has a heart of gold... and boy, do I love trying to steal gold...
-
-#### TullinaA5OnOthers
+## TullinaA5OnOthers
 Don't worry, we'll take them with us when we go. Wouldn't feel right to leave them in this cursed wasteland of a dead city.
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE2

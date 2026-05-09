@@ -1,11 +1,8 @@
-# Lark
-
-## Dialogue
-#### [DNT-UNUSED] Interrogate
+## [DNT-UNUSED] Interrogate
 [DNT-UNUSED] Uh-oh.
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE2

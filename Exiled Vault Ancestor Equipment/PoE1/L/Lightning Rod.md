@@ -1,12 +1,12 @@
-# Lightning Rod
 [[Valako Tribe]]
 Valako's gifts are unpredictable, but welcome.
 
 #
 ![[LightningRod.webp]]
 
+#
 ---
-## Tags
+# Tags
 #Category/AncestorEquipment
 #Character/God/Valako 
 #League/Ancestor

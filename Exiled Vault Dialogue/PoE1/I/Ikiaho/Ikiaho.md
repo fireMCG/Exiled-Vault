@@ -1,368 +1,276 @@
-# Ikiaho
-
-## Dialogue
-#### AncestralIkiahoMoonsGraceRandom
+## AncestralIkiahoMoonsGraceRandom
 Moon's grace!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - AncestralIkiahoMoonsGraceRandom.ogg]]
-
-#### AncestralIkiahoSilverCometRandom
+## AncestralIkiahoSilverCometRandom
 Silver comet!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - AncestralIkiahoSilverCometRandom.ogg]]
-
-#### AncestralIkiahoLunarGaleRandom
+## AncestralIkiahoLunarGaleRandom
 Lunar gale!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - AncestralIkiahoLunarGaleRandom.ogg]]
-
-#### IkiahoLikesPlayerIsChampion
+## IkiahoLikesPlayerIsChampion
 The makanga will win again. I am sure of it.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoLikesPlayerIsChampion.ogg]]
-
-#### IkiahoNeutralPlayerIsChampion
+## IkiahoNeutralPlayerIsChampion
 Makanga or not, this one's up in the air.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoNeutralPlayerIsChampion.ogg]]
-
-#### IkiahoDislikesPlayerIsChampion
+## IkiahoDislikesPlayerIsChampion
 Will someone please take down this makanga already?
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoDislikesPlayerIsChampion.ogg]]
-
-#### IkiahoLikesPlayerLostLast
+## IkiahoLikesPlayerLostLast
 Win this time, outsider.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoLikesPlayerLostLast.ogg]]
-
-#### IkiahoNeutralPlayerLostLast
+## IkiahoNeutralPlayerLostLast
 The outsider might be able to take this one.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoNeutralPlayerLostLast.ogg]]
-
-#### IkiahoDislikesPlayerLostLast
+## IkiahoDislikesPlayerLostLast
 There's no way the outsider wins this battle.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoDislikesPlayerLostLast.ogg]]
-
-#### IkiahoLikesPlayerNoRecord
+## IkiahoLikesPlayerNoRecord
 I will be watching your fighting style carefully, outsider.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoLikesPlayerNoRecord.ogg]]
-
-#### IkiahoNeutralPlayerNoRecord
+## IkiahoNeutralPlayerNoRecord
 If nothing else, this will be new.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoNeutralPlayerNoRecord.ogg]]
-
-#### IkiahoDislikesPlayerNoRecord
+## IkiahoDislikesPlayerNoRecord
 I'm not convinced letting an outsider participate is a good idea.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoDislikesPlayerNoRecord.ogg]]
-
-#### IkiahoCommentsOnAkoya
+## IkiahoCommentsOnAkoya
 Surely the followers of the God of War can handle a simple battle.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentsOnAkoya.ogg]]
-
-#### IkiahoCommentsOnKahuturoa
+## IkiahoCommentsOnKahuturoa
 The Night is all-encompassing. It cannot be defeated.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentsOnKahuturoa.ogg]]
-
-#### IkiahoCommentsOnKaom
+## IkiahoCommentsOnKaom
 Look at all those warriors following Kaom! Have they not heard what happens to his men?
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentsOnKaom.ogg]]
-
-#### IkiahoCommentsOnKiloava
+## IkiahoCommentsOnKiloava
 Bluster like thunder, strike like lightning, Kiloava.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentsOnKiloava.ogg]]
-
-#### IkiahoCommentsOnMaata
+## IkiahoCommentsOnMaata
 Maata's probably got this one. Uses his head.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentsOnMaata.ogg]]
-
-#### IkiahoCommentsOnRakiata
+## IkiahoCommentsOnRakiata
 The sea is most beautiful when it reflects the Moon!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentsOnRakiata.ogg]]
-
-#### IkiahoCommentsOnTawhanuku
+## IkiahoCommentsOnTawhanuku
 Tawhanuku! Bring death to the field!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentsOnTawhanuku.ogg]]
-
-#### IkiahoCommentsOnUtula
+## IkiahoCommentsOnUtula
 It's amazing the Kitavans can move at all with such gorged bellies.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentsOnUtula.ogg]]
-
-#### IkiahoCommentsOnAhuana
+## IkiahoCommentsOnAhuana
 How does such a heavy ego stay hanging in the sky? Ramako should fall, so that the Moon may rise instead.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentsOnAhuana.ogg]]
-
-#### IkiahoFightBeginsPlayerWonLast1
+## IkiahoFightBeginsPlayerWonLast1
 You reached your apex in our last fight. Now, you will fall.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoFightBeginsPlayerWonLast1.ogg]]
-
-#### IkiahoFightBeginsPlayerLostLast1
+## IkiahoFightBeginsPlayerLostLast1
 Let us see what you have learned since our last conflict.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoFightBeginsPlayerLostLast1.ogg]]
-
-#### IkiahoFightBeginsPlayerMoreSoldiers1
+## IkiahoFightBeginsPlayerMoreSoldiers1
 You may have more warriors than us, but the Moon has always shined alone.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoFightBeginsPlayerMoreSoldiers1.ogg]]
-
-#### IkiahoFightBeginsPlayerLessSoldiers1
+## IkiahoFightBeginsPlayerLessSoldiers1
 You think you can defeat us while outnumbered? Intriguing.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoFightBeginsPlayerLessSoldiers1.ogg]]
-
-#### IkiahoFightBeginsPlayerMoreItems1
+## IkiahoFightBeginsPlayerMoreItems1
 A well-equipped enemy is more satisfying to defeat.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoFightBeginsPlayerMoreItems1.ogg]]
-
-#### IkiahoFightBeginsPlayerLessItems1
+## IkiahoFightBeginsPlayerLessItems1
 Curious choice of equipment...
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoFightBeginsPlayerLessItems1.ogg]]
-
-#### IkiahoFightBeginsPlayerMoreFieldItems1
+## IkiahoFightBeginsPlayerMoreFieldItems1
 I appreciate your battlefield strategy. That will make this interesting.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoFightBeginsPlayerMoreFieldItems1.ogg]]
-
-#### IkiahoFightBeginsPlayerLessFieldItems1
+## IkiahoFightBeginsPlayerLessFieldItems1
 Battles are often won or lost based on the field itself. We seem to have put more thought into our strategy...
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoFightBeginsPlayerLessFieldItems1.ogg]]
-
-#### IkiahoWarcry1
+## IkiahoWarcry1
 For Arohongui!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoWarcry1.ogg]]
-
-#### IkiahoWarcry3
+## IkiahoWarcry3
 By moonlight!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoWarcry3.ogg]]
-
-#### IkiahoWarcry5
+## IkiahoWarcry5
 We fight!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoWarcry5.ogg]]
-
-#### IkiahoTeamTotemDestroyed1
+## IkiahoTeamTotemDestroyed1
 Ugh!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoTeamTotemDestroyed1.ogg]]
-
-#### IkiahoTeamTotemDestroyed3
+## IkiahoTeamTotemDestroyed3
 They got one!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoTeamTotemDestroyed3.ogg]]
-
-#### IkiahoTeamTotemDestroyed5
+## IkiahoTeamTotemDestroyed5
 We'll have to fight harder!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoTeamTotemDestroyed5.ogg]]
-
-#### IkiahoTotemDestroyed1
+## IkiahoTotemDestroyed1
 Ah! I'm out!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoTotemDestroyed1.ogg]]
-
-#### IkiahoTotemDestroyed3
+## IkiahoTotemDestroyed3
 They got me!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoTotemDestroyed3.ogg]]
-
-#### IkiahoTotemDestroyed5
+## IkiahoTotemDestroyed5
 Fight harder, my warriors!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoTotemDestroyed5.ogg]]
-
-#### IkiahoYourTeamTotemDestroyed1
+## IkiahoYourTeamTotemDestroyed1
 That's one for us!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoYourTeamTotemDestroyed1.ogg]]
-
-#### IkiahoYourTeamTotemDestroyed3
+## IkiahoYourTeamTotemDestroyed3
 Now is the time!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoYourTeamTotemDestroyed3.ogg]]
-
-#### IkiahoYourTeamTotemDestroyed5
+## IkiahoYourTeamTotemDestroyed5
 We have the advantage!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoYourTeamTotemDestroyed5.ogg]]
-
-#### IkiahoYourTotemDestroyed1
+## IkiahoYourTotemDestroyed1
 Their leader is down!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoYourTotemDestroyed1.ogg]]
-
-#### IkiahoYourTotemDestroyed3
+## IkiahoYourTotemDestroyed3
 They are vulnerable!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoYourTotemDestroyed3.ogg]]
-
-#### IkiahoYourTotemDestroyed5
+## IkiahoYourTotemDestroyed5
 Get the rest!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoYourTotemDestroyed5.ogg]]
-
-#### IkiahoCommentDefeatedYou1
+## IkiahoCommentDefeatedYou1
 Victory is ours!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentDefeatedYou1.ogg]]
-
-#### IkiahoCommentWhenDefeated1
+## IkiahoCommentWhenDefeated1
 I thought we had that one...
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentWhenDefeated1.ogg]]
-
-#### IkiahoCommentsFromStandsOnMatch1
+## IkiahoCommentsFromStandsOnMatch1
 That was an interesting match.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentsFromStandsOnMatch1.ogg]]
-
-#### IkiahoCommentPurchaseItem1
+## IkiahoCommentPurchaseItem1
 That was made with care.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentPurchaseItem1.ogg]]
-
-#### IkiahoCommentPurchaseItem3
+## IkiahoCommentPurchaseItem3
 Employ it wisely.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentPurchaseItem3.ogg]]
-
-#### IkiahoCommentPurchaseFieldItem1
+## IkiahoCommentPurchaseFieldItem1
 That will help you win, if used well.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentPurchaseFieldItem1.ogg]]
-
-#### IkiahoCommentPurchaseFieldItem3
+## IkiahoCommentPurchaseFieldItem3
 Deal.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentPurchaseFieldItem3.ogg]]
-
-#### IkiahoCommentInspectRecruits1
+## IkiahoCommentInspectRecruits1
 This is what we have to offer.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentInspectRecruits1.ogg]]
-
-#### IkiahoCommentInspectRecruits3
+## IkiahoCommentInspectRecruits3
 What you see is what you get.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentInspectRecruits3.ogg]]
-
-#### IkiahoCommentRecruitRecruit1
+## IkiahoCommentRecruitRecruit1
 Your choice is made.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentRecruitRecruit1.ogg]]
-
-#### IkiahoCommentRecruitRecruit3
+## IkiahoCommentRecruitRecruit3
 Okay.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentRecruitRecruit3.ogg]]
-
-#### IkiahoLikesHerTurtle1
+## IkiahoLikesHerTurtle1
 Tortoises are nature's armored knights.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoLikesHerTurtle1.ogg]]
-
-#### Ahuana's Defeat
+## Ahuana's Defeat
 Ahuana is very positive, even in defeat. I don't despise positivity, I just don't often feel it.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Ahuana's Defeat.ogg]]
-
-#### Ahuana's Victory
+## Ahuana's Victory
 It doesn't matter that you lost to Ahuana. You'll have plenty of chances to try again.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Ahuana's Victory.ogg]]
-
-#### Kaom's Defeat
+## Kaom's Defeat
 Kaom will not learn humility from his defeat.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Kaom's Defeat.ogg]]
-
-#### Kaom's Victory
+## Kaom's Victory
 Defeating you likely just grew Kaom's ego three sizes.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Kaom's Victory.ogg]]
-
-#### Utula's Defeat
+## Utula's Defeat
 Utula needs a lesson enforced by strength. I won't let him tear this place down.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Utula's Defeat.ogg]]
-
-#### Utula's Victory
+## Utula's Victory
 Don't let Utula defeat you again. He might think he can take us all on.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Utula's Victory.ogg]]
-
-#### Kahuturoa's Victory
+## Kahuturoa's Victory
 Your victory against Kahuturoa would not have happened a thousand years ago. He's fighting with less interest these days.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Kahuturoa's Victory.ogg]]
-
-#### IkiahoPlayerLostVsKahuturoa
+## IkiahoPlayerLostVsKahuturoa
 Kahuturoa defeated you, as expected. You'll have to strategise to win against him.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoPlayerLostVsKahuturoa.ogg]]
-
-#### Kiloava's Defeat
+## Kiloava's Defeat
 The first Herald of War does not enjoy losing.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Kiloava's Defeat.ogg]]
-
-#### Kiloava's Victory
+## Kiloava's Victory
 Kiloava greatly enjoys battle. I'm sure he enjoyed defeating you, too.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Kiloava's Victory.ogg]]
-
-#### Rakiata's Defeat
+## Rakiata's Defeat
 I'm rather amazed you managed to defeat Rakiata. I'll be watching you, outsider.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Rakiata's Defeat.ogg]]
-
-#### Rakiata's Victory
+## Rakiata's Victory
 Rakiata has a strength most aren't expecting. I'm sure you felt that, though, when you got hit in the face.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Rakiata's Victory.ogg]]
-
-#### Tawhanuku's Defeat
+## Tawhanuku's Defeat
 Hmm. Tawhanuku lost a battle. Curious.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Tawhanuku's Defeat.ogg]]
-
-#### Tawhanuku's Victory
+## Tawhanuku's Victory
 I expected Tawhanuku to defeat you. She chooses her battles carefully.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Tawhanuku's Victory.ogg]]
-
-#### Ikiaho's Defeat
+## Ikiaho's Defeat
 The Moon can't stay high in the sky forever. I didn't expect to win every time.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Ikiaho's Defeat.ogg]]
-
-#### Ikiaho's Victory
+## Ikiaho's Victory
 The Moon soars high above the mortal world. So it is with battle as well.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Ikiaho's Victory.ogg]]
-
-#### Match Victory
+## Match Victory
 That was certainly a victory, outsider.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Match Victory.ogg]]
-
-#### Match Loss
+## Match Loss
 You lost, outsider. You must do better.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Match Loss.ogg]]
-
-#### IkiahoCommentOnPurchaseItemKahuturoa
+## IkiahoCommentOnPurchaseItemKahuturoa
 Rongokurai, ally to the night, ally to mortals!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentOnPurchaseItemKahuturoa.ogg]]
-
-#### IkiahoCommentOnPurchaseItemRakiata
+## IkiahoCommentOnPurchaseItemRakiata
 They'll never let you down.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentOnPurchaseItemRakiata.ogg]]
-
-#### IkiahoCommentOnPurchaseEliteKahuturoa
+## IkiahoCommentOnPurchaseEliteKahuturoa
 A strong choice.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentOnPurchaseEliteKahuturoa.ogg]]
-
-#### IkiahoCommentOnPurchaseEliteRakiata
+## IkiahoCommentOnPurchaseEliteRakiata
 No one can fight the sea and win!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoCommentOnPurchaseEliteRakiata.ogg]]
-
-#### IkiahoConversationWithKahuturoaOne
+## IkiahoConversationWithKahuturoaOne
 The answer's still no, Kahu!
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoConversationWithKahuturoaOne.ogg]]
-
-#### IkiahoConversationWithRakiataOne
+## IkiahoConversationWithRakiataOne
 I wish I could see the Moon from here.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoConversationWithRakiataOne.ogg]]
-
-#### IkiahoConversationWithRakiataTwo
+## IkiahoConversationWithRakiataTwo
 That would be nice...
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoConversationWithRakiataTwo.ogg]]
-
-#### IkiahoRandomShout1
+## IkiahoRandomShout1
 Does anyone have any meat left over from today's meal? I'm still hungry.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - IkiahoRandomShout1.ogg]]
-
-#### Arohongui
+## Arohongui
 The Daughter of the Moon has my tribe's eternal loyalty. Alone among the gods, she has no agenda of her own. The rest all seek something endlessly whatever it was that gave each of them a divine spark but Arohongui was born divine, and chose to aid the Karui people as much as she could. She did not ask us for loyalty, and that is why she has it.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Arohongui.ogg]]
-
-#### The Deceiver
+## The Deceiver
 Ramako's claim that someone impersonated him and visited with Lani Hua in his guise... may be true. We follow Arohongui with utmost loyalty, but my tribe certainly noticed that she never expressed any divine abilities having to do with light or warmth. When tending wounded warriors, she would often give them visions of beautiful landscapes and shining waters to help calm them. When tending the dying, she gave them visions of their family, until the spirits of their Ancestors truly greeted them here in the Halls of the Dead. These are acts of mercy and kindness, but they are not powers of the Sun or the Moon. I have long suspected that there is something within each of us, some pattern or essence of who we are, that each parent passes down to a child. If my suspicion is correct, then it is not possible that Ramako is Arohongui's father. There is only one sensible conclusion, and that, we keep to ourselves, so as not to disrupt the balance of the skies.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - The Deceiver.ogg]]
-
-#### Lani Hua
+## Lani Hua
 Many believe that the Mother of the Moon has been off fighting a war against the Mother of the Sun for thousands of years. While Lani Hua is indeed absent, it is not to fight against her sister. The wounded souls from that war are sent to the silver palace, where Arohongui tends to them until they may rejoin the fight. Those warrior souls cry out in fear and torment as they lay in hospice. They speak not of war with Sione, but of a war with the stars themselves. They have been sworn to silence by both Sione and Lani Hua, but the feverish ones cannot help but rant. Apparently, the two sisters did go out into the night sky to wage war upon one another, but when they got there, they encountered something horrible, something that drives even the strongest warrior to madness and panic. We have not been abandoned by our two strongest gods. They are out there protecting us every single minute of every single day, and they cannot rest for even a moment. That's what the tales say, in any case. I don't know how much of that I actually believe.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Lani Hua.ogg]]
-
-#### Ramako
+## Ramako
 The Ramako Tribe, like us, often uses ice and cold in their warmaking. That is because Ramako has long loved Lani Hua, Arohongui's mother, in secret. He fights not for himself, but for her. His people do the same. I don't understand it at all, but it is what it is.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Ramako.ogg]]
-
-#### Traditions
+## Traditions
 They never stop asking. How arrogant! Even if we remain here for ten thousand years, I will never go through the traditions with them. I will participate in the battles because I enjoy fighting, but this is {their} culture. They seem unaware that I do not intend to fit their expectations. My heart warms for no one. I do not know what love is, only that it motivates others to act like fools and monsters, depending on their inclinations. Perhaps I do have a frozen heart, but that doesn't mean I feel nothing. Their words still hurt me, perhaps even more than their weapons.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Traditions.ogg]]
-
-#### Rakiata
+## Rakiata
 There are few here who understand. Karui culture can often be excessively focused on having certain traits, such as strength or bravado. Certain duties are expected of each of us, whether or not we want to fulfill them. I died long before Rakiata, so we never met in life, but here in the Halls of the Dead, they're my closest friend. In death, I actually feel understood. For that, I can never begrudge this place.
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Rakiata.ogg]]
-
-#### The End of Time
+## The End of Time
 There are many fables about the end of the world, but those are just metaphors. My tribe knows how it will really happen. The Moon, in the sky above, follows a roughly oval path around us. Did you know that our world is actually shaped like the Moon? Most believe that Wraeclast is flat, because that is the obvious interpretation of what we see. However, in studying the Moon, my tribe has discovered the truth. Also, we realised that the Moon's path is not exact. Over many, {many} thousands of years, it is changing slightly... toward us. We have come to understand that the world will end when the Moon comes too close and falls upon us. This is not myth. This is knowledge. What else could possibly happen when two such titanic spheres of stone crash into each other?
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - The End of Time.ogg]]
-
-#### Knowledge
+## Knowledge
 I have always been fascinated by the pursuit of knowledge. There is a pattern underneath everything we see. This pattern preceded even the gods. If something in the world around you works a certain way, it will always work that way. If it does not, something else is happening, and you must investigate. In life, I followed these questions to the heart of the pattern, and it took me to a vast lake... but I do not remember what I found there...
 ![[Exiled Vault Dialogue/PoE1/I/Ikiaho/_Audio/Ikiaho - Knowledge.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

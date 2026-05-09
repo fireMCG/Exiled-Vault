@@ -1,11 +1,11 @@
-# Battle Call
 If you hear the call, you must answer.
 
 #
 ![[ConchTrumpet.webp]]
 
+#
 ---
-## Tags
+# Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

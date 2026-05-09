@@ -1,28 +1,21 @@
-# The Bloated Miller
-
-## Dialogue
-#### SwollenMillerAttackARandom
+## SwollenMillerAttackARandom
 Split you!
 ![[Exiled Vault Dialogue/PoE2/T/The Bloated Miller/_Audio/The Bloated Miller - SwollenMillerAttackARandom.ogg]]
-
-#### SwollenMillerAttackBRandom
+## SwollenMillerAttackBRandom
 Die!
 ![[Exiled Vault Dialogue/PoE2/T/The Bloated Miller/_Audio/The Bloated Miller - SwollenMillerAttackBRandom.ogg]]
-
-#### SwollenMillerAttackC
+## SwollenMillerAttackC
 In half!
 ![[Exiled Vault Dialogue/PoE2/T/The Bloated Miller/_Audio/The Bloated Miller - SwollenMillerAttackC.ogg]]
-
-#### SwollenMillerAggro
+## SwollenMillerAggro
 Saw you in half!
 ![[Exiled Vault Dialogue/PoE2/T/The Bloated Miller/_Audio/The Bloated Miller - SwollenMillerAggro.ogg]]
-
-#### SwollenMillerSaw
+## SwollenMillerSaw
 SwollenMillerSaw
 ![[Exiled Vault Dialogue/PoE2/T/The Bloated Miller/_Audio/The Bloated Miller - SwollenMillerSaw.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE2

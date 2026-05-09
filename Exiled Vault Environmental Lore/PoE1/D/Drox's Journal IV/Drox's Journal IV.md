@@ -1,12 +1,9 @@
-# Drox's Journal IV
-
-## Lore
-#### Read
+## Read
 The people hail their king! They cheer for the awe and power of my reign as I fell enemy after enemy in a blaze of golden glory. This is justice! Free lands for a free people, raising their hands and shouting their hopes out of the mists as I obliterate the enemies that fill these lands. Finally, we are free, through the force of our arms and the blade of justice. I shall never rest, so that my people may fill the valleys of the Atlas and prosper. They will know me as they know the Sun, shining on them as I pass in a golden blaze. Drox the Warlord
 ![[Exiled Vault Environmental Lore/PoE1/D/Drox's Journal IV/_Audio/Drox's Journal IV - Read.ogg]]
 
-##
+#
 ---
-## Tags
-#EnvironmentalLore
+# Tags
+#Category/Lore/Environmental
 #PoE1

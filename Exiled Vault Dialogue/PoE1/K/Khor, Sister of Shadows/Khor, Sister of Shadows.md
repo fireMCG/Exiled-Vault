@@ -1,56 +1,42 @@
-# Khor, Sister of Shadows
-
-## Dialogue
-#### KhorIntroOne
+## KhorIntroOne
 No, sister, we were not.
 ![[Exiled Vault Dialogue/PoE1/K/Khor, Sister of Shadows/_Audio/Khor, Sister of Shadows - KhorIntroOne.ogg]]
-
-#### KhorIntroTwo
+## KhorIntroTwo
 You desecrate our sanctum!
 ![[Exiled Vault Dialogue/PoE1/K/Khor, Sister of Shadows/_Audio/Khor, Sister of Shadows - KhorIntroTwo.ogg]]
-
-#### KhorIntroThree
+## KhorIntroThree
 Pay no worship to the garish sun!
 ![[Exiled Vault Dialogue/PoE1/K/Khor, Sister of Shadows/_Audio/Khor, Sister of Shadows - KhorIntroThree.ogg]]
-
-#### KhorDeathOne
+## KhorDeathOne
 You fought well, sister.
 ![[Exiled Vault Dialogue/PoE1/K/Khor, Sister of Shadows/_Audio/Khor, Sister of Shadows - KhorDeathOne.ogg]]
-
-#### KhorDeathTwo
+## KhorDeathTwo
 I am... done...
 ![[Exiled Vault Dialogue/PoE1/K/Khor, Sister of Shadows/_Audio/Khor, Sister of Shadows - KhorDeathTwo.ogg]]
-
-#### KhorDeathThree
+## KhorDeathThree
 Dawn comes... at last...
 ![[Exiled Vault Dialogue/PoE1/K/Khor, Sister of Shadows/_Audio/Khor, Sister of Shadows - KhorDeathThree.ogg]]
-
-#### KhorDarknessRandom
+## KhorDarknessRandom
 Darkness!
 ![[Exiled Vault Dialogue/PoE1/K/Khor, Sister of Shadows/_Audio/Khor, Sister of Shadows - KhorDarknessRandom.ogg]]
-
-#### KhorBeEnvelopedRandom
+## KhorBeEnvelopedRandom
 Be enveloped!
 ![[Exiled Vault Dialogue/PoE1/K/Khor, Sister of Shadows/_Audio/Khor, Sister of Shadows - KhorBeEnvelopedRandom.ogg]]
-
-#### KhorChillOfNightRandom
+## KhorChillOfNightRandom
 Chill of night!
 ![[Exiled Vault Dialogue/PoE1/K/Khor, Sister of Shadows/_Audio/Khor, Sister of Shadows - KhorChillOfNightRandom.ogg]]
-
-#### KhorDarknessSwallowRandom
+## KhorDarknessSwallowRandom
 Darkness swallow you!
 ![[Exiled Vault Dialogue/PoE1/K/Khor, Sister of Shadows/_Audio/Khor, Sister of Shadows - KhorDarknessSwallowRandom.ogg]]
-
-#### KhorShadowsFallRandom
+## KhorShadowsFallRandom
 Shadows, fall!
 ![[Exiled Vault Dialogue/PoE1/K/Khor, Sister of Shadows/_Audio/Khor, Sister of Shadows - KhorShadowsFallRandom.ogg]]
-
-#### KhorSisterRandom
+## KhorSisterRandom
 Sister!
 ![[Exiled Vault Dialogue/PoE1/K/Khor, Sister of Shadows/_Audio/Khor, Sister of Shadows - KhorSisterRandom.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

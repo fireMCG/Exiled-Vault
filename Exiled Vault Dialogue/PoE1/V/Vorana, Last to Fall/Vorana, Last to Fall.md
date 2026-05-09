@@ -1,80 +1,60 @@
-# Vorana, Last to Fall
-
-## Dialogue
-#### VoranaEmerge
+## VoranaEmerge
 I will not rest until this land is cleansed!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaEmerge.ogg]]
-
-#### VoranaPerishRandom
+## VoranaPerishRandom
 Perish!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaPerishRandom.ogg]]
-
-#### VoranaDeathWindRandom
+## VoranaDeathWindRandom
 Death wind!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaDeathWindRandom.ogg]]
-
-#### VoranaFallBeforeMeRandom
+## VoranaFallBeforeMeRandom
 Fall before me!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaFallBeforeMeRandom.ogg]]
-
-#### VoranaCutYouDownRandom
+## VoranaCutYouDownRandom
 I shall cut you down!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaCutYouDownRandom.ogg]]
-
-#### VoranaForTheKingRandom
+## VoranaForTheKingRandom
 For the King!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaForTheKingRandom.ogg]]
-
-#### VoranaToTheDeathRandom
+## VoranaToTheDeathRandom
 To the death!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaToTheDeathRandom.ogg]]
-
-#### VoranaCullRandom
+## VoranaCullRandom
 Cull!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaCullRandom.ogg]]
-
-#### VoranaReapRandom
+## VoranaReapRandom
 Reap!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaReapRandom.ogg]]
-
-#### VoranaReap6
+## VoranaReap6
 Rend!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaReap6.ogg]]
-
-#### VoranaReap10
+## VoranaReap10
 Black Scythe!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaReap10.ogg]]
-
-#### VoranaDefeatRandom
+## VoranaDefeatRandom
 What have I become... ?
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaDefeatRandom.ogg]]
-
-#### VoranaTheStarsRandom
+## VoranaTheStarsRandom
 The stars... bring only doom...
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaTheStarsRandom.ogg]]
-
-#### VoranaMedvedRandom
+## VoranaMedvedRandom
 Medved...
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaMedvedRandom.ogg]]
-
-#### VoranaScytheRandom
+## VoranaScytheRandom
 Scythe!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaScytheRandom.ogg]]
-
-#### VoranaDarkScytheRandom
+## VoranaDarkScytheRandom
 Dark Scythe!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaDarkScytheRandom.ogg]]
-
-#### VoranaBloodreapRandom
+## VoranaBloodreapRandom
 Bloodreap!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaBloodreapRandom.ogg]]
-
-#### VoranaColdIronRandom
+## VoranaColdIronRandom
 Cold iron!
 ![[Exiled Vault Dialogue/PoE1/V/Vorana, Last to Fall/_Audio/Vorana, Last to Fall - VoranaColdIronRandom.ogg]]
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE1

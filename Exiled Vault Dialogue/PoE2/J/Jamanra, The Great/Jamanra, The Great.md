@@ -1,35 +1,24 @@
-# Jamanra, The Great
-
-## Dialogue
-#### JamanraIntro
+## JamanraIntro
 The Scourge of the Vastiri will ride once more. All will bow - or die!
-
-#### JamanraPhaseOne
+## JamanraPhaseOne
 We who have nothing need nothing.
-
-#### JamanraPhaseTwo
+## JamanraPhaseTwo
 We who need nothing have everything!
-
-#### JamanraAllShallServe
+## JamanraAllShallServe
 All shall serve!
-
-#### JamanraBeForgotten
+## JamanraBeForgotten
 Be forgotten!
-
-#### JamanraBeUndone
+## JamanraBeUndone
 Be undone!
-
-#### JamanraCower
+## JamanraCower
 Cower before Jamanra!
-
-#### JamanraWeChoose
+## JamanraWeChoose
 We choose might!
-
-#### JamanraDeath
+## JamanraDeath
 We will... rise... again...
 
-##
+#
 ---
-## Tags
-#Dialogue
+# Tags
+#Category/Dialogue
 #PoE2
