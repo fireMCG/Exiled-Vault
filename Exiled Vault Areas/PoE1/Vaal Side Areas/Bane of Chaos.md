@@ -1,8 +1,7 @@
-# Bane of Chaos
+# Flavour Text
 In every possibility, in every world that might have been, Queen Atziri's mark on history was the one thing that never changed.
 
-#
-## Effect
+# Effect
 Unique Boss deals 50% increased Damage
 Unique Boss has 35% increased Attack and Cast Speed
 Unique Bosses are Possessed
@@ -13,6 +12,6 @@ Vaal Vessel contains an additional The Adorned, Crimson Jewel
 ---
 ## Tags
 #Attributes/Timeline 
-#Category/Area
+#Category/Area/VaalSide
 #Society/VaalEmpire 
 #Interesting

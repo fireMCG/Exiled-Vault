@@ -1,0 +1,13 @@
+# Flavour Text
+The secrets of history lie hidden among layers of dirt and sand.
+
+# Connected Areas
+- The Vastiri Desert
+- The Boiling Lake
+- The Tunnel
+
+#
+---
+# Tags
+#Category/Area/Campaign
+#PoE1

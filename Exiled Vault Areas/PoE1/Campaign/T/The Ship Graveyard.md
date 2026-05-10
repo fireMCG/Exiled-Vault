@@ -1,0 +1,13 @@
+# Flavour Text
+Whispered agonies of the marooned dead.
+
+# Connected Areas
+- Prisoner's Gate
+- The Ship Graveyard Cave
+- The Cavern of Wrath
+
+#
+---
+# Tags
+#Category/Area/Campaign
+#PoE1

@@ -1,0 +1,12 @@
+# Flavour Text
+What was once the heart of the city is now the heart of the battle.
+
+# Connected Areas
+- The Control Blocks
+- The Templar Courts
+
+#
+---
+# Tags
+#Category/Area/Campaign
+#PoE1

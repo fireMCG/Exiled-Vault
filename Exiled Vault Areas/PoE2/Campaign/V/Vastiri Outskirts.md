@@ -1,0 +1,12 @@
+# Flavour Text
+Corruption has come to the desert, but these sands have always been red.
+
+# Connected Areas
+- Clearfell Encampment
+- The Ardura Caravan
+
+#
+---
+# Tags
+#Category/Area/Campaign 
+#PoE2

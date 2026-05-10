@@ -6,6 +6,5 @@ Within the storm, warriors can be seen, heard and feared.
 #
 ---
 ## Tags
-#Category/Area
-#Category/Map
+#Category/Area/Atlas/Anomaly
 #PoE2 
