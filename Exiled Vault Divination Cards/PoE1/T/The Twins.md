@@ -16,5 +16,5 @@ Item Level: 83
 #Category/DivinationCard
 #Concept/Mirror
 #Concept/Sun
-#DivinationCard
 #PoE1
+#Interesting 

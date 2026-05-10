@@ -18,5 +18,4 @@ Daresso's Salute
 #Concept/King
 #Concept/Sun
 #Concept/Virtue/Honour
-#DivinationCard
 #PoE1

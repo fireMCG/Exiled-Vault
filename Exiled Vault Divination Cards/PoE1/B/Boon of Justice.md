@@ -12,5 +12,5 @@ Offering to the Goddess
 #Category/DivinationCard
 #Concept/Goddess
 #Concept/Religion/Devotion
-#DivinationCard
 #PoE1
+#Interesting 

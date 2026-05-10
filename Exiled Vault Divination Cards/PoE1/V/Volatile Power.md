@@ -11,10 +11,9 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Corruption
 #Concept/Mind
 #Concept/Power
 #Concept/Virtue/Gem
-#Category/DivinationCard
-#DivinationCard
 #PoE1

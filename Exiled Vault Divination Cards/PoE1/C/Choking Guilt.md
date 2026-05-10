@@ -12,5 +12,5 @@ Stranglegasp
 #Category/DivinationCard
 #Concept/Darkness
 #Concept/Emotion/Guilt
-#DivinationCard
 #PoE1
+#Interesting 

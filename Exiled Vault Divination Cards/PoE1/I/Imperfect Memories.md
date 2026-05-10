@@ -15,5 +15,5 @@ Synthesised
 #Concept/Memory
 #Category/DivinationCard
 #League/Synthesis
-#DivinationCard
 #PoE1
+#Interesting 

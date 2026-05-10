@@ -17,5 +17,5 @@ Corrupted
 #Concept/Body/Heart
 #Concept/Purity
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

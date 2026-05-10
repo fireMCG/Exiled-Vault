@@ -11,11 +11,11 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Golem
 #Concept/Protection
 #Concept/Secret
 #Concept/Space
 #Concept/Virtue/Gem
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

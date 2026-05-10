@@ -10,5 +10,4 @@ Incarnation Echo
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

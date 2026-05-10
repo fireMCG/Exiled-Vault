@@ -14,5 +14,5 @@ Uber Elder Fragment
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper
 #Concept/Time
-#DivinationCard
 #PoE1
+#Interesting 

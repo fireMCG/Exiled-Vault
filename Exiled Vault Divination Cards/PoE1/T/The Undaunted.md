@@ -17,5 +17,5 @@ Corrupted
 #Concept/Eclipse
 #Concept/Fate
 #League/Nemesis
-#DivinationCard
 #PoE1
+#Interesting 

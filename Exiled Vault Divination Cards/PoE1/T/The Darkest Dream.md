@@ -15,5 +15,5 @@ Corrupted
 #Concept/Night/Dream
 #Concept/Night/Dreamer
 #Concept/Night/Nightmare
-#DivinationCard
 #PoE1
+#Interesting 

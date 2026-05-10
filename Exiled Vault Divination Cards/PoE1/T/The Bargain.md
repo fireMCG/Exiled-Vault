@@ -9,9 +9,9 @@ Disabled
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Power
 #Concept/Wealth
-#Category/DivinationCard
 #League/Breach
-#DivinationCard
 #PoE1
+#Interesting 

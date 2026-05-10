@@ -13,5 +13,5 @@ Map
 #Concept/Border
 #Concept/Time/Cycle
 #Concept/World
-#DivinationCard
 #PoE1
+#Interesting 

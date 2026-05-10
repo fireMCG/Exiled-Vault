@@ -16,5 +16,4 @@ House of Mirrors
 #Concept/Life/Immortality
 #Concept/Mirror
 #Concept/Sin/Greed
-#DivinationCard
 #PoE1

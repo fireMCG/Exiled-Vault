@@ -16,10 +16,10 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Body/Eye
 #Concept/Sin
 #Concept/Virtue
 #Concept/Wing
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

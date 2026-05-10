@@ -10,5 +10,4 @@ Carcass Jack
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

@@ -9,8 +9,8 @@ Disabled
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Awakening
 #Concept/Trickery
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

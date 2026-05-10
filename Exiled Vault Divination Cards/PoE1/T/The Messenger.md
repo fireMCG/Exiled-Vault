@@ -8,5 +8,4 @@ Harbinger Item
 # Tags
 #Category/DivinationCard
 #League/Harbinger
-#DivinationCard
 #PoE1

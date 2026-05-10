@@ -13,5 +13,4 @@ Or beyond compare.
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

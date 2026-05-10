@@ -13,5 +13,5 @@ When you find what you're looking for, it's never quite right. When you have wha
 #Concept/Darkness
 #Concept/Desire
 #Concept/Eldritch
-#DivinationCard
 #PoE1
+#Interesting 

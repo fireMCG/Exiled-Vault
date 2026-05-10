@@ -20,5 +20,5 @@ Farrul Item
 #Concept/King
 #Concept/Night
 #Concept/Shadow
-#DivinationCard
 #PoE1
+#Interesting 

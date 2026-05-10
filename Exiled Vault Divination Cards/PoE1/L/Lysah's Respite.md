@@ -2,10 +2,8 @@
 
 # Flavour Text
 So many memories,
-so much pain in
-such a small token.
-Drown it in blood
-so you can forget.
+so much pain in such a small token.
+Drown it in blood so you can forget.
 
 # Reward
 Agate Amulet
@@ -17,5 +15,5 @@ Corrupted
 #Concept/Blood
 #Concept/Memory
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

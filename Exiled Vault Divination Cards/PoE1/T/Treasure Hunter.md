@@ -14,5 +14,4 @@ Corrupted
 #Character/Atziri
 #Character/Toggo
 #Category/DivinationCard
-#DivinationCard
 #PoE1

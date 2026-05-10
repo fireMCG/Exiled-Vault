@@ -24,5 +24,5 @@ Corrupted
 #Concept/Golem
 #Concept/Mind
 #Concept/Stone
-#DivinationCard
 #PoE1
+#Interesting 

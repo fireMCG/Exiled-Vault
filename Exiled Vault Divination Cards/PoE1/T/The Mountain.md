@@ -2,8 +2,7 @@
 
 # Flavour Text
 Charmed by beautiful stones 
-Consumed with the 
-pursuit of perfection 
+Consumed with the pursuit of perfection 
 Ever deeper into the waiting dark
 
 # Reward
@@ -18,5 +17,5 @@ Jewel of Potency
 #Concept/Nature/Mountain
 #Concept/Perfection
 #Concept/Stone
-#DivinationCard
 #PoE1
+#Interesting 

@@ -10,7 +10,6 @@ Inspired Learning
 #
 ---
 # Tags
-#Concept/Virtue/Knowledge
 #Category/DivinationCard
-#DivinationCard
+#Concept/Virtue/Knowledge
 #PoE1

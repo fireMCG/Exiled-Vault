@@ -17,5 +17,5 @@ Rise of the Phoenix
 #Concept/Rebirth
 #Concept/Sun
 #Concept/Wing
-#DivinationCard
 #PoE1
+#Interesting 

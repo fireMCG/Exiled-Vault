@@ -18,5 +18,5 @@ His brother would not atone, so he took his brother's life, and with it, his sin
 #Concept/Life
 #Concept/Sin
 #Concept/Virtue/Innocence
-#DivinationCard
 #PoE1
+#Interesting 

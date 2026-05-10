@@ -15,5 +15,5 @@ Item Level: 85
 #Concept/Darkness
 #Concept/Light
 #Concept/Within
-#DivinationCard
 #PoE1
+#Interesting 

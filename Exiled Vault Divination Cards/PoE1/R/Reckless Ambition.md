@@ -9,11 +9,11 @@ Omeyocan
 #
 ---
 # Tags
+#Category/DivinationCard
 #Character/Conqueror/Sirus
 #Character/Zana
 #Concept/Virtue/Ambition
 #Concept/Aztec
 #Concept/Religion/Heaven
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

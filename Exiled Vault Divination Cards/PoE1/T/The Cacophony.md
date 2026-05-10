@@ -9,10 +9,10 @@ Nothing can be heard above the din or seen amongst the turmoil. The senses are s
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Essence
 #Concept/Fate
 #Concept/Scream
 #Concept/Fracture
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

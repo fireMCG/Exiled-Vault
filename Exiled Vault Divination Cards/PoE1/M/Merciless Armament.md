@@ -3,8 +3,7 @@
 # Flavour Text
 "Through thick and thin,
 blood and bone,
-a peaceful life
-is one I can't condone."
+a peaceful life is one I can't condone."
 - Tukohama, Father Of War
 
 # Reward
@@ -14,7 +13,7 @@ Item Level: 100
 #
 ---
 # Tags
-#Character/God/Tukohama
 #Category/DivinationCard
-#DivinationCard
+#Character/God/Tukohama
 #PoE1
+#Interesting 

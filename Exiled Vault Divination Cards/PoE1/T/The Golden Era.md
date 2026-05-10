@@ -15,5 +15,5 @@ Item Level: 100
 #Concept/Gemling
 #Concept/Moon
 #Concept/Thaumaturgy
-#DivinationCard
 #PoE1
+#Interesting 

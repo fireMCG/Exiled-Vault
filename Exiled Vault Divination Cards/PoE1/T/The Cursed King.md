@@ -1,10 +1,8 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Cursed King.png]]
 
 # Flavour Text
-The First Ones
-may be blasphemy,
-but they are
-powerful blasphemy.
+The First Ones may be blasphemy,
+but they are powerful blasphemy.
 
 # Reward
 Rigwald's Curse
@@ -18,5 +16,5 @@ Rigwald's Curse
 #Concept/FirstOnes
 #Concept/Moon
 #Concept/Power
-#DivinationCard
 #PoE1
+#Interesting 

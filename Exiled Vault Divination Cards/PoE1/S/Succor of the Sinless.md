@@ -9,10 +9,10 @@ Bottled Faith
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Blood
 #Concept/Damnation
 #Concept/Sanctity
 #Concept/Sin
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

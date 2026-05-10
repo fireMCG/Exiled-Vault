@@ -12,5 +12,5 @@ Corrupted
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

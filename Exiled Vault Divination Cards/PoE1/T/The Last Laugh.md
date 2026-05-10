@@ -18,5 +18,5 @@ Corrupted
 #Concept/Balance/Chaos
 #Concept/King
 #Concept/Shadow
-#DivinationCard
 #PoE1
+#Interesting 

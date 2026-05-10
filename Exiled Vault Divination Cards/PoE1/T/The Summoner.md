@@ -14,5 +14,4 @@ Quality: +20%
 #Concept/Necromancy
 #Concept/Night/Nightmare
 #Concept/Undead
-#DivinationCard
 #PoE1

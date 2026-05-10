@@ -12,5 +12,4 @@ Atziri's Disfavour
 #Category/DivinationCard
 #Character/Atziri
 #Society/VaalEmpire
-#DivinationCard
 #PoE1

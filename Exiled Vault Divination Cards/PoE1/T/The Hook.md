@@ -14,5 +14,5 @@ Corrupted
 #Category/DivinationCard
 #Concept/Animal/Fish
 #Concept/Virtue/Gem
-#DivinationCard
 #PoE1
+#Interesting 

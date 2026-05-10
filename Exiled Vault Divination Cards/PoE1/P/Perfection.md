@@ -11,7 +11,6 @@ Shaper Item
 #
 ---
 # Tags
-#Concept/World
 #Category/DivinationCard
-#DivinationCard
+#Concept/World
 #PoE1

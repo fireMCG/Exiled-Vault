@@ -15,5 +15,4 @@ It is said anyone who bears this trinket is the luckiest exile in all of Wraecla
 #Concept/God
 #Concept/Luck
 #Location/Wraeclast
-#DivinationCard
 #PoE1

@@ -11,9 +11,10 @@ Corrupted
 #
 ---
 # Tags
+#Attributes/Timeline 
 #Character/God/Ngamahu
 #Category/DivinationCard
 #Society/Karui/Tribe/Ngamahu
 #Society/VaalEmpire
-#DivinationCard
 #PoE1
+#Interesting 

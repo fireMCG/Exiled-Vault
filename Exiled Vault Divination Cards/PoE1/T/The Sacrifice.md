@@ -17,5 +17,5 @@ Item Level: 100
 #Concept/Mirror
 #Concept/Power
 #Concept/Sacrifice
-#DivinationCard
 #PoE1
+#Interesting 

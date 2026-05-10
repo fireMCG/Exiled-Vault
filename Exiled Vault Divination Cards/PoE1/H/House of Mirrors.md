@@ -12,5 +12,5 @@ Mirror of Kalandra
 #Character/Unknown/Kalandra
 #Concept/Mirror
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

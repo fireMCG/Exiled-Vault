@@ -10,5 +10,5 @@ The Poet's Pen
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

@@ -18,5 +18,5 @@ Corrupted
 #Concept/Moon
 #Concept/Protection
 #Concept/Symbol/Descry
-#DivinationCard
 #PoE1
+#Interesting 

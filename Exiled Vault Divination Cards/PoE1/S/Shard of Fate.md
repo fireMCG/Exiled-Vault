@@ -10,9 +10,9 @@ Vivid Jewel
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Crystal
 #Concept/Fate
 #Concept/Fracture
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

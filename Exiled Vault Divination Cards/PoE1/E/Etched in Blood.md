@@ -14,5 +14,5 @@ Corrupted
 #Character/Rigwald
 #Concept/Virtue/Ambition
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

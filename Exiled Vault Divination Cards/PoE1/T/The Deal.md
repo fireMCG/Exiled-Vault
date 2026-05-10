@@ -12,5 +12,4 @@ Cartography Scarab
 #Category/DivinationCard
 #Concept/Power
 #Concept/Wealth
-#DivinationCard
 #PoE1

@@ -14,5 +14,5 @@ Doryani's Fist
 #Concept/Element/Lightning
 #Concept/Sacrifice
 #Concept/Tower
-#DivinationCard
 #PoE1
+#Interesting 

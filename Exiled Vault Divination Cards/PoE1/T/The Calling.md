@@ -9,9 +9,9 @@ Beyond Item
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Blood
 #Concept/World
-#Category/DivinationCard
 #League/Beyond
-#DivinationCard
 #PoE1
+#Interesting 

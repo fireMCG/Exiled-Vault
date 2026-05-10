@@ -12,5 +12,5 @@ Replica Bated Breath
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

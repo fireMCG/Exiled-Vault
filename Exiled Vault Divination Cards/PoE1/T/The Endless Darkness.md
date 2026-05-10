@@ -15,5 +15,5 @@ Voidforge
 #Concept/Darkness
 #Concept/Space/Star
 #Concept/Void
-#DivinationCard
 #PoE1
+#Interesting 

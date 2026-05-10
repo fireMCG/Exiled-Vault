@@ -17,5 +17,5 @@ Astral Projector
 #Concept/Mind
 #Concept/Soul
 #Concept/World
-#DivinationCard
 #PoE1
+#Interesting 

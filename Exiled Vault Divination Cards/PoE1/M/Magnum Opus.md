@@ -12,10 +12,10 @@ Synthesised
 #
 ---
 # Tags
+#Category/DivinationCard
 #Character/HighTemplar/Venarius
 #Concept/Mind
-#Category/DivinationCard
 #League/Synthesis
 #Location/Wraeclast
-#DivinationCard
 #PoE1
+#Interesting 

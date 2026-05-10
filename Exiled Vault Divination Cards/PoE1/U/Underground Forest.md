@@ -9,8 +9,7 @@
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Nature/Forest
 #Concept/Underground
-#Category/DivinationCard
-#DivinationCard
 #PoE1

@@ -14,5 +14,5 @@ Soul Ripper
 #Concept/Blood
 #Concept/Damnation
 #Concept/Soul
-#DivinationCard
 #PoE1
+#Interesting 

@@ -14,11 +14,11 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Character/Mythology/Thor
 #Concept/Crime
 #Concept/Body/Eye
 #Concept/Balance/Justice
 #Concept/Vengeance
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

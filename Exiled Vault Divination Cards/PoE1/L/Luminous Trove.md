@@ -20,5 +20,5 @@ Corrupted
 #Concept/Night/Dream
 #Category/DivinationCard
 #Attributes/Important
-#DivinationCard
 #PoE1
+#Interesting 

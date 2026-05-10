@@ -13,5 +13,4 @@ Corrupted
 #Category/DivinationCard
 #Concept/Cannibalism
 #Character/Emperor/RomiraPhrecia
-#DivinationCard
 #PoE1

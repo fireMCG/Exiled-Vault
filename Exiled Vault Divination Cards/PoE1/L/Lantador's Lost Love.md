@@ -14,5 +14,4 @@ Two-Stone Ring
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

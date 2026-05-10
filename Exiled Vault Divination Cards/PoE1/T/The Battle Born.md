@@ -9,8 +9,8 @@ Axe
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Demon
 #Concept/Warrior
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

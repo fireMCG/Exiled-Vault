@@ -13,5 +13,4 @@ Albino Rhoa Feather
 #Concept/Animal/Fish
 #Concept/Animal/Rhoa
 #Concept/Sun
-#DivinationCard
 #PoE1

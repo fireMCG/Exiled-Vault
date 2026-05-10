@@ -15,5 +15,5 @@ Corrupted
 # Tags
 #Concept/Night/Dream
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

@@ -14,5 +14,4 @@ The perils told.
 # Tags
 #Category/DivinationCard
 #Concept/Ash
-#DivinationCard
 #PoE1

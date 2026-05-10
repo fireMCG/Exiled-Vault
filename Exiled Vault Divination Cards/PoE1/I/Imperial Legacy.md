@@ -12,5 +12,5 @@ Item Level: 100
 # Tags
 #Attributes/Legacy
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

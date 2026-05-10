@@ -11,5 +11,5 @@ Taste of Hate
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

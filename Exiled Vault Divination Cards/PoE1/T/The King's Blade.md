@@ -12,5 +12,5 @@ Item Level: 66
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

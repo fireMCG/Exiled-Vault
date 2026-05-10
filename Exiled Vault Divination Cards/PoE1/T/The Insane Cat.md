@@ -14,5 +14,4 @@ Corrupted
 #Category/DivinationCard
 #Concept/Animal/Feline/Cat
 #Concept/Madness
-#DivinationCard
 #PoE1

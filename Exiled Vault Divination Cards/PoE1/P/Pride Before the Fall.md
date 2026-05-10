@@ -13,9 +13,9 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Character/Kaom
 #Concept/Corruption
 #Concept/Body/Heart
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

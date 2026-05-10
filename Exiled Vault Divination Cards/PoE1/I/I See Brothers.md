@@ -1,8 +1,7 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - I See Brothers.png]]
 
 # Flavour Text
-"Where does the light go
-when it is dark?"
+"Where does the light go when it is dark?"
 
 # Reward
 2x Fracturing Orb
@@ -17,5 +16,5 @@ when it is dark?"
 #Concept/Night
 #Concept/Mirror
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

@@ -15,5 +15,4 @@ Corrupted
 #Concept/Animal/Canidae/Dog
 #Concept/Body/Eye
 #Concept/Sun
-#DivinationCard
 #PoE1

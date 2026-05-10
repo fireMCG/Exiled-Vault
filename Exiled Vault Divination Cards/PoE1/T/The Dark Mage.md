@@ -1,10 +1,8 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Dark Mage.png]]
 
 # Flavour Text
-With staff in hand
-and wrath in heart,
-your soul and corpse
-shall surely part.
+With staff in hand and wrath in heart,
+your soul and corpse shall surely part.
 
 # Reward
 Six-Link Staff
@@ -20,5 +18,5 @@ Item Level: 55
 #Concept/Eclipse
 #Concept/Emotion/Wrath
 #Concept/Soul
-#DivinationCard
 #PoE1
+#Interesting 

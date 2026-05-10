@@ -13,5 +13,5 @@ Lightpoacher
 #Concept/Light
 #Concept/Night
 #Concept/Void
-#DivinationCard
 #PoE1
+#Interesting 

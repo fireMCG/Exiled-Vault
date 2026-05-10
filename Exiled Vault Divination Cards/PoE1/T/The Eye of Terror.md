@@ -17,5 +17,5 @@ Foulborn
 #Concept/Horror
 #Concept/Night/Dream
 #Concept/Night/Dreamer
-#DivinationCard
 #PoE1
+#Interesting 

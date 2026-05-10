@@ -17,5 +17,4 @@ Unidentified Corrupted
 #Concept/Hero
 #Concept/Family/Mother
 #Category/DivinationCard
-#DivinationCard
 #PoE1

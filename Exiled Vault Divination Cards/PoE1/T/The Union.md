@@ -14,5 +14,4 @@ the setting sun.
 # Tags
 #Attributes/Timeline
 #Category/DivinationCard
-#DivinationCard
 #PoE1

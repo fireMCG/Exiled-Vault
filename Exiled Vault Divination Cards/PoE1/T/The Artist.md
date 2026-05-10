@@ -10,8 +10,7 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Character/Malachai
 #Concept/Virtue/Gem
-#Category/DivinationCard
-#DivinationCard
 #PoE1

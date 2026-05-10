@@ -2,8 +2,7 @@
 
 # Flavour Text
 In their fiery union,
-the storm left the rivers
-forever changed.
+the storm left the rivers forever changed.
 
 # Reward
 Stormfire
@@ -13,9 +12,9 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Element/Fire
 #Concept/Storm
 #Concept/Water
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

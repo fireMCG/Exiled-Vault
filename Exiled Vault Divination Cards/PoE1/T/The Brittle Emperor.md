@@ -11,11 +11,11 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Character/Emperor/VollOfThebrus
 #Character/Malachai
 #Concept/Corruption
 #Concept/Religion/Faith
 #Concept/Purity
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

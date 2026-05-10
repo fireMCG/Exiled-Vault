@@ -10,5 +10,4 @@ Vaal Aspect
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

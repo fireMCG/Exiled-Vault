@@ -18,5 +18,5 @@ Corrupted
 #Concept/Religion/Devotion
 #Concept/Thaumaturgy
 #Society/VaalEmpire
-#DivinationCard
 #PoE1
+#Interesting 

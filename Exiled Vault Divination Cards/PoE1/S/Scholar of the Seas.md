@@ -10,5 +10,4 @@ Mao Kun
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

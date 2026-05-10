@@ -19,5 +19,5 @@ Coruscating Elixir
 #Concept/Shadow
 #Concept/Sky
 #Concept/Sun/Broken
-#DivinationCard
 #PoE1
+#Interesting 

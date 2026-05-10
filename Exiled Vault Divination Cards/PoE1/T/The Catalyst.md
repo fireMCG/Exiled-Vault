@@ -9,8 +9,8 @@ Vaal Orb
 #
 ---
 # Tags
-#Concept/World
 #Category/DivinationCard
+#Concept/World
 #Society/VaalEmpire
-#DivinationCard
 #PoE1
+#Interesting 

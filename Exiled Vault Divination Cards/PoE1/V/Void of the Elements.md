@@ -11,6 +11,7 @@ Elder Item
 #
 ---
 # Tags
+#Category/DivinationCard
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius
@@ -18,7 +19,6 @@ Elder Item
 #Concept/Emotion/Fear
 #Concept/Nature
 #Concept/Void
-#Category/DivinationCard
 #Concept/Decay
-#DivinationCard
 #PoE1
+#Interesting 

@@ -2,8 +2,7 @@
 
 # Flavour Text
 When the rains come, we cower beneath shelter.
-The First of the Deep teaches us
-that we should seek no shelter but ourselves.
+The First of the Deep teaches us that we should seek no shelter but ourselves.
 
 # Details
 - Armour: (384-529)

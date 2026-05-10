@@ -12,5 +12,4 @@ Tidebreaker
 #Category/DivinationCard
 #Concept/Madness
 #Concept/Water/Sea
-#DivinationCard
 #PoE1

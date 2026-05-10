@@ -10,5 +10,6 @@ Svalinn
 #
 ---
 # Tags
-#DivinationCard
+#Category/DivinationCard 
 #PoE1
+#Interesting 

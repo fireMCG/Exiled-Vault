@@ -13,5 +13,5 @@ Elder Item
 # Tags
 #Category/DivinationCard
 #Concept/Moon
-#DivinationCard
 #PoE1
+#Interesting 

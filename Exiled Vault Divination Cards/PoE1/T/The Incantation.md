@@ -14,5 +14,4 @@ The Whispering Ice
 #Concept/Element/Ice
 #Concept/Storm
 #Concept/Whisper
-#DivinationCard
 #PoE1

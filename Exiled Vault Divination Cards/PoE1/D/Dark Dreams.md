@@ -17,5 +17,5 @@ Elder Item
 #Concept/Necromancy
 #Concept/Night/Dream
 #Concept/Undead
-#DivinationCard
 #PoE1
+#Interesting 

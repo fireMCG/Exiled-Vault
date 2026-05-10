@@ -14,5 +14,5 @@ If the path to divinity were simple, we'd all be gods.
 #Concept/God
 #Concept/Religion/Divinity
 #Concept/Sun
-#DivinationCard
 #PoE1
+#Interesting 

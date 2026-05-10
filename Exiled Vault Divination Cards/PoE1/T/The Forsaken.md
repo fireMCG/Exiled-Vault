@@ -14,5 +14,5 @@ Umbilicus Immortalis
 #Concept/Emotion/Love
 #Concept/Family/Mother
 #Concept/Life/Immortality
-#DivinationCard
 #PoE1
+#Interesting 

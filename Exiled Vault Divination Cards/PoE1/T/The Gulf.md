@@ -18,5 +18,5 @@ Corrupted
 #Concept/Madness
 #Concept/Prison
 #Concept/Time
-#DivinationCard
 #PoE1
+#Interesting 

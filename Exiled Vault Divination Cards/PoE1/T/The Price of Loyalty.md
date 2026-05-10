@@ -16,5 +16,5 @@ Corrupted
 #Concept/Body/Flesh
 #Concept/Body/Skin
 #Concept/Soul
-#DivinationCard
 #PoE1
+#Interesting 

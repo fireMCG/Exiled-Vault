@@ -11,5 +11,5 @@ Map Tier: 14
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

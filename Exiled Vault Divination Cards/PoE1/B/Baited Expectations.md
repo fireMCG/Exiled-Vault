@@ -13,5 +13,4 @@ Fishing Item
 #Concept/Animal/Fish
 #Concept/Sun
 #Concept/Water
-#DivinationCard
 #PoE1

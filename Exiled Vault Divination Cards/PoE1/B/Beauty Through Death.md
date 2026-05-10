@@ -17,5 +17,5 @@ Atziri's Reflection
 #Concept/Sin/Vanity
 #Concept/Mirror
 #Society/VaalEmpire
-#DivinationCard
 #PoE1
+#Interesting 

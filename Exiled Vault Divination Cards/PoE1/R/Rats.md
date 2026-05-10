@@ -10,5 +10,4 @@ Rat's Nest
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

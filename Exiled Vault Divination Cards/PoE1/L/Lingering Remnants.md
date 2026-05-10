@@ -18,5 +18,5 @@ Corrupted
 #Concept/Undead
 #Category/DivinationCard
 #Attributes/Important
-#DivinationCard
 #PoE1
+#Interesting 

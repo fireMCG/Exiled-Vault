@@ -10,5 +10,5 @@ Watcher's Eye
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

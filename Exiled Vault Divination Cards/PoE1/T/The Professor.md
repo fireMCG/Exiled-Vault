@@ -10,5 +10,4 @@ The Putrid Cloister
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

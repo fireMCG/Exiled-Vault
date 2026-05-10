@@ -9,7 +9,7 @@ Divination Scarab
 #
 ---
 # Tags
-#Concept/Aztec
 #Category/DivinationCard
-#DivinationCard
+#Concept/Aztec
 #PoE1
+#Interesting 

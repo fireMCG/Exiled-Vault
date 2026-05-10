@@ -17,5 +17,5 @@ Corrupted
 #Concept/Body/Heart
 #Concept/Death
 #Concept/Element/Fire
-#DivinationCard
 #PoE1
+#Interesting 

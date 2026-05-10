@@ -9,7 +9,6 @@ You can change your name, but you cannot change your history.
 #
 ---
 # Tags
-#Character/Vinia
 #Category/DivinationCard
-#DivinationCard
+#Character/Vinia
 #PoE1

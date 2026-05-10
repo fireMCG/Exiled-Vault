@@ -11,9 +11,8 @@ Disabled
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Family/Son
 #Concept/Body/Heart
 #Concept/Map
-#Category/DivinationCard
-#DivinationCard
 #PoE1

@@ -2,8 +2,7 @@
 
 # Flavour Text
 We live to dream of worlds we aren't in,
-a false narrative that we use to fill our souls
-with doubt;
+a false narrative that we use to fill our souls with doubt;
 The world is already beautiful,
 there's no need to dream.
 
@@ -13,8 +12,8 @@ there's no need to dream.
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Night/Dream
 #Concept/Soul
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

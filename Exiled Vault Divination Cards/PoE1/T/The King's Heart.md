@@ -10,5 +10,5 @@ Kaom's Heart
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

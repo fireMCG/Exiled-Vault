@@ -10,5 +10,4 @@ A little extra flair never hurts.
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

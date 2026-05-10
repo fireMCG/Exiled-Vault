@@ -11,5 +11,4 @@ Double-Influenced Item
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

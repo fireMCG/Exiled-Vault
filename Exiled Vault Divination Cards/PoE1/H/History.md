@@ -1,8 +1,7 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - History.png]]
 
 # Flavour Text
-The future is oft-foretold
-in records of the past.
+The future is oft-foretold in records of the past.
 
 # Reward
 2x Hinekora's Lock
@@ -13,5 +12,4 @@ in records of the past.
 #Character/God/Hinekora
 #Concept/Time/Cycle
 #Category/DivinationCard
-#DivinationCard
 #PoE1

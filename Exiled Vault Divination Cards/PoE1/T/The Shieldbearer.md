@@ -10,5 +10,4 @@ The Squire
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

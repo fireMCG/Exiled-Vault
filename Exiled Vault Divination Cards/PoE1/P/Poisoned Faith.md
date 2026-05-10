@@ -10,8 +10,8 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Character/God/Arakaali
 #Concept/Religion/Devotion
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

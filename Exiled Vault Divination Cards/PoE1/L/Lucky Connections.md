@@ -10,5 +10,4 @@ Luck is a fool's game, and I know plenty of rich fools.
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

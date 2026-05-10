@@ -9,8 +9,8 @@ Mirror Shard
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Mirror
 #Concept/Fracture
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

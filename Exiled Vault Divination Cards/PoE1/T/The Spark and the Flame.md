@@ -15,5 +15,5 @@ Berek's Respite
 #Concept/Element/Lightning
 #Concept/Sky
 #Concept/Taming
-#DivinationCard
 #PoE1
+#Interesting 

@@ -14,5 +14,5 @@ Item Level: 84
 #Character/God/Tangmazu
 #Concept/Crown/Halo
 #Concept/Jewel
-#DivinationCard
 #PoE1
+#Interesting 

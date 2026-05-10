@@ -10,5 +10,4 @@ Bino's Kitchen Knife
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

@@ -1,8 +1,7 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Damnation.png]]
 
 # Flavour Text
-Blood and death lead
-the way to hell.
+Blood and death lead the way to hell.
 
 # Reward
 The Original Scripture
@@ -16,5 +15,5 @@ Item Level: 83
 #Concept/Damnation
 #Concept/Death
 #Concept/Religion/Hell
-#DivinationCard
 #PoE1
+#Interesting 

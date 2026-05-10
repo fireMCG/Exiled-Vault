@@ -10,8 +10,8 @@ Shavronne Item
 #
 ---
 # Tags
+#Category/DivinationCard
 #Character/Shavronne
 #Concept/Body/Flesh
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

@@ -15,5 +15,5 @@ The Atlas is our prison, and our only defence. She is our only hope, and our cer
 #Concept/Hope
 #Concept/Prison
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

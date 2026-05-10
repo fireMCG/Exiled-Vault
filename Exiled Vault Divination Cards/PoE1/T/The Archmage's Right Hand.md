@@ -10,8 +10,7 @@ Item Level: 100
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Emotion/Fear
 #Concept/Religion/Heaven
-#Category/DivinationCard
-#DivinationCard
 #PoE1

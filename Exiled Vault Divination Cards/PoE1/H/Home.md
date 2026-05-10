@@ -19,5 +19,5 @@ Quality: +1-20%
 #Concept/Emotion/Love
 #Concept/Virtue
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

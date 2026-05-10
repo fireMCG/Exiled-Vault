@@ -14,5 +14,5 @@ Empower, Enhance or Enlighten
 # Tags
 #Concept/Virtue/Gem
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

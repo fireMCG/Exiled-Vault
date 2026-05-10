@@ -15,5 +15,5 @@ Seraphim's Armour
 #Concept/Death
 #Concept/Religion/CelestialHierarchy
 #Concept/Sky
-#DivinationCard
 #PoE1
+#Interesting 

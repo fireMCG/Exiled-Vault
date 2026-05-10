@@ -14,5 +14,4 @@ Corrupted
 #Concept/Darkness
 #Concept/Night/Dream
 #Concept/Night/Nightmare
-#DivinationCard
 #PoE1

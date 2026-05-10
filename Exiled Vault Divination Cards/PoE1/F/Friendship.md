@@ -2,8 +2,7 @@
 
 # Flavour Text
 "Set your life on fire. 
-Seek those who
-fan your flames"
+Seek those who fan your flames"
 
 -Rumi of the Vaal
 
@@ -16,5 +15,4 @@ Aul's Uprising
 #Character/Aul
 #Character/Rumi
 #Category/DivinationCard
-#DivinationCard
 #PoE1

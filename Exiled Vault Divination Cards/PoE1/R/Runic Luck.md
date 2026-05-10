@@ -1,8 +1,7 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Runic Luck.png]]
 
 # Flavour Text
-If you believe hard enough,
-you'll win.
+If you believe hard enough, you'll win.
 
 # Reward
 10x Vendor Refresh Currency
@@ -10,9 +9,9 @@ you'll win.
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Luck
 #Concept/Rune
 #Concept/Triskelion
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

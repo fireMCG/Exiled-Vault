@@ -10,5 +10,4 @@ Try a thousand times, and eventually you'll have to give up.
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

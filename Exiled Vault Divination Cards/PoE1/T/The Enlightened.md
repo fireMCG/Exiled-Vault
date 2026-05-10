@@ -17,5 +17,5 @@ Level 3 Enlighten
 #Concept/Nature/Flower
 #Concept/Number/Six
 #Concept/Virtue
-#DivinationCard
 #PoE1
+#Interesting 

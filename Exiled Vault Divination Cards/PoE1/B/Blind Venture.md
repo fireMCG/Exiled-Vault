@@ -14,5 +14,4 @@ Corrupted
 #Category/DivinationCard
 #Concept/Blindness
 #Concept/Jewel
-#DivinationCard
 #PoE1

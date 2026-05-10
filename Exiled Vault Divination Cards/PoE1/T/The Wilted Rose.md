@@ -15,5 +15,5 @@ Corrupted
 #Concept/Nature/Flower
 #Concept/Within
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

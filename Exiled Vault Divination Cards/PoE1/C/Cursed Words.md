@@ -11,5 +11,4 @@ Maw of Mischief
 # Tags
 #Category/DivinationCard
 #Concept/Curse
-#DivinationCard
 #PoE1

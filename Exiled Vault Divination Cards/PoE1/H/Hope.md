@@ -16,5 +16,5 @@ Corrupted
 #Concept/Hope
 #Concept/Light
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

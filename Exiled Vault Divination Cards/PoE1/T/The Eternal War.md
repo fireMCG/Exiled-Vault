@@ -16,5 +16,4 @@ Corrupted
 #Concept/Power
 #Concept/War
 #League/Legion
-#DivinationCard
 #PoE1

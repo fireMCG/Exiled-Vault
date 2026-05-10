@@ -17,5 +17,5 @@ Corrupted
 #Concept/Light
 #Concept/Purity
 #Concept/Spirit
-#DivinationCard
 #PoE1
+#Interesting 

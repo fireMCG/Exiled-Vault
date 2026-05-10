@@ -12,5 +12,4 @@ Disabled
 #Category/DivinationCard
 #Concept/Hunger
 #Concept/Witch
-#DivinationCard
 #PoE1

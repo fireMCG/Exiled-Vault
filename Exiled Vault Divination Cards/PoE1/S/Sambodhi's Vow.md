@@ -1,9 +1,7 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Sambodhi's Vow.png]]
 
 # Flavour Text
-He dispels dark realms
-until mortal sufferings
-yield to hopeful light.
+He dispels dark realms until mortal sufferings yield to hopeful light.
 
 # Reward
 Mortal Fragment
@@ -11,9 +9,9 @@ Mortal Fragment
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Darkness
 #Concept/Light
 #Concept/Wing
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

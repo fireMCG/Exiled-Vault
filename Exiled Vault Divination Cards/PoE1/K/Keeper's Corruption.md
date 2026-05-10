@@ -15,5 +15,4 @@ Elder Item
 # Tags
 #Character/Eldritch/Shaper
 #Category/DivinationCard
-#DivinationCard
 #PoE1

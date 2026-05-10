@@ -15,5 +15,5 @@ Crown of Eyes
 #Concept/Colour/Red
 #Concept/Body/Eye
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

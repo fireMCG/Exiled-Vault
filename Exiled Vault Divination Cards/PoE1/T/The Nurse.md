@@ -10,5 +10,4 @@ The Doctor
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

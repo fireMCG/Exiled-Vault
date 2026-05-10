@@ -15,5 +15,5 @@ Six-Link Vaal Regalia
 #Concept/Religion/Devotion
 #Concept/Space/Star
 #Society/VaalEmpire
-#DivinationCard
 #PoE1
+#Interesting 

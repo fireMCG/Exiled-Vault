@@ -11,9 +11,8 @@ Shaper Item
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Body/Eye
 #Concept/Space
 #Concept/Stone
-#Category/DivinationCard
-#DivinationCard
 #PoE1

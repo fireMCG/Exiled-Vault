@@ -1,11 +1,9 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Lord in Black.png]]
 
 # Flavour Text
-Thy knee shall bend
-in shifting dark,
+Thy knee shall bend in shifting dark,
 thy blade shall serve his vigil.
-Thy oath shall bind thee
-to his mark,
+Thy oath shall bind thee to his mark,
 thy flesh shall bear his sigil.
 
 # Reward
@@ -16,5 +14,5 @@ Item Level: 83
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

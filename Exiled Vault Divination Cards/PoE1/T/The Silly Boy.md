@@ -12,5 +12,5 @@ horned fortune
 #
 ---
 # Tags
-#DivinationCard
+#Category/DivinationCard 
 #PoE1

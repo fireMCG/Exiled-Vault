@@ -13,5 +13,5 @@ The Goddess Bound
 #Concept/Curse
 #Concept/Goddess
 #Concept/Number/Three
-#DivinationCard
 #PoE1
+#Interesting 

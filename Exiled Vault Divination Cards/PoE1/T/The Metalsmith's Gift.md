@@ -10,5 +10,4 @@ Prismatic Ring
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

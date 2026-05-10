@@ -15,5 +15,4 @@ Synthesis Map
 #Category/DivinationCard
 #League/Synthesis
 #Location/Wraeclast
-#DivinationCard
 #PoE1

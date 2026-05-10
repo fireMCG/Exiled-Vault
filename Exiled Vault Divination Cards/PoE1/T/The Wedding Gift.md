@@ -11,5 +11,4 @@ Arakaali's Fang
 # Tags
 #Character/God/Arakaali
 #Category/DivinationCard
-#DivinationCard
 #PoE1

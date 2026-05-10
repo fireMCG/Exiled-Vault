@@ -16,5 +16,4 @@ Corrupted
 #Category/DivinationCard
 #Character/Victario
 #Concept/Power
-#DivinationCard
 #PoE1

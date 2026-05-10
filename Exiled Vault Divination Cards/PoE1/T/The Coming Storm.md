@@ -12,5 +12,5 @@ Lightning Coil
 #Category/DivinationCard
 #Concept/Element/Lightning
 #Concept/Storm
-#DivinationCard
 #PoE1
+#Interesting 

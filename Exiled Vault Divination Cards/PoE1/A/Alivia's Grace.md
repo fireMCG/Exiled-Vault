@@ -10,5 +10,4 @@ Queen of the Forest
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

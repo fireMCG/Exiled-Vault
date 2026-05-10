@@ -12,9 +12,8 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Character/Emperor/ChitusPerandus
 #Character/JuliusPerandus
-#Category/DivinationCard
 #Society/EternalEmpire
-#DivinationCard
 #PoE1

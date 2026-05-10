@@ -12,5 +12,4 @@ Nebulis
 #Concept/Memory
 #Concept/Void
 #Category/DivinationCard
-#DivinationCard
 #PoE1

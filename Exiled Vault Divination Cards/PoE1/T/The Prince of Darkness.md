@@ -10,5 +10,4 @@ Elegant Hubris
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

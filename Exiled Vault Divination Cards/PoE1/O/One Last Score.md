@@ -1,8 +1,7 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - One Last Score.png]]
 
 # Flavour Text
-You want to know how
-I haven't been caught? 
+You want to know how I haven't been caught? 
 It's not just speed.
 You need some luck.
 
@@ -13,7 +12,6 @@ Item Level: 86
 #
 ---
 # Tags
-#Concept/Mask
 #Category/DivinationCard
-#DivinationCard
+#Concept/Mask
 #PoE1

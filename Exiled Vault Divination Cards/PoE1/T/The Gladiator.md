@@ -1,10 +1,8 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Gladiator.png]]
 
 # Flavour Text
-The thumb turns down
-and the crowd roars, 
-they want death 
-and the blood is yours.
+The thumb turns down and the crowd roars, 
+they want death and the blood is yours.
 
 # Reward
 Nightmare Bascinet
@@ -16,5 +14,4 @@ Nightmare Bascinet
 #Concept/Blood
 #Concept/Death
 #Concept/Night/Nightmare
-#DivinationCard
 #PoE1

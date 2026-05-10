@@ -12,5 +12,5 @@ Awakened Exceptional Gem
 #
 ---
 # Tags
-#DivinationCard
+#Category/DivinationCard 
 #PoE1

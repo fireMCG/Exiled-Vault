@@ -12,5 +12,4 @@ Asenath's Mark
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

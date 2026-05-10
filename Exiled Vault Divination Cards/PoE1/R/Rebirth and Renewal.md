@@ -9,7 +9,7 @@ Horned Scarab
 #
 ---
 # Tags
-#Concept/Time/Cycle
 #Category/DivinationCard
-#DivinationCard
+#Concept/Time/Cycle
 #PoE1
+#Interesting 

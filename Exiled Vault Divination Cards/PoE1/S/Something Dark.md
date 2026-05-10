@@ -14,5 +14,4 @@ Fully Revealed
 #Concept/Darkness
 #Category/DivinationCard
 #Society/Hiveborn
-#DivinationCard
 #PoE1

@@ -9,9 +9,9 @@ Breach Item
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Body/Eye
 #Concept/Fracture
-#Category/DivinationCard
 #League/Breach
-#DivinationCard
 #PoE1
+#Interesting 

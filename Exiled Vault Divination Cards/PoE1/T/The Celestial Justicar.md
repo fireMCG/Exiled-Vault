@@ -9,11 +9,11 @@ Six-Link Astral Plate
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Crown/Halo
 #Concept/Religion/Heaven
 #Concept/Balance/Justice
 #Concept/Space
 #Concept/Wing
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

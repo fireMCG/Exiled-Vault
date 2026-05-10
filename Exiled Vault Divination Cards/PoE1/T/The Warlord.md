@@ -16,5 +16,5 @@ Item Level: 83
 #Concept/Goddess
 #Concept/Fracture
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

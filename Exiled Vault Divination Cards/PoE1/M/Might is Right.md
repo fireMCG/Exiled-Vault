@@ -9,7 +9,7 @@ Trypanon
 #
 ---
 # Tags
-#Concept/Mind
 #Category/DivinationCard
-#DivinationCard
+#Concept/Mind
 #PoE1
+#Interesting 

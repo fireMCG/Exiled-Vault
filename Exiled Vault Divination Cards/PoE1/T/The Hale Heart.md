@@ -16,5 +16,4 @@ Elder Item
 #Character/Eldritch/Elder
 #Concept/Mind
 #Concept/Power
-#DivinationCard
 #PoE1

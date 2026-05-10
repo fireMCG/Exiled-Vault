@@ -9,7 +9,6 @@ Greed is a hunger that only grows as you feed it
 #
 ---
 # Tags
-#Concept/Sin/Greed
 #Category/DivinationCard
-#DivinationCard
+#Concept/Sin/Greed
 #PoE1

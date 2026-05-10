@@ -15,5 +15,5 @@ Synthesised
 #Category/DivinationCard
 #Concept/Jewel
 #Concept/Night/Dream
-#DivinationCard
 #PoE1
+#Interesting 

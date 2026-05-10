@@ -12,5 +12,5 @@ Poorjoy's Asylum
 #Category/DivinationCard
 #Concept/Night/Dream
 #Concept/Night/Dreamer
-#DivinationCard
 #PoE1
+#Interesting 

@@ -17,5 +17,5 @@ Corrupted
 #Concept/Madness
 #Concept/Mist
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

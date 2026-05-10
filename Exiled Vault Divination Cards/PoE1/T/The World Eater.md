@@ -13,5 +13,5 @@ Starforge
 #Concept/Hunger
 #Concept/Tangle
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

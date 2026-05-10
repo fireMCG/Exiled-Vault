@@ -10,5 +10,4 @@ The first to travel are often rewarded for their journey, but all the treasure i
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

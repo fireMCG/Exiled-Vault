@@ -10,5 +10,5 @@ Lioneye Item
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

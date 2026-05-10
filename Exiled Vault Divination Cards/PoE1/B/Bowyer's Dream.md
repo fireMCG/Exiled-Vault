@@ -13,5 +13,5 @@ Item Level: 91
 #Category/DivinationCard
 #Concept/Night/Dream
 #League/Harbinger
-#DivinationCard
 #PoE1
+#Interesting 

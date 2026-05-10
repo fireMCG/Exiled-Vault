@@ -10,5 +10,4 @@ Trying to bring your vision to life is enough to drive you mad.
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

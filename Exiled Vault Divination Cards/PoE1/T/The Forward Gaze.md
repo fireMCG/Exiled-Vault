@@ -13,5 +13,5 @@ Replica Item
 #Character/Qotra
 #Concept/Body/Eye
 #Concept/Time/Future
-#DivinationCard
 #PoE1
+#Interesting 

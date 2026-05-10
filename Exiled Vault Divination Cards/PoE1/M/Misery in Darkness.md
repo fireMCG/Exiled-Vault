@@ -13,5 +13,5 @@ Shroud of the Lightless
 #Category/DivinationCard
 #League/Abyss
 #Society/Lightless
-#DivinationCard
 #PoE1
+#Interesting 

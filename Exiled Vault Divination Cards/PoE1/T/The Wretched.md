@@ -11,5 +11,4 @@ Belt
 # Tags
 #Concept/Necromancy
 #Category/DivinationCard
-#DivinationCard
 #PoE1

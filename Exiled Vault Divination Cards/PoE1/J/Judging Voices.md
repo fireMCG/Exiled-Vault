@@ -13,5 +13,5 @@ Forbidden Shako
 #Concept/Mind
 #Concept/Within
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

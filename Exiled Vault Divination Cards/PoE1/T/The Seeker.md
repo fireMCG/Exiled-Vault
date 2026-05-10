@@ -10,5 +10,4 @@ All that is flawed is worthless. The slightest error, and this might as well be 
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

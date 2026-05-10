@@ -13,5 +13,5 @@ Item Level: 100
 # Tags
 #Category/DivinationCard
 #Concept/Tyranny
-#DivinationCard
 #PoE1
+#Interesting 

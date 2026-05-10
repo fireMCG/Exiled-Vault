@@ -14,5 +14,4 @@ Nimis
 #Concept/Element/Fire
 #Concept/Wind
 #Category/DivinationCard
-#DivinationCard
 #PoE1

@@ -16,5 +16,5 @@ Unset Ring
 #Concept/Hunger
 #Concept/Night/Dream
 #Concept/Wealth
-#DivinationCard
 #PoE1
+#Interesting 

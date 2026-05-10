@@ -13,5 +13,4 @@ Rigwald Item
 #Concept/Animal/Canidae/Wolf
 #Category/DivinationCard
 #Character/FirstOne/Greatwolf
-#DivinationCard
 #PoE1

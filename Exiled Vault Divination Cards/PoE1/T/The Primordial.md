@@ -17,5 +17,5 @@ Primordial
 #Concept/Necromancy
 #Concept/Power
 #Concept/Stone
-#DivinationCard
 #PoE1
+#Interesting 

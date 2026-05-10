@@ -13,5 +13,5 @@ Gemcutter's Prism
 #Concept/Crown
 #Concept/King
 #Concept/Virtue/Gem
-#DivinationCard
 #PoE1
+#Interesting 

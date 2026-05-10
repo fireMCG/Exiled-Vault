@@ -13,5 +13,5 @@ Death's Hand
 #Concept/Death
 #Concept/Demon
 #Exile/PoE1/Ranger
-#DivinationCard
 #PoE1
+#Interesting 

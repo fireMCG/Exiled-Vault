@@ -12,5 +12,4 @@ Corrupted
 # Tags
 #Concept/Power
 #Category/DivinationCard
-#DivinationCard
 #PoE1

@@ -10,5 +10,5 @@ Rustic Sash
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

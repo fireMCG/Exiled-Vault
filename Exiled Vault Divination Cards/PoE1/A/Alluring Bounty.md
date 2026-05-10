@@ -11,5 +11,5 @@ is a treasure worth dying for.
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

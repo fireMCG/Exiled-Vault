@@ -16,5 +16,5 @@ Vivid Crimson Jewel
 #Concept/Blood
 #Concept/Body/Flesh
 #Concept/Colour/Red
-#DivinationCard
 #PoE1
+#Interesting 

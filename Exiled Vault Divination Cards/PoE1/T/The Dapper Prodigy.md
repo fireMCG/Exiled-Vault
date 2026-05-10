@@ -12,5 +12,5 @@ Item Level: 100
 # Tags
 #Category/DivinationCard
 #Concept/Crime
-#DivinationCard
 #PoE1
+#Interesting 

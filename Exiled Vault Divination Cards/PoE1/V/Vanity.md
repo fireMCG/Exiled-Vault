@@ -7,7 +7,7 @@ Corrupted
 #
 ---
 # Tags
-#Concept/Sin/Vanity
 #Category/DivinationCard
-#DivinationCard
+#Concept/Sin/Vanity
 #PoE1
+#Interesting 

@@ -14,5 +14,5 @@ The Twilight Temple
 #Concept/Night
 #Concept/Sky
 #Concept/Time/Day
-#DivinationCard
 #PoE1
+#Interesting 

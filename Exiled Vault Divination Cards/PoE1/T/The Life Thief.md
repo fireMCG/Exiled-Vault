@@ -13,5 +13,5 @@ Zerphi's Heart
 #Category/DivinationCard
 #Character/Zerphi
 #Society/VaalEmpire
-#DivinationCard
 #PoE1
+#Interesting 

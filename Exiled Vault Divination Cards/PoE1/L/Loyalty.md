@@ -11,5 +11,4 @@ inseparable by choice.
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

@@ -20,5 +20,5 @@ Chayula Item
 #Concept/Night/Dream
 #Concept/Night/Dreamer
 #Concept/Prison
-#DivinationCard
 #PoE1
+#Interesting 

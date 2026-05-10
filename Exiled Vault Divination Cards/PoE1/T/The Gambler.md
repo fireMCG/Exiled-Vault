@@ -11,5 +11,4 @@ Divination Card
 # Tags
 #Category/DivinationCard
 #Concept/Luck
-#DivinationCard
 #PoE1

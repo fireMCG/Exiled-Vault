@@ -14,5 +14,5 @@ The Taming
 #Concept/Hunt
 #Concept/Taming
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

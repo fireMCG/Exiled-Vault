@@ -21,5 +21,5 @@ The Harvest
 #Concept/Nature/Fruit
 #Concept/Nature/Harvest
 #Concept/Time/Eternity
-#DivinationCard
 #PoE1
+#Interesting 

@@ -14,5 +14,5 @@ Disabled
 #Concept/Fracture/Splinter
 #Concept/Night/Nightmare
 #League/Breach
-#DivinationCard
 #PoE1
+#Interesting 

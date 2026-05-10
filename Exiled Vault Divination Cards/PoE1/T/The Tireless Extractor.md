@@ -13,5 +13,5 @@
 #Category/DivinationCard
 #Character/Cassia
 #Concept/God
-#DivinationCard
 #PoE1
+#Interesting 

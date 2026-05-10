@@ -12,5 +12,5 @@ Corrupted
 # Tags
 #Category/DivinationCard
 #Society/VaalEmpire
-#DivinationCard
 #PoE1
+#Interesting 

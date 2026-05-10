@@ -14,5 +14,4 @@ Quality: +20%
 #Concept/Virtue/Knowledge
 #Concept/Undead
 #Category/DivinationCard
-#DivinationCard
 #PoE1

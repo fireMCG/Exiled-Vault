@@ -17,5 +17,5 @@ Atziri's Acuity
 #Concept/Queen
 #Concept/World
 #Society/VaalEmpire
-#DivinationCard
 #PoE1
+#Interesting 

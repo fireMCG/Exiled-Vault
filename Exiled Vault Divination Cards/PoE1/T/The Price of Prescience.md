@@ -16,5 +16,5 @@ Corrupted
 #Character/God/Tangmazu
 #Concept/Legacy
 #Concept/World
-#DivinationCard
 #PoE1
+#Interesting 

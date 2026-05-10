@@ -10,5 +10,4 @@ Lioneye's Vision
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

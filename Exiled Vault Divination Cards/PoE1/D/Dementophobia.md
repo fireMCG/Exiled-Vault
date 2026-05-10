@@ -19,5 +19,5 @@ were none other than my own.
 #Concept/Demon
 #Concept/Whisper
 #League/Delirium
-#DivinationCard
 #PoE1
+#Interesting 

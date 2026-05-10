@@ -16,5 +16,5 @@ Disabled
 #Concept/Light
 #Concept/Soul
 #Society/VaalEmpire
-#DivinationCard
 #PoE1
+#Interesting 

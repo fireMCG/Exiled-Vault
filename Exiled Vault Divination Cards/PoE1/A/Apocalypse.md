@@ -2,11 +2,9 @@
 
 # Flavour Text
 The Ezomytes,
-buried beneath flaming mountains
-by the First Ones.
+buried beneath flaming mountains by the First Ones.
 The Vaal,
-undone by a cataclysm
-of their own making.
+undone by a cataclysm of their own making.
 Are all empires fated to fall to hubris?
 
 # Reward
@@ -17,5 +15,7 @@ One Corruption Implicit
 #
 ---
 # Tags
-#DivinationCard
+#Attributes/Timeline 
+#Category/DivinationCard 
 #PoE1
+#Interesting 

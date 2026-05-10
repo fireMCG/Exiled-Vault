@@ -17,5 +17,5 @@ Unending Hunger
 #Concept/Moon
 #Concept/Night/Dream
 #Concept/Sun
-#DivinationCard
 #PoE1
+#Interesting 

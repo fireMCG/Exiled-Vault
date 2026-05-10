@@ -9,9 +9,9 @@ Cold Iron Point
 #
 ---
 # Tags
+#Attributes/Timeline 
 #Category/DivinationCard
 #Character/Rigwald
 #Concept/Fracture
 #Concept/War
-#DivinationCard
 #PoE1

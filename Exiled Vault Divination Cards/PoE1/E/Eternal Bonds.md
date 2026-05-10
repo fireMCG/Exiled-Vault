@@ -12,5 +12,5 @@ Replica Cortex
 # Tags
 #Concept/Animal/Canidae/Fox
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

@@ -12,5 +12,4 @@ Corrupted
 # Tags
 #Category/DivinationCard
 #Concept/Map
-#DivinationCard
 #PoE1

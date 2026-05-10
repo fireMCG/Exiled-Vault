@@ -9,7 +9,7 @@ Maligaro's Virtuosity
 #
 ---
 # Tags
-#Character/Maligaro
 #Category/DivinationCard
-#DivinationCard
+#Character/Maligaro
 #PoE1
+#Interesting 

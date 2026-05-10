@@ -10,10 +10,10 @@ Valdo's Puzzle Box
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Colour/Black
 #Concept/Colour/White
 #Concept/Perfection
 #Concept/World
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

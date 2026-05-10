@@ -10,5 +10,5 @@ Hinekora's Lock
 #
 ---
 # Tags
-#DivinationCard
+#Category/DivinationCard 
 #PoE1

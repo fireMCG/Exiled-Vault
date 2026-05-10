@@ -17,5 +17,4 @@ Song of the Sirens
 #Concept/Body/Heart
 #Concept/Siren
 #Concept/Water/Sea
-#DivinationCard
 #PoE1

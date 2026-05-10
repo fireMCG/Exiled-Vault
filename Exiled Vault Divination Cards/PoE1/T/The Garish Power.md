@@ -11,5 +11,4 @@ Jewel
 # Tags
 #Category/DivinationCard
 #Character/Maligaro
-#DivinationCard
 #PoE1

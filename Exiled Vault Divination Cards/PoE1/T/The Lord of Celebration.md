@@ -11,5 +11,4 @@ Shaper Item
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

@@ -9,7 +9,7 @@ Chin Sol
 #
 ---
 # Tags
-#Concept/Element/Fire
 #Category/DivinationCard
-#DivinationCard
+#Concept/Element/Fire
 #PoE1
+#Interesting 

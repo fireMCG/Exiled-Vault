@@ -1,10 +1,8 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Stormcaller.png]]
 
 # Flavour Text
-If you beckon the
-Lord of Lightning,
-do not be surprised
-when you are struck.
+If you beckon the Lord of Lightning,
+do not be surprised when you are struck.
 
 # Reward
 Agnerod Staff
@@ -17,5 +15,5 @@ Agnerod Staff
 #Concept/Element/Fire
 #Concept/Element/Lightning
 #Concept/Storm
-#DivinationCard
 #PoE1
+#Interesting 

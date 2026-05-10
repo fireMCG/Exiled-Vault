@@ -12,5 +12,4 @@ Defiance of Destiny
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

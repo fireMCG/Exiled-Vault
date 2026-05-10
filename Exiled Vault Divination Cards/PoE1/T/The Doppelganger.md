@@ -14,5 +14,5 @@ Quality: +20%
 #Concept/Horror
 #Concept/Mirror
 #Concept/Moon
-#DivinationCard
 #PoE1
+#Interesting 

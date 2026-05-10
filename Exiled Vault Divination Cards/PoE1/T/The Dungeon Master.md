@@ -13,5 +13,4 @@ Double-Influenced Item
 #Category/DivinationCard
 #Concept/Eldritch
 #Concept/Prison
-#DivinationCard
 #PoE1

@@ -9,7 +9,6 @@ Victario's Influence
 #
 ---
 # Tags
-#Character/Victario
 #Category/DivinationCard
-#DivinationCard
+#Character/Victario
 #PoE1

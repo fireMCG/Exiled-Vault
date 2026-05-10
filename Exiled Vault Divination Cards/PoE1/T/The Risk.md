@@ -10,5 +10,4 @@ Ventor's Gamble
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

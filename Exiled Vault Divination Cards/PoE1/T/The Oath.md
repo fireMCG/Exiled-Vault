@@ -10,5 +10,5 @@ Death's Oath
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

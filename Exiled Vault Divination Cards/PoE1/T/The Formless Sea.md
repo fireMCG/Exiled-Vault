@@ -19,5 +19,5 @@ Varunastra
 #Concept/Moon
 #Concept/Taming
 #Concept/Water/Sea
-#DivinationCard
 #PoE1
+#Interesting 

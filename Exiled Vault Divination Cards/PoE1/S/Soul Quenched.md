@@ -9,8 +9,7 @@ Disabled
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Darkness
 #Concept/Soul
-#Category/DivinationCard
-#DivinationCard
 #PoE1

@@ -20,5 +20,5 @@ Dying Sun
 #Concept/Light
 #Concept/Mirror
 #Concept/Moon
-#DivinationCard
 #PoE1
+#Interesting 

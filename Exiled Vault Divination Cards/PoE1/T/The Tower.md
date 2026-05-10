@@ -13,5 +13,4 @@ Staff
 #Concept/Time/Eternity
 #Concept/Tower
 #Concept/Virtue/Knowledge
-#DivinationCard
 #PoE1

@@ -14,5 +14,5 @@ Corrupted
 #Concept/Body/Heart
 #Concept/Nature/Harvest
 #Concept/Soul
-#DivinationCard
 #PoE1
+#Interesting 

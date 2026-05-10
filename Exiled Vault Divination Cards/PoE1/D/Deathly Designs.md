@@ -16,5 +16,5 @@ Corrupted
 #Concept/Death
 #Concept/Virtue
 #Concept/Virtue/Honour
-#DivinationCard
 #PoE1
+#Interesting 

@@ -19,5 +19,5 @@ Bestiary Item
 #Concept/FirstOnes
 #Concept/Humanity
 #League/Bestiary
-#DivinationCard
 #PoE1
+#Interesting 

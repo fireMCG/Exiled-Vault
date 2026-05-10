@@ -1,10 +1,8 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Siren.png]]
 
 # Flavour Text
-At the beck and call
-of The Siren's hand,
-winter ravages
-the trembling land,
+At the beck and call of The Siren's hand,
+winter ravages the trembling land,
 and the weight of ice that binds
 will break the strongest of minds.
 
@@ -16,5 +14,5 @@ Corrupted
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

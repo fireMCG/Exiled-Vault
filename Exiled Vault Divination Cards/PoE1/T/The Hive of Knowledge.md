@@ -14,5 +14,4 @@ Corrupted
 #Category/DivinationCard
 #Concept/Power
 #Concept/Virtue/Knowledge
-#DivinationCard
 #PoE1

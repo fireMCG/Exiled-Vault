@@ -16,5 +16,5 @@ Seven-League Step
 #Concept/Night/Nightmare
 #Concept/Sun
 #Concept/World
-#DivinationCard
 #PoE1
+#Interesting 

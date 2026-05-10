@@ -7,5 +7,5 @@ Reach into the Void and claim your prize.
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

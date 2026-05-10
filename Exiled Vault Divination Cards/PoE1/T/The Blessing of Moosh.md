@@ -10,9 +10,8 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Animal/Feline/Cat
 #Concept/Virtue/Gem
-#Category/DivinationCard
 #Location/Wraeclast/EternalLabyrinth
-#DivinationCard
 #PoE1

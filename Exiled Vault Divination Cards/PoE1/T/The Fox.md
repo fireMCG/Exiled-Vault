@@ -14,5 +14,4 @@ Level 20 Gem
 #Concept/Animal/Canidae/Fox
 #Concept/Season/Winter
 #Society/Ezomyte
-#DivinationCard
 #PoE1

@@ -10,11 +10,11 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Body/Skin
 #Concept/Darkness
 #Concept/Life
 #Concept/Luck
 #Concept/Night/Dreamer
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

@@ -11,5 +11,5 @@ Soul Taker
 # Tags
 #Category/DivinationCard
 #Concept/Soul
-#DivinationCard
 #PoE1
+#Interesting 

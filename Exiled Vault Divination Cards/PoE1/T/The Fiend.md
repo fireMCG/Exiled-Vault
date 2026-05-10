@@ -18,5 +18,5 @@ Corrupted
 #Concept/Eclipse
 #Concept/God
 #Concept/Power
-#DivinationCard
 #PoE1
+#Interesting 

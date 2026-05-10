@@ -13,5 +13,4 @@ Surgeon's Flask
 #Category/DivinationCard
 #Character/Malachai
 #Character/Maligaro
-#DivinationCard
 #PoE1

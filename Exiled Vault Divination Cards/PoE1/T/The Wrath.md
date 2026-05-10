@@ -13,5 +13,5 @@
 #Concept/Balance/Chaos
 #Concept/Family/Mother
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

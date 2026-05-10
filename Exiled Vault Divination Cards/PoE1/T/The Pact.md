@@ -12,5 +12,5 @@ Pledge of Hands
 #Category/DivinationCard
 #Concept/Body/Hand
 #League/Breach
-#DivinationCard
 #PoE1
+#Interesting 

@@ -3,8 +3,7 @@
 # Flavour Text
 Shrieking souls locked away 
 Hate splits frozen cells asunder 
-The knot of corruption
-undone at last
+The knot of corruption undone at last
 
 # Reward
 9x Shrieking Essence
@@ -16,5 +15,5 @@ undone at last
 #Concept/Essence
 #Concept/Soul
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

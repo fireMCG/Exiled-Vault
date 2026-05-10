@@ -15,5 +15,5 @@ Corrupted
 #Character/Shavronne
 #Concept/Sacrifice
 #Concept/Thaumaturgy
-#DivinationCard
 #PoE1
+#Interesting 

@@ -14,5 +14,4 @@ Obliteration
 #Concept/Emotion/Wrath
 #Character/Emperor/VollOfThebrus
 #Concept/Power
-#DivinationCard
 #PoE1

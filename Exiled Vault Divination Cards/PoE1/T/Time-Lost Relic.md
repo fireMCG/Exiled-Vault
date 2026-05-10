@@ -13,5 +13,5 @@ League-Specific Item
 #Concept/Symbol/Descry
 #Concept/Body/Skull
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

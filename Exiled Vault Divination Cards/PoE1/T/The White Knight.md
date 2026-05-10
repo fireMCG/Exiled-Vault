@@ -14,5 +14,5 @@ Crusader Item
 #Concept/Space/Astral
 #Concept/Decay
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

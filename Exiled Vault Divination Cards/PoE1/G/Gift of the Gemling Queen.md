@@ -15,5 +15,5 @@ Level 20 Support Gem
 #Concept/Gemling
 #Concept/Virtue/Gem
 #Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

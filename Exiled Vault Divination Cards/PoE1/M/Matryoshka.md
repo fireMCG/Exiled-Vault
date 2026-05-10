@@ -18,9 +18,9 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Animal/Feline/Cat
 #Concept/Silence
 #Concept/Talisman
-#Category/DivinationCard
-#DivinationCard
 #PoE1
+#Interesting 

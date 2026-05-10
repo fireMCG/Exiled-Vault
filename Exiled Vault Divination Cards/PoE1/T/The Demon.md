@@ -15,5 +15,5 @@ Corrupted
 #Concept/Demon
 #Concept/Whisper
 #Concept/Within
-#DivinationCard
 #PoE1
+#Interesting 
