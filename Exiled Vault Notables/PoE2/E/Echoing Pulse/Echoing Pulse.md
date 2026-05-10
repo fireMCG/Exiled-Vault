@@ -4,5 +4,5 @@ Final Repeat of Spells has 30% increased Area of Effect
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

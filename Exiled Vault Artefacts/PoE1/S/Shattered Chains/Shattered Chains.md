@@ -17,5 +17,4 @@ And gave them the freedom to choose corruption for themselves.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

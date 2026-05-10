@@ -5,5 +5,5 @@ Debuffs you inflict have 10% increased Slow Magnitude
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

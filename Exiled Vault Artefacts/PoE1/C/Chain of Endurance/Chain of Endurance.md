@@ -18,5 +18,4 @@ and triumph over his coddled rivals."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

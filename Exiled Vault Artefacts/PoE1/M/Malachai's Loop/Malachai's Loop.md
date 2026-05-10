@@ -21,5 +21,4 @@ It is our fragile reality that imposes boundaries.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

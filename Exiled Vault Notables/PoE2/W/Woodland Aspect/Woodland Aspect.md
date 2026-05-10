@@ -4,5 +4,5 @@ Charms applied to you have 25% increased Effect
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

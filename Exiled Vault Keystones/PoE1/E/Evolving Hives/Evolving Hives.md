@@ -7,5 +7,5 @@ Breaches in your Maps spawn 25% increased Rare Monsters
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

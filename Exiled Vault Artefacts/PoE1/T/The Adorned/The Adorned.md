@@ -15,5 +15,4 @@ now nothing more than a passing wonder.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

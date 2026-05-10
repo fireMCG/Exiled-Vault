@@ -4,5 +4,5 @@ Modifiers to Fire Resistance also grant Cold and Lightning Resistance at 50% of 
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

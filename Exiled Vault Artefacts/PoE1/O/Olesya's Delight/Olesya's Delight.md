@@ -20,5 +20,4 @@ The cruel thinker finds glee in torture most precise.
 #Category/Artefact
 #Character/Eldritch/Maven
 #Character/Olesya
-#Artefact
 #PoE1

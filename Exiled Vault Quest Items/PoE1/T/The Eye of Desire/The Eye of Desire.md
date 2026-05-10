@@ -13,5 +13,4 @@ Intent than Life."
 #Character/Malachai
 #Concept/Crystal
 #Category/QuestItem
-#QuestItem
 #PoE1

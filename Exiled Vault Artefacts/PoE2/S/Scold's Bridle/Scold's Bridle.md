@@ -18,5 +18,4 @@ A curious paradox."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

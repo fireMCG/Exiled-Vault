@@ -5,5 +5,5 @@ Sacrifice 5% of maximum Energy Shield when you Cast a SpellSpells for which this
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

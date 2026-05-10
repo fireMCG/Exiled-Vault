@@ -16,5 +16,4 @@ when a fresh delinquent walks through our gates."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

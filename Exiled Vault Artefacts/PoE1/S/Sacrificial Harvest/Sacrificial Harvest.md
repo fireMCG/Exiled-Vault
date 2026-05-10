@@ -15,5 +15,4 @@ make their machines run more efficiently.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

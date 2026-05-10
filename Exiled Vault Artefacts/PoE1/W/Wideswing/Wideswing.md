@@ -22,5 +22,4 @@ of seven men in a single cleave.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

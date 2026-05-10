@@ -18,5 +18,4 @@ The storm cannot sway those of sure footing.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

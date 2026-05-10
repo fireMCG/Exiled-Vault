@@ -14,5 +14,4 @@ but that bravery became the doom at their door.
 #
 ---
 # Tags
-#Artefact
 #PoE1

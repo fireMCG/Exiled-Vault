@@ -17,5 +17,4 @@ their love was all the more powerful.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

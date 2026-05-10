@@ -14,5 +14,4 @@ by the brilliant or the mad."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

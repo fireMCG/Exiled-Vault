@@ -19,5 +19,4 @@ Vanish like smoke in the wind.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

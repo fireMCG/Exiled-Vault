@@ -28,5 +28,4 @@ but I will never leave your side.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -18,5 +18,4 @@ I wish you could have stayed.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

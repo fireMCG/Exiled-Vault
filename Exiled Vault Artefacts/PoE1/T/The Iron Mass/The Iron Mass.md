@@ -22,5 +22,4 @@ Lead by example.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

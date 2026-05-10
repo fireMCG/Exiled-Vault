@@ -28,5 +28,4 @@ unveiling forms no sound mind could grasp.
 #Character/Eldritch/Elder
 #Concept/Mind
 #Concept/Decay
-#Artefact
 #PoE1

@@ -17,5 +17,4 @@ The most horrifying ideas often begin with a simple innovation.
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE2

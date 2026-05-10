@@ -18,5 +18,4 @@ the armies of Saresh were just as relentless.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -19,5 +19,4 @@ Prototype #12 is a 'success,' if we can ever reach it."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

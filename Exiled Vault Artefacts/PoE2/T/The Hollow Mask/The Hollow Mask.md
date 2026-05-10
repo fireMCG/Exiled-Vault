@@ -16,5 +16,4 @@ The roots take hold within...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

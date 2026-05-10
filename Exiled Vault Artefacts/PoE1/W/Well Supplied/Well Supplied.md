@@ -16,5 +16,4 @@ When the armory is full there is more to go around.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

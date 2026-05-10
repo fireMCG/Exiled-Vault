@@ -5,5 +5,5 @@ Your Heavy Stun buildup empties 50% faster
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

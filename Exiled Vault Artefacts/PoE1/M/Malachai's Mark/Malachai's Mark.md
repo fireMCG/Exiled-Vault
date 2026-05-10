@@ -17,5 +17,4 @@ What man does not wish for immortality?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

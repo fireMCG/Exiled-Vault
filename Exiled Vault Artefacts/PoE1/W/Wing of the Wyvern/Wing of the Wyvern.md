@@ -27,5 +27,4 @@ of hope's whisper.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

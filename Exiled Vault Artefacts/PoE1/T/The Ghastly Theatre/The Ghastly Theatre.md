@@ -24,5 +24,4 @@ Strike when they least expect it.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

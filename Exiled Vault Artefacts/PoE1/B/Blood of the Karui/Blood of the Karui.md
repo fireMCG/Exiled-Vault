@@ -20,5 +20,4 @@ So their King might go on."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

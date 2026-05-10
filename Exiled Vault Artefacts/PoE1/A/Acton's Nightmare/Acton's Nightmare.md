@@ -24,5 +24,4 @@ And an eerie silence purred.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

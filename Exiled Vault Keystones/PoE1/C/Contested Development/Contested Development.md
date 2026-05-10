@@ -7,5 +7,5 @@ Killing resident Architects in your Maps adds their Upgrade Tier to the survivin
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

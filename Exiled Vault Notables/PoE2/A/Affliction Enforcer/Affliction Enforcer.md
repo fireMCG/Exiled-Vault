@@ -8,5 +8,5 @@ Witch: 20% increased Physical Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

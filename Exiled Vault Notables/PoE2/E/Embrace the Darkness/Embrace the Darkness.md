@@ -6,5 +6,5 @@ Darkness Reservation lasts for 5 seconds
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

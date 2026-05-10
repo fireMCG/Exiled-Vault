@@ -23,5 +23,4 @@ Alone and free."
 #Category/Artefact
 #League/Domination
 #League/Nemesis
-#Artefact
 #PoE1

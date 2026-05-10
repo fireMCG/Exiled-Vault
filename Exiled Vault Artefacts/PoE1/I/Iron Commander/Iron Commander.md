@@ -22,5 +22,4 @@ without the usual depravities of necromancy.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

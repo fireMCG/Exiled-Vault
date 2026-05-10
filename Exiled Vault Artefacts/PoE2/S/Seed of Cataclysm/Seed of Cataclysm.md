@@ -14,5 +14,4 @@ The dawn of a new era is set into motion
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

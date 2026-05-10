@@ -29,5 +29,4 @@ it is what we make that makes us."
 #Character/Ahn
 #Character/Aul
 #Society/Primeval
-#Artefact
 #PoE1

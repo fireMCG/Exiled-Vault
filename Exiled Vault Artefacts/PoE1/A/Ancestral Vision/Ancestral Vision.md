@@ -17,5 +17,4 @@ Inextricably, the purity of our souls is linked to the ones who came before us.
 #Concept/Ancestor
 #Concept/Spirit
 #Concept/Vision
-#Artefact
 #PoE1

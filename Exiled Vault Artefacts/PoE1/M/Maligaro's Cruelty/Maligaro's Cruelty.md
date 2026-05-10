@@ -19,5 +19,4 @@ If that does not describe a monster, tell me: what does?"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

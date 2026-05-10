@@ -4,5 +4,5 @@ When collecting an Elemental Infusion, gain another different Elemental Infusion
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

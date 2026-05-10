@@ -18,5 +18,4 @@ but all who witnessed shared in exultation.
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE2

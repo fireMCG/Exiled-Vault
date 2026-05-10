@@ -20,5 +20,4 @@ Though we cannot live without danger, we can learn to live with it.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

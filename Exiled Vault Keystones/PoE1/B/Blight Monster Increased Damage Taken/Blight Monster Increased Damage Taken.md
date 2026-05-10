@@ -6,5 +6,5 @@ Blight Monsters in your Maps take 8% increased Damage
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

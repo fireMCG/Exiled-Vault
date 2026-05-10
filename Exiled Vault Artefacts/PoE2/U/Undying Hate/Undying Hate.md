@@ -23,5 +23,4 @@ but that desperation made them monstrous.
 #Concept/Emotion/Hate
 #League/Abyss
 #Society/Lightless
-#Artefact
 #PoE2

@@ -27,5 +27,4 @@ And dance with death in trine.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

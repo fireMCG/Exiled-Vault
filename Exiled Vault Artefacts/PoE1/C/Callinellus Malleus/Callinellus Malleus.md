@@ -21,5 +21,4 @@ To neither ebb nor flow, but weather the rising tide, outlast, unshifting and un
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

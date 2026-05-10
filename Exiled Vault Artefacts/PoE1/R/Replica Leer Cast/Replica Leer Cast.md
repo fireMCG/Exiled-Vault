@@ -18,5 +18,4 @@ common with Thought Extractor technology."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

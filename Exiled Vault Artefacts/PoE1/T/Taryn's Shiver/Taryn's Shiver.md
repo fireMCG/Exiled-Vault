@@ -25,5 +25,4 @@ Shiver in pain at the frozen dawn.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

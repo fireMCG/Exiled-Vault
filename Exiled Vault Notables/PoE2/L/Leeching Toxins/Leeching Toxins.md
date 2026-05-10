@@ -5,5 +5,5 @@ Recover 2% of maximum Life on Killing a Poisoned Enemy
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

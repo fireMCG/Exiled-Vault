@@ -10,5 +10,4 @@ The rune on the buckle means
 #Concept/Rune
 #Category/QuestItem
 #Society/Ezomyte
-#QuestItem
 #PoE2

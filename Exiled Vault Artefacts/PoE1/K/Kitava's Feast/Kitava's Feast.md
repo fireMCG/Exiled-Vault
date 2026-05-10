@@ -24,5 +24,4 @@ he would devour every soul in Hinekora's domain.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

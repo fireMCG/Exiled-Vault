@@ -9,5 +9,4 @@ Our plan. Perfect pawn in OUR plan.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

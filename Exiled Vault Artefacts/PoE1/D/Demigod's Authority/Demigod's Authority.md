@@ -18,5 +18,4 @@ for no one survives to contest them.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

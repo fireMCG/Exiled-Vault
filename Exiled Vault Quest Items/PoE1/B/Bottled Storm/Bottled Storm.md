@@ -15,5 +15,4 @@ offerings of adoration. We hope that, in its mercy, it shall pass us by."
 #Concept/Tyranny
 #Category/QuestItem
 #Society/Maraketh
-#QuestItem
 #PoE1

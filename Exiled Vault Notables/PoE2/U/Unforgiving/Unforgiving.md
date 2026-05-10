@@ -5,5 +5,5 @@ Inherent loss of Rage is 20% slower
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

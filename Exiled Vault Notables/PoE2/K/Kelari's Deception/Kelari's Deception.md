@@ -4,5 +4,5 @@ Grants Skill: Kelari's Deception
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

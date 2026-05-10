@@ -21,5 +21,4 @@ If your mind is sharp enough.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

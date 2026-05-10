@@ -24,5 +24,4 @@ What key fundamental secret are we missing?"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

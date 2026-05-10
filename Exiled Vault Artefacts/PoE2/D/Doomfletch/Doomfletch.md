@@ -22,5 +22,4 @@ And neither is Death."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

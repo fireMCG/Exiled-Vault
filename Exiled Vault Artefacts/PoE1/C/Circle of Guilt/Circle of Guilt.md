@@ -15,5 +15,4 @@ It is my gift to humanity.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

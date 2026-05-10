@@ -23,5 +23,4 @@ than the scintillating light of utter clarity.
 #Concept/Religion/Heaven
 #Concept/Light
 #Concept/Cleansing
-#Artefact
 #PoE1

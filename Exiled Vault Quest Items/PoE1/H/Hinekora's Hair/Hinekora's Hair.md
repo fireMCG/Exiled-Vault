@@ -12,5 +12,4 @@ What we steal in life we repay in death."
 #Concept/Death
 #Category/QuestItem
 #Society/Karui
-#QuestItem
 #PoE1

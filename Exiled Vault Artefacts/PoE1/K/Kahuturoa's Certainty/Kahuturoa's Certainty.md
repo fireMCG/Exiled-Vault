@@ -15,5 +15,4 @@ Confidence is calm and measured.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -20,5 +20,4 @@ it was there, at every turn, waiting for him."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

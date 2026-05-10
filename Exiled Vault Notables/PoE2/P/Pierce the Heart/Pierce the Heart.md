@@ -4,5 +4,5 @@ Arrows Pierce an additional Target
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

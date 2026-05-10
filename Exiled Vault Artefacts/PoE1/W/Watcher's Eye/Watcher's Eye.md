@@ -24,5 +24,4 @@ and one by one, they became a part of it.
 #Character/ValdoCaeserius
 #Concept/Body/Eye
 #Concept/Decay
-#Artefact
 #PoE1

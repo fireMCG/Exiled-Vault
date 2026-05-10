@@ -11,5 +11,4 @@ reaches out for control of the Atlas.
 #Character/Eldritch/EaterOfWorlds
 #Concept/Tangle
 #Category/QuestItem
-#QuestItem
 #PoE1

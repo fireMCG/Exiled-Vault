@@ -20,5 +20,4 @@ are due to some unknown polarity we have yet to discover."
 # Tags
 #Category/Artefact
 #Concept/Mirror
-#Artefact
 #PoE1

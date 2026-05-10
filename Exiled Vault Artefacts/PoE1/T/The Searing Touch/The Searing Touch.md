@@ -21,5 +21,4 @@ Rule a world, bathed in flame.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

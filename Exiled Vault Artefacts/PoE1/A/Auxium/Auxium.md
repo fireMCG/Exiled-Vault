@@ -18,5 +18,4 @@ As long as the soul is unfettered, so is the body.
 #Category/Artefact
 #Concept/Body/Flesh
 #Concept/Soul
-#Artefact
 #PoE1

@@ -4,5 +4,5 @@ Ignites you inflict deal Damage 15% faster
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

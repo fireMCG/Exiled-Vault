@@ -9,5 +9,4 @@ That is what we're dealing with.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

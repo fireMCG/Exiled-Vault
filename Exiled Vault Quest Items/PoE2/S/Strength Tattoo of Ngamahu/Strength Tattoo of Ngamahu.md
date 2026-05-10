@@ -9,5 +9,4 @@ When Ngamahu's chosen truly wish to destroy an enemy, nothing can stop them.
 #Character/God/Ngamahu
 #Category/QuestItem
 #Society/Karui/Tribe/Ngamahu
-#QuestItem
 #PoE2

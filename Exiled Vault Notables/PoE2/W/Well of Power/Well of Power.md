@@ -5,5 +5,5 @@ Recover 5% of maximum Mana when you consume a Power Charge
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

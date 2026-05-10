@@ -16,5 +16,4 @@ Hurt as you would be hurt.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

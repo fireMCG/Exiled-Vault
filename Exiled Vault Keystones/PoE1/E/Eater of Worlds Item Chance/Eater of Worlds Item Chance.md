@@ -6,5 +6,5 @@ Monsters Influenced by The Eater of Worlds in your Maps have 0.2% chance to drop
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

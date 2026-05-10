@@ -6,5 +6,5 @@ Delirium Encounters in your Maps are 16% more likely to spawn Unique Bosses
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

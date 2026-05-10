@@ -18,5 +18,4 @@ With every land they consumed.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

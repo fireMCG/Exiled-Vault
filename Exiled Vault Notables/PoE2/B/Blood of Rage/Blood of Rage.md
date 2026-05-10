@@ -4,5 +4,5 @@ Gain 8 Rage when you use a Life Flask
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

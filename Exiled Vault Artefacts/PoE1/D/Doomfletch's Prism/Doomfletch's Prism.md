@@ -22,5 +22,4 @@ than I could ever wish for."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

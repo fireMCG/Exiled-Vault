@@ -17,5 +17,4 @@ on the world... he will offer you anything to get it..."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

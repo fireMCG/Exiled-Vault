@@ -5,5 +5,5 @@ Enemies you Curse have -3% to Chaos Resistance
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

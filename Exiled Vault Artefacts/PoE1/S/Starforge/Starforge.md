@@ -28,5 +28,4 @@ The end is written into the beginning.
 #Concept/Time/Cycle
 #Concept/Time/Ending
 #Concept/Space/Star
-#Artefact
 #PoE1

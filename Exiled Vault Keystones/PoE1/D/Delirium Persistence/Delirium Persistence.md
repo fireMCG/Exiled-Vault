@@ -6,5 +6,5 @@ Delirium Fog in your Maps dissipates 8% slower
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -17,5 +17,4 @@ War inevitably takes an untold toll on the soul.
 #
 ---
 # Tags
-#Artefact
 #PoE2

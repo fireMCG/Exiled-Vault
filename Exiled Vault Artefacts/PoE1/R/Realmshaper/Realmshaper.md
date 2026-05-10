@@ -25,5 +25,4 @@ We should count ourselves lucky when we see neither."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

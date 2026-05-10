@@ -18,5 +18,4 @@ And the warrior readies his blade.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

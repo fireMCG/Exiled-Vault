@@ -18,5 +18,4 @@ by those who cannot hear the music."
 #
 ---
 # Tags
-#Artefact
 #PoE2

@@ -21,5 +21,4 @@ and so we turn to dust.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

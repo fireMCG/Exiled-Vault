@@ -14,5 +14,4 @@ In running from death, you may forget to live."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

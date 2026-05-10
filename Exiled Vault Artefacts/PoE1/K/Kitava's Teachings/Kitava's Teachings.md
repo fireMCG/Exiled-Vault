@@ -12,5 +12,4 @@ For there may never be another chance to eat.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -19,5 +19,4 @@ A true predator does not chase; It waits.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

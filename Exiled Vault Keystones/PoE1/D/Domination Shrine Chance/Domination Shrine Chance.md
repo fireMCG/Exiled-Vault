@@ -6,5 +6,5 @@ Your Maps have a 20% chance to contain an additional Shrine
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

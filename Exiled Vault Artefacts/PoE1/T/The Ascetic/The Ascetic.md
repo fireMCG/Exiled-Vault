@@ -13,5 +13,4 @@ Many things come to one who has nothing.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

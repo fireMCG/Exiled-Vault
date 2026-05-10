@@ -15,5 +15,4 @@ but many worried that it had also left the people soft.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

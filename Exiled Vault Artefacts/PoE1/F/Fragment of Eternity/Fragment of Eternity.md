@@ -21,5 +21,4 @@ So goes the descent.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -25,5 +25,4 @@ Beneath the stars, the moondrops glowing.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

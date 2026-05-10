@@ -16,5 +16,4 @@ she held the bridge to the very end.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

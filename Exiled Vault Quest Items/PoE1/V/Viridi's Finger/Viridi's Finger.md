@@ -11,5 +11,4 @@ need to sacrifice a baby to make it function, but that's a bit grotesque, even f
 #Concept/Sacrifice
 #Category/QuestItem
 #Society/Azmeri
-#QuestItem
 #PoE1

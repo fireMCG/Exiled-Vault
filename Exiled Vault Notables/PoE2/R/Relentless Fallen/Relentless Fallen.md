@@ -6,5 +6,5 @@ Minions have 8% increased Attack and Cast Speed
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

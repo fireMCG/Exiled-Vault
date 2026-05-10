@@ -22,5 +22,4 @@ We return once more.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -19,5 +19,4 @@ Every rule has an exception.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -8,5 +8,4 @@ Cool and pure, it represents hope in a bleak era.
 # Tags
 #Category/QuestItem
 #Society/Maraketh
-#QuestItem
 #PoE2

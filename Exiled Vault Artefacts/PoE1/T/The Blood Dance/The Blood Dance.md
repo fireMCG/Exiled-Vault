@@ -22,5 +22,4 @@ As they dance in the waters red."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

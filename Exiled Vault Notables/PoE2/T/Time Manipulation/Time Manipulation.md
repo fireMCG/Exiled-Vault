@@ -5,5 +5,5 @@ Debuffs on you expire 20% faster
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

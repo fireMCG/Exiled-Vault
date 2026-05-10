@@ -20,5 +20,4 @@ to serve as ample defence for the relics we left behind."
 # Tags
 #Category/Artefact
 #Character/Qotra
-#Artefact
 #PoE1

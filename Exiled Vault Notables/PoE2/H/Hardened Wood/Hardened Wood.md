@@ -5,5 +5,5 @@ Totems have 20% additional Physical Damage Reduction
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

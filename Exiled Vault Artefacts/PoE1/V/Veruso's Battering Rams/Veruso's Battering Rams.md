@@ -18,5 +18,4 @@ then the constructs guarding the tomb on the other side.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

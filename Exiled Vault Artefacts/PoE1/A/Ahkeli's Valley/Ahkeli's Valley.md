@@ -24,5 +24,4 @@ Dammed by the coagulating dead.
 #Concept/Water/Sea
 #Society/Primeval
 #Attributes/Timeline
-#Artefact
 #PoE1

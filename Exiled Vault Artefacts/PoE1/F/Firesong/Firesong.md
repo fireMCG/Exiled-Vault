@@ -14,5 +14,4 @@ For the master of fire fears nothing.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

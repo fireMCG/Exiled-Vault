@@ -17,5 +17,4 @@ A faith born of flesh.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

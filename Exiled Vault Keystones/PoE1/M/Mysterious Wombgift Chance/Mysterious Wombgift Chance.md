@@ -6,5 +6,5 @@ Wombgifts found in your Maps have 25% increased chance to be Mysterious
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

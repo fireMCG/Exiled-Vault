@@ -7,5 +7,5 @@ Varieties of Items contained in 1 Blight Chest in your Maps are Lucky
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

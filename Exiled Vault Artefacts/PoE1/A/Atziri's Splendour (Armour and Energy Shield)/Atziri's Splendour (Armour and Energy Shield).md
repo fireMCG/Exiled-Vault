@@ -25,5 +25,4 @@ you have nothing to fear."
 #Character/Atziri
 #Concept/Emotion/Fear
 #Society/VaalEmpire
-#Artefact
 #PoE1

@@ -18,5 +18,4 @@ Is it better to find new lands - or to create them?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

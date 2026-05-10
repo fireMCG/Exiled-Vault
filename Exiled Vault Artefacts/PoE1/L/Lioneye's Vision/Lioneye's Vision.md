@@ -21,5 +21,4 @@ be destroyed by savages."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -17,5 +17,4 @@ Maximum power fueled by science gone mad.
 #Concept/Madness
 #Concept/Power
 #Concept/Science
-#Artefact
 #PoE1

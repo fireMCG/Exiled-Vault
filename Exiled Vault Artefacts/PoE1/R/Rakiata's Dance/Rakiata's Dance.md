@@ -21,5 +21,4 @@ In the shifting reflections of the sea, the truth of the soul can be seen.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

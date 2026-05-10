@@ -19,5 +19,4 @@ A secret few among the Templars grant absolution by bearing the guilt of others.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

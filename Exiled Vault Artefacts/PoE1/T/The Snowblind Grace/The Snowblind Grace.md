@@ -18,5 +18,4 @@ colliding as many and emerging as one.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

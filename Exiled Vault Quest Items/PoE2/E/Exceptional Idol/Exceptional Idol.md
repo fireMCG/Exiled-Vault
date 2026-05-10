@@ -8,5 +8,4 @@
 # Tags
 #Category/QuestItem
 #Society/VaalEmpire
-#QuestItem
 #PoE2

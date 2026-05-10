@@ -7,5 +7,5 @@ Harvests in your Maps have 10% chance for the unchosen Crop to not wilt
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

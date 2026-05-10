@@ -18,5 +18,4 @@ Every last man dying a brutal but honourable death.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

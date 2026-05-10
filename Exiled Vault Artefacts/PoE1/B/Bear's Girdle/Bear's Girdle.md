@@ -15,5 +15,4 @@ Simple. Deadly. Unstoppable
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

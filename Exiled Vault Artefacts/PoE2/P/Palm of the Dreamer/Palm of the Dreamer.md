@@ -23,5 +23,4 @@ And yet, I have hope for a new truth. And I will see it... made real."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -14,5 +14,4 @@ Danger is the price of wealth.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

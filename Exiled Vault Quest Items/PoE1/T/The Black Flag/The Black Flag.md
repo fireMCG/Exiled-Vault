@@ -9,5 +9,4 @@ nethers, and may our blades follow."
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

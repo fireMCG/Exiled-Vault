@@ -23,5 +23,4 @@ The whim of the cosmos.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

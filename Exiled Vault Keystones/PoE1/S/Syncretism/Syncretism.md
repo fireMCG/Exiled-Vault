@@ -7,5 +7,5 @@ Shrines in your Maps grant a random additional Shrine Effect
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

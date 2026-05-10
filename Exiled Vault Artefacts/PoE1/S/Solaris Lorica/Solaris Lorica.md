@@ -21,5 +21,4 @@ So that I may begin my bright pursuit.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

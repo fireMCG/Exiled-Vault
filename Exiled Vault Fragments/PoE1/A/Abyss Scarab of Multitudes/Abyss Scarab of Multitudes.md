@@ -17,5 +17,4 @@ Shift click to unstack.
 #Concept/Nature/Earth
 #League/Abyss
 #Category/Scarab
-#Fragment
 #PoE1

@@ -23,5 +23,4 @@ Terror makes you run.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

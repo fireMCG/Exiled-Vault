@@ -9,5 +9,4 @@ They are engraved with the runes for 'Authority,' 'Break,' and 'Release.'
 #Concept/Rune
 #Category/QuestItem
 #Society/Kalguur
-#QuestItem
 #PoE2

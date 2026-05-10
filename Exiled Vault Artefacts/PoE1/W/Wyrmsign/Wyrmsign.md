@@ -21,5 +21,4 @@ can be measured in seconds.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

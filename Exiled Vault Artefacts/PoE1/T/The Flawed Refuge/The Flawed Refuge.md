@@ -20,5 +20,4 @@ against the Winter of the World.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -26,5 +26,4 @@ then forged anew.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -19,5 +19,4 @@ chaos and cold. Perhaps we should consult an occultist."
 #Category/Artefact
 #Concept/Balance/Chaos
 #Concept/Element/Ice
-#Artefact
 #PoE1

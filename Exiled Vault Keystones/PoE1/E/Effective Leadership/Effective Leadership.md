@@ -7,5 +7,5 @@ Immortal Syndicate Leaders in your Maps drop an additional Veiled Item
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

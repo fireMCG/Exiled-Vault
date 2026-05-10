@@ -11,5 +11,4 @@ every tent in the whole of the Plains blew wildly open.
 #Category/QuestItem
 #Society/Maraketh
 #Attributes/Timeline
-#QuestItem
 #PoE2

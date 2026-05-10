@@ -11,5 +11,4 @@ pursuit of an important cause.
 #Concept/Rune
 #Category/QuestItem
 #Society/Ezomyte
-#QuestItem
 #PoE2

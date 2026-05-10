@@ -6,5 +6,5 @@ Life Flasks gain 0.1 charges per Second
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

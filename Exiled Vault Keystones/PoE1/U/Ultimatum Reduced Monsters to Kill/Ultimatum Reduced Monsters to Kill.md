@@ -7,5 +7,5 @@ require killing 10% reduced number of Enemies
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

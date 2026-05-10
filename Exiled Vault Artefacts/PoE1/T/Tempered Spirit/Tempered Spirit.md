@@ -13,5 +13,4 @@ Though the body rots, the spirit lives on.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

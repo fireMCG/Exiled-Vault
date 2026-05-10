@@ -20,5 +20,4 @@ It was earned by comrades in arms.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -7,5 +7,4 @@ It hums faintly. Not with life, but with purpose.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE2

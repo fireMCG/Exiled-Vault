@@ -23,5 +23,4 @@ Truly great Artificers push the boundaries of the possible.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

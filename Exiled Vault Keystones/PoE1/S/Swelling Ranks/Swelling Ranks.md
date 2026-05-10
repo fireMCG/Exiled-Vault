@@ -7,5 +7,5 @@ Breach Monsters in your Maps have 20% increased Pack Size
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

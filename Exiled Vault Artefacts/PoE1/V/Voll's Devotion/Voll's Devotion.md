@@ -19,5 +19,4 @@ Let the sinners come, for we - the Pure - shall endure!"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

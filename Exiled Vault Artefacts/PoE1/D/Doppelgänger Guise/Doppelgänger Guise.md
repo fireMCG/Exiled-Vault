@@ -23,5 +23,4 @@ held back only by the lies we tell ourselves.
 #Concept/Morality/Evil
 #Concept/Mirror
 #Concept/Within
-#Artefact
 #PoE1

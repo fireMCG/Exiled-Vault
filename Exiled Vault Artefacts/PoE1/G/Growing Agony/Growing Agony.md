@@ -18,5 +18,4 @@ And very painful.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

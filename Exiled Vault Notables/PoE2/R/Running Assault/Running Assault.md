@@ -5,5 +5,5 @@ Cannot be Heavy Stunned while Sprinting
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

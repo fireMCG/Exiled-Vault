@@ -25,5 +25,4 @@ So red and so sleek
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

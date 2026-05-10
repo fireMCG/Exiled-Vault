@@ -20,5 +20,4 @@ but life always springs back anew.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

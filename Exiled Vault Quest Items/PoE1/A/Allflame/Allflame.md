@@ -11,5 +11,4 @@ and engulfs those moths fool enough to embrace it.
 #Concept/Virtue/Ambition
 #Concept/Colour/Silver
 #Category/QuestItem
-#QuestItem
 #PoE1

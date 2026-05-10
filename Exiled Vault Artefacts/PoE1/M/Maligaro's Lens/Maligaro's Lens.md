@@ -24,5 +24,4 @@ You simply lack the means to see it."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

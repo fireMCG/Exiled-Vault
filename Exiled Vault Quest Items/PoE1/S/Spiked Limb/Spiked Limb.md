@@ -7,5 +7,4 @@ must draw closer...
 #
 ---
 # Tags
-#QuestItem
 #PoE1

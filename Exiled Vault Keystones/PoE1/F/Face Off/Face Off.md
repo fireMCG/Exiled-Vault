@@ -8,5 +8,5 @@ Legion Encounters with a General in your Maps have both Generals
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

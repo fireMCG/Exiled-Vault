@@ -4,5 +4,5 @@ Defend with 150% of Armour against Hits from Enemies that are further than 6m aw
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

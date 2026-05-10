@@ -13,5 +13,4 @@ is that all are one and the same.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -19,5 +19,4 @@ and three generous cups of Might.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

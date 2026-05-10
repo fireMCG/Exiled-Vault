@@ -5,5 +5,5 @@ Hits have 25% reduced Critical Hit Chance against you
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

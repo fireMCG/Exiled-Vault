@@ -24,5 +24,4 @@ you need only shake the wrong branch.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

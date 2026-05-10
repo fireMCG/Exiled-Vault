@@ -20,5 +20,4 @@ though at considerable cost to the long-term survival rate of the user."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

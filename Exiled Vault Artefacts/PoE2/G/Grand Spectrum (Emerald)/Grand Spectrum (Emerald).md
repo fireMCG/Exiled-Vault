@@ -12,5 +12,4 @@ An indomitable force of control.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

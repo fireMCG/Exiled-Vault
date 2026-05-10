@@ -4,5 +4,5 @@ Life Leeched from Empowered Attacks is Instant
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

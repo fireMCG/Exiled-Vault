@@ -7,5 +7,5 @@ Scarabs dropped in your Maps have 30% increased chance to be Harvest Scarabs
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

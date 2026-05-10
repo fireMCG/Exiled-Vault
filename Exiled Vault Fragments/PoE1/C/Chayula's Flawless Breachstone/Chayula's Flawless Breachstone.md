@@ -7,5 +7,4 @@ Can be used in a personal Map Device.
 #
 ---
 # Tags
-#Fragment
 #PoE1

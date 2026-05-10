@@ -5,5 +5,5 @@ Grenade Skills Fire an additional Projectile
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

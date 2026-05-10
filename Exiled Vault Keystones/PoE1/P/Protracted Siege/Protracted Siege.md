@@ -8,5 +8,5 @@ Breach Hives in your Maps have 2 additional waves of Hiveborn Monsters
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

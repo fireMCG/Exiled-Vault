@@ -20,5 +20,4 @@ No one likes a quiet encore.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

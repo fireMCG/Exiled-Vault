@@ -5,5 +5,5 @@ Each Totem applies 2% increased Damage taken to Enemies in their Presence
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

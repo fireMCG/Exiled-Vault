@@ -24,5 +24,4 @@ Looping cycles, power and pain..."
 # Tags
 #Category/Artefact
 #Character/Arn
-#Artefact
 #PoE1

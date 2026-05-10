@@ -18,5 +18,4 @@ Empty cup, full of promise.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

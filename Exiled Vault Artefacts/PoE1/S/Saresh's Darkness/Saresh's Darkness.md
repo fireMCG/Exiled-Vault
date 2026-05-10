@@ -16,5 +16,4 @@ me, but I am merely the prophet, the one who sees the black."
 #
 ---
 # Tags
-#Artefact
 #PoE1

@@ -6,5 +6,5 @@ Ritual Altars in your Maps allow rerolling Favours 2 additional times
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

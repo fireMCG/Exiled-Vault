@@ -8,5 +8,4 @@ Quantity: 50
 #
 ---
 # Tags
-#Fragment
 #PoE1

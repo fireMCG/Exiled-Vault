@@ -21,5 +21,4 @@ We know all that you think.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

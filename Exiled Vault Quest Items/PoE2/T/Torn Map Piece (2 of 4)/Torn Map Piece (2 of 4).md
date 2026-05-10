@@ -7,5 +7,4 @@ Weathered, but not forgotten.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE2

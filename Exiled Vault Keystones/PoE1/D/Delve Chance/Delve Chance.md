@@ -7,5 +7,5 @@ Scarabs dropped in your Maps have 8% increased chance to be Sulphite Scarabs
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

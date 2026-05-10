@@ -6,5 +6,5 @@ Ultimatum Encounters in your Maps spawn 8% increased number of Monsters
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

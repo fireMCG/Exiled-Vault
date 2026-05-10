@@ -19,5 +19,4 @@ retreats into instinct and madness.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

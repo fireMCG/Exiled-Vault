@@ -21,5 +21,4 @@ Lead the army of the damned from the front.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

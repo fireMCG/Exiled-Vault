@@ -23,5 +23,4 @@ Some things must die so that others can live.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

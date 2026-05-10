@@ -20,5 +20,4 @@ I'm just evening things out."
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

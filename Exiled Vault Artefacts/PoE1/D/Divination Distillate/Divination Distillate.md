@@ -20,5 +20,4 @@ who dream of enlightenment
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

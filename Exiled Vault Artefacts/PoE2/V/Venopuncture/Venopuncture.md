@@ -19,5 +19,4 @@ but few have the resolve to attempt it.
 # Tags
 #Category/Artefact
 #Concept/Animal/Snake
-#Artefact
 #PoE2

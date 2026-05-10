@@ -21,5 +21,4 @@ instead to put their faith in each other.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

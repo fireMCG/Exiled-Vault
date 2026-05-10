@@ -17,5 +17,4 @@ And so becomes part of her stew.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -17,5 +17,4 @@ It is but one part of a fortress."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

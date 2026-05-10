@@ -5,5 +5,5 @@ Companions gain your Strength
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

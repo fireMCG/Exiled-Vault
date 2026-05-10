@@ -25,5 +25,4 @@ A sign of faithlessness through action.
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

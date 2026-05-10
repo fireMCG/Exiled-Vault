@@ -55,5 +55,4 @@ matters but the pursuit of perfection.
 #Concept/Decay
 #Concept/Vision
 #Concept/World
-#Artefact
 #PoE1

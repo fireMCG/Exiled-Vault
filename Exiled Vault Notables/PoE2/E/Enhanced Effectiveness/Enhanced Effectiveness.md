@@ -5,5 +5,5 @@ Inherent bonuses gained from Attributes are doubled
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

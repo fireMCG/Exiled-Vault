@@ -17,5 +17,4 @@ It holds secrets better unknown."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

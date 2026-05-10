@@ -6,5 +6,5 @@ Maps from Strongboxes in your Maps are Duplicated
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

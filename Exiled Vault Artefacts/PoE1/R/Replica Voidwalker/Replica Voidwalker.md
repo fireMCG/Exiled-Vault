@@ -20,5 +20,4 @@ He was not fast enough, however. Suggest we begin excavation to retrieve prototy
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

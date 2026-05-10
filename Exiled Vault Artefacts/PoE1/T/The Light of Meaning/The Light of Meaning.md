@@ -13,5 +13,4 @@ To name a thing is to give it power.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

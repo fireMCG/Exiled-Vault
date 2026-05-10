@@ -4,5 +4,5 @@ Grants Skill: Void Illusion
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

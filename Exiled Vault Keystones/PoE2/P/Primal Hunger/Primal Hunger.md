@@ -11,5 +11,5 @@ No Rage effect
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE2

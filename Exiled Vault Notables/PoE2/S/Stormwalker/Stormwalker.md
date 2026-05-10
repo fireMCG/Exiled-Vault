@@ -5,5 +5,5 @@ Gain 15% of Damage as Extra Lightning Damage while on Shocked Ground
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

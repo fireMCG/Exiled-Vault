@@ -6,5 +6,5 @@ Your Maps are haunted by an additional Tormented Spirit
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

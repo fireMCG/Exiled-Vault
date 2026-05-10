@@ -11,5 +11,4 @@ One day you eat the fish. One day you feed the fish."
 #Concept/Animal/Fish
 #Category/QuestItem
 #Society/Karui/Tribe/Valako
-#QuestItem
 #PoE1

@@ -19,5 +19,4 @@ May your resolve never waver.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

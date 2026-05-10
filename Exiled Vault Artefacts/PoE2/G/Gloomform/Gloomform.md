@@ -19,5 +19,4 @@ that thieves, murderers, and outcasts, sought refuge.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -18,5 +18,4 @@ the soul may yet scream on.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

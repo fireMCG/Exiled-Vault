@@ -16,5 +16,4 @@ the world hearkens.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

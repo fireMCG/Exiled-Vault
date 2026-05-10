@@ -18,5 +18,4 @@ Yes... but what if?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

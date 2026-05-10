@@ -5,5 +5,5 @@ base physical damage reduction rating no display [200]
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

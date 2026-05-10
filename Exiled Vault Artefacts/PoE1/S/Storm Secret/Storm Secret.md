@@ -17,5 +17,4 @@ Lightning lives in an endless circle.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

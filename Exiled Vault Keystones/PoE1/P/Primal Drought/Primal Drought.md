@@ -6,5 +6,5 @@ Harvest Crops in your Maps have 25% reduced chance to grow Blue Plants
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

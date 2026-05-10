@@ -20,5 +20,4 @@ than to think without action.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -19,5 +19,4 @@ They know.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

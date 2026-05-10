@@ -23,5 +23,4 @@ Is there sweeter music?"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -19,5 +19,4 @@ But the dead would not remain there.
 # Tags
 #Category/Artefact
 #Attributes/Timeline
-#Artefact
 #PoE1

@@ -26,5 +26,4 @@ is to step into the mind of God."
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

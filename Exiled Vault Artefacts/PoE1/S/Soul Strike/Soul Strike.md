@@ -19,5 +19,4 @@ Outlast the rewards of the Flesh.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

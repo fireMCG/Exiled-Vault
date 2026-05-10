@@ -22,5 +22,4 @@ they empower the strong.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

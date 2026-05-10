@@ -20,5 +20,4 @@ Their light is fleeting, as a dream...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -19,5 +19,4 @@ May it echo through the halls.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

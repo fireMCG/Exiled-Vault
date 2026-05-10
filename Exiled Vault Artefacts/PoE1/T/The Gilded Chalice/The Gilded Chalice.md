@@ -17,5 +17,4 @@ Finally, he had the power and wealth he so desired." - Lycia, the Heretic
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -22,5 +22,4 @@ Life endures in Wraeclast.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

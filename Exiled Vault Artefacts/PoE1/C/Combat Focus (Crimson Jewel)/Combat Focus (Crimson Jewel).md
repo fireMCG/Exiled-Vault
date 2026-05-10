@@ -18,5 +18,4 @@ But when his foot hit the sand, he thought only of the fight.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

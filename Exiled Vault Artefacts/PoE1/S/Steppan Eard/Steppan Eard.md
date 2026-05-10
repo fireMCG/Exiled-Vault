@@ -19,5 +19,4 @@ Make those lands your own, and the mistake becomes theirs.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

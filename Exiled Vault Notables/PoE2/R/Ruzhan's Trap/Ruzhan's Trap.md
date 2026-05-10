@@ -4,5 +4,5 @@ Grants Skill: Ruzhan's Trap
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

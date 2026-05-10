@@ -20,5 +20,4 @@ and left a mountain of twitching dead.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -22,5 +22,4 @@ And bloom steel flowers of victory.
 #Concept/Darkness
 #Concept/Night
 #Concept/Veil
-#Artefact
 #PoE2

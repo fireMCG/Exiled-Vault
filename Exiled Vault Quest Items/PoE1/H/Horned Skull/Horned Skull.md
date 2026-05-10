@@ -7,5 +7,4 @@ searing light of the Torus Eternal.
 #
 ---
 # Tags
-#QuestItem
 #PoE1

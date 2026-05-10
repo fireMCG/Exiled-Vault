@@ -18,5 +18,4 @@ Relentlessness. Nothing more, nothing less.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

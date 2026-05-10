@@ -4,5 +4,5 @@ Gain Arcane Surge when you Shapeshift to Human form afterbeing Shapeshifted for 
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -4,5 +4,5 @@ Culling Strike
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

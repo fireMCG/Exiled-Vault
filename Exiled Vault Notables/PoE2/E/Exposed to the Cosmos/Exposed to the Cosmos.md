@@ -5,5 +5,5 @@ Damage Penetrates 18% Cold Resistance
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

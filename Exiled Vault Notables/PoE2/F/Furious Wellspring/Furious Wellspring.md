@@ -8,5 +8,5 @@ Skills have +5 to Rage cost
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -19,5 +19,4 @@ we must begin the process before expiry."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

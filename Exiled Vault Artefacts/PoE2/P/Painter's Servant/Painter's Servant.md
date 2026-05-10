@@ -19,5 +19,4 @@ just to capture thee.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

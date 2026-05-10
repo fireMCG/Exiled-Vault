@@ -17,5 +17,4 @@ Give him your body, and your burdens will follow.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

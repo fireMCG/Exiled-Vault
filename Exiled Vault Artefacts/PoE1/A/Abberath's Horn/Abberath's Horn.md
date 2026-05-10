@@ -24,5 +24,4 @@ as his ruin spread across the land.
 #Character/God/Abberath
 #Concept/Element/Fire
 #Concept/King
-#Artefact
 #PoE1

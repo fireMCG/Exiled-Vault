@@ -19,5 +19,4 @@ just as quickly. This could have been much worse."
 # Tags
 #Category/Artefact
 #Character/Ksaret
-#Artefact
 #PoE1

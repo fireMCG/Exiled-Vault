@@ -22,5 +22,4 @@ Robbing breath from the weak and worthless.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -5,5 +5,5 @@ Detonator skills have 80% reduced damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

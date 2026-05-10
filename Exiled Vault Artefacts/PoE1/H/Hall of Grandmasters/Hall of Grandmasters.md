@@ -16,5 +16,4 @@ And even the immortal may fall.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

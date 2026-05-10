@@ -19,5 +19,4 @@ Fight till death, never hide.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

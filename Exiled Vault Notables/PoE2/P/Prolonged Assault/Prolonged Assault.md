@@ -6,5 +6,5 @@ Buffs on you expire 10% slower
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

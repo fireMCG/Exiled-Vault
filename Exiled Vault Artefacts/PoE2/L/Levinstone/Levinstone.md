@@ -14,5 +14,4 @@ Highgate held other secrets.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -19,5 +19,4 @@ Spirit comes to take you on your final journey.
 #Concept/Death
 #Concept/Spirit
 #Society/Karui
-#Artefact
 #PoE1

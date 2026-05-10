@@ -4,5 +4,5 @@ Grants Skill: Time Snap
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

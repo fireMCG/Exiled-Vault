@@ -24,5 +24,4 @@ the safest place to be is the centre.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

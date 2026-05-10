@@ -25,5 +25,4 @@ from ghoulish dreams, too strange to comprehend.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

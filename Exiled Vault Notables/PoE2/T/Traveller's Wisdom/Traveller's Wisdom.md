@@ -4,5 +4,5 @@ Attribute Passive Skills can instead grant 5% increased DamageAttribute Passive 
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

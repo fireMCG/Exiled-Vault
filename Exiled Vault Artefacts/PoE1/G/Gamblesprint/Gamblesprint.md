@@ -18,5 +18,4 @@ unknown and snarled to the very last.
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

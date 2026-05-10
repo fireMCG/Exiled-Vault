@@ -14,5 +14,4 @@ A quick step can advance great plans.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

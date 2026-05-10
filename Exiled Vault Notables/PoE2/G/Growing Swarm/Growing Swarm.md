@@ -5,5 +5,5 @@ Minions have 20% increased Cooldown Recovery Rate
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

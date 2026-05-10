@@ -19,5 +19,4 @@ should the opportunity arise.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

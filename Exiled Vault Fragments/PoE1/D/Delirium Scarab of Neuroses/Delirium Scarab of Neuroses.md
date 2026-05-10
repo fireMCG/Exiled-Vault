@@ -20,5 +20,4 @@ Shift click to unstack.
 # Tags
 #League/Delirium
 #Category/Scarab
-#Fragment
 #PoE1

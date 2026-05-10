@@ -4,5 +4,5 @@ Grants Skill: Fire Spell on Hit
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

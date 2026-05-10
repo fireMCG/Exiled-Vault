@@ -24,5 +24,4 @@ Until we are one in shadow.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -17,5 +17,4 @@ Use four of these in a personal Map Device to open Portals to The Absence of Mer
 # Tags
 #Character/Eldritch/Maven
 #Category/Fragment
-#Fragment
 #PoE1

@@ -4,5 +4,5 @@
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

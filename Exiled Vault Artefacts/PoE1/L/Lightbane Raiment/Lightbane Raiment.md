@@ -22,5 +22,4 @@ and embraced the darkness.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

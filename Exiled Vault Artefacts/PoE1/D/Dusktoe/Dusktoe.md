@@ -19,5 +19,4 @@ the petty frictions of one's life."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

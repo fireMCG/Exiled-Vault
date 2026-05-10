@@ -23,5 +23,4 @@ debilitating effect from poisons. This could be very useful."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -15,5 +15,4 @@ He was a lot luckier before he lost this.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

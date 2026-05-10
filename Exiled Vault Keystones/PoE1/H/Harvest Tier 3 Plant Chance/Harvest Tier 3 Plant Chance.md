@@ -6,5 +6,5 @@ Harvest Crops in your Maps have 10% increased chance to contain Tier 3 Plants
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

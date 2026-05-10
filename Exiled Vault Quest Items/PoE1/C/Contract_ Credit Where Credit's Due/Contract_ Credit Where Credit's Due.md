@@ -7,5 +7,4 @@ Never take credit for another man's work.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

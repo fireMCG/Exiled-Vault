@@ -20,5 +20,4 @@ in an unclean world?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

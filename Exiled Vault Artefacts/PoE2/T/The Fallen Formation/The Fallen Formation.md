@@ -21,5 +21,4 @@ forward, all of you, from this ghastly Vale."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -17,5 +17,4 @@ but on those that did not.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

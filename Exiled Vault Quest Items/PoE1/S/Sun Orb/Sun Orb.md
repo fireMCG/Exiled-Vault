@@ -13,5 +13,4 @@ Sunlight is belief. Sunlight is life."
 #Concept/Religion
 #Concept/Sun
 #Category/QuestItem
-#QuestItem
 #PoE1

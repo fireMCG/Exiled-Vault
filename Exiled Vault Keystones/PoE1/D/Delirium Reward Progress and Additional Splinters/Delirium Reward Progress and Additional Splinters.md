@@ -7,5 +7,5 @@ Delirious Monsters Killed in your Maps provide 5% increased Reward Progress
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

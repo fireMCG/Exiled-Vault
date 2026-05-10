@@ -7,5 +7,5 @@ Legion Chests released from Stasis in your Maps release other Monsters and Chest
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

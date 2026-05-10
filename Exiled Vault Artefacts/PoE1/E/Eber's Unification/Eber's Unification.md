@@ -19,5 +19,4 @@ and inexorably we inch towards oneness.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

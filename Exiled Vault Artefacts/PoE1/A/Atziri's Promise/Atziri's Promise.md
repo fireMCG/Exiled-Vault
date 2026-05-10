@@ -22,5 +22,4 @@
 #Concept/Death
 #Concept/Loyalty
 #Society/VaalEmpire
-#Artefact
 #PoE1

@@ -21,5 +21,4 @@ until she was not what she saw.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

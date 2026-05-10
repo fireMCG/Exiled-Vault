@@ -16,5 +16,4 @@ But when it breaks, its service will continue.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

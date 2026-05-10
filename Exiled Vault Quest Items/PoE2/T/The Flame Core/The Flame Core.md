@@ -11,5 +11,4 @@ a single soul imprisoned eternally for his crimes.
 #Concept/Soul
 #Category/QuestItem
 #Society/VaalEmpire
-#QuestItem
 #PoE2

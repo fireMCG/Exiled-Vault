@@ -17,5 +17,4 @@ it was his leadership that earned Aul, the Last King, his crown.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

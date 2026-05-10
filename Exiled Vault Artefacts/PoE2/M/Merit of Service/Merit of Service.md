@@ -19,5 +19,4 @@ Lead by example, and you shall never be alone.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

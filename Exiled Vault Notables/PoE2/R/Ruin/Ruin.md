@@ -5,5 +5,5 @@ Spell Skills have 10% reduced Area of Effect
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

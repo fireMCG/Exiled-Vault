@@ -19,5 +19,4 @@ You'll still know the truth.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

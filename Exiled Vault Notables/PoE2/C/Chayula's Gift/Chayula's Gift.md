@@ -5,5 +5,5 @@ Chaos Resistance is doubled
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

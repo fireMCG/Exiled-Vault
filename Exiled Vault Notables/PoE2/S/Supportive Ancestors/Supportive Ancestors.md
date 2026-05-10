@@ -6,5 +6,5 @@ Attacks used by Totems have 3% increased Attack Speed per Summoned Totem
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

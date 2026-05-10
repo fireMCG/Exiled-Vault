@@ -7,5 +7,4 @@ embrace our flesh.
 #
 ---
 # Tags
-#QuestItem
 #PoE1

@@ -21,5 +21,4 @@ so long as you never speak my name..."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -6,5 +6,5 @@ Voltaxic Sulphite Veins and Chests in your Maps are guarded by Sulphite-hoarding
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

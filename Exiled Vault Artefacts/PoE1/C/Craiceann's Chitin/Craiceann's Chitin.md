@@ -19,5 +19,4 @@ The First of the Deep teaches us that we should seek no shelter but ourselves.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

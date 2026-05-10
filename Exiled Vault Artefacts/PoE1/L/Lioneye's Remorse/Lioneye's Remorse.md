@@ -21,5 +21,4 @@ to his arrogance... and his fate.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

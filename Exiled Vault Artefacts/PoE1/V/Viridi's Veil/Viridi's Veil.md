@@ -25,5 +25,4 @@
 #Concept/Virtue/Humility
 #Concept/Sky
 #Society/Azmeri
-#Artefact
 #PoE1

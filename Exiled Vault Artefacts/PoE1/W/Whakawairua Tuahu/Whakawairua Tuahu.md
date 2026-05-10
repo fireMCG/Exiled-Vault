@@ -15,5 +15,4 @@ We all began life in darkness, we shall all end it there.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

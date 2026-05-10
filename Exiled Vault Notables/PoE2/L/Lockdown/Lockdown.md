@@ -5,5 +5,5 @@ Enemies are Maimed for 4 seconds after becoming Unpinned
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

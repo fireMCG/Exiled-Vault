@@ -7,5 +7,5 @@ Delirious Unique Monsters in your Maps have a 1% chance to drop an additional De
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

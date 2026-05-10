@@ -18,5 +18,4 @@ still exist somewhere in the dark...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

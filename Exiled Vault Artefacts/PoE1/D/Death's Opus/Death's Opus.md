@@ -23,5 +23,4 @@ Another hears Death's final song.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

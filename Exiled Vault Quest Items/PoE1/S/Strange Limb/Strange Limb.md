@@ -7,5 +7,4 @@ take the Foulborn.
 #
 ---
 # Tags
-#QuestItem
 #PoE1

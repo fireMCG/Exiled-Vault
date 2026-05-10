@@ -16,5 +16,4 @@ So that it would not consume her world.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

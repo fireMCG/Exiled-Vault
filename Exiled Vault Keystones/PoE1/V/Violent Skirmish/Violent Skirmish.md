@@ -6,5 +6,5 @@ Breach Encounters in your Maps are 20% faster
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

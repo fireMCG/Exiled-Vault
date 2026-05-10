@@ -13,5 +13,4 @@ forever sinking under the weight of the newly dead.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

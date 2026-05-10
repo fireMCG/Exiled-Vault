@@ -7,5 +7,5 @@ Witch: Minions Revive 15% faster
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

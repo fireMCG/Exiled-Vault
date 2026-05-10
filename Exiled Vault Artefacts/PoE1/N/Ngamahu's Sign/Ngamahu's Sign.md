@@ -18,5 +18,4 @@ Given to Akoya, but inherited by Kaom with the swing of his axe.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

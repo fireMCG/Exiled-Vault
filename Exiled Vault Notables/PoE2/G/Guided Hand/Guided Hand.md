@@ -5,5 +5,5 @@ On Heavy Stunning a Rare or Unique Enemy, your next Attack within 4 seconds will
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -4,5 +4,5 @@ Every Rage also grants 2% increased Spell Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

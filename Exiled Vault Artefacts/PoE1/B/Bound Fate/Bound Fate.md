@@ -23,5 +23,4 @@ are two very different things.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

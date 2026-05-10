@@ -19,5 +19,4 @@ and choose our moments to move wisely.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

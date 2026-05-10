@@ -9,5 +9,5 @@ Defeating capturable Beasts grants a stack of Hunters' Cunning
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

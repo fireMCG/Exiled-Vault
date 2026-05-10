@@ -5,5 +5,5 @@ Minions Recoup 15% of Damage taken as Life
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

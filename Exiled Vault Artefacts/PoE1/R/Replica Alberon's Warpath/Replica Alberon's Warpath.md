@@ -19,5 +19,4 @@ However, after being fed, he began to poison everything he touched..."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -21,5 +21,4 @@ We Brinerot return ye to the sea."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

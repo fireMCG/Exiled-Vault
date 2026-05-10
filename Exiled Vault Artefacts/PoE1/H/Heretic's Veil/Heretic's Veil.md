@@ -20,5 +20,4 @@ Carry your blade into their hearts.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

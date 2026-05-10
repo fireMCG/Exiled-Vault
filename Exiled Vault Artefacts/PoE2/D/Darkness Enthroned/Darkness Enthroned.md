@@ -18,5 +18,4 @@ No conqueror, no conquered, only searing Light.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

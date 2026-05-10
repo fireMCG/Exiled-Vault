@@ -18,5 +18,4 @@
 #Category/Artefact
 #Character/Graven
 #Society/Azmeri
-#Artefact
 #PoE1

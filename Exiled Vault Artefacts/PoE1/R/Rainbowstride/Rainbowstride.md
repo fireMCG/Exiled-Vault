@@ -17,5 +17,4 @@ Some men have a longer stride than others."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -21,5 +21,4 @@ Cursed is the star whence it came.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

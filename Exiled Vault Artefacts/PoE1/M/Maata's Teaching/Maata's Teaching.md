@@ -21,5 +21,4 @@ What we give to others, we also give to ourselves.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

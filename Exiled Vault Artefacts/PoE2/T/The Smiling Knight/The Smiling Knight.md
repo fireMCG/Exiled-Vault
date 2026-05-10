@@ -17,5 +17,4 @@ their own personal mockeries, most cruel.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

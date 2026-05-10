@@ -6,5 +6,5 @@ Maps found in your Maps have 1% chance to have layers of Delirium
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -7,5 +7,5 @@ Lose all Infernal Flame on reaching maximum Infernal Flame
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

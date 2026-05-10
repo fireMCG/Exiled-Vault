@@ -17,5 +17,4 @@ across any distance of time or travel.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

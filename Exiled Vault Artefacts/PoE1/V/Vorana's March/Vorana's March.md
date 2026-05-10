@@ -23,5 +23,4 @@ called out for aid... and the Black Scythe answered.
 # Tags
 #Category/Artefact
 #Character/Vorana
-#Artefact
 #PoE1

@@ -18,5 +18,4 @@ for any fleeting pleasure which might dull the pain.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

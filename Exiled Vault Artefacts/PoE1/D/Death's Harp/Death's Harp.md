@@ -22,5 +22,4 @@ The Reaper's Song, the Harp of Death.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

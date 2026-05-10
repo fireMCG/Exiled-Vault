@@ -6,5 +6,5 @@ life remnants gain per globe [1]
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

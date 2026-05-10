@@ -26,5 +26,4 @@ the Savior will build utopia."
 #Concept/Night/Nightmare
 #Concept/Religion/Heaven
 #Concept/Hero
-#Artefact
 #PoE2

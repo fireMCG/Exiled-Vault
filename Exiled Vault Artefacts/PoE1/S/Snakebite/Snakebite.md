@@ -23,5 +23,4 @@ And the skill of compulsion."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

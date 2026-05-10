@@ -5,5 +5,5 @@ Attack Skills have +1 to maximum number of Summoned Ballista Totems
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

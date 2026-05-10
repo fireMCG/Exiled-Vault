@@ -13,5 +13,4 @@ They crashed and clamoured like waves against rocks, and were swept back out to 
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

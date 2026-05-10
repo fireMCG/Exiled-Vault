@@ -4,5 +4,5 @@ You have Arcane Surge
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

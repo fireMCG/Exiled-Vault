@@ -20,5 +20,4 @@ nothing can harm the Empire... or me."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

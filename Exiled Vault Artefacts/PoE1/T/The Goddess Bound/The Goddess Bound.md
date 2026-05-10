@@ -29,5 +29,4 @@ To the nascent scourge she sings the ruse:
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -6,5 +6,5 @@ Your Maps with Ritual Altars always have four Ritual Altars
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

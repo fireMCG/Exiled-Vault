@@ -27,5 +27,4 @@
 #Concept/Mirror
 #Location/Wraeclast
 #Society/VaalEmpire
-#Artefact
 #PoE1

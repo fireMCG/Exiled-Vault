@@ -24,5 +24,4 @@ carnage. Such is the nature of progress."
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

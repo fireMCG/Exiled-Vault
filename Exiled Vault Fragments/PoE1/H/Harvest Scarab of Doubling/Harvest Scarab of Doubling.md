@@ -18,5 +18,4 @@ Shift click to unstack.
 # Tags
 #League/Harvest
 #Category/Scarab
-#Fragment
 #PoE1

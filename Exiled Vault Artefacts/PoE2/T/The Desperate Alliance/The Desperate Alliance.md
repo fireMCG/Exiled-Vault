@@ -16,5 +16,4 @@ They did not fall on their knees and lament.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

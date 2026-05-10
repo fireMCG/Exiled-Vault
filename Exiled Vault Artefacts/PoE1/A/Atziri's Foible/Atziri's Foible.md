@@ -22,5 +22,4 @@ The divine truth, however, is that both are one and the same.
 #Character/Jaetai
 #Concept/Mirror
 #Society/VaalEmpire
-#Artefact
 #PoE1

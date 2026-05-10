@@ -17,5 +17,4 @@ in the shadow of his presence.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

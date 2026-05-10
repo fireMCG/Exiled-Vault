@@ -5,5 +5,5 @@ Enemies Frozen by you take 20% increased Cold Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

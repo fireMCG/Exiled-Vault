@@ -6,5 +6,5 @@ Splinters dropped by Legion Monsters or contained in Legion Chests in your Maps 
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

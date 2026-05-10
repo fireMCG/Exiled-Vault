@@ -9,5 +9,4 @@ I am certain he will have recorded his misdeeds.
 # Tags
 #Character/Darnaw
 #Category/QuestItem
-#QuestItem
 #PoE1

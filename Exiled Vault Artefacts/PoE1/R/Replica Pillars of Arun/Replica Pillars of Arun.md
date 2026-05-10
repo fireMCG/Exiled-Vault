@@ -24,5 +24,4 @@
 # Tags
 #Category/Artefact
 #Character/Qotra
-#Artefact
 #PoE1

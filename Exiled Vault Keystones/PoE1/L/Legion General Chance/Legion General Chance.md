@@ -7,5 +7,5 @@ Legion Encounters in your Maps are 20% more likely to include a General
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

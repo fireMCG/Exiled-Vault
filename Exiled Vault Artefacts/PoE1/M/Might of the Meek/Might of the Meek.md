@@ -13,5 +13,4 @@ Enough mice can kill a wolf.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -23,5 +23,4 @@ is through his sternum.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

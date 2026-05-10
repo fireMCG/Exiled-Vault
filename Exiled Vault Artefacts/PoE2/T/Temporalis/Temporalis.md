@@ -18,5 +18,4 @@ mastered was Time itself.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

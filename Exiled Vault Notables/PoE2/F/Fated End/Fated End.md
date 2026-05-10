@@ -6,5 +6,5 @@ Enemies you Curse cannot Recharge Energy Shield
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

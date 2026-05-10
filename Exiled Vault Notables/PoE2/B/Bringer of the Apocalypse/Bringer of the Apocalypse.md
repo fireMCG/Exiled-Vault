@@ -4,5 +4,5 @@ Grants Skill: Apocalypse
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

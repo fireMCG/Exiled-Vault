@@ -5,5 +5,5 @@ Allies in your Presence Regenerate 5 Rage per second if you have gained Rage Rec
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

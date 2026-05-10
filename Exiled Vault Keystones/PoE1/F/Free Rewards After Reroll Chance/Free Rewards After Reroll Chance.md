@@ -6,5 +6,5 @@ Favours Rerolled at Ritual Altars in your Maps have 0.5% chance to cost no Tribu
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

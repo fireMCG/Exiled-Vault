@@ -8,5 +8,4 @@ It is the warmth that draws you ever inward.
 # Tags
 #Concept/Within
 #Category/QuestItem
-#QuestItem
 #PoE1

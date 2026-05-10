@@ -11,5 +11,4 @@ Faith given under false pretenses still carries the same power.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

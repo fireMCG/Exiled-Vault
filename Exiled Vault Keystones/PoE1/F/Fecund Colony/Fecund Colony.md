@@ -7,5 +7,5 @@ Grasping Coffers in your Maps have 50% increased chance to contain Wombgifts
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

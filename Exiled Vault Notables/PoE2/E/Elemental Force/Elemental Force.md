@@ -7,5 +7,5 @@ Witch: Minions have 4% increased Attack and Cast Speed
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

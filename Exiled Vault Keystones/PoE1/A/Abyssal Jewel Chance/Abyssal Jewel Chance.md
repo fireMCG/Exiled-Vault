@@ -6,5 +6,5 @@ Abyssal Troves and Stygian Spires in your Maps have 10% increased chance to cont
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

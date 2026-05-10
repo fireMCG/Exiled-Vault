@@ -22,5 +22,4 @@ hardened, twisted.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

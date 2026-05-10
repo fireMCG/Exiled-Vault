@@ -13,5 +13,4 @@ but the shadows eventually become home.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

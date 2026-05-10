@@ -4,5 +4,5 @@ Damaging Ailments deal damage 12% faster
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

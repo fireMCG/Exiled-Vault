@@ -5,5 +5,5 @@ Can only use a Normal Body Armour
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

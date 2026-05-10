@@ -20,5 +20,4 @@ Man creates where nature cannot.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

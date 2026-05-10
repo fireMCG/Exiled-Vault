@@ -17,5 +17,4 @@ Some search forever for their path.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

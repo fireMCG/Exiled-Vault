@@ -17,5 +17,4 @@ beneath which all are buried.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

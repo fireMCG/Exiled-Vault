@@ -17,5 +17,4 @@ Nothing stabs colder than pure hatred.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

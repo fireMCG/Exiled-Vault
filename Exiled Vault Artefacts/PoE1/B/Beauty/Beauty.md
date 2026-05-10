@@ -12,5 +12,4 @@ but victorious. You have overcome.
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

@@ -8,5 +8,5 @@ an additional Upgrade Tier to the surviving Architect's Room
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

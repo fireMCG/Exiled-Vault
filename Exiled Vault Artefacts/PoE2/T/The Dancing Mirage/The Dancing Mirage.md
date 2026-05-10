@@ -17,5 +17,4 @@ Be not where death falls.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

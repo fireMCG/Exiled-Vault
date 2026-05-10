@@ -7,5 +7,5 @@ Red Beasts in your Maps have an additional Bestiary Modifier
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

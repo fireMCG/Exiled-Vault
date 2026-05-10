@@ -16,5 +16,4 @@ desperately cling to any other source of life.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

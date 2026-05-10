@@ -4,5 +4,5 @@ Enemies are Intimidated for 4 seconds when you Immobilise them
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

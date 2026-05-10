@@ -9,5 +9,4 @@ The cruelty of the Eternals...
 #Character/Asinia
 #Category/QuestItem
 #Society/EternalEmpire
-#QuestItem
 #PoE2

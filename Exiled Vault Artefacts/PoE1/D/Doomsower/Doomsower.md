@@ -23,5 +23,4 @@ Evil forged and Hope forsworn.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -6,5 +6,5 @@ Tier 1-15 Maps found have 5% chance to become 1 tier higher
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

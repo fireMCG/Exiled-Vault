@@ -279,5 +279,4 @@ Be careful where you put your finger.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

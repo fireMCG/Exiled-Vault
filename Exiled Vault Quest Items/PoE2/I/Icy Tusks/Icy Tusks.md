@@ -7,5 +7,4 @@ Frozen trophies of a predator's reign.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE2

@@ -6,5 +6,5 @@ Your Maps have +3% chance to contain a Vaal Side Area
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

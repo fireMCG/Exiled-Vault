@@ -4,5 +4,5 @@ Recover 50% of maximum Life when you Heavy Stun a Rare or Unique Enemy
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

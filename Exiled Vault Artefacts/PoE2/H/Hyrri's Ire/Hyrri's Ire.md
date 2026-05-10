@@ -20,5 +20,4 @@ only oppression can ferment.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

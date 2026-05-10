@@ -19,5 +19,4 @@ Explodes from its cage.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -5,5 +5,5 @@ Gain 6% of Elemental Damage as Extra Fire Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

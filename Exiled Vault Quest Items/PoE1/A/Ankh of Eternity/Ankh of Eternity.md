@@ -10,5 +10,4 @@ The amulet, it... whispers to me. Horrible things...
 #Concept/Resurrection
 #Concept/Whisper
 #Category/QuestItem
-#QuestItem
 #PoE1

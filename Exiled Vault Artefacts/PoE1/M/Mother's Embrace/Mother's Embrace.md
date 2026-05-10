@@ -16,5 +16,4 @@ Drink, my children, and be strengthened.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

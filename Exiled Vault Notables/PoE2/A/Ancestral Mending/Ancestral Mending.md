@@ -5,5 +5,5 @@ Totems Regenerate 3% of maximum Life per second
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

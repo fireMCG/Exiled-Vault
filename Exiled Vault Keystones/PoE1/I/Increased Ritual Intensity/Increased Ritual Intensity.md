@@ -7,5 +7,5 @@ Ritual Altars in your Maps spawn Monsters 8% faster
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

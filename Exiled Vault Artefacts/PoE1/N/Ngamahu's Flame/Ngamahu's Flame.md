@@ -22,5 +22,4 @@ I'm rather inclined to believe them."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

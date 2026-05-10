@@ -5,5 +5,5 @@ Projectiles deal 25% increased Damage with Hits against Enemies within 2m
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -19,5 +19,4 @@ His dreams were filled with divine laughter."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

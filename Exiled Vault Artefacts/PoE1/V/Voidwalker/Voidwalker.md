@@ -24,5 +24,4 @@ and experience true freedom.
 #Character/ValdoCaeserius
 #Concept/Freedom
 #Concept/Void
-#Artefact
 #PoE1

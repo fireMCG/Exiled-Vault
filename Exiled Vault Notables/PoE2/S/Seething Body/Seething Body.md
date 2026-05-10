@@ -6,5 +6,5 @@ Lose Elemental Archon on reaching maximum Infernal Flame
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -13,5 +13,4 @@ but the one it invented to pass the time."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

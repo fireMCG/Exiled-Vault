@@ -4,5 +4,5 @@ Walk the Paths Not Taken
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

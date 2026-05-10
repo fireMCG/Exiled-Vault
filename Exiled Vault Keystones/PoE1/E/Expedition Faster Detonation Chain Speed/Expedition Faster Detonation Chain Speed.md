@@ -6,5 +6,5 @@ Expedition Detonation Chains in your Maps travel 25% faster
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

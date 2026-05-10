@@ -5,5 +5,5 @@ Defend with 200% of Armour against Critical Hits
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

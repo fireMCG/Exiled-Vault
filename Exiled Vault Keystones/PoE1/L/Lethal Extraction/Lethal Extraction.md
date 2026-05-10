@@ -6,5 +6,5 @@ Executing Immortal Syndicate Members in your Maps grants intelligence to their c
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

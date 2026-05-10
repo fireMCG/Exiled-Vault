@@ -14,5 +14,4 @@ Indiscriminate destruction fueled by science gone mad.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -18,5 +18,4 @@ The rest fled like rats from a fire.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

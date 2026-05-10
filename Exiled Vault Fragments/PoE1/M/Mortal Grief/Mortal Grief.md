@@ -22,5 +22,4 @@ Shift click to unstack.
 ---
 # Tags
 #Category/Fragment
-#Fragment
 #PoE1

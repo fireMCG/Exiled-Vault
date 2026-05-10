@@ -11,5 +11,4 @@ Each life taken makes the next a little easier.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

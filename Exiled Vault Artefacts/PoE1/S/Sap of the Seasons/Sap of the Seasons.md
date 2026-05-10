@@ -18,5 +18,4 @@ waiting only for the right moment.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

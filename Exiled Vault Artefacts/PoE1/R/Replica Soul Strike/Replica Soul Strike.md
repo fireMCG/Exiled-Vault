@@ -19,5 +19,4 @@ It calls to me, bidding me abandon all other pursuits."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

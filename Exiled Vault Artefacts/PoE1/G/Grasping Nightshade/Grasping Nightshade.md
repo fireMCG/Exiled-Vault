@@ -17,5 +17,4 @@ A virulent brew of death and decay.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

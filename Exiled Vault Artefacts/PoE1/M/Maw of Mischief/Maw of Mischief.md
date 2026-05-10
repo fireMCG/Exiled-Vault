@@ -19,5 +19,4 @@ is as thin as a whisper.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

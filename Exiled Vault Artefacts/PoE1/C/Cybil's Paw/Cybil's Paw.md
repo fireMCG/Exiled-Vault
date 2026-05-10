@@ -22,5 +22,4 @@ Cut gently, lest their spirit haunt you.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

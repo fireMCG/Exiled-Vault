@@ -4,5 +4,5 @@ For each colour of Socketed Support Gem that is most numerous, gain:•Red: Hits
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

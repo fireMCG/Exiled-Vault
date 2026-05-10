@@ -17,5 +17,4 @@ The last Queen of the Karui gave up power willingly.
 #Category/Artefact
 #Concept/Queen
 #Society/Karui
-#Artefact
 #PoE1

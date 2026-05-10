@@ -8,5 +8,5 @@ the final Round to include a Boss
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

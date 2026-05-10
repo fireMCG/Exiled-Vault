@@ -11,5 +11,4 @@ A soul still clings to fading shreds of life.
 #Concept/Soul
 #Category/QuestItem
 #Society/VaalEmpire
-#QuestItem
 #PoE2

@@ -18,5 +18,4 @@ They fuel the fires within in, driving us on.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -18,5 +18,4 @@ in the field between you and the archers.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

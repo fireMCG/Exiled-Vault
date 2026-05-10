@@ -16,5 +16,4 @@ for they care not for their own survival.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

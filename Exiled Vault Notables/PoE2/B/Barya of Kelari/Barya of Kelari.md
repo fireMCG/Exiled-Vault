@@ -4,5 +4,5 @@ Grants Skill: Kelari, the Tainted Sands
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -15,5 +15,4 @@ Natural grace is born, not earned.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

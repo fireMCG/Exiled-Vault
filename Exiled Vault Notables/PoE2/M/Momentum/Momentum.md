@@ -5,5 +5,5 @@ Ignore all Movement Penalties from Armour
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

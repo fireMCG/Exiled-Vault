@@ -6,5 +6,5 @@ Abyssal Troves and Stygian Spires in your Maps have 20% chance to drop a Rare It
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

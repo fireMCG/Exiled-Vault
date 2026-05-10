@@ -22,5 +22,4 @@ Shift click to unstack.
 # Tags
 #League/Torment
 #Category/Scarab
-#Fragment
 #PoE1

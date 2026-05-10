@@ -20,5 +20,4 @@ of my fellow wayfarers. Dead men are generous men."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -17,5 +17,4 @@ The Hated Slave seeks dominion over his own kind.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

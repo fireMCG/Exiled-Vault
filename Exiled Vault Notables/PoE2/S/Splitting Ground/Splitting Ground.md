@@ -4,5 +4,5 @@ Skills which create Fissures have a 20% chance to create an additional Fissure
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

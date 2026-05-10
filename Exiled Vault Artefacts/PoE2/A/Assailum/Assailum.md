@@ -16,5 +16,4 @@ A moment of calm before the battle can end the war.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

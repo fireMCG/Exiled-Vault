@@ -18,5 +18,4 @@ A power unknown aids your own.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

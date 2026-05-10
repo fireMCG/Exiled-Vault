@@ -22,5 +22,4 @@ leaders until the others leapt to join his cause.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

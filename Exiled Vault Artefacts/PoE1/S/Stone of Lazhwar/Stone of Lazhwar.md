@@ -15,5 +15,4 @@ I am not.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

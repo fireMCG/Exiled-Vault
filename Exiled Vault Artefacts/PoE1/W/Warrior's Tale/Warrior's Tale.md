@@ -13,5 +13,4 @@ The story of a life, written in blood and ink.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

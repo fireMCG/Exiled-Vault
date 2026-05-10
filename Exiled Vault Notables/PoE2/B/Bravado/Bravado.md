@@ -5,5 +5,5 @@ Empowered Attacks have 50% increased Stun Buildup
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

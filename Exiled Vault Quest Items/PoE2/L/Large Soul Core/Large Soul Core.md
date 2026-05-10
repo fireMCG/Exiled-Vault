@@ -11,5 +11,4 @@ living warmth encased in crystal.
 #Concept/Soul
 #Category/QuestItem
 #Society/VaalEmpire
-#QuestItem
 #PoE2

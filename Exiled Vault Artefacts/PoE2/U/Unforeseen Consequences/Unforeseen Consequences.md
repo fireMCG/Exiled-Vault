@@ -16,5 +16,4 @@ The Well always had been.
 #
 ---
 # Tags
-#Artefact
 #PoE2

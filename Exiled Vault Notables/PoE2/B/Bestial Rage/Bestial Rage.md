@@ -5,5 +5,5 @@ Every 10 Rage also grants 12% increased Physical Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

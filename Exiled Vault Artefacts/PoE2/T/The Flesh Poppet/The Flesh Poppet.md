@@ -22,5 +22,4 @@ how to tap into the flow of Vivid lifeforce to
 #
 ---
 # Tags
-#Artefact
 #PoE2

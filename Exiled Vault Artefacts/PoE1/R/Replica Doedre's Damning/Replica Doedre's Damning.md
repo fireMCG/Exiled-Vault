@@ -17,5 +17,4 @@ resulted when a lead researcher used an epithet in its presence."
 # Tags
 #Category/Artefact
 #Concept/Mirror
-#Artefact
 #PoE1

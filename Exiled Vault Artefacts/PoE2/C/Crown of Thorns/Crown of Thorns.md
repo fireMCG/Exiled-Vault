@@ -15,5 +15,4 @@ The spikes point out and in, you know.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

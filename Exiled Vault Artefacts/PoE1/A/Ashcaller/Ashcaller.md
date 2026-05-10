@@ -28,5 +28,4 @@ Ngamahu lends it, and Hinekora returns it."
 #Concept/Ash
 #Concept/Element/Fire
 #Society/Karui
-#Artefact
 #PoE1

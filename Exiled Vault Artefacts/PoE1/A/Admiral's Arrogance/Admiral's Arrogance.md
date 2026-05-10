@@ -17,5 +17,4 @@ to produce Admirals with, shall we say... quick tempers.
 # Tags
 #Category/Artefact
 #Society/TemplarOrder
-#Artefact
 #PoE1

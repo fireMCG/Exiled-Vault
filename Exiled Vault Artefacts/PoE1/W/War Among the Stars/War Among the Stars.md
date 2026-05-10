@@ -13,5 +13,4 @@ For some, that is by design.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

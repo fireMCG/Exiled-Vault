@@ -16,5 +16,4 @@ Thank the Ancestors! My cup, it overflows."
 #
 ---
 # Tags
-#Artefact
 #PoE2

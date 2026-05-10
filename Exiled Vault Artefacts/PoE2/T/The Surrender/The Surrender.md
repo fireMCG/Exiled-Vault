@@ -21,5 +21,4 @@ and so we give up our flesh.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

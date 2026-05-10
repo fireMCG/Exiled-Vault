@@ -14,5 +14,4 @@ Beg for forgiveness.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -26,5 +26,4 @@ and we must know how to recognize them."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

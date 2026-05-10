@@ -4,5 +4,5 @@ Grants Skill: Navira's Fracturing
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -5,5 +5,5 @@ Warcry Skills have 25% increased Area of Effect
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

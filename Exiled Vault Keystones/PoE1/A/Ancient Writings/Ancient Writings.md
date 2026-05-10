@@ -7,5 +7,5 @@ Expeditions in your Maps have +2 Remnants
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

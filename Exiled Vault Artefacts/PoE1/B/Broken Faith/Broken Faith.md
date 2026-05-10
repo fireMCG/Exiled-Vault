@@ -20,5 +20,4 @@ Be not blinded by the light.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

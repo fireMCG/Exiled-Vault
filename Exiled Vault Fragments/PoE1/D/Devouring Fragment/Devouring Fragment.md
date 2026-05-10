@@ -20,5 +20,4 @@ Use four of these in a personal Map Device to open Portals to The Absence of Sym
 #Concept/World
 #Concept/Tangle
 #Category/Fragment
-#Fragment
 #PoE1

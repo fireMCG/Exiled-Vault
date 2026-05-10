@@ -17,5 +17,4 @@ And the fool was unwritten.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

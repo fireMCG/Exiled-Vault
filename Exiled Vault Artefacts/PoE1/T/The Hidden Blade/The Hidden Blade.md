@@ -21,5 +21,4 @@ his strikes land long after he is gone.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

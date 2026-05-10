@@ -25,5 +25,4 @@ without casting a bitter shadow."
 #Concept/Light
 #Concept/Shadow
 #Concept/Sun
-#Artefact
 #PoE1

@@ -19,5 +19,4 @@ and gave them grain and water.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

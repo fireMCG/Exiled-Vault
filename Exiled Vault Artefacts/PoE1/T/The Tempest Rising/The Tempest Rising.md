@@ -17,5 +17,4 @@ and death laid waste to all around him.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

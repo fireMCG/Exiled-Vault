@@ -10,5 +10,4 @@ whole civilisations are digested - but do not die.
 #Character/Eldritch/InfiniteHunger
 #Concept/Tangle
 #Category/QuestItem
-#QuestItem
 #PoE1

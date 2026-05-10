@@ -21,5 +21,4 @@ stop their flight and settle in Phaaryl.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

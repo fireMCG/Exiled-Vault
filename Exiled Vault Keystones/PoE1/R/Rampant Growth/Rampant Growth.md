@@ -7,5 +7,5 @@ Monster Packs Influenced by The Eater of Worlds in your Maps have 2% chance to c
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -6,5 +6,5 @@ Abyss Jewels found in Abyssal Troves or dropped by Stygian Spires in your Maps h
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -6,5 +6,5 @@ Abysses in your Maps that do not lead to an Abyssal Depths have 10% increased ch
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

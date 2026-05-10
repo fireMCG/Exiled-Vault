@@ -4,5 +4,5 @@ Break 50% of Armour on Heavy Stunning an Enemy
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

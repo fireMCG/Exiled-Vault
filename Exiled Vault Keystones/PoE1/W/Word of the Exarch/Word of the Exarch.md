@@ -7,5 +7,5 @@ Monster Packs Influenced by The Searing Exarch in your Maps have 2% chance to co
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

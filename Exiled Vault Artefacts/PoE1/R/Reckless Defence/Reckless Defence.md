@@ -15,5 +15,4 @@ quite like desperation.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

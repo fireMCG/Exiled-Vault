@@ -8,5 +8,5 @@ Legion Monsters in your Maps take 50% increased Damage while in Stasis
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -17,5 +17,4 @@ Clever artifice is not alaways complex.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

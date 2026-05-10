@@ -18,5 +18,4 @@ The villagers seared the blight with cold, but it only bloomed countless spears.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

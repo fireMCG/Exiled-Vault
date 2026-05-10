@@ -16,5 +16,4 @@ Somebody does have to get hurt.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

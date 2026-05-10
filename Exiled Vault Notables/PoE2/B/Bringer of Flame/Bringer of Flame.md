@@ -4,5 +4,5 @@ All Damage from you and Allies in your Presencecontributes to Flammability and I
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

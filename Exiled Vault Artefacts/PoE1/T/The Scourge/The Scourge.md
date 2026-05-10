@@ -22,5 +22,4 @@ comes an increasing desire for it.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -21,5 +21,4 @@ The temptation is obvious, but the results can be... unpredictable."
 # Tags
 #Category/Artefact
 #Character/Qotra
-#Artefact
 #PoE1

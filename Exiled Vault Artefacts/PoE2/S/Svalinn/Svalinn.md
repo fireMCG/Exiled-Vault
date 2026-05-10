@@ -20,5 +20,4 @@ but it was the smiths who delved into the secrets it held.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

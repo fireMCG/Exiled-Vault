@@ -22,5 +22,4 @@ Life of sorrow, lived apart.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

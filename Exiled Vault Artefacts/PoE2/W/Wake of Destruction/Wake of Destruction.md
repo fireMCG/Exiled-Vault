@@ -18,5 +18,4 @@ Flee before the walking storm.
 # Tags
 #Category/Artefact
 #Concept/Storm
-#Artefact
 #PoE2

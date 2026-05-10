@@ -22,5 +22,4 @@ Creative death in the hands of a master."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

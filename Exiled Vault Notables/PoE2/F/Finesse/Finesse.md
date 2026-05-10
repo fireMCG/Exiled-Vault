@@ -5,5 +5,5 @@ Gain Accuracy Rating equal to your Intelligence
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

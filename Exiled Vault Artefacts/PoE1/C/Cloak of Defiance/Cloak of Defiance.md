@@ -24,5 +24,4 @@ Of the Defiant Heart.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

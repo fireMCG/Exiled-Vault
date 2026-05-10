@@ -5,5 +5,5 @@ Remnants can be collected from 50% further away
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

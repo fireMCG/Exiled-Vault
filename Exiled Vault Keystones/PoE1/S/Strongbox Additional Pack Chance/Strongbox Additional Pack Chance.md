@@ -6,5 +6,5 @@ Strongboxes in your Maps have 15% chance to be guarded by an additional Pack of 
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

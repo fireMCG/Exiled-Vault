@@ -29,5 +29,4 @@ and so she fled to the woods.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

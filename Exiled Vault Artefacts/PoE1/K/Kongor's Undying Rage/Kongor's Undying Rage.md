@@ -22,5 +22,4 @@ Command like a king and nothing will stand in your way.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -15,5 +15,4 @@
 #Character/Ulaman
 #Society/Lightless
 #Category/Socketable
-#Socketable
 #PoE2

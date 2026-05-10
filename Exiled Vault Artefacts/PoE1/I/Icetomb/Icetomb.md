@@ -21,5 +21,4 @@ the world will perish in ice.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

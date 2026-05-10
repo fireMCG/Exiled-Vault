@@ -17,5 +17,4 @@ What do you see when you look inward?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

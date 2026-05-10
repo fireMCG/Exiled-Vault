@@ -20,5 +20,4 @@ Nay, villain, a man never bleeds alone."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

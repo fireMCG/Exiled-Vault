@@ -18,5 +18,4 @@ Rancid, rotten, and wicked are those that dare to taste my serum.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

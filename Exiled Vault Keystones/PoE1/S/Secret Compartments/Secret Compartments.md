@@ -6,5 +6,5 @@ Strongboxes opened in your Maps have 10% chance to be openable again
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

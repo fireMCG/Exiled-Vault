@@ -23,5 +23,4 @@ matter how slight. Even a tiny cut makes it exponentially more dangerous."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

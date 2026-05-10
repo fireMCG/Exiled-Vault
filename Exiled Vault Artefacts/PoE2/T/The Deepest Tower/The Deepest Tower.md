@@ -18,5 +18,4 @@ Death crawls in darkness, closer than we think.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

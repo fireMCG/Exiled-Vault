@@ -24,5 +24,4 @@ It knows only destruction."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

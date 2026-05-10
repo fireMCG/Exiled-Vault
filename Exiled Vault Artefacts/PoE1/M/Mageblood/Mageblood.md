@@ -17,5 +17,4 @@ Rivers of power course through your veins.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -4,5 +4,5 @@ Leeching Life from your Hits causes your Companion to also Leech the same amount
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

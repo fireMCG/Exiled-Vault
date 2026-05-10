@@ -4,5 +4,5 @@ Consuming Glory grants you 3% increased Attack damage per Glory consumed for 6 s
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

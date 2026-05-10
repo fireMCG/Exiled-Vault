@@ -19,5 +19,4 @@ biding his time, waiting for his chance...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

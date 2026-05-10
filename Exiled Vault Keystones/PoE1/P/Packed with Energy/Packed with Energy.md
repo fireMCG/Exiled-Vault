@@ -9,5 +9,5 @@ map movement velocity +% per sulphite vein mined [15]
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

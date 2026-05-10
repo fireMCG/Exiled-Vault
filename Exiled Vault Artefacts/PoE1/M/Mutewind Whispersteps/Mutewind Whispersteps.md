@@ -20,5 +20,4 @@ It is our duty to keep it so.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

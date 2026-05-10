@@ -15,5 +15,4 @@ The truly mighty are never outnumbered.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

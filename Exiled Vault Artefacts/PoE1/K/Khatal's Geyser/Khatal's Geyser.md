@@ -18,5 +18,4 @@ body to bring forth the waters of victory and salvation."
 #
 ---
 # Tags
-#Artefact
 #PoE1

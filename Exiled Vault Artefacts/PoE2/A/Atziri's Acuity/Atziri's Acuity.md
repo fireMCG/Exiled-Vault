@@ -18,5 +18,4 @@ It will tell me when it is best to strike."
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE2

@@ -5,5 +5,5 @@ Arcane Surge grants more Life Regeneration Rate instead of Mana Regeneration Rat
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

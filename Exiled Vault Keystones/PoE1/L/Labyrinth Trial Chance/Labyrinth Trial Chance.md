@@ -6,5 +6,5 @@ Your Maps have +3% chance to contain a Trial of Ascendancy
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

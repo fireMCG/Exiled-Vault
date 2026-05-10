@@ -20,5 +20,4 @@ where countless voices scream...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

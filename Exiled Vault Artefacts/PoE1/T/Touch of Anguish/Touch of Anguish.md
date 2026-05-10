@@ -25,5 +25,4 @@ a splinter of your own shattered heart.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

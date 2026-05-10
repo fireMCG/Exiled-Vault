@@ -10,5 +10,5 @@ Gain 15% of Maximum Life as Extra Maximum Energy Shield
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -5,5 +5,5 @@ Lose 3% of maximum Life and Energy Shield when you use a Chaos Skill
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

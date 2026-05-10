@@ -19,5 +19,4 @@ And tore out her heart.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

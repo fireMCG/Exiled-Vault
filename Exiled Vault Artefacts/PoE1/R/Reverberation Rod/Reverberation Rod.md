@@ -20,5 +20,4 @@ If it's worth doing once, it's worth doing twice.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

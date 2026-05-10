@@ -20,5 +20,4 @@ when borne on wings of divine providence.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

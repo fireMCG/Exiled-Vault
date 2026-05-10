@@ -4,5 +4,5 @@ Grants Skill: Meditate
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

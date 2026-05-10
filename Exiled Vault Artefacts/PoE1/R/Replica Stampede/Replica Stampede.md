@@ -19,5 +19,4 @@ test subject by timing their arrows between his explosive dashes."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

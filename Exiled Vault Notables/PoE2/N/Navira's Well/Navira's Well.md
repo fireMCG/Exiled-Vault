@@ -4,5 +4,5 @@ Grants Skill: Navira's Well
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -12,5 +12,4 @@ Thoughts that shimmer like light across the rain.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

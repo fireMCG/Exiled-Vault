@@ -23,5 +23,4 @@ Created from compromises. Vulnerable to mortal whims.
 #Concept/Life/Mortality
 #Concept/Memory
 #Concept/Sanctity
-#Artefact
 #PoE1

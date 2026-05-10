@@ -14,5 +14,4 @@ by those who already dwelt there."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

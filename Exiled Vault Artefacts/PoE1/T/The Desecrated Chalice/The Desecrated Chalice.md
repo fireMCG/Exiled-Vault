@@ -23,5 +23,4 @@ and we shall have blood instead."
 #
 ---
 # Tags
-#Artefact
 #PoE1

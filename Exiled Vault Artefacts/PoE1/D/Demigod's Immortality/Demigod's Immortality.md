@@ -14,5 +14,4 @@ drowning out the whispers of the defeated.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

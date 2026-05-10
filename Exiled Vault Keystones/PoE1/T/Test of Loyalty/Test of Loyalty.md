@@ -6,5 +6,5 @@ Immortal Syndicate Members Executed in your Maps have 100% chance to gain an add
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -16,5 +16,4 @@ Bring mystery to life. Again and again.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -20,5 +20,4 @@ It was he who showed us that our limits are self-imposed, that what we take for 
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

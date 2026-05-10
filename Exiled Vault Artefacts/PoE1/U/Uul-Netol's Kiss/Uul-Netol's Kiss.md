@@ -22,5 +22,4 @@ And beg to return to her womb.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

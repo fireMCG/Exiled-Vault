@@ -13,5 +13,4 @@ in his heart and wet the forest floor with its blood."
 #Concept/Within
 #Category/QuestItem
 #Society/Azmeri
-#QuestItem
 #PoE1

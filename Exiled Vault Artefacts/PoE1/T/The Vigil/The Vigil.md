@@ -17,5 +17,4 @@ Blind to the damnation in his hands.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

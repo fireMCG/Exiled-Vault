@@ -6,5 +6,5 @@ Tormented Spirits in your Maps have 50% increased Duration
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

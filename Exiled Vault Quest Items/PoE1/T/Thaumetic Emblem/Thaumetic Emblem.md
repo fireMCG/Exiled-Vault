@@ -8,5 +8,4 @@ A sigil of thaumaturgy graven in granite.
 # Tags
 #Concept/Thaumaturgy
 #Category/QuestItem
-#QuestItem
 #PoE1

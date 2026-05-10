@@ -7,5 +7,5 @@ Incursions in your Maps contain Cursed Treasures
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

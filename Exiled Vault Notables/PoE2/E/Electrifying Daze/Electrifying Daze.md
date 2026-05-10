@@ -5,5 +5,5 @@ Gain 12% of Physical Damage as Extra Lightning Damage against Dazed Enemies
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

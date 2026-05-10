@@ -17,5 +17,4 @@ in agony at the End of the World.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

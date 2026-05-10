@@ -14,5 +14,4 @@ fears will fall.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

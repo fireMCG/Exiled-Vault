@@ -23,5 +23,4 @@ Shaped metal never forgets the forge.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

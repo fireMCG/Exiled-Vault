@@ -15,5 +15,4 @@ the press of the boot.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

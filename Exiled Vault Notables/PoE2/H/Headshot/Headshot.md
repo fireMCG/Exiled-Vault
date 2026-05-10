@@ -6,5 +6,5 @@ Projectiles have 20% increased Critical Hit Chance against Enemies further than 
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

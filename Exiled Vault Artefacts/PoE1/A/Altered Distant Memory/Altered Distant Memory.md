@@ -24,5 +24,4 @@ We had nothing, yet to my mother's credit, I wanted for so little.
 #Concept/Family/Mother
 #Concept/Season/Winter
 #Society/TemplarOrder
-#Artefact
 #PoE1

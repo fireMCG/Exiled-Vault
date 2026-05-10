@@ -17,5 +17,4 @@ that pushed a monster to power.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

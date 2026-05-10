@@ -4,5 +4,5 @@ Gain Elemental Archon when your Energy Shield Recharge begins
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

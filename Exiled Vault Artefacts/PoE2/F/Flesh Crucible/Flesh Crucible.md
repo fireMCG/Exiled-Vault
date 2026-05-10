@@ -14,5 +14,4 @@ lung. You never know what Vaal technology will cost you..."
 #
 ---
 # Tags
-#Artefact
 #PoE2

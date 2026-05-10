@@ -7,5 +7,5 @@ Strongboxes in your Maps have 30% increased chance to be an Arcanist's Strongbox
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

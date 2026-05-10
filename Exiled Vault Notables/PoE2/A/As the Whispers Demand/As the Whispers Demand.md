@@ -5,5 +5,5 @@ Ritual Sacrifice can be used on yourself to remove 20% of maximum Life and grant
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

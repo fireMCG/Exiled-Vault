@@ -12,5 +12,4 @@ The Emperor honours Marceus Lioneye as Supreme Servant.
 #Concept/Sacrifice
 #Category/QuestItem
 #Society/EternalEmpire
-#QuestItem
 #PoE1

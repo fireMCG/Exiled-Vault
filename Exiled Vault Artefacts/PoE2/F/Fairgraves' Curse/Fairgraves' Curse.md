@@ -24,5 +24,4 @@ souls just as easily as flesh.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

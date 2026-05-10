@@ -20,5 +20,4 @@ The art of surgery advances one mistake at a time.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

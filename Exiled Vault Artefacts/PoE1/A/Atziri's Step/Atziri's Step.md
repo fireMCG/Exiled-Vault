@@ -21,5 +21,4 @@ by those who cannot hear the music."
 #Concept/Dance
 #Concept/Music
 #Society/VaalEmpire
-#Artefact
 #PoE1

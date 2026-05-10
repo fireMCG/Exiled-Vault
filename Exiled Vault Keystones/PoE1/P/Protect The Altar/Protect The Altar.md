@@ -8,5 +8,5 @@ Ultimatum Altars in your Maps have 50% increased Life
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

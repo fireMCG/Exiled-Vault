@@ -4,5 +4,5 @@ Remove Ignite when you Warcry
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

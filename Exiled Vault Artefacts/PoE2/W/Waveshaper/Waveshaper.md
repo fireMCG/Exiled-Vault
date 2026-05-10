@@ -25,5 +25,4 @@ They'll never see the axe coming."
 #Category/Artefact
 #Character/Rakiata
 #Society/Karui/Tribe/Tasalio
-#Artefact
 #PoE2

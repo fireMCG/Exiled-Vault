@@ -24,5 +24,4 @@ Give him your body, and your burdens will follow.
 #Character/God/Apep
 #Concept/Body/Flesh
 #Society/VaalEmpire
-#Artefact
 #PoE1

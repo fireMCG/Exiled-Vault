@@ -18,5 +18,4 @@ Trifle not with the trinket mage.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -7,5 +7,5 @@ Tormented Spirits in your Maps are more likely to be less common varieties
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -19,5 +19,4 @@ Don't hesitate; bring death to all, conclusively and swiftly, or they will give 
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

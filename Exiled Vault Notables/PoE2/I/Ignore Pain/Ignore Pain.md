@@ -5,5 +5,5 @@ Every Rage also grants 2% increased Stun Threshold
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -7,5 +7,5 @@ Witch: 18% increased Skill Effect Duration
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

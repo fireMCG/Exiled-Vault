@@ -21,5 +21,4 @@ can deny that my work has made quite the splash..."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -23,5 +23,4 @@ What underlying physics are at play here, I wonder?"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

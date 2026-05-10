@@ -17,5 +17,4 @@ The seed of life, saved and savoured.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -7,5 +7,5 @@ map chance to spawn t17 pack % [100]
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

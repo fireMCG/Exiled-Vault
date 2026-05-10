@@ -5,5 +5,5 @@ Evasion Rating from Equipped Body Armour is halved
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

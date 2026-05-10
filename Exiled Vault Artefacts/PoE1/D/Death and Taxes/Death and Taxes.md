@@ -18,5 +18,4 @@ towards certain death.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

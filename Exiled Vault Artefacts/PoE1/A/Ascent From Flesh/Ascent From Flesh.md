@@ -22,5 +22,4 @@ Reborn into freedom eternal
 #Concept/Time/Cycle
 #Concept/Time/Eternity
 #Concept/Prison
-#Artefact
 #PoE1

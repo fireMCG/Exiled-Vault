@@ -24,5 +24,4 @@ Be still.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

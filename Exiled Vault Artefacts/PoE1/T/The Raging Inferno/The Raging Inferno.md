@@ -22,5 +22,4 @@ Don't fall in...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

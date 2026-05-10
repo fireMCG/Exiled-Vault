@@ -5,5 +5,5 @@ Enemies Frozen by you have -8% to Cold Resistance
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

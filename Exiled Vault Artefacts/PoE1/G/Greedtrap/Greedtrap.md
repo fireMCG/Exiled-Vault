@@ -17,5 +17,4 @@ A single taste leaves you wanting more.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -7,5 +7,5 @@ Huntress: 25% increased Stun Threshold while on Full Life
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

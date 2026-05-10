@@ -18,5 +18,4 @@ An Ezomyte endures.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

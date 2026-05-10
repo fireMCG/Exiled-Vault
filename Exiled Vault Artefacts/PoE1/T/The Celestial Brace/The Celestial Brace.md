@@ -20,5 +20,4 @@ Forged from the heart of the densest star, your courage will fail long before it
 #Concept/Body/Heart
 #Concept/Space/Star
 #Concept/Cleansing
-#Artefact
 #PoE1

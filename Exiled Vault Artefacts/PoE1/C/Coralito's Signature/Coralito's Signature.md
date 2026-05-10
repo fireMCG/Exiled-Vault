@@ -20,5 +20,4 @@ such great work must go uncredited."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

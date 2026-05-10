@@ -20,5 +20,4 @@ You feel a strange sense of déjà vu when you gaze upon its hideous visage...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

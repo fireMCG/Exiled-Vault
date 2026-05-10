@@ -5,5 +5,5 @@ Unaffected by Chill while Leeching Mana
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -17,5 +17,4 @@ and so the advancing Eternals were unwittingly drawn into a deathtrap.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

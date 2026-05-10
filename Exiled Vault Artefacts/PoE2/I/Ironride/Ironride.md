@@ -17,5 +17,4 @@ Let the rider's aim be true.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

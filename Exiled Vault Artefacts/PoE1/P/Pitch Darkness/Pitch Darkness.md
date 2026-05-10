@@ -15,5 +15,4 @@ From Kaom's skulking horde.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

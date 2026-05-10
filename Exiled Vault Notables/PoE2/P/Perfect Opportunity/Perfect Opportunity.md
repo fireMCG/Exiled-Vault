@@ -5,5 +5,5 @@ Damage with Hits is Lucky against Heavy Stunned Enemies
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

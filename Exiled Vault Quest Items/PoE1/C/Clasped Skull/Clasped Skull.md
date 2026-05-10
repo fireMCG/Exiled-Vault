@@ -7,5 +7,4 @@ lashing our minds into agonised ecstasy.
 #
 ---
 # Tags
-#QuestItem
 #PoE1

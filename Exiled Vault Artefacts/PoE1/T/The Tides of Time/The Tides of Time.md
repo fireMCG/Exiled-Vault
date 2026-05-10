@@ -21,5 +21,4 @@ tangible to those who watch and wait.
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius
 #Concept/Time
-#Artefact
 #PoE1

@@ -23,5 +23,4 @@ With the blood of the weak
 #Concept/Blood
 #Concept/Nature
 #Concept/Power
-#Artefact
 #PoE1

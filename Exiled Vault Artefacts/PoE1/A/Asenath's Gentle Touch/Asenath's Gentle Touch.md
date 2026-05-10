@@ -21,5 +21,4 @@ Cool the head and cool the blade.
 #Category/Artefact
 #Character/Sekhema/Asenath
 #Society/Maraketh
-#Artefact
 #PoE1

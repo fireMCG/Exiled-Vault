@@ -18,5 +18,4 @@ that he wanted to hold his family close...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

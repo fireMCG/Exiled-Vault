@@ -29,5 +29,4 @@ with a thick, black scab.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

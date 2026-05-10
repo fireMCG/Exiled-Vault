@@ -4,5 +4,5 @@ Inevitable Critical Hits
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

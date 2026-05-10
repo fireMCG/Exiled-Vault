@@ -22,5 +22,4 @@ and the crunch of the dead hitting the dust.
 #Category/Artefact
 #Character/Sekhema/Asenath
 #Society/Maraketh
-#Artefact
 #PoE1

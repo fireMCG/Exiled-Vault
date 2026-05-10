@@ -16,5 +16,4 @@ He who stands on the loftiest peak is bound to be seen...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -21,5 +21,4 @@ They're actually for brewing poisons."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

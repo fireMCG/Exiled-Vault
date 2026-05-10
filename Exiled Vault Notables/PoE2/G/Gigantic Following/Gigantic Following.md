@@ -5,5 +5,5 @@ Your Minions are Gigantic
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

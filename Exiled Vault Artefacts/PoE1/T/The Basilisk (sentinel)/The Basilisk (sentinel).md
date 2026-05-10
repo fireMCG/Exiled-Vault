@@ -18,5 +18,4 @@ which the horrors of Wraeclast have never adapted.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

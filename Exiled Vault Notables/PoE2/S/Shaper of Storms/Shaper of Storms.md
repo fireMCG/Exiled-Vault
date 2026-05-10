@@ -4,5 +4,5 @@ All Damage from Hits Contributes to Shock Chance
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

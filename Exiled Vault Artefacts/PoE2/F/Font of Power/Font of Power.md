@@ -19,5 +19,4 @@ for they have a much higher purpose.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

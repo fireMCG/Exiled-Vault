@@ -5,5 +5,5 @@ Allies in your Presence deal 40% increased Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

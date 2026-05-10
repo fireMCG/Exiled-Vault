@@ -7,5 +7,5 @@ Rerolling Favours at Ritual Altars in your Maps costs 3% reduced Tribute
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

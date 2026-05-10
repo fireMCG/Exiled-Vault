@@ -17,5 +17,4 @@ Their only trace is timeless pain.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

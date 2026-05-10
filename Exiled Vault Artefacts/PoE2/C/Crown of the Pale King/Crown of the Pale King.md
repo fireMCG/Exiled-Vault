@@ -20,5 +20,4 @@ feed on your pain.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

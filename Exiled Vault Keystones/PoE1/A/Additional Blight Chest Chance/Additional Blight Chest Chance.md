@@ -6,5 +6,5 @@ Lanes of Blight Encounters in your Maps have 10% chance for an additional Reward
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -5,5 +5,5 @@ Minions have 10% reduced Life Recovery rate
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

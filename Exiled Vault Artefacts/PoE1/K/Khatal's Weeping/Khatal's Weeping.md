@@ -18,5 +18,4 @@ made him drink the enemy's blood. He melted from the inside out."
 #
 ---
 # Tags
-#Artefact
 #PoE1

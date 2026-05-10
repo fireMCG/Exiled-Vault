@@ -17,5 +17,4 @@ and killed several guards, but their fury only lasted a short time."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

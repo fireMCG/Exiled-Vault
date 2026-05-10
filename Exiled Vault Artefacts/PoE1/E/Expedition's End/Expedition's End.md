@@ -18,5 +18,4 @@ He may have returned from the frozen southern reaches, but that doesn't mean he 
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -17,5 +17,4 @@ But our minds are still hungry."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

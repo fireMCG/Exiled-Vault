@@ -4,5 +4,5 @@ Immune to Poison
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

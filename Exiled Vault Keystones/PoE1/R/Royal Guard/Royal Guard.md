@@ -7,5 +7,5 @@ Map Bosses have 20% chance to be accompanied by two Rogue Exile Bodyguards
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

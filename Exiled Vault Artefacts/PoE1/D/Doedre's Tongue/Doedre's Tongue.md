@@ -15,5 +15,4 @@ In the new void, a malevolent power emerged.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -6,5 +6,5 @@ Abysses in your Maps that do not lead to an Abyssal Depths lead to 4 Pits if abl
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

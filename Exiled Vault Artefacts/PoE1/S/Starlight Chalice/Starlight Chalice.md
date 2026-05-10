@@ -20,5 +20,4 @@ to empower runes... and themselves.
 # Tags
 #Category/Artefact
 #Character/Uhtred
-#Artefact
 #PoE1

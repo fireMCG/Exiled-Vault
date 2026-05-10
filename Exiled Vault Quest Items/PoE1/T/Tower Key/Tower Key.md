@@ -8,5 +8,4 @@ Man must choose whether to open it.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

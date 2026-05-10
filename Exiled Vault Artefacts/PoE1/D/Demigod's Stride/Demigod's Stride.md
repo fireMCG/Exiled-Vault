@@ -13,5 +13,4 @@ Victory is on the march and nothing can stop it.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

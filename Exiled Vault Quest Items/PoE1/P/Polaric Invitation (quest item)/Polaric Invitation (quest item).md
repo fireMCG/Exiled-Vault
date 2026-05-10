@@ -10,5 +10,4 @@ there can be no escape.
 #Character/Eldritch/BlackStar
 #Concept/Cleansing
 #Category/QuestItem
-#QuestItem
 #PoE1

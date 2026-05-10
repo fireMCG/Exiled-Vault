@@ -22,5 +22,4 @@ while the ignorant fight to win.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -27,5 +27,4 @@ what we give it. What we sacrifice for each other."
 #
 ---
 # Tags
-#Artefact
 #PoE1

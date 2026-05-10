@@ -6,5 +6,5 @@ Your Maps contain an additional Imprisoned Monster
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

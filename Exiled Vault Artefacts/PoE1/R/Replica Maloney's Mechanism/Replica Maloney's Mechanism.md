@@ -20,5 +20,4 @@ but when we failed to make any progress on resurrection, he continued his search
 #Category/Artefact
 #Character/RikerMaloney
 #Concept/Rebirth
-#Artefact
 #PoE1

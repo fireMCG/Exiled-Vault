@@ -5,5 +5,5 @@ Allies in your Presence have +100 to Accuracy Rating
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

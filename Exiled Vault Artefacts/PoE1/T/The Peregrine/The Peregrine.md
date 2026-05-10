@@ -19,5 +19,4 @@ We travel to fulfill.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

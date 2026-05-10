@@ -7,5 +7,5 @@ have 10% reduced duration
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

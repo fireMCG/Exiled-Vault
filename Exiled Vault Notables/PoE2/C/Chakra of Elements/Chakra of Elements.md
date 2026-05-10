@@ -5,5 +5,5 @@ Gain 8% of Physical Damage as Extra Lightning Damage against Chilled Enemies
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

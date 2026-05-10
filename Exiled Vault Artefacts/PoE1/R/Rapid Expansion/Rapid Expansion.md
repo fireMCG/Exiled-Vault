@@ -20,5 +20,4 @@ that a Perandus won't pay.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

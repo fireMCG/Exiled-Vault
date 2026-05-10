@@ -15,5 +15,4 @@ their heavy shields... and paid dearly for their mistake.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

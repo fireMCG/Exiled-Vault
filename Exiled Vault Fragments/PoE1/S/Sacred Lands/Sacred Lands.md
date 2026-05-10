@@ -8,5 +8,4 @@ Scarabs dropped in your Maps have 30% increased chance to be Ritual Scarabs
 #
 ---
 # Tags
-#Fragment
 #PoE1

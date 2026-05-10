@@ -5,5 +5,5 @@ Gain 8% of Damage as Extra Fire Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

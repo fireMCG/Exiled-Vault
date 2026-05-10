@@ -13,5 +13,4 @@ protected from those who could save them."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

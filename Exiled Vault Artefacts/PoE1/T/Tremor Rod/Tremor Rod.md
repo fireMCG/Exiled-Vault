@@ -23,5 +23,4 @@ and execute them - twice.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

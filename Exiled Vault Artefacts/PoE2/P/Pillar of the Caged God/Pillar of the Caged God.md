@@ -22,5 +22,4 @@ Deft as the needle doubt
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

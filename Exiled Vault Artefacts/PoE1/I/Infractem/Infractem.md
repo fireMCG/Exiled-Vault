@@ -23,5 +23,4 @@ Execute us steadily, notch away at our despair.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

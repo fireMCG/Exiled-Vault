@@ -4,5 +4,5 @@ Grants Unravelling
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -19,5 +19,4 @@ the first researcher to don it burst into flames when he walked into sunlight...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

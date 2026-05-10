@@ -4,5 +4,5 @@ Non-Unique Time-Lost Jewels have 40% increased radius
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -7,5 +7,5 @@ Syndicate Members Obtain an additional Equipment Item when appearing in your Map
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

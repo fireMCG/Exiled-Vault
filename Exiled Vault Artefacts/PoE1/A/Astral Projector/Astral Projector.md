@@ -18,5 +18,4 @@ The body stands, but the spirit soars.
 #Category/Artefact
 #Concept/Body/Flesh
 #Concept/Spirit
-#Artefact
 #PoE1

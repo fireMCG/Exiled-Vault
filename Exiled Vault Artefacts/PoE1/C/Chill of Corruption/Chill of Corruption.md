@@ -15,5 +15,4 @@ casts a shroud over Wraeclast.
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

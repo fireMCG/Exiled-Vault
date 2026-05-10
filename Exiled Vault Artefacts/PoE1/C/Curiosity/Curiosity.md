@@ -11,5 +11,4 @@ nourishing only the worms.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

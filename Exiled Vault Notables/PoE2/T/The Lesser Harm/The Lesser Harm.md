@@ -5,5 +5,5 @@ Damage of Enemies Hitting you is Unlucky
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

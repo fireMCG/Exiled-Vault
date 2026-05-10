@@ -24,5 +24,4 @@ does not like to share its master's attention
 #Category/Artefact
 #Concept/Master
 #Concept/Spirit
-#Artefact
 #PoE1

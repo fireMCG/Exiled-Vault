@@ -21,5 +21,4 @@ Secrecy and silence are powers all their own.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

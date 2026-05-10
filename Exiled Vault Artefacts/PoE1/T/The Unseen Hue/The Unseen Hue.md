@@ -19,5 +19,4 @@ Driving you on long past agony and despair
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

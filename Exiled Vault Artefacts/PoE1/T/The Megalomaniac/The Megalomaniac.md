@@ -21,5 +21,4 @@ The battlefields have been left barren.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

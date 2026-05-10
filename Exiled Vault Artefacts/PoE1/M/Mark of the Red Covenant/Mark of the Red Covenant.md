@@ -18,5 +18,4 @@ who bask in the blood of many.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

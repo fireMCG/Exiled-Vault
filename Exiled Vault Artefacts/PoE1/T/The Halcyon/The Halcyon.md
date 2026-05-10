@@ -17,5 +17,4 @@ To join the great avalanche.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

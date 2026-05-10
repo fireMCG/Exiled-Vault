@@ -21,5 +21,4 @@ but we must crawl on our own.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

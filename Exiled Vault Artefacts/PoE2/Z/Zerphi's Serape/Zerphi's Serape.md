@@ -23,5 +23,4 @@ The cure is simple.
 #Concept/Curse
 #Concept/Life/Mortality
 #Society/VaalEmpire
-#Artefact
 #PoE2

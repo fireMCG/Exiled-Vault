@@ -23,5 +23,4 @@ Eager for vengeance against all who walk free.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -6,5 +6,5 @@ Beyond Demons in your Maps have 20% increased chance to be followers of Beidat
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

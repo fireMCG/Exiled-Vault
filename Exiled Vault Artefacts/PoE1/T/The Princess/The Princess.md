@@ -23,5 +23,4 @@ want to be with her long after you're dead."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

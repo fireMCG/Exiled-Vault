@@ -22,5 +22,4 @@ Agony slowly dominates the will to live.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

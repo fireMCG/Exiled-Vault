@@ -5,5 +5,5 @@ Gain 20 Life per enemy killed
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

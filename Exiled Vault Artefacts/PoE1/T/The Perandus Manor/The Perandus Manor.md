@@ -19,5 +19,4 @@ He who holds the coin holds all the power.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -17,5 +17,4 @@ There is no wall thicker or stronger than fear.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

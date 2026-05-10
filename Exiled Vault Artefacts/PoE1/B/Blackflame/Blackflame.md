@@ -22,5 +22,4 @@ by whose light night is borne.
 #Concept/Element/Fire
 #Concept/Light
 #Concept/Night
-#Artefact
 #PoE1

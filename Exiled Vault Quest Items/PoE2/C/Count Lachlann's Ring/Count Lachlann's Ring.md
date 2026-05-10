@@ -13,5 +13,4 @@ cycle after a Count's soul is laid to rest.
 #Concept/Soul
 #Category/QuestItem
 #Society/Ezomyte
-#QuestItem
 #PoE2

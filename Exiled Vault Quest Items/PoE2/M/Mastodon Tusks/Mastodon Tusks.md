@@ -9,5 +9,4 @@ Age-old ivory from a forgotten era.
 #Category/QuestItem
 #Society/Maraketh
 #Society/SunClan
-#QuestItem
 #PoE2

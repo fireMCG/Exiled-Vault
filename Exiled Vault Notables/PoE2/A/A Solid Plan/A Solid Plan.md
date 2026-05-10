@@ -4,5 +4,5 @@ Persistent Buffs have 50% less Reservation
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

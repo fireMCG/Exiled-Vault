@@ -16,5 +16,4 @@ Sinuous, entwined... inextricable.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

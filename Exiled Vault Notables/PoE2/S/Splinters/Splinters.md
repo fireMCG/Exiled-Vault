@@ -5,5 +5,5 @@ Hits Break 50% increased Armour on targets with Ailments
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

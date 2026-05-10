@@ -6,5 +6,4 @@ Item Level:
 #
 ---
 # Tags
-#Fragment
 #PoE2

@@ -22,5 +22,4 @@ True heroes grow stronger in the face of adversity."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

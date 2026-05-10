@@ -20,5 +20,4 @@ In return, they give only suffering.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

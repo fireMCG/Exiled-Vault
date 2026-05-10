@@ -6,5 +6,5 @@ Abyssal Troves and Stygian Spires in your Maps have 10% chance to drop an Abyss 
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

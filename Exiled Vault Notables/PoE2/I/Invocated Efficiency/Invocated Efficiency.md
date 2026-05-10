@@ -5,5 +5,5 @@ Triggered Spells deal 40% increased Spell Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -20,5 +20,4 @@ and watches from beneath the city.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

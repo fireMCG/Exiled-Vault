@@ -6,5 +6,5 @@ Legion Encounters in your Maps have 20% increased Duration
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

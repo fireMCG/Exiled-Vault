@@ -8,5 +8,4 @@ They have other ways of keeping the dead.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

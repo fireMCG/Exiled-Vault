@@ -22,5 +22,4 @@ there was not one Time, but many...
 #
 ---
 # Tags
-#Artefact
 #PoE1

@@ -4,5 +4,5 @@ Grants Skill: Kelari's Malediction
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

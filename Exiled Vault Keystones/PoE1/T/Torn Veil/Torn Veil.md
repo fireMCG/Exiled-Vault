@@ -7,5 +7,5 @@ Beyond Portals in your Maps have 30% increased chance to spawn a Unique Boss
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

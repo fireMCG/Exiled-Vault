@@ -17,5 +17,4 @@ pushing their luck right to the end.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

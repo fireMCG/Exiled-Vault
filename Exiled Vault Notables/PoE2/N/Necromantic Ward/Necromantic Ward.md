@@ -7,5 +7,5 @@ can see monster categories [1]
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

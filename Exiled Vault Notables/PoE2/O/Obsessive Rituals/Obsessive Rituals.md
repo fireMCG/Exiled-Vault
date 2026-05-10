@@ -5,5 +5,5 @@ Grants Skill: Sorcery Ward
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

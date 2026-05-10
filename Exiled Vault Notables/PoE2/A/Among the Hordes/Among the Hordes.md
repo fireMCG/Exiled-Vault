@@ -6,5 +6,5 @@ Minions have 10% increased Movement Speed
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

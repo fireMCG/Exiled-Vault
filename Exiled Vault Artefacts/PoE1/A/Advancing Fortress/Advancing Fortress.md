@@ -31,5 +31,4 @@ In heart, in mind, in hand."
 #Concept/Body/Heart
 #Concept/Mind
 #Society/Maraketh
-#Artefact
 #PoE1

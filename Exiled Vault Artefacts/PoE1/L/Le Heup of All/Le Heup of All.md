@@ -18,5 +18,4 @@ Of the many mortal threads
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

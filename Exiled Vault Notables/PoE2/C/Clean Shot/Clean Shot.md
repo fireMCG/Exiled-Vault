@@ -7,5 +7,5 @@ Huntress: 30% increased Projectile Damage if you've dealt a Melee Hit in the pas
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -19,5 +19,4 @@ in a life so fleeting.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

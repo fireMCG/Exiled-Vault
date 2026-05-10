@@ -4,5 +4,5 @@ Warcries Empower an additional Attack
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

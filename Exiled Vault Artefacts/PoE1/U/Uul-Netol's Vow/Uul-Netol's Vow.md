@@ -18,5 +18,4 @@ We dream as one.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -5,5 +5,5 @@ Damage Penetrates 15% Lightning Resistance
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

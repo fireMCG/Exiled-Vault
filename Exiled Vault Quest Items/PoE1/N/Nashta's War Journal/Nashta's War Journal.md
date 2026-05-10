@@ -10,5 +10,4 @@ ill afford an internal war. We must prove that Nashta is behind these attacks.
 #Character/Nashta
 #Category/QuestItem
 #Society/Maraketh
-#QuestItem
 #PoE1

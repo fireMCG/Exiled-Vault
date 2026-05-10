@@ -6,5 +6,5 @@ Defeating a Map Boss while Witnessed by The Maven has 10% chance to count as als
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

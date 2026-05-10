@@ -15,5 +15,4 @@ If they had ever completed the tower network, it could have changed the face of 
 #Category/Artefact
 #Concept/Religion/Heaven
 #Society/Precursor
-#Artefact
 #PoE2

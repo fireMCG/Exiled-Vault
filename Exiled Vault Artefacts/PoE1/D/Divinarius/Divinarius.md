@@ -23,5 +23,4 @@ when you do it yourself.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

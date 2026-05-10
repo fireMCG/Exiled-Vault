@@ -7,5 +7,5 @@ Ichor Pumps in your Maps have 100% increased Durability
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

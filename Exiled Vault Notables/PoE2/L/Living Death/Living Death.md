@@ -5,5 +5,5 @@ Minions have +3% to all Maximum Elemental Resistances
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -26,5 +26,4 @@ To crush the very light of day.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

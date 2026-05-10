@@ -5,5 +5,5 @@ Channelling Skills deal 25% increased Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

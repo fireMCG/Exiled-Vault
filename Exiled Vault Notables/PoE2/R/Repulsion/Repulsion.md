@@ -5,5 +5,5 @@ Area Skills have 20% chance to Knock Enemies Back on Hit
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

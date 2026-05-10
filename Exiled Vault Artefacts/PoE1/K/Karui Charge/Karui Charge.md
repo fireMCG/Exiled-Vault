@@ -17,5 +17,4 @@ For dead men require no answer.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

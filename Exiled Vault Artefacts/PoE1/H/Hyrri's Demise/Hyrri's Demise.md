@@ -19,5 +19,4 @@ but it came at the cost of respect.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

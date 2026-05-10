@@ -18,5 +18,4 @@ system in the hallway functioned as expected."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

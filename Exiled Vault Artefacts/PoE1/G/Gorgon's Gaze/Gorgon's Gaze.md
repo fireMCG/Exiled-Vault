@@ -19,5 +19,4 @@ and broke when they hit the ground.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

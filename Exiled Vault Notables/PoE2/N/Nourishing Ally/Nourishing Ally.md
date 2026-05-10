@@ -5,5 +5,5 @@ Companions have 20% increased maximum Life
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

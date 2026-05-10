@@ -4,5 +4,5 @@ Companions in your Presence have Onslaught while you are Shapeshifted
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

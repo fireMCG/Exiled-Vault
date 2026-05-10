@@ -5,5 +5,5 @@ Gain an Endurance Charge when you Heavy Stun a Rare or Unique Enemy
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

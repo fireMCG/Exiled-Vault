@@ -18,5 +18,4 @@ and he has not stopped screaming for months..."
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

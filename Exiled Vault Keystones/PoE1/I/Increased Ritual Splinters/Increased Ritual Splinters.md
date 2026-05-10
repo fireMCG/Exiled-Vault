@@ -6,5 +6,5 @@ Ritual Splinters offered at Ritual Altars in your Maps have 10% increased Stack 
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

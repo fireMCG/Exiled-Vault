@@ -13,5 +13,4 @@ poison the blood of all Karui."
 #Concept/Body/Eye
 #Category/QuestItem
 #Society/Karui
-#QuestItem
 #PoE1

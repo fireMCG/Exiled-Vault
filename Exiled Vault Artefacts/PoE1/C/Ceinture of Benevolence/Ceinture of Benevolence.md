@@ -17,5 +17,4 @@ Our god demands it."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

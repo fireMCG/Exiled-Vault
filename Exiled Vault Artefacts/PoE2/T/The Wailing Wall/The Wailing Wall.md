@@ -18,5 +18,4 @@ Some stories are never told.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -23,5 +23,4 @@ at body and mind.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

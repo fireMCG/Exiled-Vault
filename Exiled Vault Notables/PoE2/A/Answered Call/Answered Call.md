@@ -6,5 +6,5 @@ Trigger Ancestral Spirits when you Summon a Totem
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

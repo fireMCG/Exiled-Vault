@@ -17,5 +17,4 @@ The High Priests ensured the loyalty of their slaves by habituating them to narc
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

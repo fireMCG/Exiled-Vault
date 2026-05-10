@@ -23,5 +23,4 @@ Fuel my boiling blood
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

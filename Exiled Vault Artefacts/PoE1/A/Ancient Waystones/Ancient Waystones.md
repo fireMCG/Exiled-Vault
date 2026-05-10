@@ -17,5 +17,4 @@ We ignored every single one."
 #Category/Artefact
 #Character/Siosa
 #Society/VaalEmpire
-#Artefact
 #PoE1

@@ -4,5 +4,5 @@ Skills have 10% chance to not remove Elemental Infusions but still count as cons
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

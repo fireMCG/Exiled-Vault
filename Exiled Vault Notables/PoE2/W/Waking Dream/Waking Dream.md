@@ -4,5 +4,5 @@ Grants Skill: Into the Breach
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

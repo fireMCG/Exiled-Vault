@@ -20,5 +20,4 @@ Doryani's ingenuity raised the Vaal Empire to unprecedented heights. His curiosi
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

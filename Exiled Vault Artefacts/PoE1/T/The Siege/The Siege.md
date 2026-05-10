@@ -13,5 +13,4 @@ And stood her ground.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

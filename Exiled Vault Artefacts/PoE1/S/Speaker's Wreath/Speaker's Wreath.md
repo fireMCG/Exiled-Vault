@@ -19,5 +19,4 @@ can take you to the edge of the world.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

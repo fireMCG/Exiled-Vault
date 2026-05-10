@@ -20,5 +20,4 @@ that the elite were all to happy to sustain.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

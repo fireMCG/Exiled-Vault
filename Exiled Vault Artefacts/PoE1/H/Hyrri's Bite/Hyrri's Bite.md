@@ -20,5 +20,4 @@ Hyrri changed all of that.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

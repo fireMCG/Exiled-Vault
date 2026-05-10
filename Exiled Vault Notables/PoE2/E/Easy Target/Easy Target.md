@@ -4,5 +4,5 @@ Your Hits cannot be Evaded by Heavy Stunned Enemies
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

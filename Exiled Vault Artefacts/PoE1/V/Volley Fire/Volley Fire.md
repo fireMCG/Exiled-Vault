@@ -18,5 +18,4 @@ would litter the sands.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

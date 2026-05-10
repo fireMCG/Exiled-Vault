@@ -6,5 +6,5 @@ Immortal Syndicate Members in your Maps have 5% increased chance to be accompani
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -5,5 +5,5 @@ Melee Attack Skills have +1 to maximum number of Summoned Totems
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

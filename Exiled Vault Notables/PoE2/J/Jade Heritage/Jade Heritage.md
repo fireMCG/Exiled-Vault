@@ -7,5 +7,5 @@ max jade stacks [10]
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

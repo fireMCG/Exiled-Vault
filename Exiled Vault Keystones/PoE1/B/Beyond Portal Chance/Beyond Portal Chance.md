@@ -6,5 +6,5 @@ Slaying Enemies in your Maps has a 15% increased chance to spawn a Beyond Portal
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

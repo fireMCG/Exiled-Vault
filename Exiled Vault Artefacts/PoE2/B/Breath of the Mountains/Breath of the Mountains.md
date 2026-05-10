@@ -20,5 +20,4 @@ is to know true freedom."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

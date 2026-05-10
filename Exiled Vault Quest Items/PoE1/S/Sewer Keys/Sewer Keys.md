@@ -8,5 +8,4 @@ privy to its best-kept secrets.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

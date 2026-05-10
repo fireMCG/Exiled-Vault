@@ -19,5 +19,4 @@ God weeps.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

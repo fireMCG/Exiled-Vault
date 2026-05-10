@@ -30,5 +30,4 @@ And fled."
 #Concept/Water/Rain
 #League/Domination
 #League/Nemesis
-#Artefact
 #PoE1

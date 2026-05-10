@@ -21,5 +21,4 @@ Unleashing a litany of pain upon the world.
 #Concept/Demon
 #Concept/Life/Mortality
 #Concept/Portal
-#Artefact
 #PoE1

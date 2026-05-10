@@ -17,5 +17,4 @@ Become one with the unstoppable flame.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

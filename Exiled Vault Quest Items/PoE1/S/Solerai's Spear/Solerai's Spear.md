@@ -15,5 +15,4 @@ They wielded the essence of gold and silver. The Spear is one of the two weapons
 #Category/QuestItem
 #Society/Maraketh
 #Attributes/Timeline
-#QuestItem
 #PoE1

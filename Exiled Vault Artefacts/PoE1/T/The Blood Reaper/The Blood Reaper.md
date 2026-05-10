@@ -23,5 +23,4 @@ Both life and land feel the thirst.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

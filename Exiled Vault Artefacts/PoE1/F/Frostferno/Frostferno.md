@@ -19,5 +19,4 @@ You will be transformed.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

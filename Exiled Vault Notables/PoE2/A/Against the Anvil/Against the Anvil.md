@@ -4,5 +4,5 @@ Grants Skill: Temper Weapon
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

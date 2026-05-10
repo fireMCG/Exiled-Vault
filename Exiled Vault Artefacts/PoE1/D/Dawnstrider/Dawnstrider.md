@@ -24,5 +24,4 @@ consuming the knowledge of fallen civilisations.
 #Concept/Space/Star
 #Concept/Void
 #Concept/Cleansing
-#Artefact
 #PoE1

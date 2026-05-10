@@ -23,5 +23,4 @@ channel the desperate will to live. Intriguing."
 # Tags
 #Category/Artefact
 #Character/Olesya
-#Artefact
 #PoE1

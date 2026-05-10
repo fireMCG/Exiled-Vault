@@ -23,5 +23,4 @@ grab truth by the throat and shape it as you wish.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

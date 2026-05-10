@@ -6,5 +6,5 @@ Delirium Fog in your Maps lasts 3 additional seconds before dissipating
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

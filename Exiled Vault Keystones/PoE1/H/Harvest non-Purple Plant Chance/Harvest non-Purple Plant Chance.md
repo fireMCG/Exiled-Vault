@@ -6,5 +6,5 @@ Harvest Crops in your Maps have 10% reduced chance to grow Purple Plants
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

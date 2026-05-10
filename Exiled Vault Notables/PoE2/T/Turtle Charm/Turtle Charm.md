@@ -5,5 +5,5 @@ Maximum Block chance is 75%
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

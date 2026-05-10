@@ -4,5 +4,5 @@ Quarterstaff Skills that consume Power Charges count as consuming an additional 
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

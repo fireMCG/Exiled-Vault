@@ -4,5 +4,5 @@ Leech recovers based on Chaos Damage as well as Physical Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

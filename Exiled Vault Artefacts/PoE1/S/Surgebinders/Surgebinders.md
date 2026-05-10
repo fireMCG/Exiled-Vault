@@ -20,5 +20,4 @@ The fire rises!
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

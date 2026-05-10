@@ -15,5 +15,4 @@ And changed...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

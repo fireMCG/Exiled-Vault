@@ -17,5 +17,4 @@ With the blood of the weak
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

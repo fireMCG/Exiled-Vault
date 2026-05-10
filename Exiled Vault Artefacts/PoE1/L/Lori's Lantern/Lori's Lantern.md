@@ -19,5 +19,4 @@ and proof against hate.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

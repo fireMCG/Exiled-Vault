@@ -6,5 +6,5 @@ Unique Monsters in your Maps have 200% increased chance to drop Scarabs
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

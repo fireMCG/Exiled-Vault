@@ -24,5 +24,4 @@ Bow before her... or suffer the most gruelling death imaginable.
 #Character/Atziri
 #Concept/Death
 #Society/VaalEmpire
-#Artefact
 #PoE1

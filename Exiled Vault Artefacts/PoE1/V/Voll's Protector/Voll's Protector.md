@@ -18,5 +18,4 @@ Voll proved disastrous in times of peace.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

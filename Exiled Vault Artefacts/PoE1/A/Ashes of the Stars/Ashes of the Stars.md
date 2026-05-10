@@ -21,5 +21,4 @@ of countless disintegrated worlds.
 #Concept/Space/Star
 #Concept/Virtue/Wisdom
 #Concept/Tangle
-#Artefact
 #PoE1

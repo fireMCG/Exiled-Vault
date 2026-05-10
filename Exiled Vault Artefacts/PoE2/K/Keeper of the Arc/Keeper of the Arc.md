@@ -19,5 +19,4 @@ and calculation, not unprovable promises.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

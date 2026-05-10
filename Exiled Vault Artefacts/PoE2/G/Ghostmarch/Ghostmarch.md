@@ -18,5 +18,4 @@ On their hopeless, last endeavour.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -6,5 +6,5 @@ Combo count loss occurs 20% slower
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -13,5 +13,4 @@ and never will the light blind you.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

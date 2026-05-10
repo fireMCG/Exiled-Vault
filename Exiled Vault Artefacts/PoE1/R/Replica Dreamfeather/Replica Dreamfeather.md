@@ -25,5 +25,4 @@ to fight his way out. I don't know what we expected."
 # Tags
 #Category/Artefact
 #Character/Graven
-#Artefact
 #PoE1

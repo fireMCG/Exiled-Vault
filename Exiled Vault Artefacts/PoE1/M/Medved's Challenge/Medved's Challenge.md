@@ -19,5 +19,4 @@ None could match his might.
 # Tags
 #Category/Artefact
 #Character/Medved
-#Artefact
 #PoE1

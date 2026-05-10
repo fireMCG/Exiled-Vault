@@ -5,5 +5,5 @@ Targets Cursed by you have at least 15% of Life Reserved
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

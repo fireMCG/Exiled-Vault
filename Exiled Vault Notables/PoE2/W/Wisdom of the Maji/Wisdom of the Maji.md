@@ -4,5 +4,5 @@ Gain the benefits of Bonded modifiers on Runes and Idols
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -9,5 +9,5 @@ Huntress: +10 to Dexterity
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

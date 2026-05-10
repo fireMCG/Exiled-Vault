@@ -16,5 +16,4 @@ we pray for death.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

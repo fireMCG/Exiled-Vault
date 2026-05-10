@@ -17,5 +17,4 @@ But this pilgrimage to the peak was to be his last.
 # Tags
 #Category/Artefact
 #Attributes/Timeline
-#Artefact
 #PoE1

@@ -18,5 +18,4 @@ In all things, control.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

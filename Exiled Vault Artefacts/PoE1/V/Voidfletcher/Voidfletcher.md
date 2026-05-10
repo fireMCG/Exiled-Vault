@@ -24,5 +24,4 @@ Even emptiness may be harnessed.
 #Character/ValdoCaeserius
 #Concept/Void
 #Concept/Decay
-#Artefact
 #PoE1

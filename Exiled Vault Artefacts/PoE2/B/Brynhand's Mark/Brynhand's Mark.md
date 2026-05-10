@@ -18,5 +18,4 @@ The mark of the smith was widely known.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

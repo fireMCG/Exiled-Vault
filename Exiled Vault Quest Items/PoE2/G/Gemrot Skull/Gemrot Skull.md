@@ -10,5 +10,4 @@ The skull of a stolen child, carefully cultivated by the Bog Witch...
 #Concept/Crystal
 #Category/QuestItem
 #Society/Azak
-#QuestItem
 #PoE2

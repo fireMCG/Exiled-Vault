@@ -6,5 +6,5 @@ Spells Gain 5% of Damage as extra Chaos Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

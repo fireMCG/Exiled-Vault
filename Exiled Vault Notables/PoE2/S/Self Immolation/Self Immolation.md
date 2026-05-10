@@ -5,5 +5,5 @@ Ignites you cause are reflected back to you
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

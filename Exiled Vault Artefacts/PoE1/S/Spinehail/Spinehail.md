@@ -18,5 +18,4 @@ The loyal must be no more than fodder against the unwilling.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

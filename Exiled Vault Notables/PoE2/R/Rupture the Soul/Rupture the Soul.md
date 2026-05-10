@@ -4,5 +4,5 @@ Cursed Enemies killed by you, or by Allies in your Presence, have a 33% chance t
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

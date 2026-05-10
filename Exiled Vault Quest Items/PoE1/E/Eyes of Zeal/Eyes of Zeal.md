@@ -14,5 +14,4 @@ its gates barred against the unfaithful.
 #Concept/Sky
 #Category/QuestItem
 #Attributes/Timeline
-#QuestItem
 #PoE1

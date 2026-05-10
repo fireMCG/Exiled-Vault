@@ -4,5 +4,5 @@ Overgrown Plant Skills Break 50% increased Armour
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

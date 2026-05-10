@@ -22,5 +22,4 @@ and named it Lorrata. Its strongest root became a weapon...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

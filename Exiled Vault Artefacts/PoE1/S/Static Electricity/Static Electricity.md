@@ -15,5 +15,4 @@ can be recaptured and... reappropriated."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

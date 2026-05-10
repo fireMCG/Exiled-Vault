@@ -21,5 +21,4 @@ was not so delicate."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

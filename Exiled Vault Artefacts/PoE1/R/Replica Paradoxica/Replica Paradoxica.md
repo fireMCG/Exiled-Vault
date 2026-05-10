@@ -24,5 +24,4 @@
 # Tags
 #Category/Artefact
 #Character/Graven
-#Artefact
 #PoE1

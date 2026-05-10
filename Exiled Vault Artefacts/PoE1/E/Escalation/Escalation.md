@@ -18,5 +18,4 @@ A life without risk is no life at all.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

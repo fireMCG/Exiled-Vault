@@ -9,5 +9,4 @@ To the unknowing, it is nothing. To Yama, it is everything.
 #Character/Yama
 #Category/QuestItem
 #Society/Karui
-#QuestItem
 #PoE2

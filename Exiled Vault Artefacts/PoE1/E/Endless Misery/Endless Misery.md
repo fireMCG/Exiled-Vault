@@ -17,5 +17,4 @@ What little still stood soon faced wild, battering storms. Winter arrived sudden
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

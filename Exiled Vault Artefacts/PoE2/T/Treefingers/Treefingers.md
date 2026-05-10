@@ -18,5 +18,4 @@ are not flesh and blood.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

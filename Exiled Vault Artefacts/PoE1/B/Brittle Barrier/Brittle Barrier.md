@@ -13,5 +13,4 @@ Walls built in a hurry fall in a hurry.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

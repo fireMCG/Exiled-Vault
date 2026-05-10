@@ -16,5 +16,4 @@ then a hundred is a threat."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

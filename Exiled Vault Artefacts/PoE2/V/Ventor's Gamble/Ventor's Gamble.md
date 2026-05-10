@@ -24,5 +24,4 @@ And Ventor met his latest trophy.
 #Concept/Beast
 #Concept/Luck
 #Concept/Religion/Divinity
-#Artefact
 #PoE2

@@ -22,5 +22,4 @@ his embers may yet light our way."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

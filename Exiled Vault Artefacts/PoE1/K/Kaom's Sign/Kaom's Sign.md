@@ -15,5 +15,4 @@ to lead his Karui to Wraeclast.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

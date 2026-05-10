@@ -10,5 +10,5 @@ Connects to Eldritch Gateway
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

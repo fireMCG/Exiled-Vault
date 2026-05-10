@@ -9,5 +9,5 @@ require killing 20% reduced number of Enemies
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

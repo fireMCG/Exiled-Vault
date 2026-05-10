@@ -11,5 +11,5 @@ Gain no inherent bonuses from Attributes
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

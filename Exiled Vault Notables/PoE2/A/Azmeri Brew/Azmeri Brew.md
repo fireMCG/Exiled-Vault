@@ -4,5 +4,5 @@ Life Flasks also recover ManaMana Flasks also recover Life
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -14,5 +14,4 @@ And each sound tangled with pleas for mercy."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

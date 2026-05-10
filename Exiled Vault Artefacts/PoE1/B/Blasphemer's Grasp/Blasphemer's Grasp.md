@@ -23,5 +23,4 @@ many sought power in the unnatural.
 #Character/Eldritch/Elder
 #Concept/Nature
 #Concept/Decay
-#Artefact
 #PoE1

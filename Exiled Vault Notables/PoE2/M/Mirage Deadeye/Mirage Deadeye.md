@@ -4,5 +4,5 @@ Grants Skill: Mirage Deadeye
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

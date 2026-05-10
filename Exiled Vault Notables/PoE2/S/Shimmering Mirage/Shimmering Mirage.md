@@ -5,5 +5,5 @@ Gain additional Ailment Threshold equal to 30% of maximum Energy Shield
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

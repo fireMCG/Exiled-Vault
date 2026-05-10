@@ -5,5 +5,5 @@ Remove a Curse when you use a Mana Flask
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

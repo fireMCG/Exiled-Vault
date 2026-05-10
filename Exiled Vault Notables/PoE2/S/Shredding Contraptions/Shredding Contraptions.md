@@ -5,5 +5,5 @@ Enemies affected by your Hazards Recently have 25% reduced Evasion Rating
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

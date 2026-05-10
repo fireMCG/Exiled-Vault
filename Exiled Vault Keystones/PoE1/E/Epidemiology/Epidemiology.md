@@ -7,5 +7,5 @@ Blight chests in your Maps have a 20% chance to be openable again
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -23,5 +23,4 @@ Either we're keeping faulty logs, or..."
 #Category/Artefact
 #Character/Graven
 #Concept/Nature/Harvest
-#Artefact
 #PoE1

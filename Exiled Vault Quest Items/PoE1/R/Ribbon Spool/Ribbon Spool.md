@@ -10,5 +10,4 @@ Minions make the master.
 #Concept/Master
 #Concept/Minion
 #Category/QuestItem
-#QuestItem
 #PoE1

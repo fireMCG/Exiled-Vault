@@ -7,5 +7,5 @@ Imprisoned Monsters in your Maps have at least 1 Essence at the highest possible
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

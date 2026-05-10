@@ -27,5 +27,4 @@ What once burned now chills the soul."
 # Tags
 #Category/Artefact
 #Character/Arn
-#Artefact
 #PoE1

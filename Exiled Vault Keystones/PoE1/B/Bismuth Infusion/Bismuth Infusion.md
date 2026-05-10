@@ -8,5 +8,5 @@ add an additional Modifier to Monsters they affect
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

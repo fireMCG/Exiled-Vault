@@ -7,5 +7,5 @@ Druid: 8% increased Skill Speed while Shapeshifted
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

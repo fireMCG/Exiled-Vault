@@ -6,5 +6,5 @@ Splinters dropped by Legion Monsters in your Maps have 10% chance to be Duplicat
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -17,5 +17,4 @@ an unknown spell did destroy the entire firing chamber."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

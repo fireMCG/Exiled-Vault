@@ -16,5 +16,4 @@ Moonlight is wisdom. Moonlight is life."
 #Concept/Path
 #Concept/Virtue/Wisdom
 #Category/QuestItem
-#QuestItem
 #PoE1

@@ -17,5 +17,4 @@ Shift click to unstack.
 #League/Betrayal
 #Category/Scarab
 #Society/ImmortalSyndicate
-#Fragment
 #PoE1

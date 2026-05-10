@@ -20,5 +20,4 @@ She stands grim, wreathed in flame, awaiting the crusader's call.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

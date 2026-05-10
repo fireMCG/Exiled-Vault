@@ -20,5 +20,4 @@ The rest will come naturally.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

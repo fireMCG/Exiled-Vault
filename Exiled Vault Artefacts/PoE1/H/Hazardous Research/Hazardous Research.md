@@ -15,5 +15,4 @@ The simple passage of energy from one to another could result in profound power,
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

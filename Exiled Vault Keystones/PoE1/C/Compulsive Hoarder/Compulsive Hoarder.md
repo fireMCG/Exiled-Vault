@@ -6,5 +6,5 @@ Delirium Encounters in your Maps have 8% chance to generate three additional Rew
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

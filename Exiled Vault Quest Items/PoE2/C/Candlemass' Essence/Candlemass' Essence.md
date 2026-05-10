@@ -10,5 +10,4 @@ A sense of gratefulness and peace radiates with warmth.
 #Concept/Essence
 #Category/QuestItem
 #Society/Ezomyte
-#QuestItem
 #PoE2

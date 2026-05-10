@@ -22,5 +22,4 @@ Prototype #4 achieved identical results through brute force alone."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

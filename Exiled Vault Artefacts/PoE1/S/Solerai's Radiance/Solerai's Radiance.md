@@ -16,5 +16,4 @@ dead turned to flee. We drove them beneath for all time."
 #
 ---
 # Tags
-#Artefact
 #PoE1

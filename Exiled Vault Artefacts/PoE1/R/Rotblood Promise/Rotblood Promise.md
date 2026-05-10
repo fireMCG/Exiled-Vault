@@ -18,5 +18,4 @@ Then carry it far and wide.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

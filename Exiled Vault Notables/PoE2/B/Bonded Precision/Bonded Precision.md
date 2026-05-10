@@ -5,5 +5,5 @@ Allies in your Presence have 25% increased Critical Hit Chance
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

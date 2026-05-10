@@ -22,5 +22,4 @@ They know your mind, because they remember
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

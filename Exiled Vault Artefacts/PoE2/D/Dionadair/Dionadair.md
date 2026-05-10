@@ -20,5 +20,4 @@ the Ezomytes was to catch them unaware.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -24,5 +24,4 @@ to garnish the perfect confession."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

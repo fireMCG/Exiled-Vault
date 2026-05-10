@@ -14,5 +14,4 @@ but on the vilification and hatred of another.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

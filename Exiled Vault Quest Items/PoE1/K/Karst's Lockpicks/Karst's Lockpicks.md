@@ -9,5 +9,4 @@ Could break into any house as quick and silent as a Cardinal's fart.
 # Tags
 #Character/Karst
 #Category/QuestItem
-#QuestItem
 #PoE1

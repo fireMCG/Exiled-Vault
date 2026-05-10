@@ -21,5 +21,4 @@ on the flesh of one another.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

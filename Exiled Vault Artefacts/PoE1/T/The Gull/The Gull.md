@@ -25,5 +25,4 @@ The Gull gives us our Way."
 #Category/Artefact
 #League/Domination
 #League/Nemesis
-#Artefact
 #PoE1

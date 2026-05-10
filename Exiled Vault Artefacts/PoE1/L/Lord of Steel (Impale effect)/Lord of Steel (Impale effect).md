@@ -18,5 +18,4 @@ She knows the path well.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

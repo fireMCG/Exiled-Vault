@@ -18,5 +18,4 @@ there was a price to pay...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

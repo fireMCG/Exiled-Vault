@@ -6,5 +6,5 @@ Rogue Exiles in your Maps have 5% chance to drop an additional Currency Item
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

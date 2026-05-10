@@ -6,5 +6,5 @@ Scarabs dropped in your Maps have 100% increased chance to be Divination Scarabs
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

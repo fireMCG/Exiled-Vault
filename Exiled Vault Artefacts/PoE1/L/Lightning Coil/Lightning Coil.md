@@ -20,5 +20,4 @@ to galvanize one's purpose in life."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

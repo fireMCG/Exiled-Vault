@@ -18,5 +18,4 @@ Do not let them step on your feet. Keep them at bay.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

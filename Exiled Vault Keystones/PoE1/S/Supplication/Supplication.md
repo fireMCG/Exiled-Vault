@@ -6,5 +6,5 @@ Your Maps contain an additional Shrine
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

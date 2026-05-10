@@ -7,5 +7,5 @@ focus decay delay ms [5000]
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

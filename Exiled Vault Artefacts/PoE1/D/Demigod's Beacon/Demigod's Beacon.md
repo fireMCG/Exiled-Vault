@@ -16,5 +16,4 @@ The light of victory burns eternally.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

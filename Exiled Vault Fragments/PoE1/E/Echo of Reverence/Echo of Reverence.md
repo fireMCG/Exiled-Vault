@@ -13,5 +13,4 @@ Open portals to the Moment of Reverence to face the Incarnation of Dread by usin
 ---
 # Tags
 #Category/Fragment
-#Fragment
 #PoE1

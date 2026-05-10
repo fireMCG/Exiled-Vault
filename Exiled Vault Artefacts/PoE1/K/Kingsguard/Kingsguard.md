@@ -18,5 +18,4 @@ The toughest armour is the trust of your people.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -21,5 +21,4 @@ and even their children will feel what we do to them today."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

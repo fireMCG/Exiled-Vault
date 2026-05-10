@@ -18,5 +18,4 @@ life found a way. The Spirit always provides."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

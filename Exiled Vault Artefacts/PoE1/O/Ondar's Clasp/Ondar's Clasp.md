@@ -17,5 +17,4 @@ A single knife stroke fells an empire.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

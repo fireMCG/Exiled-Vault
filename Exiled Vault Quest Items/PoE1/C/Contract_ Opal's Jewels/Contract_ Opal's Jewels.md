@@ -8,5 +8,4 @@ Worth every little bit.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

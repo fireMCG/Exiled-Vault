@@ -15,5 +15,4 @@
 #Character/Amanamu
 #Society/Lightless
 #Category/Socketable
-#Socketable
 #PoE2

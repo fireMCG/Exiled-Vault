@@ -4,5 +4,5 @@ Consume all Rage when Shapeshifting to Human form to recover 1% of maximum life 
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

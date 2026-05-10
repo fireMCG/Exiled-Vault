@@ -23,5 +23,4 @@ present into past, life into death."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

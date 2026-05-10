@@ -7,5 +7,5 @@ base max adaptations [3]
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

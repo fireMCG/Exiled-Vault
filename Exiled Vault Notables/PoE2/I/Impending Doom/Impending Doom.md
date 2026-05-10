@@ -5,5 +5,5 @@ Your Curses have 20% increased Magnitudes if 50% of Curse Duration expired
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

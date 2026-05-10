@@ -7,5 +7,4 @@ the time of the gods, it lies heavy in your hand.
 #
 ---
 # Tags
-#QuestItem
 #PoE2

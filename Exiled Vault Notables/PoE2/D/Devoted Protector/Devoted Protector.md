@@ -11,5 +11,5 @@ Druid: +5 to Strength and Intelligence
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

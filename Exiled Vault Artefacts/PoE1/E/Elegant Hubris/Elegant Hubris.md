@@ -15,5 +15,4 @@ They believed themselves better than the past, but that confidence brought about
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

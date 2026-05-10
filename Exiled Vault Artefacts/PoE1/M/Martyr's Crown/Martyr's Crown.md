@@ -17,5 +17,4 @@ Make more room for the soul to grow.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

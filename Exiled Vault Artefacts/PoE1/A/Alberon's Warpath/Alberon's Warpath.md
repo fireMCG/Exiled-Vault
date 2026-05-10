@@ -22,5 +22,4 @@ and they welcomed him.
 #Category/Artefact
 #Character/Alberon
 #Concept/Curse
-#Artefact
 #PoE1

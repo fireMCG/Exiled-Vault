@@ -18,5 +18,4 @@ what is left to fear?
 # Tags
 #Category/Artefact
 #Concept/Emotion/Fear
-#Artefact
 #PoE1

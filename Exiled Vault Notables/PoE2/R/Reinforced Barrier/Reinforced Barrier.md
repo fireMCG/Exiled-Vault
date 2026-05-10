@@ -5,5 +5,5 @@ Defend with 120% of Armour while not on Low Energy Shield
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

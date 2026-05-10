@@ -20,5 +20,4 @@
 #Concept/Body/Eye
 #Concept/Number/Three
 #Society/Lightless
-#Artefact
 #PoE1

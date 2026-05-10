@@ -21,5 +21,4 @@ An eye for an eye. A curse for a curse.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

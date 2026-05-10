@@ -7,5 +7,5 @@ Huntress: 30% increased Evasion Rating while Parrying
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

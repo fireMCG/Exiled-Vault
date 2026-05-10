@@ -5,5 +5,5 @@ gain random charge every X ms from total socketed gem attribute requirements [50
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -6,5 +6,5 @@ Legion Encounters in your Maps have 75% increased chance to include a Vaal army
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

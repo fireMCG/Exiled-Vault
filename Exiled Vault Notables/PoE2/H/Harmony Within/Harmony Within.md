@@ -6,5 +6,5 @@ Hit damage is taken from Mana before Life if your current Mana is higher than yo
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

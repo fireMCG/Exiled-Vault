@@ -16,5 +16,4 @@ Gentle anger, raging calm.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

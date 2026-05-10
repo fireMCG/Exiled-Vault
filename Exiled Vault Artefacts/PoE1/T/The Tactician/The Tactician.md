@@ -17,5 +17,4 @@ Few men command an army better than the Great Meginord of the North
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

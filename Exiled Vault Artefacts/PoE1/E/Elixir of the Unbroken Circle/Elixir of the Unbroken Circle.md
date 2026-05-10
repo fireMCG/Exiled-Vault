@@ -20,5 +20,4 @@ Then, they begin again.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

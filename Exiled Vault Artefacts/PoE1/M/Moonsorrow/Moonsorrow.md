@@ -24,5 +24,4 @@ The lonely moon weeps
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

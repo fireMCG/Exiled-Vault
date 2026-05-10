@@ -14,5 +14,4 @@ is all you need to win.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

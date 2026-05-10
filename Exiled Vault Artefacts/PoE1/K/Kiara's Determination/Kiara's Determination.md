@@ -18,5 +18,4 @@ of liquid courage.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

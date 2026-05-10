@@ -6,5 +6,5 @@ Your Maps contain an additional Strongbox
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

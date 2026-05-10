@@ -10,5 +10,5 @@ Completing a Map Objective within a Shaped Region instead collapses a different 
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

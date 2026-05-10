@@ -20,5 +20,4 @@ All was woe that seem'd but gladness.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

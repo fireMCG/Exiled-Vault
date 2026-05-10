@@ -17,5 +17,4 @@ the rest only servitude.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -16,5 +16,4 @@ seeds of unquestioning faith. He claimed only his god could protect them." - Lyc
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

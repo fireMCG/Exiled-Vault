@@ -4,5 +4,5 @@ Minions deal 30% increased Damage if you've Hit Recently
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

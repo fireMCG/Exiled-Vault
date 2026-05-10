@@ -25,5 +25,4 @@ symbol of power, not out of love, but out of fear.
 #Concept/Power
 #Concept/Season/Winter
 #Concept/Cleansing
-#Artefact
 #PoE1

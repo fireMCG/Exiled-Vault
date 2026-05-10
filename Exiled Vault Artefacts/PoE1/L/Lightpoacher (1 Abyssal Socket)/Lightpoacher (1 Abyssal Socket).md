@@ -19,5 +19,4 @@ Don't waste it.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

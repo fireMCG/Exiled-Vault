@@ -19,5 +19,4 @@ What has no siblings but is always a twin?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

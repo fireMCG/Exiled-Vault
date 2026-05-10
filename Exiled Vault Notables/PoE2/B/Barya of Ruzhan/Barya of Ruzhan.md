@@ -5,5 +5,5 @@ ascendancy enable fire djinn passive [1]
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

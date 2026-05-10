@@ -19,5 +19,4 @@ To do otherwise is to arm your foes.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

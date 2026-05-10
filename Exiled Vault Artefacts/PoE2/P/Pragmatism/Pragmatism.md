@@ -18,5 +18,4 @@ one must be ever vigilant.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

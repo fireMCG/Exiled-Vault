@@ -14,5 +14,4 @@ Open a portal to the Sacred Grove by using this item in a personal Map Device. C
 ---
 # Tags
 #Category/Fragment
-#Fragment
 #PoE1

@@ -20,5 +20,4 @@ the Clayshaper sought safety in the clouds of ash above.
 #Concept/Sky
 #Society/Primeval
 #Attributes/Timeline
-#Artefact
 #PoE1

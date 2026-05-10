@@ -27,5 +27,4 @@
 #Concept/Mirror
 #Concept/Sin/Vanity
 #Society/VaalEmpire
-#Artefact
 #PoE1

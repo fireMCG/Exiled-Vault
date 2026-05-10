@@ -16,5 +16,4 @@ The Brinerot sail without fear of storms.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

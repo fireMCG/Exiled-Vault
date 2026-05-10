@@ -18,5 +18,4 @@ Take theirs out.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

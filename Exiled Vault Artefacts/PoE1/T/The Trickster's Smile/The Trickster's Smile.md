@@ -18,5 +18,4 @@ He merely grinned... and the foolish warrior charged.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -21,5 +21,4 @@ Fire and Anarchy are the most reliable agents of change.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

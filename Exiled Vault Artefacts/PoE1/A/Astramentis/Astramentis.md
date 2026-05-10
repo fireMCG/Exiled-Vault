@@ -23,5 +23,4 @@ And into darkness send it.
 #Concept/Emotion/Rage
 #Concept/World
 #Concept/Trickery
-#Artefact
 #PoE1

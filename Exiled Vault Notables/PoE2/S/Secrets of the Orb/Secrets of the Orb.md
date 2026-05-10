@@ -4,5 +4,5 @@ Orb Skills have +1 to Limit
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

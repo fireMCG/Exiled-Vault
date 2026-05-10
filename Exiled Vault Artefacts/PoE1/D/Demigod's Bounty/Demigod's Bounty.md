@@ -13,5 +13,4 @@ wrap around the throats of the defeated.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

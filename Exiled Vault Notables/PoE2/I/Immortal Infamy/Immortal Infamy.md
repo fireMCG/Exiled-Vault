@@ -6,5 +6,5 @@ Recover 2% of maximum Life on Kill
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

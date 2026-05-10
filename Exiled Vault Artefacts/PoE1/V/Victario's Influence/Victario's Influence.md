@@ -22,5 +22,4 @@ you'd better know who's writing it for you!"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

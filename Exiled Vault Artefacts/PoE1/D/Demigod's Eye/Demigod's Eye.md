@@ -15,5 +15,4 @@ unwavering, unblinking, unstoppable.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

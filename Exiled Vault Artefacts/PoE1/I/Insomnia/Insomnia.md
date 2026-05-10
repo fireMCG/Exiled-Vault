@@ -21,5 +21,4 @@ If you fall asleep in the Atlas, he'll be waiting...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

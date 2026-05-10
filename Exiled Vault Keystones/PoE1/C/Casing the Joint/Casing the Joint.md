@@ -7,5 +7,5 @@ Blueprints that drop in your Maps have 10% chance to be fully Revealed
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -17,5 +17,4 @@ Where top is bottom and weak is strong.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -6,5 +6,5 @@ Deferring Favours at Ritual Altars in your Maps costs 5% reduced Tribute
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

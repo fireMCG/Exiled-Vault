@@ -20,5 +20,4 @@ Open your mind and you will see the cracks in your enemy's plans.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

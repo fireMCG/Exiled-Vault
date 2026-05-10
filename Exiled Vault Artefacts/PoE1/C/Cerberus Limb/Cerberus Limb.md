@@ -22,5 +22,4 @@ The greatest of guardians make the greatest of sacrifices.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

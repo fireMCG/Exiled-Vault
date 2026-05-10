@@ -24,5 +24,4 @@ A great eye gazed upon us, and we became known - utterly."
 #Concept/Body/Flesh
 #Concept/Nature/Mountain
 #Concept/Cleansing
-#Artefact
 #PoE1

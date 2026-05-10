@@ -19,5 +19,4 @@ Gain power you could not have grasped.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

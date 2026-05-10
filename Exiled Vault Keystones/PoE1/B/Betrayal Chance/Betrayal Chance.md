@@ -7,5 +7,5 @@ Scarabs dropped in your Maps have 8% increased chance to be Betrayal Scarabs
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

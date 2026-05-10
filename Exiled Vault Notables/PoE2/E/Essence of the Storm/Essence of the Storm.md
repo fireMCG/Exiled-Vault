@@ -5,5 +5,5 @@ Gain 5% of Damage as Extra Lightning Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

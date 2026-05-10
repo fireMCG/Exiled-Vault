@@ -18,5 +18,4 @@ Into the hearts of Man
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

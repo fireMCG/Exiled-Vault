@@ -4,5 +4,5 @@ Grants Skill: Temporal Rift
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

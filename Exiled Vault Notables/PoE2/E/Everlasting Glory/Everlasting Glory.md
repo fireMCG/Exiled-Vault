@@ -4,5 +4,5 @@ Skills have a 15% chance to not consume Glory
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

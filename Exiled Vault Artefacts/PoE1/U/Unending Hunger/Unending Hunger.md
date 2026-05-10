@@ -17,5 +17,4 @@ Their hearts will never be content.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

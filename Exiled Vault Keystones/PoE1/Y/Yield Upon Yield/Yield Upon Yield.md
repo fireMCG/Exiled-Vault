@@ -7,5 +7,5 @@ to contain at least two Ore Deposits
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

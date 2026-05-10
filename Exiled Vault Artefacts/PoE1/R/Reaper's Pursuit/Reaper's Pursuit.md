@@ -22,5 +22,4 @@ Death collects you in the end.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

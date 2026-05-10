@@ -6,5 +6,5 @@ Delirium Monsters in your Maps have 10% increased chance to drop Cluster Jewels
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

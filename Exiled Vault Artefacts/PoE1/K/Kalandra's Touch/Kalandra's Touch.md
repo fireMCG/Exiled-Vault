@@ -12,5 +12,4 @@ On the other, you have its twin.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

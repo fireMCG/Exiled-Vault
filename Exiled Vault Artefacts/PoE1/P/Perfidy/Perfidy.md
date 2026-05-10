@@ -16,5 +16,4 @@ What hope have you?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

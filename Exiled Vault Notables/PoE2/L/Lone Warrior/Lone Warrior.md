@@ -5,5 +5,5 @@ Your Aura Buffs do not affect Allies
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

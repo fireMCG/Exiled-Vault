@@ -18,5 +18,4 @@ making every smile half-hearted.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

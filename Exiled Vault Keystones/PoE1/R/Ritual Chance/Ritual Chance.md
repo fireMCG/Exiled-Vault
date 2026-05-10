@@ -7,5 +7,5 @@ Scarabs dropped in your Maps have 10% increased chance to be Ritual Scarabs
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

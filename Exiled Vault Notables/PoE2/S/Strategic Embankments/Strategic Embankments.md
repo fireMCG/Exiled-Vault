@@ -4,5 +4,5 @@ Totems you place grant Embankment Auras
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -18,5 +18,4 @@ brought it to [RESTRICTED]. It makes no sense!"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

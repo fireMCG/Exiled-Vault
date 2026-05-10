@@ -8,5 +8,4 @@ A passionate fire that consumes the heart.
 # Tags
 #Concept/Body/Heart
 #Category/QuestItem
-#QuestItem
 #PoE1

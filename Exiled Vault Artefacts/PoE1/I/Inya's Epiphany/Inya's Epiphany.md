@@ -18,5 +18,4 @@ each journey is different.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

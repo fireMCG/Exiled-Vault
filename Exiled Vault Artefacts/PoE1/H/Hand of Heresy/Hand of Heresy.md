@@ -20,5 +20,4 @@ brothers shall be cast out from the true faith, forevermore!"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

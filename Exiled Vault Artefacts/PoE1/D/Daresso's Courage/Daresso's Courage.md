@@ -21,5 +21,4 @@ Yet even accursed treachery failed to steal the champion's victory.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

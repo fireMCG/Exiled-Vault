@@ -7,5 +7,5 @@ Abysses in your Maps spawn 5% increased Monsters
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

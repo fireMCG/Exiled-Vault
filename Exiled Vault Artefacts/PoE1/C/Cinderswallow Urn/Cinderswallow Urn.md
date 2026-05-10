@@ -19,5 +19,4 @@ A controlled burn is sometimes necessary for new life.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -22,5 +22,4 @@ but Oriathan scholars dare not open it to find out why.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

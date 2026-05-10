@@ -16,5 +16,4 @@ Are these objects actually somehow resisting our efforts?"
 #
 ---
 # Tags
-#Artefact
 #PoE1

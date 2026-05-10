@@ -6,5 +6,5 @@ Red Beasts in your Maps have 4% chance to appear in Pairs
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

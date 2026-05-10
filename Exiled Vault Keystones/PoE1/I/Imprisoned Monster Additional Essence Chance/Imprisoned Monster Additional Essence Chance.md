@@ -6,5 +6,5 @@ Imprisoned Monsters in your Maps have 5% chance to have an additional Essence
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

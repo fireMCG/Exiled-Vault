@@ -23,5 +23,4 @@ that it was even edible.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

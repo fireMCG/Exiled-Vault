@@ -17,5 +17,4 @@ Not the sound of thunder on the wind, but the Rhoaback Riders - Death charging f
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

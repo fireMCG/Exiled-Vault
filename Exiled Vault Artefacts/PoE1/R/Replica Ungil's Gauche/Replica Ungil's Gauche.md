@@ -23,5 +23,4 @@ an ideal weapon for our suppression troops and guards."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

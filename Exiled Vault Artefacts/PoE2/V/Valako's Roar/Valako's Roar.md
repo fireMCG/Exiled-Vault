@@ -22,5 +22,4 @@ Flashes of light show only swinging axes... and a grin.
 #Concept/Element/Lightning
 #Concept/Sky
 #Concept/Water/Sea
-#Artefact
 #PoE2

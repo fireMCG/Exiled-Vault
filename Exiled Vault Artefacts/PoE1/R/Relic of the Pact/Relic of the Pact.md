@@ -17,5 +17,4 @@ Crush your enemies with your essence, so that you may drink of theirs.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

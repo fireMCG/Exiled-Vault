@@ -16,5 +16,4 @@ The machines do not hate. They merely serve one who does.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

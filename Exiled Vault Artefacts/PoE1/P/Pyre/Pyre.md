@@ -16,5 +16,4 @@ Let winter come. It will only make my fire burn brighter.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

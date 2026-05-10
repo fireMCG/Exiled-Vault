@@ -18,5 +18,4 @@ a captain sailing his own ship into rocks.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

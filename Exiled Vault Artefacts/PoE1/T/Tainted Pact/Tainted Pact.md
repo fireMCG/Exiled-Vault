@@ -17,5 +17,4 @@ Through which Wraeclast might be consumed.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

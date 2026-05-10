@@ -20,5 +20,4 @@ Within lies a window.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

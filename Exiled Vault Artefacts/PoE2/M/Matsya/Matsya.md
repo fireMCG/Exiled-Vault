@@ -22,5 +22,4 @@ In our tales, and in our hearts, the rivers still flow.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

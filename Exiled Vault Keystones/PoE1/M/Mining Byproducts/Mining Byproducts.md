@@ -6,5 +6,5 @@ Voltaxic Sulphite Veins and Chests in your Maps have 15% chance to contain doubl
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

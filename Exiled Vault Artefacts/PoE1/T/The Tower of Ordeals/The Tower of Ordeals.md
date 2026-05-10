@@ -13,5 +13,4 @@ the Trialmaster awaits your challenge.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

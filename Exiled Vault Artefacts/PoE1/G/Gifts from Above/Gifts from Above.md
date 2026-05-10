@@ -17,5 +17,4 @@ God blesses those who bless themselves.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

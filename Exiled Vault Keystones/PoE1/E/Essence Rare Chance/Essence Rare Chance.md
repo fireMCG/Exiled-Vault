@@ -6,5 +6,5 @@ Imprisoned Monsters in your Maps have 25% chance to drop an additional Rare Item
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

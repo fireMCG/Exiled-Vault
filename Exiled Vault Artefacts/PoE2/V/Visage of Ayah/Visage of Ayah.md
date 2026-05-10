@@ -19,5 +19,4 @@ They command a power all thier own.
 #Category/Artefact
 #Concept/Warrior
 #Society/Maraketh
-#Artefact
 #PoE2

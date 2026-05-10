@@ -19,5 +19,4 @@ and perhaps you shall be found worthy.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

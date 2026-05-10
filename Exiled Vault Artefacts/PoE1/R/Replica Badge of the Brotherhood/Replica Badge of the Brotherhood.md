@@ -22,5 +22,4 @@ There is nowhere we can run that our sins will not find us now.”
 #Concept/Fracture
 #Concept/Sin
 #Concept/Sky
-#Artefact
 #PoE1

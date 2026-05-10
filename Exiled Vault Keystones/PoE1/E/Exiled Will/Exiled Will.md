@@ -7,5 +7,5 @@ Wild Rogue Exiles in your Maps are Possessed by a Tormented Spirit
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -18,5 +18,4 @@ Shift click to unstack.
 # Tags
 #League/Abyss
 #Category/Scarab
-#Fragment
 #PoE1

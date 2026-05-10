@@ -23,5 +23,4 @@ harms all those we hold dear.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

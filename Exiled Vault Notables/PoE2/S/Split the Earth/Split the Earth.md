@@ -5,5 +5,5 @@ Strike Skills you use yourself with Maces have 10% chance to deal Splash Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

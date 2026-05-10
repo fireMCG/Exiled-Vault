@@ -14,5 +14,4 @@ All that is will one day come to naught.
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius
 #Concept/Decay
-#Artefact
 #PoE1

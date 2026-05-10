@@ -20,5 +20,4 @@ If it's the former, they will tear you into pieces like rabid dogs.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

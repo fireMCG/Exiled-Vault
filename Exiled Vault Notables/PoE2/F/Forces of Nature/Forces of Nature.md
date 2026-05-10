@@ -4,5 +4,5 @@ Attack Damage Penetrates 15% of Enemy Elemental Resistances
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

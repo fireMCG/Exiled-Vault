@@ -25,5 +25,4 @@ And spill a thousand Sins.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

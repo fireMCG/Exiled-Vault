@@ -6,5 +6,5 @@ Ultimatum Stone Circles in your Maps have 15% increased radius
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

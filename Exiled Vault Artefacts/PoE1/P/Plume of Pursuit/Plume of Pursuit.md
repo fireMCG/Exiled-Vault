@@ -16,5 +16,4 @@ A dance as old as time.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

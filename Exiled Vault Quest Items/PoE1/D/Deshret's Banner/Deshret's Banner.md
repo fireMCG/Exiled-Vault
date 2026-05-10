@@ -11,5 +11,4 @@ When the sun sets, the plains should be red.
 #Concept/Time/Dusk
 #Concept/Sun
 #Category/QuestItem
-#QuestItem
 #PoE1

@@ -8,5 +8,4 @@ The true disciple gives all that they are unto God.
 # Tags
 #Concept/Religion/Devotion
 #Category/QuestItem
-#QuestItem
 #PoE1

@@ -18,5 +18,4 @@ was as elegant as it was deadly.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

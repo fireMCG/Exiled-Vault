@@ -6,5 +6,5 @@ Blight Bosses in your Maps have 5% chance to add an additional Reward Chest to t
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -11,5 +11,5 @@ Non-Minion Skills have 50% less Reservation Efficiency
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE2

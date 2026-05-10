@@ -16,5 +16,4 @@
 #
 ---
 # Tags
-#Socketable
 #PoE2

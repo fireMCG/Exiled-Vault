@@ -16,5 +16,4 @@ Shift click to unstack.
 # Tags
 #League/Anarchy
 #Category/Scarab
-#Fragment
 #PoE1

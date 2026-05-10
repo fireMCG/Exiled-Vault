@@ -20,5 +20,4 @@
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

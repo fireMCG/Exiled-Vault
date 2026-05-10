@@ -17,5 +17,4 @@ It just comes for some much sooner.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

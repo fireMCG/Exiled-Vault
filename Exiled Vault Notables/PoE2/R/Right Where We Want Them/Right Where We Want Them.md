@@ -5,5 +5,5 @@ Pinned enemies cannot perform actions
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

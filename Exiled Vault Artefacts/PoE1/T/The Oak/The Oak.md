@@ -20,5 +20,4 @@ Even the mightiest tree was once just a sapling.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

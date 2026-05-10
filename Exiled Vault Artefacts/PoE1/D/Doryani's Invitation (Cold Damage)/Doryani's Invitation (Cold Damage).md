@@ -20,5 +20,4 @@ sure who will come knocking."
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

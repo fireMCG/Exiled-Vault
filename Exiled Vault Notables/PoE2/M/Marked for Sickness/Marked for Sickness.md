@@ -5,5 +5,5 @@ Enemies you Mark take 10% increased Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

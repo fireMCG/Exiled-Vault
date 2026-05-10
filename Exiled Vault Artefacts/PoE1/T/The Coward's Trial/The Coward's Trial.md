@@ -17,5 +17,4 @@ another to walk the path of true atonement.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

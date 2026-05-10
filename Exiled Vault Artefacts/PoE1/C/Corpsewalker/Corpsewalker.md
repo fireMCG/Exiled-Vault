@@ -18,5 +18,4 @@ stands astride innocent bones.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

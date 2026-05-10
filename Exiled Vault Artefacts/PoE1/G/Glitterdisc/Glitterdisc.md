@@ -22,5 +22,4 @@ resulted in some surprising material discoveries.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

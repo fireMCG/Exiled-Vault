@@ -13,5 +13,4 @@ Made vessels of wrath, they are damned by holy design."
 #Concept/Soul
 #Category/QuestItem
 #Society/TemplarOrder
-#QuestItem
 #PoE1

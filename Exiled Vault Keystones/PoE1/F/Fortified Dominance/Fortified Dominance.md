@@ -7,5 +7,5 @@ Breach Bosses in your Maps have 25% chance to be Duplicated
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

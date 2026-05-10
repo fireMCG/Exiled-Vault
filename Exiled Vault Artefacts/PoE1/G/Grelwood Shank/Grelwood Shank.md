@@ -24,5 +24,4 @@ a memory written in fibrous flesh.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

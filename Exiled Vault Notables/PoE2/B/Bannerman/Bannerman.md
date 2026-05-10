@@ -4,5 +4,5 @@ Banner Buffs linger on you for 2 seconds after you leave the Area
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

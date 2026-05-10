@@ -19,5 +19,4 @@ between an age and an instant?
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

@@ -8,5 +8,4 @@ I just want to know she's safe.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

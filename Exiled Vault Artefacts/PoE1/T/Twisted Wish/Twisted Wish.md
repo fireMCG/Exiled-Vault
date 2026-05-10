@@ -16,5 +16,4 @@ Control comes at a price.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

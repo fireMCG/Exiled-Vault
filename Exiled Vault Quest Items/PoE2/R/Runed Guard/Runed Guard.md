@@ -10,5 +10,4 @@ means 'to strike true' or 'truth.'
 #Concept/Rune
 #Category/QuestItem
 #Society/Ezomyte
-#QuestItem
 #PoE2

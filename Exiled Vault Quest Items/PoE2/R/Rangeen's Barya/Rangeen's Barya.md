@@ -11,5 +11,4 @@ I'd have preferred to go with the Serpent Clan.
 #Category/QuestItem
 #Society/Maraketh
 #Society/KabalaClan
-#QuestItem
 #PoE2

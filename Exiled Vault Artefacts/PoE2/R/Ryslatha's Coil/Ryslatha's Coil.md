@@ -16,5 +16,4 @@ All creatures have the potential for greatness or unequivocal failure.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -13,5 +13,4 @@
 #
 ---
 # Tags
-#Artefact
 #PoE1

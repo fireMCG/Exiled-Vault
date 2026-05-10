@@ -21,5 +21,4 @@ but the scream and the strike.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

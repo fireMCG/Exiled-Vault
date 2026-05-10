@@ -20,5 +20,4 @@ not through force, but patience.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -20,5 +20,4 @@ Some artists wait a lifetime for inspiration. He waited for five.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

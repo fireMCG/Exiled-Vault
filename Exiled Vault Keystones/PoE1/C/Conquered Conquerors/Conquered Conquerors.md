@@ -8,5 +8,5 @@ Map Bosses have 100% increased chance to drop a Conqueror Map
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -18,5 +18,4 @@ Simply the way it must be, so that existence may be.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

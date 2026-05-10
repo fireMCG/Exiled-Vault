@@ -24,5 +24,4 @@ we shall burn the enemy for warmth!"
 #
 ---
 # Tags
-#Artefact
 #PoE1

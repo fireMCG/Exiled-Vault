@@ -13,5 +13,4 @@ moments of blood and battle, we truly live.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -5,5 +5,5 @@ Hits ignore non-negative Elemental Resistances of Frozen Enemies
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

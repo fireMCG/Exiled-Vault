@@ -6,5 +6,5 @@ Harvest Monsters in your Maps drop 3% increased Quantity of Lifeforce
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

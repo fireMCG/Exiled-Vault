@@ -17,5 +17,4 @@ Face it, or curse your bloodline for all eternity.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

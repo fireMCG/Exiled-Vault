@@ -4,5 +4,5 @@ Grenades have 15% chance to activate a second time
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

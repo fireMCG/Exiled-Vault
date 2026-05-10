@@ -6,5 +6,5 @@ Your Maps have +10% chance to contain a Smuggler's Cache
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

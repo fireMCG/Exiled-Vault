@@ -17,5 +17,4 @@ to return all that was once given.
 # Tags
 #Category/Artefact
 #Concept/Family/Brother
-#Artefact
 #PoE2

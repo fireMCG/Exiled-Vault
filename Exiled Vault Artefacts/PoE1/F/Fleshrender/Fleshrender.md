@@ -24,5 +24,4 @@ anathema to all life. Piece by piece, we shall steal back what we are owed..."
 #
 ---
 # Tags
-#Artefact
 #PoE1

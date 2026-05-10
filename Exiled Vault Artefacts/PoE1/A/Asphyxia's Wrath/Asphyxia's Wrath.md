@@ -23,5 +23,4 @@ Upon the frozen wasteland.
 #Category/Artefact
 #Concept/Element/Ice
 #Concept/Mist
-#Artefact
 #PoE1

@@ -21,5 +21,4 @@ Was naught but a vermin-filled nest!
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

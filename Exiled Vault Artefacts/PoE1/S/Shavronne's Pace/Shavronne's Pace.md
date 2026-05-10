@@ -17,5 +17,4 @@ her last hope against the Karui tide.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

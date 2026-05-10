@@ -20,5 +20,4 @@ A mighty beast, a lavish feast.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

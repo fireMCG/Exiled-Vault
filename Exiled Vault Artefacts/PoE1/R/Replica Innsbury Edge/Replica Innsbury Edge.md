@@ -26,5 +26,4 @@ I hear the silent whispers of their wings as they descend, for me, for me..."
 #Concept/Beyond
 #Concept/Darkness
 #Concept/Wing
-#Artefact
 #PoE1

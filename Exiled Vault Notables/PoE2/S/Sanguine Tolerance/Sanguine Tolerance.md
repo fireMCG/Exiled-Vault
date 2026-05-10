@@ -5,5 +5,5 @@ Immune to Corrupted Blood
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

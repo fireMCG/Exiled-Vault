@@ -13,5 +13,4 @@ Fear of pain unknown has no parallel.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

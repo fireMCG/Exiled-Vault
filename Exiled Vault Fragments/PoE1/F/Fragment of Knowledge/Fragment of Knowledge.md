@@ -20,5 +20,4 @@ Shift click to unstack.
 #Character/ValdoCaeserius
 #Concept/Virtue/Knowledge
 #Category/Fragment
-#Fragment
 #PoE1

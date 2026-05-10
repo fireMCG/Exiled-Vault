@@ -17,5 +17,4 @@ Through us he carries his burning message.
 #Category/Artefact
 #Character/Breachlord/Xoph
 #Concept/Blood
-#Artefact
 #PoE2

@@ -6,5 +6,5 @@ Your Maps have a 10% chance to be haunted by an additional Tormented Spirit
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

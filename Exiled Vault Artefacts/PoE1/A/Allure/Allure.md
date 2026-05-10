@@ -28,5 +28,4 @@ What drives us to leave this world for the Abyss?
 #Concept/Death
 #Concept/Emotion/Love
 #Concept/Soul
-#Artefact
 #PoE1

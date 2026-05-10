@@ -19,5 +19,4 @@ The desert is ever flowing.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

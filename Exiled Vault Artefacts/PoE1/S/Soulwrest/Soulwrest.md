@@ -22,5 +22,4 @@ Death is but the start of your servitude.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

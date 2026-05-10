@@ -25,5 +25,4 @@ It is suffering that forges the greatest warriors.
 #Concept/Beast
 #Concept/Hunt
 #Concept/Warrior
-#Artefact
 #PoE2

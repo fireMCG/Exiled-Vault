@@ -14,5 +14,4 @@ The best dancers often make the best fighters.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

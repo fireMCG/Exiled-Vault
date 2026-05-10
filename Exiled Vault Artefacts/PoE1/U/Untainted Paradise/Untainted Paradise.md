@@ -17,5 +17,4 @@ chokes out life.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

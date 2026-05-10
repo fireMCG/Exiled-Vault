@@ -19,5 +19,4 @@ but nothing is eternal.
 #Concept/Time/Eternity
 #Concept/Life/Immortality
 #Society/VaalEmpire
-#Artefact
 #PoE1

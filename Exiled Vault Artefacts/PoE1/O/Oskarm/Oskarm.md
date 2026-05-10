@@ -20,5 +20,4 @@ to sate his hungry claw.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -9,5 +9,5 @@ Items when Bargained with for Items
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

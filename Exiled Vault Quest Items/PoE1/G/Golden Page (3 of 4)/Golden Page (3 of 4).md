@@ -15,5 +15,4 @@ Or madness of the flesh?"
 #Concept/Night/Nightmare
 #Category/QuestItem
 #Society/VaalEmpire
-#QuestItem
 #PoE1

@@ -24,5 +24,4 @@ Valako rode the clouds of ash into the thundering sky.
 #Concept/Nature/Volcano
 #Concept/Sky
 #Concept/Storm
-#Artefact
 #PoE2

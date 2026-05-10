@@ -18,5 +18,4 @@ Yet it was all the Iron King needed.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

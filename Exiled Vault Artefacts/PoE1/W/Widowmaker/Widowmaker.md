@@ -22,5 +22,4 @@ For she shall never let you go.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

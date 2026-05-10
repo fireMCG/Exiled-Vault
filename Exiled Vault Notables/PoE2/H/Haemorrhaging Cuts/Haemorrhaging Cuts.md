@@ -4,5 +4,5 @@ Enemies you inflict Bleeding on cannot Regenerate Life
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

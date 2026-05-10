@@ -6,5 +6,5 @@ Blight Monsters in your Maps spawn 150% faster
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

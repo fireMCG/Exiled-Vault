@@ -5,5 +5,5 @@ Gain 5 Rage when Hit by an Enemy
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

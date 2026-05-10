@@ -6,5 +6,5 @@ Recover 2% of maximum Life and Mana when you use a Warcry
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

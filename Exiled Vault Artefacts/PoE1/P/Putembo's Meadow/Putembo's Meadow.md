@@ -19,5 +19,4 @@ No one... except Aul.
 # Tags
 #Category/Artefact
 #Attributes/Timeline
-#Artefact
 #PoE1

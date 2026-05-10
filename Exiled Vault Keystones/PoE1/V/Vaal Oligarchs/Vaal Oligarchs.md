@@ -6,5 +6,5 @@ Incursions in your Maps contain a Vaal Flesh Merchant
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

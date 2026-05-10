@@ -22,5 +22,4 @@ We just expedite the process.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

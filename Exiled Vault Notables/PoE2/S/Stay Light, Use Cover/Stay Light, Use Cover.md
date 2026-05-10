@@ -7,5 +7,5 @@ Maximum Physical Damage Reduction is 50%
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

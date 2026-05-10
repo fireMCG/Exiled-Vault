@@ -18,5 +18,4 @@ A burden shared is a burden made lighter. The First of the Night teaches us that
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -20,5 +20,4 @@ With relish, we did exactly as she instructed."
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

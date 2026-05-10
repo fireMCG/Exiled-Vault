@@ -6,5 +6,5 @@ Your Maps have 10% chance to award double progress towards encountering The Sear
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

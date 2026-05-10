@@ -23,5 +23,4 @@ We stand together. We strike together.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

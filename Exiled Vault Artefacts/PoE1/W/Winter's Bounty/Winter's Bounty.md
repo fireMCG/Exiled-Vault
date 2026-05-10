@@ -18,5 +18,4 @@ And see nothing but the long slumber ahead.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

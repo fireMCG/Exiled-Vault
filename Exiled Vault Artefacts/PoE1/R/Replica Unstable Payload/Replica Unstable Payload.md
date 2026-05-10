@@ -14,5 +14,4 @@ We are still finding explosives in the vents months later."
 # Tags
 #Category/Artefact
 #Character/Qotra
-#Artefact
 #PoE1

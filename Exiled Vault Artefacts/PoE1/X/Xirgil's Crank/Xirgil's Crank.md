@@ -26,5 +26,4 @@ But I know which switch brings the monster down."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -15,5 +15,4 @@ What once marked his submission became the tool of his defiance - torn from the 
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

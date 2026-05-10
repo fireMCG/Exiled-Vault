@@ -17,5 +17,4 @@ The dance of metal and flesh never ends.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

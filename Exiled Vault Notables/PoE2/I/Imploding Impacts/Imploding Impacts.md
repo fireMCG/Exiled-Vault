@@ -5,5 +5,5 @@ You can Break Enemy Armour to below 0
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

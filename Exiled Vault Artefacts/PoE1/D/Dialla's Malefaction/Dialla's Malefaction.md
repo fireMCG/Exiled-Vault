@@ -20,5 +20,4 @@ And I'd do it again in an instant.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

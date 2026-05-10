@@ -4,5 +4,5 @@ Modifiers to Maximum Fire Resistance also grant Maximum Cold and Lightning Resis
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

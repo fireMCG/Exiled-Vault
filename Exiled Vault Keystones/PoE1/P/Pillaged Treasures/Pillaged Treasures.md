@@ -6,5 +6,5 @@ Legion Chests in your Maps contain an additional Random Reward
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -5,5 +5,5 @@ Gain 15% of Damage as Extra Cold Damage while on Chilled Ground
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

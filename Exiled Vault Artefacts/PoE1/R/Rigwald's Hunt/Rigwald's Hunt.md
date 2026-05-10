@@ -21,5 +21,4 @@ brothers and sisters, we are finally free!"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

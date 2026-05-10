@@ -14,5 +14,4 @@ the challengers crushed at your feet.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

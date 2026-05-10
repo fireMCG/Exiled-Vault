@@ -22,5 +22,4 @@ It is a debt they have never forgotten.
 #
 ---
 # Tags
-#Artefact
 #PoE2

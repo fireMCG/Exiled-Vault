@@ -5,5 +5,5 @@ Defend with 120% of Armour against Projectile Attacks
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

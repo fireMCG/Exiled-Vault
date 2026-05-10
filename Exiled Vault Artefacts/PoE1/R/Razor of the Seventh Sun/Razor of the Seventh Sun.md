@@ -24,5 +24,4 @@ the heat of the forge.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

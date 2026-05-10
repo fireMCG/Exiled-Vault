@@ -18,5 +18,4 @@ As battle calms, blood turns to rust.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

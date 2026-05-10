@@ -25,5 +25,4 @@ naught remains but ash.
 #Concept/Emotion/Hate
 #Concept/Emotion/Love
 #Concept/Emotion/Wrath
-#Artefact
 #PoE1

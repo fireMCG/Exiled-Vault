@@ -10,5 +10,4 @@ cut down by the slaves of war.
 #Concept/Colour/Gold
 #Concept/Slavery
 #Category/QuestItem
-#QuestItem
 #PoE1

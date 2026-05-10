@@ -19,5 +19,4 @@ How quickly water turns to blood.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

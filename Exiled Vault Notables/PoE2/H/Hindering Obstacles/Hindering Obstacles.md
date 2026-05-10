@@ -5,5 +5,5 @@ Debuffs inflicted by Hazards have 30% increased Slow Magnitude
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

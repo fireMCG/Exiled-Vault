@@ -12,5 +12,4 @@ Those who could flee did so. The rest fought bravely, and died horrifically.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

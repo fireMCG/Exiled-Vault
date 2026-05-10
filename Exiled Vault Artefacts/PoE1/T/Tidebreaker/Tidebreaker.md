@@ -24,5 +24,4 @@ and the Brine King's domain will grow.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

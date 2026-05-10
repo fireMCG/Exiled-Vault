@@ -15,5 +15,4 @@ The end always comes sooner than we think.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

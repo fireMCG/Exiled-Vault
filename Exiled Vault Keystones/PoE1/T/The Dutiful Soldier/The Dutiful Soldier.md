@@ -6,5 +6,5 @@ Huck accompanies you on opening the first Smuggler's Cache in each of your Maps
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -33,5 +33,4 @@ Bequeathed, betrayed...beloved. At last, I am the third.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -25,5 +25,4 @@ and night will be eternally banished.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

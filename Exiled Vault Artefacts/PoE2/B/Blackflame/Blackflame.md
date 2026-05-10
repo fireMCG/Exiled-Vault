@@ -16,5 +16,4 @@ by whose light night is borne.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

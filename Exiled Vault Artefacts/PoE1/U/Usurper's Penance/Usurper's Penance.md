@@ -17,5 +17,4 @@ Bloodlust Begets Suffering
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -22,5 +22,4 @@ but rebels of every culture stood together as one.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

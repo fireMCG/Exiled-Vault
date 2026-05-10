@@ -18,5 +18,4 @@ May all who are worthy be improved!"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

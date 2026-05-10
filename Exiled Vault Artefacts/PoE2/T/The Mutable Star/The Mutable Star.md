@@ -20,5 +20,4 @@ the Twilight Order endured in secret.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

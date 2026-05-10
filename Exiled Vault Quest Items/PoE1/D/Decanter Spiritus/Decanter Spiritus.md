@@ -13,5 +13,4 @@ spiritual can we hope to taste the full body of life."
 #Concept/Blindness
 #Concept/Body/Flesh
 #Category/QuestItem
-#QuestItem
 #PoE1

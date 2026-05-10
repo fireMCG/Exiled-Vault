@@ -19,5 +19,4 @@ Our beautiful public spaces, our services for the ill and the needy, all of it w
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

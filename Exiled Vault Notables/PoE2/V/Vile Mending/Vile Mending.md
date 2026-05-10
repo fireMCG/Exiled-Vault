@@ -6,5 +6,5 @@ Minions have +13% to Chaos Resistance
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

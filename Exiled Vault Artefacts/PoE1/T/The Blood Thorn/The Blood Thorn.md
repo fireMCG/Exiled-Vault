@@ -21,5 +21,4 @@ Touch not the thorn, for only blood and pain await.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

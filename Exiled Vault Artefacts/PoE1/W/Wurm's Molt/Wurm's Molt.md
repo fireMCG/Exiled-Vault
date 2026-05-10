@@ -19,5 +19,4 @@ in every skin the great beasts shed.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

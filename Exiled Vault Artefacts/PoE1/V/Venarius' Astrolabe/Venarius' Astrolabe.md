@@ -18,5 +18,4 @@ Then we can all stand united against the demons at the door..."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

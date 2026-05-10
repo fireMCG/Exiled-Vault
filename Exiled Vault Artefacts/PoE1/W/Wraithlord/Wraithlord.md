@@ -17,5 +17,4 @@ and each one succumbed to it.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

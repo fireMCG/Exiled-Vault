@@ -10,5 +10,5 @@ Connects to Mortal Gateway
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

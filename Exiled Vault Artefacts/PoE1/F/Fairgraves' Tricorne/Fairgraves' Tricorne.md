@@ -17,5 +17,4 @@ the seas, deep under the ground, and even beyond death.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

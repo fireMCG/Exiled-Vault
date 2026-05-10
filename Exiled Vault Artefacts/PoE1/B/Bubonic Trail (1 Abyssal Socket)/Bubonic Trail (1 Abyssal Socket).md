@@ -17,5 +17,4 @@ Even the dead serve the Lightless.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

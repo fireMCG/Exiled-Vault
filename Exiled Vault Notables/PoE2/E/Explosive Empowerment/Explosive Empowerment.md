@@ -5,5 +5,5 @@ Enemies you kill with Empowered Attacks have a 10% chance to Explode, dealing a 
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

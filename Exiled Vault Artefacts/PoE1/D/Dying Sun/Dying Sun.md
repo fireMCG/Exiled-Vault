@@ -24,5 +24,4 @@ Whether you burn out or explode is up to you.
 #Character/ValdoCaeserius
 #Concept/Death
 #Concept/Sun
-#Artefact
 #PoE1

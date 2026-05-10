@@ -21,5 +21,4 @@ Was it worth the expense? Only time will tell."
 # Tags
 #Category/Artefact
 #Concept/Virtue/Gem
-#Artefact
 #PoE1

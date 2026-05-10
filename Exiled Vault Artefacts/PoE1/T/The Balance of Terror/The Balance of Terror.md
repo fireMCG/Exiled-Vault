@@ -15,5 +15,4 @@ For one to rise, the other must fall.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

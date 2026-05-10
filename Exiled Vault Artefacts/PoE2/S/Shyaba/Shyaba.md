@@ -21,5 +21,4 @@ Be not deceived by the treachery of men.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

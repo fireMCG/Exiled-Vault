@@ -17,5 +17,4 @@ ash began to fall, and a chill set in...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

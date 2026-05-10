@@ -19,5 +19,4 @@ Than the Belly of the Beast
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

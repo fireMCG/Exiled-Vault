@@ -19,5 +19,4 @@ Then you'll be short of a head soon enough."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -8,5 +8,5 @@ that are followers of Ghorr
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

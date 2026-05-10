@@ -12,5 +12,4 @@ A body that never falters.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -22,5 +22,4 @@ We lash out, when all we want is an end to loneliness.
 # Tags
 #Category/Artefact
 #Concept/Emotion/Loneliness
-#Artefact
 #PoE1

@@ -22,5 +22,4 @@ a fatal mistake. They did not bind him to an object.
 #
 ---
 # Tags
-#Artefact
 #PoE1

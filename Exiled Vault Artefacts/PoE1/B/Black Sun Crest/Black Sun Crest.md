@@ -21,5 +21,4 @@ are the ones who dwell in total darkness.
 #Category/Artefact
 #Concept/Darkness
 #Concept/Sun
-#Artefact
 #PoE1

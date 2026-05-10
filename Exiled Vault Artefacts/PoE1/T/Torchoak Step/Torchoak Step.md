@@ -17,5 +17,4 @@ As with all things, the Karui used its wood for war.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -16,5 +16,4 @@ What could have been...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

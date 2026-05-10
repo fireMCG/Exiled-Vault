@@ -9,5 +9,4 @@ Just want to see how he's doing.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

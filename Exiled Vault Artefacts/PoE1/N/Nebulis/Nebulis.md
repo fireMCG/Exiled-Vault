@@ -18,5 +18,4 @@ The vastness of the cosmos holds energies beyond comprehension, should one have 
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -21,5 +21,4 @@ was different before. Now, it's always been this way!"
 #Category/Artefact
 #Character/Graven
 #Concept/Enigma
-#Artefact
 #PoE1

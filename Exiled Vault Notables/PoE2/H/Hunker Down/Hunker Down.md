@@ -6,5 +6,5 @@ Recover 20 Life when you Block
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

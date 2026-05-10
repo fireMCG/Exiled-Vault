@@ -14,5 +14,4 @@ Fight with the ferocity of the First Ones.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

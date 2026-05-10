@@ -5,5 +5,5 @@ Recover 2% of maximum Life when one of your Minions is Revived
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

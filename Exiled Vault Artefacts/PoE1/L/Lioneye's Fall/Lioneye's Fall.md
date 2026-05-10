@@ -13,5 +13,4 @@ and even then, it knows to keep its distance.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

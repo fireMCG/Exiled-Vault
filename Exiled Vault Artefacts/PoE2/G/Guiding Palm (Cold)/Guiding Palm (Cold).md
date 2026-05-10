@@ -17,5 +17,4 @@ The stories we tell serve to unite us.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

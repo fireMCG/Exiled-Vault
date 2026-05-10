@@ -18,5 +18,4 @@ A glacier of putrid meat, crushing mountains and valleys alike.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

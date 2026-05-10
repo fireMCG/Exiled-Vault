@@ -27,5 +27,4 @@ master turns to ash."
 #Concept/Ash
 #Concept/Body/Bone
 #Concept/Body/Flesh
-#Artefact
 #PoE1

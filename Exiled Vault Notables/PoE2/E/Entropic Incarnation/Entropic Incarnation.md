@@ -5,5 +5,5 @@ Minions gain 10% of Physical Damage as Chaos Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -5,5 +5,5 @@ Aura Skills have 6% increased Magnitudes
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

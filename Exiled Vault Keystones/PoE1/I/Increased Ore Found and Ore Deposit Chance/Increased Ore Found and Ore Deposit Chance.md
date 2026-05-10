@@ -8,5 +8,5 @@ Scarabs dropped in your Maps have 5% increased chance to be Kalguuran Scarabs
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

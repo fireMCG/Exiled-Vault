@@ -5,5 +5,5 @@ Blind Enemies when they Stun you
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -4,5 +4,5 @@ Grants Skill: Navira's Oasis
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

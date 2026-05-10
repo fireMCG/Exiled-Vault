@@ -17,5 +17,4 @@ Shift click to unstack.
 #Character/Einhar
 #League/Bestiary
 #Category/Scarab
-#Fragment
 #PoE1

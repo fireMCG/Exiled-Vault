@@ -12,5 +12,4 @@ You ensure you can't live without them.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

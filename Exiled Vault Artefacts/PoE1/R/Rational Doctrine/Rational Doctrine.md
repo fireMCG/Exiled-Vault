@@ -18,5 +18,4 @@ But can they not be one and the same?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

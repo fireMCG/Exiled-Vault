@@ -21,5 +21,4 @@ They simply love to be held."
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

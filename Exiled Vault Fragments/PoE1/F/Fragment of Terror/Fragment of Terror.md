@@ -22,5 +22,4 @@ Shift click to unstack.
 #Concept/Horror
 #Concept/Decay
 #Category/Fragment
-#Fragment
 #PoE1

@@ -19,5 +19,4 @@ A tourniquet for the soul, squeezing ethereal into physical.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

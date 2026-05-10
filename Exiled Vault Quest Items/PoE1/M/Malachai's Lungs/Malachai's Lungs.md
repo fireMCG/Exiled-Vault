@@ -12,5 +12,4 @@ yet another step removed from them.
 #Concept/Body/Flesh
 #Concept/Life/Immortality
 #Category/QuestItem
-#QuestItem
 #PoE1

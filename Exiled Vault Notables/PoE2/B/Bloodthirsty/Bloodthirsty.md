@@ -5,5 +5,5 @@ Leech Life 25% faster
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

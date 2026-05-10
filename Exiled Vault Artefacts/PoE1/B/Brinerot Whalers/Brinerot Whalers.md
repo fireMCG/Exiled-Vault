@@ -19,5 +19,4 @@ Let's see what they'll pay for their own.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

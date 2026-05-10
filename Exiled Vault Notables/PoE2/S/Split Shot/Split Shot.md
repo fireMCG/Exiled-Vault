@@ -4,5 +4,5 @@ Projectiles have 75% chance for an additional Projectile when Forking
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -24,5 +24,4 @@
 # Tags
 #Category/Artefact
 #Character/Olesya
-#Artefact
 #PoE1

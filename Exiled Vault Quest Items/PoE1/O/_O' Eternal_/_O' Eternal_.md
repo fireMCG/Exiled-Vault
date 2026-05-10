@@ -8,5 +8,4 @@ united against a common enemy.
 #
 ---
 # Tags
-#QuestItem
 #PoE1

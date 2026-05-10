@@ -9,5 +9,4 @@ longs to be reunited with her sisters.
 # Tags
 #Character/Alira
 #Category/QuestItem
-#QuestItem
 #PoE1

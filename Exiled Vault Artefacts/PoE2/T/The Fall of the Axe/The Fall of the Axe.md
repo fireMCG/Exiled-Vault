@@ -18,5 +18,4 @@ your last moments stretch to eternity."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

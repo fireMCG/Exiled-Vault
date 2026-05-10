@@ -7,5 +7,4 @@ choking, eating, until our throats bleed.
 #
 ---
 # Tags
-#QuestItem
 #PoE1

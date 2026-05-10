@@ -17,5 +17,4 @@ To temper the steel of their spirits.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

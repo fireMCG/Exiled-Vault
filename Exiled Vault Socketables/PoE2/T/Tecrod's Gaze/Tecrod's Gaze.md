@@ -15,5 +15,4 @@
 #Character/Tecrod
 #Society/Lightless
 #Category/Socketable
-#Socketable
 #PoE2

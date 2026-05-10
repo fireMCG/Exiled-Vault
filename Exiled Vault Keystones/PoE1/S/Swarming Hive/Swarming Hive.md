@@ -8,5 +8,5 @@ that are followers of K'Tash
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

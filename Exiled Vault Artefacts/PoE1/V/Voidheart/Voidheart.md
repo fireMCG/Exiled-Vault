@@ -18,5 +18,4 @@ Nothing spreads fear faster than the unknown.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

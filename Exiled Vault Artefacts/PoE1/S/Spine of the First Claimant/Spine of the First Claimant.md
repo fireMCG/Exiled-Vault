@@ -26,5 +26,4 @@ To mark the occasion, Izaro had the Champion's remains gilded.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

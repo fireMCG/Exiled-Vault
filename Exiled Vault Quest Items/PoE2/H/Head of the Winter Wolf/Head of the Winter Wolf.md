@@ -11,5 +11,4 @@ forever, heralding the cold.
 #Character/Beira
 #Category/QuestItem
 #Society/Ezomyte
-#QuestItem
 #PoE2

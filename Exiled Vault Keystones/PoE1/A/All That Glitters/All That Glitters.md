@@ -7,5 +7,5 @@ Shrines in your Maps have 10% chance to be a Covetous Shrine
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

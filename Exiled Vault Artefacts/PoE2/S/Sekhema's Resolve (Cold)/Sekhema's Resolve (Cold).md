@@ -16,5 +16,4 @@ Vastiri in ice, we remained, unchanged.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

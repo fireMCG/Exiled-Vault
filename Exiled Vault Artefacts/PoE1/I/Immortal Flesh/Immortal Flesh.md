@@ -21,5 +21,4 @@ And out of spite They plotted."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -18,5 +18,4 @@ only in the depths of the harshest sandstorms.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

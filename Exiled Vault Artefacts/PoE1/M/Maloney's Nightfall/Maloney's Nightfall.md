@@ -25,5 +25,4 @@ Rest alone, my grand nightfall.
 #Concept/Emotion/Fear
 #Concept/Music/Song
 #Concept/Night
-#Artefact
 #PoE1

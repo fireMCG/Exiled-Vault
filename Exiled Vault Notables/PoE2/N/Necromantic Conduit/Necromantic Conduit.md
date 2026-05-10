@@ -5,5 +5,5 @@ Lose 5% of maximum Mana per Second
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

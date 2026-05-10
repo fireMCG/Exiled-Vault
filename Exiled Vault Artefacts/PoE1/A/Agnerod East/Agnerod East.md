@@ -22,5 +22,4 @@ One for each corner of the great .
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

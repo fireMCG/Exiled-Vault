@@ -20,5 +20,4 @@ The talented know who to learn from.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

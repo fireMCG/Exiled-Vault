@@ -21,5 +21,4 @@ but something much greater is needed to unleash the wildfire of true divine flam
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

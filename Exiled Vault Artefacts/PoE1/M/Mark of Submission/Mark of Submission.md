@@ -13,5 +13,4 @@ that sacrifices soon welcomed their death.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

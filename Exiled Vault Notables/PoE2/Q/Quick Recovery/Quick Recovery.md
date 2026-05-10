@@ -5,5 +5,5 @@ Regenerate 5% of maximum Life over 1 second when Stunned
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

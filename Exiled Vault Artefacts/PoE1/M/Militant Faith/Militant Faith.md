@@ -16,5 +16,4 @@ They believed themselves the utmost faithful, but that conviction became oppress
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

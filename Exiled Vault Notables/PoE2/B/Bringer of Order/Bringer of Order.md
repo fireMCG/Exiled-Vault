@@ -5,5 +5,5 @@ Minions deal 20% increased Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

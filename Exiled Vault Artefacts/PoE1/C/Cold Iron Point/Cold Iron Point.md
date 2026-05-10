@@ -18,5 +18,4 @@ There is nothing more brutal than a simple blade wielded with rage.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -4,5 +4,5 @@ Attacks gain increased Accuracy Rating equal to their Critical Hit Chance
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

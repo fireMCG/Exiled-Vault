@@ -5,5 +5,5 @@ Projectiles deal 75% increased Damage against Heavy Stunned Enemies
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -8,5 +8,4 @@ the sea, but long dead incantations.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

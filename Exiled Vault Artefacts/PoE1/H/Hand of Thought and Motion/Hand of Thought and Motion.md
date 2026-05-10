@@ -22,5 +22,4 @@ until we must feed upon each other.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

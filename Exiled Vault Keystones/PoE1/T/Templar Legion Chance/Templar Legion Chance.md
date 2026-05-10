@@ -6,5 +6,5 @@ Legion Encounters in your Maps have 60% increased chance to include a Templar ar
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

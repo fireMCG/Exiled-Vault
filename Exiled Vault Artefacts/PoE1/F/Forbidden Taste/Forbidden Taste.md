@@ -17,5 +17,4 @@ Your reach exceeds your grasp.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

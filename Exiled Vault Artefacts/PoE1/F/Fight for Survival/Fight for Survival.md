@@ -17,5 +17,4 @@ Wraeclast's few survivors fought to the death for the last scraps of bread.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

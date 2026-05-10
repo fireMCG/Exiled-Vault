@@ -22,5 +22,4 @@ But Wraeclast had not heard the last of her.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

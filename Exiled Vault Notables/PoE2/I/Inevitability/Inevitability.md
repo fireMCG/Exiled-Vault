@@ -4,5 +4,5 @@ Grants Skill: Inevitable Agony
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

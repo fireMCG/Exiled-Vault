@@ -12,5 +12,4 @@ A mass of flesh writhing with savage fury.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

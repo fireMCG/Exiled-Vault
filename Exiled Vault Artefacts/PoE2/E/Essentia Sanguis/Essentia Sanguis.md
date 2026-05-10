@@ -18,5 +18,4 @@ giving birth to four lightning children of hate.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

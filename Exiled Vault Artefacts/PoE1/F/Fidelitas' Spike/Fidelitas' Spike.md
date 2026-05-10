@@ -23,5 +23,4 @@ Thaumaturgy allowed Maligaro to return the favour.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -5,5 +5,5 @@ Life Flasks applied to you grant Guard for 4 seconds equal to 8% of the Life Rec
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

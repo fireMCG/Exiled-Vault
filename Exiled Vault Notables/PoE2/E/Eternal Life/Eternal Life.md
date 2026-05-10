@@ -4,5 +4,5 @@ Your Life cannot change while you have Energy Shield
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

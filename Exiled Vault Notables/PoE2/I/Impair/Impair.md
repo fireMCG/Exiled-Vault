@@ -5,5 +5,5 @@ Attacks have 10% chance to Maim on Hit
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

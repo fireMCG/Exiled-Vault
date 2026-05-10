@@ -6,5 +6,5 @@ Abysses in your Maps have 100% increased chance to lead to an Abyssal Depths
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

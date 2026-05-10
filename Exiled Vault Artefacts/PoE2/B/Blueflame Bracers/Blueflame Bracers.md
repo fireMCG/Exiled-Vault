@@ -17,5 +17,4 @@ The secret was lost with its maker.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

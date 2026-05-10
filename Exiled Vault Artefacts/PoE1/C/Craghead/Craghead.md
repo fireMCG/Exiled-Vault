@@ -15,5 +15,4 @@ Hit them hard. Hit them once.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

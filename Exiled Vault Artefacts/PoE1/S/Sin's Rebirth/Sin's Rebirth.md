@@ -19,5 +19,4 @@ The Sin of one became the Sin of many.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

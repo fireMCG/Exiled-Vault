@@ -22,5 +22,4 @@ you for what you've done... no. You've a debt to repay."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

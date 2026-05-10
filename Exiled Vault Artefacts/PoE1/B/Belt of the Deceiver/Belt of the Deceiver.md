@@ -19,5 +19,4 @@ Only victory.
 #Category/Artefact
 #Concept/Trickery
 #Concept/Virtue
-#Artefact
 #PoE1

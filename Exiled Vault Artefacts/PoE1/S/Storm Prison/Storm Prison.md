@@ -22,5 +22,4 @@ You can barely even leash it.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

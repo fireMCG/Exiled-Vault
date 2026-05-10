@@ -14,5 +14,4 @@ Why does he still wear it like a shameful secret?"
 #
 ---
 # Tags
-#Artefact
 #PoE1

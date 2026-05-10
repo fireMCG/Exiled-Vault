@@ -17,5 +17,4 @@ The candlemass tradition was born in a time of darkness and fear.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

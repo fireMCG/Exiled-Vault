@@ -18,5 +18,4 @@ One warrior alone survived to face the Arbiter.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

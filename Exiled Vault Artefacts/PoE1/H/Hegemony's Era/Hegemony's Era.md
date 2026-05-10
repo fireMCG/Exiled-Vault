@@ -24,5 +24,4 @@ And a tenacious sense of justice.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

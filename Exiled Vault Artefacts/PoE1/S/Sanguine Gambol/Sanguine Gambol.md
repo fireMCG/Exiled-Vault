@@ -26,5 +26,4 @@ Your soul letting go
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

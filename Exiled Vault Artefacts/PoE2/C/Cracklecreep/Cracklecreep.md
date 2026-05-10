@@ -15,5 +15,4 @@ Fear the fire that spreads like a plague.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

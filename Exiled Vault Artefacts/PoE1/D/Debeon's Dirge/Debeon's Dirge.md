@@ -23,5 +23,4 @@ you know death will follow soon.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

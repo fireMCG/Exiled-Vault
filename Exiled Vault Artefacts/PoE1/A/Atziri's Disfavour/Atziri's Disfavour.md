@@ -24,5 +24,4 @@
 #Category/Artefact
 #Character/Atziri
 #Society/VaalEmpire
-#Artefact
 #PoE1

@@ -7,5 +7,5 @@ Gain Demonic Power on defeating a Beyond Boss in your Maps
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -25,5 +25,4 @@ and researcher in Lab Three simultaneously... again?"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

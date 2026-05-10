@@ -8,5 +8,5 @@ Completing a Blight Encounter in your Maps grants all Players Blightreach
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

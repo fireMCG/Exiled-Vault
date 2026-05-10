@@ -22,5 +22,4 @@ but the soul remains unbroken.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

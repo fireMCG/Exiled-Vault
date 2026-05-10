@@ -6,5 +6,5 @@ Huntress: 10% increased Accuracy Rating
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

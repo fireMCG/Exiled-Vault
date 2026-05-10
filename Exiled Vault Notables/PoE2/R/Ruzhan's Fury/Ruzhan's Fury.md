@@ -4,5 +4,5 @@ Grants Skill: Ruzhan's Fury
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

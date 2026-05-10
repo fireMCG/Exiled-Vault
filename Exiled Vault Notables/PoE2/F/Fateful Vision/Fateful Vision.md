@@ -4,5 +4,5 @@ Grants Skill: Align Fate
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -4,5 +4,5 @@ Immune to Freeze and Chill while affected by an Archon Buff
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

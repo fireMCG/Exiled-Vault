@@ -18,5 +18,4 @@ nothing would remain unconquered.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

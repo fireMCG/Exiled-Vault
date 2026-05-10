@@ -22,5 +22,4 @@ Results like these may justify everything we do here."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

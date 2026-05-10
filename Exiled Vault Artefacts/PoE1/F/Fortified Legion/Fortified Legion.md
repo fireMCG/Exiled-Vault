@@ -14,5 +14,4 @@ you only make the wall grow thicker.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

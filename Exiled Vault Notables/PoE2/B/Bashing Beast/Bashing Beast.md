@@ -4,5 +4,5 @@ Enemies you Heavy Stun while Shapeshifted are Intimidated for 6 seconds
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -21,5 +21,4 @@ Don't waste a drop.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

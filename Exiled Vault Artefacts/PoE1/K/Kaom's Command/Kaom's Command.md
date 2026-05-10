@@ -16,5 +16,4 @@ There would be no rest or honours for the wicked.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

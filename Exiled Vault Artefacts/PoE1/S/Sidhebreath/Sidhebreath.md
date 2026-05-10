@@ -15,5 +15,4 @@ The breath of life is yours to give.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

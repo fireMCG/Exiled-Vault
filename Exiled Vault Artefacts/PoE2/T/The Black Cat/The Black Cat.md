@@ -18,5 +18,4 @@ is the one that refuses to do any actual work.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

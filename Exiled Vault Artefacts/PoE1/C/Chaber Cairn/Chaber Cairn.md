@@ -24,5 +24,4 @@ Yet it is never borne alone.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

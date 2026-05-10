@@ -4,5 +4,5 @@ Strikes deal Splash Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

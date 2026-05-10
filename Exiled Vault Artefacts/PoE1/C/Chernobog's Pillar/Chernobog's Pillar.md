@@ -23,5 +23,4 @@ There is no flame
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

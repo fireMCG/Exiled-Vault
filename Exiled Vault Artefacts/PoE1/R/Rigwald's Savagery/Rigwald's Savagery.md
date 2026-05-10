@@ -21,5 +21,4 @@ Scatter the dust to the wind.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -19,5 +19,4 @@ Use four of these in a personal Map Device to open Portals to The Absence of Pat
 #Character/Eldritch/SearingExarch
 #Concept/Cleansing
 #Category/Fragment
-#Fragment
 #PoE1

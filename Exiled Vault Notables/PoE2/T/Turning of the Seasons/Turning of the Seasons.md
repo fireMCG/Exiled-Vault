@@ -5,5 +5,5 @@ Gain 10% of Damage as Extra Damage of a random Element
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

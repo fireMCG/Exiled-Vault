@@ -19,5 +19,4 @@ What mother wouldn't give her life for that of her children?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

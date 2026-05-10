@@ -19,5 +19,4 @@ binds in both directions.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

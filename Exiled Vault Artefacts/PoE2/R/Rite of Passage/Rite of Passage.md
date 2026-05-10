@@ -17,5 +17,4 @@ Azmeri must prove themselves before the Spirit.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

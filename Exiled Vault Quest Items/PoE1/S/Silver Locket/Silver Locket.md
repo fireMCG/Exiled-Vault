@@ -12,5 +12,4 @@ I shall love thee as I love the sea.
 #Concept/Colour/Silver
 #Concept/Water
 #Category/QuestItem
-#QuestItem
 #PoE1

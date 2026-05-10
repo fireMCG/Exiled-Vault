@@ -5,5 +5,5 @@ Break 40% increased Armour
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

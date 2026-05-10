@@ -18,5 +18,4 @@ The Liege of the Lightless seeks dominion over the surface dwellers.
 #Character/Amanamu
 #Concept/Dominion
 #Society/Lightless
-#Artefact
 #PoE1

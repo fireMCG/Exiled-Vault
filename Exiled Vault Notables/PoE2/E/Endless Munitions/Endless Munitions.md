@@ -4,5 +4,5 @@ Skills fire an additional Projectile
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

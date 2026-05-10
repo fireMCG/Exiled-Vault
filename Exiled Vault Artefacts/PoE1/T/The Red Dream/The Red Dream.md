@@ -16,5 +16,4 @@ and spill into the land we have watched forever.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

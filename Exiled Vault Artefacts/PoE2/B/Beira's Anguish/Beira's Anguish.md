@@ -18,5 +18,4 @@ She was clad in ice, but the village was ash.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

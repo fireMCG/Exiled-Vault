@@ -18,5 +18,4 @@ to find a land they could call home.
 # Tags
 #Category/Artefact
 #Attributes/Timeline
-#Artefact
 #PoE1

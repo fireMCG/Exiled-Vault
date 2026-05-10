@@ -15,5 +15,4 @@ An eye for an eye.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -21,5 +21,4 @@ A glass will still your soul.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

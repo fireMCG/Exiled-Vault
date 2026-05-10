@@ -4,5 +4,5 @@ Grants Sands of Time
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

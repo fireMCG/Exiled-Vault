@@ -26,5 +26,4 @@ death is sure to follow."
 #Concept/Death
 #Concept/Animal/Hyena
 #Society/Maraketh
-#Artefact
 #PoE1

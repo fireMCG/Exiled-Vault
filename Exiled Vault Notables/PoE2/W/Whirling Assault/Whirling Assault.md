@@ -5,5 +5,5 @@ Knocks Back Enemies if you get a Critical Hit with a Quarterstaff
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

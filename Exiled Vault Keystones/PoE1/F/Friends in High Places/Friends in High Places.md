@@ -7,5 +7,5 @@ Heist Contracts found in your Maps are 55% more likely to target Precious Target
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

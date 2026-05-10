@@ -6,5 +6,5 @@ Voltaxic Sulphite Veins and Chests in your Maps contain 6% increased Sulphite
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

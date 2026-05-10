@@ -14,5 +14,4 @@ He's ambitious.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

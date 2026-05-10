@@ -20,5 +20,4 @@ Desperate times demand desperate measures.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

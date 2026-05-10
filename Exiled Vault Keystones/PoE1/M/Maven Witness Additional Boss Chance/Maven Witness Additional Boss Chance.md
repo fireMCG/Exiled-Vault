@@ -6,5 +6,5 @@ Defeating a Map Boss while Witnessed by The Maven has 1% chance to count as also
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

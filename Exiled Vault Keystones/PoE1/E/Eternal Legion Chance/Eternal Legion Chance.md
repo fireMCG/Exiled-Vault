@@ -6,5 +6,5 @@ Legion Encounters in your Maps have 90% increased chance to include an Eternal E
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

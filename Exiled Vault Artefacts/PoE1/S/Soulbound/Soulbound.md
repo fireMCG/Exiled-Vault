@@ -19,5 +19,4 @@ Our souls are eternally bound by the sacrifices we have made."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -18,5 +18,4 @@ her motionless dance the pulse of bliss
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

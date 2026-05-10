@@ -24,5 +24,4 @@ must, let us tear apart the very foundations of reality!"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

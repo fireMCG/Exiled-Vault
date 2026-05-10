@@ -18,5 +18,4 @@ as slaughter blossomed at the gates.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

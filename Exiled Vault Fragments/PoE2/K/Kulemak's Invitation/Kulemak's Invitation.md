@@ -8,5 +8,4 @@ Something awaits you in the Well.
 ---
 # Tags
 #Category/Fragment
-#Fragment
 #PoE2

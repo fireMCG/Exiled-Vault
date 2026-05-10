@@ -27,5 +27,4 @@ So goes the descent.
 #Concept/Horror
 #Concept/Madness
 #Concept/Sun
-#Artefact
 #PoE1

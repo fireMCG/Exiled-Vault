@@ -15,5 +15,4 @@ In the Atlas, you do not go mad. You are rewritten.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

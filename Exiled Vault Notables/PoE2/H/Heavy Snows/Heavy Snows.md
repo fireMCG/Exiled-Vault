@@ -6,5 +6,5 @@ Your Chills can Slow targets by up to a maximum of 35%
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

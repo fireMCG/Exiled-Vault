@@ -22,5 +22,4 @@ My dear Isildria must depart.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

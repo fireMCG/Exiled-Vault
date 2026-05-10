@@ -20,5 +20,4 @@ as the fingers that drew her bowstring.
 #Character/Sekhema/Asenath
 #Concept/Mind
 #Society/Maraketh
-#Artefact
 #PoE1

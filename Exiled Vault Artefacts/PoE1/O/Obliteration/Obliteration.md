@@ -18,5 +18,4 @@ Wielding anarchy and destruction as our tools of genesis.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

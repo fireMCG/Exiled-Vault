@@ -16,5 +16,4 @@ there exists a flow...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

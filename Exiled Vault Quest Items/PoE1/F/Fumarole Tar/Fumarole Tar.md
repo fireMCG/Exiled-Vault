@@ -10,5 +10,4 @@ Or it had no 'B'.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

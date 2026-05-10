@@ -4,5 +4,5 @@ Culling Strike against Enemies you Mark
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

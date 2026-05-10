@@ -7,5 +7,5 @@ Abyss Cracks in your Maps have 3% chance to spawn all Monsters as at least Magic
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

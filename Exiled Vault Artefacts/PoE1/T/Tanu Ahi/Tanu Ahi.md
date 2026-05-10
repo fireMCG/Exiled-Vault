@@ -20,5 +20,4 @@ slashing and hewing with utmost abandon.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

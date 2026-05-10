@@ -18,5 +18,4 @@ The rest were already dead.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

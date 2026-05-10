@@ -24,5 +24,4 @@ can the cold truth of existence take hold.
 #Concept/Mind
 #Concept/Void
 #Concept/Decay
-#Artefact
 #PoE1

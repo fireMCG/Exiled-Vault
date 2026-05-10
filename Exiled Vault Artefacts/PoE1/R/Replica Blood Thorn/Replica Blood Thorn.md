@@ -22,5 +22,4 @@ What logic lies beneath the veil of reality?"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -21,5 +21,4 @@ They track their new prey
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -22,5 +22,4 @@ Erian was asleep at his post.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

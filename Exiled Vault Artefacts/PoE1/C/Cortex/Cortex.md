@@ -19,5 +19,4 @@ My will remains, emboldened and empowered by the righteousness of my cause.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -5,5 +5,5 @@ Damage Penetrates 18% Fire Resistance
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

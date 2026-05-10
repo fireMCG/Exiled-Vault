@@ -16,5 +16,4 @@ Freedom is won only by those who are not free.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

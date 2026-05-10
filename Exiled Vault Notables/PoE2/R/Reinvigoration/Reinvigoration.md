@@ -4,5 +4,5 @@ Regenerate 1% of maximum Life per Second if you've used a Life Flask in the past
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

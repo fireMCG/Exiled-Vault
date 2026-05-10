@@ -6,5 +6,5 @@ Ore Deposits in your Maps contain 10% increased Ore
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

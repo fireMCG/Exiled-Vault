@@ -21,5 +21,4 @@ consume all that you have... and more.
 #Concept/Hunger
 #Concept/Power
 #Concept/Tangle
-#Artefact
 #PoE1

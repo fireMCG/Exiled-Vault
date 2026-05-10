@@ -4,5 +4,5 @@ Minions Break Armour equal to 3% of Physical damage dealt
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

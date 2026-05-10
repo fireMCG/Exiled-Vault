@@ -20,5 +20,4 @@ The danger of numbers is all in your mind!"
 #Category/Artefact
 #Character/Napuatzi
 #Society/VaalEmpire
-#Artefact
 #PoE2

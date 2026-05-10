@@ -18,5 +18,4 @@ My only choice is to strive harder.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -16,5 +16,4 @@ and surround yourself with people who know the rest.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

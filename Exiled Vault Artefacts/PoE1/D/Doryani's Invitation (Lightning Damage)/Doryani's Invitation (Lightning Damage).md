@@ -19,5 +19,4 @@ sure who will come knocking."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

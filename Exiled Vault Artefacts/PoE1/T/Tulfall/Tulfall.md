@@ -22,5 +22,4 @@ But in the great freeze we are forged anew.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

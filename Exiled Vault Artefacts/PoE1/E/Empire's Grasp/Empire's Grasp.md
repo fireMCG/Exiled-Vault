@@ -16,5 +16,4 @@ but my enemies as close as the hilt."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

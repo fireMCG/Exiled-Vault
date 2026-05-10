@@ -21,5 +21,4 @@ darkest secrets of the Vaal... at the same time.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

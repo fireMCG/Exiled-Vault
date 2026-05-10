@@ -4,5 +4,5 @@ Benefits from consuming Frenzy Charges for your Skills have 50% chance to be dou
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

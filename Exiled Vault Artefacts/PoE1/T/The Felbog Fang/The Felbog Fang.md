@@ -17,5 +17,4 @@ Death creeps closer; unseen, inexorable, hungry.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

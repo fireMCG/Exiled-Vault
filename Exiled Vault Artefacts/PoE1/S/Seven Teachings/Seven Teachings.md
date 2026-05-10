@@ -21,5 +21,4 @@ perfection of the body and the will.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -12,5 +12,4 @@ By the anointing of the Great Roc, under whose wings we grow and soar."
 #Concept/Wing
 #Category/QuestItem
 #Society/Maraketh
-#QuestItem
 #PoE1

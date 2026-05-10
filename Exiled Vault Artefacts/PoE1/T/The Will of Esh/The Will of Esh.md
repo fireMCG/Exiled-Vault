@@ -20,5 +20,4 @@ mindless thought that seek a hollow truth.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

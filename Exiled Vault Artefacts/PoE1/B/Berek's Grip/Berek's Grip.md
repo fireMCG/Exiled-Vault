@@ -31,5 +31,4 @@ While Berek slept."
 #Concept/Taming
 #League/Domination
 #League/Nemesis
-#Artefact
 #PoE1

@@ -20,5 +20,4 @@ Zealots in mortis enslaved
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

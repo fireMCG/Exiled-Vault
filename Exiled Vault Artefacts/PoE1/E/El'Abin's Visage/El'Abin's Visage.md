@@ -21,5 +21,4 @@ a thunderous voice echoed across the barren landscape,
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

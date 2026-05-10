@@ -13,5 +13,4 @@ when one man stands firm and says, "I refuse."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

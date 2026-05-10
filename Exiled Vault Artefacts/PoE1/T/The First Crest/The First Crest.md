@@ -16,5 +16,4 @@ deny." - Lycia, the Heretic
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

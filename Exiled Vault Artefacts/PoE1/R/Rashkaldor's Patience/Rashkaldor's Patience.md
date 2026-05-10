@@ -16,5 +16,4 @@ Fate's smile, man's ruin.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

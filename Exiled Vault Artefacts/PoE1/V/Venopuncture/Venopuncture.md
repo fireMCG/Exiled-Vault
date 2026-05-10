@@ -18,5 +18,4 @@ but few have the resolve to attempt it.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

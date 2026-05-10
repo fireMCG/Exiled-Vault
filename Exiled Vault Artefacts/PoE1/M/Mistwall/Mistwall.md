@@ -21,5 +21,4 @@ Stiff as a feather.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

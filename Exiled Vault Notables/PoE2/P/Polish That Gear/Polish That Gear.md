@@ -5,5 +5,5 @@ Gain 100% of Evasion Rating as extra Ailment Threshold
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

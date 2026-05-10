@@ -5,5 +5,5 @@ Grants Skill: Blood Boil
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

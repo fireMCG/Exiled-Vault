@@ -20,5 +20,4 @@ The rest do not return at all.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

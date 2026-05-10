@@ -6,5 +6,5 @@ Break Armour on Critical Hit with Spells equal to 10% of Physical Damage dealt
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

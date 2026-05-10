@@ -14,5 +14,4 @@ But control, like all things in that place, was an illusion."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

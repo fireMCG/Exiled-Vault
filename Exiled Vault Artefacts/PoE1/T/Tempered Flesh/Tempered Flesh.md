@@ -13,5 +13,4 @@ We are born raw and untested, and we are shaped by life.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

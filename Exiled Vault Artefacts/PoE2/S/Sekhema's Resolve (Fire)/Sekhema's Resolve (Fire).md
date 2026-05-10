@@ -16,5 +16,4 @@ Vastiri to dust, we remain, unchanged.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

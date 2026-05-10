@@ -7,5 +7,4 @@ Smells of salt, rust, and fear.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE2

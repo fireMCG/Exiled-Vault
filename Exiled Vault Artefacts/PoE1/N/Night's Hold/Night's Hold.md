@@ -20,5 +20,4 @@ seek shelter from their grasp until daybreak.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

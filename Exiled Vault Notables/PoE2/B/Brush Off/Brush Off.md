@@ -4,5 +4,5 @@ Prevent +15% of Damage from Deflected Critical Hits
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

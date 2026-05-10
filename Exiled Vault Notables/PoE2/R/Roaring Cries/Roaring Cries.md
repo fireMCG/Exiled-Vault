@@ -4,5 +4,5 @@ Warcries have a minimum of 10 Power
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

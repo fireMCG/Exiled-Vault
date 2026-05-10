@@ -4,5 +4,5 @@ Enemies in your Presence have 75% reduced Life Regeneration rate
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -16,5 +16,4 @@ deus meus non sit tam divinus quam ipse petit...
 #Concept/Soul
 #Category/QuestItem
 #Attributes/Timeline
-#QuestItem
 #PoE1

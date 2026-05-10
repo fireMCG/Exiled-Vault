@@ -18,5 +18,4 @@ Fragile, explosive, and punishing.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

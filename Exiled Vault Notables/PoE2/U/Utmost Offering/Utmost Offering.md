@@ -4,5 +4,5 @@ Offerings cannot be damaged if they have been created Recently
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

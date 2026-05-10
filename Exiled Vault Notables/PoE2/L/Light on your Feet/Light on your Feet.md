@@ -6,5 +6,5 @@ Immune to Maim
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

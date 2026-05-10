@@ -28,5 +28,4 @@ And Frost's tortured moans."
 #Concept/Taming
 #League/Domination
 #League/Nemesis
-#Artefact
 #PoE1

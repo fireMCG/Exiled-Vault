@@ -7,5 +7,5 @@ Ultimatum Rewards in your Maps have 50% increased chance to be Divination Cards
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

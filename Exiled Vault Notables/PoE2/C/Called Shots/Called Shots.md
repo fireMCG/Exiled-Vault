@@ -4,5 +4,5 @@ Grants Skill: Called Shots
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -20,5 +20,4 @@ the thinking... but it has only one thought... hate."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

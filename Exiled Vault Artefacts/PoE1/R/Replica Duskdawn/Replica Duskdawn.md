@@ -26,5 +26,4 @@ Prototype #77. It is, however, the closest we've come to perfection."
 #Concept/Balance
 #Concept/Time/Dawn
 #Concept/Time/Dusk
-#Artefact
 #PoE1

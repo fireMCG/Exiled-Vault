@@ -21,5 +21,4 @@ and pray we never learn of what comes next.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

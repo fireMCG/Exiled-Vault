@@ -8,5 +8,5 @@ Delirium Bosses in your Maps have 50% increased chance to drop Unique Cluster Je
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

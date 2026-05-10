@@ -5,5 +5,5 @@ Reserves 25% of Life
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

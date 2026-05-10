@@ -5,5 +5,5 @@ Enemies Ignited by you have -5% to Fire Resistance
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -4,5 +4,5 @@ Attacks have +1% to Critical Hit Chance
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

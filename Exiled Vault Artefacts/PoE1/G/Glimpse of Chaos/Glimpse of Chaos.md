@@ -21,5 +21,4 @@ only under the blessed veil of ignorance.
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

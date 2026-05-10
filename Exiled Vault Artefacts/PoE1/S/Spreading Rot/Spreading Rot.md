@@ -16,5 +16,4 @@ The dead lingered, and the living began to rot.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

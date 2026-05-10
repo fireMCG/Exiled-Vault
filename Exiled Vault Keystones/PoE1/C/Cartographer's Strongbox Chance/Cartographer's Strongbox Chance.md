@@ -6,5 +6,5 @@ Strongboxes in your Maps have 30% increased chance to be a Cartographer's Strong
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

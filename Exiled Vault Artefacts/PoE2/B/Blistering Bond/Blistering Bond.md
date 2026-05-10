@@ -16,5 +16,4 @@ Excruciating pain is simply a byproduct of certain... necessary methods."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -8,5 +8,4 @@ The mind springs forth eternal.
 # Tags
 #Concept/Crystal
 #Category/QuestItem
-#QuestItem
 #PoE2

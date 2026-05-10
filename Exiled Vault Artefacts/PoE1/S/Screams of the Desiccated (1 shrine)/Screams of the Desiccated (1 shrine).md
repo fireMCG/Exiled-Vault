@@ -18,5 +18,4 @@ and they screamed still, begging me for vengeance..."
 #
 ---
 # Tags
-#Artefact
 #PoE1

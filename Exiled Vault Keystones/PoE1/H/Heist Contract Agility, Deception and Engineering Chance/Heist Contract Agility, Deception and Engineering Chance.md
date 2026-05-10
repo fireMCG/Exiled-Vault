@@ -6,5 +6,5 @@ Heist Contracts found in your Maps are 100% more likely to require Agility, Dece
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

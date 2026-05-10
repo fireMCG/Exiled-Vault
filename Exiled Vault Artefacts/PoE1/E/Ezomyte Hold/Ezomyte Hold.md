@@ -15,5 +15,4 @@ A moment of victory may last an eternity in memory.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

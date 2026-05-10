@@ -6,5 +6,5 @@ Breaches in your Maps spawn 8% increased Magic Monsters
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

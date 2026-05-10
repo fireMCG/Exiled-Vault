@@ -24,5 +24,4 @@ the researcher. Researcher's feelings were slightly injured."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -15,5 +15,4 @@ as old as civilisation itself."
 #Concept/Virtue/Gem
 #Category/QuestItem
 #Society/VaalEmpire
-#QuestItem
 #PoE1

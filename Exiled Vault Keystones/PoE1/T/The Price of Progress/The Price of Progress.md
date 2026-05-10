@@ -6,5 +6,5 @@ Voltaxic Sulphite Veins and Chests found in your Maps contains Doomed Spirits
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

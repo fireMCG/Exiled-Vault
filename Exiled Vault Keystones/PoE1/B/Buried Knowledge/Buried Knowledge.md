@@ -7,5 +7,5 @@ Your Maps contain 20% increased number of Runic Monster Markers
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -24,5 +24,4 @@ All children must eat.
 #Category/Artefact
 #Character/God/Arakaali
 #Society/VaalEmpire
-#Artefact
 #PoE1

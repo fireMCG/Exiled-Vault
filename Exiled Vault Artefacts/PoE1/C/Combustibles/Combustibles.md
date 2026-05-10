@@ -13,5 +13,4 @@ The hotter something burns, the less is left at the end.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

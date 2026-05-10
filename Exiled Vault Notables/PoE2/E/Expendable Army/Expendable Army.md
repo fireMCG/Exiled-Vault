@@ -5,5 +5,5 @@ Temporary Minion Skills have +2 to Limit of Minions summoned
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

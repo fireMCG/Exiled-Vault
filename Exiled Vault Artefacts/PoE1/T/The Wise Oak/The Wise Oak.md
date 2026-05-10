@@ -19,5 +19,4 @@ Nature is an eternal tug of war.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

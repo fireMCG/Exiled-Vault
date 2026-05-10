@@ -18,5 +18,4 @@ needed never fear her sting.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -12,5 +12,4 @@ True strength can be found anywhere, and in anything.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -17,5 +17,4 @@ cost him his brother." - Lycia, the Heretic
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

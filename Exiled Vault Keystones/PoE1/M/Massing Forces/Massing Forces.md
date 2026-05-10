@@ -6,5 +6,5 @@ Your Maps which contain Unstable Breaches have 10% chance to contain two additio
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

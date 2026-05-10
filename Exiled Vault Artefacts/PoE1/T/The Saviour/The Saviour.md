@@ -22,5 +22,4 @@ But which one am I?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

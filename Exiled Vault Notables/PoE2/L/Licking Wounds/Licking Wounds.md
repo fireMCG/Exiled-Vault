@@ -5,5 +5,5 @@ Minions have 15% increased maximum Life
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

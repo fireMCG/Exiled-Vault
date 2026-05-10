@@ -14,5 +14,4 @@ Nature provides its own solutions.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

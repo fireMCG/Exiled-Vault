@@ -22,5 +22,4 @@ And she was still.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

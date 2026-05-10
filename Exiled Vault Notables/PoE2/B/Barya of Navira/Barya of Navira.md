@@ -4,5 +4,5 @@ Grants Skill: Navira, the Last Mirage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

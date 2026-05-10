@@ -19,5 +19,4 @@ Shift click to unstack.
 # Tags
 #Character/Conqueror/Baran
 #Category/Fragment
-#Fragment
 #PoE1

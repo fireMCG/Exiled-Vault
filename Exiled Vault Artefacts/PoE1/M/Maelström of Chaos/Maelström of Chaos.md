@@ -23,5 +23,4 @@ Will they grant me strength or doom?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

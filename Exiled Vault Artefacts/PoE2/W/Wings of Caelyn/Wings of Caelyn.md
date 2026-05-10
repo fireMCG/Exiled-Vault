@@ -15,5 +15,4 @@ The older brother rtetained calm in the midst of fury.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

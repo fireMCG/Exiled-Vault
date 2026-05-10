@@ -13,5 +13,4 @@ Travel to the Aspirants' Plaza and spend this item to open the Eternal Labyrinth
 ---
 # Tags
 #Category/Fragment
-#Fragment
 #PoE1

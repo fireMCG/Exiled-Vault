@@ -5,5 +5,5 @@ Recover 5% of maximum Mana when a Charm is used
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

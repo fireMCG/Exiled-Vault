@@ -14,5 +14,4 @@ Victory is as simple as being the last one standing.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

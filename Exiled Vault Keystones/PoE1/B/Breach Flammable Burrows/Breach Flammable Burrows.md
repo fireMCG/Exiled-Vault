@@ -6,5 +6,5 @@ Breach Hives in your Maps have 20% increased number of Flammable Burrows
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

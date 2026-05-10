@@ -13,5 +13,5 @@ Storm and Plant Spells:
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE2

@@ -18,5 +18,4 @@ Under clouds of black beset by crimson lightning, we sailed stormy seas of poiso
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

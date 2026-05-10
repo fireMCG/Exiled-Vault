@@ -26,5 +26,4 @@ for the true end follows when the great eye closes.
 #Concept/Body/Eye
 #Concept/Time/Ending
 #Concept/Cleansing
-#Artefact
 #PoE1

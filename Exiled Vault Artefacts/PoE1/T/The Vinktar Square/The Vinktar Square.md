@@ -26,5 +26,4 @@ it cannot be contained.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

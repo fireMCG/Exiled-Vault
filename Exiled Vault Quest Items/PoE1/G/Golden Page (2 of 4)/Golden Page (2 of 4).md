@@ -13,5 +13,4 @@ it wasn't God that the Vaal were trying to reach."
 #Concept/Communion
 #Category/QuestItem
 #Society/VaalEmpire
-#QuestItem
 #PoE1

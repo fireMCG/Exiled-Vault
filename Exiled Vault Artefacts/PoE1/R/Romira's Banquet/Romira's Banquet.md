@@ -20,5 +20,4 @@ A perfidious meal indeed.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

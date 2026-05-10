@@ -24,5 +24,4 @@ Progress cannot be eternal."
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

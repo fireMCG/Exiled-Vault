@@ -4,5 +4,5 @@ Recoup Effects instead occur over 4 seconds
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

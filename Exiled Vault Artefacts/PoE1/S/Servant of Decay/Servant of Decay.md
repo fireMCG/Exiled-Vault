@@ -19,5 +19,4 @@ nothing remained but the void.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

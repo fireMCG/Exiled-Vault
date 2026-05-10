@@ -26,5 +26,4 @@ And was born again
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

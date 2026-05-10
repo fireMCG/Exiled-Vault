@@ -20,5 +20,4 @@ One strike, one corpse.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

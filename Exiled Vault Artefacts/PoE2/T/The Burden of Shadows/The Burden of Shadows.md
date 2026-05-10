@@ -16,5 +16,4 @@ Every moment is a struggle to exist.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

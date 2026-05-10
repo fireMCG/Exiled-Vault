@@ -6,5 +6,4 @@ Scrape, till, toil, scream...
 #
 ---
 # Tags
-#QuestItem
 #PoE1

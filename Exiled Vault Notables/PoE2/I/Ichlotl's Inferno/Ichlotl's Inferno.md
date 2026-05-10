@@ -4,5 +4,5 @@ Every Rage also grants 1% increased Fire Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

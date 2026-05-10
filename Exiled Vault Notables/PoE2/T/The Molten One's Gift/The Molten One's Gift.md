@@ -6,5 +6,5 @@ Fully Broken Armour you inflict also increases Fire Damage Taken from Hits
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

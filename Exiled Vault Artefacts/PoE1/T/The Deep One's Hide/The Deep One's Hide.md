@@ -21,5 +21,4 @@ the greater the beast that hunts it.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

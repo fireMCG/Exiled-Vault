@@ -10,5 +10,5 @@ Your Maps are opened with 5 additional random Unallocated Notable Atlas Passives
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -7,5 +7,5 @@ Requires The Unseen Path
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

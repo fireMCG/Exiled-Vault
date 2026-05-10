@@ -17,5 +17,4 @@ Prototype #14 somehow kept him from dying."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

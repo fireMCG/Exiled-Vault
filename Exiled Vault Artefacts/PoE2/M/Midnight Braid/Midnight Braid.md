@@ -15,5 +15,4 @@ which persistence grows.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

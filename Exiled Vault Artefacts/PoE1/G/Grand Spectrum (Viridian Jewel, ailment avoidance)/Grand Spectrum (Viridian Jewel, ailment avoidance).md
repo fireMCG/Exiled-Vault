@@ -12,5 +12,4 @@ A mountain fortress safe from the storm.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

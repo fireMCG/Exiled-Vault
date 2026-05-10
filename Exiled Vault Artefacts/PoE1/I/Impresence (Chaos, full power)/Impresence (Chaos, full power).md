@@ -26,5 +26,4 @@ learning, and preparing.
 #Concept/Essence
 #Concept/Body/Flesh
 #Concept/Decay
-#Artefact
 #PoE1

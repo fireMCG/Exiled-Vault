@@ -22,5 +22,4 @@ But this'll soften them up.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

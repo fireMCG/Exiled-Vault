@@ -6,5 +6,5 @@ Hits against you have 20% reduced Critical Damage Bonus
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

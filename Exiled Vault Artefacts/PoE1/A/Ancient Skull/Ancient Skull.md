@@ -22,5 +22,4 @@ Primordial rage slumbers, waiting for the call of the stars to return and swallo
 #Concept/Primordial
 #Concept/Emotion/Rage
 #Concept/Space/Star
-#Artefact
 #PoE1

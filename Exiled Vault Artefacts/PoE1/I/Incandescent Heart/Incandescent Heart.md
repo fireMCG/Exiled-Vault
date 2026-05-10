@@ -21,5 +21,4 @@ And the black lies wrapped around your heart
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

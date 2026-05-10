@@ -21,5 +21,4 @@ Shift click to unstack.
 #Concept/Creation
 #Concept/Body/Eye
 #Category/Fragment
-#Fragment
 #PoE1

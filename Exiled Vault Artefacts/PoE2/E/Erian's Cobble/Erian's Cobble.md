@@ -29,5 +29,4 @@ equipment gets out of hand.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

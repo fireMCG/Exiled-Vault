@@ -20,5 +20,4 @@ The strong survive. The strongest thrive.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

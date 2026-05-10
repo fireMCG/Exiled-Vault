@@ -14,5 +14,4 @@ What you earn is almost as important as what you take.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

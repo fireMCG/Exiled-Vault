@@ -24,5 +24,4 @@ They wander, forever uncontrolled.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

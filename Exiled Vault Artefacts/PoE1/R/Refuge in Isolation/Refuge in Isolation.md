@@ -18,5 +18,4 @@ the pain of heartbreak might just destroy us.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

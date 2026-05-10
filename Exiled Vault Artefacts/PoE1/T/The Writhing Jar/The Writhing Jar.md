@@ -21,5 +21,4 @@ Mortality, compassion, even the sanctity of flesh.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

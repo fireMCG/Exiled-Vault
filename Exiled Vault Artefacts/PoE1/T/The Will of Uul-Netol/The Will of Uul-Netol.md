@@ -20,5 +20,4 @@ all meaning long since lost to dead-eyed lust.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

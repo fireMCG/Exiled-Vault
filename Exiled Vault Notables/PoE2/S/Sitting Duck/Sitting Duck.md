@@ -5,5 +5,5 @@ Your Hits cannot be Evaded by Pinned Enemies
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

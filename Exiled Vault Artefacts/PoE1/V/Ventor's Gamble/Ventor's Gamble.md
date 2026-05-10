@@ -20,5 +20,4 @@ And Ventor met his latest trophy.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

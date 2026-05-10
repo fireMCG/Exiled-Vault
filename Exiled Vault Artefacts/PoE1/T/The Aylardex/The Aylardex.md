@@ -19,5 +19,4 @@ Might within from force without.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

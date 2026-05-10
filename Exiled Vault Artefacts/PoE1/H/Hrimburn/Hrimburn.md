@@ -19,5 +19,4 @@ as wild as an unwatched flame.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

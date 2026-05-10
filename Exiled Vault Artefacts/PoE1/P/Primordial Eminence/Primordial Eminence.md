@@ -16,5 +16,4 @@ All turn to earth and sand."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -15,5 +15,4 @@ Place this item into the Idol inventory at a Map Device to affect Maps you open.
 #
 ---
 # Tags
-#Fragment
 #PoE1

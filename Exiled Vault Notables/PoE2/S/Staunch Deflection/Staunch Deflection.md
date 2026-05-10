@@ -5,5 +5,5 @@ Deflected Hits cannot inflict Bleeding on you
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -24,5 +24,4 @@ However, when a trained guard tried it..."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

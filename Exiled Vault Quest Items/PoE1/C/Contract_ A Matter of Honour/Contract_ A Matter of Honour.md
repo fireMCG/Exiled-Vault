@@ -8,5 +8,4 @@ They wielded the essence of gold and silver. The Spear is one of the two weapons
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

@@ -20,5 +20,4 @@ The faithful may continue to serve, even after death.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

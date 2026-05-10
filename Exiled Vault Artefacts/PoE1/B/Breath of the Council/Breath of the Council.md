@@ -20,5 +20,4 @@ Breathe deep, and give yourself over to eternity.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

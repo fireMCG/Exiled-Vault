@@ -12,5 +12,4 @@ Why waste the good stuff on something that's going to blow up?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

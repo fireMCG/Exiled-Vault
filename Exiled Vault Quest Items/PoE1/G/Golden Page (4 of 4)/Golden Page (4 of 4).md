@@ -15,5 +15,4 @@ Your Humanity will shame us all."
 #Category/QuestItem
 #Society/Karui
 #Society/VaalEmpire
-#QuestItem
 #PoE1

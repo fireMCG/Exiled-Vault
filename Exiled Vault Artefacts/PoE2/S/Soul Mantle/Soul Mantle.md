@@ -20,5 +20,4 @@ long after they have been made
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

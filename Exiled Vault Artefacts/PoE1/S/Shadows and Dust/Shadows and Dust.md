@@ -20,5 +20,4 @@ and death in the wind?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -6,5 +6,5 @@ Can Socket a non-Unique Basic Jewel into the Phylactery
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

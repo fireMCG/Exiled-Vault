@@ -5,5 +5,5 @@ Burning Enemies you kill have a 5% chance to Explode, dealing atenth of their ma
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

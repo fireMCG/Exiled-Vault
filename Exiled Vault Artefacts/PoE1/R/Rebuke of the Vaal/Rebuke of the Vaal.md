@@ -26,5 +26,4 @@ been suicide for any culture to rouse them to war.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

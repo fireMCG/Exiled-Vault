@@ -18,5 +18,4 @@ live with honour.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

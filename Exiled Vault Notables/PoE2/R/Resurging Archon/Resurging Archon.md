@@ -4,5 +4,5 @@ Archon recovery period expires 25% faster
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -17,5 +17,4 @@ Obedience stretches beyond the grave.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

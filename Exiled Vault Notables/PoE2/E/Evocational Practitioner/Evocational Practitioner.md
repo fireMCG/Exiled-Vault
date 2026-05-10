@@ -5,5 +5,5 @@ Meta Skills gain 25% increased Energy if you've dealt a Critical Hit Recently
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

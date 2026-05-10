@@ -22,5 +22,4 @@ The first shade is beautiful, but the last will drive the unwary insane.
 #Concept/Light
 #Concept/Madness
 #Concept/Time
-#Artefact
 #PoE1

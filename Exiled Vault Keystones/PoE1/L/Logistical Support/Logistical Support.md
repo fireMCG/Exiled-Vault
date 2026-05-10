@@ -7,5 +7,5 @@ Legion Monsters in your Maps gain 50% more Life for each additional Reward they 
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

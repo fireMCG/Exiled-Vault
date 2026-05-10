@@ -24,5 +24,4 @@ Solaris rose to meet her, feeling her pull.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

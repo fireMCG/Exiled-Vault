@@ -19,5 +19,4 @@
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE2

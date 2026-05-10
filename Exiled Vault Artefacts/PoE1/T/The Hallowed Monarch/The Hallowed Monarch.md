@@ -21,5 +21,4 @@ and sharing the glory of victory. This, you will never understand."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

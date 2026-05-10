@@ -21,5 +21,4 @@ I'm more free than I've ever been."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

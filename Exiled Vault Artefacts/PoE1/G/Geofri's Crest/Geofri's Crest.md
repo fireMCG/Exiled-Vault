@@ -19,5 +19,4 @@ Not so, the battle for survival.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

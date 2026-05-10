@@ -5,5 +5,5 @@ Enemies you Fully Armour Break are Maimed
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

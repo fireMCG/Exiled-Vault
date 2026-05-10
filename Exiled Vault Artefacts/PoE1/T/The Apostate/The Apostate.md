@@ -16,5 +16,4 @@ became thick white blood, as choking as it was nourishing.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

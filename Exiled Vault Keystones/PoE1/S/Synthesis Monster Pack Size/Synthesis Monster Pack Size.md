@@ -6,5 +6,5 @@ Synthesised Monsters in Synthesis Maps have 4% increased Pack Size
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

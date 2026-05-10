@@ -24,5 +24,4 @@ the aurora evokes both awe and power.
 #Concept/Element/Ice
 #Concept/Power
 #Concept/Sky
-#Artefact
 #PoE1

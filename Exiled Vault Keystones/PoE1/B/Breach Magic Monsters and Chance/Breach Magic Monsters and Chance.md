@@ -8,5 +8,5 @@ Scarabs dropped in your Maps have 4% increased chance to be Breach Scarabs
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

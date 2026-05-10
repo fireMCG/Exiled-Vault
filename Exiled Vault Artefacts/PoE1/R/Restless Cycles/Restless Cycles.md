@@ -14,5 +14,4 @@ Seasons of birth and decay that seemed untethered to cause."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

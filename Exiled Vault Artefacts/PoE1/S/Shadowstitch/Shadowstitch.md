@@ -24,5 +24,4 @@ Destined for sacrifice, they were dressed in garments that blurred the lines bet
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

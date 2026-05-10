@@ -28,5 +28,4 @@ A terror to his foes."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

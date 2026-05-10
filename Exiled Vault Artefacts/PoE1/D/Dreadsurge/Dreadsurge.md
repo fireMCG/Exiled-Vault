@@ -23,5 +23,4 @@ Set a man on fire, and his heart will skip all beats.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

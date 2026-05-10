@@ -17,5 +17,4 @@ The power of lightning is a power best shared.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -11,5 +11,5 @@ Gain no inherent bonus from Intelligence
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE2

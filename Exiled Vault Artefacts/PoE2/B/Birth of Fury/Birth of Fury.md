@@ -16,5 +16,4 @@ so too shall your enemies fear you.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

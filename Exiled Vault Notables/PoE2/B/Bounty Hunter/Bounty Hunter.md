@@ -6,5 +6,5 @@ Recover 1% of maximum Mana on Kill
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -5,5 +5,5 @@ Minions have 25% increased Evasion Rating
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

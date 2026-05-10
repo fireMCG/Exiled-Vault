@@ -24,5 +24,4 @@ some will go up, some down, filled with misery.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

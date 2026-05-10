@@ -25,5 +25,4 @@ the sky was clear, but it was raining.
 #Concept/Silence
 #Concept/Sky
 #Concept/Water/Rain
-#Artefact
 #PoE2

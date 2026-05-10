@@ -17,5 +17,4 @@ For none of us are as cruel as all of us.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

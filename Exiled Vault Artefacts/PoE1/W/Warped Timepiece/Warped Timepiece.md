@@ -19,5 +19,4 @@ forever makes me the public enemy.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

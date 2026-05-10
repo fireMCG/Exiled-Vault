@@ -5,5 +5,5 @@ Targets can be affected by +1 of your Poisons at the same time
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

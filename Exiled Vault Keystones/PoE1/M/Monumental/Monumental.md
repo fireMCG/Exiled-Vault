@@ -7,5 +7,5 @@ Scarabs dropped in your Maps have 16% increased chance to be Legion Scarabs
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

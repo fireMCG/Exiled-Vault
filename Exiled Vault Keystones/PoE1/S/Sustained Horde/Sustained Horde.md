@@ -6,5 +6,5 @@ Abysses in your Maps that do not lead to an Abyssal Depths lead to at least 3 Pi
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

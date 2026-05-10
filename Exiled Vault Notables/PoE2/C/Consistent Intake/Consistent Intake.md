@@ -5,5 +5,5 @@ Cannot be Critically Hit while Parrying
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

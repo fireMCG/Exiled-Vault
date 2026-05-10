@@ -24,5 +24,4 @@ one that could safely hold the first unearthed virtue gem.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

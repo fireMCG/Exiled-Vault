@@ -14,5 +14,4 @@ Open a portal to the Mastermind's Lair by using this item in a personal Map Devi
 ---
 # Tags
 #Category/Fragment
-#Fragment
 #PoE1

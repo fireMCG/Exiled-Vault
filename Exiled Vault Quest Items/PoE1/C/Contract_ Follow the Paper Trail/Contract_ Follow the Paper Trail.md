@@ -8,5 +8,4 @@ It's time we find who is leading them.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

@@ -22,5 +22,4 @@ but as a divine saviour trapped in a man's body.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

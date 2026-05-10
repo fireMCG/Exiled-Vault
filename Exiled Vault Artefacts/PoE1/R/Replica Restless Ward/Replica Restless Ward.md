@@ -21,5 +21,4 @@ There is power here, if it can be tapped."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -23,5 +23,4 @@ Some had once been her family.
 #Concept/Golem
 #Society/Primeval
 #Attributes/Timeline
-#Artefact
 #PoE1

@@ -17,5 +17,4 @@ Great works take time.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

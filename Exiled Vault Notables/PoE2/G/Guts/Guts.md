@@ -5,5 +5,5 @@ Recover 3% of maximum Life for each Endurance Charge consumed
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

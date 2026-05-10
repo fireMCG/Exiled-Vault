@@ -22,5 +22,4 @@ of sundered, severed, missing things.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

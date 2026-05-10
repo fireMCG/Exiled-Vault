@@ -5,5 +5,5 @@ Remove a Curse after Channelling for 2 seconds
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

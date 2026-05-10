@@ -13,5 +13,4 @@ Only a madman would ignore a god's instructions.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

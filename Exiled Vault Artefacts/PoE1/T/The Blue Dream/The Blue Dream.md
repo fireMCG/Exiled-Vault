@@ -16,5 +16,4 @@ and fall like rain into the place we cannot go.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

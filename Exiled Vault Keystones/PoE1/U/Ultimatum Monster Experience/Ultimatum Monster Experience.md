@@ -6,5 +6,5 @@ Ultimatum Monsters in your Maps grant 10% increased Experience
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

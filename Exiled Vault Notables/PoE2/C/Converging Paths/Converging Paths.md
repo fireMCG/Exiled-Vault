@@ -4,5 +4,5 @@ Grants Skill: Moment of Vulnerability
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

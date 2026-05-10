@@ -10,5 +10,4 @@ be turned off through Atlas Passives
 #
 ---
 # Tags
-#Fragment
 #PoE1

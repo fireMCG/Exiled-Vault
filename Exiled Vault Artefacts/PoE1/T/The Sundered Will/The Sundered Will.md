@@ -21,5 +21,4 @@ continuing to dream, and know not why.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

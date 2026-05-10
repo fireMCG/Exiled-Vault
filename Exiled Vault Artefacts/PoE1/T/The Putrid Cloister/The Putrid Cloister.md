@@ -21,5 +21,4 @@ Class is now in session.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

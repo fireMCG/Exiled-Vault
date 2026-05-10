@@ -20,5 +20,4 @@ but neither knows the other exists...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

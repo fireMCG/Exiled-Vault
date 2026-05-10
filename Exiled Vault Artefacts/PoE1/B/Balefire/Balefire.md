@@ -28,5 +28,4 @@ was a memory of that which was gone, a whisper of deeds undone.
 #Concept/Memory
 #Concept/Sky
 #Concept/Whisper
-#Artefact
 #PoE1

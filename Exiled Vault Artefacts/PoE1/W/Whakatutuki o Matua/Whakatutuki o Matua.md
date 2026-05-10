@@ -22,5 +22,4 @@ As you guided me, now I guide others.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

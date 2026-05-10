@@ -5,5 +5,5 @@ Lose all Tailwind when Hit
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

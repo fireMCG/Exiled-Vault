@@ -17,5 +17,4 @@ to the slaying of Phaaryl's Eternal oppressors.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

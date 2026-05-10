@@ -7,5 +7,4 @@ reason alone... to perpetuate itself.
 #
 ---
 # Tags
-#QuestItem
 #PoE1

@@ -4,5 +4,5 @@ Projectiles Pierce enemies with Fully Broken Armour
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

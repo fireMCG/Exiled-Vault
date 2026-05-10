@@ -12,5 +12,4 @@ A spirit that never rests.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -18,5 +18,4 @@ Death only brings you closer.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

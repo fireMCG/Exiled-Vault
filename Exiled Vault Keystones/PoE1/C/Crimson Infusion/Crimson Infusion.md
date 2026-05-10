@@ -7,5 +7,5 @@ Crimson Iron Ore Deposits in your Maps are guarded by 2 additional Corrupted Gro
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

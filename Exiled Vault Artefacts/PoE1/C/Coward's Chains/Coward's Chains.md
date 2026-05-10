@@ -17,5 +17,4 @@ the Empire will have your blood.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

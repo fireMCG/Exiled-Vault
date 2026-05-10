@@ -24,5 +24,4 @@ life passes quickly.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -9,5 +9,4 @@ Gold of the organ. Green of the throat. Red of the vein.
 #Concept/Body/Flesh
 #Concept/Colour/Gold
 #Category/QuestItem
-#QuestItem
 #PoE1

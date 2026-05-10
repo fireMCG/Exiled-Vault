@@ -17,5 +17,4 @@ grinned. In that moment, the bandit king knew true despair.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

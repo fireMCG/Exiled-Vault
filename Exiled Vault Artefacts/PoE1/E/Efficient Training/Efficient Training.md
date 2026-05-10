@@ -14,5 +14,4 @@ Working smart and working hard aren't mutually exclusive.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -19,5 +19,4 @@ before he learns it is not fish that he seeks.
 # Tags
 #Category/Artefact
 #Concept/Animal/Fish
-#Artefact
 #PoE1

@@ -4,5 +4,5 @@ Bolts fired by Crossbow Attacks have 30% chance to notexpend Ammunition if you'v
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

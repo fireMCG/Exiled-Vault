@@ -11,5 +11,4 @@ Your only consolation prize is your life.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -17,5 +17,4 @@ We are ever the makers of our own undoing.
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

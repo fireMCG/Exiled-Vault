@@ -19,5 +19,4 @@ Grind your thoughts into the sharpest of deeds."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

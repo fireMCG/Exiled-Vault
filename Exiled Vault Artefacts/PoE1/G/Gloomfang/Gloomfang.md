@@ -17,5 +17,4 @@ Darkness never stops feeding.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

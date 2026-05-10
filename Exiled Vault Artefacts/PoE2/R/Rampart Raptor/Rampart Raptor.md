@@ -22,5 +22,4 @@
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

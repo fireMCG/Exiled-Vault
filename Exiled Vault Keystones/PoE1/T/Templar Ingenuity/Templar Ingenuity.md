@@ -8,5 +8,5 @@ Salvaged Rewards are improved for each different Tower Type built during Encount
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

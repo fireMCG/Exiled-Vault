@@ -14,5 +14,4 @@ It's hard to stay still when you're engulfed in flames.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

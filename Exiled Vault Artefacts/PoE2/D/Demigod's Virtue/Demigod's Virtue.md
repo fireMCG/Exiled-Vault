@@ -12,5 +12,4 @@ are proven inherently right and true.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

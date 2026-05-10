@@ -21,5 +21,4 @@ wailing, weeping, begging for unity. Now, they heed.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

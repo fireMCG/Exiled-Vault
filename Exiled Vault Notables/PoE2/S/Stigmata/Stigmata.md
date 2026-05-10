@@ -5,5 +5,5 @@ Recover 3% of maximum Life when you create an Offering
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

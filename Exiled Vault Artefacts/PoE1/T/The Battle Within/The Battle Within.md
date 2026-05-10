@@ -17,5 +17,4 @@ The struggle for balance never ends.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

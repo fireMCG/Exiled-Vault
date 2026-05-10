@@ -4,5 +4,5 @@ Attacks using your Weapons have Added Physical Damage equalto 25% of the Accurac
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -5,5 +5,5 @@ Allies in your Presence have 30% increased Glory generation
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -25,5 +25,4 @@ the master must achieve perfect balance.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

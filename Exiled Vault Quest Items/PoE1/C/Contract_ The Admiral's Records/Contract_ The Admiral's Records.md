@@ -8,5 +8,4 @@ I am certain he will have recorded his misdeeds.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

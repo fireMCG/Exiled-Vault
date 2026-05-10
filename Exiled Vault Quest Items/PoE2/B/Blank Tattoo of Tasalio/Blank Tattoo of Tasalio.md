@@ -8,5 +8,4 @@ What is written in water is never truly lost.
 # Tags
 #Category/QuestItem
 #Society/Karui/Tribe/Tasalio
-#QuestItem
 #PoE2

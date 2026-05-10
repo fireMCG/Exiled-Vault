@@ -22,5 +22,4 @@ Be not stirred by the Void.
 #Character/ValdoCaeserius
 #Concept/Void
 #Concept/Decay
-#Artefact
 #PoE1

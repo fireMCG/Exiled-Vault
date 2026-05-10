@@ -16,5 +16,4 @@ after their creators had been buried deep beneath the earth.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

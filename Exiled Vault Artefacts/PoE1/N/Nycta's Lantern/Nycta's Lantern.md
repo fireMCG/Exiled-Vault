@@ -23,5 +23,4 @@ and so did hers.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

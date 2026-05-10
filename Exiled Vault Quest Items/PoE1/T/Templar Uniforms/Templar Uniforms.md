@@ -10,5 +10,4 @@ And check for stains! Knew a few people who'd use them for-...
 # Tags
 #Category/QuestItem
 #Society/TemplarOrder
-#QuestItem
 #PoE1

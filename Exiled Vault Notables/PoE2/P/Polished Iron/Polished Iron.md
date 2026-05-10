@@ -5,5 +5,5 @@ Gain additional Stun Threshold equal to 30% of Item Armour on Equipped Armour It
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

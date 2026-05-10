@@ -19,5 +19,4 @@ Only they may grace His flesh.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

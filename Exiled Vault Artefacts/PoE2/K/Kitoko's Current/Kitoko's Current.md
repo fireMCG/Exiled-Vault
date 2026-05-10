@@ -15,5 +15,4 @@ Reality is a puzzle. Ingenuity is power.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

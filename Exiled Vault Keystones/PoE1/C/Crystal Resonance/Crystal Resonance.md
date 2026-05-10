@@ -7,5 +7,5 @@ Using a Vaal Orb on Imprisoned Monsters in your Maps replaces all Essences with 
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

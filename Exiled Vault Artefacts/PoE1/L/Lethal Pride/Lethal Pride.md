@@ -15,5 +15,4 @@ They believed themselves the greatest warriors, but that savagery turned upon th
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

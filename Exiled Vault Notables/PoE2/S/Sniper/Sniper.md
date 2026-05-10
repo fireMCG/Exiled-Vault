@@ -4,5 +4,5 @@ Arrows gain Critical Hit Chance as they travel farther, up to40% increased Criti
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

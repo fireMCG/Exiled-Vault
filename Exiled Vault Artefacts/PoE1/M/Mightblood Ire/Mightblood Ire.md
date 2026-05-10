@@ -18,5 +18,4 @@ ready to erupt at any provocation.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

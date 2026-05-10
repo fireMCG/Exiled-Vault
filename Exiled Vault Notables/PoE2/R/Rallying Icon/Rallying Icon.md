@@ -4,5 +4,5 @@ When a Banner expires, recover 15% of the Glory required for that Banner
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -24,5 +24,4 @@ fused to her hand by her last mistake.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

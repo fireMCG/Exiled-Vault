@@ -25,5 +25,4 @@ Artist and Composer, their fates entwined for all of time."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

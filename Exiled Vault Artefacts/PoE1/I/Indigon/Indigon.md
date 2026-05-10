@@ -18,5 +18,4 @@ the mind's limits end.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

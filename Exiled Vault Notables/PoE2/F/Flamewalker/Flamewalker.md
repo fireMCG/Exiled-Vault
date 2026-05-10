@@ -5,5 +5,5 @@ Gain 15% of Damage as Extra Fire Damage while on Ignited Ground
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

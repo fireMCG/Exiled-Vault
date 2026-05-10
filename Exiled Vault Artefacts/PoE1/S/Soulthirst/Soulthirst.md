@@ -21,5 +21,4 @@ I have found this to be true on all counts."
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

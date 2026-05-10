@@ -14,5 +14,4 @@ in knowing the answer: all of them.
 #Category/Artefact
 #Concept/Balance/Chaos
 #Concept/Fate
-#Artefact
 #PoE1

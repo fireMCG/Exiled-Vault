@@ -23,5 +23,4 @@ and to receive everything in return."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

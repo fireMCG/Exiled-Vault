@@ -6,5 +6,5 @@ Skills have 20% increased Critical Hit Chance per Connected Blue Support Gem
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

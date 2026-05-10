@@ -24,5 +24,4 @@ and another becomes the tallest."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

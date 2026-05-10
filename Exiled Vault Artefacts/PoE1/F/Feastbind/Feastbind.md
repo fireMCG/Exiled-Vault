@@ -18,5 +18,4 @@ So the First Ones filled the sky with fire.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

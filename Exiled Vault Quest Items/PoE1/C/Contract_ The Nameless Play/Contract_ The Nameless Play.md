@@ -8,5 +8,4 @@ but that other than that, it is very good.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

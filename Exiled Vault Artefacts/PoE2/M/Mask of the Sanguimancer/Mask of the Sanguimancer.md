@@ -19,5 +19,4 @@ remains lost... but his power does not.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

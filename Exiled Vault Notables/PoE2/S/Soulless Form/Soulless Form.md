@@ -6,5 +6,5 @@ Regenerate Mana equal to 6% of maximum Life per second
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -11,5 +11,4 @@ That is what we're dealing with.
 #Character/Hapihapi
 #Category/QuestItem
 #Society/Karui
-#QuestItem
 #PoE1

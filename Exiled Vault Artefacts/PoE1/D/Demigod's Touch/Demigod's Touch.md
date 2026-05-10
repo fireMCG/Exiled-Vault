@@ -14,5 +14,4 @@ Victory is at hand.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

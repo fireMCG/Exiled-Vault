@@ -20,5 +20,4 @@ then rose into the living sky. My family screams alongside me still."
 #Concept/Body/Flesh
 #Concept/Sky
 #Concept/Tangle
-#Artefact
 #PoE1

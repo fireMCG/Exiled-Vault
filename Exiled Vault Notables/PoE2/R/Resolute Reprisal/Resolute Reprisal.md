@@ -5,5 +5,5 @@ Your Heavy Stun buildup empties 50% faster if you've successfully Parried Recent
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

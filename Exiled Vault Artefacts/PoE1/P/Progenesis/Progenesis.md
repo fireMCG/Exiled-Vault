@@ -24,5 +24,4 @@ they fought to the death for every last drop.
 #Concept/Creation
 #Concept/Death
 #Concept/Family/Mother
-#Artefact
 #PoE1

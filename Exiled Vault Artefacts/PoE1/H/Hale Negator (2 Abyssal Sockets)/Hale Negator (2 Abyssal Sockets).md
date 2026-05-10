@@ -19,5 +19,4 @@ Feel the doom of dying souls."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

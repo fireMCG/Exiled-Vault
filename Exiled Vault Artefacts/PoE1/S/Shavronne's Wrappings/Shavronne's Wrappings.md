@@ -19,5 +19,4 @@ as her body and soul became ever more corrupted.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

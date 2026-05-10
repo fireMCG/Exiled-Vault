@@ -4,5 +4,5 @@ Your speed is unaffected by Slows
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -23,5 +23,4 @@ Though countless corpses lie in wake.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

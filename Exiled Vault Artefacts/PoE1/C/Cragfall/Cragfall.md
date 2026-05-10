@@ -16,5 +16,4 @@ The largest rock leaves the deepest mark.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

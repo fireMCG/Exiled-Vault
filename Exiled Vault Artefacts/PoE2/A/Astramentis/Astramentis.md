@@ -16,5 +16,4 @@ And into darkness send it.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

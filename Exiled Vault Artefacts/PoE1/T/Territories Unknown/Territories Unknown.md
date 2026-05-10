@@ -12,5 +12,4 @@ There exists in every man and woman a desire to push boundaries, to break new gr
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

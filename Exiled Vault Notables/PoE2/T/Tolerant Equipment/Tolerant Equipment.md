@@ -5,5 +5,5 @@ Immune to Poison if Equipped Helmet has higher Evasion Rating than Armour
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

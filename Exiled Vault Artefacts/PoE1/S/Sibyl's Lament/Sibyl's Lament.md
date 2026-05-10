@@ -19,5 +19,4 @@ a pain that she could never see.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

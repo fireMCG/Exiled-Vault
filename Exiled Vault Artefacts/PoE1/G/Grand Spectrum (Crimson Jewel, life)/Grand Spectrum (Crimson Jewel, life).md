@@ -12,5 +12,4 @@ A wellspring of vitality bubbling from within.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

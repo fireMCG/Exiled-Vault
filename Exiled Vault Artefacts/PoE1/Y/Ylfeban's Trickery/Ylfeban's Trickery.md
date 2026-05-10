@@ -18,5 +18,4 @@ with an unpredictable sense of humour.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

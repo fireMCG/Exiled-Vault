@@ -25,5 +25,4 @@ at turning life into ash.
 #Concept/Ash
 #Concept/King
 #Concept/War
-#Artefact
 #PoE1

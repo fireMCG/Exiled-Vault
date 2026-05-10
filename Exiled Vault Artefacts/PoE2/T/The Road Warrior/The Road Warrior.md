@@ -18,5 +18,4 @@ one rule: never let them see you flinch.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

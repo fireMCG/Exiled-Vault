@@ -22,5 +22,4 @@ The idea, and our ideals, take root.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

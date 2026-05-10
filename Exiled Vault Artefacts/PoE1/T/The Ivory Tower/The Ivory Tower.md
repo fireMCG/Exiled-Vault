@@ -18,5 +18,4 @@ The mind is a filter through which anarchy becomes order.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

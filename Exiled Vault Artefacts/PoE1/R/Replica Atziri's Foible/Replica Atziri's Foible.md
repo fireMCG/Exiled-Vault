@@ -16,5 +16,4 @@ the type Delta test subject actually survived the entire testing regimen."
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

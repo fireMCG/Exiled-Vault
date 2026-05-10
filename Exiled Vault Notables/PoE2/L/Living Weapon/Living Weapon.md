@@ -4,5 +4,5 @@ Grants Skill: Manifest Weapon
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

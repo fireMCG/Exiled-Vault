@@ -19,5 +19,4 @@ that lay dormant deep beneath the earth.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

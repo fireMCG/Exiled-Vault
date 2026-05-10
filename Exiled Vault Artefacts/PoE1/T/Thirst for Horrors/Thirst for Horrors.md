@@ -23,5 +23,4 @@ What goes out must come in.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

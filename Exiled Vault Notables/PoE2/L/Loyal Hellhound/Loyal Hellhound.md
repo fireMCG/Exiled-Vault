@@ -5,5 +5,5 @@ number of infernal familiars allowed [1]
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

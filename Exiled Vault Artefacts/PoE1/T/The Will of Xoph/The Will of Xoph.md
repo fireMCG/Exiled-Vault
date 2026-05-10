@@ -20,5 +20,4 @@ as spiraling oblivion deepens into flame.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

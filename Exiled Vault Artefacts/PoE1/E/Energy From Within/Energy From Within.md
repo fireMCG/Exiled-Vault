@@ -15,5 +15,4 @@ of going without the body's ordinary cravings.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

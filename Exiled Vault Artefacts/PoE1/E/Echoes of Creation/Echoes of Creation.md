@@ -23,5 +23,4 @@ Inflicting pain beyond measure
 #Character/ValdoCaeserius
 #Concept/Creation
 #Concept/Time
-#Artefact
 #PoE1

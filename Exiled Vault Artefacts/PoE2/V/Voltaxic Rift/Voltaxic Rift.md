@@ -26,5 +26,4 @@ arcane power. There was no escape, no shelter. Only despair.
 #Concept/Body/Flesh
 #Concept/Element/Lightning
 #Concept/Storm
-#Artefact
 #PoE2

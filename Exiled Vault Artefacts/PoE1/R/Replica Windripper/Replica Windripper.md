@@ -25,5 +25,4 @@ an odour of evil. Nothing can shield the senses."
 # Tags
 #Category/Artefact
 #Character/Arn
-#Artefact
 #PoE1

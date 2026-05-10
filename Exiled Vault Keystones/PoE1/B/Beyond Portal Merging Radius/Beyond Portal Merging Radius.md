@@ -7,5 +7,5 @@ Beyond Portals in your Maps have 8% increased Merging Radius
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -6,5 +6,5 @@ Your Maps that contain capturable Beasts contain 1 additional Yellow Beast
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

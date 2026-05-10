@@ -18,5 +18,4 @@ For it is these that set us apart.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

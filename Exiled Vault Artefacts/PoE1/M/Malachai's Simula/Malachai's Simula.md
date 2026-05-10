@@ -17,5 +17,4 @@ that animated the first Eternal Guardian.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -18,5 +18,4 @@ The reason, remembered.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -22,5 +22,4 @@ to stop the experiment... but you know how I am with screams."
 #Character/Olesya
 #Character/Hyrri
 #Concept/Storm
-#Artefact
 #PoE1

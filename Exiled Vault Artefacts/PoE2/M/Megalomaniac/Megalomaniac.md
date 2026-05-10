@@ -14,5 +14,4 @@ than everyone else, make sure you are.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

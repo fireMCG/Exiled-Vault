@@ -17,5 +17,4 @@ To catch an animal, think like an animal.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

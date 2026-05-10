@@ -20,5 +20,4 @@ It makes us immortal.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

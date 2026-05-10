@@ -23,5 +23,4 @@ Master yourself before you seek to master others.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

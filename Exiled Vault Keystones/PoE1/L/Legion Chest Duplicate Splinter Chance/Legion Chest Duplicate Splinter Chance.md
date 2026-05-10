@@ -6,5 +6,5 @@ Splinters contained in Legion Chests in your Maps have 10% chance to be Duplicat
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

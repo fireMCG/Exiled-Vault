@@ -9,5 +9,4 @@ say anything to make the pain stop, and that's the point. Guilt is irrelevant.
 # Tags
 #Concept/Torture
 #Category/QuestItem
-#QuestItem
 #PoE1

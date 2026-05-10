@@ -6,5 +6,5 @@ Stygian Spires in your Maps drop Items with +1 to Item Level
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

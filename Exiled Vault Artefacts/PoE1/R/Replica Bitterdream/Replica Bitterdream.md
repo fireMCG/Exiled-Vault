@@ -23,5 +23,4 @@ Convinced this assignment is retribution from my superior..."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

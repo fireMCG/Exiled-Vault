@@ -13,5 +13,4 @@ Open portals to the Moment of Trauma to face the Incarnation of Fear by using th
 ---
 # Tags
 #Category/Fragment
-#Fragment
 #PoE1

@@ -15,5 +15,4 @@ before the battle has begun.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

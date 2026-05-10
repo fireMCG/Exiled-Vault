@@ -19,5 +19,4 @@ for those that have the will, and the way!"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -8,5 +8,4 @@ Scarabs dropped in your Maps have 20% increased chance to be Incursion Scarabs
 #
 ---
 # Tags
-#Fragment
 #PoE1

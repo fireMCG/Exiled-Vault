@@ -21,5 +21,4 @@ Horrific experiments with corrupted flesh require careful management.
 # Tags
 #Category/Artefact
 #Character/Qotra
-#Artefact
 #PoE1

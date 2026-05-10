@@ -26,5 +26,4 @@ There can be no defence against the celestial siblings entropy and time.
 #Concept/Time/Eternity
 #Concept/Time
 #Concept/Decay
-#Artefact
 #PoE1

@@ -26,5 +26,4 @@ Yet the fates of others dragged in their wake.
 #Concept/Fate
 #Concept/Wind
 #Concept/Wing
-#Artefact
 #PoE1

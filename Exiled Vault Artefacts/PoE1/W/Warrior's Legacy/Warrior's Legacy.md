@@ -16,5 +16,4 @@ Make your mark on history
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

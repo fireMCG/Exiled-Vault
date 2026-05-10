@@ -22,5 +22,4 @@ For rout of foe, for turn of tide.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

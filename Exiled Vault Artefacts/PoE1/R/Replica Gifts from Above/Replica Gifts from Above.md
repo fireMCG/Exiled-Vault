@@ -17,5 +17,4 @@ now... but we must keep our true goal secret."
 #
 ---
 # Tags
-#Artefact
 #PoE1

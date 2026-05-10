@@ -17,5 +17,4 @@ unknown and snarled to the very last.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

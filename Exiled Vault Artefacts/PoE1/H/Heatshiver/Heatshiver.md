@@ -19,5 +19,4 @@ You will be repaid.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

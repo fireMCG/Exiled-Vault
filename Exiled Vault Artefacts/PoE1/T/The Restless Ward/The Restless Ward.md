@@ -22,5 +22,4 @@ One lapse and all for naught.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

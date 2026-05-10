@@ -7,5 +7,4 @@ Scarabs found in your Maps are more likely to be less common varieties
 #
 ---
 # Tags
-#Fragment
 #PoE1

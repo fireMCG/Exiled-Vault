@@ -18,5 +18,4 @@ and my grip grows tighter by the day."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

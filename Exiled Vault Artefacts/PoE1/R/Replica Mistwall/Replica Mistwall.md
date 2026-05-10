@@ -22,5 +22,4 @@
 # Tags
 #Category/Artefact
 #Character/Ksaret
-#Artefact
 #PoE1

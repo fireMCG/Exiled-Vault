@@ -8,5 +8,5 @@ in your Maps has 50% chance to be Lucky
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

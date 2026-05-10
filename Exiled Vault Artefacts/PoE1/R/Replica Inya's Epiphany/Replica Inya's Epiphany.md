@@ -20,5 +20,4 @@ and improved ability to micromanage us, I'm not so sure."
 #Category/Artefact
 #Character/Graven
 #Character/Qotra
-#Artefact
 #PoE1

@@ -16,5 +16,4 @@ We are incapable of change without sacrifice, for we are both the iron and the f
 # Tags
 #Category/Artefact
 #Society/VaalEmpire
-#Artefact
 #PoE1

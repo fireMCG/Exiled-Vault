@@ -15,5 +15,4 @@ stratosphere divulged unto her eldritch secrets of its tumultuous past.
 #Concept/Sky
 #Category/QuestItem
 #Society/Maraketh
-#QuestItem
 #PoE1

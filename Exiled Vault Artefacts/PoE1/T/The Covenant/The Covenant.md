@@ -18,5 +18,4 @@ My Price is your Blood
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

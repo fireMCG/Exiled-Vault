@@ -19,5 +19,4 @@ in darkness we are bound.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

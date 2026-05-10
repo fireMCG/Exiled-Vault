@@ -20,5 +20,4 @@ Come, let me show you.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

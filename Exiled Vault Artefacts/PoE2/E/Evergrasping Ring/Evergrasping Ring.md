@@ -15,5 +15,4 @@ Death comes to those who reach
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

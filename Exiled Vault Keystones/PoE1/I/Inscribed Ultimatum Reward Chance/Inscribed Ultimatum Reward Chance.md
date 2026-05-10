@@ -6,5 +6,5 @@ Ultimatum Rewards in your Maps have 10% increased chance to be Inscribed Ultimat
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

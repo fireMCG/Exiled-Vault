@@ -9,5 +9,4 @@
 #Character/Draven
 #Category/QuestItem
 #Society/EternalEmpire
-#QuestItem
 #PoE2

@@ -5,5 +5,5 @@ Empowered Attacks deal 30% increased Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

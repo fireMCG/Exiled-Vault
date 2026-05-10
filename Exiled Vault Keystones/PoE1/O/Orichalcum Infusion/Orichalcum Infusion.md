@@ -7,5 +7,5 @@ Buffs granted by Orichalcum Ore Deposits in your Maps have 100% increased Durati
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -8,5 +8,4 @@ Nature has given them the means to acquire a new dwelling.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE2

@@ -6,5 +6,5 @@ Delirium Reward Types in your Maps gain +1 to count on Map Completion
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

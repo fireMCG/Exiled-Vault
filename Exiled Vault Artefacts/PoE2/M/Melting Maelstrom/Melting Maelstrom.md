@@ -17,5 +17,4 @@ What is life, but a dreamlike spiral of panic?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -5,5 +5,5 @@ Regenerate 1.5% of maximum Life per second while on Low Life
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

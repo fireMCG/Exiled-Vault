@@ -15,5 +15,4 @@ Stands long after all else falls.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

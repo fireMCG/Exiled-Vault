@@ -19,5 +19,4 @@ Upon the frozen wasteland.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

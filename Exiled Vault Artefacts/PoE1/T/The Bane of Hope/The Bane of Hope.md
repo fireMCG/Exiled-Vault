@@ -22,5 +22,4 @@ is a mistake, and we will show you its folly."
 #
 ---
 # Tags
-#Artefact
 #PoE1

@@ -31,5 +31,4 @@ between creator and destroyer.
 #Character/ValdoCaeserius
 #Concept/Creation
 #Concept/Decay
-#Artefact
 #PoE1

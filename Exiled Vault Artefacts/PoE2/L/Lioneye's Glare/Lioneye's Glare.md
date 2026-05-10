@@ -23,5 +23,4 @@ Let us see which is stronger... Karui savagery or the might of the Empire!"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

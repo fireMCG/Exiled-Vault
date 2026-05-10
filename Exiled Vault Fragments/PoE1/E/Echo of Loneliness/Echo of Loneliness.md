@@ -13,5 +13,4 @@ Open portals to the Moment of Loneliness to face the Incarnation of Neglect by u
 ---
 # Tags
 #Category/Fragment
-#Fragment
 #PoE1

@@ -10,5 +10,4 @@ Weep not for me. This punishment is my own doing.
 #Concept/Barya
 #Category/QuestItem
 #Society/Maraketh
-#QuestItem
 #PoE2

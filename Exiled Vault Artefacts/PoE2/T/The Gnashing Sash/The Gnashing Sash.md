@@ -18,5 +18,4 @@ It will consume all that lives, and more!"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

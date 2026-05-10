@@ -12,5 +12,4 @@ Fists that strike like a falling tree.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

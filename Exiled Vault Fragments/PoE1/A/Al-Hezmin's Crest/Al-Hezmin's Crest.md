@@ -20,5 +20,4 @@ Shift click to unstack.
 #Character/Conqueror/Al-Hezmin
 #Concept/Family
 #Category/Fragment
-#Fragment
 #PoE1

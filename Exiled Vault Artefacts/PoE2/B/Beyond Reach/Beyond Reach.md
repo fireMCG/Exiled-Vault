@@ -17,5 +17,4 @@ that protects us from ourselves.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

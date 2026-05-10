@@ -20,5 +20,4 @@ Let the pain push outwards and turn away your enemy's blows.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

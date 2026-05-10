@@ -6,5 +6,5 @@ Expeditions in your Maps have 90% increased chance to be led by Gwennen
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

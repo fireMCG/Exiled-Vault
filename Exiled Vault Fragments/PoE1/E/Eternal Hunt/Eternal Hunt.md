@@ -8,5 +8,4 @@ Scarabs dropped in your Maps have 20% increased chance to be Bestiary Scarabs
 #
 ---
 # Tags
-#Fragment
 #PoE1

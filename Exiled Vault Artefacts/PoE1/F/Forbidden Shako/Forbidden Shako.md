@@ -15,5 +15,4 @@ The Azmeri must never touch the Tears of Maji, lest Viridi weep.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

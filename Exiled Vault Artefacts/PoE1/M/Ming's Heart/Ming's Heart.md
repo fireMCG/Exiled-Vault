@@ -18,5 +18,4 @@ He placed his Heart
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

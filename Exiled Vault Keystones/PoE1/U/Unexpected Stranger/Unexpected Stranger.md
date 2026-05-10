@@ -6,5 +6,5 @@ Your Maps are inhabited by an additional Rogue Exile
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

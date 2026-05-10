@@ -18,5 +18,4 @@ the living fear to tread.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

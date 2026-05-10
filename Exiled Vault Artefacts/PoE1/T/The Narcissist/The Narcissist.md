@@ -22,5 +22,4 @@ striving invariably for improvement.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

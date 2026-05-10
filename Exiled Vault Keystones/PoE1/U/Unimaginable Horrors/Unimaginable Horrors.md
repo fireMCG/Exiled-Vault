@@ -8,5 +8,5 @@ Vaal Side Areas in your Maps have 25% chance for Rewards from Vaal Vessels to be
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

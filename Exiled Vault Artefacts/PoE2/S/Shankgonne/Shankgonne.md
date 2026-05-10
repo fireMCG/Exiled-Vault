@@ -22,5 +22,4 @@ meself, if it weren't for that damn leg of his... crafty shite..."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

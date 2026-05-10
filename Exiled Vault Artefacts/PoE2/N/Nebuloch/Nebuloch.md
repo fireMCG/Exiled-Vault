@@ -27,5 +27,4 @@ But time would not touch the fiend.
 #Concept/Prison
 #Concept/Time
 #Concept/Decay
-#Artefact
 #PoE2

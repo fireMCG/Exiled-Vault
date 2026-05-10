@@ -8,5 +8,5 @@ Rogue Exiles in your Maps have 100% more Life
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

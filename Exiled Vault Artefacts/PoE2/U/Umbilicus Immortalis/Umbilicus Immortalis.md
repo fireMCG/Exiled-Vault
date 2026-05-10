@@ -23,5 +23,4 @@
 #Concept/Life/Immortality
 #Concept/Rebirth
 #Concept/Power
-#Artefact
 #PoE2

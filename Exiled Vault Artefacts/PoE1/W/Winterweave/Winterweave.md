@@ -17,5 +17,4 @@ Fury fuels defiance.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

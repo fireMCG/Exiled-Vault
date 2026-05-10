@@ -4,5 +4,5 @@ Enemies Ignited by you permanently take 1% increased Fire Damage for each second
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

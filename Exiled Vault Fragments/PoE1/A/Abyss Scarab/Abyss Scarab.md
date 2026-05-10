@@ -18,5 +18,4 @@ Shift click to unstack.
 #Concept/Soul
 #League/Abyss
 #Category/Scarab
-#Fragment
 #PoE1

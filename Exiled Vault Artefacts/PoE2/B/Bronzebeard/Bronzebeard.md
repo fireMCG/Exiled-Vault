@@ -18,5 +18,4 @@ Heavy is the head.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

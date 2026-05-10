@@ -21,5 +21,4 @@ Life... or something like it, engineered in its image.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

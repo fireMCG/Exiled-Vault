@@ -18,5 +18,4 @@ had more debtors than anyone.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

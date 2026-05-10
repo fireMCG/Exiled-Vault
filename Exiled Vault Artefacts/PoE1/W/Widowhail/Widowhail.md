@@ -17,5 +17,4 @@ healing, no revenge. There was only... emptiness."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

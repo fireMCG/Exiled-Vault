@@ -14,5 +14,4 @@ you can't help but treat it better.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -5,5 +5,5 @@ Companions have +30% to all Elemental Resistances
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

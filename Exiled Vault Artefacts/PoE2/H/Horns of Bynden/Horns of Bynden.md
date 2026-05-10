@@ -15,5 +15,4 @@ The Younger Brother waded into Battle, shrugging off Blows.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

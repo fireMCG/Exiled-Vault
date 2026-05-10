@@ -20,5 +20,4 @@ In order to receive, one must give... without hesitation.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

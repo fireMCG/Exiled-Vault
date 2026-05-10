@@ -17,5 +17,4 @@ Shift click to unstack.
 # Tags
 #Category/Fragment
 #Attributes/Historical
-#Fragment
 #PoE1

@@ -15,5 +15,4 @@ his thoughts remained in the one place he called his own: The Grand Arena.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

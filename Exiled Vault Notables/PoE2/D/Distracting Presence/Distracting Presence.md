@@ -5,5 +5,5 @@ Enemies in your Presence have 10% reduced Cooldown Recovery Rate
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -4,5 +4,5 @@ Invocated Spells have 30% increased Critical Hit Chance
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -17,5 +17,4 @@ To its beat we are all driven.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

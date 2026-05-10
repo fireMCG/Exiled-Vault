@@ -34,5 +34,4 @@ I ask, why should we fear the fire when we serve the Lord of Light?"
 #Concept/Light
 #Concept/Newcomers
 #Concept/Cleansing
-#Artefact
 #PoE1

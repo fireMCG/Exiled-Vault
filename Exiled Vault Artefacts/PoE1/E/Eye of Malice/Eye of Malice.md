@@ -20,5 +20,4 @@ Through vision coloured by burning rage and icy hate peers a visitor from a real
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

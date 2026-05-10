@@ -4,5 +4,5 @@ Gain 10% of Damage as Extra Physical Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

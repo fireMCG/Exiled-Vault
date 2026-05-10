@@ -5,5 +5,5 @@ Successfully Parrying a Projectile Hit grants 40% increased Damage to your next 
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

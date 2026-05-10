@@ -16,5 +16,4 @@ See creation as it was, aflame and frantic.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

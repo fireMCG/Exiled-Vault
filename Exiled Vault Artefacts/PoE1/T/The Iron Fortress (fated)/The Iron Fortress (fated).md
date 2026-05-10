@@ -21,5 +21,4 @@ The Council cannot afford to falter."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

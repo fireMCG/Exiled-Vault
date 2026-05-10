@@ -16,5 +16,4 @@ A fell wind brings death.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

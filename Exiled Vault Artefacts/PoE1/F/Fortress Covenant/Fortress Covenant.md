@@ -19,5 +19,4 @@ Command power beyond your potential.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

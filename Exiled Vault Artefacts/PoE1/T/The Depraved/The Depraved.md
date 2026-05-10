@@ -20,5 +20,4 @@ Even after she harvested their tongues, they were still able to scream.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

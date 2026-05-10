@@ -17,5 +17,4 @@ And will change the world through me.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

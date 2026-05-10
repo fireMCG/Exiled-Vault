@@ -20,5 +20,4 @@ Shift click to unstack.
 # Tags
 #League/Blight
 #Category/Scarab
-#Fragment
 #PoE1

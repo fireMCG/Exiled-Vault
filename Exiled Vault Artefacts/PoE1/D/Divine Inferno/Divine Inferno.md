@@ -17,5 +17,4 @@ but using it had cost him absolutely everything.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

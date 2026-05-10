@@ -15,5 +15,4 @@ For the ambitious, flesh is a limitation.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

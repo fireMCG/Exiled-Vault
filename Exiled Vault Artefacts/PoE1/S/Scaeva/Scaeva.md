@@ -27,5 +27,4 @@ A spell only broken by the spilling of blood.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

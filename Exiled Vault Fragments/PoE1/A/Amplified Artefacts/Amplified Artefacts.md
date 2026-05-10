@@ -7,5 +7,4 @@ Rare Monsters in your Maps have 50% increased chance to drop Scarabs per Monster
 #
 ---
 # Tags
-#Fragment
 #PoE1

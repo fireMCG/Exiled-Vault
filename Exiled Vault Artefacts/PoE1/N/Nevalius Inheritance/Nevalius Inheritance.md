@@ -20,5 +20,4 @@ I don't know when to quit."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

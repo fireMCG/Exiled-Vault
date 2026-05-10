@@ -18,5 +18,4 @@ and all in his path were obliterated.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

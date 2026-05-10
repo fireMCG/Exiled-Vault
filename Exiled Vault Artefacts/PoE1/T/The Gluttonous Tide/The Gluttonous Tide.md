@@ -25,5 +25,4 @@ if but for a moment... only to disgorge and do it all again...
 #Concept/Horror
 #Concept/Hunger
 #Concept/Tangle
-#Artefact
 #PoE1

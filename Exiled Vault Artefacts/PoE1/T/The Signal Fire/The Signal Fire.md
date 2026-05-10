@@ -18,5 +18,4 @@ The first spark is never the last.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

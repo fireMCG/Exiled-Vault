@@ -14,5 +14,4 @@ A wall of steel and muscle.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

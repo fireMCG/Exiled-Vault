@@ -16,5 +16,4 @@ In sickness, the insane becomes sane.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -7,5 +7,5 @@ Petrified Amber Ore Deposits in your Maps take 25% reduced Damage
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

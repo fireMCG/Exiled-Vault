@@ -4,5 +4,5 @@ Hits have 15% chance to treat Enemy Monster Elemental Resistance values as inver
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

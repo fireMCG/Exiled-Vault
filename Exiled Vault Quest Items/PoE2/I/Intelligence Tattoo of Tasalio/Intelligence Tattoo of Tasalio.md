@@ -9,5 +9,4 @@ Hunters of the Tasalio Tribe are just as effective on land.
 #Character/God/Tasalio
 #Category/QuestItem
 #Society/Karui/Tribe/Tasalio
-#QuestItem
 #PoE2

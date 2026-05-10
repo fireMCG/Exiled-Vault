@@ -24,5 +24,4 @@ of the demon that flies on Winter's gales.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

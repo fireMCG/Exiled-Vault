@@ -14,5 +14,4 @@ Take everything and waste nothing.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

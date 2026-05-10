@@ -5,5 +5,5 @@ Prevent +3% of Damage from Deflected Hits
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

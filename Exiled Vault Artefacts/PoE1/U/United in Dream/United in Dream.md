@@ -21,5 +21,4 @@ To be fed upon when he wakes.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -26,5 +26,4 @@ And it will embrace you back.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

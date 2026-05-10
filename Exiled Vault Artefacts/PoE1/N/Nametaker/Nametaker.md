@@ -22,5 +22,4 @@ dearly held secrets spill forth in our blood.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -18,5 +18,4 @@ soon finds he has none.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

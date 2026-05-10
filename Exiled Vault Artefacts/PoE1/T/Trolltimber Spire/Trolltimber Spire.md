@@ -21,5 +21,4 @@ the other has sprouted fresh roots!
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -12,5 +12,4 @@ A mind that never quiets.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -23,5 +23,4 @@ tolling righteous fury for those who would dare invade our world!"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

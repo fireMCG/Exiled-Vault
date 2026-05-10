@@ -25,5 +25,4 @@ and engulfs the leaking mind of Man.
 #Concept/Mind
 #Concept/Poison
 #Concept/Emotion/Rage
-#Artefact
 #PoE1

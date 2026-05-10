@@ -22,5 +22,4 @@ Will you accept?"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

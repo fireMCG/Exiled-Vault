@@ -20,5 +20,4 @@ So he carried his fortress to the fight.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

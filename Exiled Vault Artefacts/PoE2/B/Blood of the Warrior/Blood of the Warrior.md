@@ -21,5 +21,4 @@ will more than survive the coming battle... you will thrive."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

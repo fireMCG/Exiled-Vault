@@ -25,5 +25,4 @@ and discover the fate of his children.
 #
 ---
 # Tags
-#Artefact
 #PoE2

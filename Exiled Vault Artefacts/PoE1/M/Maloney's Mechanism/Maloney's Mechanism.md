@@ -19,5 +19,4 @@ I will see them again, but not until my work is done.
 # Tags
 #Category/Artefact
 #Character/RikerMaloney
-#Artefact
 #PoE1

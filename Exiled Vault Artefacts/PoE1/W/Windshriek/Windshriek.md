@@ -18,5 +18,4 @@ Your mind goes dark, your body weak.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

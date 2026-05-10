@@ -12,5 +12,4 @@ from my true potential.
 #Concept/Body/Flesh
 #Concept/Life/Immortality
 #Category/QuestItem
-#QuestItem
 #PoE1

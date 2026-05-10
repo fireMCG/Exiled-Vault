@@ -16,5 +16,4 @@ Let it be the best of us.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

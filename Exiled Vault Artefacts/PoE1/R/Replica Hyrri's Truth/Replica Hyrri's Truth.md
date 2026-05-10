@@ -17,5 +17,4 @@ Prototype #15, but they suddenly chose to murder each other instead..."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

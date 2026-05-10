@@ -26,5 +26,4 @@ Witness the emergence of a new cosmic power.
 #Character/Eldritch/Maven
 #Concept/Space
 #Concept/Power
-#Artefact
 #PoE1

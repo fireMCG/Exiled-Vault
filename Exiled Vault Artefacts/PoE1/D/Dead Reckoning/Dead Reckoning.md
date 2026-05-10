@@ -14,5 +14,4 @@ Before he collapsed, he uttered:
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

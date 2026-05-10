@@ -4,5 +4,5 @@ Grants Skill: Supporting Fire
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

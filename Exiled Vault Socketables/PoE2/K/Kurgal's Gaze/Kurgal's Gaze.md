@@ -15,5 +15,4 @@
 #Character/Kurgal
 #Society/Lightless
 #Category/Socketable
-#Socketable
 #PoE2

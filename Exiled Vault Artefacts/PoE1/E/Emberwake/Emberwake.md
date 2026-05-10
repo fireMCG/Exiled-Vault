@@ -16,5 +16,4 @@ Leave the world in flames behind you.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -22,5 +22,4 @@ the Shade watched the Scholar.
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius
 #Concept/Decay
-#Artefact
 #PoE1

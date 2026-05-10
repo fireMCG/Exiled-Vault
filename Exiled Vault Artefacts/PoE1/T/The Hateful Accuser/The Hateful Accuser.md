@@ -16,5 +16,4 @@ In truth, they point the finger at themselves.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

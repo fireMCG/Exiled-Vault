@@ -15,5 +15,4 @@ Then tell me which plan pulls my axe from your ribs."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

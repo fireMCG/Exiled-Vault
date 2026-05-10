@@ -7,5 +7,5 @@ Strongboxes in your Maps are at least Rare
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

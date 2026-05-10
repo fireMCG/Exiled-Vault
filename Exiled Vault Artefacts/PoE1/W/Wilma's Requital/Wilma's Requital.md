@@ -20,5 +20,4 @@ For she's the one that got away
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

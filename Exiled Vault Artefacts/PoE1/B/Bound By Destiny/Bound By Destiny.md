@@ -15,5 +15,4 @@ driven by the passions and tragedies of those who seek.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

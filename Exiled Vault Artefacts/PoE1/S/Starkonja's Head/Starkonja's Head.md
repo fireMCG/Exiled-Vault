@@ -19,5 +19,4 @@ but merely a long sleep made eternal.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

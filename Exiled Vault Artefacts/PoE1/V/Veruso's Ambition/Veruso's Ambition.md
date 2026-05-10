@@ -18,5 +18,4 @@ families. Follow me if you hunger for more than this!"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

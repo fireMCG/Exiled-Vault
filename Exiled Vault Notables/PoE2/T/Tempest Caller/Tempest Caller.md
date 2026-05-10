@@ -5,5 +5,5 @@ Trigger Elemental Storm on Critical Hit with Spells
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

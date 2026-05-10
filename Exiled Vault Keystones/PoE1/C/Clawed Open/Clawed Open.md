@@ -7,5 +7,5 @@ Unstable Breaches in your Maps spawn 2 additional Rare Monsters when Stabilised
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

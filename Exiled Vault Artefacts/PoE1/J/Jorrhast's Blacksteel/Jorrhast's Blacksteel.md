@@ -24,5 +24,4 @@ in every scrap of iron he touched.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

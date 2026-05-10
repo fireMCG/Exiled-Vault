@@ -25,5 +25,4 @@ spill our blood in pursuit of power?"
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

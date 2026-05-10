@@ -19,5 +19,4 @@ ashes of their father.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

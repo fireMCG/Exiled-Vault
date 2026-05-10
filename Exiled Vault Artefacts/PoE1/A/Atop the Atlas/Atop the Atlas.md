@@ -18,5 +18,4 @@ And those that made the trek realised the folly of their desire for greatness."
 #Concept/Light
 #Concept/Nature/Mountain
 #Concept/Sun
-#Artefact
 #PoE1

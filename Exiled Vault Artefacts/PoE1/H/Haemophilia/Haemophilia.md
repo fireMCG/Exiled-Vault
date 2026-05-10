@@ -21,5 +21,4 @@ Unfortunately, my kind doesn't often have that luxury."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

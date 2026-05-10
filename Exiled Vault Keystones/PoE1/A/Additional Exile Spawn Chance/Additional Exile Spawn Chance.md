@@ -6,5 +6,5 @@ Your Maps have a 25% chance to contain an additional Rogue Exile
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

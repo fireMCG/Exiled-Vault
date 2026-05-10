@@ -24,5 +24,4 @@ the plan won't work! Where's Arn?! I have to tell him!"
 #Concept/Element/Ice
 #Concept/Element/Lightning
 #Concept/Storm
-#Artefact
 #PoE1

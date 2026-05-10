@@ -23,5 +23,4 @@ A crystalline, perfectly still utopia.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -5,5 +5,5 @@ Projectile Attacks have a 12% chance to fire two additional Projectiles while mo
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

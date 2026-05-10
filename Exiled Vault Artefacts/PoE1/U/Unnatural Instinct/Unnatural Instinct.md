@@ -15,5 +15,4 @@ I just know that I know."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

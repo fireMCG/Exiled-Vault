@@ -21,5 +21,4 @@ to celebrate the massacre."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

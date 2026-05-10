@@ -18,5 +18,4 @@ sank eternally into crushing darkness.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

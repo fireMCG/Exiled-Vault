@@ -19,5 +19,4 @@ into very effective lightning rods.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

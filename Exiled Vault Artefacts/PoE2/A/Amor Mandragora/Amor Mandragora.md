@@ -19,5 +19,4 @@ island, Cirel of Tarth stood waiting to greet them.
 #
 ---
 # Tags
-#Artefact
 #PoE2

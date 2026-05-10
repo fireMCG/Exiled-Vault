@@ -4,5 +4,5 @@ Maximum Volatility is 30
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

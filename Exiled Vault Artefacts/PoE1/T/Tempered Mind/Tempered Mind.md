@@ -13,5 +13,4 @@ Any thought, no matter how fleeting, changes the thinker.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

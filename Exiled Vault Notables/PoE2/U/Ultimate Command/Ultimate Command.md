@@ -4,5 +4,5 @@ Grants Skill: Time Freeze
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

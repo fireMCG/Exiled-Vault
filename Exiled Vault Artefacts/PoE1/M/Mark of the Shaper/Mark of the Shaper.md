@@ -20,5 +20,4 @@ Let madness take control.
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius
 #Concept/Madness
-#Artefact
 #PoE1

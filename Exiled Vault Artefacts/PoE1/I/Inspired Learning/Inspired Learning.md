@@ -13,5 +13,4 @@ then you have already lost the war.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

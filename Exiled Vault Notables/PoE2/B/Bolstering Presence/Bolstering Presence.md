@@ -7,5 +7,5 @@ Druid: 10% increased Area Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

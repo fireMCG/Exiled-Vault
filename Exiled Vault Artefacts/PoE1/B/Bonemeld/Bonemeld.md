@@ -19,5 +19,4 @@ though sees you, it does, indeed.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

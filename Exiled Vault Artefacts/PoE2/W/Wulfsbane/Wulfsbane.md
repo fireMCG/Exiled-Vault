@@ -22,5 +22,4 @@ legacy of cunning and power.
 #Category/Artefact
 #Concept/Legacy
 #Location/Wraeclast/Phaaryl/Ogham
-#Artefact
 #PoE2

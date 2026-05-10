@@ -21,5 +21,4 @@
 #Character/Qotra
 #Character/Malachai
 #Concept/Virtue
-#Artefact
 #PoE1

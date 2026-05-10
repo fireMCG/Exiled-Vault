@@ -25,5 +25,4 @@ but hollow husks filled with virulent void...
 #Character/ValdoCaeserius
 #Concept/Void
 #Concept/Decay
-#Artefact
 #PoE1

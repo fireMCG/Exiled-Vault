@@ -16,5 +16,4 @@ See creation as it will be, frozen and silent.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -12,5 +12,4 @@ Right click this item to create a stack of 100 Simulacrum Splinters.
 # Tags
 #Category/Fragment
 #Attributes/Historical
-#Fragment
 #PoE2

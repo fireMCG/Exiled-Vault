@@ -23,5 +23,4 @@ and know that you never stand alone.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

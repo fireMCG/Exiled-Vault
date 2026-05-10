@@ -7,5 +7,5 @@ Scarabs dropped in your Maps have 40% increased chance to be Blight Scarabs
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

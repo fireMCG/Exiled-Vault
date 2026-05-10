@@ -19,5 +19,4 @@ From death springs life.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

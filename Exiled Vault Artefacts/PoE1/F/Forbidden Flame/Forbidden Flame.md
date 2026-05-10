@@ -19,5 +19,4 @@ continue to think and dream and beg for silence...
 #Concept/Night/Dream
 #Concept/Mind
 #Concept/Cleansing
-#Artefact
 #PoE1

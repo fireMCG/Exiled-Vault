@@ -15,5 +15,4 @@ You need not go looking for a second opinion.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

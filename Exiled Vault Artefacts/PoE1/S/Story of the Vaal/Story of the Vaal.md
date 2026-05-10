@@ -26,5 +26,4 @@ Are we any better?
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

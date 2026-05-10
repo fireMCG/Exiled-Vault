@@ -21,5 +21,4 @@
 #Concept/Time/Cycle
 #Concept/Time/Future
 #Concept/Time/Past
-#Artefact
 #PoE1

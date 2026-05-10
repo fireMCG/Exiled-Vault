@@ -8,5 +8,5 @@ Witch: +10 to Intelligence
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

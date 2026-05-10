@@ -5,5 +5,5 @@ Banner Skills have 30% increased Duration
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

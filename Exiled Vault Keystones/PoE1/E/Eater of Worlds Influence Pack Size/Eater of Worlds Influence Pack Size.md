@@ -6,5 +6,5 @@ Monster Packs Influenced by The Eater of Worlds in your Maps have 5% increased P
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

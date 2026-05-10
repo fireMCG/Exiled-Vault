@@ -22,5 +22,4 @@ With death as my ally, all the world is within my grasp.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

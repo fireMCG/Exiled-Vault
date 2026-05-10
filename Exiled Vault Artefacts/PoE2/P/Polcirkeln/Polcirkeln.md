@@ -18,5 +18,4 @@ Sing Meginord's song!
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -17,5 +17,4 @@ The monstrous men of yore used bows, they were just bigger.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

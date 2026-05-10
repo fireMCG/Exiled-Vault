@@ -21,5 +21,4 @@ Brittle.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -6,5 +6,5 @@ Completing the final Ritual Altar in your Maps has 15% chance to drop a Blood-fi
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

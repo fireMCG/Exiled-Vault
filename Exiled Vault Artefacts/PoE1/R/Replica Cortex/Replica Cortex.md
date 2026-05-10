@@ -22,5 +22,4 @@ Memory? Cease testing and lock this away immediately!"
 #Category/Artefact
 #Character/Qotra
 #Concept/Memory
-#Artefact
 #PoE1

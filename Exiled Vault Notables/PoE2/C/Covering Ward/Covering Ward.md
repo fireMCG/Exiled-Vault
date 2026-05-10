@@ -5,5 +5,5 @@ Gain 20 Energy Shield when you Block
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

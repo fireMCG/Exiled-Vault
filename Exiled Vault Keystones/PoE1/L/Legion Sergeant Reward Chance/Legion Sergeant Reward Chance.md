@@ -6,5 +6,5 @@ Legion Sergeants in your Maps have 6% additional chance to have Rewards
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -9,5 +9,4 @@ pursuits, but the hammer does.
 # Tags
 #Character/God/Kamasa
 #Category/QuestItem
-#QuestItem
 #PoE2

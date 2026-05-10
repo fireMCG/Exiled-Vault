@@ -6,5 +6,5 @@ Ore Deposits in your Maps are more likely to be rarer varieties
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

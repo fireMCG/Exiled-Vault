@@ -11,5 +11,4 @@ Can be placed in the door at the end of the Trial of Chaos to challenge the Tria
 ---
 # Tags
 #Category/Fragment
-#Fragment
 #PoE2

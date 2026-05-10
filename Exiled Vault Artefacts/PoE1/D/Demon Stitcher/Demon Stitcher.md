@@ -19,5 +19,4 @@ The first Vaal.
 #Category/Artefact
 #Character/Xibaqua
 #Society/VaalEmpire
-#Artefact
 #PoE1

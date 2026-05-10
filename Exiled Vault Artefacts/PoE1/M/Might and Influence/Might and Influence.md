@@ -22,5 +22,4 @@ mixture of fear and admiration among the masses.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

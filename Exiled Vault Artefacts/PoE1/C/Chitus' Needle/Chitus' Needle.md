@@ -24,5 +24,4 @@ into a noose for our 'glorious' emperor."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -4,5 +4,5 @@ Demonflame has no maximum
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

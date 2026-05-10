@@ -11,5 +11,4 @@ Death is both a mercy and a curse.
 #Concept/Sacrifice
 #Category/QuestItem
 #Society/VaalEmpire
-#QuestItem
 #PoE2

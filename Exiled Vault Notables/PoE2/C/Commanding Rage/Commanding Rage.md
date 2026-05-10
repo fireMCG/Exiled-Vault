@@ -5,5 +5,5 @@ Every Rage also grants you 1% increased Minion Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

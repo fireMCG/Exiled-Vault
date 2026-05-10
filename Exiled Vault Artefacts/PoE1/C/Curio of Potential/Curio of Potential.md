@@ -13,5 +13,4 @@ The future holds infinite promise... as does she.
 #Character/Eldritch/Maven
 #Concept/Time/Future
 #Concept/Power
-#Artefact
 #PoE1

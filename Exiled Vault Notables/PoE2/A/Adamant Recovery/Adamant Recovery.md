@@ -4,5 +4,5 @@ Increases and Reductions to Armour also apply to Energy ShieldRecharge Rate at 4
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

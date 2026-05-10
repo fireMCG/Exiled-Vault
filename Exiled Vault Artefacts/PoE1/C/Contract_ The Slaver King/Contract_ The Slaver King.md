@@ -14,5 +14,4 @@ while hate still reigns."
 #
 ---
 # Tags
-#Artefact
 #PoE1

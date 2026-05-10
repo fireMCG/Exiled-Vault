@@ -6,5 +6,5 @@ Delirium Rewards in your Maps have 10% increased chance to give Delirium Orbs
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

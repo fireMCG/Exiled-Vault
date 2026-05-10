@@ -19,5 +19,4 @@ reaching out to wreak pain and ruination.
 #Character/Breachlord/Xesht
 #Concept/Madness
 #League/Breach
-#Artefact
 #PoE2

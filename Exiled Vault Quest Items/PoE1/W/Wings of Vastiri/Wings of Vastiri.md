@@ -13,5 +13,4 @@ descended upon her enemies and their armies of darkness.
 #Concept/Wing
 #Category/QuestItem
 #Society/Maraketh
-#QuestItem
 #PoE1

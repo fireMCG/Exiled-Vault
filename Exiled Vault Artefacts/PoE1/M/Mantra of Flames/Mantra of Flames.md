@@ -13,5 +13,4 @@ The strong grow stronger still.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

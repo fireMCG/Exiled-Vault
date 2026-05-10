@@ -23,5 +23,4 @@ hot day is harsh, but the chill night is far worse.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

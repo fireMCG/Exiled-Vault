@@ -20,5 +20,4 @@ Prototype #78 serves as a prime example."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

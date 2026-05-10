@@ -23,5 +23,4 @@ The last sweet music to touch Hrimnor's ears passed right beneath his chin.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

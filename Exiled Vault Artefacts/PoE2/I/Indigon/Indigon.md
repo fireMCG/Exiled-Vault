@@ -23,5 +23,4 @@ the mind's limits end.
 #Concept/Body/Flesh
 #Concept/Mind
 #Concept/Decay
-#Artefact
 #PoE2

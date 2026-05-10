@@ -8,5 +8,4 @@ This is the least I can do.
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE1

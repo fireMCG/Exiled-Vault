@@ -15,5 +15,4 @@ If you know where to strike, you need only strike once.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

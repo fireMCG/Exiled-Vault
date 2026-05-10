@@ -26,5 +26,4 @@ but one thing is certain. It is very, very old."
 #Character/Ahn
 #Character/Aul
 #Society/Primeval
-#Artefact
 #PoE1

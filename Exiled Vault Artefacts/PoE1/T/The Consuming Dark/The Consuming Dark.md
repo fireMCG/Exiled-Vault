@@ -21,5 +21,4 @@ The brightest flames cast the darkest shadows.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

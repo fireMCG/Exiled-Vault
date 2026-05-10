@@ -25,5 +25,4 @@ boundless creativity.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

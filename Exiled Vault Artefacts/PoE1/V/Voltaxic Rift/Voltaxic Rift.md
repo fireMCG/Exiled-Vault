@@ -23,5 +23,4 @@ arcane power. There was no escape, no shelter. Only despair.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -21,5 +21,4 @@ Can't try a man for murder if you can't find him."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

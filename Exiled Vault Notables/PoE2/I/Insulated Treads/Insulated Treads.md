@@ -4,5 +4,5 @@ Gain Ailment Threshold equal to the lowest of Evasion and Armour on your Boots
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

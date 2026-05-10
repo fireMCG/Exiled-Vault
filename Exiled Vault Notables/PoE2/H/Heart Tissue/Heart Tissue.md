@@ -5,5 +5,5 @@ Regenerate 0.5% of maximum Life per second if you have been Hit Recently
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

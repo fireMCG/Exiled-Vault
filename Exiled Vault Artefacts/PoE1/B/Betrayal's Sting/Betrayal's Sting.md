@@ -18,5 +18,4 @@ It is the smile, the nod... the handshake... of a former friend.
 # Tags
 #Category/Artefact
 #Concept/Treason
-#Artefact
 #PoE1

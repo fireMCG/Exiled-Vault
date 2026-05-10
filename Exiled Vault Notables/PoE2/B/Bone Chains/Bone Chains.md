@@ -4,5 +4,5 @@ Physical Spell Critical Hits build Pin
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

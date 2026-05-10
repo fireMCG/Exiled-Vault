@@ -7,5 +7,4 @@ A curious find...
 ---
 # Tags
 #Category/QuestItem
-#QuestItem
 #PoE2

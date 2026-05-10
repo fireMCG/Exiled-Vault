@@ -4,5 +4,5 @@ Recover 1% of maximum Life per Glory consumed
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

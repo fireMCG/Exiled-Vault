@@ -7,5 +7,5 @@ Verisium Ore Deposits in your Maps can be channelled on for 30% longer
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

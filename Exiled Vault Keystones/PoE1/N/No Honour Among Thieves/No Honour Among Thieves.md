@@ -8,5 +8,5 @@ Your Maps that contain Smuggler's Caches have a 15% chance to contain 6 addition
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

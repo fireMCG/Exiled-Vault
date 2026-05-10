@@ -14,5 +14,4 @@ It was always just a little farther.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -6,5 +6,4 @@ To the wily Kishara's eye, a star brighter than the sun.
 #
 ---
 # Tags
-#QuestItem
 #PoE1

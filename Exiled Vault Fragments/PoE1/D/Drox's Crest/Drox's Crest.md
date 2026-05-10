@@ -19,5 +19,4 @@ Shift click to unstack.
 # Tags
 #Character/Drox
 #Category/Fragment
-#Fragment
 #PoE1

@@ -4,5 +4,5 @@ All Damage from Hits Contributes to Chill Magnitude
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -5,5 +5,5 @@ Regenerate 1% of maximum Life per second while stationary
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

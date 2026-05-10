@@ -4,5 +4,5 @@ Non-Keystone Passive Skills in Medium Radius of allocated Keystone Passive Skill
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -18,5 +18,4 @@ We serve only the Night.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

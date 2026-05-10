@@ -18,5 +18,4 @@ It lies in our minds
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

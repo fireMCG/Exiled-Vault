@@ -4,5 +4,5 @@ Grants Skill: Kelari's Judgment
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

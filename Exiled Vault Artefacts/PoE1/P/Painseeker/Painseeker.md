@@ -17,5 +17,4 @@ Lay bare paths to pain you never knew you had.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

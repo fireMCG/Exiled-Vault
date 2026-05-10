@@ -20,5 +20,4 @@ There will be blood on these shackles yet."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

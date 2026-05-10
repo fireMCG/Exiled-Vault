@@ -25,5 +25,4 @@ his cathedral, his patience his unanswered prayer."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

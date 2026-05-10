@@ -16,5 +16,4 @@ and the most vulnerable.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

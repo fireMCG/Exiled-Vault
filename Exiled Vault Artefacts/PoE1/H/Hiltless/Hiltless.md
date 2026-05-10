@@ -23,5 +23,4 @@ beyond the flesh and into the demon's soul.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

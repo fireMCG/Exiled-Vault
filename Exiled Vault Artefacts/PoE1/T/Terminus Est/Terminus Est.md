@@ -25,5 +25,4 @@ Smiling, he returned death's embrace.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

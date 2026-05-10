@@ -16,5 +16,4 @@ Strike true, strike hard, and leave no survivors to retaliate.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

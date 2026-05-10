@@ -5,5 +5,5 @@ Take no Damage from Volatility
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

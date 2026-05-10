@@ -6,5 +6,5 @@ Yellow Beasts in your Maps have 15% chance to be replaced with Red Beasts
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -16,5 +16,4 @@ themselves changing, only subtly at first...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -18,5 +18,4 @@ or blood." - Keita's proclaimation, 872 IC
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

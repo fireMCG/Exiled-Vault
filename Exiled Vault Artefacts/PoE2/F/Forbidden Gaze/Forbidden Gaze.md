@@ -16,5 +16,4 @@ lest your passions stir.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

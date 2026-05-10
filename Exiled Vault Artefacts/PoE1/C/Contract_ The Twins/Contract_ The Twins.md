@@ -15,5 +15,4 @@ We will answer them with action."
 #
 ---
 # Tags
-#Artefact
 #PoE1

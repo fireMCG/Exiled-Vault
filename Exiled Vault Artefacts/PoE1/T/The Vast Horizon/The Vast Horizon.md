@@ -13,5 +13,4 @@ the consequences borne by the destination and the origin."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

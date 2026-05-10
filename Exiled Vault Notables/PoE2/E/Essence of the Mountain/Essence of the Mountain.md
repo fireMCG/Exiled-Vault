@@ -5,5 +5,5 @@ Gain 5% of Damage as Extra Cold Damage
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

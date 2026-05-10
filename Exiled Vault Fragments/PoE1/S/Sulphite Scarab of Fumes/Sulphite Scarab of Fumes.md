@@ -20,5 +20,4 @@ Shift click to unstack.
 # Tags
 #League/Delve
 #Category/Scarab
-#Fragment
 #PoE1

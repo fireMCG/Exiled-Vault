@@ -18,5 +18,4 @@ The pyre is never wasted on just one heretic.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

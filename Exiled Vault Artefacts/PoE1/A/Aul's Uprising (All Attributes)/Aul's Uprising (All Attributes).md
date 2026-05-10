@@ -22,5 +22,4 @@ it was his leadership that earned Aul, the Last King, his crown.
 #Concept/Emotion/Fear
 #Concept/King
 #Society/Primeval
-#Artefact
 #PoE1

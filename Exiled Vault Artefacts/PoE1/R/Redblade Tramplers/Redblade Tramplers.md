@@ -21,5 +21,4 @@ by sating his hunger for life.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

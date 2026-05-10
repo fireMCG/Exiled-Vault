@@ -6,5 +6,5 @@ Final Map Boss in each Map has 25% chance to drop an additional Scarab
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

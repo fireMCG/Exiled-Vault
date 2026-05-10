@@ -25,5 +25,4 @@ the spirit grows strong.
 #Concept/Body/Heart
 #Concept/Sleep
 #Concept/Spirit
-#Artefact
 #PoE1

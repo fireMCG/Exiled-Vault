@@ -4,5 +4,5 @@ Grants Skill: Ruzhan's Reckoning
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

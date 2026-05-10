@@ -8,5 +8,4 @@ but I feel in this case that I owe him a little gift.
 #
 ---
 # Tags
-#QuestItem
 #PoE1

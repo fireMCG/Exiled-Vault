@@ -21,5 +21,4 @@ thus: strike true and survive.
 # Tags
 #Category/Artefact
 #Character/Vorana
-#Artefact
 #PoE1

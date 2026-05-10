@@ -7,5 +7,5 @@ Ultimatum Rewards in your Maps have 25% chance to be duplicated
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -7,5 +7,4 @@ the Lords may thrive.
 #
 ---
 # Tags
-#QuestItem
 #PoE1

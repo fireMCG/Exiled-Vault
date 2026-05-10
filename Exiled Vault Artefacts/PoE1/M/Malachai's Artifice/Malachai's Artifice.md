@@ -19,5 +19,4 @@ and watch the others break.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

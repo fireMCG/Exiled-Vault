@@ -19,5 +19,4 @@ their companionship all the more.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

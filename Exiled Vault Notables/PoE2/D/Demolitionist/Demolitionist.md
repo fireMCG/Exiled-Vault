@@ -4,5 +4,5 @@ Gain 4% of Damage as Extra Fire Damage forevery different Grenade fired in the p
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

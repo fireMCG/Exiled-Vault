@@ -16,5 +16,4 @@ The Light drove the darkness from our lands and from our hearts.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

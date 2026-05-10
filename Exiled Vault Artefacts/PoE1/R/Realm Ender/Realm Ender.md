@@ -26,5 +26,4 @@ I just pray I am long dead before they arrive."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

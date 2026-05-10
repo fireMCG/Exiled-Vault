@@ -19,5 +19,4 @@ Chitus' success stemmed from his cunning, taking calculated risks so that greate
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

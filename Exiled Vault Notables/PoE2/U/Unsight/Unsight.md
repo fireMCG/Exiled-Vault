@@ -5,5 +5,5 @@ Enemies you Mark cannot deal Critical Hits
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

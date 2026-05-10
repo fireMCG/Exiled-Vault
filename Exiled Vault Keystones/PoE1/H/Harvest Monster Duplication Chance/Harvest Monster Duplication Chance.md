@@ -6,5 +6,5 @@ Plants Harvested in your Maps have 3% chance to spawn duplicated Monsters
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -21,5 +21,4 @@ by the shards of obliterated worlds.
 #Character/ValdoCaeserius
 #Concept/Fracture/Shard
 #Concept/World
-#Artefact
 #PoE1

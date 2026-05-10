@@ -17,5 +17,4 @@ The target changes, but the job's always the same.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

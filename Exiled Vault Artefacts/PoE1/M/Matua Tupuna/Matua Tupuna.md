@@ -21,5 +21,4 @@ The least I can do is carry you through death.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

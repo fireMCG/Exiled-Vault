@@ -6,5 +6,5 @@ Monster Packs Influenced by The Searing Exarch in your Maps have 5% increased Pa
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

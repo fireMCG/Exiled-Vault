@@ -17,5 +17,4 @@ This experiment became something truly perverse.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

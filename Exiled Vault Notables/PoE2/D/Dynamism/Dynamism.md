@@ -5,5 +5,5 @@ Meta Skills gain 15% increased Energy
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

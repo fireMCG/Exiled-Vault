@@ -20,5 +20,4 @@ learning, and preparing.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

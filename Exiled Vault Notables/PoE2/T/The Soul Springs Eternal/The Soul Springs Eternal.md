@@ -5,5 +5,5 @@ Meta Skills have 50% increased Reservation Efficiency
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -14,5 +14,4 @@ igniting their capacity to endure.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

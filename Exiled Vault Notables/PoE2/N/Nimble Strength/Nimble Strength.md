@@ -5,5 +5,5 @@ Gain Accuracy Rating equal to your Strength
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -17,5 +17,4 @@ The whispers of the old gods hum through the iron. They demand a hero.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

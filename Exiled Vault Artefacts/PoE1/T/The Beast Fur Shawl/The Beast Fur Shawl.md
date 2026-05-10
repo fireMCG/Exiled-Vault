@@ -19,5 +19,4 @@ is to walk in the skin of another.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

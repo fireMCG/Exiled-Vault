@@ -5,5 +5,5 @@ You can apply an additional Curse
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

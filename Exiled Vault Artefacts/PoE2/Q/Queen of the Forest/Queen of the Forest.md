@@ -23,5 +23,4 @@ she found peace at last.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

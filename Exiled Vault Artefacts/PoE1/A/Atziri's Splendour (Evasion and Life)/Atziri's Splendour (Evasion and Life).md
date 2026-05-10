@@ -22,5 +22,4 @@ you have nothing to fear."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

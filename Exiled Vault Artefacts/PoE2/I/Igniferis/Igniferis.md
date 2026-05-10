@@ -17,5 +17,4 @@ A light unbroken, endlessly reborn.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

@@ -19,5 +19,4 @@ Nothing spreads as quickly as an idea.
 # Tags
 #Category/Artefact
 #Concept/Madness
-#Artefact
 #PoE1

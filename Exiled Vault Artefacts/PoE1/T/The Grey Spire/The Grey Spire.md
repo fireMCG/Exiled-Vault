@@ -21,5 +21,4 @@ Just simpler motivations.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

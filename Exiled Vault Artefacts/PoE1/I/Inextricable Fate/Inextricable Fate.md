@@ -22,5 +22,4 @@ irrevocably bound together in perpetual torture.
 #Category/Artefact
 #Character/Eldritch/EaterOfWorlds
 #Concept/Tangle
-#Artefact
 #PoE1

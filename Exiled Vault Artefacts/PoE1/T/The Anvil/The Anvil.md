@@ -19,5 +19,4 @@ Forge your Perseverance on the Anvil of Faith.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -7,5 +7,5 @@ Shrines in your Maps are guarded by at least one Magic Pack
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

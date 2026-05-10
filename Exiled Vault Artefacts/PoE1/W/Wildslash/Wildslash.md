@@ -24,5 +24,4 @@ When to swing like crazy, and when to run.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -6,5 +6,5 @@ Favours Deferred at Ritual Altars in your Maps reappear 20% sooner
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

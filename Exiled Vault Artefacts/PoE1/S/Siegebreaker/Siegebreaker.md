@@ -16,5 +16,4 @@ Poison the land and they'll have nothing to defend.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

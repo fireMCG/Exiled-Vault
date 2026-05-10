@@ -5,5 +5,5 @@ Unwithered enemies are Withered for 8 seconds when they enter your Presence
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

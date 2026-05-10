@@ -19,5 +19,4 @@ One for you... and one for me."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

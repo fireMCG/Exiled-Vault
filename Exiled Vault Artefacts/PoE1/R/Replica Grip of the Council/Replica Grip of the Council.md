@@ -21,5 +21,4 @@ Somehow, I find that disturbing."
 #Category/Artefact
 #Character/Arn
 #Character/Qotra
-#Artefact
 #PoE1

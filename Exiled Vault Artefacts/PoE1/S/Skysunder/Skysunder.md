@@ -25,5 +25,4 @@ and searing light embraced her golden armour. The Sun was real, and it was her."
 #
 ---
 # Tags
-#Artefact
 #PoE1

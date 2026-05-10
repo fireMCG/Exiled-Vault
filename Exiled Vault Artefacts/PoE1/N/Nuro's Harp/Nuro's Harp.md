@@ -24,5 +24,4 @@ Darkness cleansed, pure and new.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

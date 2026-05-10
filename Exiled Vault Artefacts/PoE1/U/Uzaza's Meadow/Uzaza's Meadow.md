@@ -18,5 +18,4 @@ and only patience and persistence would free them.
 # Tags
 #Category/Artefact
 #Attributes/Timeline
-#Artefact
 #PoE1

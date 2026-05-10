@@ -5,5 +5,5 @@ You can equip a Focus while wielding a Staff
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

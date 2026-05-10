@@ -11,5 +11,4 @@ corporeal and pellucid in crystal.
 #Concept/Crystal
 #Concept/Virtue/Gem
 #Category/QuestItem
-#QuestItem
 #PoE1

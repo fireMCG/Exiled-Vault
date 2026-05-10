@@ -25,5 +25,4 @@ But you can utilise it.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

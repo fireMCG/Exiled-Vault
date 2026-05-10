@@ -22,5 +22,4 @@ into the throats of our oppressors.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

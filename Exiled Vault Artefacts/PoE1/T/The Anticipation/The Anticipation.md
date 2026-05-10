@@ -21,5 +21,4 @@ she will reach into us.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -22,5 +22,4 @@ It is too easy for the soul to escape from an open heart.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

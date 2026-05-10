@@ -4,5 +4,5 @@ Warcries inflict 3 Critical Weakness on Enemies
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

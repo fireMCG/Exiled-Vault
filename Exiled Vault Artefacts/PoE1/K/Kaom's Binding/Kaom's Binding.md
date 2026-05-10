@@ -16,5 +16,4 @@ nightmare of lava and flame... but he endured.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

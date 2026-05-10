@@ -5,5 +5,5 @@ Become Ignited when you deal a Critical Hit, taking 15% of your maximum Life and
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

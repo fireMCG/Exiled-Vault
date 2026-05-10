@@ -12,5 +12,5 @@ Skills Cost +3 Rage
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

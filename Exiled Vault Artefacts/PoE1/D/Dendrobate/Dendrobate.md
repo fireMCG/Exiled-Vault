@@ -21,5 +21,4 @@ are the ones who don't bother to hide.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

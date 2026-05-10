@@ -20,5 +20,4 @@ all are eclipsed.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

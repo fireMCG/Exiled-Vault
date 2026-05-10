@@ -6,5 +6,5 @@ Legion Encounters in your Maps have 55% increased chance to include a Maraketh a
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

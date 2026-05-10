@@ -20,5 +20,4 @@ A moment of calm before the battle can end the war.
 #Category/Artefact
 #Concept/Delirium
 #Concept/War
-#Artefact
 #PoE1

@@ -4,5 +4,5 @@ Base Critical Hit Chance for Spells is 15%
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

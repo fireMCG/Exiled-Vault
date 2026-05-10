@@ -9,5 +9,4 @@ T'gnagn iia y r'ngusla ph'tu Tsoatha nga mekghul'an."
 # Tags
 #Concept/Enigma
 #Category/QuestItem
-#QuestItem
 #PoE1

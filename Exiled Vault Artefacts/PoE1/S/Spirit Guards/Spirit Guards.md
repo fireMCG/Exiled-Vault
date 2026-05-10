@@ -16,5 +16,4 @@ at Lioneye's Watch could be heard amongst the rubble.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

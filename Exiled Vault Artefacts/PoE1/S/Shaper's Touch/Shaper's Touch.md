@@ -26,5 +26,4 @@ Nothing.
 #Character/ValdoCaeserius
 #Concept/Time/Cycle
 #Concept/Life
-#Artefact
 #PoE1

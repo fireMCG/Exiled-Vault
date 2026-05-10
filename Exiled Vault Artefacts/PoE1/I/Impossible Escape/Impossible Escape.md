@@ -23,5 +23,4 @@ for supremacy. She alone reached her limit... and broke through.
 #Concept/Death
 #Concept/Prison
 #Concept/Progenitor
-#Artefact
 #PoE1

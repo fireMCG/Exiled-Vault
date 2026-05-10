@@ -20,5 +20,4 @@ You've no reason for fear when you're a root in a fen
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

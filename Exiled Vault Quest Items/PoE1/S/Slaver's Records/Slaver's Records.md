@@ -10,5 +10,4 @@ It's time we find who is leading them.
 #Concept/Emotion/Hate
 #Concept/Slavery
 #Category/QuestItem
-#QuestItem
 #PoE1

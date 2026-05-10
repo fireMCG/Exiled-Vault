@@ -16,5 +16,4 @@ Anticipation, preparation, exhilaration, celebration.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

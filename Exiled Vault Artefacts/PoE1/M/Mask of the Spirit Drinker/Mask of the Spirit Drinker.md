@@ -21,5 +21,4 @@ Taint it not with the occult.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

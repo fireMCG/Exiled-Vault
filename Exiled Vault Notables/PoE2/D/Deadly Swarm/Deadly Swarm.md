@@ -8,5 +8,5 @@ Druid: 20% increased Elemental Ailment Threshold
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -20,5 +20,4 @@ Welcome to Wraeclast.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

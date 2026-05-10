@@ -5,5 +5,5 @@ Elemental Damage also Contributes to Bleeding Magnitude
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

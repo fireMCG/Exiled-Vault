@@ -4,5 +4,5 @@ Enemies in your Presence are Slowed by 20%
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

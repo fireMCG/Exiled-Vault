@@ -6,5 +6,5 @@ Red Beasts in your Maps have 100% increased chance to be from The Wilds
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

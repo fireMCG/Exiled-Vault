@@ -5,5 +5,5 @@ Attacks used by Ballistas have 10% increased Attack Speed
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

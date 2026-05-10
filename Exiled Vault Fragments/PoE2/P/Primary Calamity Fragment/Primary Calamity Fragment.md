@@ -12,5 +12,4 @@ Can be placed in a door in The Burning Monolith.
 ---
 # Tags
 #Category/Fragment
-#Fragment
 #PoE2

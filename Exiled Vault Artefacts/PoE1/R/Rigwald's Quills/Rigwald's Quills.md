@@ -20,5 +20,4 @@ or the blood of others.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

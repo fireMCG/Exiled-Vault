@@ -5,5 +5,5 @@ Ignore Warcry Cooldowns
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

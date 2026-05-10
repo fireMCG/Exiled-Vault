@@ -24,5 +24,4 @@ Only to watch in horror as it ruptured and shattered under a tide of limbs.
 #Concept/Fracture
 #Concept/Space/Star
 #Concept/Tangle
-#Artefact
 #PoE1

@@ -23,5 +23,4 @@ A blessing is often a curse.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

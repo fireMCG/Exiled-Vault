@@ -4,5 +4,5 @@ Chance to Hit with Attacks can exceed 100%Gain additional Critical Hit Chance eq
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

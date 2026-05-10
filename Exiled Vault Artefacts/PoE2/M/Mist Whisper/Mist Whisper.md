@@ -21,5 +21,4 @@ All the travelers had to give him was their devotion...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

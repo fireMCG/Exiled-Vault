@@ -20,5 +20,4 @@ Quench the holy light.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

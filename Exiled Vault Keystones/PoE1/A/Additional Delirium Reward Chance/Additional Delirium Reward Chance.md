@@ -6,5 +6,5 @@ Delirium Encounters in your Maps have 4% chance to generate an additional Reward
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -28,5 +28,4 @@ and bathed in fear and ferocity.
 #Category/Artefact
 #Character/Eldritch/Elder
 #Concept/Decay
-#Artefact
 #PoE1

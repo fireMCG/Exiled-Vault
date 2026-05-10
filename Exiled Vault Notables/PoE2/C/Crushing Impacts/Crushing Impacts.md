@@ -5,5 +5,5 @@ Your Hits are Crushing Blows
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

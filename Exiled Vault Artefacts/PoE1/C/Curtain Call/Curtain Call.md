@@ -20,5 +20,4 @@ before we all must die.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

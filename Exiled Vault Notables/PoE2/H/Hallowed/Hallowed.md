@@ -5,5 +5,5 @@ Gain additional Stun Threshold equal to 20% of maximum Energy Shield
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

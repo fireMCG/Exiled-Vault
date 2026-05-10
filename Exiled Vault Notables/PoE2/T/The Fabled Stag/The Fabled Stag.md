@@ -6,5 +6,5 @@ Skills have 10% chance to not remove Charges but still count as consuming them
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

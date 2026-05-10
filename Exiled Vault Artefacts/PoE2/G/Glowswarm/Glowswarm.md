@@ -15,5 +15,4 @@ blissfully unaware of their flight from the sirens.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

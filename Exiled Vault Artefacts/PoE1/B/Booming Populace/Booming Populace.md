@@ -13,5 +13,4 @@ To those caught between, there is no difference, and something must soon give.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -22,5 +22,4 @@ It will tell me when it is best to strike."
 #Concept/Body/Heart
 #Concept/Herald
 #Society/VaalEmpire
-#Artefact
 #PoE1

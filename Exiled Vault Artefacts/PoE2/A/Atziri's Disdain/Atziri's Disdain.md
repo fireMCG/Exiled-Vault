@@ -18,5 +18,4 @@ their very lives. She looked on with impatience.
 #Category/Artefact
 #Character/Atziri
 #Society/VaalEmpire
-#Artefact
 #PoE2

@@ -23,5 +23,4 @@ A burned branch leaks sap no more.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

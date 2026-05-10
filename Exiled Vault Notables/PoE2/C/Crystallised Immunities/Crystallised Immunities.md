@@ -6,5 +6,5 @@ Immune to Shock if a majority of your Socketed Support Gems are Green
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

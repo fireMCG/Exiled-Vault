@@ -6,5 +6,5 @@ Your Maps have 5% chance to contain an additional Imprisoned Monster
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

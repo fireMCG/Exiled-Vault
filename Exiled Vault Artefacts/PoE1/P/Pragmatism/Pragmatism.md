@@ -17,5 +17,4 @@ so their practical warriors employed geomancy instead.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

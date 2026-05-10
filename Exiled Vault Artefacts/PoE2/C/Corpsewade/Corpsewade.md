@@ -16,5 +16,4 @@ Natural decay can be twisted to dark ends.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

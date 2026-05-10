@@ -22,5 +22,4 @@ A general may carry his men to greatness, or be dragged beneath the mire by thei
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

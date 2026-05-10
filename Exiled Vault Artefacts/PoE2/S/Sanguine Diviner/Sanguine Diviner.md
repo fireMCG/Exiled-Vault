@@ -16,5 +16,4 @@ One way or another, it will find what it seeks.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

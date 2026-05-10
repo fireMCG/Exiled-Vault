@@ -14,5 +14,4 @@ When you create life from nothing, sometimes things get a little stuck in betwee
 #Category/Artefact
 #Concept/Life
 #Concept/Void
-#Artefact
 #PoE1

@@ -14,5 +14,4 @@ Please don't run back to Anton."
 #
 ---
 # Tags
-#Artefact
 #PoE1

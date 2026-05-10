@@ -6,5 +6,5 @@ Abysses in your Maps spawn 10% increased Monsters for each prior Pit in that Aby
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

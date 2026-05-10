@@ -20,5 +20,4 @@ And now I must live with that terrible knowledge.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

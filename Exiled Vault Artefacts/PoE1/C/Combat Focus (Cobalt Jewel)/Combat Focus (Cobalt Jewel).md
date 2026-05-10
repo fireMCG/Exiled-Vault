@@ -18,5 +18,4 @@ But as Chitus and his gemlings advanced, he thought only of the fight.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

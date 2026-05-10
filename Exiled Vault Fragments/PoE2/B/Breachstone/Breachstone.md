@@ -13,5 +13,4 @@ Right click this item to create a stack of 100 Breach Splinters.
 # Tags
 #Category/Fragment
 #Attributes/Historical
-#Fragment
 #PoE2

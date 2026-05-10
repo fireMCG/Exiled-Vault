@@ -5,5 +5,5 @@ Reveal Weaknesses against Rare and Unique enemies
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

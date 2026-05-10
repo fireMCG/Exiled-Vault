@@ -16,5 +16,4 @@ until fate pulled you away.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

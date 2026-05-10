@@ -25,5 +25,4 @@ will burn in the minds of men forever.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

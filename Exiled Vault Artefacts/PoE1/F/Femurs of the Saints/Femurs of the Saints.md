@@ -24,5 +24,4 @@ only to spend eternity in the service of me."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -14,5 +14,4 @@ A simple instruction that will purify an entire region, making it safe and kind 
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

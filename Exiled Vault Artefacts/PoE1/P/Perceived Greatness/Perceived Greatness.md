@@ -15,5 +15,4 @@ A treasure is only as valuable as you think it to be.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

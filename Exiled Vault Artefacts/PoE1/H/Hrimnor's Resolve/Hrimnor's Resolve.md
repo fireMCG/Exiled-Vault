@@ -17,5 +17,4 @@ but his heart burned for vengeance.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

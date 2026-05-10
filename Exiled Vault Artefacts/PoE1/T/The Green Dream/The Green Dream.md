@@ -16,5 +16,4 @@ reaching into the world that should be ours.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

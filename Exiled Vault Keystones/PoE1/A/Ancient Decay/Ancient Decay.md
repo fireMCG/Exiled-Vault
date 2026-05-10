@@ -6,5 +6,5 @@ Expedition Monsters in your Maps spawn with an additional 20% of Life missing
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

@@ -21,5 +21,4 @@ the Ardura were the first to answer.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

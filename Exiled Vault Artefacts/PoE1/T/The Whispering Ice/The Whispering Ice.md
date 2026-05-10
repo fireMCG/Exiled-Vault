@@ -23,5 +23,4 @@ the cracks through which the Nightmare crawls.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

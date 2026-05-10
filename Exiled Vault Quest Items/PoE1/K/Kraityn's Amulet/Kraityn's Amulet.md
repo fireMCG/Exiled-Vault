@@ -9,5 +9,4 @@ it is simply a piece in a larger puzzle.
 # Tags
 #Character/Kraityn
 #Category/QuestItem
-#QuestItem
 #PoE1

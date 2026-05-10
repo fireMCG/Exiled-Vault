@@ -18,5 +18,4 @@ They wrap around you until your blood turns as cold as theirs.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

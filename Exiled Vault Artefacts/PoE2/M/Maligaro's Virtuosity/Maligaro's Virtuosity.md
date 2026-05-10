@@ -18,5 +18,4 @@ with great speed and terrible consequences.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

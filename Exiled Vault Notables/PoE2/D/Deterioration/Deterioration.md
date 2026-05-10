@@ -5,5 +5,5 @@ Damaging Ailments Cannot Be inflicted on you while you already have one
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

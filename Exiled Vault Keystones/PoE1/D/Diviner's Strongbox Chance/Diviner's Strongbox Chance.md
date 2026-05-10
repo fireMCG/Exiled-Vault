@@ -6,5 +6,5 @@ Strongboxes in your Maps have 30% increased chance to be a Diviner's Strongbox
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

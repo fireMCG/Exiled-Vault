@@ -6,5 +6,5 @@ Expeditions in your Maps have 65% increased chance to be led by Dannig
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

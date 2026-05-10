@@ -22,5 +22,4 @@ If they only knew the power I possess.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

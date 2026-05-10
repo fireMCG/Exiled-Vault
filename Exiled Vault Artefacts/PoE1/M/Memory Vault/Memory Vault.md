@@ -18,5 +18,4 @@ Your memories are a bridge to the past. Let no one cross.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

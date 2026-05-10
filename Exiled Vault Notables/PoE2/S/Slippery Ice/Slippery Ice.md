@@ -5,5 +5,5 @@ Unaffected by Chill during Dodge Roll
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

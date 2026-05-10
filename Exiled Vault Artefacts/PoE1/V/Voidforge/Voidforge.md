@@ -28,5 +28,4 @@ can only create more nothingness.
 #Character/ValdoCaeserius
 #Concept/Void
 #Concept/Decay
-#Artefact
 #PoE1

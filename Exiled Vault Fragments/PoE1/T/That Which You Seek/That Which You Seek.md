@@ -8,5 +8,4 @@ Scarabs dropped in your Maps have 24% increased chance to be Delirium Scarabs
 #
 ---
 # Tags
-#Fragment
 #PoE1

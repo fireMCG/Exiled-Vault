@@ -18,5 +18,4 @@ too much of nothing is just as tough.
 #Category/Artefact
 #Character/Eldritch/EaterOfWorlds
 #Concept/Tangle
-#Artefact
 #PoE1

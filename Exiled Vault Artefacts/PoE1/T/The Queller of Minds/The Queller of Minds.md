@@ -16,5 +16,4 @@ Quiet thy troubled soul. Think not. Just pray... to me.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

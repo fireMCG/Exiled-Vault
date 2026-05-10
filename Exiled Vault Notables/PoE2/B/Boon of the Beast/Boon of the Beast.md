@@ -4,5 +4,5 @@ When you Shapeshift to Human form, gain 10% increased Spell Damage per second yo
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

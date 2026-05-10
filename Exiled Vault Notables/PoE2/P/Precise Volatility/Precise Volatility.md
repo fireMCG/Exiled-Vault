@@ -4,5 +4,5 @@ Volatile Power also grants 1% increased Critical Hit chance per Volatility explo
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -24,5 +24,4 @@ Unbridled, overwhelming violence."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

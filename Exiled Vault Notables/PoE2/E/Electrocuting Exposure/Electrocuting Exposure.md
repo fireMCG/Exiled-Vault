@@ -4,5 +4,5 @@ Gain 25% of Physical Damage as Extra Lightning Damage against Electrocuted Enemi
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

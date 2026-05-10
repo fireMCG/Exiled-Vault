@@ -6,5 +6,5 @@ Gain Deflection Rating equal to 5% of Evasion Rating
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

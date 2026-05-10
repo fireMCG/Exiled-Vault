@@ -5,5 +5,5 @@ Skills deal 8% increased Damage per Combo consumed, up to 40%
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

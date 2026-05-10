@@ -15,5 +15,4 @@ to an archmage to fund other experiments."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

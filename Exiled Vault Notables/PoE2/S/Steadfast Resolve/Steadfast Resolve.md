@@ -4,5 +4,5 @@ You cannot be Light Stunned if you've been Stunned Recently
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

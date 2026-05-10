@@ -14,5 +14,4 @@ Wealth unspent is wealth wasted.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -20,5 +20,4 @@ And bloom steel flowers of victory.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

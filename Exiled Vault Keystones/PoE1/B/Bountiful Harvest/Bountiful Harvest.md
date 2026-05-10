@@ -7,5 +7,5 @@ Harvested Plants in your Maps have 10% chance to spawn an additional Monster
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

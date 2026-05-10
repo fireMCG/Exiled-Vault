@@ -26,5 +26,4 @@ and adoration... I deserve it. I am their Queen."
 #
 ---
 # Tags
-#Artefact
 #PoE2

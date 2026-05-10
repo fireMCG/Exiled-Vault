@@ -4,5 +4,5 @@ Hits that Heavy Stun Enemies have Culling Strike
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

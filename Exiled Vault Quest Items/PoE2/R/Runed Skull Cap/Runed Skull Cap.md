@@ -10,5 +10,4 @@ The rune emblazoned on the crest means
 #Concept/Rune
 #Category/QuestItem
 #Society/Ezomyte
-#QuestItem
 #PoE2

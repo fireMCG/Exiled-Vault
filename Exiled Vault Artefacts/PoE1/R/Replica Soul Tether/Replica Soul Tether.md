@@ -15,5 +15,4 @@ but the chest wound was not as deep as expected. There is something here..."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

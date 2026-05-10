@@ -6,5 +6,5 @@ Gain 1 fewer Lightning Surge from Triggering Elemental Surge
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

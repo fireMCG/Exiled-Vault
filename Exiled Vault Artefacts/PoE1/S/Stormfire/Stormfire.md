@@ -17,5 +17,4 @@ you'll wish the lightning strike had killed you.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

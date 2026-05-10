@@ -28,5 +28,4 @@ The embers grow dim and yet hope burns her lips:
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

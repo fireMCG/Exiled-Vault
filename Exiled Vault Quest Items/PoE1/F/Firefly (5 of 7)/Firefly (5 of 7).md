@@ -8,5 +8,4 @@ Where rest the truest colours of life.
 # Tags
 #Concept/Life
 #Category/QuestItem
-#QuestItem
 #PoE1

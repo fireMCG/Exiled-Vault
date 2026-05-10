@@ -16,5 +16,4 @@ Of the towns they founded and the lives they lived, little remains...
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

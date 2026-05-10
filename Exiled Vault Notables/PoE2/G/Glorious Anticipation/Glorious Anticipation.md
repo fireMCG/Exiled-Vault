@@ -4,5 +4,5 @@ Skills gain 1 Glory every 2 seconds for each Rare or Unique monster in your Pres
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

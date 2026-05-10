@@ -17,5 +17,4 @@ The haunting screams, a maddening hell
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

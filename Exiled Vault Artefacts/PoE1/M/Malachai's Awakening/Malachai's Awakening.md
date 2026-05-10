@@ -20,5 +20,4 @@ Merely men who lack the conviction to pay it.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

@@ -23,5 +23,4 @@ and Titan against the rising darkness.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

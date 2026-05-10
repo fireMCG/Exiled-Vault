@@ -21,5 +21,4 @@ Set the world 'fore you alight.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

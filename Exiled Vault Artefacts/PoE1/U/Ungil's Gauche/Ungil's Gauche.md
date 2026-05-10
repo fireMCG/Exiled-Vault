@@ -24,5 +24,4 @@ and deadly in Ungil's nimble hands.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

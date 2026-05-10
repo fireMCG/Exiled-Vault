@@ -6,5 +6,5 @@ Your Maps that contain capturable Beasts have 5% chance to contain an additional
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

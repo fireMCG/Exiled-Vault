@@ -15,5 +15,4 @@ machinations, all the outcomes may be turned in your favour..."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

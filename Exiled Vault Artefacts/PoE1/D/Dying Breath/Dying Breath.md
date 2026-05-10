@@ -26,5 +26,4 @@ To listen.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

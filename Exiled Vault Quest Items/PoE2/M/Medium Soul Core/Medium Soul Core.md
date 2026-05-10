@@ -10,5 +10,4 @@ Somewhere, a distant scream echoes.
 #Concept/Soul
 #Category/QuestItem
 #Society/VaalEmpire
-#QuestItem
 #PoE2

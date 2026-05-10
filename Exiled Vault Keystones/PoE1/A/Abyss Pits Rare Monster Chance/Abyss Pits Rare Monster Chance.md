@@ -6,5 +6,5 @@ Abyss Pits in your Maps have 3% chance to spawn 5 additional Rare Monsters
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

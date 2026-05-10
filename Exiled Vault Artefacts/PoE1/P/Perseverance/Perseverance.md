@@ -18,5 +18,4 @@ The trick is to tell them apart."
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

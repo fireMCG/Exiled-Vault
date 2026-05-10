@@ -19,5 +19,4 @@ Thus began the War of the Great Families.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

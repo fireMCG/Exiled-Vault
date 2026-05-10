@@ -22,5 +22,4 @@ Fear can be instilled by the smallest entity.
 #Concept/Emotion/Fear
 #Concept/Soul
 #Concept/Decay
-#Artefact
 #PoE1

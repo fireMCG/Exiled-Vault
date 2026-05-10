@@ -6,5 +6,5 @@ Enemies you Curse are Hindered, with 15% reduced Movement Speed
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

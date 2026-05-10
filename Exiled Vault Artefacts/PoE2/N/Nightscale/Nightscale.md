@@ -17,5 +17,4 @@ Diamora sings not for hunger, but for longing.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE2

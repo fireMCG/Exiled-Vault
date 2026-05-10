@@ -5,5 +5,5 @@ Attacks with One-Handed Weapons have 20% increased Chance to inflict Ailments
 #
 ---
 # Tags
-#Notable
+#Category/Notable
 #PoE2

@@ -15,5 +15,4 @@ The day is coming... I have seen it.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

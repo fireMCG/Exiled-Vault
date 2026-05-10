@@ -22,5 +22,4 @@ Free from our hunger for dominion.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

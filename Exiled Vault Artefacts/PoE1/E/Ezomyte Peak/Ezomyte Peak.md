@@ -15,5 +15,4 @@ of glory, an eternity of death.
 ---
 # Tags
 #Category/Artefact
-#Artefact
 #PoE1

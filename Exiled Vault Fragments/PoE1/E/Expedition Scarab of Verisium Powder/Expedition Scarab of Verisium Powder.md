@@ -18,5 +18,4 @@ Shift click to unstack.
 # Tags
 #League/Expedition
 #Category/Scarab
-#Fragment
 #PoE1
