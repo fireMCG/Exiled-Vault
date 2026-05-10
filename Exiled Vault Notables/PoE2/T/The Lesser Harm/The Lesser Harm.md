@@ -5,7 +5,5 @@ Damage of Enemies Hitting you is Unlucky
 #
 ---
 # Tags
-#Oracle
-#Druid
 #Notable
 #PoE2

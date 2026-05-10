@@ -9,6 +9,5 @@ Forgotten no more.
 #
 ---
 # Tags
-#Attributes/Disabled 
 #Category/Reliquary
 #PoE1 

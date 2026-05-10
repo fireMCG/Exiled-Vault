@@ -13,11 +13,8 @@ Mana: 120%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Breachlord/UulNetol
 #Concept/Breachlord
-#Category/Lineage
-#Society/Hiveborn
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2
+#Society/Hiveborn

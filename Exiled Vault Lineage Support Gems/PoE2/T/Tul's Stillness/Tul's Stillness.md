@@ -13,12 +13,9 @@ Mana: 120%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Breachlord/Tul
 #Concept/Essence
 #Concept/Body/Eye
-#Category/Lineage
-#Society/Hiveborn
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2
+#Society/Hiveborn

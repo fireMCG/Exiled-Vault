@@ -7,7 +7,5 @@ Lose all Infernal Flame on reaching maximum Infernal Flame
 #
 ---
 # Tags
-#Infernalist
-#Witch
 #Notable
 #PoE2

@@ -5,7 +5,5 @@ Meta Skills have 50% increased Reservation Efficiency
 #
 ---
 # Tags
-#Invoker
-#Monk
 #Notable
 #PoE2

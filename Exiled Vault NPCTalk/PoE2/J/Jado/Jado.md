@@ -124,5 +124,5 @@ Jado: That might be the case... If there is indeed a plan at work, we must be ca
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

@@ -1,4 +1,4 @@
-# The Rain Festival Beetle
+# Flavour Text
 During the first rain of each year, rich and poor alike  
 chased the Beetle through the flooding streets of Keth,  
 and its bounty was shared equally by all.
@@ -7,7 +7,9 @@ and its bounty was shared equally by all.
 ![[The_Rain_Festival.png]]
 
 ---
-## Tags
+# Tags
+#Attributes/Timeline 
+#Category/Strongbox
 #Concept/Animal/Insect/Beetle
 #Concept/Festival
 #Concept/Water/Flood
@@ -16,5 +18,3 @@ and its bounty was shared equally by all.
 #Location/Wraeclast/Vastiri/Keth
 #PoE2
 #Society/Maraketh
-#Category/Strongbox
-#Attributes/Timeline 

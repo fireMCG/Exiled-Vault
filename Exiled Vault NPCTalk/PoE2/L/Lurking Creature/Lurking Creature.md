@@ -260,5 +260,5 @@ Druid: If there's no rest in death... then she's still sufferin'. Because o' me.
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

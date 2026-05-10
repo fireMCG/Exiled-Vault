@@ -11,5 +11,4 @@ Quality: +19%
 ---
 # Tags
 #Category/DivinationCard
-#DivinationCard
 #PoE1

@@ -4,7 +4,5 @@ Allies in your Presence gain added Attack Damage equalto 25% of your main hand W
 #
 ---
 # Tags
-#Tactician
-#Mercenary
 #Notable
 #PoE2

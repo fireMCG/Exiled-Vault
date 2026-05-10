@@ -5,7 +5,5 @@ Lose 5% of maximum Mana per Second
 #
 ---
 # Tags
-#Lich
-#Witch
 #Notable
 #PoE2

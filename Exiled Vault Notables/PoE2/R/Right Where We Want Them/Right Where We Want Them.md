@@ -5,7 +5,5 @@ Pinned enemies cannot perform actions
 #
 ---
 # Tags
-#Tactician
-#Mercenary
 #Notable
 #PoE2

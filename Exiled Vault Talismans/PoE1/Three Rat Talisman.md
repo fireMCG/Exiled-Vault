@@ -1,4 +1,4 @@
-# Three Rat Talisman
+# Flavour Text
 When we free ourselves from the shackles of civilised existence,
 we learn to feed and run and breathe as the First Ones have always done.  
 \- The Wolven King
@@ -8,8 +8,8 @@ we learn to feed and run and breathe as the First Ones have always done.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/FirstOnes 
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

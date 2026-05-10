@@ -4,7 +4,5 @@
 #
 ---
 # Tags
-#Shaman
-#Druid
 #Notable
 #PoE2

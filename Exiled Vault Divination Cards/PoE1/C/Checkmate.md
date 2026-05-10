@@ -13,5 +13,4 @@ When victory is impossible, each of us plays only to delay the end.
 #Character/Demon/Kosis
 #Concept/Time/Ending
 #League/Delirium
-#DivinationCard
 #PoE1

@@ -5,7 +5,5 @@ Reserves 25% of Life
 #
 ---
 # Tags
-#Infernalist
-#Witch
 #Notable
 #PoE2

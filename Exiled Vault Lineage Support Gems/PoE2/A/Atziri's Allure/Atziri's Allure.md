@@ -14,12 +14,9 @@ Mana: 100%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Atziri
 #Concept/Lust
 #Concept/Mirror
-#Category/Lineage
-#Society/VaalEmpire
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2
+#Society/VaalEmpire

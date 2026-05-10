@@ -18,9 +18,7 @@ Successfully executing Perfect Timing with Supported Skills grants a stack of Ta
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/God/Tasalio
-#Category/Lineage
-#Society/Karui/Tribe/Tasalio
-#Lineage
-#SupportGem
 #PoE2
+#Society/Karui/Tribe/Tasalio

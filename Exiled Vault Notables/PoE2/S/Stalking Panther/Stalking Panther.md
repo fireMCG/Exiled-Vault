@@ -5,7 +5,5 @@ Evasion Rating from Equipped Body Armour is halved
 #
 ---
 # Tags
-#Amazon
-#Huntress
 #Notable
 #PoE2

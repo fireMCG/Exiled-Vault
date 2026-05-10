@@ -295,7 +295,8 @@ Dannig: Ouch. That's a pain I recognise. You know, we can't exactly go home, eit
 Dannig: The Dreamer? Is that one of Wraeclast's 'gods?'
 ![[Exiled Vault NPCTalk/PoE2/D/Dannig/_Audio/Dannig - S7 - L23 - A1.ogg]]
 
-Dannig: Yes. The Druids of the Broken Circle. Their tales are quite extensive, albeit ancient. Gronel Starseer, Smalon Thickett, Avon Bruhn... all very illustrious stories in their own right.
+Dannig: Yes. The Druids of the Broken Circle. Their tales are quite extensive, albeit ancient. 
+Gronel Starseer, Smalon Thickett, Avon Bruhn... all very illustrious stories in their own right.
 ![[Exiled Vault NPCTalk/PoE2/D/Dannig/_Audio/Dannig - S7 - L24 - A1.ogg]]
 
 Sorceress: Runecraft. Oh, it sounds like such beautiful sorcery. Do tell me its tale.
@@ -854,5 +855,5 @@ Druid: About time ye took up the hunt again.
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

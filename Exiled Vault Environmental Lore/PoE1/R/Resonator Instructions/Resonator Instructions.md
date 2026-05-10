@@ -1,4 +1,3 @@
-## Read
 Captain Tevarus, Altitude is imperative to forging a stable connection with the Prime Resonator in Theopolis. Power source is equally vital. Locate a fissure in the mountainside and lower a conductive cable into it, the deeper the better. It will take an immense amount of thaumaturgical energy to execute the successful disintegration and transmission of objects, both inanimate and animate, between Highgate and Theopolis. For that kind of power, we must tap the origin. I needn't remind you of the consequences should either of those elements prove deficient. That is why I would like you, Tevarus, to be the first to test the Resonator once it is operational. Accountability is the perfect counterweight to ambition. High Templar Dominus
 ![[Exiled Vault Environmental Lore/PoE1/R/Resonator Instructions/_Audio/Resonator Instructions - Read.ogg]]
 
@@ -6,6 +5,4 @@ Captain Tevarus, Altitude is imperative to forging a stable connection with the 
 ---
 # Tags
 #Category/Lore/Environmental
-#MissingTags
 #PoE1/Act4
-#PoE1

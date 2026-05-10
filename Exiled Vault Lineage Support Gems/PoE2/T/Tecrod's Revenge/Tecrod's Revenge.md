@@ -14,15 +14,12 @@ Mana: 100%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Tecrod
 #Concept/Blood
 #Concept/Body/Flesh
 #Concept/Lich
 #Concept/Vengeance
-#Category/Lineage
-#Category/SupportGem
 #Location/Wraeclast/WellOfSouls
-#Society/Lightless
-#Lineage
-#SupportGem
 #PoE2
+#Society/Lightless

@@ -13,15 +13,12 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/Brutus
 #Character/Shavronne
 #Concept/Element/Lightning
 #Concept/Life/Immortality
 #Concept/Sky
-#Category/Lineage
-#Society/EternalEmpire
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/EternalEmpire

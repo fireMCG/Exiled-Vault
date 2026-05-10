@@ -264,5 +264,5 @@ Tujen: Ugh! Never mind.
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

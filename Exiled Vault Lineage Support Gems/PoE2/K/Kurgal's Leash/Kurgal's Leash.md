@@ -13,15 +13,12 @@ Mana: 120%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/Kurgal
 #Concept/Dominion
 #Concept/Golem
 #Concept/Lich
 #Concept/Slavery
-#Category/Lineage
-#Society/Lightless
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/Lightless

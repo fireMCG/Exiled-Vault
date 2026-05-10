@@ -12,5 +12,4 @@ Doedre Item
 #Category/DivinationCard
 #Character/Doedre
 #Concept/Madness
-#DivinationCard
 #PoE1

@@ -4,7 +4,5 @@ All Damage from you and Allies in your Presencecontributes to Flammability and I
 #
 ---
 # Tags
-#Infernalist
-#Witch
 #Notable
 #PoE2

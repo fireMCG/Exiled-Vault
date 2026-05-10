@@ -1,4 +1,4 @@
-# Undying Flesh Talisman
+# Flavour Text
 'Sleep when you are weary,' our mothers told us.  
 'Sleep when you are dead,' our fathers told us.  
 To the First Ones, the slumbering and the corpse  
@@ -10,6 +10,7 @@ are one and the same.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/Death 
 #Concept/FirstOnes 
 #Concept/Body/Flesh 
@@ -17,4 +18,3 @@ are one and the same.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

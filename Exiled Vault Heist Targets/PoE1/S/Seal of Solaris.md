@@ -9,7 +9,6 @@ myths. If I can prove that, I can begin piecing together a true history of the W
 # Tags
 #Category/HeistTarget
 #Character/God/Solaris
-#Character/God/Solaris
 #Character/RingClient/CrimsonScribe
 #Character/Sekhema/Solerai 
 #Concept/Sekhema 

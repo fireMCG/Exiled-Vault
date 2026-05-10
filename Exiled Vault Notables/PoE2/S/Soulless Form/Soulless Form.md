@@ -6,7 +6,5 @@ Regenerate Mana equal to 6% of maximum Life per second
 #
 ---
 # Tags
-#Lich
-#Witch
 #Notable
 #PoE2

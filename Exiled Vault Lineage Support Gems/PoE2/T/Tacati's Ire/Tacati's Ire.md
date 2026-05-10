@@ -12,14 +12,11 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/Atziri
 #Character/Tacati
 #Concept/Lust
 #Concept/Queen
-#Category/Lineage
-#Society/VaalEmpire
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/VaalEmpire

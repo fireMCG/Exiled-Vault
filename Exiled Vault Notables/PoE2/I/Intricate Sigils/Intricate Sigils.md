@@ -5,7 +5,5 @@
 #
 ---
 # Tags
-#Ritualist
-#Huntress
 #Notable
 #PoE2

@@ -1,4 +1,4 @@
-# Empyrean Apparatus
+# Flavour Text
 "A fool steps into the unknown.  
 An explorer finds his way back again."  
 \- Malachai, Thaumaturge Laureate
@@ -7,6 +7,6 @@ An explorer finds his way back again."
 ![[Empyrean_Apparatus.png]]
 
 ---
-## Tags
-#PoE1 
+# Tags
 #Category/Strongbox
+#PoE1 

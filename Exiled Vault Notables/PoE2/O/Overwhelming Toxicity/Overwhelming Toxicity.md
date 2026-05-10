@@ -5,7 +5,5 @@ Double the number of your Poisons that targets can be affected by at the same ti
 #
 ---
 # Tags
-#Pathfinder
-#Ranger
 #Notable
 #PoE2

@@ -12,11 +12,10 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Eclipse
 #Concept/Nature/Harvest
 #Concept/Moon
 #Concept/Undead
-#Category/DivinationCard
-#Attributes/Important
 #PoE1
 #Interesting 

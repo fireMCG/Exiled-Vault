@@ -11,5 +11,4 @@ Prism Guardian
 # Tags
 #Category/DivinationCard
 #Concept/Spirit
-#DivinationCard
 #PoE1

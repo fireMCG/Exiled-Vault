@@ -16,5 +16,5 @@ Corrupted
 #Concept/Body/Eye
 #Concept/Virtue/Gem
 #Society/VaalEmpire
-#DivinationCard
 #PoE1
+#Interesting 

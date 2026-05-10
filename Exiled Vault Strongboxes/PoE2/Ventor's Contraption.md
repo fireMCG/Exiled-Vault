@@ -1,4 +1,4 @@
-# Ventor's Contraption
+# Flavour Text
 Prospero smiles upon you, fair traveller.  
 Step close, take a chance, and try fortune's fare!
 
@@ -6,11 +6,10 @@ Step close, take a chance, and try fortune's fare!
 ![[Ventor's_Contraption.png]]
 
 ---
-## Tags
+# Tags
+#Category/Strongbox
 #Character/God/Prospero
 #Character/Ventor
 #Concept/Fate
 #Concept/Traveller
-#Character/God/Prospero
 #PoE2
-#Category/Strongbox

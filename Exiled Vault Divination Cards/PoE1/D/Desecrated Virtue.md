@@ -18,5 +18,5 @@ Corrupted
 #Concept/Tyranny
 #Concept/Virtue/Gem
 #Concept/Void
-#DivinationCard
 #PoE1
+#Interesting 

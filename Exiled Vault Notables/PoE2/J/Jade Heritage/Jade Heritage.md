@@ -7,7 +7,5 @@ max jade stacks [10]
 #
 ---
 # Tags
-#Warbringer
-#Warrior
 #Notable
 #PoE2

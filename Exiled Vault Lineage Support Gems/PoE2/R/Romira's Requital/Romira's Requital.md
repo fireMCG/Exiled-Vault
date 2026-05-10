@@ -14,13 +14,10 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage
 #Character/Emperor/RomiraPhrecia
 #Concept/Cannibalism
 #Event/NightOfAThousandRibbons
-#Category/Lineage
-#Society/EternalEmpire
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/EternalEmpire

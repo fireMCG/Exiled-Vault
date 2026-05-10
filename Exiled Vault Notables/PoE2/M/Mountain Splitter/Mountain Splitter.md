@@ -4,7 +4,5 @@ Every Third Slam skill that doesn't create Fissures which you use yourself cause
 #
 ---
 # Tags
-#Titan
-#Warrior
 #Notable
 #PoE2

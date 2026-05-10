@@ -22,8 +22,7 @@ close is not what we are looking for. Keep trying."
 #
 ---
 # Tags
-#Attributes/Important
 #Category/Artefact
 #Character/Qotra
-#Artefact
 #PoE1
+#Interesting 

@@ -23,8 +23,5 @@ As this titan of Sin rose to its many feet, Innocence knew that the village was 
 #Character/God/Innocence
 #Character/God/Sin
 #Concept/Family/Mother
-#Index
-#MissingTags
 #PoE1/Act5
 #Society/TemplarOrder
-#PoE1

@@ -102,5 +102,5 @@ Hilda: Of course! I never doubted ya, mountain-born. Oh, these will fit in nicel
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

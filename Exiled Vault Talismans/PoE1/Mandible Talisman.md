@@ -1,4 +1,4 @@
-# Mandible Talisman
+# Flavour Text
 The First Ones hold us between two sharpened blades.  
 That should we stray too far from the path, we find ourselves severed.  
 \- The Wolven King
@@ -8,8 +8,8 @@ That should we stray too far from the path, we find ourselves severed.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/FirstOnes 
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

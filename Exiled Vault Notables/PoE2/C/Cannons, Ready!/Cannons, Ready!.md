@@ -7,7 +7,5 @@ is focused totem [1]
 #
 ---
 # Tags
-#Tactician
-#Mercenary
 #Notable
 #PoE2

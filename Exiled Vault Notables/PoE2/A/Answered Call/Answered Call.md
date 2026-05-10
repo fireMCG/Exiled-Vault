@@ -6,7 +6,5 @@ Trigger Ancestral Spirits when you Summon a Totem
 #
 ---
 # Tags
-#Warbringer
-#Warrior
 #Notable
 #PoE2

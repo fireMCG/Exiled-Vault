@@ -1,4 +1,4 @@
-# Rot Head Talisman
+# Flavour Text
 To catch a big fish you need tempting bait.  
 And there is no fish bigger than the Empire, and no bait as tempting as Ezomyr.  
 \- The Wolven King
@@ -8,9 +8,9 @@ And there is no fish bigger than the Empire, and no bait as tempting as Ezomyr.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/Animal/Fish 
 #League/Talisman
 #PoE1
 #Society/EternalEmpire 
 #Society/Ezomyte 
-#Category/Talisman 

@@ -12,12 +12,9 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
 #Bloodline/Bardiyan
 #Bloodline/Keitan
+#Category/SupportGem/Lineage 
 #Character/Arjun
-#Category/Lineage
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2

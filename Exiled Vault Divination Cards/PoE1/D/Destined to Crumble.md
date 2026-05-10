@@ -15,5 +15,4 @@ Item Level: 100
 #Category/DivinationCard
 #Concept/Ash
 #Concept/Body
-#DivinationCard
 #PoE1

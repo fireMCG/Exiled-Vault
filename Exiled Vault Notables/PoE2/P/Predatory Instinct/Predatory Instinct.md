@@ -5,7 +5,5 @@ Reveal Weaknesses against Rare and Unique enemies
 #
 ---
 # Tags
-#Amazon
-#Huntress
 #Notable
 #PoE2

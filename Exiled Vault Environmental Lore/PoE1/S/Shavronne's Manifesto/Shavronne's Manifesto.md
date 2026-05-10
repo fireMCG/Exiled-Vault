@@ -1,4 +1,3 @@
-## Read
 This world is dull and ugly, an imperfect feast of sights, feelings and smells that repulse and depress. Yet amongst this deformity I have found my sublime calling. This world may be abominable, but to an extent, I can be its savior. I have been gifted with a special sight. Before me lies a blueprint of perfection, a kind of hidden beauty within skin, muscles, tendons and organs. With a tempered hand and a sharpened blade, I will refashion, reshape and rebirth this world. My obligation is immense, something that will, in all likelihood, consume my life. I cannot rest! My calling energises me. Such is an artist's curse and compulsion.
 ![[Exiled Vault Environmental Lore/PoE1/S/Shavronne's Manifesto/_Audio/Shavronne's Manifesto - Read.ogg]]
 
@@ -6,6 +5,4 @@ This world is dull and ugly, an imperfect feast of sights, feelings and smells t
 ---
 # Tags
 #Category/Lore/Environmental
-#MissingTags
 #PoE1/Act6
-#PoE1

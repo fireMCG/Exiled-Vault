@@ -72,5 +72,5 @@ Elder Madox: It is my choice. My decision. I've lost greatly. In a moment's hesi
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

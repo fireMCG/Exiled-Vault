@@ -14,16 +14,12 @@ Mana: 100%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Amanamu
 #Concept/Blood
 #Concept/Death
 #Concept/Body/Flesh
 #Concept/Lich
 #Concept/Soul
-#Category/Lineage
-#Society/Lightless
-#Category/SupportGem
-#Attributes/Unreleased
-#Lineage
-#SupportGem
 #PoE2
+#Society/Lightless

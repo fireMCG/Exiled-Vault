@@ -193,5 +193,5 @@ Yama The White: Hah! Yama speak plain as the wind. You cannot hold, but it cuts 
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

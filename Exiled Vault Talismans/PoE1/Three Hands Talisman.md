@@ -1,4 +1,4 @@
-# Three Hands Talisman
+# Flavour Text
 We breed thoughts of single mind, fashion tools of single purpose.  
 While the First Ones bring to bear anything that the wildlands provide.  
 \- The Wolven King
@@ -8,8 +8,8 @@ While the First Ones bring to bear anything that the wildlands provide.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/FirstOnes 
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

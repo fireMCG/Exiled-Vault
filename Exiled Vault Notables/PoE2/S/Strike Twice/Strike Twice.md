@@ -5,7 +5,5 @@ Targets can be affected by two of your Shocks at the same time
 #
 ---
 # Tags
-#Stormweaver
-#Sorceress
 #Notable
 #PoE2

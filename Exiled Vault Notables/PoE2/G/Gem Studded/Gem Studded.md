@@ -4,7 +4,5 @@ For each colour of Socketed Support Gem that is most numerous, gain:•Red: Hits
 #
 ---
 # Tags
-#Gemling Legionnaire
-#Mercenary
 #Notable
 #PoE2

@@ -13,10 +13,7 @@ Mana: 100%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Einhar
-#Category/Lineage
-#Society/Ezomyte
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2
+#Society/Ezomyte

@@ -12,6 +12,8 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/Ahn
 #Character/Aul
 #Concept/Crystal/Azurite
@@ -20,10 +22,5 @@ Mana: 100%
 #Concept/Damnation
 #Concept/Golem
 #Concept/Tyranny
-#Category/Lineage
-#Society/Primeval
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/Primeval

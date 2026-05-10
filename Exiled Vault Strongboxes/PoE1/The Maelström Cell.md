@@ -1,10 +1,10 @@
-# The Maelström Cell
+# Flavour Text
 Unconventional criminals require unconventional prisons.
 
 #
 ![[The_Maelström_Cell.png]]
 
 ---
-## Tags
-#PoE1 
+# Tags
 #Category/Strongbox
+#PoE1 

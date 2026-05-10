@@ -6,7 +6,5 @@ Darkness Reservation lasts for 5 seconds
 #
 ---
 # Tags
-#Acolyte of Chayula
-#Monk
 #Notable
 #PoE2

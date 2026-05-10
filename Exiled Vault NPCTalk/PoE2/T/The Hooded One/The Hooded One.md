@@ -852,5 +852,5 @@ The Hooded One: I am struggling to reconcile two men. One is history's greatest 
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

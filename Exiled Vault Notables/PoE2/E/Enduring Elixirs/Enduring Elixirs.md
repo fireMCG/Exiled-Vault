@@ -4,7 +4,5 @@ Life Flask Effects are not removed when Unreserved Life is FilledLife Flask Effe
 #
 ---
 # Tags
-#Pathfinder
-#Ranger
 #Notable
 #PoE2

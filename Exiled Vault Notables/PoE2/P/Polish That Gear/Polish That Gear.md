@@ -5,7 +5,5 @@ Gain 100% of Evasion Rating as extra Ailment Threshold
 #
 ---
 # Tags
-#Tactician
-#Mercenary
 #Notable
 #PoE2

@@ -1,4 +1,3 @@
-## Read
 The Rapture Device has absorbed its fill of harvested life from Fury and Desire. It is ready. So am I. I know now that I was born to be the end and the beginning of the Empire. The Beast has made this clear to me. As clear and undeniable as the sacrifice I must now make. My Lady Dialla, my love, my life's greatest achievement. She must leave me now, for she cannot follow and she will perish if she remains. And so I will ask of her more than she would ever give. I will betray her. I will break her heart so that I do not break her soul.
 ![[Exiled Vault Environmental Lore/PoE1/M/Malachai's Notebook/_Audio/Malachai's Notebook - Read.ogg]]
 
@@ -6,6 +5,4 @@ The Rapture Device has absorbed its fill of harvested life from Fury and Desire.
 ---
 # Tags
 #Category/Lore/Environmental
-#MissingTags
 #PoE1/Act4
-#PoE1

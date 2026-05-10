@@ -13,7 +13,6 @@ Corrupted
 #
 ---
 # Tags
-#Attributes/Important
 #Category/DivinationCard
 #Concept/Balance/Chaos
 #Concept/King

@@ -14,9 +14,7 @@ Mana: 100%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Guatelitzi
-#Category/Lineage
-#Society/VaalEmpire/Architects
-#Lineage
-#SupportGem
 #PoE2
+#Society/VaalEmpire/Architects

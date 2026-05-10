@@ -5,7 +5,5 @@ There is no Limit on the number of Banners you can place
 #
 ---
 # Tags
-#Tactician
-#Mercenary
 #Notable
 #PoE2

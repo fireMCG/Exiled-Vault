@@ -12,15 +12,12 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/God/Arakaali
 #Character/God/Sin
 #Concept/Emotion/Despair
 #Concept/Lust
-#Category/Lineage
+#PoE2
 #Society/Maraketh
 #Society/VaalEmpire
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
-#PoE2

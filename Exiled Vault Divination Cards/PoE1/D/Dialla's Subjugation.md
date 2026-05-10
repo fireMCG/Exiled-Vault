@@ -25,5 +25,5 @@ Corrupted
 #Concept/Mind
 #Concept/Virtue/Gem
 #Concept/Virtue/Innocence
-#DivinationCard
 #PoE1
+#Interesting 

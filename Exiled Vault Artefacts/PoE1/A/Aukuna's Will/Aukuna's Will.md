@@ -20,7 +20,6 @@ The Black Sekhema's trial had only just begun.
 #Category/Artefact
 #Character/Sekhema/Aukuna
 #Concept/Sekhema
-#Trial/Sekhema
 #Society/Maraketh
-#Artefact
+#Trial/Sekhema
 #PoE1

@@ -15,5 +15,4 @@ Scarab
 #Character/Cameria
 #Concept/Blood
 #Concept/Colour/Gold
-#DivinationCard
 #PoE1

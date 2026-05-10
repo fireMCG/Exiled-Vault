@@ -7,7 +7,5 @@ base max adaptations [3]
 #
 ---
 # Tags
-#Shaman
-#Druid
 #Notable
 #PoE2

@@ -5,7 +5,5 @@ Remnants you create reappear once, 3 seconds after being collected
 #
 ---
 # Tags
-#Stormweaver
-#Sorceress
 #Notable
 #PoE2

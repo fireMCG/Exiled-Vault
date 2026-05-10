@@ -13,5 +13,5 @@ Orb of Annulment
 #Character/God/Innocence
 #Character/God/Sin
 #Concept/Luck
-#DivinationCard
 #PoE1
+#Interesting 

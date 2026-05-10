@@ -168,5 +168,5 @@ Una: Somehow, the forces in the Blackwood know about the henge. The darkness has
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

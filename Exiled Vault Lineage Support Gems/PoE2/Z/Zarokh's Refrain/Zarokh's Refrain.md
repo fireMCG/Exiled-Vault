@@ -14,13 +14,10 @@ CooldownTime: 5000
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Djinn/Zarokh
 #Concept/Barya
 #Concept/Djinn
 #Concept/Prison
-#Category/Lineage
-#Society/Maraketh
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2
+#Society/Maraketh

@@ -17,6 +17,4 @@
 ---
 # Tags
 #Category/Lore/Environmental
-#Index
-#MissingTags
 #PoE1

@@ -1,4 +1,4 @@
-# Bonespire Talisman
+# Flavour Text
 The civilised man must wrestle  
 with the demands of heart and mind.  
 The First Ones share no such struggle.  
@@ -10,8 +10,8 @@ For their Spirit is swift and deadly certain.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/FirstOnes 
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

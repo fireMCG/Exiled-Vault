@@ -16,5 +16,5 @@ Corrupted
 #Category/DivinationCard
 #Concept/Night
 #Concept/Sun
-#DivinationCard
 #PoE1
+#Interesting 

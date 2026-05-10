@@ -6,7 +6,5 @@ Gain 1 fewer Lightning Surge from Triggering Elemental Surge
 #
 ---
 # Tags
-#Amazon
-#Huntress
 #Notable
 #PoE2

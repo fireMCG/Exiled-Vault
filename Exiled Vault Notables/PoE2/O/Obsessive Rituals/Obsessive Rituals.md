@@ -5,7 +5,5 @@ Grants Skill: Sorcery Ward
 #
 ---
 # Tags
-#Witchhunter
-#Mercenary
 #Notable
 #PoE2

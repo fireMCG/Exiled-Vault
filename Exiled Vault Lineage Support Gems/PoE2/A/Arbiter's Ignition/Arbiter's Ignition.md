@@ -12,10 +12,7 @@ Mana: 100%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Unknown/ArbiterOfAsh
-#Category/Lineage
-#Society/Precursor
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2
+#Society/Precursor

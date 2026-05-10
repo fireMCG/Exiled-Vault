@@ -12,14 +12,11 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/Daresso
 #Character/Merveil
 #Concept/Death
 #Concept/Body/Eye
 #Concept/Emotion/Love
-#Category/Lineage
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2

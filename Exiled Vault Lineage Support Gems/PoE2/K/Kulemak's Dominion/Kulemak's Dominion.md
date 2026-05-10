@@ -14,14 +14,11 @@ Spells you cast which affect an area around you or a targeted location also affe
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/Ahn
 #Character/Kulemak
 #Concept/Golem
 #Concept/Shadow
-#Category/Lineage
-#Society/Lightless
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/Lightless

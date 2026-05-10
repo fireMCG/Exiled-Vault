@@ -336,5 +336,5 @@ Mortimer: Those relationships were vital! Built on the very blood and bones of t
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

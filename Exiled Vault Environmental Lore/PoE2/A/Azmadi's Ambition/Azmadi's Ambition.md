@@ -6,7 +6,6 @@ Too long have the Faridun bent beneath the Maraketh bootheel. We were penned to 
 ---
 # Tags
 #Category/Lore/Environmental
-#Attributes/IgnoreGraph
 #Society/Faridun
 #Society/Maraketh
 #Trial/Sekhema

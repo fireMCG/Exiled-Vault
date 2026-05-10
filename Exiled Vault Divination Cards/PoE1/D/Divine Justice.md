@@ -16,5 +16,5 @@ Corrupted
 #Concept/Blindness
 #Concept/Religion/Divinity
 #Concept/Mirror
-#DivinationCard
 #PoE1
+#Interesting 

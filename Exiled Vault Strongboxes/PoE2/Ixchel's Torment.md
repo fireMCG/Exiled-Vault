@@ -1,4 +1,4 @@
-# Ixchel's Torment
+# Flavour Text
 His Trials will end when Time does...  
 and then, they will begin again.
 
@@ -6,13 +6,13 @@ and then, they will begin again.
 ![[Ixchel's_Torment.png]]
 
 ---
-## Tags
+# Tags
+#Category/Strongbox
 #Character/Ixchel 
-#Concept/Time/Cycle 
-#Concept/Time 
-#Concept/Trial
 #Concept/Balance/Chaos 
+#Concept/Time 
+#Concept/Time/Cycle 
+#Concept/Trial
 #PoE2
 #Society/VaalEmpire 
-#Category/Strongbox
 #Trial/Chaos 

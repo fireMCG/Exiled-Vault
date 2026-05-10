@@ -1,4 +1,4 @@
-# Greatwolf Talisman
+# Flavour Text
 The wolf greeted the king,  
 In the light of the harvest moon.  
 The wolf offered the strength of the wild,  
@@ -9,6 +9,7 @@ And the king paid for it in blood.
 
 ---
 ## Tags
+#Category/Talisman
 #Character/FirstOne/Greatwolf
 #Concept/Nature/Harvest
 #Concept/Light
@@ -17,4 +18,3 @@ And the king paid for it in blood.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman

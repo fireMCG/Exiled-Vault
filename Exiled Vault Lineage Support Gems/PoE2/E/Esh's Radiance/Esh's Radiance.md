@@ -13,13 +13,10 @@ Mana: 120%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Breachlord/Esh
 #Concept/Breachlord
 #Concept/Darkness
 #Concept/Whisper
-#Category/Lineage
-#Society/Hiveborn
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2
+#Society/Hiveborn

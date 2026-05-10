@@ -5,7 +5,5 @@ Your Hits are Crushing Blows
 #
 ---
 # Tags
-#Titan
-#Warrior
 #Notable
 #PoE2

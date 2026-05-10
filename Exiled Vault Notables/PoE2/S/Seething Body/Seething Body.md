@@ -6,7 +6,5 @@ Lose Elemental Archon on reaching maximum Infernal Flame
 #
 ---
 # Tags
-#Infernalist
-#Witch
 #Notable
 #PoE2

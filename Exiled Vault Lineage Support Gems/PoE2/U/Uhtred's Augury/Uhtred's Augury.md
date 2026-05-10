@@ -12,16 +12,13 @@ Mana: 100%
 #
 ---
 # Tags
-#Attributes/Important
 #Attributes/Timeline
-#Category/Lineage
-#Category/SupportGem
+#Category/SupportGem/Lineage 
 #Character/Medved
 #Character/Olroth
 #Character/Uhtred
 #Character/Vorana
 #Concept/Space/Star
-#Society/Kalguur
-#Lineage
-#SupportGem
 #PoE2
+#Society/Kalguur
+#Interesting 

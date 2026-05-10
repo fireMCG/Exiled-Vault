@@ -4,7 +4,5 @@ Enemies in your Presence are Slowed by 20%
 #
 ---
 # Tags
-#Chronomancer
-#Sorceress
 #Notable
 #PoE2

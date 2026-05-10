@@ -47,5 +47,5 @@ Druid: Nay... none of it matters. Not without you.
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

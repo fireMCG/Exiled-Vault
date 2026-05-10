@@ -8,9 +8,8 @@ in knowing the answer: all of them.
 #
 ---
 # Tags
-#Concept/Balance/Chaos
 #Category/QuestItem
+#Concept/Balance/Chaos
 #Society/VaalEmpire
 #Trial/Chaos
-#QuestItem
 #PoE2

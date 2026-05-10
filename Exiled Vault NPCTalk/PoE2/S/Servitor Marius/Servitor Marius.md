@@ -388,5 +388,5 @@ Warrior: I might just do that... if they'll listen.
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

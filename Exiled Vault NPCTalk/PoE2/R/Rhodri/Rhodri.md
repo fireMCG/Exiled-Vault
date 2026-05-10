@@ -410,5 +410,5 @@ Rhodri: So, you've got a piece of land for yourself and Ange, eh? Good on ya. I'
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

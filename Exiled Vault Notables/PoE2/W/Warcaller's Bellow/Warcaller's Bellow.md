@@ -5,7 +5,5 @@ Ignore Warcry Cooldowns
 #
 ---
 # Tags
-#Warbringer
-#Warrior
 #Notable
 #PoE2

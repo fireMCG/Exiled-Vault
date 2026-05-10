@@ -13,14 +13,11 @@ Mana: 120%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/Breachlord/Xoph
 #Concept/Time/Eternity
 #Concept/Pyre
 #Concept/Sun
-#Category/Lineage
-#Society/Hiveborn
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/Hiveborn

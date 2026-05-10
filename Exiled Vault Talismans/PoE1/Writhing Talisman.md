@@ -1,4 +1,4 @@
-# Writhing Talisman
+# Flavour Text
 For too long we have crawled in darkness,  
 scavenging through rotten scraps.  
 The First Ones teach us to scavenge until we can hunt,  
@@ -10,10 +10,10 @@ and then never crawl again.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/Darkness 
 #Concept/FirstOnes 
 #Concept/Hunt
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

@@ -10,12 +10,10 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/God/Gruthkul
 #Character/Oisín
-#Category/Lineage
 #Location/ViridianWildwood
-#Society/Maji/WardenOfEaves
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/Maji/WardenOfEaves

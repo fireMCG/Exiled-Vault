@@ -4,7 +4,5 @@
 #
 ---
 # Tags
-#Warbringer
-#Warrior
 #Notable
 #PoE2

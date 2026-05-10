@@ -13,5 +13,4 @@ he will never fade away.
 #Category/DivinationCard
 #Concept/Family/Brother
 #Concept/Sun
-#DivinationCard
 #PoE1

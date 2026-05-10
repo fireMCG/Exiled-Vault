@@ -5,7 +5,5 @@ Maximum Block chance is 75%
 #
 ---
 # Tags
-#Warbringer
-#Warrior
 #Notable
 #PoE2

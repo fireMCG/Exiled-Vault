@@ -1760,5 +1760,5 @@ Tujen: The others have got their particular interests. I'm mainly here in search
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

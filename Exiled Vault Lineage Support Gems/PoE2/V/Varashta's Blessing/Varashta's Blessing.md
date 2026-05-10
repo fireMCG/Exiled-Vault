@@ -13,10 +13,7 @@ Mana: 120%
 ---
 # Tags
 #Attributes/Timeline
-#Category/Lineage
-#Category/SupportGem
+#Category/SupportGem/Lineage 
 #Character/Sekhema/Varashta
-#Society/Maraketh
-#Lineage
-#SupportGem
 #PoE2
+#Society/Maraketh

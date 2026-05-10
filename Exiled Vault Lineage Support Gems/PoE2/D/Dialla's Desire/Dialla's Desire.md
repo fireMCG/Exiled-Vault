@@ -13,6 +13,8 @@ Mana: 90%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/Dialla
 #Character/Malachai
 #Concept/Time/Eternity
@@ -20,10 +22,5 @@ Mana: 90%
 #Concept/Emotion/Love
 #Concept/Queen
 #Concept/Virtue/Gem
-#Category/Lineage
-#Society/EternalEmpire
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/EternalEmpire

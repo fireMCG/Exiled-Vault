@@ -1,4 +1,4 @@
-# Black Maw Talisman
+# Flavour Text
 The First Ones stalk with us  
 upon this lifelong hunt,  
 and cast their contempt  
@@ -10,8 +10,8 @@ upon those that would make us their prey.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/FirstOnes 
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

@@ -5,7 +5,5 @@ Totems die 6 seconds after their Life is reduced to 0
 #
 ---
 # Tags
-#Oracle
-#Druid
 #Notable
 #PoE2

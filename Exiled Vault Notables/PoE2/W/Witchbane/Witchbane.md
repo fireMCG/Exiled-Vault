@@ -7,7 +7,5 @@ focus decay delay ms [5000]
 #
 ---
 # Tags
-#Witchhunter
-#Mercenary
 #Notable
 #PoE2

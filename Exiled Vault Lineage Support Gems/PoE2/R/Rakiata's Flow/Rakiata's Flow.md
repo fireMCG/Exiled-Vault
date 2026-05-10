@@ -12,10 +12,7 @@ Mana: 120%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Rakiata
-#Category/Lineage
-#Society/Karui/Tribe/Tasalio
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2
+#Society/Karui/Tribe/Tasalio

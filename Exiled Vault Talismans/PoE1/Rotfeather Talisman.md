@@ -1,4 +1,4 @@
-# Rotfeather Talisman
+# Flavour Text
 Death met with the First Ones and demanded they hunt with mercy.  
 For while pain might delight the mind, it does not fill the belly.  
 \- The Wolven King
@@ -8,10 +8,10 @@ For while pain might delight the mind, it does not fill the belly.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/Death
 #Concept/FirstOnes
 #Concept/Mercy
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

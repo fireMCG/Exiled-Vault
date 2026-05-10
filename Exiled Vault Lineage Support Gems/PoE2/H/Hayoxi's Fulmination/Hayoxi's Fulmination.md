@@ -21,9 +21,7 @@ Supported Skills create Cursed Ground\nEnemies on the Cursed Ground from a Suppo
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Hayoxi
-#Category/Lineage
-#Society/VaalEmpire/Architects
-#Lineage
-#SupportGem
 #PoE2
+#Society/VaalEmpire/Architects

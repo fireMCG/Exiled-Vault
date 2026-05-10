@@ -1836,5 +1836,5 @@ Alva: I keep thinking I hear laughter, mocking us... but I look around, and I do
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

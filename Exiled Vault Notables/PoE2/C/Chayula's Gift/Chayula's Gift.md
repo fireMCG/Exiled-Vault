@@ -5,7 +5,5 @@ Chaos Resistance is doubled
 #
 ---
 # Tags
-#Acolyte of Chayula
-#Monk
 #Notable
 #PoE2

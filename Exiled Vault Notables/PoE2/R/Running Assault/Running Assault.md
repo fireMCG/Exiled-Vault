@@ -5,7 +5,5 @@ Cannot be Heavy Stunned while Sprinting
 #
 ---
 # Tags
-#Pathfinder
-#Ranger
 #Notable
 #PoE2

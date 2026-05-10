@@ -14,5 +14,4 @@ Synthesis Item
 #Concept/Emotion/Fear
 #Concept/Virtue/Ambition
 #League/Synthesis
-#DivinationCard
 #PoE1

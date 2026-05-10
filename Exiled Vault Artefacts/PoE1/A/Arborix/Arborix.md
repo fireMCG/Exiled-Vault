@@ -25,10 +25,9 @@ their grasp stretches ever farther.
 #
 ---
 # Tags
-#Category/Artefact
 #Bloodline/Titan
+#Category/Artefact
 #Concept/Cataclysm
 #Concept/Darkness
 #Concept/Underground
-#Artefact
 #PoE1

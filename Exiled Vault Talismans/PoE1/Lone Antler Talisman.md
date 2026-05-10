@@ -1,4 +1,4 @@
-# Lone Antler Talisman
+# Flavour Text
 The First Ones thundered over Ezomyr upon hooves of grey and black.  
 The people felt their stamping rage and cowered as the fury rained down.  
 \- The Wolven King
@@ -8,8 +8,8 @@ The people felt their stamping rage and cowered as the fury rained down.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/FirstOnes 
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

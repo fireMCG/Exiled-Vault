@@ -8,5 +8,4 @@ Hillock of Slaugh {"Slayer of the forsaken. Felled by the Hero of Lioneye's Watc
 #Category/Lore/Environmental
 #Character/Hillock
 #Exile/PoE1
-#MissingTags
 #PoE1

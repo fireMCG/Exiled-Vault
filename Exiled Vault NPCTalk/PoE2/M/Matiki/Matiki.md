@@ -1151,5 +1151,5 @@ Matiki: Exactly.
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

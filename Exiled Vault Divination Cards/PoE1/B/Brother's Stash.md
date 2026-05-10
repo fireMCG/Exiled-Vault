@@ -13,5 +13,4 @@ He would trade it all away and then some to have him back.
 #Category/DivinationCard
 #Concept/Family/Brother
 #Concept/Sun
-#DivinationCard
 #PoE1

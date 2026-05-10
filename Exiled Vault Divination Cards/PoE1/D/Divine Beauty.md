@@ -26,5 +26,5 @@ Divine.
 #Concept/Maiden
 #Concept/Music/Song
 #Concept/Religion/Divinity
-#DivinationCard
 #PoE1
+#Interesting 

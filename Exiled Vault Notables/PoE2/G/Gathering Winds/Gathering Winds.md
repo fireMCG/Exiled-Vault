@@ -5,7 +5,5 @@ Lose all Tailwind when Hit
 #
 ---
 # Tags
-#Deadeye
-#Ranger
 #Notable
 #PoE2

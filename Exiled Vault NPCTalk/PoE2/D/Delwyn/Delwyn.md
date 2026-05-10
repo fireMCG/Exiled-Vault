@@ -262,5 +262,5 @@ Delwyn: Wayward is right. Once a fine hunter... now she's turned her spear on he
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

@@ -18,11 +18,10 @@ Faith fuels the flesh, and the flesh fuels the fire..."
 #
 ---
 # Tags
-#Attributes/Important
 #Category/Artefact
 #Concept/Body/Flesh
 #Concept/Element/Fire
 #Concept/Religion/Divinity
 #Concept/Religion/Faith
-#Artefact
 #PoE1
+#Interesting 

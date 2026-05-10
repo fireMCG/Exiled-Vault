@@ -4,7 +4,5 @@
 #
 ---
 # Tags
-#Lich
-#Witch
 #Notable
 #PoE2

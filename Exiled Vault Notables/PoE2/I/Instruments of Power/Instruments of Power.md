@@ -5,7 +5,5 @@ You can equip a Focus while wielding a Staff
 #
 ---
 # Tags
-#Disciple of Varashta
-#Sorceress
 #Notable
 #PoE2

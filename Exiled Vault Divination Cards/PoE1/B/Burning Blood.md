@@ -17,5 +17,5 @@ Corrupted
 #Character/Breachlord/Xoph
 #Concept/Blood
 #Concept/Mirror
-#DivinationCard
 #PoE1
+#Interesting 

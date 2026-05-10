@@ -23,14 +23,11 @@ Supported Skills deal 30% more Damage if\nused in Weapon Set II
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/Rigwald
 #Character/Skothe
 #Concept/King
 #Concept/Slavery
-#Category/Lineage
-#Society/Ezomyte
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/Ezomyte

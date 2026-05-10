@@ -33,5 +33,5 @@ Rangeen, Spiteful Djinn: What do you care? You're not going to free me. Fine. I 
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

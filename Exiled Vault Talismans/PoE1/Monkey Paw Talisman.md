@@ -1,4 +1,4 @@
-# Monkey Paw Talisman
+# Flavour Text
 Look not upon me with fear, my men.  
 Though I seem strange, even monstrous,
 were you to see with the eyes of your forebears,
@@ -10,8 +10,8 @@ your hearts would be filled with wonder.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/Body/Eye
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

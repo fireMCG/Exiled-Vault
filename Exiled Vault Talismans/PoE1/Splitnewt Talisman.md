@@ -1,4 +1,4 @@
-# Splitnewt Talisman
+# Flavour Text
 From flesh and ferocity, the First Ones roamed through the realm of Spirit, and into the darkness beyond.  
 \- The Wolven King
 
@@ -7,6 +7,7 @@ From flesh and ferocity, the First Ones roamed through the realm of Spirit, and 
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/Beyond
 #Concept/Darkness 
 #Concept/FirstOnes 
@@ -16,4 +17,3 @@ From flesh and ferocity, the First Ones roamed through the realm of Spirit, and 
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

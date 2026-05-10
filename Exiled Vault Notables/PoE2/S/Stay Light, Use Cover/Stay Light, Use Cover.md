@@ -7,7 +7,5 @@ Maximum Physical Damage Reduction is 50%
 #
 ---
 # Tags
-#Tactician
-#Mercenary
 #Notable
 #PoE2

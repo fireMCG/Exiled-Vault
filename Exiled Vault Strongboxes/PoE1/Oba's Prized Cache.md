@@ -1,4 +1,4 @@
-# Oba's Prized Cache
+# Flavour Text
 The objects Oba valued more than his life.  
 Sealed from the corruption that ultimately took it.
 
@@ -6,6 +6,6 @@ Sealed from the corruption that ultimately took it.
 ![[Oba's_Prized_Cache.png]]
 
 ---
-## Tags
-#PoE1 
+# Tags
 #Category/Strongbox
+#PoE1 

@@ -13,9 +13,7 @@ Mana: 100%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Atziri
-#Category/Lineage
-#Society/VaalEmpire
-#Lineage
-#SupportGem
 #PoE2
+#Society/VaalEmpire

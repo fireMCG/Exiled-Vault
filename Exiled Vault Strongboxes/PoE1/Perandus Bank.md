@@ -1,4 +1,4 @@
-# Perandus Bank
+# Flavour Text
 "Political Power is an illusion.  
 Popular power is fickle.  
 Financial Power is real and loyal."  
@@ -8,7 +8,7 @@ Financial Power is real and loyal."
 ![[Perandus_Bank.png]]
 
 ---
-## Tags
+# Tags
+#Category/Strongbox
 #Bloodline/Perandus
 #PoE1 
-#Category/Strongbox

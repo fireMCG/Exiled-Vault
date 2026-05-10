@@ -12,10 +12,7 @@ Mana: 100%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Qotra
 #Character/Vilenta
-#Category/Lineage
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2

@@ -15,15 +15,12 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/Kaom
 #Concept/Beast
 #Concept/King
 #Concept/Madness
 #Concept/Night/Nightmare
-#Category/Lineage
-#Society/Karui
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/Karui

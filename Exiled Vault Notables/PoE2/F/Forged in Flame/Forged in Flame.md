@@ -4,7 +4,5 @@ Modifiers to Maximum Fire Resistance also grant Maximum Cold and Lightning Resis
 #
 ---
 # Tags
-#Smith of Kitava
-#Warrior
 #Notable
 #PoE2

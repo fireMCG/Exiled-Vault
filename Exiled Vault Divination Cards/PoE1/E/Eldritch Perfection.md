@@ -18,5 +18,5 @@ Perfect Eldritch Implicit Modifier
 #Concept/Bathe
 #Concept/Beauty
 #Concept/Horror
-#DivinationCard
 #PoE1
+#Interesting 

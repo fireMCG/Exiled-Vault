@@ -12,5 +12,4 @@ The Artist
 #Category/DivinationCard
 #Character/Maligaro
 #Concept/World
-#DivinationCard
 #PoE1

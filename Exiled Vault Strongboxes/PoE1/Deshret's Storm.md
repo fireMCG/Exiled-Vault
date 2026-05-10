@@ -1,4 +1,4 @@
-# Deshret's Storm
+# Flavour Text
 What is stronger, the stone or the wind?  
 Look to the east. Do you see a single stone still standing amongst the dunes?  
 \- Sekhema Deshret
@@ -7,7 +7,7 @@ Look to the east. Do you see a single stone still standing amongst the dunes?
 ![[Deshret's_Storm.png]]
 
 ---
-## Tags
+# Tags
+#Category/Strongbox
 #PoE1 
 #Society/Maraketh 
-#Category/Strongbox

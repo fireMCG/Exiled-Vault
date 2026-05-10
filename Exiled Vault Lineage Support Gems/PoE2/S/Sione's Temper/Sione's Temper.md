@@ -15,6 +15,7 @@ Supported Skills have a 20% chance to fire 8 additional Projectiles in a circle 
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/God/Sione
 #Concept/Crystal
 #Concept/Desire
@@ -23,9 +24,5 @@ Supported Skills have a 20% chance to fire 8 additional Projectiles in a circle 
 #Concept/Colour/Silver
 #Concept/Sky
 #Concept/Vision
-#Category/Lineage
-#Society/Karui
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2
+#Society/Karui

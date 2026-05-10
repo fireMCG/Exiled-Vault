@@ -8,7 +8,5 @@ Double Adaptation Effect
 #
 ---
 # Tags
-#Shaman
-#Druid
 #Notable
 #PoE2

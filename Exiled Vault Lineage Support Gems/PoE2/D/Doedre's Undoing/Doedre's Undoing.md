@@ -20,12 +20,9 @@ Supported Skills create Cursed Ground\nEnemies on the Cursed Ground from a Suppo
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Doedre
 #Concept/Religion/Divinity
 #Concept/Body/Flesh
-#Category/Lineage
-#Society/EternalEmpire
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2
+#Society/EternalEmpire

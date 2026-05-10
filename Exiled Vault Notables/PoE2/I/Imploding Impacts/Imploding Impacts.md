@@ -5,7 +5,5 @@ You can Break Enemy Armour to below 0
 #
 ---
 # Tags
-#Warbringer
-#Warrior
 #Notable
 #PoE2

@@ -176,5 +176,5 @@ Renly: Many of those stolen away were by the hand of that Warden. The torturous 
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

@@ -13,15 +13,12 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
 #Bloodline/Titan
+#Category/SupportGem/Lineage 
 #Character/MoltenOne
 #Character/Uruk
 #Concept/Alliance
 #Concept/Element/Fire
 #Concept/Nature/Volcano
-#Category/Lineage
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2

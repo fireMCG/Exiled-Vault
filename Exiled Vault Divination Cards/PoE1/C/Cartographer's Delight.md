@@ -1,10 +1,8 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Cartographer's Delight.png]]
 
 # Flavour Text
-A map is similar
-to a pair of eyes,
-without one you stumble
-around, unable to find your way.
+A map is similar to a pair of eyes,
+without one you stumble around, unable to find your way.
 
 # Reward
 Map
@@ -18,5 +16,5 @@ Map Tier: 5
 #Concept/Map
 #Concept/Space/Astral
 #Concept/World
-#DivinationCard
 #PoE1
+#Interesting 

@@ -15,5 +15,5 @@ Delirium Orb
 #Concept/Element/Fire
 #Concept/Religion/Hell
 #League/Delirium
-#DivinationCard
 #PoE1
+#Interesting 

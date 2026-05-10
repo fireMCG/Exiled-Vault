@@ -12,10 +12,8 @@ Mana: 100%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/HighTemplar/Dominus
 #Character/Piety
-#Category/Lineage
-#Society/TemplarOrder
-#Lineage
-#SupportGem
 #PoE2
+#Society/TemplarOrder

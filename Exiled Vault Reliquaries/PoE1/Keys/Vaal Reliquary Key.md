@@ -10,7 +10,6 @@ And silence followed all.
 #
 ---
 # Tags
-#Attributes/Disabled 
 #Category/Reliquary 
 #PoE1 
 #Society/VaalEmpire 

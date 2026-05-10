@@ -4,7 +4,5 @@
 #
 ---
 # Tags
-#Titan
-#Warrior
 #Notable
 #PoE2

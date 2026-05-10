@@ -14,8 +14,5 @@ Even as our courageous Arakaali forged the foundations of a new empire within th
 # Tags
 #Category/Lore/Environmental
 #Character/God/Arakaali
-#Index
-#MissingTags
 #PoE1/Act7
 #Society/VaalEmpire
-#PoE1

@@ -1,4 +1,3 @@
-## Remembrance
 When I was young, I never questioned our faith. We pile the bones of former Templars in massive ossuaries that fill the spaces under the earth. Each one is hallowed, we are told. Each one is sacred. Yet as I stood there on that broken day, gazing at the bones I was supposed to join, I realised that I had no idea who any of these people were. Lip service. Meaningless. So many have been forgotten, but I will be remembered.
 ![[Exiled Vault Environmental Lore/PoE1/R/Remembrance/_Audio/Remembrance - Remembrance.ogg]]
 
@@ -6,5 +5,4 @@ When I was young, I never questioned our faith. We pile the bones of former Temp
 ---
 # Tags
 #Category/Lore/Environmental
-#MissingTags
 #PoE1

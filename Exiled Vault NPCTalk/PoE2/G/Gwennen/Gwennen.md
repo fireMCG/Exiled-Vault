@@ -56,5 +56,5 @@ Gwennen: He and the children are why... I do what I do. And I'll never give up, 
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

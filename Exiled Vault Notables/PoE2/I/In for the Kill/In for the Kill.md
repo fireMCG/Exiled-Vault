@@ -5,7 +5,5 @@
 #
 ---
 # Tags
-#Amazon
-#Huntress
 #Notable
 #PoE2

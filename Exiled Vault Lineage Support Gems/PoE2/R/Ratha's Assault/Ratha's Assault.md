@@ -15,10 +15,7 @@ Mana: 110%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Ratha
 #Concept/Emotion/Fear
-#Category/Lineage
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2

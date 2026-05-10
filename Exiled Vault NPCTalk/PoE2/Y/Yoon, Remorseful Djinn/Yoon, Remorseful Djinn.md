@@ -31,5 +31,5 @@ Yoon, Remorseful Djinn: My crime is my own. I suffer and serve so that I may red
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

@@ -20,5 +20,5 @@ Shaper + Elder Item
 #Concept/Eclipse
 #Concept/Jewelry/Ring
 #Concept/Light
-#DivinationCard
 #PoE1
+#Interesting 

@@ -12,5 +12,4 @@ Granite Flask
 #Category/DivinationCard
 #Concept/Nature/Earth
 #Concept/Power
-#DivinationCard
 #PoE1

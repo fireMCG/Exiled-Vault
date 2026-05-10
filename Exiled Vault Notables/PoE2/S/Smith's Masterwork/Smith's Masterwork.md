@@ -5,7 +5,5 @@ Can only use a Normal Body Armour
 #
 ---
 # Tags
-#Smith of Kitava
-#Warrior
 #Notable
 #PoE2

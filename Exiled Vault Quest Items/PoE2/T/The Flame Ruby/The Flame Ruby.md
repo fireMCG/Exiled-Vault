@@ -9,5 +9,4 @@ of a long-ago Wraeclast.
 # Tags
 #Bloodline/Titan
 #Category/QuestItem
-#QuestItem
 #PoE2

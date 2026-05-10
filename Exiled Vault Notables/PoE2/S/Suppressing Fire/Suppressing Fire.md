@@ -4,7 +4,5 @@
 #
 ---
 # Tags
-#Tactician
-#Mercenary
 #Notable
 #PoE2

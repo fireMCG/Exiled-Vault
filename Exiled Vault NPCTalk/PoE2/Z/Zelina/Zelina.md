@@ -141,5 +141,5 @@ Zelina: We did not have access to the Trial in the Cuachic Vault. We entreated t
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

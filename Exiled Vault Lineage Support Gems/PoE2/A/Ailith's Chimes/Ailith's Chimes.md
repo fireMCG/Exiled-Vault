@@ -12,13 +12,10 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/Ailith
 #Concept/Element/Fire
 #Concept/Mind
-#Category/Lineage
-#Society/KeepersOfTheFlame
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/KeepersOfTheFlame

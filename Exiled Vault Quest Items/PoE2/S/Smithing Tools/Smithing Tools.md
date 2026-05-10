@@ -6,9 +6,8 @@ Forgework tools belong to Renly and his son.
 #
 ---
 # Tags
+#Category/QuestItem
 #Character/Renly
 #Exile/PoE2/Warrior
-#Category/QuestItem
-#Society/Ezomyte
-#QuestItem
+#Society/Ezomyte 
 #PoE2

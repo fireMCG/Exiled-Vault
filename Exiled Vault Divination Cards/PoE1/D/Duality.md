@@ -13,5 +13,5 @@ Double-Influenced Item
 # Tags
 #Category/DivinationCard
 #Concept/Balance
-#DivinationCard
 #PoE1
+#Interesting 

@@ -6,7 +6,5 @@ Can Socket a non-Unique Basic Jewel into the Phylactery
 #
 ---
 # Tags
-#Lich
-#Witch
 #Notable
 #PoE2

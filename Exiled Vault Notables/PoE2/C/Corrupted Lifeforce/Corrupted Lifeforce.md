@@ -5,7 +5,5 @@ Grants Skill: Blood Boil
 #
 ---
 # Tags
-#Ritualist
-#Huntress
 #Notable
 #PoE2

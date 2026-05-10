@@ -55,5 +55,5 @@ Risu: She has given me a fair chance to catch up. Others want to be the next tal
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

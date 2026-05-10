@@ -15,6 +15,6 @@ Corrupted
 #Concept/FirstOnes
 #Concept/God
 #Concept/Sky
-#Society/Ezomyte
-#DivinationCard
 #PoE1
+#Society/Ezomyte
+#Interesting 

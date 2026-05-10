@@ -1,4 +1,4 @@
-# Wereclaw Talisman
+# Flavour Text
 It's said to be noble to stand one's ground.  
 To soak the earth in stalwart blood.  
 While the First Ones chose to laugh and run  
@@ -10,9 +10,9 @@ and caper with untamed glee.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/FirstOnes 
 #Concept/Taming
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

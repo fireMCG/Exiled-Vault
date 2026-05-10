@@ -5,7 +5,5 @@
 #
 ---
 # Tags
-#Stormweaver
-#Sorceress
 #Notable
 #PoE2

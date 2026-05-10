@@ -47,5 +47,5 @@ Ruhaki: Well... just between you and I... I'm tired of Tavakai's teachings. I do
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

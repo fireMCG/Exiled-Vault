@@ -11,7 +11,4 @@
 ---
 # Tags
 #Category/Lore/Environmental
-#Index
-#MissingTags
 #PoE1/Act3
-#PoE1

@@ -13,5 +13,4 @@ Life isn't what you make of it, it's already been made for you.
 #Concept/Balance/Chaos
 #Concept/Fate
 #Concept/Life
-#DivinationCard
 #PoE1

@@ -196,5 +196,5 @@ Sekhema Asala: The Gifting of Water went well. We are ready. I will make prepara
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

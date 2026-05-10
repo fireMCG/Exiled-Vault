@@ -16,9 +16,8 @@ Corrupted
 #
 ---
 # Tags
+#Category/DivinationCard
 #Concept/Crystal
 #Concept/Night/Dream
-#Category/DivinationCard
-#Attributes/Important
 #PoE1
 #Interesting 

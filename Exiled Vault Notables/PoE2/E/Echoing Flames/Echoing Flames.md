@@ -4,6 +4,5 @@
 #
 ---
 # Tags
-#Bestiary
 #Notable
 #PoE2

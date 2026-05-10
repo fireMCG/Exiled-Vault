@@ -6,7 +6,5 @@ On Hitting an Enemy while a Life Flask is at full Charges, 40% of its Charges ar
 #
 ---
 # Tags
-#Blood Mage
-#Witch
 #Notable
 #PoE2

@@ -17,15 +17,12 @@ Corrupted Blood deals 25% of your Strength as\nPhysical Damage per second
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Paquate
 #Concept/Blood
 #Concept/Corruption
 #Concept/Element/Fire
 #Concept/Body/Flesh
 #Concept/Water
-#Category/Lineage
-#Society/VaalEmpire
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2
+#Society/VaalEmpire

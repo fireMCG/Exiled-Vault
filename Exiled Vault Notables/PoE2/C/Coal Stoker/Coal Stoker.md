@@ -4,7 +4,5 @@ Modifiers to Fire Resistance also grant Cold and Lightning Resistance at 50% of 
 #
 ---
 # Tags
-#Smith of Kitava
-#Warrior
 #Notable
 #PoE2

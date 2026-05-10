@@ -82,5 +82,5 @@ Zarka: The {sel khari} were attacked? This is exactly why we keep their location
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

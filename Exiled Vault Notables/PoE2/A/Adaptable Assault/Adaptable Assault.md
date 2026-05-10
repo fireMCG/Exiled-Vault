@@ -5,6 +5,5 @@ Projectiles have 25% chance to Fork if you've dealt a Melee Hit in the past eigh
 #
 ---
 # Tags
-#Ultimatum
 #Notable
 #PoE2

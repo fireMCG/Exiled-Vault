@@ -1,4 +1,4 @@
-# Primal Skull Talisman
+# Flavour Text
 With the will of the first ones in our sinews, we shall tear down the walls of Sarn.  
 Yet as is the way of the wildlands, only the strong may grow stronger.  
 \- The Wolven King
@@ -8,8 +8,8 @@ Yet as is the way of the wildlands, only the strong may grow stronger.
 
 ---
 ## Tags
+#Category/Talisman 
 #League/Talisman
 #PoE1
 #Society/EternalEmpire 
 #Society/Ezomyte 
-#Category/Talisman 

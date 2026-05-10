@@ -13,11 +13,8 @@ Mana: 100%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/Kalisa
 #Concept/Body/Heart
-#Category/Lineage
-#Society/EternalEmpire
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2
+#Society/EternalEmpire

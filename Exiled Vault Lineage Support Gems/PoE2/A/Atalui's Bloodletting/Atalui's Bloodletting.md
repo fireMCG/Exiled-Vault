@@ -13,13 +13,10 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/Atalui
 #Character/Atazek
 #Concept/Blood
-#Category/Lineage
-#Society/VaalEmpire
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/VaalEmpire

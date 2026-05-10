@@ -8,7 +8,5 @@ Skills have +5 to Rage cost
 #
 ---
 # Tags
-#Shaman
-#Druid
 #Notable
 #PoE2

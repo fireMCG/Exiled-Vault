@@ -5,7 +5,5 @@ Gain 10% of Damage as Extra Damage of a random Element
 #
 ---
 # Tags
-#Shaman
-#Druid
 #Notable
 #PoE2

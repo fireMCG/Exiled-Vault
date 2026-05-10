@@ -1250,5 +1250,5 @@ Tavakai: This Weapon... it sounds like it could cure the Blood Fever. We believe
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

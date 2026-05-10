@@ -12,10 +12,8 @@ Mana: 120%
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/TaleWoman/Khatal
-#Category/Lineage
+#PoE2
 #Society/Lightless
 #Society/Maraketh
-#Lineage
-#SupportGem
-#PoE2

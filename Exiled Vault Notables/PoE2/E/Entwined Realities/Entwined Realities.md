@@ -4,7 +4,5 @@ Non-Keystone Passive Skills in Medium Radius of allocated Keystone Passive Skill
 #
 ---
 # Tags
-#Oracle
-#Druid
 #Notable
 #PoE2

@@ -1,4 +1,3 @@
-## Read
 We, the Court of Reckoning find you, Doedre Stamatis, guilty of the following transgressions against God: {Perversion of God's Creation Promotion of Heretical Beliefs Unlawful Enslavement of Eternal Citizens Torture of the Innocent Murder of the Servants of Purity} For these most severe crimes, I do sentence Doedre Darktongue to burn at the stake till naught is left but ash. May her life serve as penance for the lives she has taken, and let Purity sweep away the dust of her deeds from our firmament. - High Templar Voll, Commander of the Army of Purity
 ![[Exiled Vault Environmental Lore/PoE1/P/Proclamation/_Audio/Proclamation - Read.ogg]]
 
@@ -6,6 +5,4 @@ We, the Court of Reckoning find you, Doedre Stamatis, guilty of the following tr
 ---
 # Tags
 #Category/Lore/Environmental
-#MissingTags
 #PoE1/Act2
-#PoE1

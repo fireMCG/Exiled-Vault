@@ -15,6 +15,5 @@ Mana: 115%
 #
 ---
 # Tags
-#Lineage
-#SupportGem
+#Category/SupportGem/Lineage 
 #PoE2

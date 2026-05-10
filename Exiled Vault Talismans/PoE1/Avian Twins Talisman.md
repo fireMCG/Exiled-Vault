@@ -1,4 +1,4 @@
-# Avian Twins Talisman
+# Flavour Text
 The first ones live where they can, where they must.  
 They embrace the frost, the storm, the drought.  
 Waxing and waning, breaking and mending,  
@@ -10,6 +10,7 @@ living with time and happenstance, as must we.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/Drought
 #Concept/FirstOnes
 #Concept/Element/Frost
@@ -18,4 +19,3 @@ living with time and happenstance, as must we.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

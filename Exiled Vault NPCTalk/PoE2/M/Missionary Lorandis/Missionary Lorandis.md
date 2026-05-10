@@ -528,5 +528,5 @@ Missionary Lorandis: Please understand... It will be a glorious thing to behold.
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

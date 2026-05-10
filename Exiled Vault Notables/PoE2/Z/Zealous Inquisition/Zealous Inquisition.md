@@ -4,7 +4,5 @@
 #
 ---
 # Tags
-#Witchhunter
-#Mercenary
 #Notable
 #PoE2

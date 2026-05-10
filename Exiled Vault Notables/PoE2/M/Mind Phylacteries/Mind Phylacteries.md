@@ -4,7 +4,5 @@ Can instead consume 25% of maximum Mana to trigger Charms with insufficient char
 #
 ---
 # Tags
-#Ritualist
-#Huntress
 #Notable
 #PoE2

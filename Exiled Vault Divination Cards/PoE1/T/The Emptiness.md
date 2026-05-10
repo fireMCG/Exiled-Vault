@@ -9,7 +9,7 @@ Disabled
 #
 ---
 # Tags
-#Category/DivinationCardç
+#Category/DivinationCard
 #Concept/Damnation
 #Concept/Eclipse/Solar
 #Concept/Hunger

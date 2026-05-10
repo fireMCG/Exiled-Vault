@@ -21,11 +21,10 @@ power or speed when striking."
 #
 ---
 # Tags
-#Attributes/Important
 #Category/Artefact
 #Concept/Balance
 #Concept/Power
 #Concept/Space/Entropy
 #Concept/Wing
-#Artefact
 #PoE1
+#Interesting 

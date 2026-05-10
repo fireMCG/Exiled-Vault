@@ -17,10 +17,7 @@ Totems created by Supported\nSkills have 25% more maximum Life
 #
 ---
 # Tags
+#Category/SupportGem/Lineage 
 #Character/God/Tawhoa
-#Category/Lineage
-#Society/Karui/Tribe/Tawhoa
-#Category/SupportGem
-#Lineage
-#SupportGem
 #PoE2
+#Society/Karui/Tribe/Tawhoa

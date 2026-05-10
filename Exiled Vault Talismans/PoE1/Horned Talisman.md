@@ -1,4 +1,4 @@
-# Horned Talisman
+# Flavour Text
 The Empire hides lies and falsehoods behind a mask of politeness and civility.  
 The First Ones teach us to look through the lies,  
 And that no beast can truly cover their tracks.  
@@ -9,8 +9,8 @@ And that no beast can truly cover their tracks.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/FirstOnes 
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

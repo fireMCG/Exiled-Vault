@@ -13,12 +13,9 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/God/Garukhan
 #Character/God/Innocence
-#Category/Lineage
-#Society/Maraketh
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/Maraketh

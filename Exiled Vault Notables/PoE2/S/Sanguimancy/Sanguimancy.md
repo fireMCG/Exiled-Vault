@@ -6,7 +6,5 @@ life remnants gain per globe [1]
 #
 ---
 # Tags
-#Blood Mage
-#Witch
 #Notable
 #PoE2

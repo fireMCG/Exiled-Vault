@@ -1,4 +1,4 @@
-# Monkey Twins Talisman
+# Flavour Text
 The first ones marked their hunting grounds with blood and piss.  
 We have tried to paint our future in words.  
 Now we shall paint with inks of savagery.  
@@ -9,8 +9,8 @@ Now we shall paint with inks of savagery.
 
 ---
 ## Tags
+#Category/Talisman 
 #Concept/FirstOnes 
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Category/Talisman 

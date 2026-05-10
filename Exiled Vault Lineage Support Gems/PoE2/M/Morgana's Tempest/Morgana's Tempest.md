@@ -16,14 +16,12 @@ Mana: 100%
 #
 ---
 # Tags
-#Category/Lineage
+#Category/SupportGem/Lineage 
 #Character/Mythology/Morgana
 #Concept/Crying
 #Concept/Moon
 #Concept/Sky
 #Concept/Water/Rain
 #Location/Wraeclast/Taisce
-#Society/Ezomyte
-#Lineage
-#SupportGem
 #PoE2
+#Society/Ezomyte

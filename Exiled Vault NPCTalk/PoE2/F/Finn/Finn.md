@@ -55,5 +55,5 @@ Una: Oh, you've got a reputation alright. No need to worry about that.
 ##
 ---
 ## Tags
-#NPCTalk
+#Category/NPCTalk
 #PoE2

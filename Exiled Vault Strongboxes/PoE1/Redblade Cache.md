@@ -1,4 +1,4 @@
-# Redblade Cache
+# Flavour Text
 "Political Power is an illusion.  
 Popular power is fickle.  
 Financial Power is real and loyal."  
@@ -8,7 +8,7 @@ Financial Power is real and loyal."
 ![[Unique_Cache.png]]
 
 ---
-## Tags
+# Tags
+#Category/Strongbox
 #PoE1 
 #Society/Redblade
-#Category/Strongbox

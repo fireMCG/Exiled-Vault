@@ -12,15 +12,12 @@ Mana: 100%
 #
 ---
 # Tags
+#Attributes/Timeline
+#Category/SupportGem/Lineage 
 #Character/Uhtred
 #Character/Vorana
 #Concept/Body/Flesh
 #Concept/Gemling
 #Concept/Virtue/Gem
-#Category/Lineage
-#Society/Kalguur
-#Category/SupportGem
-#Attributes/Timeline
-#Lineage
-#SupportGem
 #PoE2
+#Society/Kalguur

@@ -6,7 +6,5 @@
 #
 ---
 # Tags
-#Infernalist
-#Witch
 #Notable
 #PoE2
