@@ -1,18 +1,16 @@
-# Splinter Research Lab
+# Flavour Text
 The Dreamer's call has entranced the Vaal.
-
-#
-## Properties
+# Properties
 **Tier:** 1
 **Architect:** [[Zilquapa, Architect of the Breach]]
-## Alva's Comments
+# Alva's Comments
 1. You've decided to keep the Architect of the Breach alive. I... honestly don't know what he'll do in that room.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
 #Category/IncursionRoom
 #League/Incursion
 #PoE1

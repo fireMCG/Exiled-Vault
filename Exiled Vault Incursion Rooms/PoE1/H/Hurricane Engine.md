@@ -1,18 +1,17 @@
-# Hurricane Engine
+# Flavour Text
 Thunder booms through hewn stone rooms.
-
-#
-## Properties
+# Properties
 **Tier:** 2
 **Architect:** [[Topotante, Architect of Storms]]
-## Alva's Comments
+# Alva's Comments
 1. The winds of change billow through that room. The Architect of Storms will happily build on your fury.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

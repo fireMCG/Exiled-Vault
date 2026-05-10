@@ -1,18 +1,17 @@
-# Trap Workshop
+# Flavour Text
 From the hollows, death soon follows.
-
-#
-## Properties
+# Properties
 **Tier:** 1
 **Architect:** [[Matatl, Architect of Fortifications]]
-## Alva's Comments
+# Alva's Comments
 1. You've gone and let the Architect of Fortifications take that chamber. You know what fortifications are, don't you? We're literally planning on {raiding} that temple.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

@@ -1,18 +1,17 @@
-# Jeweller's Workshop
+# Flavour Text
 Earth demolished, mined and polished.
-
-#
-## Properties
+# Properties
 **Tier:** 1
 **Architect:** [[Azcapa, Architect of the Guild]]
-## Alva's Comments
+# Alva's Comments
 1. The Architect of the Guild was a notoriously talented jeweller. With him around, Atzoatl is sure to glitter.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

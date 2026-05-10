@@ -1,18 +1,17 @@
-# Guardhouse
+# Flavour Text
 Stoic they stand at their Queen's demand.
-
-#
-## Properties
+# Properties
 **Tier:** 1
 **Architect:** [[Cholotl, Architect of the War]]
-## Alva's Comments
+# Alva's Comments
 1. Wise idea, handing the room over to this architect. More blood to shed means more time in the great temple. Behold! The spoils of war!
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

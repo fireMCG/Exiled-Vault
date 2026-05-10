@@ -1,18 +1,17 @@
-# Poison Garden
+# Flavour Text
 Sweet scents mask foul intents.
-
-#
-## Properties
+# Properties
 **Tier:** 1
 **Architect:** [[Tacati, Architect of Toxins]]
-## Alva's Comments
+# Alva's Comments
 1. Ugh, the Architect of Toxins - not my first choice to let thrive in this part of the temple...
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

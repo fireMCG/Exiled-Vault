@@ -1,18 +1,17 @@
-# Barracks
+# Flavour Text
 Glory charms the men at arms.
-
-#
-## Properties
+# Properties
 **Tier:** 2
 **Architect:** [[Cholotl, Architect of the War]]
-## Alva's Comments
+# Alva's Comments
 1. Without a rival, Cholotl's sure to step up his recruitment efforts. Not a problem for you, I'm sure.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

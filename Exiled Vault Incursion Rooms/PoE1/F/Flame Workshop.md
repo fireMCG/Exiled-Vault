@@ -1,18 +1,17 @@
-# Flame Workshop
+# Flavour Text
 Beneath your feet flows sweltering heat.
-
-#
-## Properties
+# Properties
 **Tier:** 1
 **Architect:** [[Puhuarte, Architect of the Forge]]
-## Alva's Comments
+# Alva's Comments
 1. In that chamber, the Architect of the Forge now hammers away in sparks and steam.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

@@ -1,18 +1,17 @@
-# Pits
+# Flavour Text
 Each well drenched with rotting stench.
-
-#
-## Properties
+# Properties
 **Tier:** 0
 **Architect:** - None -
-## Alva's Comments
+# Alva's Comments
 \- None -
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 \- None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion 
 #PoE1 
 #Society/VaalEmpire 

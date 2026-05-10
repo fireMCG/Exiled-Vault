@@ -1,18 +1,17 @@
-# Temple Defense Workshop
+# Flavour Text
 Sanguine wine sups steel spines.
-
-#
-## Properties
+# Properties
 **Tier:** 2
 **Architect:** [[Matatl, Architect of Fortifications]]
-## Alva's Comments
+# Alva's Comments
 1. You've slain Matatl's rival. That's going to give him the resources he needs to fill the temple with traps. Traps we'll then need to avoid.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

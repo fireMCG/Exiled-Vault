@@ -1,18 +1,17 @@
-# Torture Cages
+# Flavour Text
 Iron bars tell of the criminal swell.
-
-#
-## Properties
+# Properties
 **Tier:** 2
 **Architect:** [[Tzamoto, Architect of Torments]]
-## Alva's Comments
+# Alva's Comments
 1. I suppose you have your reasons for wanting Tzamoto's prison to grow, but I can't for the life of me see why.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

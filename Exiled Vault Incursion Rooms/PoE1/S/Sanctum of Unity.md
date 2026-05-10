@@ -1,18 +1,17 @@
-# Sanctum of Unity
+# Flavour Text
 Vicious affairs atop the stairs.
-
-#
-## Properties
+# Properties
 **Tier:** 2
 **Architect:** [[Quipolatl, Architect of the Nexus]]
-## Alva's Comments
+# Alva's Comments
 1. Quipolatl has a mind for the nexus, and with this action of yours, that mind continues to grow.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

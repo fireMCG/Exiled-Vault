@@ -1,19 +1,20 @@
-# Sacrificial Chamber
+# Flavour Text
 Sacred words read to bless the dead.
 
-## Properties
+# Properties
 **Tier:** 1
 **Architect:** [[Ahuana, Architect of Ceremonies]]
 
-## Alva's Comments
+# Alva's Comments
 1. You've... let the Architect of Ceremonies, the man who led {countless} human sacrifices, take that chamber?
 
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

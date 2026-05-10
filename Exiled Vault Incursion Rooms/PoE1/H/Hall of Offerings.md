@@ -1,18 +1,17 @@
-# Hall of Offerings
+# Flavour Text
 Red gifts flow to the pits below.
-
-#
-## Properties
+# Properties
 **Tier:** 2
 **Architect:** [[Ahuana, Architect of Ceremonies]]
-## Alva's Comments
+# Alva's Comments
 1. Ahuana's rival is dead, and now he's funnelling resources to even bloodier sacrifices in honour of his false gods and his silly Queen.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

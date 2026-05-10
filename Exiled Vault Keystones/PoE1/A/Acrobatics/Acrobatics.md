@@ -11,5 +11,4 @@ Maximum Chance to Dodge Spell Hits is 75%
 ---
 # Tags
 #Category/Keystone
-#Keystone
 #PoE1

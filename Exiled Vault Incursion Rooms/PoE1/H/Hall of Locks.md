@@ -1,18 +1,17 @@
-# Hall of Locks
+# Flavour Text
 Locked in the dark, awaiting a mark.
-
-#
-## Properties
+# Properties
 **Tier:** 2
 **Architect:** [[Zantipi, Architect of Concealment]]
-## Alva's Comments
+# Alva's Comments
 1. With Zantipi's growing influence, there are certain to be even more dangerous -- and lucrative -- chests around.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

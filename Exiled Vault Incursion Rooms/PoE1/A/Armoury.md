@@ -1,18 +1,17 @@
-# Armoury
+# Flavour Text
 Fresh recruits drag iron suits.
-
-#
-## Properties
+# Properties
 **Tier:** 2
 **Architect:** [[Atmohua, Architect of Iron]]
-## Alva's Comments
+# Alva's Comments
 1. Atmohua's got himself a very nice armoury thanks to you, and everyone else is sure to benefit from his protection.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

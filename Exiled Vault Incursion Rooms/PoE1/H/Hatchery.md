@@ -1,18 +1,17 @@
-# Hatchery
+# Flavour Text
 Darkness blessed this vile nest.
-
-#
-## Properties
+# Properties
 **Tier:** 1
 **Architect:** [[Citaqualotl, Architect of the Swarm]]
-## Alva's Comments
+# Alva's Comments
 1. Because of your actions, and shadowed by those... creeping experiments, Citaqualotl, Architect of the Swarm now resides.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

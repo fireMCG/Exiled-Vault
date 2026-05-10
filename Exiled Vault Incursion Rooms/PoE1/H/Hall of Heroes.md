@@ -1,18 +1,17 @@
-# Hall of Heroes
+# Flavour Text
 Their deeds inspire, their spirits never tire.
-
-#
-## Properties
+# Properties
 **Tier:** 2
 **Architect:** [[Opiloti, Architect of Strife]]
-## Alva's Comments
+# Alva's Comments
 1. The Vaal were considered peaceful by today's standards, but there were still people who took joy in violence. And you just gave one of those people exactly what he wanted.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 

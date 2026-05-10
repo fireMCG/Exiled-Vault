@@ -1,18 +1,17 @@
-# Gemcutter's Workshop
+# Flavour Text
 Destruction stems from within these gems.
-
-#
-## Properties
+# Properties
 **Tier:** 1
 **Architect:** [[Zalatl, Architect of Thaumaturgy]]
-## Alva's Comments
+# Alva's Comments
 1. Zalatl will surely reward us, if inadvertently, for placing them in control of that room.
-## Chronicle of Atzoatl
+# Chronicle of Atzoatl
 - None -
 
 #
 ---
-## Tags
+# Tags
+#Category/IncursionRoom
 #League/Incursion
 #PoE1
 #Society/VaalEmpire 
