@@ -1,8 +1,7 @@
 ![[Exiled Vault Keystones/_Images/PoE2 - Knightly Tenets.webp]]
 
 # Flavour Text
-Many men throughout history have claimed to
-stand against evil. Only a few truly meant it.
+Many men throughout history have claimed to stand against evil. Only a few truly meant it.
 
 # Effects
 Gain no inherent bonus from Intelligence
@@ -11,5 +10,6 @@ Gain no inherent bonus from Intelligence
 #
 ---
 # Tags
+#Attributes/Missing 
 #Category/Keystone
 #PoE2

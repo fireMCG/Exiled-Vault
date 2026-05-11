@@ -10,3 +10,4 @@ Unique Monsters slain at Ritual Altars in your Maps grant 100% more Tribute
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

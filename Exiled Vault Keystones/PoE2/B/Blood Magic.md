@@ -13,3 +13,4 @@ Skill Mana Costs Converted to Life Costs
 #Category/Keystone
 #Keystone
 #PoE2
+#Interesting 

@@ -14,3 +14,4 @@ Grants 20 Passive Skill Points
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

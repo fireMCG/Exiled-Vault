@@ -8,3 +8,4 @@ Blight Chests in your Maps have 10% more chance to contain Blighted Maps
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

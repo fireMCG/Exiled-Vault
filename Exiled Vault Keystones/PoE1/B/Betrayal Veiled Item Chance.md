@@ -8,3 +8,4 @@ Immortal Syndicate Members in your Maps have 15% chance to drop an additional Ve
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

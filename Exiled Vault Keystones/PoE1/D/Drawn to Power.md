@@ -9,3 +9,4 @@ Shrines in your Maps are guarded by at least one Magic Pack
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

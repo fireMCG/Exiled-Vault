@@ -12,3 +12,4 @@ Gain Power Charges instead of Frenzy Charges
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

@@ -8,3 +8,4 @@ Your Maps have +2% chance to contain an Abyss per 2% increased Pack Size
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

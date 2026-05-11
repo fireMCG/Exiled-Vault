@@ -14,3 +14,4 @@ Every second, Consume a nearby Corpse to Recover 5% of Life and Mana
 #Category/Keystone
 #Keystone
 #PoE1
+#Interesting 

@@ -11,5 +11,7 @@ Gain no inherent bonus from Dexterity
 #
 ---
 # Tags
+#Attributes/Missing
 #Category/Keystone
 #PoE2
+#Interesting 

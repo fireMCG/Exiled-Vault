@@ -14,3 +14,4 @@ Create Fire Infusion Remnants instead of Cold
 #Category/Keystone
 #Keystone
 #PoE2
+#Interesting 

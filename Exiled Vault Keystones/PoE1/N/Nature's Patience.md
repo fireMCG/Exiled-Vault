@@ -15,3 +15,4 @@ Gain 2 Grasping Vines each second while stationary
 #Category/Keystone
 #Keystone
 #PoE1
+#Interesting 

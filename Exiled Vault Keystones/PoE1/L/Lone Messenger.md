@@ -17,3 +17,4 @@ Your Aura Skills are Disabled
 #Category/Keystone
 #Keystone
 #PoE1
+#Interesting 

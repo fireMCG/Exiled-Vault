@@ -10,3 +10,4 @@ Your Red Tier Maps grant 1000 additional Voltaxic Sulphite on Completion
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

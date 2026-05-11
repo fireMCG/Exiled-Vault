@@ -13,5 +13,7 @@ Projectiles do one of the following at random:
 #
 ---
 # Tags
+#Attributes/Missing 
 #Category/Keystone
 #PoE2
+#Interesting 

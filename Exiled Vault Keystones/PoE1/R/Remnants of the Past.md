@@ -11,3 +11,4 @@ Final Map Boss in each Map has +3% chance to drop a Shaper Guardian Map (Tier 14
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

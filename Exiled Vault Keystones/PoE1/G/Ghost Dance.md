@@ -1,8 +1,7 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Ghost Dance.webp]]
 
 # Flavour Text
-Surround yourself with the dead,
-so that you may avoid joining them.
+Surround yourself with the dead, so that you may avoid joining them.
 
 # Effects
 Cannot Recover Energy Shield to above Evasion Rating

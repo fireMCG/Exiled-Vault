@@ -13,3 +13,4 @@ No Rage effect
 # Tags
 #Category/Keystone
 #PoE2
+#Interesting 

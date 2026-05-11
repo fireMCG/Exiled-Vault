@@ -14,3 +14,4 @@ Never deal Critical Strikes
 #Category/Keystone
 #Keystone
 #PoE1
+#Interesting 

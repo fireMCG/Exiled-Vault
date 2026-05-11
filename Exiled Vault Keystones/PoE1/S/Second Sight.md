@@ -14,3 +14,4 @@ Blind does not affect your Light Radius
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

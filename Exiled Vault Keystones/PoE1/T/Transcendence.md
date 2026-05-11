@@ -12,3 +12,4 @@ Armour applies to Fire, Cold and Lightning Damage taken from Hits instead of Phy
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

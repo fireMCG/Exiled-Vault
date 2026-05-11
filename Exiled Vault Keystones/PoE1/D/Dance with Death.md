@@ -15,3 +15,4 @@ Enemies' Damage with Critical Strikes against you is Lucky
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

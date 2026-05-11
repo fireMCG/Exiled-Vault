@@ -9,3 +9,4 @@ Ultimatum Encounters in your Maps grant rewards as though you completed an addit
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

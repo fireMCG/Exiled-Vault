@@ -8,3 +8,4 @@ Lifeforce dropped by Harvest Monsters in your Maps has 10% chance to be Duplicat
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

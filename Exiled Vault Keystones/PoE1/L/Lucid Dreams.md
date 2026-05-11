@@ -1,8 +1,7 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Lucid Dreams.webp]]
 
 # Flavour Text
-Shattered fragments of reality float through the void,
-waiting to be shaped by your mind's desire.
+Shattered fragments of reality float through the void, waiting to be shaped by your mind's desire.
 
 # Effects
 2% increased Maps found in your Maps
@@ -15,3 +14,4 @@ Unmodifiable
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

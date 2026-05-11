@@ -10,5 +10,7 @@ Regenerate 1 Life per second per 16 Life spent in the past 4 seconds
 #
 ---
 # Tags
+#Attributes/Missing 
 #Category/Keystone
 #PoE2
+#Interesting 

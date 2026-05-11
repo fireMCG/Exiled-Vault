@@ -12,3 +12,4 @@ Life Regeneration is applied to Energy Shield instead
 #Category/Keystone
 #Keystone
 #PoE1
+#Interesting 

@@ -11,3 +11,4 @@ Empowered by the divine, you fear no weapon of man.
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

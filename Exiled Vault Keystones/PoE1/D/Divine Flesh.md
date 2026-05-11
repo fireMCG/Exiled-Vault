@@ -14,3 +14,4 @@ All Damage taken bypasses Energy Shield
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

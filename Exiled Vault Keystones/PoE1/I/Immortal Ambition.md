@@ -15,3 +15,4 @@ Life Leech effects Recover Energy Shield instead while on Full Life
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

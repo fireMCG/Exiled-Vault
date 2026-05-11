@@ -13,3 +13,4 @@ You can't deal Damage with Skills yourself
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 

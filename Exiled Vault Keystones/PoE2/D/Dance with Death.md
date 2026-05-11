@@ -13,3 +13,4 @@ a One-Handed Martial Weapon equipped in your Main Hand
 #Category/Keystone
 #Keystone
 #PoE2
+#Interesting 

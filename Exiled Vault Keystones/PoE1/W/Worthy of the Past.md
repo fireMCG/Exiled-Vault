@@ -9,3 +9,4 @@ Ultimatum Rewards in your Maps have 50% increased chance to be Unique Items
 # Tags
 #Category/Keystone
 #PoE1
+#Interesting 
