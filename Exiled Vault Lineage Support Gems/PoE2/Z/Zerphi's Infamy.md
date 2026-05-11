@@ -21,3 +21,4 @@ Supported Skills gain Glory equal to 5% of\n Life spent on other Skills
 #Character/Zerphi
 #PoE2
 #Society/VaalEmpire
+#Interesting 

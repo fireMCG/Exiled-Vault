@@ -24,3 +24,4 @@ Mana: 90%
 #Concept/Virtue/Gem
 #PoE2
 #Society/EternalEmpire
+#Interesting 

@@ -17,3 +17,4 @@ Mana: 100%
 #Character/Piety
 #PoE2
 #Society/TemplarOrder
+#Interesting 

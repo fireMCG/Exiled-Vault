@@ -17,3 +17,4 @@ Mana: 120%
 #PoE2
 #Society/Lightless
 #Society/Maraketh
+#Interesting 

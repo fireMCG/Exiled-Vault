@@ -20,3 +20,4 @@ Mana: 100%
 #Concept/Body/Eye
 #Concept/Emotion/Love
 #PoE2
+#Interesting 

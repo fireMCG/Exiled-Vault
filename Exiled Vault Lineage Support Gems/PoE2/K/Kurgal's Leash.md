@@ -22,3 +22,4 @@ Mana: 120%
 #Concept/Slavery
 #PoE2
 #Society/Lightless
+#Interesting 

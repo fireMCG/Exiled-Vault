@@ -22,3 +22,4 @@ Spells you cast which affect an area around you or a targeted location also affe
 #Concept/Shadow
 #PoE2
 #Society/Lightless
+#Interesting 

@@ -20,3 +20,4 @@ Mana: 100%
 #Concept/Mirror
 #PoE2
 #Society/VaalEmpire
+#Interesting 

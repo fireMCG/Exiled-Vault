@@ -17,3 +17,4 @@ Mana: 120%
 #Character/Sekhema/Varashta
 #PoE2
 #Society/Maraketh
+#Interesting 

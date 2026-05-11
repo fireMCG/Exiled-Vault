@@ -19,3 +19,4 @@ Mana: 120%
 #Concept/Body/Eye
 #PoE2
 #Society/Hiveborn
+#Interesting 

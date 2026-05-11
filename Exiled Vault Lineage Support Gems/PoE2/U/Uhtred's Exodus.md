@@ -21,3 +21,4 @@ Mana: 100%
 #Concept/Virtue/Gem
 #PoE2
 #Society/Kalguur
+#Interesting 

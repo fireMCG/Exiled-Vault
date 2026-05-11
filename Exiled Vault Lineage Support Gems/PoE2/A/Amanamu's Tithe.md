@@ -23,3 +23,4 @@ Mana: 100%
 #Concept/Soul
 #PoE2
 #Society/Lightless
+#Interesting 

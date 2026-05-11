@@ -20,3 +20,4 @@ Mana: 100%
 #Concept/Queen
 #PoE2
 #Society/VaalEmpire
+#Interesting 

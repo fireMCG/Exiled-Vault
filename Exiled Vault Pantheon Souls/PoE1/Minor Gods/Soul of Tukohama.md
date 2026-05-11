@@ -1,4 +1,4 @@
-# Soul of Tukohama
+
 ![[Soul of Tahsin, Warmaker#Soul of Tahsin, Warmaker]]
 
 #

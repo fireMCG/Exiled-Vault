@@ -24,3 +24,4 @@ Mana: 100%
 #Concept/Tyranny
 #PoE2
 #Society/Primeval
+#Interesting 

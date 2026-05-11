@@ -31,3 +31,4 @@ Supported Skills deal 30% more Damage if\nused in Weapon Set II
 #Concept/Slavery
 #PoE2
 #Society/Ezomyte
+#Interesting 

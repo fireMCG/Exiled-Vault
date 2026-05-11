@@ -24,3 +24,4 @@ Mana: 100%
 #Concept/Night/Nightmare
 #PoE2
 #Society/Karui
+#Interesting 

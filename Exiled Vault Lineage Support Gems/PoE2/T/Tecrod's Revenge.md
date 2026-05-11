@@ -23,3 +23,4 @@ Mana: 100%
 #Location/Wraeclast/WellOfSouls
 #PoE2
 #Society/Lightless
+#Interesting 

@@ -22,3 +22,4 @@ Mana: 100%
 #Concept/Element/Fire
 #Concept/Nature/Volcano
 #PoE2
+#Interesting 

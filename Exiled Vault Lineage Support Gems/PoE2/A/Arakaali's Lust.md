@@ -21,3 +21,4 @@ Mana: 100%
 #PoE2
 #Society/Maraketh
 #Society/VaalEmpire
+#Interesting 

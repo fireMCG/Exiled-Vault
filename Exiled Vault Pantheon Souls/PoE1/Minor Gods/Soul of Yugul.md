@@ -1,4 +1,4 @@
-# Soul of Yugul
+
 ![[Soul of Varhesh, Shimmering Abberation#Soul of Varhesh, Shimmering Abberation]]
 
 #

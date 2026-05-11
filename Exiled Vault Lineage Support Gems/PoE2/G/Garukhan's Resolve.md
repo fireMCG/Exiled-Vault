@@ -19,3 +19,4 @@ Mana: 100%
 #Character/God/Innocence
 #PoE2
 #Society/Maraketh
+#Interesting 

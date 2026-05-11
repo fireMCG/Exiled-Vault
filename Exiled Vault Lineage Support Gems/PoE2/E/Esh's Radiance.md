@@ -20,3 +20,4 @@ Mana: 120%
 #Concept/Whisper
 #PoE2
 #Society/Hiveborn
+#Interesting 

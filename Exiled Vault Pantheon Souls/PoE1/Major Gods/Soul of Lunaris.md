@@ -1,4 +1,4 @@
-# Soul of Lunaris
+
 ![[Soul of Sebbert, Crescent's Point#Soul of Sebbert, Crescent's Point]]
 ![[Soul of Fragment of Winter#Soul of Fragment of Winter]]
 ![[Soul of Khor, Sister of Shadows#Soul of Khor, Sister of Shadows]]
@@ -10,11 +10,10 @@
 ## Tags
 #Character/God/Lunaris 
 #Concept/Moon 
-#Concept/Vice/Pride 
 #Concept/Sky 
 #Concept/Soul 
+#Concept/Vice/Pride 
 #Concept/Water 
-#Character/God/Lunaris 
 #PoE1 
 #Society/Azmeri 
 #Society/EternalEmpire 

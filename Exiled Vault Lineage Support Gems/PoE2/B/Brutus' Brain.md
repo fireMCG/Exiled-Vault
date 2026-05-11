@@ -22,3 +22,4 @@ Mana: 100%
 #Concept/Sky
 #PoE2
 #Society/EternalEmpire
+#Interesting 

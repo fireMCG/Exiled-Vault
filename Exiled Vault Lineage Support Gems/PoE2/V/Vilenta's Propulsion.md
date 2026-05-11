@@ -16,3 +16,4 @@ Mana: 100%
 #Character/Qotra
 #Character/Vilenta
 #PoE2
+#Interesting 

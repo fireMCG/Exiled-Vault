@@ -21,3 +21,4 @@ Mana: 120%
 #Concept/Sun
 #PoE2
 #Society/Hiveborn
+#Interesting 

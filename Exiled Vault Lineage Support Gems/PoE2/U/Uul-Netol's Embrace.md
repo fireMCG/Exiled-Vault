@@ -18,3 +18,4 @@ Mana: 120%
 #Concept/Breachlord
 #PoE2
 #Society/Hiveborn
+#Interesting 

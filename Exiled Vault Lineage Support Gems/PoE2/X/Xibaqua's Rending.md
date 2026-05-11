@@ -17,3 +17,4 @@ Mana: 115%
 # Tags
 #Category/SupportGem/Lineage 
 #PoE2
+#Interesting 

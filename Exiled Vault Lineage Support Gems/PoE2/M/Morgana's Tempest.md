@@ -25,3 +25,4 @@ Mana: 100%
 #Location/Wraeclast/Taisce
 #PoE2
 #Society/Ezomyte
+#Interesting 

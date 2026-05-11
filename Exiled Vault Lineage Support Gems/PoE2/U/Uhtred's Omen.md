@@ -20,3 +20,4 @@ Mana: 100%
 #Character/Vorana
 #PoE2
 #Society/Kalguur
+#Interesting 

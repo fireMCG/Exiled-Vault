@@ -17,3 +17,4 @@ Mana: 100%
 #Location/ViridianWildwood
 #PoE2
 #Society/Maji/WardenOfEaves
+#Interesting 

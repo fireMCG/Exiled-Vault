@@ -17,3 +17,4 @@ Mana: 100%
 #Character/Atziri
 #PoE2
 #Society/VaalEmpire
+#Interesting 

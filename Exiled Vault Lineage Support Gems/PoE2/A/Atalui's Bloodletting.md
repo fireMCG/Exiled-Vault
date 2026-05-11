@@ -13,7 +13,6 @@ Mana: 100%
 #
 ---
 # Tags
-#Attributes/Timeline
 #Category/SupportGem/Lineage 
 #Character/Atalui
 #Character/Atazek

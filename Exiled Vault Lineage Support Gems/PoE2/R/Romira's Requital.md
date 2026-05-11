@@ -21,3 +21,4 @@ Mana: 100%
 #Event/NightOfAThousandRibbons
 #PoE2
 #Society/EternalEmpire
+#Interesting 

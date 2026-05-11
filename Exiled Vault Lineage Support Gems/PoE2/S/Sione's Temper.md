@@ -26,3 +26,4 @@ Supported Skills have a 20% chance to fire 8 additional Projectiles in a circle 
 #Concept/Vision
 #PoE2
 #Society/Karui
+#Interesting 

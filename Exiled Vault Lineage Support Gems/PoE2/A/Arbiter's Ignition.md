@@ -16,3 +16,4 @@ Mana: 100%
 #Character/Unknown/ArbiterOfAsh
 #PoE2
 #Society/Precursor
+#Interesting 

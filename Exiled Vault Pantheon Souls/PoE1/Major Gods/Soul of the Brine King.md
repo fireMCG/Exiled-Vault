@@ -1,4 +1,4 @@
-# Soul of the Brine King
+
 ![[Soul of Puruna, the Challenger#Soul of Puruna, the Challenger]]
 ![[Soul of Captain Tanner Lightfoot#Soul of Captain Tanner Lightfoot]]
 ![[Soul of Glace#Soul of Glace]]
@@ -10,11 +10,11 @@
 ## Tags
 #Character/God/Tsoagoth
 #Concept/Abyss
-#Concept/Night/Dream
 #Concept/Animal/Fish 
-#Concept/Fracture
 #Concept/Emotion/Hate 
-#Concept/World
+#Concept/Fracture
+#Concept/Night/Dream
 #Concept/Soul 
-#Character/God/Tsoagoth
+#Concept/World
 #PoE1 
+#Interesting 
