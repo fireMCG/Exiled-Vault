@@ -1,0 +1,14 @@
+![[PoE2 - Soul Core of Puhuarte.webp]]
+
+# Details
+- Stack Size: 1 / 10
+
+# Effects
+- Martial Weapon: 30% increased Flammability Magnitude
+- Gloves: +1% to Maximum Fire Resistance
+
+#
+---
+# Tags
+#Category/Augment/SoulCore
+#PoE2

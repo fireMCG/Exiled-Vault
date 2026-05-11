@@ -1,0 +1,19 @@
+![[PoE2 - Robust Rune.webp]]
+
+# Details
+- Stack Size: 1 / 10
+- Requires: Level 15
+
+# Effects
+- All Equipment: +8 to Strength
+
+# Bonded Effects
+- Martial Weapon: Adds 6 to 10 Physical Damage to Attacks, Adds 6 to 10 Fire damage to Attacks
+- Wand or Staff: +100 to Armour
+- Armour: +10 to maximum Life, +10 to maximum Mana
+
+#
+---
+# Tags
+#Category/Augment/Rune/2
+#PoE2
