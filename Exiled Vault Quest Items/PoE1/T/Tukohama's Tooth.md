@@ -7,7 +7,7 @@ The belly cannot hunger for what the eyes cannot see."
 #
 ---
 # Tags
-#Character/God/Tukohama
 #Category/QuestItem
-#Society/Karui/Tribe/Tukohama
+#Character/God/Tukohama
 #PoE1
+#Society/Karui/Tribe/Tukohama

@@ -6,6 +6,7 @@ A sigil of thaumaturgy graven in granite.
 #
 ---
 # Tags
-#Concept/Thaumaturgy
 #Category/QuestItem
+#Concept/Thaumaturgy
 #PoE1
+#Interesting 

@@ -1,8 +1,7 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - The Flame Ruby.png]]
 
 # Flavour Text
-It burns with the primordial heat
-of a long-ago Wraeclast.
+It burns with the primordial heat of a long-ago Wraeclast.
 
 #
 ---
@@ -10,3 +9,4 @@ of a long-ago Wraeclast.
 #Bloodline/Titan
 #Category/QuestItem
 #PoE2
+#Interesting 

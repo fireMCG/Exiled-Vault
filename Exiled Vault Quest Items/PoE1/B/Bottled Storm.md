@@ -9,10 +9,11 @@ offerings of adoration. We hope that, in its mercy, it shall pass us by."
 #
 ---
 # Tags
+#Category/QuestItem
 #Concept/Offering
 #Concept/Soul
 #Concept/Storm
 #Concept/Tyranny
-#Category/QuestItem
-#Society/Maraketh
 #PoE1
+#Society/Maraketh
+#Interesting 

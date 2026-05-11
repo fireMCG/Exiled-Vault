@@ -8,6 +8,6 @@ generous supply of opiates.
 #
 ---
 # Tags
-#Character/DrOpden
 #Category/QuestItem
+#Character/DrOpden
 #PoE1

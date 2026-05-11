@@ -6,7 +6,8 @@ They are engraved with the runes for 'Authority,' 'Break,' and 'Release.'
 #
 ---
 # Tags
-#Concept/Rune
 #Category/QuestItem
-#Society/Kalguur
+#Concept/Rune
 #PoE2
+#Society/Kalguur
+#Interesting 

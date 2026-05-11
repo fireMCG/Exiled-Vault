@@ -1,8 +1,7 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Sun Clan Relic.png]]
 
 # Flavour Text
-By the terms of the Third Pact, the Sun Clan
-agreed to never again attack the Maraketh.
+By the terms of the Third Pact, the Sun Clan agreed to never again attack the Maraketh.
 
 #
 ---
@@ -10,6 +9,7 @@ agreed to never again attack the Maraketh.
 #Attributes/Timeline
 #Category/QuestItem
 #Event/ThirdPact
+#PoE2
 #Society/Maraketh
 #Society/SunClan
-#PoE2
+#Interesting 

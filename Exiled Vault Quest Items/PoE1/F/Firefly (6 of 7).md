@@ -6,7 +6,8 @@ Gold of the organ. Green of the throat. Red of the vein.
 #
 ---
 # Tags
+#Category/QuestItem
 #Concept/Body/Flesh
 #Concept/Colour/Gold
-#Category/QuestItem
 #PoE1
+#Interesting 

@@ -8,9 +8,10 @@ death is no fitting end to genius.
 #
 ---
 # Tags
+#Category/QuestItem
 #Character/Malachai
 #Concept/Body/Flesh
 #Concept/Body/Heart
 #Concept/Life/Immortality
-#Category/QuestItem
 #PoE1
+#Interesting

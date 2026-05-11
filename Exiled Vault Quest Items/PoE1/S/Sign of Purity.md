@@ -7,15 +7,16 @@ capable of banishing darkness, and bringing order to the chaos in men's hearts.
 #
 ---
 # Tags
-#Character/God/Innocence
-#Concept/Blood
-#Concept/Balance/Chaos
-#Concept/Darkness
-#Concept/Colour/Gold
-#Concept/Body/Heart
-#Concept/Balance/Order
-#Concept/Purity
-#Category/QuestItem
-#Society/TemplarOrder
 #Attributes/Timeline
+#Category/QuestItem
+#Character/God/Innocence
+#Concept/Balance/Chaos
+#Concept/Balance/Order
+#Concept/Blood
+#Concept/Body/Heart
+#Concept/Colour/Gold
+#Concept/Darkness
+#Concept/Purity
 #PoE1
+#Society/TemplarOrder
+#Interesting

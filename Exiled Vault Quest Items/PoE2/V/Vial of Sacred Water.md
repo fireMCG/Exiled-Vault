@@ -7,5 +7,5 @@ Cool and pure, it represents hope in a bleak era.
 ---
 # Tags
 #Category/QuestItem
-#Society/Maraketh
 #PoE2
+#Society/Maraketh

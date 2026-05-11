@@ -7,5 +7,5 @@ Brilliant idols of immense value...
 ---
 # Tags
 #Category/QuestItem
-#Society/VaalEmpire
 #PoE2
+#Society/VaalEmpire

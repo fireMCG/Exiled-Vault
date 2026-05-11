@@ -8,10 +8,11 @@ its gates barred against the unfaithful.
 #
 ---
 # Tags
-#Concept/Damnation
+#Attributes/Timeline
+#Category/QuestItem
 #Concept/Body/Eye
+#Concept/Damnation
 #Concept/Religion
 #Concept/Sky
-#Category/QuestItem
-#Attributes/Timeline
 #PoE1
+#Interesting 

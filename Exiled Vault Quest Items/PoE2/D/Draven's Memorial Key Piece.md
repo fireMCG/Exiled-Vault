@@ -6,7 +6,7 @@
 #
 ---
 # Tags
-#Character/Draven
 #Category/QuestItem
-#Society/EternalEmpire
+#Character/Draven
 #PoE2
+#Society/EternalEmpire

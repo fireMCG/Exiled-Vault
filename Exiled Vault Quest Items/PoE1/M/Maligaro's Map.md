@@ -7,6 +7,7 @@ Certain maps can only be rendered in the most vivid of viscera."
 #
 ---
 # Tags
-#Category/QuestItem
 #Character/Maligaro
+#Category/QuestItem
 #PoE1
+#Interesting

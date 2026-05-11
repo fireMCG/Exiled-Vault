@@ -6,6 +6,7 @@ The Spirit, it radiates not from above.
 #
 ---
 # Tags
-#Concept/Spirit
 #Category/QuestItem
+#Concept/Spirit
 #PoE1
+#Interesting 

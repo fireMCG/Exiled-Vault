@@ -7,7 +7,7 @@ imbued by centuries of songs passed from mother to daughter.
 #
 ---
 # Tags
-#Character/Una
 #Category/QuestItem
-#Society/Ezomyte
+#Character/Una
 #PoE2
+#Society/Ezomyte

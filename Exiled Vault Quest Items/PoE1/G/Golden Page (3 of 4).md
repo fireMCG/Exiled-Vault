@@ -9,10 +9,11 @@ Or madness of the flesh?"
 #
 ---
 # Tags
+#Category/QuestItem
 #Character/IciusPerandus
 #Concept/Body/Flesh
 #Concept/Mind
 #Concept/Night/Nightmare
-#Category/QuestItem
-#Society/VaalEmpire
 #PoE1
+#Society/VaalEmpire
+#Interesting

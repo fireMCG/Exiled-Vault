@@ -9,3 +9,4 @@ as if it were somehow lit from within.
 # Tags
 #Category/QuestItem
 #PoE1
+#Interesting 

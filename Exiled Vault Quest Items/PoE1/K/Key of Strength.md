@@ -6,6 +6,7 @@ The true disciple brings enlightenment to heretics.
 #
 ---
 # Tags
-#Concept/Religion
 #Category/QuestItem
+#Concept/Religion
 #PoE1
+#Interesting

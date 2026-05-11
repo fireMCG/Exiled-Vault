@@ -8,7 +8,8 @@ and engulfs those moths fool enough to embrace it.
 #
 ---
 # Tags
-#Concept/Virtue/Ambition
-#Concept/Colour/Silver
 #Category/QuestItem
+#Concept/Colour/Silver
+#Concept/Virtue/Ambition
 #PoE1
+#Interesting 

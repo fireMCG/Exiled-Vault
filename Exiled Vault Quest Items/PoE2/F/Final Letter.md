@@ -10,5 +10,5 @@ avoid revealing who it was intended for.
 ---
 # Tags
 #Category/QuestItem
-#Society/Maraketh
 #PoE2
+#Society/Maraketh

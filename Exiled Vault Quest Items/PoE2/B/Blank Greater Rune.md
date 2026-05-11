@@ -6,4 +6,5 @@ Untouched by fate. Its power waits for a purpose.
 #
 ---
 # Tags
+#Category/QuestItem
 #PoE2

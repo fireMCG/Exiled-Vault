@@ -6,9 +6,10 @@ A soul still clings to fading shreds of life.
 #
 ---
 # Tags
+#Category/QuestItem
 #Concept/Body/Heart
 #Concept/Sacrifice
 #Concept/Soul
-#Category/QuestItem
-#Society/VaalEmpire
 #PoE2
+#Society/VaalEmpire
+#Interesting 

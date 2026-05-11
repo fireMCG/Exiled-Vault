@@ -7,7 +7,7 @@ Minions make the master.
 #
 ---
 # Tags
+#Category/QuestItem
 #Concept/Master
 #Concept/Minion
-#Category/QuestItem
 #PoE1

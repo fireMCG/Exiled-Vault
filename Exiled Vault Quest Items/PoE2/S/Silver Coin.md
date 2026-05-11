@@ -6,7 +6,7 @@ To the unknowing, it is nothing. To Yama, it is everything.
 #
 ---
 # Tags
-#Character/Yama
 #Category/QuestItem
-#Society/Karui
+#Character/Yama
 #PoE2
+#Society/Karui

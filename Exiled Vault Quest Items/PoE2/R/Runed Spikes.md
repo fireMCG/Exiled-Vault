@@ -8,7 +8,8 @@ pursuit of an important cause.
 #
 ---
 # Tags
-#Concept/Rune
 #Category/QuestItem
-#Society/Ezomyte
+#Concept/Rune
 #PoE2
+#Society/Ezomyte
+#Interesting 

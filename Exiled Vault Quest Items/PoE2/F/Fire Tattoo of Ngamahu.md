@@ -6,8 +6,9 @@ The Ngamahu Tribe believes the Karui will be reforged in a volcano at the end of
 #
 ---
 # Tags
-#Concept/Time/Ending
-#Concept/Nature/Volcano
 #Category/QuestItem
-#Society/Karui/Tribe/Ngamahu
+#Concept/Nature/Volcano
+#Concept/Time/Ending
 #PoE2
+#Society/Karui/Tribe/Ngamahu
+#Interesting 

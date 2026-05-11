@@ -9,3 +9,4 @@ Man must choose whether to open it.
 # Tags
 #Category/QuestItem
 #PoE1
+#Interesting 

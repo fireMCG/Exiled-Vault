@@ -10,6 +10,6 @@ We must go to the Trial of the Sekhemas!
 #Category/QuestItem
 #Character/Djinn/Balbala
 #Concept/Barya
+#PoE2
 #Society/Maraketh
 #Trial/Sekhema
-#PoE2

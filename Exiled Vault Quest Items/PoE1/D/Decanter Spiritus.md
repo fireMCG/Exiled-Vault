@@ -9,8 +9,9 @@ spiritual can we hope to taste the full body of life."
 #
 ---
 # Tags
+#Category/QuestItem
 #Character/Malachai
 #Concept/Blindness
 #Concept/Body/Flesh
-#Category/QuestItem
 #PoE1
+#Interesting 

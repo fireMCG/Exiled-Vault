@@ -7,6 +7,6 @@ Apply with trepidation.
 #
 ---
 # Tags
-#Concept/Thaumaturgy
 #Category/QuestItem
+#Concept/Thaumaturgy
 #PoE1

@@ -7,7 +7,7 @@ It's time we find who is leading them.
 #
 ---
 # Tags
+#Category/QuestItem
 #Concept/Emotion/Hate
 #Concept/Slavery
-#Category/QuestItem
 #PoE1

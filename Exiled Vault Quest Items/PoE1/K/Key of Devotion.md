@@ -6,6 +6,7 @@ The true disciple gives all that they are unto God.
 #
 ---
 # Tags
-#Concept/Religion/Devotion
 #Category/QuestItem
+#Concept/Religion/Devotion
 #PoE1
+#Interesting

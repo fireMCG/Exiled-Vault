@@ -6,7 +6,7 @@ The cruelty of the Eternals...
 #
 ---
 # Tags
-#Character/Asinia
 #Category/QuestItem
-#Society/EternalEmpire
+#Character/Asinia
 #PoE2
+#Society/EternalEmpire

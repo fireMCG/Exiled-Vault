@@ -9,10 +9,10 @@ Your Humanity will shame us all."
 #
 ---
 # Tags
+#Category/QuestItem
 #Character/IciusPerandus
 #Character/Siosa
 #Concept/Slavery
-#Category/QuestItem
+#PoE1
 #Society/Karui
 #Society/VaalEmpire
-#PoE1

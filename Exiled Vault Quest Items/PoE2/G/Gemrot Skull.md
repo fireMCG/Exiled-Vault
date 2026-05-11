@@ -6,8 +6,9 @@ The skull of a stolen child, carefully cultivated by the Bog Witch...
 #
 ---
 # Tags
+#Category/QuestItem
 #Character/Ignagduk
 #Concept/Crystal
-#Category/QuestItem
-#Society/Azak
 #PoE2
+#Society/Azak
+#Interesting 

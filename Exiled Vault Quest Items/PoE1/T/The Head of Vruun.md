@@ -8,4 +8,6 @@ Vengeance will be ours...
 #
 ---
 # Tags
-#PoE1
+#Category/QuestItem
+#PoE1 
+#Interesting 

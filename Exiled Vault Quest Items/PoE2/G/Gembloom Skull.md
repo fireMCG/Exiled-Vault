@@ -6,7 +6,8 @@ Corruption often causes crystals to grow in strange places...
 #
 ---
 # Tags
+#Category/QuestItem
 #Concept/Corruption
 #Concept/Crystal
-#Category/QuestItem
 #PoE2
+#Interesting 
