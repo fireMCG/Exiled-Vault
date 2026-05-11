@@ -1,8 +1,7 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Drox's Crest.webp]]
 
 # Flavour Text
-He sought a kingdom,
-but lost his people.
+He sought a kingdom, but lost his people.
 
 # Details
 Map Fragments
@@ -17,6 +16,7 @@ Shift click to unstack.
 #
 ---
 # Tags
-#Character/Drox
 #Category/Fragment
+#Character/Drox
 #PoE1
+#Interesting 

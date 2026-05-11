@@ -21,3 +21,4 @@ Can be used in a personal Map Device, allowing you to capture the Soul of the Ma
 # Tags
 #Category/Fragment
 #PoE1
+#Interesting 

@@ -14,6 +14,6 @@ Shift click to unstack.
 #
 ---
 # Tags
+#Category/Fragment/Scarab
 #League/Betrayal
-#Category/Scarab
 #PoE1

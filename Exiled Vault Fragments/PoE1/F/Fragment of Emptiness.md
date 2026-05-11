@@ -16,7 +16,8 @@ Shift click to unstack.
 #
 ---
 # Tags
+#Category/Fragment
 #Character/Eldritch/Elder
 #Concept/Decay
-#Category/Fragment
 #PoE1
+#Interesting 

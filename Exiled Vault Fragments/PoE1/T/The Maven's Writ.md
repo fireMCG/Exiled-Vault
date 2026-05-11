@@ -15,3 +15,4 @@ Open a portal to Absence of Mercy and Empathy by using this item in a personal M
 # Tags
 #Category/Fragment
 #PoE1
+#Interesting 

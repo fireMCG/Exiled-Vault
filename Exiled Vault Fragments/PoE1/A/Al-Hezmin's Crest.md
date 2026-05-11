@@ -1,8 +1,7 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Al-Hezmin's Crest.webp]]
 
 # Flavour Text
-He sought to be the best,
-but lost his family.
+He sought to be the best, but lost his family.
 
 # Details
 Map Fragments
@@ -17,7 +16,8 @@ Shift click to unstack.
 #
 ---
 # Tags
+#Category/Fragment
 #Character/Conqueror/Al-Hezmin
 #Concept/Family
-#Category/Fragment
 #PoE1
+#Interesting 

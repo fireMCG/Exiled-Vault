@@ -14,6 +14,6 @@ Shift click to unstack.
 #
 ---
 # Tags
+#Category/Fragment/Scarab
 #League/Incursion
-#Category/Scarab
 #PoE1

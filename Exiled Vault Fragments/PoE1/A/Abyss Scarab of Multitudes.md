@@ -14,7 +14,8 @@ Shift click to unstack.
 #
 ---
 # Tags
+#Category/Fragment/Scarab
 #Concept/Nature/Earth
 #League/Abyss
-#Category/Scarab
 #PoE1
+#Interesting 

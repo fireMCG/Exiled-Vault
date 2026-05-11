@@ -1,8 +1,7 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Baran's Crest.webp]]
 
 # Flavour Text
-He sought God,
-but lost himself.
+He sought God, but lost himself.
 
 # Details
 Map Fragments
@@ -17,6 +16,7 @@ Shift click to unstack.
 #
 ---
 # Tags
-#Character/Conqueror/Baran
 #Category/Fragment
+#Character/Conqueror/Baran
 #PoE1
+#Interesting 

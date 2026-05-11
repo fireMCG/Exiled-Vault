@@ -16,8 +16,9 @@ Shift click to unstack.
 #
 ---
 # Tags
+#Category/Fragment
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius
 #Concept/Virtue/Knowledge
-#Category/Fragment
 #PoE1
+#Interesting 

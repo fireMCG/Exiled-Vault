@@ -16,10 +16,11 @@ Use four of these in a personal Map Device to open Portals to The Cortex. Can on
 #
 ---
 # Tags
+#Category/Fragment
 #Character/HighTemplar/Venarius
-#Concept/Time/Cycle
 #Concept/Memory
 #Concept/Mind
 #Concept/Time
-#Category/Fragment
+#Concept/Time/Cycle
 #PoE1
+#Interesting 

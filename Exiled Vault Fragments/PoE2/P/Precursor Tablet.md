@@ -6,5 +6,6 @@ Item Level:
 #
 ---
 # Tags
+#Category/Fragment
 #PoE2
-#Interesting 
+#Interesting

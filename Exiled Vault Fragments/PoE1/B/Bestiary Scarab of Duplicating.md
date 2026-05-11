@@ -14,6 +14,6 @@ Shift click to unstack.
 #
 ---
 # Tags
+#Category/Fragment/Scarab
 #League/Bestiary
-#Category/Scarab
 #PoE1

@@ -16,8 +16,9 @@ Use four of these in a personal Map Device to open Portals to The Shaper's Realm
 #
 ---
 # Tags
+#Category/Fragment
 #Character/Eldritch/Elder
 #Concept/Horror
 #Concept/Void
-#Category/Fragment
 #PoE1
+#Interesting 

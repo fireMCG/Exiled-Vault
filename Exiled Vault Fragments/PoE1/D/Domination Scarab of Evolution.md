@@ -14,6 +14,7 @@ Shift click to unstack.
 #
 ---
 # Tags
+#Category/Fragment/Scarab
 #League/Domination
-#Category/Scarab
 #PoE1
+#Interesting 

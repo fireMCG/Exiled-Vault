@@ -7,4 +7,5 @@ Can be traded to a vendor for a Hivebrain Gland.
 #
 ---
 # Tags
+#Category/Fragment
 #PoE1

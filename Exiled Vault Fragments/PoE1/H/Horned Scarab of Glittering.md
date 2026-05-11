@@ -7,5 +7,6 @@ base_item_found_rarity_+%
 #
 ---
 # Tags
-#Category/Scarab
+#Attributes/Missing 
+#Category/Fragment/Scarab
 #PoE1

@@ -20,6 +20,6 @@ Shift click to unstack.
 #
 ---
 # Tags
+#Category/Fragment/Scarab
 #League/Torment
-#Category/Scarab
 #PoE1

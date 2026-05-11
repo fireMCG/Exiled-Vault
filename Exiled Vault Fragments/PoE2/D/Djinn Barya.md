@@ -11,4 +11,5 @@ Right click this item to view details of the Trials in progress. Take this item 
 #
 ---
 # Tags
+#Category/Fragment
 #PoE2

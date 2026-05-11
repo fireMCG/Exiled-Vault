@@ -16,8 +16,9 @@ Use four of these in a personal Map Device to open Portals to The Absence of Sym
 #
 ---
 # Tags
-#Character/Eldritch/EaterOfWorlds
-#Concept/World
-#Concept/Tangle
 #Category/Fragment
+#Character/Eldritch/EaterOfWorlds
+#Concept/Tangle
+#Concept/World
 #PoE1
+#Interesting 

@@ -8,4 +8,5 @@ Scarabs dropped in your Maps have 20% increased chance to be Sulphite Scarabs
 #
 ---
 # Tags
+#Category/Fragment
 #PoE1

@@ -12,4 +12,5 @@ Grants 20 Passive Skill Points
 #
 ---
 # Tags
+#Category/Fragment
 #PoE1

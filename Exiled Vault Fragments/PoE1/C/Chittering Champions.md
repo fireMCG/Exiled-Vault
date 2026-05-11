@@ -7,4 +7,5 @@ Final Map Boss in each Map has 25% chance to drop an additional Scarab
 #
 ---
 # Tags
+#Category/Fragment
 #PoE1

@@ -13,4 +13,4 @@ Can be placed in a door in The Burning Monolith.
 # Tags
 #Category/Fragment
 #PoE2
-#Interesting 
+#Interesting

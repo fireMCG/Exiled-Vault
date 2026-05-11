@@ -12,4 +12,4 @@ Right click this item to create a stack of 100 Petition Splinters.
 # Tags
 #Category/Fragment
 #PoE2
-#Interesting 
+#Interesting

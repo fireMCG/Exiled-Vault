@@ -14,7 +14,7 @@ Shift click to unstack.
 #
 ---
 # Tags
+#Category/Fragment/Scarab
 #League/Betrayal
-#Category/Scarab
-#Society/ImmortalSyndicate
 #PoE1
+#Society/ImmortalSyndicate

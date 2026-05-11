@@ -1,8 +1,7 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Blazing Fragment.webp]]
 
 # Flavour Text
-Constellations are systematically incinerated
-in the wake of an ever-expanding archive of minds.
+Constellations are systematically incinerated in the wake of an ever-expanding archive of minds.
 
 # Details
 Map Fragments
@@ -16,7 +15,7 @@ Use four of these in a personal Map Device to open Portals to The Absence of Pat
 #
 ---
 # Tags
+#Category/Fragment
 #Character/Eldritch/SearingExarch
 #Concept/Cleansing
-#Category/Fragment
 #PoE1

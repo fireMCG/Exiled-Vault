@@ -8,4 +8,5 @@ Click and drag this item over a Monster Pack in the Lantern of Arimor to have th
 #
 ---
 # Tags
+#Category/Fragment
 #PoE1

@@ -14,6 +14,6 @@ Shift click to unstack.
 #
 ---
 # Tags
-#Category/Fragment/Scarab 
+#Category/Fragment/Scarab
 #PoE1
 #Society/VaalEmpire

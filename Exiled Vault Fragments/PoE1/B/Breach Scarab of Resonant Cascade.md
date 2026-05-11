@@ -18,6 +18,6 @@ Shift click to unstack.
 #
 ---
 # Tags
+#Category/Fragment/Scarab
 #League/Breach
-#Category/Scarab
 #PoE1

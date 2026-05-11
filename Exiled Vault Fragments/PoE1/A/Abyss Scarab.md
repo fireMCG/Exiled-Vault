@@ -14,8 +14,9 @@ Shift click to unstack.
 #
 ---
 # Tags
+#Category/Fragment/Scarab
 #Concept/Darkness
 #Concept/Soul
 #League/Abyss
-#Category/Scarab
 #PoE1
+#Interesting 

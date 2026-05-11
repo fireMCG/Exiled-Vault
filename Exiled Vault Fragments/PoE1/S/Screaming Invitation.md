@@ -6,4 +6,6 @@ Item Level:
 #
 ---
 # Tags
+#Attributes/Missing 
+#Category/Fragment
 #PoE1

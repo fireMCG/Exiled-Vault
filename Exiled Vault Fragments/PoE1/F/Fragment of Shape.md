@@ -16,9 +16,10 @@ Shift click to unstack.
 #
 ---
 # Tags
+#Category/Fragment
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius
-#Concept/Creation
 #Concept/Body/Eye
-#Category/Fragment
+#Concept/Creation
 #PoE1
+#Interesting 

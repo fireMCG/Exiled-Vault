@@ -16,10 +16,11 @@ Shift click to unstack.
 #
 ---
 # Tags
-#Character/Eldritch/Elder
-#Concept/Emotion/Fear
-#Concept/Survival
-#Concept/Horror
-#Concept/Decay
 #Category/Fragment
+#Character/Eldritch/Elder
+#Concept/Decay
+#Concept/Emotion/Fear
+#Concept/Horror
+#Concept/Survival
 #PoE1
+#Interesting 

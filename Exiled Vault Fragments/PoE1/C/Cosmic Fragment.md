@@ -1,8 +1,7 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Cosmic Fragment.webp]]
 
 # Flavour Text
-A single act of love and defiance
-may cascade destruction across the cosmos.
+A single act of love and defiance may cascade destruction across the cosmos.
 
 # Details
 Map Fragments
@@ -16,8 +15,9 @@ Use four of these in a personal Map Device to open Portals to The Shaper's Realm
 #
 ---
 # Tags
+#Category/Fragment
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius
 #Concept/Emotion/Love
-#Category/Fragment
 #PoE1
+#Interesting 

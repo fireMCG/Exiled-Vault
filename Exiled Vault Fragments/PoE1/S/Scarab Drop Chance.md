@@ -8,4 +8,5 @@ Quantity: 50
 #
 ---
 # Tags
+#Category/Fragment/Scarab
 #PoE1
