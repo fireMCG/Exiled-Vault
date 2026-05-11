@@ -8,3 +8,4 @@ Unconventional criminals require unconventional prisons.
 # Tags
 #Category/Strongbox
 #PoE1 
+#Interesting 

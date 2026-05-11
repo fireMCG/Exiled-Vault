@@ -8,3 +8,4 @@ Temptation is man's greatest folly.
 # Tags
 #Category/Strongbox
 #PoE1 
+#Interesting 

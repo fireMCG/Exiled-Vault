@@ -15,3 +15,4 @@ For while pain might delight the mind, it does not fill the belly.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
+#Interesting 

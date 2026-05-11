@@ -18,3 +18,4 @@ And the king paid for it in blood.
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
+#Interesting 
