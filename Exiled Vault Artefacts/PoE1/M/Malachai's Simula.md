@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Malachai's Simula.png]]
 
 # Flavour Text
-It was a sliver of Malachai's soul
-that animated the first Eternal Guardian.
+It was a sliver of Malachai's soul that animated the first Eternal Guardian.
 
 # Details
 - Evasion: (48-60)
@@ -18,3 +17,4 @@ that animated the first Eternal Guardian.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Stormheart.png]]
 
 # Flavour Text
-When the storm comes,
-the safest place to be is the centre.
+When the storm comes, the safest place to be is the centre.
 
 # Details
 - Staff

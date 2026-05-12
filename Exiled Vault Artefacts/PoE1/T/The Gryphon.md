@@ -23,3 +23,4 @@ The gryphon knows only the hunt and the flight.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

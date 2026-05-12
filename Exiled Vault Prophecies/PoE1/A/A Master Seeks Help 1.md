@@ -14,3 +14,4 @@ You will find Alva and complete her mission.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

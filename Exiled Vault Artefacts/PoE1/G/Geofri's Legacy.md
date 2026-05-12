@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Geofri's Legacy.png]]
 
 # Flavour Text
-"Though 's beacon was extinguished,
-his embers may yet light our way."
+"Though 's beacon was extinguished, his embers may yet light our way."
 - , The People's Poet
 
 # Details
@@ -21,5 +20,6 @@ his embers may yet light our way."
 #
 ---
 # Tags
+#Attributes/Missing 
 #Category/Artefact
 #PoE1

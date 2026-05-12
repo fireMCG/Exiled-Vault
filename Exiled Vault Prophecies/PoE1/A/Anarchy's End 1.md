@@ -13,3 +13,4 @@ You will enter a map and slay a Rogue Exile who is carrying a Divination Card.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

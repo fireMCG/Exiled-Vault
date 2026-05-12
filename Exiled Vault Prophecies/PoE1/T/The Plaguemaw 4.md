@@ -14,3 +14,4 @@ You will be ambushed by the Plaguemaw's followers in the Imperial Gardens, Garde
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

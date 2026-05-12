@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Magnate.png]]
 
 # Flavour Text
-Few men cast a longer shadow
-than the Great Meginord of the North.
+Few men cast a longer shadow than the Great Meginord of the North.
 
 # Details
 - Requires Level 16
@@ -18,3 +17,4 @@ than the Great Meginord of the North.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

@@ -1,4 +1,4 @@
-Flavour Text# Flavour Text
+# Flavour Text
 The flesh is taken by the Unbreathing Queen. But the hero's soul, bitter and cold, remains trapped in the Emperor's greatest trial.
 # Prophecy
 You will encounter the spirit of a hero in the Lord's Labyrinth and defeat it.
@@ -14,3 +14,4 @@ You will encounter the spirit of a hero in the Lord's Labyrinth and defeat it.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

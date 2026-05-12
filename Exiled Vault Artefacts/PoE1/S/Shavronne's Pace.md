@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Shavronne's Pace.png]]
 
 # Flavour Text
-Shavronne raced to Brutus' side,
-her last hope against the Karui tide.
+Shavronne raced to Brutus' side, her last hope against the Karui tide.
 
 # Details
 - Energy Shield: (46-60)

@@ -19,3 +19,4 @@ The first spark is never the last.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

@@ -18,3 +18,4 @@ Upgrades [[Karui Ward]] to [[Karui Charge]] upon completion.
 #League/Prophecy
 #PoE1 
 #Society/Karui 
+#Interesting 

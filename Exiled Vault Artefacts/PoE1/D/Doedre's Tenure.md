@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Doedre's Tenure.png]]
 
 # Flavour Text
-While Doedre lacked Maligaro's sense of style,
-she surpassed her master in pure malevolence.
+While Doedre lacked Maligaro's sense of style, she surpassed her master in pure malevolence.
 
 # Details
 - Energy Shield: (10-13)

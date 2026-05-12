@@ -14,3 +14,4 @@ You will encounter the rival Exile, now possessed by a Tormented Spirit.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

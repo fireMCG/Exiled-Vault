@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Shavronne's Gambit.png]]
 
 # Flavour Text
-The Karui boats were closing the gap,
-but Shavronne had laid for them one final trap.
+The Karui boats were closing the gap, but Shavronne had laid for them one final trap.
 
 # Details
 - Energy Shield: (46-60)

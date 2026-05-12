@@ -28,3 +28,4 @@
 #Location/Wraeclast
 #Society/VaalEmpire
 #PoE1
+#Interesting 

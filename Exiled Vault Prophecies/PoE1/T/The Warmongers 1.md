@@ -14,3 +14,4 @@ You will encounter and slay several Warbands.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

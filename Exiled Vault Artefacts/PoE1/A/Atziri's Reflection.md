@@ -28,3 +28,4 @@
 #Concept/Sin/Vanity
 #Society/VaalEmpire
 #PoE1
+#Interesting 

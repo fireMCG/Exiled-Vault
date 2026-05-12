@@ -14,3 +14,4 @@ You will find Niko and complete his mission.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

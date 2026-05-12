@@ -14,3 +14,4 @@ Each leader drops a unique of the corresponding warband.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

@@ -3,7 +3,7 @@ The king rots in his frozen tomb, atop the island of his own creation.
 # Prophecy
 You will defeat Tsoagoth, The Brine King while holding Icetomb.
 # Reward
-Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/I/Icetomb/Icetomb|Icetomb]] to [[Crystal Vault]] upon completion. 
+Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/I/Icetomb|Icetomb]] to [[Crystal Vault]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
@@ -17,3 +17,4 @@ Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/I/Ice
 #Concept/Light 
 #League/Prophecy
 #PoE1 
+#Interesting 

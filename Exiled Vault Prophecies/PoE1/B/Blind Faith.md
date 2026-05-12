@@ -18,3 +18,4 @@ Upgrades [[The Ignomon]] to [[The Effigon]] upon completion.
 #Concept/Religion/Zealotry
 #League/Prophecy
 #PoE1 
+#Interesting 

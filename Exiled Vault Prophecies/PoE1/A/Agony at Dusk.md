@@ -17,3 +17,4 @@ Upgrades [[Dusktoe]] to [[Duskblight]] upon completion.
 #Concept/Light 
 #League/Prophecy
 #PoE1 
+#Interesting 

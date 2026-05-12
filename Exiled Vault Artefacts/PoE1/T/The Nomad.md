@@ -18,3 +18,4 @@ Few men can guide their people like the Great Meginord of the North
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

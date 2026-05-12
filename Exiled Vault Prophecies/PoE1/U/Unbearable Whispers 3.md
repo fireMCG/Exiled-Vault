@@ -14,3 +14,4 @@ You will slay Shavronne, and she will drop a tome.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

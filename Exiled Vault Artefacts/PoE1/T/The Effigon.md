@@ -20,3 +20,4 @@ in darkness we are bound.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

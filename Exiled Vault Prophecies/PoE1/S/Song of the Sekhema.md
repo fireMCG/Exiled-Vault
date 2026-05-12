@@ -17,3 +17,4 @@ Upgrades [[Asenath's Mark]] to [[Asenath's Chant]] upon completion.
 #Concept/Wind 
 #League/Prophecy
 #PoE1 
+#Interesting 

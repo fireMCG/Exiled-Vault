@@ -17,3 +17,4 @@ Upgrades [[Reverberation Rod]] to [[Amplification Rod]] upon completion.
 #Concept/Pious
 #League/Prophecy
 #PoE1 
+#Interesting 

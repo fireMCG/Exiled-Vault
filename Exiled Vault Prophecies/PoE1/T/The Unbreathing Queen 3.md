@@ -14,3 +14,4 @@ You will encounter the spirit of a hero in the Beacon or Lighthouse Map and defe
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

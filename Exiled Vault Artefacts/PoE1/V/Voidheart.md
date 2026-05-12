@@ -19,3 +19,4 @@ Nothing spreads fear faster than the unknown.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

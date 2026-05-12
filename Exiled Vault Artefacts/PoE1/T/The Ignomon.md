@@ -18,3 +18,4 @@ The light that reveals is the glare that blinds.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

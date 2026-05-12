@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Realm Ender.png]]
 
 # Flavour Text
-"The flames are surely coming.
-I just pray I am long dead before they arrive."
+"The flames are surely coming. I just pray I am long dead before they arrive."
 - Archbishop Geofri
 
 # Details
@@ -27,3 +26,4 @@ I just pray I am long dead before they arrive."
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

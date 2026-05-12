@@ -21,3 +21,4 @@ I'm just evening things out."
 #Category/Artefact
 #Society/VaalEmpire
 #PoE1
+#Interesting 

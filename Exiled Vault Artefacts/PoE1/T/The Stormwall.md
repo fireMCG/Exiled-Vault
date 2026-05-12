@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Stormwall.png]]
 
 # Flavour Text
-You cannot control the storm,
-But you can utilise it.
+You cannot control the storm, but you can utilise it.
 
 # Details
 - Staff

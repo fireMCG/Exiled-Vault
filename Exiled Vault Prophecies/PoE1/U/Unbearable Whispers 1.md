@@ -14,3 +14,4 @@ You will discover a tome in the Library, Academy Map, Museum Map, or Scriptorium
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

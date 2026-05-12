@@ -3,7 +3,7 @@ Where the dead still rest, the defiler's scream bellows through the tombs before
 # Prophecy
 You will defeat Doedre the Defiler while holding Windscream.
 # Reward
-Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/W/Windscream/Windscream|Windscream]] to [[Windshriek]] upon completion. 
+Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/W/Windscream|Windscream]] to [[Windshriek]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
@@ -15,3 +15,4 @@ Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/W/Win
 #Character/Doedre 
 #League/Prophecy
 #PoE1 
+#Interesting 

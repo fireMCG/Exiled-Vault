@@ -14,3 +14,4 @@ You will slay a certain powerful monster and it will drop a tome.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

@@ -19,3 +19,4 @@ Upgrades [[Eclipse Solaris]] to [[Corona Solaris]] upon completion.
 #Concept/Sun 
 #League/Prophecy
 #PoE1 
+#Interesting 

@@ -14,3 +14,4 @@ You will discover an area with a Corrupting Tempest.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

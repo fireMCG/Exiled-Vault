@@ -14,3 +14,4 @@ The monster drops a Sacrifice at Midnight.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

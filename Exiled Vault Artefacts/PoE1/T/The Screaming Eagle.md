@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Screaming Eagle.png]]
 
 # Flavour Text
-The eagle knows nothing
-but the scream and the strike.
+The eagle knows nothing but the scream and the strike.
 
 # Details
 - One Handed Axe
@@ -22,3 +21,4 @@ but the scream and the strike.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

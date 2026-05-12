@@ -14,3 +14,4 @@ You will encounter the spirit of a hero in the Temple of Decay or Arachnid Tomb 
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

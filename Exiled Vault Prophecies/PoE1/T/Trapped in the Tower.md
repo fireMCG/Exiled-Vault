@@ -14,3 +14,4 @@ Upgrades [[Fencoil]] to [[Mirebough]] upon completion.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

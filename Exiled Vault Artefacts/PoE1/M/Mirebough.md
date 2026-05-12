@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Mirebough.png]]
 
 # Flavour Text
-"Cut down the tallest tree,
-and another becomes the tallest."
+"Cut down the tallest tree, and another becomes the tallest."
 - Old Ezomyte saying
 
 # Details
@@ -25,3 +24,4 @@ and another becomes the tallest."
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

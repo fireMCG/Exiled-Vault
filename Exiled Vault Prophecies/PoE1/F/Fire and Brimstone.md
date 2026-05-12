@@ -3,7 +3,7 @@ Living cinders set the stone alight, a gleaming signal in the blackness where hu
 # Prophecy
 You will defeat Hatebeat while holding Blackgleam.
 # Reward
-Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/B/Blackgleam/Blackgleam|Blackgleam]] to [[The Signal Fire]] upon completion. 
+Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/B/Blackgleam|Blackgleam]] to [[The Signal Fire]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
@@ -16,3 +16,4 @@ Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/B/Bla
 #Concept/Stone 
 #League/Prophecy
 #PoE1 
+#Interesting 

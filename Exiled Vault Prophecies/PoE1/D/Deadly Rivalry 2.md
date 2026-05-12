@@ -14,3 +14,4 @@ You will encounter the rival Exile, now also imbued with Onslaught.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
+#Interesting 

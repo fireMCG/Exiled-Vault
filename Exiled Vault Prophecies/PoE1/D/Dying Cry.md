@@ -1,9 +1,10 @@
 # Flavour Text
-The bell tolls, the people gather, the General is executed. The militia cries out and charges forth.
+The bell tolls, the people gather, the General is executed.
+The militia cries out and charges forth.
 # Prophecy
 You will defeat General Gravicius while holding Deidbell.
 ## Reward
-Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/D/Deidbell/Deidbell|Deidbell]] to [[Deidbellow]] upon completion. 
+Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/D/Deidbell|Deidbell]] to [[Deidbellow]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
@@ -15,3 +16,4 @@ Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/D/Dei
 #Character/Gravicius
 #League/Prophecy
 #PoE1 
+#Interesting 

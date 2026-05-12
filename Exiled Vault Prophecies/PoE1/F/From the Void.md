@@ -3,7 +3,7 @@ The iron heart, burned in the blackness of the void that lies beyond sight, rots
 # Prophecy
 You will defeat Bameth while holding Blackheart.
 # Reward
-Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/B/Blackheart/Blackheart|Blackheart]] to [[Voidheart]] upon completion. 
+Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/B/Blackheart|Blackheart]] to [[Voidheart]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]
@@ -16,3 +16,4 @@ Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/B/Bla
 #Concept/Void 
 #League/Prophecy
 #PoE1 
+#Interesting 

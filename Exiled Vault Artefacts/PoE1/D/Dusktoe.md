@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Dusktoe.png]]
 
 # Flavour Text
-"A lick of shadow may ease
-the petty frictions of one's life."
+"A lick of shadow may ease the petty frictions of one's life."
 - Inquisitor Maligaro
 
 # Details
@@ -20,3 +19,4 @@ the petty frictions of one's life."
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

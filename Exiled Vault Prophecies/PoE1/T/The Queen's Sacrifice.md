@@ -19,3 +19,4 @@ Upgrades [[Atziri's Mirror]] to [[Atziri's Reflection]] upon completion.
 #League/Prophecy
 #PoE1 
 #Society/VaalEmpire 
+#Interesting 

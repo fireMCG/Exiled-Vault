@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Kaom's Way.png]]
 
 # Flavour Text
-Kaom guided his Karui across the sea
-and spilled their blood on foreign soil
+Kaom guided his Karui across the sea and spilled their blood on foreign soil
 
 # Details
 - Requires Level 32
@@ -18,3 +17,4 @@ and spilled their blood on foreign soil
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 
