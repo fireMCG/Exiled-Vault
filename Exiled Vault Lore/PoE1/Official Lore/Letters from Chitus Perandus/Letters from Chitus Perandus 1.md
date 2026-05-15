@@ -1,5 +1,3 @@
-# Letters from Chitus Perandus 1
-
 Uncle Cadiro 3rd Kaso of Vitali, 1316 I.C. 
 
 While my father remains determined to play the role of Izaro's lapdog. I trust that you and I are of like mind regarding our glorious Emperor's ridiculous Labyrinth. He would have us entrust our imperial leadership to the primitive diversions of some cave-dwelling ancestors. It is beyond reasoning. In fact, it can only be surmised that Izaro himself is also beyond reasoning.
@@ -18,6 +16,6 @@ I will not stand by and allow Izaro to deliver us all unto damnation. I trust, d
 
 #
 ---
-## Tags
-#Category/Lore 
+# Tags
 #Attributes/Timeline 
+#Category/Lore 

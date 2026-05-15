@@ -1,5 +1,3 @@
-# Letters from Chitus Perandus 2
-
 Uncle Cadiro 1st Lunaro of Verusi 1317, I.C.
 
 Our Eternal Empire Izaro might be insane but he's clearly not stupid. Or at the very least, he has had the presence of mind to surround himself with clever people. Three meticulously planned attempts on Izaro's life. Three astutely thwarted failures.
@@ -20,6 +18,6 @@ I, for one, will not let that happen, Uncle.
 
 #
 ---
-## Tags
-#Category/Lore 
+# Tags
 #Attributes/Timeline 
+#Category/Lore 

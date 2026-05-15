@@ -1,4 +1,4 @@
-## Wonder Child
+# Wonder Child
 
 For my eighth birthday, my parents gifted me an anatomy kit. It contained a scalpel, its blade razor sharp. It contained a small diagram of the various muscle groupings, interesting details highlighted in dark red runes. It contained a quantity of acids and crudely blown glass beakers, along with suggestions on tests to determine the various humors contained within different parts of the body.  
   
@@ -485,6 +485,8 @@ We left Oriath last night, and for the first time in my entire life, the nightma
 
 Goodbye, Mother.
 
+#
 ---
-## Tags
+# Tags
 #Attributes/Unofficial 
+#Category/Lore

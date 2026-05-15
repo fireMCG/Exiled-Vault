@@ -1,4 +1,4 @@
-## An End to All Things
+# An End to All Things
   
 “Healer! Healer, you’ve got to come quick! Healer!”  
   
@@ -481,14 +481,15 @@ That is where they are wrong.
 I have something left within me. Something for Dominus and Piety alike, for those who stole my heart, for the twist that tried to damn me forever.  
   
 Vengeance. 
-#### Epilogue
-  
+# Epilogue
 The storm churns, water growing darker by the second. Waves crash against the wallowing ship, threatening to capsize it, and cries of fear rise from its reeking hold stuffed full of exiles. Suddenly, a titanic swell, towering over the flimsy wooden vessel, descends like the fist of a god, cracking the boat in two. Bodies splash frantically in the water, trying to stay afloat, but the storm is relentless. Inexorably, they slip beneath the water, until only a few remain.  
   
 Those few, however, fight the clinging depths with a ferocity that rivals the storm itself, willing themselves to live through any obstacle, no matter how insurmountable. In the distance, beneath the wind-whipped clouds, the wracked shore of a forbidding continent grows larger. One by one, their eyes fall on its looming bulk, and one by one, they drive themselves towards its fearsome embrace.  
 
 Wraeclast awaits.
 
+#
 ---
-## Tags
+# Tags
 #Attributes/Unofficial 
+#Category/Lore

@@ -1,4 +1,3 @@
-## Player Stories
 This is a compendium of stories related to the playable exiled characters from PoE1.
 There is currently no such stories for PoE2 playable characters.
 
@@ -12,5 +11,6 @@ The stories below should be read in the following order:
 7. [[Player - Witch]]
 
 ---
-## Tags
+# Tags
 #Attributes/Unofficial 
+#Category/Lore

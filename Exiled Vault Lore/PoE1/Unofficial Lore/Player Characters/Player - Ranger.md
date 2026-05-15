@@ -1,4 +1,4 @@
-## No Man's Slave  
+# No Man's Slave  
 
 Breathe.  
   
@@ -540,6 +540,8 @@ I lurched to a halt and screamed at the stars emerging overhead. All my rage, my
   
 The stars overhead whirled and spun, dancing their endless song, while the forest floor accepted me with a lover’s embrace, my limbs placid and heavy on the cool loam. Pain was all I knew, all I could understand, my burning side the center of my universe. The last thing I remember was green eyes staring down out of a nut-brown face, a long braid swinging by her left cheek, a hand running across my forehead, the feeling of dragging motion, and then the darkness claimed me.
 
+#
 ---
-## Tags
+# Tags
 #Attributes/Unofficial 
+#Category/Lore

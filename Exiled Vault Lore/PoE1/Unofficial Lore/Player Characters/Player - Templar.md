@@ -1,4 +1,4 @@
-## The Touch of God
+# The Touch of God
   
 “God’s path is winding, and only through righteous truth will our feet fall true.”  
   
@@ -396,6 +396,8 @@ I know these things, because I am Your Templar, my God, and though my faith may 
   
 Wraeclast will feel Your light once more.
 
+#
 ---
-## Tags
+# Tags
 #Attributes/Unofficial 
+#Category/Lore

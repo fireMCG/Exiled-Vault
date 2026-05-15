@@ -1,7 +1,4 @@
----
-
----
-## A Singular Purpose
+# A Singular Purpose
 
 “What... ohhh... what are you... ohhhhhh... your fingers... fhhhhhh... is that... ohhhhhhhhh...”  
   
@@ -493,6 +490,8 @@ I was expecting us to be executed, but it seems Dominus chose exile instead. I d
   
 He left me alive to fight, and I will dance that dance once more, though it takes me the width of Wraeclast to learn its steps.
 
+#
 ---
-## Tags
+# Tags
 #Attributes/Unofficial 
+#Category/Lore

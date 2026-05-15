@@ -1,4 +1,4 @@
-## Shades of the Past
+# Shades of the Past
 
 The first time the Ancestors spoke to me I was eleven suns past the sea.  
   
@@ -462,6 +462,8 @@ At night, the Ancestors speak to me, tell me what I must do, and I listen, and I
   
 I do not think of my life before. I do not dare.
 
+#
 ---
-## Tags
+# Tags
 #Attributes/Unofficial 
+#Category/Lore

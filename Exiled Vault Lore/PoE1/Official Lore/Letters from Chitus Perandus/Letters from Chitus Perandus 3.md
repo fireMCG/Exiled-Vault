@@ -1,5 +1,3 @@
-## Letters from Chitus Perandus 3
-
 Uncle Cadiro 3rd Solaro of Divini, 1318 I.C.
 
 I am as ready for this Labyrinth as I will ever be. Each day I have trained with the duelist, Kre Faarblood. There is no better swordsman in all of Sarn and I have been a most attentive pupil. So attentive that he made the mistake of admitting, after his twelfth cup of wine, that he is not of the noble blood he claims to be. His 'disinherited dandy' act is just that an act. People have a tendency to entrust me with their secrets. I know it's a valuable gift.
@@ -18,6 +16,6 @@ We are Eternal.
 
 #
 ---
-## Tags
-#Category/Lore 
+# Tags
 #Attributes/Timeline 
+#Category/Lore 
