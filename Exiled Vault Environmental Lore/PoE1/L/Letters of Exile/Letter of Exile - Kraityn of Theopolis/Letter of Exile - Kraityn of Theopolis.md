@@ -1,0 +1,8 @@
+You have transgressed against your God and your fellow Man. You have been a willing vessel for the following Sins. {Unlawful Avarice} {Two counts of Grand Larceny of Church Property Seven counts of Grand Larceny of Private Property Nine counts of Extortion through Threat of Mortal Harm Four counts of Armed Robbery} {Pecuniary Sloth} {Being Unwilling to obtain an Occupation of Value to Society Enticing Citizens into conduct of a Wanton and Depraved nature} {Civil Envy} {Two counts of Blackmailing a Church Official Eight counts of Attempting to Corrupt a Member of the Ebony Legion Two counts of Inciting the Public to Riotous Behaviour} {Unlawful Vanity} {Eighteen counts of Verbal Abuse of a Church Official Twenty-seven counts of Verbal Abuse of an Officer of the Ebony Legion Eight counts of Publicly promoting Unlawful and Lecherous Practices} {Narcotic Gluttony} {Thirteen counts of Supplying Narcotic substances Four counts of Cultivating Narcotic substances One count of Public Obscenity whilst under the Influence of Narcotic substances} {Pecuniary Lust} {Nine counts of Pandering Two counts of Directing an establishment of Ill Repute Six counts of Prostitution involving Unholy and Degrading Acts} {Mercantile Wrath} {Eleven counts of common Homicide for Pecuniary Gain Four counts of Homicide of an Officer of the Ebony Legion for Pecuniary Gain Two counts of Episcopicide for Pecuniary Gain One count of Matricide for Pecuniary Gain} God has charged me with your redemption. You are hereby Exiled to Wraeclast where, it is hoped, you shall come to repent your Sins, and make your peace with your beloved Father. - High Templar Dominus
+![[Letters of Exile - Read_8.ogg]]
+
+#
+---
+# Tags
+#Category/Lore/Environmental
+#PoE1/Act1
