@@ -1,0 +1,8 @@
+The Monkey King names you 'slave'. No. You are the gems of Wraeclast, not the treacherous stones you dig and die for. It's time to bend the Monkey King's ear. Tell him your true name.
+![[Ancient Graffiti - Read_5.ogg]]
+
+#
+---
+# Tags
+#Category/Lore/Environmental
+#PoE1

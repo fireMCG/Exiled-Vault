@@ -1,0 +1,45 @@
+# Tavakai on Kanu
+Tavakai: Kanu was always headstrong. Loud and disrespectful... all the makings of a great warrior! He threw it all away to work for the Kalguurans. We have lost many to foreign causes. That's why Ngakanu is now off limits to outsiders.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L1 - A1.ogg]]
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L1 - A2.ogg]]
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L1 - A3.ogg]]
+Ranger: You can't control the young. It's wrong to try.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L2 - A1.ogg]]
+Huntress: The Azmeri welcome new ideas. Home cannot be a prison.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L3 - A1.ogg]]
+Monk: False faith can often lead the youth astray.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L4 - A1.ogg]]
+Witch: Ideas can be more dangerous than any weapon.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L5 - A1.ogg]]
+Sorceress: I, too, chose to walk my own path. It really is not as easy as you think.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L6 - A1.ogg]]
+Warrior: Ah, I understand now.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L7 - A1.ogg]]
+Mercenary: Gotta lock the young ones down, I say. They'll end up slaves... or worse.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L8 - A1.ogg]]
+Druid: The boy's no coward. There's strength in him still.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L9 - A1.ogg]]
+Tavakai: Yes. I expected you would.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L10 - A1.ogg]]
+Tavakai: Perhaps... but try defending yourself with an idea.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L11 - A1.ogg]]
+Tavakai: Few choices are easy. But some... are right.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L12 - A1.ogg]]
+Tavakai: Mm. They do not know, what they do not know.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L13 - A1.ogg]]
+Tavakai: It is not about control! It's about honour. Respect. Tradition.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L14 - A1.ogg]]
+Tavakai: Perhaps that suits you, up on your mountain. But the sea moves quickly.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L15 - A1.ogg]]
+Tavakai: Yes. That is my fear. A history... we shall never relive.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L16 - A1.ogg]]
+Tavakai: Strength he lends to the Kalguurans, not his own people.
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L17 - A1.ogg]]
+Tavakai: We cannot afford to lose more of our young to these {dangerous} ideas...
+![[Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai on Kanu/Audio/Tavakai - S11 - L18 - A1.ogg]]
+
+#
+---
+# Tags
+#Category/NPCTalk
+#PoE2

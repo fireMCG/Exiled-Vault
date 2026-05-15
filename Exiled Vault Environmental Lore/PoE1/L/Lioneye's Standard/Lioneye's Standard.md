@@ -1,4 +1,3 @@
-## Read
 {There is no Honour without Sacrifice.}
 
 #

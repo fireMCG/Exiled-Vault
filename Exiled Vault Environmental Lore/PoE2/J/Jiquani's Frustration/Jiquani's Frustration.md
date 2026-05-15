@@ -1,13 +1,9 @@
-## Stone Tablet
-Seventy-four shipments of Soul Cores in the span of three moons. Seventy-four shipments... and it still won't be enough, if our fears become realized. We have put our lives on the line because Doryani asked us to do so. I accept this and... I am not a traitor to the Queen, but, sometimes, loyalty requires protecting her from her own mistakes. We need more time. We just need more time!
-![[Exiled Vault Environmental Lore/PoE2/J/Jiquani's Frustration/_Audio/Jiquani's Frustration - Stone Tablet.ogg]]
-## UpperMachinarumGlyph01Text
-[DNT-UNUSED] I find myself surrounded by immense constructs crafted of earthenware, each engraved with ancient symbols imbued with meanings lost to time. These golems are inert, yet seem to harbour formidable power. I shudder to think of what would happen if they were to arise from their mechanical slumber...
+![[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Environmental Lore/PoE2/J/Jiquani's Frustration/Stone Tablet/Stone Tablet|Stone Tablet]]
+![[UpperMachinarumGlyph01Text]]
 
 #
 ---
 # Tags
 #Category/Lore/Environmental
-#Attributes/IgnoreGraph
-#Society/VaalEmpire
 #PoE2
+#Society/VaalEmpire

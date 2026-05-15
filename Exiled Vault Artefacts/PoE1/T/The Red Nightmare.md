@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Red Nightmare.png]]
 
 # Flavour Text
-We coagulate; a crimson shell
-that suffocates the unworthy.
+We coagulate; a crimson shell that suffocates the unworthy.
 
 # Details
 - Limited to: 1
@@ -17,3 +16,4 @@ that suffocates the unworthy.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

@@ -1,4 +1,3 @@
-## Beidat
 Beidat is a cruel master. He calls himself the Archangel of Death, but there is nothing angelic about him. He is a demon-lord, and bargaining with him was like parting with my very soul. If only he had taken my emotions... It would have made eternity pass unnoticed.
 ![[Exiled Vault Environmental Lore/PoE1/B/Beidat/_Audio/Beidat - Beidat.ogg]]
 

@@ -1,4 +1,4 @@
-## Vehement Sentencing
+# Vehement Sentencing
 By decree of the Count of Ogham, Those condemned to hang from these branches are to be left until their hearts no longer beat, their lungs no longer fill with air, and their flesh is no longer warm. In death, you are not forgiven. Your souls will remain trapped here by this ancient maw of maligned wood, and the Grove will be forever denied you. Rot here in the Grelwood for all time, and good riddance.
 ![[Exiled Vault Environmental Lore/PoE2/C/Count's Sentencing/_Audio/Count's Sentencing - Vehement Sentencing.ogg]]
 
@@ -6,6 +6,5 @@ By decree of the Count of Ogham, Those condemned to hang from these branches are
 ---
 # Tags
 #Category/Lore/Environmental
-#Attributes/IgnoreGraph
-#Society/Ezomyte
 #PoE2
+#Society/Ezomyte

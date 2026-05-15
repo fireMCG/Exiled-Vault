@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Idol of Uldurn.png]]
 
 # Flavour Text
-Worship of house gods was tolerated
-in Oriath, so long as it remained private.
+Worship of house gods was tolerated in Oriath, so long as it remained private.
 
 # Details
 - Requires Level 24

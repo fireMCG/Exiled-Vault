@@ -1,4 +1,3 @@
-## Wildwood Greeting
 Welcome, traveler. You are safe here. The Viridian Wildwood is a gift to all those with peace in their hearts.
 ![[Exiled Vault Environmental Lore/PoE1/W/Wildwood Greeting/_Audio/Wildwood Greeting - Wildwood Greeting.ogg]]
 

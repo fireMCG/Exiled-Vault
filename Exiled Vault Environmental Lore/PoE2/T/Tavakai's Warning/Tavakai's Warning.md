@@ -1,4 +1,3 @@
-## Tavakai's Warning
 Long ago, the Ramako Tribe imprisoned a being of great malice here. They maintained it as long as they could, and then, the Tukohama Tribe inherited this duty. It can take any form, and deceive the mind. Do not listen to it. Everything it says is a lie. Tavakai, Chieftain of the Tukohama Tribe
 ![[Exiled Vault Environmental Lore/PoE2/T/Tavakai's Warning/_Audio/Tavakai's Warning - Tavakai's Warning.ogg]]
 
@@ -6,6 +5,5 @@ Long ago, the Ramako Tribe imprisoned a being of great malice here. They maintai
 ---
 # Tags
 #Category/Lore/Environmental
-#Attributes/IgnoreGraph
-#Society/Karui
 #PoE2
+#Society/Karui

@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Green Nightmare.png]]
 
 # Flavour Text
-We take root in the dirt
-and strangle those who tread upon it.
+We take root in the dirt and strangle those who tread upon it.
 
 # Details
 - Limited to: 1
@@ -17,3 +16,4 @@ and strangle those who tread upon it.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

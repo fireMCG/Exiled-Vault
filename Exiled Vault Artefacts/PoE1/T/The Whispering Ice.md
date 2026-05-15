@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Whispering Ice.png]]
 
 # Flavour Text
-Guard your darkest thoughts well, for they are
-the cracks through which the Nightmare crawls.
+Guard your darkest thoughts well, for they are the cracks through which the Nightmare crawls.
 
 # Details
 - Warstaff

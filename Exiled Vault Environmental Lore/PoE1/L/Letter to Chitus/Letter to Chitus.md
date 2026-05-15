@@ -1,4 +1,3 @@
-## Read
 My dear Chitus, The Empire has lived in fear and ignorance since its inception. Our Azmeri ancestors, in their arrogance, turned their backs on the lessons of the Vaal. The emperors before you lacked courage, lacked vision, paying lip service to 'Eternity' while scrabbling for approval and comfort within the prison of their meagre, mortal lives. You are not one of those emperors. You are Chitus the Great, the man who will make this Empire truly understand the meaning of the word 'Eternal'. We shall build this Thaumatocracy together, my emperor, gem by gem, immortal by immortal. Your devoted servant, Malachai
 ![[Exiled Vault Environmental Lore/PoE1/L/Letter to Chitus/_Audio/Letter to Chitus - Read.ogg]]
 
@@ -7,4 +6,3 @@ My dear Chitus, The Empire has lived in fear and ignorance since its inception. 
 # Tags
 #Category/Lore/Environmental
 #PoE1/Act3
-#PoE1

@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Window to Paradise.png]]
 
 # Flavour Text
-"Beyond fire, blood, and nightmare,
-the Savior will build utopia."
+"Beyond fire, blood, and nightmare, the Savior will build utopia."
 
 # Details
 - Shield
@@ -27,3 +26,4 @@ the Savior will build utopia."
 #Concept/Religion/Heaven
 #Concept/Hero
 #PoE2
+#Interesting 

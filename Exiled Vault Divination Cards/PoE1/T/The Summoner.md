@@ -15,3 +15,4 @@ Quality: +20%
 #Concept/Night/Nightmare
 #Concept/Undead
 #PoE1
+#Interesting 

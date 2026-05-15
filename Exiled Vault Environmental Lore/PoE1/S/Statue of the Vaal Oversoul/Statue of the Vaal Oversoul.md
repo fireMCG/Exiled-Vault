@@ -1,4 +1,3 @@
-## Statue of the Vaal Oversoul
 Vaal Oversoul {"The Bringer of Night. Banished by the Wandering One, returning the Sun to Wraeclast."}
 
 #
@@ -9,5 +8,5 @@ Vaal Oversoul {"The Bringer of Night. Banished by the Wandering One, returning t
 #Concept/Soul
 #Concept/Sun
 #Location/Wraeclast
-#Society/VaalEmpire
 #PoE1
+#Society/VaalEmpire

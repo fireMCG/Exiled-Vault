@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - The Blue Nightmare.png]]
 
 # Flavour Text
-We swell and flood
-and drown the undeserving beneath our might.
+We swell and flood and drown the undeserving beneath our might.
 
 # Details
 - Limited to: 1
@@ -17,3 +16,4 @@ and drown the undeserving beneath our might.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

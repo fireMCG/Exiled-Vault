@@ -1,7 +1,7 @@
 {
   "CategoryFolderName": "Exiled Vault NPCTalk",
   "Game": "PoE2",
-  "UpdatedAtUtc": "2026-05-02T12:33:49.2923621+00:00",
+  "UpdatedAtUtc": "2026-05-15T20:16:13.0109821+00:00",
   "Entries": [
     {
       "Key": "https://poe2db.tw/us/Mortimer#NPCTalk",
@@ -9,12 +9,12 @@
       "SourceUrl": "https://poe2db.tw/us/Mortimer#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/M/Mortimer/Mortimer.md",
       "SourceFingerprint": "BBE2DD74C0B4BEF347846849C66A56442E17233B4E8B61CAACD8BEF1D9342EC2",
-      "ContentFingerprint": "99E8FEE11577070EF2F11E3DD71A93E0F3669065620E994E6BD400563B18EF09",
-      "LineCount": 340,
-      "CharacterCount": 17156,
+      "ContentFingerprint": "ABD383236CBBEBEBA9BF9465B5A5BD12FF05A75B9F549A478D3AB8069AE5FF34",
+      "LineCount": 31,
+      "CharacterCount": 626,
       "ImageFileCount": 0,
       "AudioFileCount": 113,
-      "UpdatedAtUtc": "2026-05-02T10:37:07.0731074+00:00"
+      "UpdatedAtUtc": "2026-05-15T18:21:48.4543341+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/The_Hooded_One#NPCTalk",
@@ -22,12 +22,12 @@
       "SourceUrl": "https://poe2db.tw/us/The_Hooded_One#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/T/The Hooded One/The Hooded One.md",
       "SourceFingerprint": "B449C22CC9092BAEDC304BD5D8C706F3B44C4EE45E877A9804F4865073C8D3EC",
-      "ContentFingerprint": "4626DD5939E7EC7634B8FB2637C7C1FD1E711C74A1C2ACC6F22E2B7CEB04E919",
-      "LineCount": 856,
-      "CharacterCount": 52053,
+      "ContentFingerprint": "FD77BC0A984DB913ACB9FC2340A34A5909C310B13FC32202B55BD644BD64FE7F",
+      "LineCount": 111,
+      "CharacterCount": 3072,
       "ImageFileCount": 0,
       "AudioFileCount": 323,
-      "UpdatedAtUtc": "2026-05-02T10:42:57.7264823+00:00"
+      "UpdatedAtUtc": "2026-05-15T18:27:28.1410053+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Sekhema_Asala#NPCTalk",
@@ -35,12 +35,12 @@
       "SourceUrl": "https://poe2db.tw/us/Sekhema_Asala#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/S/Sekhema Asala/Sekhema Asala.md",
       "SourceFingerprint": "B37D0CEE6FDE44A62D2B77E444EE6A62B000D267B4E3C233E1306445CB0E6BF3",
-      "ContentFingerprint": "F982CBFA7B1579D9EEDC950D434C452B53B6F6172317D0C0F55B6ACCD5106160",
-      "LineCount": 200,
-      "CharacterCount": 14475,
+      "ContentFingerprint": "5E2F7B8C2693AE52DC4690F1A3E2648816AE3121CBDE8888D0FF442863614182",
+      "LineCount": 47,
+      "CharacterCount": 1144,
       "ImageFileCount": 0,
       "AudioFileCount": 83,
-      "UpdatedAtUtc": "2026-05-02T10:44:37.7604321+00:00"
+      "UpdatedAtUtc": "2026-05-15T18:29:05.1357549+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Alva#NPCTalk",
@@ -48,12 +48,12 @@
       "SourceUrl": "https://poe2db.tw/us/Alva#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/A/Alva/Alva.md",
       "SourceFingerprint": "0DBA0FF0988E14608392193FDCDE63993540753C2876CB2A228ECC669360379D",
-      "ContentFingerprint": "2CAEE93F5E62C2868FFDF7339855C7D97353218AB4C9BABD49793B0AC1675DE3",
-      "LineCount": 1840,
-      "CharacterCount": 89999,
+      "ContentFingerprint": "7116653B785E07956455150422F1D03509BDD99AC85B94C6E62A9E9DCC21BA85",
+      "LineCount": 115,
+      "CharacterCount": 2390,
       "ImageFileCount": 0,
       "AudioFileCount": 639,
-      "UpdatedAtUtc": "2026-05-02T10:54:33.8777302+00:00"
+      "UpdatedAtUtc": "2026-05-15T18:38:50.6323339+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Freya_Hartlin#NPCTalk",
@@ -61,12 +61,12 @@
       "SourceUrl": "https://poe2db.tw/us/Freya_Hartlin#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/F/Freya Hartlin/Freya Hartlin.md",
       "SourceFingerprint": "8B829B699857300D6646FAD9FD32ADFB54E0A63E7C3D61C0B23F9465CA59109B",
-      "ContentFingerprint": "0290A129C2C91B247F6436F48107481288264939A27D4CE0F8B8B042D0512CC7",
-      "LineCount": 268,
-      "CharacterCount": 13967,
+      "ContentFingerprint": "1F3B248991FD3E624685D2CD275702FA3EEB80C9F74C6681E7E81E72737AD01F",
+      "LineCount": 27,
+      "CharacterCount": 555,
       "ImageFileCount": 0,
       "AudioFileCount": 100,
-      "UpdatedAtUtc": "2026-05-02T10:56:21.902571+00:00"
+      "UpdatedAtUtc": "2026-05-15T18:40:35.3106597+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Dannig#NPCTalk",
@@ -74,12 +74,12 @@
       "SourceUrl": "https://poe2db.tw/us/Dannig#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/D/Dannig/Dannig.md",
       "SourceFingerprint": "5D324FE41FC7B7939919B0F9B2F3485873E859E746B1C9FEC53A7F8CAE64B894",
-      "ContentFingerprint": "EFA9A7F080911AEE54B64533E034FAA15EEF2DC9FDD87B63764B7E5ECD5EB8B2",
-      "LineCount": 858,
-      "CharacterCount": 45369,
+      "ContentFingerprint": "6DF61655E5B304EE0AEBA67A65780A0FDBF98EBA5B546192315F78097B3E42B7",
+      "LineCount": 83,
+      "CharacterCount": 1669,
       "ImageFileCount": 0,
       "AudioFileCount": 285,
-      "UpdatedAtUtc": "2026-05-02T11:01:27.2061361+00:00"
+      "UpdatedAtUtc": "2026-05-15T18:45:28.2310368+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Missionary_Lorandis#NPCTalk",
@@ -87,12 +87,12 @@
       "SourceUrl": "https://poe2db.tw/us/Missionary_Lorandis#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/M/Missionary Lorandis/Missionary Lorandis.md",
       "SourceFingerprint": "2C9241A386DD7201194ADDEB69DCBC95C857B65FC54FD2A00A585AA07A333EB8",
-      "ContentFingerprint": "5B792E5E434FD11219FBE74F5F3B5F9AA826EB35DDDAEE5E95F985FCB3668720",
-      "LineCount": 532,
-      "CharacterCount": 31972,
+      "ContentFingerprint": "F303EF417BC4ECDBFD72EDB0D4AA4B455BAE161C22C67702C811874546630A45",
+      "LineCount": 43,
+      "CharacterCount": 1124,
       "ImageFileCount": 0,
       "AudioFileCount": 189,
-      "UpdatedAtUtc": "2026-05-02T11:05:03.6694246+00:00"
+      "UpdatedAtUtc": "2026-05-15T18:48:59.476696+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Makoru#NPCTalk",
@@ -100,12 +100,12 @@
       "SourceUrl": "https://poe2db.tw/us/Makoru#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/M/Makoru/Makoru.md",
       "SourceFingerprint": "D333ADCAAE646C273B8143CD372F73E00D313B45D153A837426581C439936F22",
-      "ContentFingerprint": "380A38A2EF4FC5FB29589A83654A2641FBC51A545D18367A319C67AF98345241",
-      "LineCount": 1505,
-      "CharacterCount": 80552,
+      "ContentFingerprint": "807D00DB398C12D23BEFA63BF8169EA11003C2AE1CC340438B090B1AEA95BA77",
+      "LineCount": 95,
+      "CharacterCount": 2041,
       "ImageFileCount": 0,
       "AudioFileCount": 578,
-      "UpdatedAtUtc": "2026-05-02T11:13:54.5729083+00:00"
+      "UpdatedAtUtc": "2026-05-15T18:57:33.5501313+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Kanu#NPCTalk",
@@ -113,12 +113,12 @@
       "SourceUrl": "https://poe2db.tw/us/Kanu#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/K/Kanu/Kanu.md",
       "SourceFingerprint": "4FE07EF60B653DB225B19F2383D3DB4E83C8340FF513981DFEA380B9627B1AE3",
-      "ContentFingerprint": "3ED94B1FE6C87AA8196063F8EC1CD4C30164B798AA7EDDCD7A7F99DAF088D523",
-      "LineCount": 908,
-      "CharacterCount": 44538,
+      "ContentFingerprint": "6B51D481737F308AD2D3A4AB7A79002E44B1FFF863A674112ED487A567C6CBA8",
+      "LineCount": 31,
+      "CharacterCount": 500,
       "ImageFileCount": 0,
       "AudioFileCount": 319,
-      "UpdatedAtUtc": "2026-05-02T11:18:25.4653752+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:01:53.0393653+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Rhodri#NPCTalk",
@@ -126,12 +126,12 @@
       "SourceUrl": "https://poe2db.tw/us/Rhodri#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/R/Rhodri/Rhodri.md",
       "SourceFingerprint": "33A60C727B7C7F303B5F0394B7654ABEE80BC8C4DBBC76413EA929777F5FF27C",
-      "ContentFingerprint": "5A71D998D8D4094F34006888CC16184C602506FBDA6B636A41DACC2BC2A87D0D",
-      "LineCount": 414,
-      "CharacterCount": 20636,
+      "ContentFingerprint": "E923CD8260B67993CC091372161F98973D61E22E9686BA69DFEE57AE17E7C48C",
+      "LineCount": 63,
+      "CharacterCount": 1212,
       "ImageFileCount": 0,
       "AudioFileCount": 123,
-      "UpdatedAtUtc": "2026-05-02T11:20:08.5065947+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:03:32.2916758+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Ange#NPCTalk",
@@ -139,12 +139,12 @@
       "SourceUrl": "https://poe2db.tw/us/Ange#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/A/Ange/Ange.md",
       "SourceFingerprint": "806B678FCCA00CE59A7E8CA6E5C85D9E6EE8300146083D4427B6AB8EA5A3BB31",
-      "ContentFingerprint": "EC677D3461C8114504A037AC487C07FFCE240C6005B068D06A9F0FDEA5F57DEC",
-      "LineCount": 405,
-      "CharacterCount": 19709,
+      "ContentFingerprint": "4F1F68F4EDB824D9F3BF1030F88E64C4FBD3E3D467FE1F120C73A20679CB176E",
+      "LineCount": 43,
+      "CharacterCount": 842,
       "ImageFileCount": 0,
       "AudioFileCount": 154,
-      "UpdatedAtUtc": "2026-05-02T11:22:47.3090395+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:06:08.7948967+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Tujen#NPCTalk",
@@ -152,12 +152,12 @@
       "SourceUrl": "https://poe2db.tw/us/Tujen#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/T/Tujen/Tujen.md",
       "SourceFingerprint": "82CFCA8673C567E89DE344971027A61027ED82EEB3778CCEA273EE9B896ADD7A",
-      "ContentFingerprint": "81B3FC692BD841E078AA47921A494B99CC4B9C506CE504807CD4F4679680EDEB",
-      "LineCount": 1764,
-      "CharacterCount": 83417,
+      "ContentFingerprint": "6FDD0ED2027BA2DBD7A8F59A40ACC75D22E9C52F5471FCC1D41819298A37305C",
+      "LineCount": 87,
+      "CharacterCount": 1539,
       "ImageFileCount": 0,
       "AudioFileCount": 651,
-      "UpdatedAtUtc": "2026-05-02T11:33:46.8267885+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:16:44.9587636+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Doryani#NPCTalk",
@@ -165,12 +165,12 @@
       "SourceUrl": "https://poe2db.tw/us/Doryani#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/D/Doryani/Doryani.md",
       "SourceFingerprint": "21C583B713C8F8CCB5F1A305EB8FE8A98C03A6EB8263983F7FBB30D77842C810",
-      "ContentFingerprint": "97851393BB949D6DA37D39DBF85F893EDEA3DF331FEE87CAB378A26AF8D9CCC8",
-      "LineCount": 5203,
-      "CharacterCount": 239632,
+      "ContentFingerprint": "BCA324596FEE6783FF0D7F4374E5D3003A8F58F73D92B632DDF8BB4B217716B6",
+      "LineCount": 155,
+      "CharacterCount": 3487,
       "ImageFileCount": 0,
       "AudioFileCount": 1569,
-      "UpdatedAtUtc": "2026-05-02T11:52:19.753183+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:34:56.8586682+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Kaimana#NPCTalk",
@@ -178,12 +178,12 @@
       "SourceUrl": "https://poe2db.tw/us/Kaimana#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana.md",
       "SourceFingerprint": "71FB48E4C01A40F760615B0BA6986EFD9148BF967A8505EC4D16AE5E66B66E98",
-      "ContentFingerprint": "D29DFAC05DB547C76B3F1E18274E1CA4C8A3ED5B7A7C5A006015F5774CB6A9EC",
-      "LineCount": 577,
-      "CharacterCount": 28471,
+      "ContentFingerprint": "B9E1DCCBE15B3486A5DFA97D2627B845F5A6DD84F98C77D790731D7BDE0B674B",
+      "LineCount": 51,
+      "CharacterCount": 1020,
       "ImageFileCount": 0,
       "AudioFileCount": 202,
-      "UpdatedAtUtc": "2026-05-02T11:56:10.1186112+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:38:37.5765443+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Renly#NPCTalk",
@@ -191,12 +191,12 @@
       "SourceUrl": "https://poe2db.tw/us/Renly#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/R/Renly/Renly.md",
       "SourceFingerprint": "9F22F7EC9800E41E50F4448549B3E7CCB5513283D47DDCE16056CB3DD54B639E",
-      "ContentFingerprint": "EC2D6A5D20ABD7AD3DAADE7F370102E84DA28DE84C50312B787D50BFD6F4582D",
-      "LineCount": 180,
-      "CharacterCount": 11690,
+      "ContentFingerprint": "406EF9DB0995837B2EBB8C3674CCBD79015086DDE8E24026E39B33607F7ED929",
+      "LineCount": 35,
+      "CharacterCount": 646,
       "ImageFileCount": 0,
       "AudioFileCount": 75,
-      "UpdatedAtUtc": "2026-05-02T11:57:34.3350587+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:39:58.3415738+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Zelina#NPCTalk",
@@ -204,12 +204,12 @@
       "SourceUrl": "https://poe2db.tw/us/Zelina#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/Z/Zelina/Zelina.md",
       "SourceFingerprint": "94732F0ED196CE9FE82FCC65E77BD5F8FF94ECF11E7B8F71FCA09AFD1E27E5FD",
-      "ContentFingerprint": "8AB241A6C166382947927303271D8FE8691C579AC31A4C11FCA1B6283718C151",
-      "LineCount": 145,
-      "CharacterCount": 11038,
+      "ContentFingerprint": "23A8B4EFD44AE47160AC3D689880EFE300ED2D22BBAEC8E106FAFAD281744926",
+      "LineCount": 75,
+      "CharacterCount": 1581,
       "ImageFileCount": 0,
       "AudioFileCount": 68,
-      "UpdatedAtUtc": "2026-05-02T11:59:00.1112538+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:41:18.8352114+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Gwennen#NPCTalk",
@@ -217,12 +217,12 @@
       "SourceUrl": "https://poe2db.tw/us/Gwennen#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/G/Gwennen/Gwennen.md",
       "SourceFingerprint": "808F32986E33A7B7B27EE890CAF1ABE7383ED1CE7B1F47B54DBCE943428830C7",
-      "ContentFingerprint": "45C7793CB4E951845777723BE554D80401559D4E6E2DE52AC58C3706AC35795C",
-      "LineCount": 60,
-      "CharacterCount": 3286,
+      "ContentFingerprint": "17197598923969F17E5AEAB36EE855113C9627ADA21FCD1B590C3D1DEF09A780",
+      "LineCount": 35,
+      "CharacterCount": 604,
       "ImageFileCount": 0,
       "AudioFileCount": 21,
-      "UpdatedAtUtc": "2026-05-02T11:59:22.6639613+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:41:40.6145392+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Elder_Madox#NPCTalk",
@@ -230,12 +230,12 @@
       "SourceUrl": "https://poe2db.tw/us/Elder_Madox#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/E/Elder Madox/Elder Madox.md",
       "SourceFingerprint": "92AD37648731FA92123810EFE880178ED6FB107DF3A76E32B8870BB6D2D729A6",
-      "ContentFingerprint": "6AA2F6196FC0235206E5DDCCD0DAA3CC162164FB52A02247E1F0A863D2AEB12E",
-      "LineCount": 76,
-      "CharacterCount": 5938,
+      "ContentFingerprint": "A52D6E5E7EA6472E982AF83123908A940F554761CE012C8DEB0D960511B58D21",
+      "LineCount": 35,
+      "CharacterCount": 787,
       "ImageFileCount": 0,
       "AudioFileCount": 39,
-      "UpdatedAtUtc": "2026-05-02T12:00:05.0329614+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:42:21.7314527+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Wounded_Man#NPCTalk",
@@ -243,12 +243,12 @@
       "SourceUrl": "https://poe2db.tw/us/Wounded_Man#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/W/Wounded Man/Wounded Man.md",
       "SourceFingerprint": "09F201150FCD0148553928353B38848B04420DCF0B3D35AFD09FD842A9F91578",
-      "ContentFingerprint": "26ABBF4F3D742A12E88D5F7B217AFDBE2DBC9434FAF8979731999684942E60A0",
-      "LineCount": 50,
-      "CharacterCount": 2297,
+      "ContentFingerprint": "A18796B4623F20D395533C3173EF33DE34F623E32C5980E031A93CF70181A344",
+      "LineCount": 11,
+      "CharacterCount": 148,
       "ImageFileCount": 0,
       "AudioFileCount": 15,
-      "UpdatedAtUtc": "2026-05-02T12:00:21.343384+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:42:38.1873402+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Delwyn#NPCTalk",
@@ -256,12 +256,12 @@
       "SourceUrl": "https://poe2db.tw/us/Delwyn#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/D/Delwyn/Delwyn.md",
       "SourceFingerprint": "414F3DCF4CB05821C90547D3E2D038F6344B4CFC4650A8BA81D7DED9EFD1F86F",
-      "ContentFingerprint": "61E07EAD3171B0D29A4814A80D2C6656C23F7AAF9C12C0E7BC3AF498CD9F9AE1",
-      "LineCount": 266,
-      "CharacterCount": 18714,
+      "ContentFingerprint": "CF3FE492A829534291B327E757F789595331E4CCF63D90C43C5BFE97A6CE188E",
+      "LineCount": 55,
+      "CharacterCount": 1217,
       "ImageFileCount": 0,
       "AudioFileCount": 105,
-      "UpdatedAtUtc": "2026-05-02T12:01:51.5306342+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:44:39.0222016+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Matiki#NPCTalk",
@@ -269,12 +269,12 @@
       "SourceUrl": "https://poe2db.tw/us/Matiki#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/M/Matiki/Matiki.md",
       "SourceFingerprint": "D61AB36E61FE35F76E944764567F505D14B989D83C3E6C721BEC16FFFB3FC4B4",
-      "ContentFingerprint": "FB95A8E44818A470E4EE016139E602EA1C99924BD0CDEECDE27F71715E2BA888",
-      "LineCount": 1155,
-      "CharacterCount": 63595,
+      "ContentFingerprint": "A211086191F00C55C2AF998326A758855ED46A1B260564ADA4AF06374484FE1A",
+      "LineCount": 47,
+      "CharacterCount": 982,
       "ImageFileCount": 0,
       "AudioFileCount": 432,
-      "UpdatedAtUtc": "2026-05-02T12:08:57.1039099+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:51:23.6025026+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Navali#NPCTalk",
@@ -282,12 +282,12 @@
       "SourceUrl": "https://poe2db.tw/us/Navali#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/N/Navali/Navali.md",
       "SourceFingerprint": "264200DE764EA91A1C43CA72F66B89A583AED73DA160BD1BD81DE1F9D18A973C",
-      "ContentFingerprint": "38AC10417C40C19B8769CA8712DAD81523F6C9D18FCB0C64BCE04B8B32CF136C",
-      "LineCount": 454,
-      "CharacterCount": 24468,
+      "ContentFingerprint": "437FEC6D4ED1D34587B172C976459EC2D175473C2F918F15C5E6B45A9B505E3F",
+      "LineCount": 43,
+      "CharacterCount": 878,
       "ImageFileCount": 0,
       "AudioFileCount": 175,
-      "UpdatedAtUtc": "2026-05-02T12:12:28.8239014+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:54:54.5672705+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Finn#NPCTalk",
@@ -295,12 +295,12 @@
       "SourceUrl": "https://poe2db.tw/us/Finn#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/F/Finn/Finn.md",
       "SourceFingerprint": "926C49AB73A800C758AA9CBAD7935D26348C59495F84698B362AE707062D8425",
-      "ContentFingerprint": "73C2901B59DFBFE387BB2F6D68490B349372F6F1FC1856C05D5C8484F565C685",
-      "LineCount": 59,
-      "CharacterCount": 2658,
+      "ContentFingerprint": "88CA68510ADE75C89E43B6F22FE8965845C3C14462DFE0A8447628AF186800A9",
+      "LineCount": 19,
+      "CharacterCount": 272,
       "ImageFileCount": 0,
       "AudioFileCount": 20,
-      "UpdatedAtUtc": "2026-05-02T12:12:50.5168059+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:55:15.7294121+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Una#NPCTalk",
@@ -308,12 +308,12 @@
       "SourceUrl": "https://poe2db.tw/us/Una#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/U/Una/Una.md",
       "SourceFingerprint": "120DCEA70A5351F32D47E3BFF8079396298525A2BB99BA071879D2C2DEAFDC13",
-      "ContentFingerprint": "AB8B9C64EADAAFFAF6888FDDE6ED173587158A974946E6C6656CF5C55D3E91CC",
-      "LineCount": 172,
-      "CharacterCount": 9400,
+      "ContentFingerprint": "FDA61F2A2CF597F66AEEFA53E22C3149546B9CFC9795EF10A274464E1ACA5288",
+      "LineCount": 43,
+      "CharacterCount": 734,
       "ImageFileCount": 0,
       "AudioFileCount": 67,
-      "UpdatedAtUtc": "2026-05-02T12:14:02.8337859+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:56:28.0624968+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Risu#NPCTalk",
@@ -321,12 +321,12 @@
       "SourceUrl": "https://poe2db.tw/us/Risu#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/R/Risu/Risu.md",
       "SourceFingerprint": "BBFE5F76C8202B3DC78804B4E490D8C7D7B96C42C27ED3236D7B6BAE92642A14",
-      "ContentFingerprint": "F9E4D55CB691411DC533212F54E97E10A15ACCBEDA7D581ADDD639E96CC48A8E",
-      "LineCount": 59,
-      "CharacterCount": 3441,
+      "ContentFingerprint": "828B6D7E41F7A976AB52089A019ED0902FA85134E6038979FE093A5B013DCC90",
+      "LineCount": 31,
+      "CharacterCount": 509,
       "ImageFileCount": 0,
       "AudioFileCount": 24,
-      "UpdatedAtUtc": "2026-05-02T12:14:29.551343+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:56:55.003763+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Zarka#NPCTalk",
@@ -334,12 +334,12 @@
       "SourceUrl": "https://poe2db.tw/us/Zarka#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/Z/Zarka/Zarka.md",
       "SourceFingerprint": "DB60A0F79E073D30184D9A68D384BEAB5AB4001CBFC229ECE83D99F5FFED341B",
-      "ContentFingerprint": "170AD1F4277C99ED974148D57C152175DC2DD13841E784DC400485455F9032CA",
-      "LineCount": 86,
-      "CharacterCount": 7298,
+      "ContentFingerprint": "C7D3D86C250A8A4F3B0079ADA6DF74B102A842A5D18D3E7446DA10710CA1CA25",
+      "LineCount": 39,
+      "CharacterCount": 741,
       "ImageFileCount": 0,
       "AudioFileCount": 47,
-      "UpdatedAtUtc": "2026-05-02T12:15:26.788735+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:57:52.0633794+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Jado#NPCTalk",
@@ -347,12 +347,12 @@
       "SourceUrl": "https://poe2db.tw/us/Jado#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/J/Jado/Jado.md",
       "SourceFingerprint": "9134EF2662FD1A75A7566587B066203AE42023A117B8064B94FEB224CBB5636B",
-      "ContentFingerprint": "25493197D388867786B26EDDF8EAB165E3DD4127DFF80D97B138E387D27AE550",
-      "LineCount": 128,
-      "CharacterCount": 7398,
+      "ContentFingerprint": "2C5893B21C050E1D7CD852FD5495013D5C4BB454C6239D4FF12985795B284051",
+      "LineCount": 31,
+      "CharacterCount": 530,
       "ImageFileCount": 0,
       "AudioFileCount": 51,
-      "UpdatedAtUtc": "2026-05-02T12:16:23.3232588+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:58:48.1281143+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Yoon%2C_Remorseful_Djinn#NPCTalk",
@@ -360,12 +360,12 @@
       "SourceUrl": "https://poe2db.tw/us/Yoon%2C_Remorseful_Djinn#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/Y/Yoon, Remorseful Djinn/Yoon, Remorseful Djinn.md",
       "SourceFingerprint": "B507F3B8F7D7CCDFF93C32FBDE53D8FB94A68CCE4D261C42829426616853B1AB",
-      "ContentFingerprint": "C6943934E9F57DF00F81F7FAD0FA8F32475E41B053FC586F05F4991D19A82A29",
-      "LineCount": 35,
-      "CharacterCount": 1608,
+      "ContentFingerprint": "2BB831597352C7A4E2AAFCFEDC54E48191135D45EF53E3FF299D1D843280273A",
+      "LineCount": 27,
+      "CharacterCount": 756,
       "ImageFileCount": 0,
       "AudioFileCount": 8,
-      "UpdatedAtUtc": "2026-05-02T12:16:33.0407081+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:58:58.5431404+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Rangeen%2C_Spiteful_Djinn#NPCTalk",
@@ -373,12 +373,12 @@
       "SourceUrl": "https://poe2db.tw/us/Rangeen%2C_Spiteful_Djinn#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/R/Rangeen, Spiteful Djinn/Rangeen, Spiteful Djinn.md",
       "SourceFingerprint": "016E9920AC635C8F757D0988984A7C2111EBD53B139F28ACAF2B15DCBA05EAB9",
-      "ContentFingerprint": "EA03A25B47B046DCAF608E12EFF41466B724494ED89BA282F3AF0B57E6E9BFEE",
-      "LineCount": 37,
-      "CharacterCount": 2043,
+      "ContentFingerprint": "5F8A0412218F4116E5D335A20111867365555BABA47D96394889C829288D5F1F",
+      "LineCount": 27,
+      "CharacterCount": 771,
       "ImageFileCount": 0,
       "AudioFileCount": 10,
-      "UpdatedAtUtc": "2026-05-02T12:16:46.5062818+00:00"
+      "UpdatedAtUtc": "2026-05-15T19:59:11.879702+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Servitor_Marius#NPCTalk",
@@ -386,12 +386,12 @@
       "SourceUrl": "https://poe2db.tw/us/Servitor_Marius#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/S/Servitor Marius/Servitor Marius.md",
       "SourceFingerprint": "EC27E5855B523D083642EF04D0F6186A34666E16B935B01634254B46A78D5B2F",
-      "ContentFingerprint": "4914A17F7D3FAFF8AC125EF35BA86C46B44835F40875556718CEF4269BD9623D",
-      "LineCount": 391,
-      "CharacterCount": 23638,
+      "ContentFingerprint": "03515454F9BCB87C361ED1C8EB330354FE2C5212AD592E0D14060517ABE91BF8",
+      "LineCount": 27,
+      "CharacterCount": 555,
       "ImageFileCount": 0,
       "AudioFileCount": 148,
-      "UpdatedAtUtc": "2026-05-02T12:19:24.4718778+00:00"
+      "UpdatedAtUtc": "2026-05-15T20:01:49.5861778+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Tavakai#NPCTalk",
@@ -399,12 +399,12 @@
       "SourceUrl": "https://poe2db.tw/us/Tavakai#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/T/Tavakai/Tavakai.md",
       "SourceFingerprint": "09944752D57BAF91F4DB8A99035487E0A8A5B1247C3ACD9B26B363726FAAC48B",
-      "ContentFingerprint": "B7DF091C89D30EBDF8D52B4909A1C2AD17A69028D53D35B2A7F6BB0BD035A13B",
-      "LineCount": 1254,
-      "CharacterCount": 72444,
+      "ContentFingerprint": "4838C789F55503058AB96D34B92982876CC8AB574A54C6B3AE7BB4527B17BBE5",
+      "LineCount": 79,
+      "CharacterCount": 1496,
       "ImageFileCount": 0,
       "AudioFileCount": 471,
-      "UpdatedAtUtc": "2026-05-02T12:28:02.8974282+00:00"
+      "UpdatedAtUtc": "2026-05-15T20:10:27.9043231+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Yama_The_White#NPCTalk",
@@ -412,12 +412,12 @@
       "SourceUrl": "https://poe2db.tw/us/Yama_The_White#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White.md",
       "SourceFingerprint": "703BA908627EFAF9118E4466CA2278E18BA237FF16F6C5324F2F3889E8781898",
-      "ContentFingerprint": "FA6679F1D4198CF6E6EA5119D6EB1928AF0E03CAC83C7144DAF2D10DCEBDD74E",
-      "LineCount": 197,
-      "CharacterCount": 9455,
+      "ContentFingerprint": "80A88E4B43E09B31D09FB41B5A54C893ED9B4AB3572085682D30FC17D477784B",
+      "LineCount": 23,
+      "CharacterCount": 481,
       "ImageFileCount": 0,
       "AudioFileCount": 66,
-      "UpdatedAtUtc": "2026-05-02T12:29:17.4993491+00:00"
+      "UpdatedAtUtc": "2026-05-15T20:11:42.4394957+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Lurking_Creature#NPCTalk",
@@ -425,12 +425,12 @@
       "SourceUrl": "https://poe2db.tw/us/Lurking_Creature#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/L/Lurking Creature/Lurking Creature.md",
       "SourceFingerprint": "DBD2DB0223FD7BD65E183F673C16D88B64443B2102EB3488F52FF6033E7EF8BF",
-      "ContentFingerprint": "7BF9658AF9FA7C2DD7B6144B17C4F3F4F4733FBFDE4191086C7E8A970BB1DB7D",
-      "LineCount": 264,
-      "CharacterCount": 15110,
+      "ContentFingerprint": "1E492D7652116F94A20BE670C435BDF69DDE7EDB51A31018A32CA478885EDAC7",
+      "LineCount": 59,
+      "CharacterCount": 1525,
       "ImageFileCount": 0,
       "AudioFileCount": 93,
-      "UpdatedAtUtc": "2026-05-02T12:31:11.9293362+00:00"
+      "UpdatedAtUtc": "2026-05-15T20:13:35.9752855+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Hilda#NPCTalk",
@@ -438,12 +438,12 @@
       "SourceUrl": "https://poe2db.tw/us/Hilda#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/H/Hilda/Hilda.md",
       "SourceFingerprint": "591A84A62DC22803F9BF983EBC289A2F64BCBE2C49F0F9C523FD384760613930",
-      "ContentFingerprint": "50888BCF20CFF95586BA2BA982B480BF1A163E40EA905486A05DA720686CC637",
-      "LineCount": 106,
-      "CharacterCount": 8181,
+      "ContentFingerprint": "B756A93B1A46B53889F88054FF274B08490ABF691036AFDA15CC8863BFA644C8",
+      "LineCount": 35,
+      "CharacterCount": 589,
       "ImageFileCount": 0,
       "AudioFileCount": 57,
-      "UpdatedAtUtc": "2026-05-02T12:32:11.0290492+00:00"
+      "UpdatedAtUtc": "2026-05-15T20:14:34.675858+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Torbik#NPCTalk",
@@ -451,12 +451,12 @@
       "SourceUrl": "https://poe2db.tw/us/Torbik#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/T/Torbik/Torbik.md",
       "SourceFingerprint": "16D2AA19CC874D013AB73F999AE9B91F292CEC1E4FE03D6548EE410AFF29D2E4",
-      "ContentFingerprint": "5C4CCF010E94405C3006798BA7C86A52AA82F40A4725156ED966DEA3CDB1DF5B",
-      "LineCount": 44,
-      "CharacterCount": 2777,
+      "ContentFingerprint": "5FF6CEBFBC0005CE75FA6ACF916E34008AD2D289F7BDBA3BA8C51D230F259845",
+      "LineCount": 23,
+      "CharacterCount": 421,
       "ImageFileCount": 0,
       "AudioFileCount": 19,
-      "UpdatedAtUtc": "2026-05-02T12:32:33.8202445+00:00"
+      "UpdatedAtUtc": "2026-05-15T20:14:57.465748+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Ruhaki#NPCTalk",
@@ -464,12 +464,12 @@
       "SourceUrl": "https://poe2db.tw/us/Ruhaki#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/R/Ruhaki/Ruhaki.md",
       "SourceFingerprint": "79FEEE4C9AE232379B21ACBDBF3E6BE26292EAB8FF7A4046C8A2E2BFF60E647C",
-      "ContentFingerprint": "42807390FE0ABCB4081A8EE5497AACF516EFF7944CB4CA3E66BAE18B14F036BF",
-      "LineCount": 51,
-      "CharacterCount": 2998,
+      "ContentFingerprint": "04A348772BFFB37319DAF58EB76626D0CFA5A863F875EA7BCCAEEC1CC6FB74DA",
+      "LineCount": 23,
+      "CharacterCount": 373,
       "ImageFileCount": 0,
       "AudioFileCount": 22,
-      "UpdatedAtUtc": "2026-05-02T12:32:55.6138746+00:00"
+      "UpdatedAtUtc": "2026-05-15T20:15:19.4537138+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Xipocados_Console#NPCTalk",
@@ -477,12 +477,12 @@
       "SourceUrl": "https://poe2db.tw/us/Xipocados_Console#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/X/Xipocado\u0027s Console/Xipocado\u0027s Console.md",
       "SourceFingerprint": "26461AF7B643700D859032316A4DD723F3B1A4536B198A760044770DF2184CB8",
-      "ContentFingerprint": "9809D51FADD8BEB06EEBC48D6EA7F9CB34431BC6D5E3DC3910BCDA6FE10C31BF",
-      "LineCount": 107,
-      "CharacterCount": 4974,
+      "ContentFingerprint": "2A47C7FB244E4288EA705134D49E77B64E750D315411DD23C24BE52D462675C4",
+      "LineCount": 19,
+      "CharacterCount": 455,
       "ImageFileCount": 0,
       "AudioFileCount": 32,
-      "UpdatedAtUtc": "2026-05-02T12:33:29.5140136+00:00"
+      "UpdatedAtUtc": "2026-05-15T20:15:53.2848896+00:00"
     },
     {
       "Key": "https://poe2db.tw/us/Aoife#NPCTalk",
@@ -490,12 +490,12 @@
       "SourceUrl": "https://poe2db.tw/us/Aoife#NPCTalk",
       "NoteRelativePath": "Exiled Vault NPCTalk/PoE2/A/Aoife/Aoife.md",
       "SourceFingerprint": "DDC1219D91EBCBADE3F58AFEDCC4850754D0D8F242DB242EFA8EA5C860400551",
-      "ContentFingerprint": "23A12561BD7F6651233B607159EB958BDDF80AAAA14ECA51E561E8098C68CDA9",
-      "LineCount": 51,
-      "CharacterCount": 2106,
+      "ContentFingerprint": "FDBA7789456E630D5F328A09D248AAC1AEB837C55C3559CE7022C5229A0C4395",
+      "LineCount": 11,
+      "CharacterCount": 124,
       "ImageFileCount": 0,
       "AudioFileCount": 16,
-      "UpdatedAtUtc": "2026-05-02T12:33:49.2923455+00:00"
+      "UpdatedAtUtc": "2026-05-15T20:16:13.0098843+00:00"
     }
   ]
 }

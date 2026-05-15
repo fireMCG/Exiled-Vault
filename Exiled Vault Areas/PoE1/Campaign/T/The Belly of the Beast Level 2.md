@@ -10,3 +10,4 @@ Enter the Nightmare.
 # Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

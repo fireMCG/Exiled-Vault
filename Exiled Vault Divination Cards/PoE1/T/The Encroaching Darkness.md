@@ -15,3 +15,4 @@ Corrupted
 #Concept/Night/Dream
 #Concept/Night/Nightmare
 #PoE1
+#Interesting 
