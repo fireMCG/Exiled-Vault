@@ -21,3 +21,4 @@ Upon the red pyre we are born.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

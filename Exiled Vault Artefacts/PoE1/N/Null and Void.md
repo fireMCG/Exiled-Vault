@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Null and Void.png]]
 
 # Flavour Text
-What is freedom but a clean slate
-in an unclean world?
+What is freedom but a clean slate in an unclean world?
 
 # Details
 - Armour: (257-338)
@@ -21,3 +20,4 @@ in an unclean world?
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Nascent Hope.png]]
 
 # Flavour Text
-"Even in the face of the Winter of the World,
-life found a way. The Spirit always provides."
+"Even in the face of the Winter of the World, life found a way. The Spirit always provides."
 
 # Details
 - Lasts 3.00 Seconds
@@ -19,3 +18,4 @@ life found a way. The Spirit always provides."
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

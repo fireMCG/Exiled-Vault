@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ashes of the Stars.png]]
 
 # Flavour Text
-A single facet contains the wisdom
-of countless disintegrated worlds.
+A single facet contains the wisdom of countless disintegrated worlds.
 
 # Details
 - Requires Level 60
@@ -22,3 +21,4 @@ of countless disintegrated worlds.
 #Concept/Virtue/Wisdom
 #Concept/Tangle
 #PoE1
+#Interesting 

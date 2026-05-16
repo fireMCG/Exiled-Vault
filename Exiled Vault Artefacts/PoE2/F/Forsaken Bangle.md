@@ -19,3 +19,4 @@ They bore this burden to empower their hidden Order.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

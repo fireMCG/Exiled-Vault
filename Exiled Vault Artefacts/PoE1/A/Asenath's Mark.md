@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Asenath's Mark.png]]
 
 # Flavour Text
-Asenath's mind was as quick and nimble
-as the fingers that drew her bowstring.
+Asenath's mind was as quick and nimble as the fingers that drew her bowstring.
 
 # Details
 - Energy Shield: (42-65)

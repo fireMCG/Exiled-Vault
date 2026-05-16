@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Forbidden Gaze.png]]
 
 # Flavour Text
-Keep your heart as ice,
-lest your passions stir.
+Keep your heart as ice, lest your passions stir.
 
 # Details
 - Energy Shield: (70-88)
@@ -17,3 +16,4 @@ lest your passions stir.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

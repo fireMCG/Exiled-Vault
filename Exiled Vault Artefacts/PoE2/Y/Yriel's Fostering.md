@@ -26,3 +26,4 @@ It is suffering that forges the greatest warriors.
 #Concept/Hunt
 #Concept/Warrior
 #PoE2
+#Interesting 

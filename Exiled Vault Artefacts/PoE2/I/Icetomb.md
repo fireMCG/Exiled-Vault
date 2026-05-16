@@ -2,8 +2,7 @@
 
 # Flavour Text
 When Solaris closes his burning eye
-At the end of time,
-the world will perish in ice.
+At the end of time, the world will perish in ice.
 
 # Details
 - Armour: 67
@@ -20,3 +19,4 @@ the world will perish in ice.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

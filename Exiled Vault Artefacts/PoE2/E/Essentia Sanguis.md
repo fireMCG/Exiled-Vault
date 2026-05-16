@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Essentia Sanguis.png]]
 
 # Flavour Text
-The darkest clouds clashed and coupled,
-giving birth to four lightning children of hate.
+The darkest clouds clashed and coupled, giving birth to four lightning children of hate.
 
 # Details
 - Evasion: (75-85)
@@ -19,3 +18,4 @@ giving birth to four lightning children of hate.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

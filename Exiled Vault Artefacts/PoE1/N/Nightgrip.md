@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Nightgrip.png]]
 
 # Flavour Text
-Those heroes that set foot on  found
-themselves changing, only subtly at first...
+Those heroes that set foot on Wraeclast found themselves changing, only subtly at first...
 
 # Details
 - Ward: (82-105)
@@ -17,3 +16,4 @@ themselves changing, only subtly at first...
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

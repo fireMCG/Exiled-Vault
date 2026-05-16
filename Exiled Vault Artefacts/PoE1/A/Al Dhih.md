@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Al Dhih.png]]
 
 # Flavour Text
-"When the hyena howls thrice
-death is sure to follow."
+"When the hyena howls thrice, death is sure to follow."
 -Maraketh Wisdom
 
 # Details
@@ -27,3 +26,4 @@ death is sure to follow."
 #Concept/Animal/Hyena
 #Society/Maraketh
 #PoE1
+#Interesting 

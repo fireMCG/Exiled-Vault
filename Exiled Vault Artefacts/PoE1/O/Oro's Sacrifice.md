@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Oro's Sacrifice.png]]
 
 # Flavour Text
-Give yourself to the flames and your name
-will burn in the minds of men forever.
+Give yourself to the flames and your name will burn in the minds of men forever.
 
 # Details
 - Two Hand Sword

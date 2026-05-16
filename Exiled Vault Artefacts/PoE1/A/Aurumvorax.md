@@ -1,9 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Aurumvorax.png]]
 
 # Flavour Text
-Many a collector of rarities discovered to his dismay
-that the intelligent spirit in this sword
-does not like to share its master's attention
+Many a collector of rarities discovered to his dismay that the intelligent spirit in this sword does not like to share its master's attention
 
 # Details
 - One Handed Sword
@@ -25,3 +23,4 @@ does not like to share its master's attention
 #Concept/Master
 #Concept/Spirit
 #PoE1
+#Interesting 

@@ -1,9 +1,9 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Orbala's Stand.png]]
 
 # Flavour Text
-The inferno surged past, devastating Stridevolf, but the Maraketh
-warrior somehow remained. Soot-blackened and resolute, she
-grinned. In that moment, the bandit king knew true despair.
+The inferno surged past, devastating Stridevolf, but the Maraketh warrior somehow remained.
+Soot-blackened and resolute, she grinned.
+In that moment, the bandit king knew true despair.
 
 # Details
 - Evasion: (258-370)
@@ -16,5 +16,7 @@ grinned. In that moment, the bandit king knew true despair.
 #
 ---
 # Tags
+#Attributes/Timeline 
 #Category/Artefact
 #PoE1
+#Interesting 

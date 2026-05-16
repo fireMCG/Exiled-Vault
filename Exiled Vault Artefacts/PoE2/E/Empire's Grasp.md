@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Empire's Grasp.png]]
 
 # Flavour Text
-"I like my vassals at sword point,
-but my enemies as close as the hilt."
+I like my vassals at sword point, but my enemies as close as the hilt.
 - Emperor Chitus
 
 # Details

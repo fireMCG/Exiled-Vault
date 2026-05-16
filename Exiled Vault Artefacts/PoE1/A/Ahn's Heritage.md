@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ahn's Heritage.png]]
 
 # Flavour Text
-"It's not Karui, Azmeri or even Vaal in origin,
-but one thing is certain. It is very, very old."
+"It's not Karui, Azmeri or even Vaal in origin, but one thing is certain. It is very, very old."
 - Icius Perandus, Antiquities Collection, Item 46
 
 # Details

@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Actum.png]]
 
 # Flavour Text
-Better to act without thought
-than to think without action.
+Better to act without thought than to think without action.
 
 # Details
 - One Handed Axe

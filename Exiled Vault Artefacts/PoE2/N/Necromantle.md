@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Necromantle.png]]
 
 # Flavour Text
-Fueled by the blackness in the hearts of men,
-the armies of Saresh were just as relentless.
+Fueled by the blackness in the hearts of men, the armies of Saresh were just as relentless.
 
 # Details
 - Energy Shield: 52
@@ -19,3 +18,4 @@ the armies of Saresh were just as relentless.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

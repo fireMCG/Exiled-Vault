@@ -15,6 +15,7 @@ But the First King knew the river's secret, and the fish were not the only ones 
 #
 ---
 # Tags
-#Category/Artefact
 #Attributes/Timeline
+#Category/Artefact
 #PoE1
+#Interesting 

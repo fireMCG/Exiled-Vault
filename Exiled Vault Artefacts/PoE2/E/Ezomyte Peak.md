@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Ezomyte Peak.png]]
 
 # Flavour Text
-Centuries of servitude, a day
-of glory, an eternity of death.
+Centuries of servitude, a day of glory, an eternity of death.
 
 # Details
 - Armour: (99-132)

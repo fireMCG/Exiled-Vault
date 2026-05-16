@@ -1,12 +1,9 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Queen of the Forest.png]]
 
 # Flavour Text
-Shedding away her regal past,
-she forged a new destiny.
-Sacrificing the ephemeral joys of man,
-she embraced the eternal grasp of nature.
-Seizing her one true wish,
-she found peace at last.
+Shedding away her regal past, she forged a new destiny.
+Sacrificing the ephemeral joys of man, she embraced the eternal grasp of nature.
+Seizing her one true wish, she found peace at last.
 
 # Details
 - Evasion: (948-1084)
@@ -24,3 +21,4 @@ she found peace at last.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Icefang Orbit.png]]
 
 # Flavour Text
-Those members of the Brotherhood who employ the venom of
-Trarthan ice snakes must take great care with the volatile substance.
+Those members of the Brotherhood who employ the venom of Trarthan ice snakes must take great care with the volatile substance.
 
 # Details
 - Requires Level 36

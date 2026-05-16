@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Effigy of Cruelty.png]]
 
 # Flavour Text
-The horrors we imagined as children
-still exist somewhere in the dark...
+The horrors we imagined as children still exist somewhere in the dark...
 
 # Details
 - Focus
@@ -19,3 +18,4 @@ still exist somewhere in the dark...
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

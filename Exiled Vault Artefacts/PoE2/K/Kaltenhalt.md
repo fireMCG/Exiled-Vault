@@ -21,3 +21,4 @@ Cold, miserable and alone... but alive.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

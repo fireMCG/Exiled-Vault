@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Indigon.png]]
 
 # Flavour Text
-Where the body's limits begin,
-the mind's limits end.
+Where the body's limits begin, the mind's limits end.
 
 # Details
 - Energy Shield: (168-201)
@@ -24,3 +23,4 @@ the mind's limits end.
 #Concept/Mind
 #Concept/Decay
 #PoE2
+#Interesting 

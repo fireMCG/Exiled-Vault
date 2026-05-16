@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Erian's Cobble.png]]
 
 # Flavour Text
-Sometimes patching up your
-equipment gets out of hand.
+Sometimes patching up your equipment gets out of hand.
 
 # Details
 - Armour: (34-74)

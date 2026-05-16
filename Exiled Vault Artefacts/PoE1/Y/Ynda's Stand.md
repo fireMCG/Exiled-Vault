@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ynda's Stand.png]]
 
 # Flavour Text
-When all else was burning and overrun,
-she held the bridge to the very end.
+When all else was burning and overrun, she held the bridge to the very end.
 
 # Details
 - Requires Level 52

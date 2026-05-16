@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ungil's Gauche.png]]
 
 # Flavour Text
-Unwieldy and garish became graceful
-and deadly in Ungil's nimble hands.
+Unwieldy and garish became graceful and deadly in Ungil's nimble hands.
 
 # Details
 - Rune Dagger

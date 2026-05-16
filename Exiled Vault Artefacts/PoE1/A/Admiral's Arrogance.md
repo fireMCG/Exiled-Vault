@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Admiral's Arrogance.png]]
 
 # Flavour Text
-The long and venerable lineages of the Oriathan nobility tended
-to produce Admirals with, shall we say... quick tempers.
+The long and venerable lineages of the Oriathan nobility tended to produce Admirals with, shall we say... quick tempers.
 
 # Details
 - Armour: (258-369)

@@ -23,3 +23,4 @@ It is suffering that forges the greatest warriors.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

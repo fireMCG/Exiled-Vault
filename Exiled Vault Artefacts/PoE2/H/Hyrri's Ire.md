@@ -1,9 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Hyrri's Ire.png]]
 
 # Flavour Text
-Hyrri loosed a barrage of arrows,
-tipped with a poisoned hatred
-only oppression can ferment.
+Hyrri loosed a barrage of arrows, tipped with a poisoned hatred only oppression can ferment.
 
 # Details
 - Evasion: (1218-1421)

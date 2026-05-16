@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Fairgraves' Curse.png]]
 
 # Flavour Text
-The power of the Allflame rends
-souls just as easily as flesh.
+The power of the Allflame rends souls just as easily as flesh.
 
 # Details
 - Bow
@@ -25,3 +24,4 @@ souls just as easily as flesh.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

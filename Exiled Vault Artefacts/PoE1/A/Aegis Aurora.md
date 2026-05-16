@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Aegis Aurora.png]]
 
 # Flavour Text
-Born from the marriage of ice and sky,
-the aurora evokes both awe and power.
+Born from the marriage of ice and sky, the aurora evokes both awe and power.
 
 # Details
 - Chance to Block: 32%
@@ -25,3 +24,4 @@ the aurora evokes both awe and power.
 #Concept/Power
 #Concept/Sky
 #PoE1
+#Interesting 

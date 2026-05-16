@@ -1,9 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Oriath's End.png]]
 
 # Flavour Text
-Ennui prevailed, until inspiration sparked
-a mote of flame, kindled by fury
-and all in his path were obliterated.
+Ennui prevailed, until inspiration sparked a mote of flame, kindled by fury and all in his path were obliterated.
 
 # Details
 - Lasts 8.50 Seconds
@@ -19,3 +17,4 @@ and all in his path were obliterated.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

@@ -18,3 +18,4 @@ A light unbroken, endlessly reborn.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

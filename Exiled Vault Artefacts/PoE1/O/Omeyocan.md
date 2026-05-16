@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Omeyocan.png]]
 
 # Flavour Text
-Only a fool seeks meaning
-in a life so fleeting.
+Only a fool seeks meaning in a life so fleeting.
 
 # Details
 - Evasion: (99-117)
@@ -20,3 +19,4 @@ in a life so fleeting.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

@@ -2,8 +2,7 @@
 
 # Flavour Text
 Cold winds blasted what little grew on the icy surface.
-The gifts of the land lay hidden deeper,
-and only patience and persistence would free them.
+The gifts of the land lay hidden deeper, and only patience and persistence would free them.
 
 # Details
 - Requires Level 49
@@ -16,6 +15,7 @@ and only patience and persistence would free them.
 #
 ---
 # Tags
-#Category/Artefact
 #Attributes/Timeline
+#Category/Artefact
 #PoE1
+#Interesting 

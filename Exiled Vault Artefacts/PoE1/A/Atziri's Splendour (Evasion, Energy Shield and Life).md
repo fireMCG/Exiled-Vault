@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Atziri's Splendour (Evasion, Energy Shield and Life).png]]
 
 # Flavour Text
-"When you have nothing to hide,
-you have nothing to fear."
+"When you have nothing to hide, you have nothing to fear."
 - Atziri, Queen of the Vaal
 
 # Details

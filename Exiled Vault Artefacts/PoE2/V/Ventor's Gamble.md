@@ -1,10 +1,8 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Ventor's Gamble.png]]
 
 # Flavour Text
-In a blaze of glory,
-An anomaly defying all odds
-The "unkillable" beast met the divine
-And Ventor met his latest trophy.
+In a blaze of glory, an anomaly defying all odds.
+The "unkillable" beast met the divine, and Ventor met his latest trophy.
 
 # Details
 - Requires Level 64
@@ -25,3 +23,4 @@ And Ventor met his latest trophy.
 #Concept/Luck
 #Concept/Religion/Divinity
 #PoE2
+#Interesting 

@@ -1,10 +1,8 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Abberath's Hooves.png]]
 
 # Flavour Text
-The goat king knew not of war,
-of the lands and laws he trampled.
-The goat king knew only joy
-at turning life into ash.
+The goat king knew not of war, of the lands and laws he trampled.
+The goat king knew only joy at turning life into ash.
 
 # Details
 - Evasion: (42-54)
@@ -26,3 +24,4 @@ at turning life into ash.
 #Concept/King
 #Concept/War
 #PoE1
+#Interesting 

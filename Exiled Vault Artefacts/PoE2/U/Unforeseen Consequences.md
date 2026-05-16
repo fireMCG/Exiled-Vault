@@ -16,4 +16,7 @@ The Well always had been.
 #
 ---
 # Tags
+#Category/Artefact 
 #PoE2
+#Society/Lightless
+#Interesting 

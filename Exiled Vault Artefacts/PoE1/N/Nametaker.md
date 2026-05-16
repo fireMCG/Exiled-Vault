@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Nametaker.png]]
 
 # Flavour Text
-It need not know your True Name. Our most
-dearly held secrets spill forth in our blood.
+It need not know your True Name. Our most dearly held secrets spill forth in our blood.
 
 # Details
 - One Handed Sword
@@ -23,3 +22,4 @@ dearly held secrets spill forth in our blood.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

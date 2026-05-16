@@ -1,7 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Agnerod East.png]]
 
 # Flavour Text
-One for each corner of the great .
+One for each corner of the great Vinktar Square.
 
 # Details
 - Staff

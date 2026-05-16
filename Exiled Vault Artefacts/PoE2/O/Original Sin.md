@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Original Sin.png]]
 
 # Flavour Text
-Innocence rose to godhood not on inspired faith,
-but on the vilification and hatred of another.
+Innocence rose to godhood not on inspired faith, but on the vilification and hatred of another.
 
 # Details
 - Requires Level 20
@@ -15,3 +14,4 @@ but on the vilification and hatred of another.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

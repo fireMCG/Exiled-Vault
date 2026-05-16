@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Nocturne.png]]
 
 # Flavour Text
-Light and shadow chase eternal,
-but neither knows the other exists...
+Light and shadow chase eternal, but neither knows the other exists...
 
 # Details
 - Buckler
@@ -21,3 +20,4 @@ but neither knows the other exists...
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

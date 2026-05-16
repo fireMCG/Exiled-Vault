@@ -1,9 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ylfeban's Trickery.png]]
 
 # Flavour Text
-An angry god is one thing,
-but you should really fear a god
-with an unpredictable sense of humour.
+An angry god is one thing, but you should really fear a god with an unpredictable sense of humour.
 
 # Details
 - Energy Shield: (184-248)

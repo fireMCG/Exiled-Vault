@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Keelhaul.png]]
 
 # Flavour Text
-Below all living things,
-there exists a flow...
+Below all living things, there exists a flow...
 
 # Details
 - Has (1-3) Charm Slots
@@ -17,3 +16,4 @@ there exists a flow...
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

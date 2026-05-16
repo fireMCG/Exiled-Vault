@@ -2,9 +2,7 @@
 
 # Flavour Text
 In the light of Solaris, the shadows cower and hide.
-But every night they gather and grow,
-and all but the strong and the stupid
-seek shelter from their grasp until daybreak.
+But every night they gather and grow, and all but the strong and the stupid seek shelter from their grasp until daybreak.
 
 # Details
 - Talisman Tier: 1
@@ -21,3 +19,4 @@ seek shelter from their grasp until daybreak.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

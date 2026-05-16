@@ -4,8 +4,7 @@
 "Nothing is more natural than competition.
 One feasts, another starves.
 One blossoms, another withers.
-And one cannot catch the golden sunlight
-without casting a bitter shadow."
+And one cannot catch the golden sunlight without casting a bitter shadow."
 - Cadiro Perandus
 
 # Details
@@ -26,3 +25,4 @@ without casting a bitter shadow."
 #Concept/Shadow
 #Concept/Sun
 #PoE1
+#Interesting 

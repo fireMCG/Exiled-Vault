@@ -2,8 +2,7 @@
 
 # Flavour Text
 When darkness comes, we pray for light.
-When darkness is all that there is,
-we pray for death.
+When darkness is all that there is, we pray for death.
 
 # Details
 - Adds Ritual Altars to a Map
@@ -17,3 +16,4 @@ we pray for death.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

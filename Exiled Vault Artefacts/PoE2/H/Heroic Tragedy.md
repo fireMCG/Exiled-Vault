@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Heroic Tragedy.png]]
 
 # Flavour Text
-They believed themselves courageous and selfless,
-but that bravery became the doom at their door.
+They believed themselves courageous and selfless, but that bravery became the doom at their door.
 
 # Details
 - Limited to: 1 Historic
@@ -17,3 +16,4 @@ but that bravery became the doom at their door.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

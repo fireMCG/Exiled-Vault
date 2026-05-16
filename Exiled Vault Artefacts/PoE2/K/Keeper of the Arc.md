@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Keeper of the Arc.png]]
 
 # Flavour Text
-The priests of the Kalguur keep faith through numbers
-and calculation, not unprovable promises.
+The priests of the Kalguur keep faith through numbers and calculation, not unprovable promises.
 
 # Details
 - Armour: (242-339)

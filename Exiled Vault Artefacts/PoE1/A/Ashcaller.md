@@ -29,3 +29,4 @@ Ngamahu lends it, and Hinekora returns it."
 #Concept/Element/Fire
 #Society/Karui
 #PoE1
+#Interesting 

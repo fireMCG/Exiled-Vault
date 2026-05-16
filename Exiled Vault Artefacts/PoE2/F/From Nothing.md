@@ -16,3 +16,4 @@ breathing deep with joy the exquisite light of meaning.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Araku Tiki.png]]
 
 # Flavour Text
-It is said to make you invisible when the Great
-Spirit comes to take you on your final journey.
+It is said to make you invisible when the Great Spirit comes to take you on your final journey.
 
 # Details
 - Regenerate (2-4) Life per second

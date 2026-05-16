@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Ingenuity.png]]
 
 # Flavour Text
-Experiments with geomancy taught
-the Maji more than they ever expected.
+Experiments with geomancy taught the Maji more than they ever expected.
 
 # Details
 - Requires Level 55
@@ -18,3 +17,4 @@ the Maji more than they ever expected.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

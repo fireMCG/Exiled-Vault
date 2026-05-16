@@ -17,3 +17,4 @@ Fight in the traditional Way, or not at all!
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

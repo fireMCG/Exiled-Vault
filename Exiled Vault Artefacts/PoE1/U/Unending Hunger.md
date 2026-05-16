@@ -18,3 +18,4 @@ Their hearts will never be content.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

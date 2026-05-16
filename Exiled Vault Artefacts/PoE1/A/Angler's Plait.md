@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Angler's Plait.png]]
 
 # Flavour Text
-A man can spend his whole life fishing
-before he learns it is not fish that he seeks.
+A man can spend his whole life fishing before he learns it is not fish that he seeks.
 
 # Details
 - Requires Level 38

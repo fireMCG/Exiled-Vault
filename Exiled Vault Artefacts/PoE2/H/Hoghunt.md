@@ -1,9 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Hoghunt.png]]
 
 # Flavour Text
-There was a very clear and delicious
-reason why the Ezomytes chose to
-stop their flight and settle in Phaaryl.
+There was a very clear and delicious reason why the Ezomytes chose to stop their flight and settle in Phaaryl.
 
 # Details
 - Two Hand Mace
@@ -22,3 +20,4 @@ stop their flight and settle in Phaaryl.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

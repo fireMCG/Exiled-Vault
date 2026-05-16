@@ -22,3 +22,4 @@ An Emperor must conquer his own darkness before he can act as a beacon of light.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

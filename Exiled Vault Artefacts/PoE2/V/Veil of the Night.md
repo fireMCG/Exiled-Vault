@@ -23,3 +23,4 @@ And bloom steel flowers of victory.
 #Concept/Night
 #Concept/Veil
 #PoE2
+#Interesting 

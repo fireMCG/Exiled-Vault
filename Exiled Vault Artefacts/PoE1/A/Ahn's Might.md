@@ -2,8 +2,7 @@
 
 # Flavour Text
 "Impossibly heavy, yet the ancient edge is keen as any modern blade.
-A reminder that, in the end, when we lie in the bellies of worms,
-it is what we make that makes us."
+A reminder that, in the end, when we lie in the bellies of worms, it is what we make that makes us."
 - Icius Perandus, Antiquities Collection, Item 47
 
 # Details

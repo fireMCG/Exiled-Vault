@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Apep's Slumber.png]]
 
 # Flavour Text
-The heart grows slow,
-the spirit grows strong.
+The heart grows slow, the spirit grows strong.
 
 # Details
 - Chance to Block: 24%
@@ -26,3 +25,4 @@ the spirit grows strong.
 #Concept/Sleep
 #Concept/Spirit
 #PoE1
+#Interesting 

@@ -19,3 +19,4 @@ Fragments of the whole that washes clean the skies.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

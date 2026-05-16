@@ -1,7 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Umbilicus Immortalis.png]]
 
 # Flavour Text
-"The power of rebirth rivals that of immortality."
+The power of rebirth rivals that of immortality.
 - Icius Perandus, Antiquities Collection, Item 3
 
 # Details
@@ -24,3 +24,4 @@
 #Concept/Rebirth
 #Concept/Power
 #PoE2
+#Interesting 

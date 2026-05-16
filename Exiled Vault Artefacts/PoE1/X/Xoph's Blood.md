@@ -19,3 +19,4 @@ Through us he carries his burning message.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

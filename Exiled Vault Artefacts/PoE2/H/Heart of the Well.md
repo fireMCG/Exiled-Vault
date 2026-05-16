@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Heart of the Well.png]]
 
 # Flavour Text
-Countless souls scream in agonising harmony,
-forever sinking under the weight of the newly dead.
+Countless souls scream in agonising harmony, forever sinking under the weight of the newly dead.
 
 # Details
 - Limited to: 1
@@ -14,3 +13,4 @@ forever sinking under the weight of the newly dead.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

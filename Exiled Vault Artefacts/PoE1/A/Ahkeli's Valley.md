@@ -17,11 +17,12 @@ Dammed by the coagulating dead.
 #
 ---
 # Tags
+#Attributes/Timeline
 #Category/Artefact
 #Character/Ahkeli
 #Concept/Damnation
 #Concept/Water/River
 #Concept/Water/Sea
-#Society/Primeval
-#Attributes/Timeline
 #PoE1
+#Society/Primeval
+#Interesting 

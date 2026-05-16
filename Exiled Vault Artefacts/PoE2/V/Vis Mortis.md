@@ -20,3 +20,4 @@ Zealots in mortis enslaved
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

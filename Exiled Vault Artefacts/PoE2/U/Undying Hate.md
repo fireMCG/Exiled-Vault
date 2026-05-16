@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Undying Hate.png]]
 
 # Flavour Text
-They believed themselves driven by necessity,
-but that desperation made them monstrous.
+They believed themselves driven by necessity, but that desperation made them monstrous.
 
 # Details
 - Limited to: 1 Historic
@@ -22,5 +21,6 @@ but that desperation made them monstrous.
 #Category/Artefact
 #Concept/Emotion/Hate
 #League/Abyss
-#Society/Lightless
 #PoE2
+#Society/Lightless
+#Interesting 

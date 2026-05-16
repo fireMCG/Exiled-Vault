@@ -2,7 +2,7 @@
 
 # Flavour Text
 Tale-women do not fight as dekharas.
-They command a power all thier own.
+They command a power all their own.
 
 # Details
 - Energy Shield: (51-61)

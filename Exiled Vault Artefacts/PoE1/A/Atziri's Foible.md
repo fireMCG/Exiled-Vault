@@ -23,3 +23,4 @@ The divine truth, however, is that both are one and the same.
 #Concept/Mirror
 #Society/VaalEmpire
 #PoE1
+#Interesting 

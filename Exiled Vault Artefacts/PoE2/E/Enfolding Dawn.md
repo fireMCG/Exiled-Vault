@@ -17,3 +17,4 @@ The gleam of the night and the howling teeth alike could not abate the rising of
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

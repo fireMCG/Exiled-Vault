@@ -1,9 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Fury of the King.png]]
 
 # Flavour Text
-Gruthkul was the Mother of Despair...
-but one day, the Father will return,
-and discover the fate of his children.
+Gruthkul was the Mother of Despair... but one day, the Father will return, and discover the fate of his children.
 
 # Details
 - Physical Damage: 50-105
@@ -25,4 +23,6 @@ and discover the fate of his children.
 #
 ---
 # Tags
+#Category/Artefact 
 #PoE2
+#Interesting 

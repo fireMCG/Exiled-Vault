@@ -15,9 +15,10 @@ the Clayshaper sought safety in the clouds of ash above.
 #
 ---
 # Tags
+#Attributes/Timeline
 #Category/Artefact
 #Character/Ahkeli
 #Concept/Sky
-#Society/Primeval
-#Attributes/Timeline
 #PoE1
+#Society/Primeval
+#Interesting 

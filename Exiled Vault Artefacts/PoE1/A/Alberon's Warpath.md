@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Alberon's Warpath.png]]
 
 # Flavour Text
-Alberon walked among the accursed,
-and they welcomed him.
+Alberon walked among the accursed, and they welcomed him.
 
 # Details
 - Armour: (268-319)

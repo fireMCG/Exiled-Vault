@@ -18,3 +18,4 @@ One final, feeble attempt to save what was meant to be eternal.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

@@ -17,3 +17,4 @@ The devil finds work for idle hands.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

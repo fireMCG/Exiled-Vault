@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Zerphi's Last Breath.png]]
 
 # Flavour Text
-"Proof that if you devote yourself to a god of death,
-you may be spared from its wrath."
+Proof that if you devote yourself to a god of death, you may be spared from its wrath.
 - Icius Perandus, Antiquities Collection, Item 408
 
 # Details
@@ -17,5 +16,6 @@ you may be spared from its wrath."
 ---
 # Tags
 #Category/Artefact
-#Society/VaalEmpire
 #PoE1
+#Society/VaalEmpire
+#Interesting 

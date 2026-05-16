@@ -2,8 +2,7 @@
 
 # Flavour Text
 The narrow path turned to rough rocks that led towards the sky.
-One last obstacle in a life-long journey
-to find a land they could call home.
+One last obstacle in a life-long journey to find a land they could call home.
 
 # Details
 - Requires Level 49
@@ -16,6 +15,7 @@ to find a land they could call home.
 #
 ---
 # Tags
-#Category/Artefact
 #Attributes/Timeline
+#Category/Artefact
 #PoE1
+#Interesting 

@@ -15,3 +15,4 @@ Worship of house gods was tolerated in Oriath, so long as it remained private.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

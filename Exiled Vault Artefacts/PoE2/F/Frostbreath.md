@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Frostbreath.png]]
 
 # Flavour Text
-A merciful murderer swept through the streets of Sarn
-Robbing breath from the weak and worthless.
+A merciful murderer swept through the streets of Sarn robbing breath from the weak and worthless.
 
 # Details
 - One Hand Mace

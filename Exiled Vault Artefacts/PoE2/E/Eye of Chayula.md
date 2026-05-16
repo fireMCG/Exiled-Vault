@@ -15,3 +15,4 @@ Never blinking, always watching.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

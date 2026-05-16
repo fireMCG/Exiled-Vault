@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Uul-Netol's Kiss.png]]
 
 # Flavour Text
-We feel the mother's love
-And beg to return to her womb.
+We feel the mother's love, and beg to return to her womb.
 
 # Details
 - Two Handed Axe
@@ -23,3 +22,4 @@ And beg to return to her womb.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

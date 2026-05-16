@@ -17,3 +17,4 @@ He alone was welcome in the sacred spaces of the Titans.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

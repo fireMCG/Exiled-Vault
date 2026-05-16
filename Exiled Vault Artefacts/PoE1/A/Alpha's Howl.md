@@ -1,9 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Alpha's Howl.png]]
 
 # Flavour Text
-Nature respects the strong
-And paints the snow red
-With the blood of the weak
+Nature respects the strong, and paints the snow red with the blood of the weak
 
 # Details
 - Evasion: (664-850)
@@ -24,3 +22,4 @@ With the blood of the weak
 #Concept/Nature
 #Concept/Power
 #PoE1
+#Interesting 

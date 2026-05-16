@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Nebuloch.png]]
 
 # Flavour Text
-They hoped that, trapped in its prison,
-the creature would age and perish.
+They hoped that, trapped in its prison, the creature would age and perish.
 But time would not touch the fiend.
 
 # Details

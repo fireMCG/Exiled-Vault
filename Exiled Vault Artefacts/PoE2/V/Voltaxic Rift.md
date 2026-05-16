@@ -1,9 +1,9 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Voltaxic Rift.png]]
 
 # Flavour Text
-The eldritch storm descended upon us, and bruised lightning
-rained down. Metal withered and flesh melted before its
-arcane power. There was no escape, no shelter. Only despair.
+The eldritch storm descended upon us, and bruised lightning rained down.
+Metal withered and flesh melted before its arcane power.
+There was no escape, no shelter. Only despair.
 
 # Details
 - Bow
@@ -27,3 +27,4 @@ arcane power. There was no escape, no shelter. Only despair.
 #Concept/Element/Lightning
 #Concept/Storm
 #PoE2
+#Interesting 

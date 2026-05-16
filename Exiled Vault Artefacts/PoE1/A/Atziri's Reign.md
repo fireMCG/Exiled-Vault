@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Atziri's Reign.png]]
 
 # Flavour Text
-Atziri went to great lengths to ensure her immortality,
-but nothing is eternal.
+Atziri went to great lengths to ensure her immortality, but nothing is eternal.
 
 # Details
 - Limited to: 1
