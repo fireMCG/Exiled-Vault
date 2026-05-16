@@ -1,5 +1,4 @@
-# Rangeen, Spiteful Djinn on Wish for a Ring
-Rangeen, Spiteful Djinn: May it rot your finger.
+<span style="color:#00FF00;">Rangeen, Spiteful Djinn:</span> May it rot your finger.
 ![[Exiled Vault NPCTalk/PoE2/R/Rangeen, Spiteful Djinn/Rangeen, Spiteful Djinn on Wish for a Ring/Audio/Rangeen, Spiteful Djinn - S4 - L1 - A1.ogg]]
 
 #

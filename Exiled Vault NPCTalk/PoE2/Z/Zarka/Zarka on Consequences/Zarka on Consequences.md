@@ -1,5 +1,4 @@
-# Zarka on Consequences
-Zarka: For most, the {sel khari's} secrecy is kept on pain of death... but for you, there will be no violence. No. If you reveal this secret... I will tell embarrassing stories about you, and pass them down to those that come after me! You {will} be remembered, but not as a hero... as a bumbling fool. A subject of mockery. It is a form of retaliation worse than death, second only to being forgotten. Please do not force me to fulfil this duty.
+<span style="color:#00FF00;">Zarka:</span> For most, the {sel khari's} secrecy is kept on pain of death... but for you, there will be no violence. No. If you reveal this secret... I will tell embarrassing stories about you, and pass them down to those that come after me! You {will} be remembered, but not as a hero... as a bumbling fool. A subject of mockery. It is a form of retaliation worse than death, second only to being forgotten. Please do not force me to fulfil this duty.
 ![[Exiled Vault NPCTalk/PoE2/Z/Zarka/Zarka on Consequences/Audio/Zarka - S1 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/Z/Zarka/Zarka on Consequences/Audio/Zarka - S1 - L1 - A2.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/Z/Zarka/Zarka on Consequences/Audio/Zarka - S1 - L1 - A3.ogg]]

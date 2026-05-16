@@ -1,5 +1,4 @@
-# Rangeen, Spiteful Djinn on Introduction
-Rangeen, Spiteful Djinn: Are you serious? I'd finally convinced the Serpent Clan to free me! I will give you something to leave me alone. Choose.
+<span style="color:#00FF00;">Rangeen, Spiteful Djinn:</span> Are you serious? I'd finally convinced the Serpent Clan to free me! I will give you something to leave me alone. Choose.
 ![[Exiled Vault NPCTalk/PoE2/R/Rangeen, Spiteful Djinn/Rangeen, Spiteful Djinn on Introduction/Audio/Rangeen, Spiteful Djinn - S1 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/R/Rangeen, Spiteful Djinn/Rangeen, Spiteful Djinn on Introduction/Audio/Rangeen, Spiteful Djinn - S1 - L1 - A2.ogg]]
 

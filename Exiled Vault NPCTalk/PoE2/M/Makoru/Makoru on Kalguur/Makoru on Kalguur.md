@@ -1,23 +1,22 @@
-# Makoru on Kalguur
-Makoru: They don't talk very much about their homeland, and well... I'm definitely not allowed to sail there.
+<span style="color:#00FF00;">Makoru:</span> They don't talk very much about their homeland, and well... I'm definitely not allowed to sail there.
 ![[Exiled Vault NPCTalk/PoE2/M/Makoru/Makoru on Kalguur/Audio/Makoru - S9 - L1 - A1.ogg]]
-Warrior: Are only Kalguurans permitted there?
+<span style="color:#00FF00;">Warrior:</span> Are only Kalguurans permitted there?
 ![[Exiled Vault NPCTalk/PoE2/M/Makoru/Makoru on Kalguur/Audio/Makoru - S9 - L2 - A1.ogg]]
-Witch: Is it because you're not one of them?
+<span style="color:#00FF00;">Witch:</span> Is it because you're not one of them?
 ![[Exiled Vault NPCTalk/PoE2/M/Makoru/Makoru on Kalguur/Audio/Makoru - S9 - L3 - A1.ogg]]
-Sorceress: You are not permitted because of your lineage?
+<span style="color:#00FF00;">Sorceress:</span> You are not permitted because of your lineage?
 ![[Exiled Vault NPCTalk/PoE2/M/Makoru/Makoru on Kalguur/Audio/Makoru - S9 - L4 - A1.ogg]]
-Ranger: That seems oddly cruel. For what reason?
+<span style="color:#00FF00;">Ranger:</span> That seems oddly cruel. For what reason?
 ![[Exiled Vault NPCTalk/PoE2/M/Makoru/Makoru on Kalguur/Audio/Makoru - S9 - L5 - A1.ogg]]
-Huntress: Do you need to prove yourself first, perhaps?
+<span style="color:#00FF00;">Huntress:</span> Do you need to prove yourself first, perhaps?
 ![[Exiled Vault NPCTalk/PoE2/M/Makoru/Makoru on Kalguur/Audio/Makoru - S9 - L6 - A1.ogg]]
-Monk: Do they only allow Kalguurans?
+<span style="color:#00FF00;">Monk:</span> Do they only allow Kalguurans?
 ![[Exiled Vault NPCTalk/PoE2/M/Makoru/Makoru on Kalguur/Audio/Makoru - S9 - L7 - A1.ogg]]
-Mercenary: What? Why not? They scared of ya?
+<span style="color:#00FF00;">Mercenary:</span> What? Why not? They scared of ya?
 ![[Exiled Vault NPCTalk/PoE2/M/Makoru/Makoru on Kalguur/Audio/Makoru - S9 - L8 - A1.ogg]]
-Druid: Why not? The Kalguurans don't strike me as hostile folk.
+<span style="color:#00FF00;">Druid:</span> Why not? The Kalguurans don't strike me as hostile folk.
 ![[Exiled Vault NPCTalk/PoE2/M/Makoru/Makoru on Kalguur/Audio/Makoru - S9 - L9 - A1.ogg]]
-Makoru: Nah, it's nothing like that. It's just part of their culture. First, someone has to immortalise my family's triumphs into an epic poem. Then, it must be told at their royal court, before their King. This sort of custom is not too different from Karui oral traditions, but it's a tricky situation for me. I am no longer part of my tribe, so I have no family to immortalise in song. Tujen suggested that {we} could be family, but he was drunk at the time...
+<span style="color:#00FF00;">Makoru:</span> Nah, it's nothing like that. It's just part of their culture. First, someone has to immortalise my family's triumphs into an epic poem. Then, it must be told at their royal court, before their King. This sort of custom is not too different from Karui oral traditions, but it's a tricky situation for me. I am no longer part of my tribe, so I have no family to immortalise in song. Tujen suggested that {we} could be family, but he was drunk at the time...
 ![[Exiled Vault NPCTalk/PoE2/M/Makoru/Makoru on Kalguur/Audio/Makoru - S9 - L10 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/M/Makoru/Makoru on Kalguur/Audio/Makoru - S9 - L10 - A2.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/M/Makoru/Makoru on Kalguur/Audio/Makoru - S9 - L10 - A3.ogg]]

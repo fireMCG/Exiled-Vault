@@ -1,43 +1,42 @@
-# Yama The White on Mother of Death
-Yama The White: The Mother waited for you! The years come and go. Still, she waits. Last time, an outsider here, very disappointing! Every failure brings less hope.
+<span style="color:#00FF00;">Yama The White:</span> The Mother waited for you! The years come and go. Still, she waits. Last time, an outsider here, very disappointing! Every failure brings less hope.
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L1 - A2.ogg]]
-Warrior: Less hope? Why?
+<span style="color:#FF0000;">Warrior:</span> Less hope? Why?
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L2 - A1.ogg]]
-Witch: Of course they were disappointing. They weren't {me.}
+<span style="color:#FF0000;">Witch:</span> Of course they were disappointing. They weren't {me.}
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L3 - A1.ogg]]
-Sorceress: When did this happen?
+<span style="color:#FF0000;">Sorceress:</span> When did this happen?
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L4 - A1.ogg]]
-Ranger: Why? What happened?
+<span style="color:#FF0000;">Ranger:</span> Why? What happened?
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L5 - A1.ogg]]
-Huntress: What are you sayin'?
+<span style="color:#FF0000;">Huntress:</span> What are you sayin'?
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L6 - A1.ogg]]
-Monk: Did another come here before me?
+<span style="color:#FF0000;">Monk:</span> Did another come here before me?
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L7 - A1.ogg]]
-Mercenary: So, the usual?
+<span style="color:#FF0000;">Mercenary:</span> So, the usual?
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L8 - A1.ogg]]
-Druid: Another outsider? Who was it?
+<span style="color:#FF0000;">Druid:</span> Another outsider? Who was it?
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L9 - A1.ogg]]
-Yama The White: You think you know. You imagine more. Cannot imagine... {longer than you think!}
+<span style="color:#00FF00;">Yama The White:</span> You think you know. You imagine more. Cannot imagine... {longer than you think!}
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L10 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L10 - A2.ogg]]
-Warrior: I'm not sure I understand.
+<span style="color:#FF0000;">Warrior:</span> I'm not sure I understand.
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L11 - A1.ogg]]
-Witch: I'm losing patience with this, monkey.
+<span style="color:#FF0000;">Witch:</span> I'm losing patience with this, monkey.
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L12 - A1.ogg]]
-Sorceress: Don't be so sure. The Maraketh have a very long memory.
+<span style="color:#FF0000;">Sorceress:</span> Don't be so sure. The Maraketh have a very long memory.
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L13 - A1.ogg]]
-Ranger: Are you just saying random things?
+<span style="color:#FF0000;">Ranger:</span> Are you just saying random things?
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L14 - A1.ogg]]
-Huntress: Er, what?
+<span style="color:#FF0000;">Huntress:</span> Er, what?
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L15 - A1.ogg]]
-Monk: I don't understand your wisdom, but I'll consider it.
+<span style="color:#FF0000;">Monk:</span> I don't understand your wisdom, but I'll consider it.
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L16 - A1.ogg]]
-Mercenary: I dunno, I can imagine pretty long.
+<span style="color:#FF0000;">Mercenary:</span> I dunno, I can imagine pretty long.
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L17 - A1.ogg]]
-Druid: Time is a river, aye. Wider than any man - or {monkey} - can see.
+<span style="color:#FF0000;">Druid:</span> Time is a river, aye. Wider than any man - or {monkey} - can see.
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L18 - A1.ogg]]
-Yama The White: Ahahahaha!
+<span style="color:#00FF00;">Yama The White:</span> Ahahahaha!
 ![[Exiled Vault NPCTalk/PoE2/Y/Yama The White/Yama The White on Mother of Death/Audio/Yama The White - S2 - L19 - A1.ogg]]
 
 #
