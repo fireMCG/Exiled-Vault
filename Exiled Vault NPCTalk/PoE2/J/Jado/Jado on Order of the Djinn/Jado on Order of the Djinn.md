@@ -7,5 +7,7 @@
 #
 ---
 # Tags
+#Attributes/Timeline 
 #Category/NPCTalk
 #PoE2
+#Interesting 

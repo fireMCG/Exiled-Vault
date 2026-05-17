@@ -19,3 +19,4 @@ It is the smile, the nod... the handshake... of a former friend.
 #Category/Artefact
 #Concept/Treason
 #PoE1
+#Interesting 

@@ -1,8 +1,8 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ceinture of Benevolence.png]]
 
 # Flavour Text
-"Put your faith in me.
-Our god demands it."
+Put your faith in me.
+Our god demands it.
 - High Templar Maxarius.
 
 # Details
@@ -18,3 +18,4 @@ Our god demands it."
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

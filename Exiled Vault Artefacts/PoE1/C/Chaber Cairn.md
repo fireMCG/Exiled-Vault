@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Chaber Cairn.png]]
 
 # Flavour Text
-The weight of faith is great
-Yet it is never borne alone.
+The weight of faith is great yet it is never borne alone.
 
 # Details
 - Two Hand Mace

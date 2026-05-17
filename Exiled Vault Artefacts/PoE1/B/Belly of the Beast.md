@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Belly of the Beast.png]]
 
 # Flavour Text
-There is no safer place
-Than the Belly of the Beast
+There is no safer place than the Belly of the Beast
 
 # Details
 - Armour: (635-876)
@@ -21,3 +20,4 @@ Than the Belly of the Beast
 #Category/Artefact
 #Concept/Beast
 #PoE1
+#Interesting 

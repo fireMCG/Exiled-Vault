@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cyclopean Coil.png]]
 
 # Flavour Text
-With the patience of a prowling lion,
-the Shade watched the Scholar.
+With the patience of a prowling lion, the Shade watched the Scholar.
 
 # Details
 - Requires Level 68
@@ -22,4 +21,6 @@ the Shade watched the Scholar.
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius
 #Concept/Decay
+#Concept/Shade
 #PoE1
+#Interesting 

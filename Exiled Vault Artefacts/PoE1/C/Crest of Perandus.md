@@ -1,7 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Crest of Perandus.png]]
 
 # Flavour Text
-"With piety and justice."
+With piety and justice.
 - Perandus family motto
 
 # Details
@@ -21,3 +21,4 @@
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

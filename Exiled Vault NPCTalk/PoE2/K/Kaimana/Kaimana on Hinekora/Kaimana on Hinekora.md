@@ -2,21 +2,21 @@
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Hinekora/Audio/Kaimana - S4 - L1 - A1.ogg]]
 <span style="color:#00FF00;">Tavakai:</span> She did {what?}
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Hinekora/Audio/Kaimana - S4 - L2 - A1.ogg]]
-<span style="color:#00FF00;">Warrior:</span> I'm not sure what she meant... I'll have to think on it.
+<span style="color:#FF0000;">Warrior:</span> I'm not sure what she meant... I'll have to think on it.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Hinekora/Audio/Kaimana - S4 - L3 - A1.ogg]]
-<span style="color:#00FF00;">Witch:</span> It was nothing... it meant nothing.
+<span style="color:#FF0000;">Witch:</span> It was nothing... it meant nothing.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Hinekora/Audio/Kaimana - S4 - L4 - A1.ogg]]
-<span style="color:#00FF00;">Sorceress:</span> It is hard to say.
+<span style="color:#FF0000;">Sorceress:</span> It is hard to say.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Hinekora/Audio/Kaimana - S4 - L5 - A1.ogg]]
-<span style="color:#00FF00;">Ranger:</span> Nothing I didn't already know.
+<span style="color:#FF0000;">Ranger:</span> Nothing I didn't already know.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Hinekora/Audio/Kaimana - S4 - L6 - A1.ogg]]
-<span style="color:#00FF00;">Huntress:</span> Perhaps it's a way for me to fix what's broken.
+<span style="color:#FF0000;">Huntress:</span> Perhaps it's a way for me to fix what's broken.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Hinekora/Audio/Kaimana - S4 - L7 - A1.ogg]]
-<span style="color:#00FF00;">Monk:</span> Something I won't soon forget.
+<span style="color:#FF0000;">Monk:</span> Something I won't soon forget.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Hinekora/Audio/Kaimana - S4 - L8 - A1.ogg]]
-<span style="color:#00FF00;">Mercenary:</span> It was strange. Very strange.
+<span style="color:#FF0000;">Mercenary:</span> It was strange. Very strange.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Hinekora/Audio/Kaimana - S4 - L9 - A1.ogg]]
-<span style="color:#00FF00;">Druid:</span> She spoke o' pain long past... but not forgotten.
+<span style="color:#FF0000;">Druid:</span> She spoke o' pain long past... but not forgotten.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Hinekora/Audio/Kaimana - S4 - L10 - A1.ogg]]
 <span style="color:#00FF00;">Kaimana:</span> Ah, the Mother of Death tells us not what we want to know, but what we need to hear, yes! The meaning of her prophecies will become clear... when the time is right.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Hinekora/Audio/Kaimana - S4 - L11 - A1.ogg]]

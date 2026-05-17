@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Blackflame.png]]
 
 # Flavour Text
-Beyond the veil of death, there burns a fire
-by whose light night is borne.
+Beyond the veil of death, there burns a fire by whose light night is borne.
 
 # Details
 - Requires Level 49
@@ -23,3 +22,4 @@ by whose light night is borne.
 #Concept/Light
 #Concept/Night
 #PoE1
+#Interesting 

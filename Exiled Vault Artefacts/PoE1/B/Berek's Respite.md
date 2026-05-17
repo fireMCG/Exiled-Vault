@@ -1,12 +1,12 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Berek's Respite.png]]
 
 # Flavour Text
-"With Flame licking at his heels
+With Flame licking at his heels
 Berek berated the clouds
 Until vengeful Storm spewed forth his rains
 And Berek held on tight
 As Fire screamed and steamed
-And fled."
+And fled.
 - Berek and the Untamed
 
 # Details
@@ -31,3 +31,4 @@ And fled."
 #League/Domination
 #League/Nemesis
 #PoE1
+#Interesting 

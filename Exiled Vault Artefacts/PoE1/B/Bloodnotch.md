@@ -1,9 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bloodnotch.png]]
 
 # Flavour Text
-At the core of the warrior's spirit,
-a fierce determination burns,
-igniting their capacity to endure.
+At the core of the warrior's spirit, a fierce determination burns, igniting their capacity to endure.
 
 # Details
 - Limited to: 1

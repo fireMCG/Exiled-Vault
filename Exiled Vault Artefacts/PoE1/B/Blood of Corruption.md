@@ -20,5 +20,6 @@ All that lives is destined to serve.'
 ---
 # Tags
 #Category/Artefact
-#Society/VaalEmpire
 #PoE1
+#Society/VaalEmpire
+#Interesting 

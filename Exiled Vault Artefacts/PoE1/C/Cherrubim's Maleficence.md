@@ -1,10 +1,10 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cherrubim's Maleficence.png]]
 
 # Flavour Text
-"The Consort of Chaos descended,
+The Consort of Chaos descended,
 swiftly, brutally, artfully, she consumed the living,
 leaving naught behind but a Rosemarie bloom,
-to celebrate the massacre."
+to celebrate the massacre.
 - Blass, explorer, hunter, adventurer
 
 # Details
@@ -22,3 +22,4 @@ to celebrate the massacre."
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

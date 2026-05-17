@@ -15,3 +15,4 @@ All that is will one day come to naught.
 #Character/ValdoCaeserius
 #Concept/Decay
 #PoE1
+#Interesting 

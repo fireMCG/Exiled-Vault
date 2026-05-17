@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Blasphemer's Grasp.png]]
 
 # Flavour Text
-Reaching nature's limits,
-many sought power in the unnatural.
+Reaching nature's limits, many sought power in the unnatural.
 
 # Details
 - Evasion: (260-369)

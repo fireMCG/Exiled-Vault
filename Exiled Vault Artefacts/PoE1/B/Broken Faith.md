@@ -20,4 +20,6 @@ Be not blinded by the light.
 ---
 # Tags
 #Category/Artefact
+#Concept/Symbol/Descry 
 #PoE1
+#Interesting 

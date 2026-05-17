@@ -1,7 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bloodplay.png]]
 
 # Flavour Text
-"I'm a painter, and crimson is my chosen hue."
+I'm a painter, and crimson is my chosen hue.
 - Coralito, Brotherhood of Silence
 
 # Details

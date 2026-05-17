@@ -15,3 +15,4 @@ The Order never lost sight of their mission, no matter the cost.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

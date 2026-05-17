@@ -19,3 +19,4 @@ The villagers seared the blight with fire, but it only spread like dancing flame
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

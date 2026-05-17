@@ -7,21 +7,21 @@
 ![[Exiled Vault NPCTalk/PoE2/K/Kanu/Kanu on Introduction/Audio/Kanu - S5 - L3 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/K/Kanu/Kanu on Introduction/Audio/Kanu - S5 - L3 - A2.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/K/Kanu/Kanu on Introduction/Audio/Kanu - S5 - L3 - A3.ogg]]
-<span style="color:#00FF00;">Warrior:</span> Well, quite the introduction. Good to meet you, Kanu.
+<span style="color:#FF0000;">Warrior:</span> Well, quite the introduction. Good to meet you, Kanu.
 ![[Exiled Vault NPCTalk/PoE2/K/Kanu/Kanu on Introduction/Audio/Kanu - S5 - L4 - A1.ogg]]
-<span style="color:#00FF00;">Witch:</span> Young Kanu. Confidence... or arrogance? Which is it? We may get along, depending on which you choose.
+<span style="color:#FF0000;">Witch:</span> Young Kanu. Confidence... or arrogance? Which is it? We may get along, depending on which you choose.
 ![[Exiled Vault NPCTalk/PoE2/K/Kanu/Kanu on Introduction/Audio/Kanu - S5 - L5 - A1.ogg]]
-<span style="color:#00FF00;">Sorceress:</span> Good day, Kanu. You have such confidence. I hope you are a capable seafarer.
+<span style="color:#FF0000;">Sorceress:</span> Good day, Kanu. You have such confidence. I hope you are a capable seafarer.
 ![[Exiled Vault NPCTalk/PoE2/K/Kanu/Kanu on Introduction/Audio/Kanu - S5 - L6 - A1.ogg]]
-<span style="color:#00FF00;">Ranger:</span> You're a boisterous one. But your smile seems... kind.
+<span style="color:#FF0000;">Ranger:</span> You're a boisterous one. But your smile seems... kind.
 ![[Exiled Vault NPCTalk/PoE2/K/Kanu/Kanu on Introduction/Audio/Kanu - S5 - L7 - A1.ogg]]
-<span style="color:#00FF00;">Huntress:</span> Well, Kanu... quite the mouth you've got.
+<span style="color:#FF0000;">Huntress:</span> Well, Kanu... quite the mouth you've got.
 ![[Exiled Vault NPCTalk/PoE2/K/Kanu/Kanu on Introduction/Audio/Kanu - S5 - L8 - A1.ogg]]
-<span style="color:#00FF00;">Monk:</span> Please. No need for all the theatrics.
+<span style="color:#FF0000;">Monk:</span> Please. No need for all the theatrics.
 ![[Exiled Vault NPCTalk/PoE2/K/Kanu/Kanu on Introduction/Audio/Kanu - S5 - L9 - A1.ogg]]
-<span style="color:#00FF00;">Mercenary:</span> Alright, mate. Not looking for trouble, just a crew.
+<span style="color:#FF0000;">Mercenary:</span> Alright, mate. Not looking for trouble, just a crew.
 ![[Exiled Vault NPCTalk/PoE2/K/Kanu/Kanu on Introduction/Audio/Kanu - S5 - L10 - A1.ogg]]
-<span style="color:#00FF00;">Druid:</span> Yer full o' bark, lad. We'll see if you've the bite to match.
+<span style="color:#FF0000;">Druid:</span> Yer full o' bark, lad. We'll see if you've the bite to match.
 ![[Exiled Vault NPCTalk/PoE2/K/Kanu/Kanu on Introduction/Audio/Kanu - S5 - L11 - A1.ogg]]
 <span style="color:#00FF00;">Kanu:</span> Phwoar. Your voice is thick as a rock! Powerful. I won't mess around with you after a few drinks, eh?
 ![[Exiled Vault NPCTalk/PoE2/K/Kanu/Kanu on Introduction/Audio/Kanu - S5 - L12 - A1.ogg]]
@@ -55,5 +55,6 @@
 #
 ---
 # Tags
+#Attributes/Crosscheck
 #Category/NPCTalk
 #PoE2

@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Chill of Corruption.png]]
 
 # Flavour Text
-Even a millennium later, Atziri's presence
-casts a shroud over Wraeclast.
+Even a millennium later, Atziri's presence casts a shroud over Wraeclast.
 
 # Details
 - Limited to: 1

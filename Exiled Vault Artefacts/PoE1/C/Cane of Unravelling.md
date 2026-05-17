@@ -1,9 +1,8 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cane of Unravelling.png]]
 
 # Flavour Text
-"Creation is the act of making the intangible tangible.
-To work backwards, to make the tangible intangible,
-is to step into the mind of God."
+Creation is the act of making the intangible tangible.
+To work backwards, to make the tangible intangible, is to step into the mind of God.
 - Doryani, Queen's Thaumaturgist
 
 # Details
@@ -25,5 +24,6 @@ is to step into the mind of God."
 ---
 # Tags
 #Category/Artefact
-#Society/VaalEmpire
 #PoE1
+#Society/VaalEmpire
+#Interesting 

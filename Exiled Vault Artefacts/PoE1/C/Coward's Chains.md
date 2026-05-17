@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Coward's Chains.png]]
 
 # Flavour Text
-As a gift or as punishment,
-the Empire will have your blood.
+As a gift or as punishment, the Empire will have your blood.
 
 # Details
 - Requires Level 22
@@ -18,3 +17,4 @@ the Empire will have your blood.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

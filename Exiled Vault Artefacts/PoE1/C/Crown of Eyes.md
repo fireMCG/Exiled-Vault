@@ -21,3 +21,4 @@ your mind is destroyed.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

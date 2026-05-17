@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Black Sun Crest.png]]
 
 # Flavour Text
-The beasts we fear the most
-are the ones who dwell in total darkness.
+The beasts we fear the most are the ones who dwell in total darkness.
 
 # Details
 - Armour: (276-387)
@@ -22,3 +21,4 @@ are the ones who dwell in total darkness.
 #Concept/Darkness
 #Concept/Sun
 #PoE1
+#Interesting 

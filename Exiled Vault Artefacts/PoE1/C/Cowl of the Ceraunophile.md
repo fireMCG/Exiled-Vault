@@ -19,3 +19,4 @@ The villagers seared the blight with lightning, but it only forked into countles
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

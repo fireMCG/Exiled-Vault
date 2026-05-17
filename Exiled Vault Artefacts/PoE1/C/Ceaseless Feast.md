@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Ceaseless Feast.png]]
 
 # Flavour Text
-Lost in a sea of limbs and screaming faces, they claw
-for any fleeting pleasure which might dull the pain.
+Lost in a sea of limbs and screaming faces, they claw for any fleeting pleasure which might dull the pain.
 
 # Details
 - Armour: (440-632)
@@ -19,3 +18,4 @@ for any fleeting pleasure which might dull the pain.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

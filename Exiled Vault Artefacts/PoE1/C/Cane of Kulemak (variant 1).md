@@ -21,3 +21,4 @@ Stolen power is still power.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

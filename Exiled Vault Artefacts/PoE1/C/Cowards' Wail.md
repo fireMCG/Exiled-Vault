@@ -1,9 +1,10 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cowards' Wail.png]]
 
 # Flavour Text
-"A tale-woman passed through here not long ago.
-Taught us a thing or two. We're not going to execute
-you for what you've done... no. You've a debt to repay."
+A tale-woman passed through here not long ago.
+Taught us a thing or two.
+We're not going to execute you for what you've done... no.
+You've a debt to repay.
 
 # Details
 - Chance to Block: (29-34)%

@@ -18,3 +18,4 @@ Divinity is not the only path to enlightenment.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

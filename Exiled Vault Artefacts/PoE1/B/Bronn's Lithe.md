@@ -1,8 +1,8 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bronn's Lithe.png]]
 
 # Flavour Text
-Forget your kite shield. Just put the biggest man
-in the field between you and the archers.
+Forget your kite shield.
+Just put the biggest man in the field between you and the archers.
 
 # Details
 - Evasion: (1590-2079)

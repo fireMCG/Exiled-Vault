@@ -1,8 +1,9 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Briskwrap.png]]
 
 # Flavour Text
-"I carry neither food nor drink. I rely on the charity
-of my fellow wayfarers. Dead men are generous men."
+I carry neither food nor drink.
+I rely on the charity of my fellow wayfarers.
+Dead men are generous men.
 - Taruk of the Wildmen
 
 # Details

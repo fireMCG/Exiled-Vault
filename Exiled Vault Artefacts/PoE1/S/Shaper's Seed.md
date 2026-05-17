@@ -14,5 +14,7 @@ The first light to grow in the primordial darkness.
 #
 ---
 # Tags
+#Concept/Time 
 #Category/Artefact
 #PoE1
+#Interesting 

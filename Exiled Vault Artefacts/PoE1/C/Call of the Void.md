@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Call of the Void.png]]
 
 # Flavour Text
-Only when the mind is empty of ambition
-can the cold truth of existence take hold.
+Only when the mind is empty of ambition can the cold truth of existence take hold.
 
 # Details
 - Requires Level 16
@@ -25,3 +24,4 @@ can the cold truth of existence take hold.
 #Concept/Void
 #Concept/Decay
 #PoE1
+#Interesting 

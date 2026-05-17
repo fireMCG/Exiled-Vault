@@ -1,7 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Brightbeak.png]]
 
 # Flavour Text
-"I know how to say 'faster' and 'attack' in Karui, Marak and Ezo."
+I know how to say 'faster' and 'attack' in Karui, Marak and Ezo.
 - Voll of Thebrus
 
 # Details
@@ -23,3 +23,4 @@
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

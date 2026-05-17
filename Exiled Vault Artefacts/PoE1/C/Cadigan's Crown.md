@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Cadigan's Crown.png]]
 
 # Flavour Text
-Cadigan the Third ruled dispassionately
-through the iron might of artifice.
+Cadigan the Third ruled dispassionately through the iron might of artifice.
 
 # Details
 - Ward: (164-189)
@@ -15,3 +14,4 @@ through the iron might of artifice.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

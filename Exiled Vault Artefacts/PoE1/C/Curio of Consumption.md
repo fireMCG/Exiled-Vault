@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Curio of Consumption.png]]
 
 # Flavour Text
-When hunger can never be satiated, the
-act of eating becomes the only solace.
+When hunger can never be satiated, the act of eating becomes the only solace.
 
 # Details
 - This item will transform when correctly arranged with other items.
@@ -15,3 +14,4 @@ act of eating becomes the only solace.
 #Concept/Hunger
 #Concept/Tangle
 #PoE1
+#Interesting 

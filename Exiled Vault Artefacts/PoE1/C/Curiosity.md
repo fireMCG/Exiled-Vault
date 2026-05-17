@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Curiosity.png]]
 
 # Flavour Text
-Your broken body lies forgotten,
-nourishing only the worms.
+Your broken body lies forgotten, nourishing only the worms.
 
 # Details
 - This item will transform when correctly arranged with other items.
@@ -12,3 +11,4 @@ nourishing only the worms.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 

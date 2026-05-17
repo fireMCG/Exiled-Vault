@@ -2,21 +2,21 @@
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Kitava/Audio/Kaimana - S10 - L1 - A1.ogg]]
 <span style="color:#00FF00;">Matiki:</span> Those cultists that massacred Oriath were no {Ngakuramakoi.} They were... undesirables.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Kitava/Audio/Kaimana - S10 - L2 - A1.ogg]]
-<span style="color:#00FF00;">Warrior:</span> You hold no connection to them?
+<span style="color:#FF0000;">Warrior:</span> You hold no connection to them?
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Kitava/Audio/Kaimana - S10 - L3 - A1.ogg]]
-<span style="color:#00FF00;">Witch:</span> How convenient for you.
+<span style="color:#FF0000;">Witch:</span> How convenient for you.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Kitava/Audio/Kaimana - S10 - L4 - A1.ogg]]
-<span style="color:#00FF00;">Sorceress:</span> Ah, much like the Faridun.
+<span style="color:#FF0000;">Sorceress:</span> Ah, much like the Faridun.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Kitava/Audio/Kaimana - S10 - L5 - A1.ogg]]
-<span style="color:#00FF00;">Ranger:</span> I don't understand the distinction.
+<span style="color:#FF0000;">Ranger:</span> I don't understand the distinction.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Kitava/Audio/Kaimana - S10 - L6 - A1.ogg]]
-<span style="color:#00FF00;">Huntress:</span> They were cast out? Or driven away?
+<span style="color:#FF0000;">Huntress:</span> They were cast out? Or driven away?
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Kitava/Audio/Kaimana - S10 - L7 - A1.ogg]]
-<span style="color:#00FF00;">Monk:</span> Are we not all beholden to each other?
+<span style="color:#FF0000;">Monk:</span> Are we not all beholden to each other?
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Kitava/Audio/Kaimana - S10 - L8 - A1.ogg]]
-<span style="color:#00FF00;">Mercenary:</span> So that's why you never tried to free them.
+<span style="color:#FF0000;">Mercenary:</span> So that's why you never tried to free them.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Kitava/Audio/Kaimana - S10 - L9 - A1.ogg]]
-<span style="color:#00FF00;">Druid:</span> And castin' 'em out... did that not make 'em what they became?
+<span style="color:#FF0000;">Druid:</span> And castin' 'em out... did that not make 'em what they became?
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Kitava/Audio/Kaimana - S10 - L10 - A1.ogg]]
 <span style="color:#00FF00;">Tavakai:</span> The cult of Kitava grew like a tumour, when we allowed our culture to weaken. Kitava would have consumed the world. Had I been of age, I would have slain him myself. Let them all rot, forgotten.
 ![[Exiled Vault NPCTalk/PoE2/K/Kaimana/Kaimana on Kitava/Audio/Kaimana - S10 - L11 - A1.ogg]]
@@ -27,4 +27,7 @@
 ---
 # Tags
 #Category/NPCTalk
+#Concept/Cult 
+#Concept/Undesirable
 #PoE2
+#Interesting 

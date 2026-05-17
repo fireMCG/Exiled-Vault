@@ -6,4 +6,6 @@
 ---
 # Tags
 #Category/NPCTalk
+#Concept/Vessel
 #PoE2
+#Interesting 

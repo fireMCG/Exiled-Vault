@@ -1,10 +1,8 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Bisco's Leash.png]]
 
 # Flavour Text
-You were always there, by my side,
-whether we sat or played.
-Our friendship was a joyful ride,
-I wish you could have stayed.
+You were always there, by my side, whether we sat or played.
+Our friendship was a joyful ride, I wish you could have stayed.
 
 # Details
 - Requires Level 30

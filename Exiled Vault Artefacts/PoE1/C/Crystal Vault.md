@@ -1,8 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Crystal Vault.png]]
 
 # Flavour Text
-Beneath the frozen eye of Lunaris
-a new world will be born.
+Beneath the frozen eye of Lunaris a new world will be born.
 A crystalline, perfectly still utopia.
 
 # Details

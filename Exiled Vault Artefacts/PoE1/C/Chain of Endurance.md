@@ -1,9 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Chain of Endurance.png]]
 
 # Flavour Text
-"A man confronted with sufficient adversity
-may ascend to unprecedented heights
-and triumph over his coddled rivals."
+A man confronted with sufficient adversity may ascend to unprecedented heights and triumph over his coddled rivals.
 - Weylan the Ezomyte
 
 # Details

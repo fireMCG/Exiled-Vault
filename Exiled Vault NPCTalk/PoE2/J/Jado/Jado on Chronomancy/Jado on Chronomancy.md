@@ -16,4 +16,6 @@
 ---
 # Tags
 #Category/NPCTalk
+#Concept/Essence 
 #PoE2
+#Interesting 

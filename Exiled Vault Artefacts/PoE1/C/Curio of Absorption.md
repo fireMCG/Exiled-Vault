@@ -14,3 +14,4 @@ Perfect knowledge is only possible in an empty universe.
 #Concept/Virtue/Knowledge
 #Concept/Cleansing
 #PoE1
+#Interesting 

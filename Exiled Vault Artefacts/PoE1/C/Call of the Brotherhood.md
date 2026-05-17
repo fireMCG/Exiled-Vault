@@ -1,9 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Call of the Brotherhood.png]]
 
 # Flavour Text
-Forged by three brothers
-so that they may recognize each other
-across any distance of time or travel.
+Forged by three brothers so that they may recognize each other across any distance of time or travel.
 
 # Details
 - Requires Level 20
@@ -19,3 +17,4 @@ across any distance of time or travel.
 # Tags
 #Category/Artefact
 #PoE1
+#Interesting 
