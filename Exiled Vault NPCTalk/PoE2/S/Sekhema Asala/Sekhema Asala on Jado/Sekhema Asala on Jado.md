@@ -1,7 +1,14 @@
-<span style="color:#00FF00;">Sekhema Asala:</span> I have not yet decided whether I support this rebuilding of the Order of the Djinn. The Maraketh are already committed to protecting the world. {I} am already committed. It is dangerous to have a rogue element operating unseen... no matter how well-intentioned they may be.
-![[Exiled Vault NPCTalk/PoE2/S/Sekhema Asala/Sekhema Asala on Jado/Audio/Sekhema Asala - S7 - L1 - A1.ogg]]
-![[Exiled Vault NPCTalk/PoE2/S/Sekhema Asala/Sekhema Asala on Jado/Audio/Sekhema Asala - S7 - L1 - A2.ogg]]
-![[Exiled Vault NPCTalk/PoE2/S/Sekhema Asala/Sekhema Asala on Jado/Audio/Sekhema Asala - S7 - L1 - A3.ogg]]
+<div class="eva-transcript" data-schema="exiled-audio-transcript-v1" data-category="NPCTalk" data-game="PoE2" data-character="Sekhema Asala" data-entry="Sekhema Asala on Jado">
+  <div
+    class="eva-audio-line"
+    data-line-index="1"
+    data-speaker="Sekhema Asala"
+    data-color="#00FF00"
+    data-audios="Exiled Vault NPCTalk/PoE2/S/Sekhema Asala/Sekhema Asala on Jado/Audio/Sekhema Asala - S7 - L1 - A1.ogg||Exiled Vault NPCTalk/PoE2/S/Sekhema Asala/Sekhema Asala on Jado/Audio/Sekhema Asala - S7 - L1 - A2.ogg||Exiled Vault NPCTalk/PoE2/S/Sekhema Asala/Sekhema Asala on Jado/Audio/Sekhema Asala - S7 - L1 - A3.ogg"
+  >
+    I have not yet decided whether I support this rebuilding of the Order of the Djinn. The Maraketh are already committed to protecting the world. {I} am already committed. It is dangerous to have a rogue element operating unseen... no matter how well-intentioned they may be.
+  </div>
+</div>
 
 #
 ---
