@@ -1,9 +1,8 @@
 # Flavour Text
-It's said to be noble to stand one's ground.  
-To soak the earth in stalwart blood.  
-While the First Ones chose to laugh and run  
-and caper with untamed glee.  
-\- The Wolven King
+"Against the Winter Curse, only the forges of
+runesmiths could stand. The people huddled,
+shoulder to shoulder, while those within were
+pressed against the fires, screaming in agony."
 
 #
 ![[Wereclaw Talisman.webp]]

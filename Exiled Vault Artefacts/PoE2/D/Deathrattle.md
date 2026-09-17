@@ -16,3 +16,4 @@ The cry of death whispers in the wind.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

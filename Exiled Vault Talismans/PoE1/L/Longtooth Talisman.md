@@ -1,8 +1,8 @@
 # Flavour Text
-We grew contemptuous of our past.  
-Dismissed the first ones as ignorant and wild.  
-We were fools and naive children to turn our backs on our inheritance.  
-\- The Wolven King
+"But there were some who could not forget
+the horrors of the Winter Curse, and of the
+Hag that had sent it. Alasdair dropped his
+wine goblet, and fell to the ground, choking."
 
 #
 ![[Longtooth Talisman.webp]]

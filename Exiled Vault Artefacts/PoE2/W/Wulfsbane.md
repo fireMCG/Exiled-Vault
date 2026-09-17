@@ -23,3 +23,4 @@ legacy of cunning and power.
 #Concept/Legacy
 #Location/Wraeclast/Phaaryl/Ogham
 #PoE2
+#Interesting 

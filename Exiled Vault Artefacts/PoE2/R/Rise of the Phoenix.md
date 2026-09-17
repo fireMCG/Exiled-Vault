@@ -23,3 +23,4 @@ for I am the phoenix, forever radiant in glory.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

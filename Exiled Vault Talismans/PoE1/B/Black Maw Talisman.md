@@ -1,9 +1,8 @@
 # Flavour Text
-The First Ones stalk with us  
-upon this lifelong hunt,  
-and cast their contempt  
-upon those that would make us their prey.  
-\- The Wolven King
+"I know where we found our belief in
+the First Ones. I see it every time I walk
+the untouched forests and hills. The
+primordial world is still here. With us."
 
 #
 ![[Black Maw Talisman.webp]]

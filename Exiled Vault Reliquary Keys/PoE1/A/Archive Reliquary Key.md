@@ -1,6 +1,5 @@
 # Flavour Text
-Minds are not the only thing  
-the Cleansing Fire keeps eternal...
+Minds are not the only thing the Cleansing Fire keeps eternal...
 
 #
 ![[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Reliquary Keys/_Images/Archive Reliquary Key.png]]
@@ -14,3 +13,4 @@ the Cleansing Fire keeps eternal...
 #Concept/Mind 
 #Concept/Time/Eternity 
 #PoE1 
+#Interesting 

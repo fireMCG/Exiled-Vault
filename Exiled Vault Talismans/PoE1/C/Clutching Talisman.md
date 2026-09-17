@@ -1,8 +1,8 @@
 # Flavour Text
-Fear the children of the First Ones.  
-Let fear shield your back.  
-And let the dullard speak of bravery when the First Ones come for him.  
-\- The Wolven King
+"The night refused to end, and the Winter Curse
+howled. The people wailed, and Lysanda raged.
+It was then that the sky tore open, unleashing
+a saviour fury... at the behest of the Druids."
 
 #
 ![[Clutching Talisman.webp]]

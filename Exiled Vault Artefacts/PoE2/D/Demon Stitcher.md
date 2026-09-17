@@ -21,3 +21,4 @@ The first Vaal.
 #Character/Xibaqua
 #Society/VaalEmpire
 #PoE2
+#Interesting 

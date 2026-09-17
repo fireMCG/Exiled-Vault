@@ -1,4 +1,7 @@
 [[Arohongui Tribe]]
+
+#
+## Flavour Text
 The never-ending journey must be walked alone.
 
 #

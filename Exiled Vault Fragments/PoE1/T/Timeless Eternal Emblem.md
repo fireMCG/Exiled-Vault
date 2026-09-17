@@ -1,5 +1,8 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Timeless Eternal Emblem.webp]]
 
+# Flavour Text
+The relentless brutality of the Eternals...
+
 # Details
 Map Fragments
 Limit: 1

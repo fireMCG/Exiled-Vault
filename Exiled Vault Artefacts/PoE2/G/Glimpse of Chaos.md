@@ -22,3 +22,4 @@ only under the blessed veil of ignorance.
 #Category/Artefact
 #Society/VaalEmpire
 #PoE2
+#Interesting 

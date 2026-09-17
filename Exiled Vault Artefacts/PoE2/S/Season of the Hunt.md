@@ -15,3 +15,4 @@ As the forest fades, the twilight hunt begins.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

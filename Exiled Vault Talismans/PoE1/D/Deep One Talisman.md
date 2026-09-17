@@ -1,7 +1,8 @@
 # Flavour Text
-We have basked in the cloying warmth of servitude.  
-Now the First Ones harden us against the numbing chill of despair so that freedom will not slip through our trembling fingers.  
-\- The Wolven King
+"Those that departed sought the way of
+cities and roads. Theirs would be a path
+fraught with danger and hardship, as they
+set out to find and build a new home."
 
 #
 ![[Deep One Talisman.webp]]

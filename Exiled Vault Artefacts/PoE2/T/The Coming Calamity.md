@@ -24,3 +24,4 @@ By your hand they dance and bend, wield them and brook no end.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

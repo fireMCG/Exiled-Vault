@@ -1,8 +1,8 @@
 # Flavour Text
-The first ones marked their hunting grounds with blood and piss.  
-We have tried to paint our future in words.  
-Now we shall paint with inks of savagery.  
-\- The Wolven King
+"The Royal Wedding of Lysanda of Myr
+lasted for a full month. The hunts were
+vigorous, and the meat and drink flowed
+freely for all. There was much rejoicing."
 
 #
 ![[Monkey Twins Talisman.webp]]

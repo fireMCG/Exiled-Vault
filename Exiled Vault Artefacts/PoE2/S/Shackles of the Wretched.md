@@ -19,3 +19,4 @@ Captivity breeds creativity.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

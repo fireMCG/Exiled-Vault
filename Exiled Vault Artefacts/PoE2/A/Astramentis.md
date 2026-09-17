@@ -17,3 +17,4 @@ And into darkness send it.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

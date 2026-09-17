@@ -18,3 +18,4 @@ Face it, or curse your bloodline for all eternity.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

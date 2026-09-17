@@ -19,3 +19,4 @@ They stood against the end.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

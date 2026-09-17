@@ -302,7 +302,7 @@ You beat that shadowy entity at his own game! Maybe now he'll stop frequenting o
 ## AlvaOnUnidentifiedRuins
 The ruins we couldn't identify... they weren't from any other culture I've seen. Not Vaal, not Primeval, not 'Precursor.' Do you think your 'Strange Voice' might be from that long lost people? He'd have to be very old... If you ever get the chance to ask him in person, I'd be curious to see what he says.
 ![[Exiled Vault Dialogue/PoE2/A/Alva, Master Explorer/_Audio/Alva, Master Explorer - AlvaOnUnidentifiedRuins - 1.ogg]]
-![[Exiled Vault Dialogue/PoE2/A/Alva, Master Explorer/_Audio/Alva, Master Explorer - AlvaOnUnidentifiedRuins - 2.ogg]]
+![[Exiled Vault Dialogue/PoE2/A/Alva, Master Explorer/_Audio/Alva, Master Explorer - AlvaOnUnidentifiedRuins - 2.ogg]] ^683994
 ## AlvaDreamSequenceOne
 As I've studied these grey splinters you found, I've come to believe that they have a kind of... knowledge imbued in them. It's fragmented, of course. Not enough to glean a conscious thought. But I keep having dreams... Nothing coherent yet... but I'll let you know...
 ![[Exiled Vault Dialogue/PoE2/A/Alva, Master Explorer/_Audio/Alva, Master Explorer - AlvaDreamSequenceOne - 1.ogg]]

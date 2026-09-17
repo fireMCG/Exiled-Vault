@@ -16,3 +16,4 @@ The warrior who fears will fall.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

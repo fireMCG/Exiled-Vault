@@ -15,3 +15,4 @@ The dawn of a new era is set into motion
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

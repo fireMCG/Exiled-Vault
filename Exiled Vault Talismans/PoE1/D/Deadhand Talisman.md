@@ -1,9 +1,8 @@
 # Flavour Text
-The Empire poisons our blood with sweet wine.  
-Poisons our flesh with silk.  
-Poisons our minds with civil lies.  
-Poisons our children with servitude.  
-\- The Wolven King
+"Lysanda of Myr was but a girl on that exodus.
+Ezomyr almost met its end before it began...
+but she could not hear that deadly lure. She
+took the Siren's head with her bare hands."
 
 #
 ![[Deadhand Talisman.webp]]

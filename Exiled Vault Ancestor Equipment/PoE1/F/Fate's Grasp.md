@@ -1,4 +1,7 @@
 [[Hinekora Tribe]]
+
+#
+## Flavour Text
 There is no use trying to escape destiny.
 
 #

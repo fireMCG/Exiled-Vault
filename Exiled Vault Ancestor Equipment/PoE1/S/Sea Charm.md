@@ -1,4 +1,7 @@
 [[Tasalio Tribe]]
+
+#
+## Flavour Text
 Tasalio bids you take a moment to stop and enjoy the calm of the ocean.
 
 #
@@ -13,3 +16,4 @@ Tasalio bids you take a moment to stop and enjoy the calm of the ocean.
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Tasalio 
+#Interesting 

@@ -1,6 +1,5 @@
-# Flavour Text
-Those citizens of the Vaal Empire that thought they survived the  
-Cataclysm soon realised that they had, in fact, done no such thing.
+## Flavour Text
+Those citizens of the Vaal Empire that thought they survived the Cataclysm soon realised that they had, in fact, done no such thing.
 
 # Effect
 <6 random Vaal side area modifiers>

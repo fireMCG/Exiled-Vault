@@ -1,10 +1,10 @@
 ![[Exiled Vault Artefacts/_Images/PoE1 - Snakebite.png]]
 
 # Flavour Text
-"As the serpent shuns thought,
+As the serpent shuns thought,
 It shuns fear.
 It strikes with the speed of wrath
-And the skill of compulsion."
+And the skill of compulsion.
 - Deshret, The Red Sekhema
 
 # Details

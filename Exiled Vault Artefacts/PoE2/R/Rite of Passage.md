@@ -18,3 +18,4 @@ Azmeri must prove themselves before the Spirit.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

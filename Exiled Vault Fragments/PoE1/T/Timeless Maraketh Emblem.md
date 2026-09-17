@@ -1,5 +1,8 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Timeless Maraketh Emblem.webp]]
 
+# Flavour Text
+The strategic heights of the Maraketh...
+
 # Details
 Map Fragments
 Limit: 1

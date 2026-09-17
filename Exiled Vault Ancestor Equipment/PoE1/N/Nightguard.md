@@ -12,3 +12,4 @@ Rongokurai gifts his strength to protect the weak.
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Rongokurai 
+#Interesting 

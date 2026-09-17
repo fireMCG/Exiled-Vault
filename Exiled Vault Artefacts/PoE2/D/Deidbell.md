@@ -17,3 +17,4 @@ May you never hear it toll.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

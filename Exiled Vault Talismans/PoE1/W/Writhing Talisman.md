@@ -1,9 +1,8 @@
 # Flavour Text
-For too long we have crawled in darkness,  
-scavenging through rotten scraps.  
-The First Ones teach us to scavenge until we can hunt,  
-and then never crawl again.  
-\- The Wolven King
+"With the headless beast incinerated, the
+settlers rejoiced, and began building homes.
+They would soon find that this hostile land
+had more insidious ways of rejecting them."
 
 #
 ![[Writhing Talisman.webp]]

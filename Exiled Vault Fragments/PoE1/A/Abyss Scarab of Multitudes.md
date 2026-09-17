@@ -1,7 +1,7 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Abyss Scarab of Multitudes.webp]]
 
 # Flavour Text
-They ceaselessly sprout from the murderous earth.
+The Well hungers ceaselessly, even as it overflows.
 
 # Details
 Map Fragments

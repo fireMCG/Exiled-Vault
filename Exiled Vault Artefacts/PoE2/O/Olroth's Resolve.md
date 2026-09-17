@@ -21,3 +21,4 @@ he fights for you!
 #Category/Artefact
 #Character/Olroth
 #PoE2
+#Interesting 

@@ -1,4 +1,7 @@
 [[Ngamahu Tribe]]
+
+#
+## Flavour Text
 Traditional meals are cooked in a great fire-stone pit.  
 In a crisis, those stones can pull double duty.
 

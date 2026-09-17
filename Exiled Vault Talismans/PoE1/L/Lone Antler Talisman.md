@@ -1,7 +1,8 @@
 # Flavour Text
-The First Ones thundered over Ezomyr upon hooves of grey and black.  
-The people felt their stamping rage and cowered as the fury rained down.  
-\- The Wolven King
+"A great rift formed, between clans,
+between families. Those that remained
+resolved to endure times of struggle,
+if it meant we could keep our ways."
 
 #
 ![[Lone Antler Talisman.webp]]

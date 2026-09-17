@@ -1,0 +1,10 @@
+# Effects
+20% increased Fire Damage
+15% increased Ignite Magnitude
+30% reduced Magnitude of Ignite on you
+
+#
+---
+# Tags
+#Notable
+#PoE2

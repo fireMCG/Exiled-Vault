@@ -1,4 +1,7 @@
 [[Ngamahu Tribe]]
+
+#
+## Flavour Text
 When Ngamahu's chosen truly wish to destroy an enemy, nothing can stop them.
 
 #

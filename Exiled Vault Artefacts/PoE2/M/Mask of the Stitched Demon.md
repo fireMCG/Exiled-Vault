@@ -20,3 +20,4 @@ It is our duty to return to the gods what was once theirs.
 #Character/Xibaqua
 #Society/VaalEmpire
 #PoE2
+#Interesting 

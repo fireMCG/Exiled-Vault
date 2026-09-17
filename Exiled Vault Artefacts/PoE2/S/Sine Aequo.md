@@ -18,3 +18,4 @@ The greatest warrior of his era fought with honour.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

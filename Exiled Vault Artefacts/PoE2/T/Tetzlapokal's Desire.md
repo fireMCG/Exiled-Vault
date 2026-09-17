@@ -18,3 +18,4 @@ A faith born of flesh.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

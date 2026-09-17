@@ -1,7 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Thrillsteel.png]]
 
 # Flavour Text
-TWe may fight, and we may die, but in these
+We may fight, and we may die, but in these
 moments of blood and battle, we truly live.
 
 # Details

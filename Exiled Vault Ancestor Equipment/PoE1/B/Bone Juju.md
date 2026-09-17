@@ -1,4 +1,7 @@
 [[Tawhoa Tribe]]
+
+#
+## Flavour Text
 Life springs from death in a grand cycle.
 
 #

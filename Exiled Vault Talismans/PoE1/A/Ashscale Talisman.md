@@ -1,9 +1,8 @@
 # Flavour Text
-The fire of the hearth is a docile dog,  
-leashed and tamed.  
-The fire of the First Ones is a ravening wolf,  
-wild and free.  
-\- The Wolven King
+"This land was always harsh and brutal,
+ever seeking ways to kill and maim us.
+We had to grow and change to survive,
+but each clan had its own ideas how..."
 
 #
 ![[Ashscale Talisman.webp]]

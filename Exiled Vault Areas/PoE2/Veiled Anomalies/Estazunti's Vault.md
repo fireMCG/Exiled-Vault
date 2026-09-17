@@ -1,6 +1,7 @@
-# Description
 **Unveiled:** [[Sealed Vault]]
-# Flavour Text
+
+#
+## Flavour Text
 Closed and forgotten to time, the Vault holds living secrets.
 
 #

@@ -1,9 +1,8 @@
 # Flavour Text
-Look not upon me with fear, my men.  
-Though I seem strange, even monstrous,
-were you to see with the eyes of your forebears,
-your hearts would be filled with wonder.  
-\- The Wolven King
+"In the years that followed, Queen Lysanda
+poured herself into the long and brutal task
+of securing the lands of the Ezomytes of Myr.
+Every fell beast, every creature, had to die."
 
 #
 ![[Monkey Paw Talisman.webp]]

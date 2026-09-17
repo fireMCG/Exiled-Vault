@@ -1,5 +1,8 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Timeless Karui Emblem.webp]]
 
+# Flavour Text
+The unmatched discipline of the Karui...
+
 # Details
 Map Fragments
 Limit: 1

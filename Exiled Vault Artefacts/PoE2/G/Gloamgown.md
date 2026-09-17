@@ -18,3 +18,4 @@ The tale-women of old knew how to build anticipation.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

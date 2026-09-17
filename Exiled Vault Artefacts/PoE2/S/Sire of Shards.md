@@ -19,3 +19,4 @@ That which was broken may yet break.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

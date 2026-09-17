@@ -1,7 +1,8 @@
 # Flavour Text
-The First Ones hold us between two sharpened blades.  
-That should we stray too far from the path, we find ourselves severed.  
-\- The Wolven King
+"Lysanda and her Knights brought the
+settling clans to what would become
+Ezomyr... but there was one beast against
+which even they could not stand."
 
 #
 ![[Mandible Talisman.webp]]

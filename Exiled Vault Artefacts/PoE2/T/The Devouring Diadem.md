@@ -17,3 +17,4 @@ The spirit hungers for the flesh.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

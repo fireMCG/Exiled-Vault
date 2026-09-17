@@ -19,5 +19,7 @@ but it was the smiths who delved into the secrets it held.
 #
 ---
 # Tags
+#Attributes/Timeline 
 #Category/Artefact
 #PoE2
+#Interesting 

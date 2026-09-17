@@ -20,3 +20,4 @@ Than the Belly of the Beast
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

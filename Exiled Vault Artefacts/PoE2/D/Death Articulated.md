@@ -21,3 +21,4 @@ the thinking... but it has only one thought... hate."
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

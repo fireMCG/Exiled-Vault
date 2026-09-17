@@ -1,5 +1,8 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Timeless Templar Emblem.webp]]
 
+# Flavour Text
+The bludgeoning faith of the Templars...
+
 # Details
 Map Fragments
 Limit: 1

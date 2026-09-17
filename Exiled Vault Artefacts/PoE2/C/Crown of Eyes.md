@@ -20,3 +20,4 @@ your mind is destroyed.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

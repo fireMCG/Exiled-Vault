@@ -18,3 +18,4 @@ And the fool was unwritten.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

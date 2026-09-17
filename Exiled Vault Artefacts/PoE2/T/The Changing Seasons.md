@@ -16,3 +16,4 @@ but with the cold banished, sandier climes began to creep in...
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

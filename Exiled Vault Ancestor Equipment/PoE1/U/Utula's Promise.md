@@ -1,4 +1,7 @@
 [[Kitava Tribe]]
+
+#
+## Flavour Text
 "If you waver, drink of my blood, and fight on!"
 
 #

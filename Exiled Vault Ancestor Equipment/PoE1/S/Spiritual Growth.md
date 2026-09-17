@@ -1,4 +1,7 @@
 [[Tawhoa Tribe]]
+
+#
+## Flavour Text
 That which is wounded may become whole again in time.
 
 #

@@ -23,3 +23,4 @@ If they only knew the power I possess.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

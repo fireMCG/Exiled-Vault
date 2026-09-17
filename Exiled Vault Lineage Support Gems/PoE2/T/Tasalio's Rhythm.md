@@ -1,9 +1,8 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Tasalio's Rhythm.webp]]
 
 # Flavour Text
-The Chieftain built a grand waikoama, and boasted that
-it could never be sunk. Tasalio grinned, and the waves
-rolled in, tilting the ship, cresting higher and higher...
+The Chieftain built a grand waikoama, and boasted that it could never be sunk.
+Tasalio grinned, and the waves rolled in, tilting the ship, cresting higher and higher...
 
 # Effects
 Successfully executing Perfect Timing with Supported Skills grants a stack of Tasalio's Rhythm

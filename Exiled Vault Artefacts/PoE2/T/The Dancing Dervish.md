@@ -24,3 +24,4 @@ And dance with death sublime.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

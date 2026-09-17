@@ -1,8 +1,8 @@
 # Flavour Text
-The Empire hides lies and falsehoods behind a mask of politeness and civility.  
-The First Ones teach us to look through the lies,  
-And that no beast can truly cover their tracks.  
-\- The Wolven King
+"Each new valley, each new grove, held new
+dangers. Many Knights paid the price. Lysanda
+had never been known for her beauty, but she
+bore a new scar each season, earned gladly."
 
 #
 ![[Horned Talisman.webp]]

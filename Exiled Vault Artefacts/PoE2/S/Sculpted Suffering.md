@@ -22,3 +22,4 @@ and every moment in the light was agony.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

@@ -1,4 +1,4 @@
-# Flavour Text
+## Flavour Text
 In every possibility, in every world that might have been, Queen Atziri's mark on history was the one thing that never changed.
 
 # Effect

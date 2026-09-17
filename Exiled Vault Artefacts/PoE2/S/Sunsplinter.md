@@ -46,5 +46,7 @@ With a single stroke, she ended the Winter of the World."
 #
 ---
 # Tags
+#Attributes/Timeline 
 #Category/Artefact
 #PoE2
+#Interesting 

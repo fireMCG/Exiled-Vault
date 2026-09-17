@@ -1,9 +1,8 @@
 # Flavour Text
-The First Ones are the forever ones.  
-There is no dust of the hourglass in their blood.  
-No fissures of weariness in their faces.  
-To drink of their blood is to drink of time itself.  
-\- The Wolven King
+"As the Ezomytes of Myr prospered, they
+needed more and spreading lands. Queen
+Lysanda led the ongoing campaign to
+slaughter every last creature of darkness."
 
 #
 ![[Fangjaw Talisman.webp]]

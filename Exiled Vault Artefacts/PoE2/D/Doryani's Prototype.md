@@ -22,3 +22,4 @@ lost to the ages, now ours to decipher."
 #Category/Artefact
 #Society/VaalEmpire
 #PoE2
+#Interesting 

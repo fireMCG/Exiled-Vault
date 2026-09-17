@@ -1,9 +1,8 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Amor Mandragora.png]]
 
 # Flavour Text
-A sensitive few among the first settlers of Ezomyr
-followed the wisps by canoe. On a misty forested
-island, Cirel of Tarth stood waiting to greet them.
+A sensitive few among the first settlers of Ezomyr followed the wisps by canoe.
+On a misty forested island, Cirel of Tarth stood waiting to greet them.
 
 # Details
 - Physical Damage: (25-29) to (38-42)
@@ -19,4 +18,6 @@ island, Cirel of Tarth stood waiting to greet them.
 #
 ---
 # Tags
+#Attributes/Timeline 
 #PoE2
+#Interesting 

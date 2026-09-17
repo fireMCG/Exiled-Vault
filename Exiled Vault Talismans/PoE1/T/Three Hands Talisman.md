@@ -1,7 +1,8 @@
 # Flavour Text
-We breed thoughts of single mind, fashion tools of single purpose.  
-While the First Ones bring to bear anything that the wildlands provide.  
-\- The Wolven King
+"The Blue Knight stood against the swarm,
+icy and unassailable. His identity was not
+known, and he never removed his helmet.
+Glimpses were caught of piercing blue eyes."
 
 #
 ![[Three Hands Talisman.webp]]

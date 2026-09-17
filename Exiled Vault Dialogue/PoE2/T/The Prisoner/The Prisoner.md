@@ -117,18 +117,6 @@ You fool!
 ## PrisonerBoss_Emerge_Random
 Izaro... You traitor... Where are you!?
 ![[Exiled Vault Dialogue/PoE2/T/The Prisoner/_Audio/The Prisoner - PrisonerBoss_Emerge_Random.ogg]]
-## SirenBoss_Petrify_Phase_Random
-Give in to my beauty... It's the last thing you'll see.
-![[Exiled Vault Dialogue/PoE2/T/The Prisoner/_Audio/The Prisoner - SirenBoss_Petrify_Phase_Random.ogg]]
-## SirenBoss_Petrify_Phase_3
-Are you stronger than the rest? Can you resist the urge to look?
-![[Exiled Vault Dialogue/PoE2/T/The Prisoner/_Audio/The Prisoner - SirenBoss_Petrify_Phase_3.ogg]]
-## SirenBoss_Petrify_Phase_5
-Smile at me... and it will last forever.
-![[Exiled Vault Dialogue/PoE2/T/The Prisoner/_Audio/The Prisoner - SirenBoss_Petrify_Phase_5.ogg]]
-## SirenBoss_Emerge_Random
-Have you come to join my beloved? You will join them!
-![[Exiled Vault Dialogue/PoE2/T/The Prisoner/_Audio/The Prisoner - SirenBoss_Emerge_Random.ogg]]
 
 #
 ---

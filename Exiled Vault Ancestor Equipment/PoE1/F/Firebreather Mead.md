@@ -1,4 +1,7 @@
 [[Ngamahu Tribe]]
+
+#
+## Flavour Text
 The fruit of the volcanic nightshade plant can leave veteran warriors in tears.
 
 #

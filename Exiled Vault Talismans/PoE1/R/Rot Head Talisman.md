@@ -1,7 +1,8 @@
 # Flavour Text
-To catch a big fish you need tempting bait.  
-And there is no fish bigger than the Empire, and no bait as tempting as Ezomyr.  
-\- The Wolven King
+"Those that swore loyalty to Lysanda, that
+forged ahead with her to clear the way.
+became known as the first Knights...
+armoured, battered, and courageous."
 
 #
 ![[Rot Head Talisman.webp]]

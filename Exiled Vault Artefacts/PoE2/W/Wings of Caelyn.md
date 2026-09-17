@@ -1,7 +1,7 @@
 ![[Exiled Vault Artefacts/_Images/PoE2 - Wings of Caelyn.png]]
 
 # Flavour Text
-The older brother rtetained calm in the midst of fury.
+The older brother retained calm in the midst of fury.
 
 # Details
 - Armour: 49

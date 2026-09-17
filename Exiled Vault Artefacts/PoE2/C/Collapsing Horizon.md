@@ -20,3 +20,4 @@ The edges bend, the world flexes, the infinite spills into view.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

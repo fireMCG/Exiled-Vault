@@ -1,9 +1,8 @@
 # Flavour Text
-'Sleep when you are weary,' our mothers told us.  
-'Sleep when you are dead,' our fathers told us.  
-To the First Ones, the slumbering and the corpse  
-are one and the same.  
-\- The Wolven King
+"It turned out, Lysanda made for an excellent
+vanguard - a light, evasive girl who could scout
+and lead the way. The people came to see her
+as their guide, their hope, and then... their leader."
 
 #
 ![[Undying Flesh Talisman.webp]]

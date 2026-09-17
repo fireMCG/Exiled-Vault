@@ -15,3 +15,4 @@ is true, but I cannot allow one of our artifacts to fall into Kondor's hands.
 #League/Heist
 #PoE1 
 #Society/Maraketh 
+#Interesting 

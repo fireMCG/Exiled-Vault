@@ -19,3 +19,4 @@ needed never fear her sting.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

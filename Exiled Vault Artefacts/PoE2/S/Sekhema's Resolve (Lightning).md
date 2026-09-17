@@ -17,3 +17,4 @@ Vastiri, we shall remain, unchanged.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

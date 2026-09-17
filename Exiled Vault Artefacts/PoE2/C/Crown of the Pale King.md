@@ -21,3 +21,4 @@ feed on your pain.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

@@ -18,3 +18,4 @@ that protects us from ourselves.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

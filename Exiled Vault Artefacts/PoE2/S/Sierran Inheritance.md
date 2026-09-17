@@ -21,3 +21,4 @@ live their entire lives in snow and ice.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

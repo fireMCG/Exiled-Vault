@@ -14,3 +14,4 @@ Entropy can be reversed.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

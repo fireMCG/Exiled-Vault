@@ -1,9 +1,8 @@
 # Flavour Text
-I stood among the stones  
-And called out to the First Ones;  
-That with tooth and mighty claw,  
-They should tear our enemies asunder.  
-\- The Wolven King
+"When they set out to find and build
+Ezomyr, they encountered creatures of
+deadly variety and intent. Many died,
+for none yet knew how to fight back."
 
 #
 ![[Breakrib Talisman.webp]]

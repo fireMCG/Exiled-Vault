@@ -23,3 +23,4 @@ races of Wraeclast. In the centuries that followed, his Will began to subtly cha
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

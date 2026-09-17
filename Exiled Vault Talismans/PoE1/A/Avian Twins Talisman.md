@@ -1,9 +1,8 @@
 # Flavour Text
-The first ones live where they can, where they must.  
-They embrace the frost, the storm, the drought.  
-Waxing and waning, breaking and mending,  
-living with time and happenstance, as must we.  
-\- The Wolven King
+"The Druids emerged from the forests to greet
+and warn the new settlers. This was an ancient
+land full of mysteries and dangers. Lysanda sent
+her best men to study and learn with them."
 
 #
 ![[Avian Twins Talisman.webp]]

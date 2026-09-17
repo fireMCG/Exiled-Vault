@@ -23,3 +23,4 @@ The Dreamer whispered with fogging breath, ice creeping down his hand.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

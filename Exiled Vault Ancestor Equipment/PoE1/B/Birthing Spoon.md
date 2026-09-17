@@ -1,4 +1,7 @@
 [[Hinekora Tribe]]
+
+#
+## Flavour Text
 With each new life, the entire tribe is invigorated.
 
 #
@@ -11,3 +14,4 @@ With each new life, the entire tribe is invigorated.
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Hinekora 
+#Interesting 

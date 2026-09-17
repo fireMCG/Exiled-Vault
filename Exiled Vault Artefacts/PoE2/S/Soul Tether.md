@@ -19,3 +19,4 @@ desperately cling to any other source of life.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

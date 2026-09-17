@@ -27,3 +27,4 @@ and adoration... I deserve it. I am their Queen."
 ---
 # Tags
 #PoE2
+#Interesting 

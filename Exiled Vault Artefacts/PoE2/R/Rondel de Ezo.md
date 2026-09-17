@@ -21,3 +21,4 @@ will lose his will. Then, you've won."
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

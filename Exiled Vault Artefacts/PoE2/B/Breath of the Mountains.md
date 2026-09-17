@@ -21,3 +21,4 @@ is to know true freedom."
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

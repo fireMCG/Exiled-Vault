@@ -21,3 +21,4 @@ The head is where the Man is.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

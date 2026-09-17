@@ -21,3 +21,4 @@ Within lies a window.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

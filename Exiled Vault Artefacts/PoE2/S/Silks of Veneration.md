@@ -22,3 +22,4 @@ but not the way the Templar believed.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

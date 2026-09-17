@@ -1,7 +1,8 @@
 # Flavour Text
-Death met with the First Ones and demanded they hunt with mercy.  
-For while pain might delight the mind, it does not fill the belly.  
-\- The Wolven King
+"There followed a time of fear and fire.
+None would speak against their fellows.
+None would say who had poisoned him.
+Lysanda's justice was swift and brutal."
 
 #
 ![[Rotfeather Talisman.webp]]

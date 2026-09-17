@@ -1,4 +1,7 @@
 [[Hinekora Tribe]]
+
+#
+## Flavour Text
 The end of Time is also its beginning.
 
 #

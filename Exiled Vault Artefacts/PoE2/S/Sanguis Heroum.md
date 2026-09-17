@@ -19,3 +19,4 @@ It remembers those that stood in defiance.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

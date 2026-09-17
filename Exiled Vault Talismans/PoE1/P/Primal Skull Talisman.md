@@ -1,7 +1,8 @@
 # Flavour Text
-With the will of the first ones in our sinews, we shall tear down the walls of Sarn.  
-Yet as is the way of the wildlands, only the strong may grow stronger.  
-\- The Wolven King
+"The journey was over, the land was being
+secured, and the foundations for the first city
+had been laid. Winter hit them with horrible
+fury, sent not by nature, but by a curse."
 
 #
 ![[Primal Skull Talisman.webp]]

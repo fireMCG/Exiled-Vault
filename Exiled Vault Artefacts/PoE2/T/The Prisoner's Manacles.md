@@ -21,3 +21,4 @@ His greatest success took three entire legions to capture.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

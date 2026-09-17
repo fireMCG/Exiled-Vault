@@ -1,4 +1,7 @@
 [[Arohongui Tribe]]
+
+#
+## Flavour Text
 Arohongui looks after all those in need.
 
 #

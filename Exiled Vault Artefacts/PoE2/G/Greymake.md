@@ -18,3 +18,4 @@ In the end, even heroes fade away.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

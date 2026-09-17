@@ -21,5 +21,7 @@ They know your mind, because they remember
 #
 ---
 # Tags
+#Attributes/Timeline 
 #Category/Artefact
 #PoE2
+#Interesting 

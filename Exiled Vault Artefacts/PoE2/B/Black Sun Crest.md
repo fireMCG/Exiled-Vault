@@ -18,3 +18,4 @@ are the ones who dwell in total darkness.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

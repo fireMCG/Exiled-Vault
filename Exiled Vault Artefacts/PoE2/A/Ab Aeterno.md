@@ -18,3 +18,4 @@ His enemy was for endurance forged. His own waned.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

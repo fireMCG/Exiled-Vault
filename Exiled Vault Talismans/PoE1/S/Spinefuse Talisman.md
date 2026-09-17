@@ -1,7 +1,8 @@
 # Flavour Text
-We Ezomytes are beasts of burden bearing wealth of an empire on our backs,  
-growing lean and strong while our masters grow fat and weak.  
-\- The Wolven King
+"Romance never interested Queen Lysanda,
+but her advisors insisted heirs were needed.
+To spite them, she took the Hag's only son as
+her Consort - a quiet, pale, and strange man."
 
 #
 ![[Spinefuse Talisman.webp]]

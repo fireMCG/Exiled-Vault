@@ -27,3 +27,4 @@ Not all of his abominations survive.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

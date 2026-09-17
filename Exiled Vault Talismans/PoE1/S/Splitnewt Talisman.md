@@ -1,6 +1,8 @@
 # Flavour Text
-From flesh and ferocity, the First Ones roamed through the realm of Spirit, and into the darkness beyond.  
-\- The Wolven King
+"And still the Winter Curse raged in through
+every window and every door. The fathers
+and mothers of those within let themselves
+freeze solid, sealing the gaps with their lives."
 
 #
 ![[Splitnewt Talisman.webp]]

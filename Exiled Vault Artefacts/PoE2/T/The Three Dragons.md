@@ -22,3 +22,4 @@ That roused him to vengeance."
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

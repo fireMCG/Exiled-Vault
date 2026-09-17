@@ -16,3 +16,4 @@ Blessed are those who tend the Grove.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

@@ -1,4 +1,7 @@
 [[Tukohama Tribe]]
+
+#
+## Flavour Text
 The warriors of the Tukohama Tribe call the brink of death home.
 
 #

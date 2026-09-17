@@ -17,5 +17,7 @@ No conqueror, no conquered, only searing Light.
 #
 ---
 # Tags
+#Attributes/Timeline 
 #Category/Artefact
 #PoE2
+#Interesting 

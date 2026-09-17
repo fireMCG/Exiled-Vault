@@ -18,3 +18,4 @@ He placed his Heart
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

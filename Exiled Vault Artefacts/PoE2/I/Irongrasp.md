@@ -19,3 +19,4 @@ A power unknown aids your own.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

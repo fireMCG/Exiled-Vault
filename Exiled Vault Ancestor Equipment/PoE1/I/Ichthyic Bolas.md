@@ -1,4 +1,7 @@
 [[Tasalio Tribe]]
+
+#
+## Flavour Text
 Hunters of the Tasalio Tribe are just as effective on land.
 
 #

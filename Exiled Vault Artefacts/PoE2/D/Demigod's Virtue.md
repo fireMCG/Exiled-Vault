@@ -13,3 +13,4 @@ are proven inherently right and true.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

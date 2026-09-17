@@ -1,4 +1,7 @@
 [[Tukohama Tribe]]
+
+#
+## Flavour Text
 A true warrior is never unarmed.
 
 #

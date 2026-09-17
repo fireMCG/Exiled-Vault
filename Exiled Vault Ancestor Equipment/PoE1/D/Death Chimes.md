@@ -1,4 +1,7 @@
 [[Hinekora Tribe]]
+
+#
+## Flavour Text
 Hinekora is not the master of Death, but she is its Mother.
 
 #

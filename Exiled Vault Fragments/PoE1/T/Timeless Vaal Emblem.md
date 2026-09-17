@@ -1,5 +1,8 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Timeless Vaal Emblem.webp]]
 
+# Flavour Text
+The boundless thaumaturgy of the Vaal...
+
 # Details
 Map Fragments
 Limit: 1

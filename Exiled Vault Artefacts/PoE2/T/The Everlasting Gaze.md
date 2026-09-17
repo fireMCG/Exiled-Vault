@@ -15,3 +15,4 @@ they believed Lunaris had not abandoned them.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

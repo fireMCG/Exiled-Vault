@@ -22,3 +22,4 @@ will more than survive the coming battle... you will thrive."
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

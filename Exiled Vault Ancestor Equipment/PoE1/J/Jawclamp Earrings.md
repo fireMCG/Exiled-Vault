@@ -1,4 +1,7 @@
 [[Kitava Tribe]]
+
+#
+## Flavour Text
 "Bite down upon your master's throat, and die before you let go!"
 
 #

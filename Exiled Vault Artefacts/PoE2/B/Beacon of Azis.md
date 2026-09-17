@@ -18,3 +18,4 @@ It was Solerai herself.
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

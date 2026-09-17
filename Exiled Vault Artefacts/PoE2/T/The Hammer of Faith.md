@@ -23,3 +23,4 @@ One day, justice would fall upon them...
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

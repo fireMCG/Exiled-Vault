@@ -17,3 +17,4 @@ And awoke its Master.
 #Category/Artefact
 #Society/VaalEmpire
 #PoE2
+#Interesting 

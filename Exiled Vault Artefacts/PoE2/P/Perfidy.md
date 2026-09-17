@@ -22,3 +22,4 @@ What hope have you?
 # Tags
 #Category/Artefact
 #PoE2
+#Interesting 

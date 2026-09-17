@@ -1,7 +1,8 @@
 # Flavour Text
-When we free ourselves from the shackles of civilised existence,
-we learn to feed and run and breathe as the First Ones have always done.  
-\- The Wolven King
+"Queen Lysanda's spiteful choice of Consort
+spited only herself. Alasdair was unlike any
+man she had ever met. It was not long before
+the trumpets sounded for the Royal Wedding."
 
 #
 ![[Three Rat Talisman.webp]]

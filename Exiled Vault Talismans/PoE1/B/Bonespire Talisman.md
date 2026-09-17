@@ -1,9 +1,7 @@
 # Flavour Text
-The civilised man must wrestle  
-with the demands of heart and mind.  
-The First Ones share no such struggle.  
-For their Spirit is swift and deadly certain.  
-\- The Wolven King
+"We held our trust in the First Ones long
+before we learned runes. Long before we
+were shown the ways of cities and roads."
 
 #
 ![[Bonespire Talisman.webp]]
