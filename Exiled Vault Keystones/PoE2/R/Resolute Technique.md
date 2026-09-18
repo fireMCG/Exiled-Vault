@@ -11,5 +11,5 @@ Never deal Critical Hits
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE2

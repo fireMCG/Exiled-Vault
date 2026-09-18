@@ -12,5 +12,5 @@ For 5 seconds after you Impale Enemies, they cannot be Impaled again, and Impale
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

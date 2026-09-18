@@ -221,5 +221,5 @@ That's right. Foes call me Fleabag. Friends call me Finnegan. Most call me both.
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE1

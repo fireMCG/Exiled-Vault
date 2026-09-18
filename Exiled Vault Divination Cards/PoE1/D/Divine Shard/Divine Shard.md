@@ -11,5 +11,5 @@ Divine Vessel
 #
 ---
 # Tags
-#DivinationCard
+#Category/DivinationCard 
 #PoE1

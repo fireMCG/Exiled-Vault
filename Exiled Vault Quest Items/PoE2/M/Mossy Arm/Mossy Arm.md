@@ -4,5 +4,5 @@ Accept the futility.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

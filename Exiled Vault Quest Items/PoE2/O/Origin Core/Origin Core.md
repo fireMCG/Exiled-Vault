@@ -5,5 +5,5 @@ would change... everything.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

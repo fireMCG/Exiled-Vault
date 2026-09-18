@@ -18,5 +18,5 @@ With this... the Master shall know unending power...
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

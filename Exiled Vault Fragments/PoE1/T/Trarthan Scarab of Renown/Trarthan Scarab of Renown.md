@@ -14,5 +14,5 @@ Shift click to unstack.
 #
 ---
 # Tags
-#Fragment
+#Category/Fragment/Scarab 
 #PoE1

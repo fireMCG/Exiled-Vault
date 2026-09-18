@@ -6,15 +6,9 @@ No longer shall our people's grief be in vain.
 From their hands, perfection is wrought.
 Within His reach, we are safe."
 
-# Effects
-Allies in your Presence gain Guard equal to 10% of your maximum Life for 4 seconds, every 6 seconds while
-a Supported Skill is active
-Mana: 30
-
 #
 ---
 # Tags
-#Lineage
-#SupportGem
+#Category/SupportGem/Lineage 
 #PoE2
 #Interesting 

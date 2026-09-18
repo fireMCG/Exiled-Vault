@@ -4,5 +4,5 @@ Accept the end.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

@@ -173,5 +173,5 @@ You... fool. If they obtain the Mother Soul... our civilization died... for noth
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

@@ -11,6 +11,6 @@ All Damage is taken from Mana before Life
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE2
 #Interesting 

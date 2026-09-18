@@ -5,5 +5,5 @@ Behold [......{illegible}........] be awed! [.................] Queen, and you [
 #
 ---
 # Tags
-#EnvironmentalLore
+#Category/Lore/Environmental 
 #PoE2

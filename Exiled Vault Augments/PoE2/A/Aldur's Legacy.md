@@ -7,5 +7,5 @@
 #
 ---
 # Tags
-#Socketable
+#Category/Augment
 #PoE2

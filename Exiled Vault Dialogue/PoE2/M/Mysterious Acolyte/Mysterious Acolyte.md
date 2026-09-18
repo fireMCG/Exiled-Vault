@@ -31,5 +31,5 @@ You should get some rest, perhaps.
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

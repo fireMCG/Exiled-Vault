@@ -6,5 +6,5 @@ Witness the genesis of madness.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

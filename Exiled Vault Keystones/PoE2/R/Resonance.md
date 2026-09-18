@@ -12,6 +12,6 @@ Gain Endurance Charges instead of Power Charges
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE2
 #Interesting 

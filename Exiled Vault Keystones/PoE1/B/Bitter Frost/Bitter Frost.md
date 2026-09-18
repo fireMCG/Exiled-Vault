@@ -11,5 +11,5 @@ Cannot deal non-Cold Damage
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

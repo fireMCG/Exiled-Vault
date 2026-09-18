@@ -14,5 +14,5 @@ Know when you'll be hit, and you'll barely feel it.
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

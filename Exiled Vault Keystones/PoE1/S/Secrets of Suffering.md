@@ -14,5 +14,5 @@ Critical Strikes inflict Scorch, Brittle and Sapped
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

@@ -13,5 +13,5 @@ Cannot deal non-Fire Damage
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

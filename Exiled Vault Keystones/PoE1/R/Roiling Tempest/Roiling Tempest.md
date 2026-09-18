@@ -11,5 +11,5 @@ Cannot deal non-Lightning Damage
 #
 ---
 # Tags
-#Keystone
+#Category/Keystone
 #PoE1

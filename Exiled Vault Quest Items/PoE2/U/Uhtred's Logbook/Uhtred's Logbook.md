@@ -4,5 +4,5 @@ Schemes laid bare, in their hour of need...
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

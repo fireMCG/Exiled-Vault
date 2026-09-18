@@ -12,5 +12,5 @@ Cannot be Stunned
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

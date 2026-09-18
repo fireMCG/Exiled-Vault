@@ -12,5 +12,5 @@ Dexterity provides no inherent bonus to Evasion Rating
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

@@ -12,5 +12,5 @@ Cannot Dodge Roll or Sprint
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE2

@@ -250,5 +250,5 @@ Xesht nears!
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

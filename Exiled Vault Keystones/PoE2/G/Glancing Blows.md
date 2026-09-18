@@ -11,5 +11,5 @@ Chance to Deflect is Lucky
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE2

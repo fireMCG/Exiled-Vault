@@ -6,5 +6,5 @@ Grants two Weapon Set Passive Skill Points
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

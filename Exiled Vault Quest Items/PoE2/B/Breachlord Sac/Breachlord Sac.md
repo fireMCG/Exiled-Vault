@@ -7,5 +7,5 @@ lie the chains of power and control.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

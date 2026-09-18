@@ -11,5 +11,5 @@ Immune to Chaos Damage and Bleeding
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE2

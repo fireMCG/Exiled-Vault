@@ -4,5 +4,5 @@ The carvings it holds are too worn to decipher.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

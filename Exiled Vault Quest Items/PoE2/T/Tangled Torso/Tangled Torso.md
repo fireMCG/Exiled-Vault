@@ -4,5 +4,5 @@ Accept the darkness.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

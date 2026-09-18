@@ -8,5 +8,5 @@ Velka_Glyph_EasterEgg
 #
 ---
 # Tags
-#EnvironmentalLore
+#Category/Lore/Environmental 
 #PoE1

@@ -10,5 +10,5 @@ Bring this to the Mirror in the Withered Willow.
 #
 ---
 # Tags
-#Fragment
+#Category/Fragment
 #PoE2

@@ -12,6 +12,6 @@ Cannot Recharge Energy Shield
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1
 #Interesting 

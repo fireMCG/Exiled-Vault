@@ -5,5 +5,5 @@ Domain with maddened agony and anger.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

@@ -49,5 +49,5 @@ Are you quite certain of that?
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

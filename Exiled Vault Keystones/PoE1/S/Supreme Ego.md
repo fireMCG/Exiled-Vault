@@ -13,5 +13,5 @@ Aura Skills have 1% more Aura Effect per 2% of maximum Mana they Reserve
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

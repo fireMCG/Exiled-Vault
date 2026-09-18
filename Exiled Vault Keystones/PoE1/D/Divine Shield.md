@@ -12,5 +12,5 @@ Cannot Recover Energy Shield to above Armour
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

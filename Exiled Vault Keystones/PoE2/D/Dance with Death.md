@@ -11,6 +11,6 @@ a One-Handed Martial Weapon equipped in your Main Hand
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE2
 #Interesting 

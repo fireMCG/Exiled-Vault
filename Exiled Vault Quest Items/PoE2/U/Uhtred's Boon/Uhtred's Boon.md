@@ -6,5 +6,5 @@ watch the others, and make sure they remained loyal.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

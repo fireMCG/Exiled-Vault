@@ -17,5 +17,5 @@ Your luck's run aground!
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE1

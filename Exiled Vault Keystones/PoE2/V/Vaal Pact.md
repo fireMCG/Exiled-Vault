@@ -11,6 +11,6 @@ Cannot use Life Flasks
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE2
 #Interesting 

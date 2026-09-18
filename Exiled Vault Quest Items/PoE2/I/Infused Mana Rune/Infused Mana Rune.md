@@ -4,5 +4,5 @@ Arcane energy churns wildly within.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

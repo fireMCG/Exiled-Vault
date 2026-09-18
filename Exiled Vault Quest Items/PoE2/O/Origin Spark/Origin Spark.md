@@ -5,5 +5,5 @@ flare of empowered life
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

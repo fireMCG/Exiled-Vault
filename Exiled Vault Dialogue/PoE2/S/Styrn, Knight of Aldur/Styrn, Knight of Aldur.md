@@ -58,5 +58,5 @@ Runafǫðrs reiði!
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

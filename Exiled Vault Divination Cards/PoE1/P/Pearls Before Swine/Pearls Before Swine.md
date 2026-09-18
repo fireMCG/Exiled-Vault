@@ -11,5 +11,5 @@ Progenesis
 #
 ---
 # Tags
-#DivinationCard
+#Category/DivinationCard 
 #PoE1

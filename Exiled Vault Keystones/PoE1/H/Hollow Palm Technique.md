@@ -13,5 +13,5 @@ Adds 14 to 20 Attack Physical Damage to Melee Skills per 10 Dexterity while you 
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

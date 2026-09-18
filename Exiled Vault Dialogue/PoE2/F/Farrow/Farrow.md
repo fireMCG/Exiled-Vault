@@ -557,5 +557,5 @@ I didn't really like it anyway...
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

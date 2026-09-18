@@ -5,5 +5,5 @@ ruination followed..."
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

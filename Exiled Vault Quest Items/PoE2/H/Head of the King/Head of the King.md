@@ -7,5 +7,5 @@ message both concise and profound.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

@@ -13,6 +13,6 @@ Skills Reserve Life instead of Mana
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1
 #Interesting 

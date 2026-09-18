@@ -6,5 +6,5 @@ the King knew she was the best possible choice for success.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

@@ -4,5 +4,5 @@ Thorough notes tracking Gwennen's movements.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

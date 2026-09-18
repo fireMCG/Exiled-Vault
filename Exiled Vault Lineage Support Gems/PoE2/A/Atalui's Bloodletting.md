@@ -5,11 +5,6 @@ Atazek and Atalui rose, battered and dark, bleeding from a hundred different wou
 She gave her brother a sinister grin.
 "Shall we show them what happens to those who challenge the Vaal?"
 
-# Effects
-Supported Skills have Mana Costs Converted to Life Costs
-Supported Skills Gain 2% of Damage as extra Physical Damage per 20 Life cost, up to 40%
-Mana: 100%
-
 #
 ---
 # Tags

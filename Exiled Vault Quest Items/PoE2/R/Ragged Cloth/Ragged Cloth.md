@@ -4,5 +4,5 @@ Accept oblivion.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

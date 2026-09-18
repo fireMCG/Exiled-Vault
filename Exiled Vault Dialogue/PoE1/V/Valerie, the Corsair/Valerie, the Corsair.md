@@ -384,5 +384,5 @@ The ol' witch is a fearful power in the Brinerot clan. Third or fourth from the 
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE1

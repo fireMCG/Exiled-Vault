@@ -11,5 +11,5 @@ Cannot use Charms
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE2

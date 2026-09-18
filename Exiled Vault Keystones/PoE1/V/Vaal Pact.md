@@ -12,6 +12,6 @@ Cannot Recover Life other than from Leech
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1
 #Interesting 

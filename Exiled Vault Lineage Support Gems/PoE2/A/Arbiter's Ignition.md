@@ -5,10 +5,6 @@ This carving seems to depict curled bodies floating in vats...
 the next shows all but one of them dying. What were they
 trying to do? It seems they kept trying... kept experimenting...
 
-# Effects
-Gain Elemental Archon when you Ignite an Enemy
-Mana: 100%
-
 #
 ---
 # Tags

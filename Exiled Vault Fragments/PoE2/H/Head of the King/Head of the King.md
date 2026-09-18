@@ -11,5 +11,5 @@ Bring this proof of your victory to Aoife in Caer Tarth.
 #
 ---
 # Tags
-#Fragment
+#Category/Fragment
 #PoE2

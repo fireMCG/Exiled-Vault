@@ -11,6 +11,6 @@ Life Recharges instead of Energy Shield
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE2
 #Interesting 

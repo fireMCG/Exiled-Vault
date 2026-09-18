@@ -10,5 +10,5 @@ Share Endurance, Frenzy and Power Charges with nearby party members
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

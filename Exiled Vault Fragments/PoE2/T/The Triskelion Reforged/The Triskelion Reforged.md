@@ -10,5 +10,5 @@ Travel to the Ruins of Kingsmarch and speak to Makoru to reach the Fallen Star w
 #
 ---
 # Tags
-#Fragment
+#Category/Fragment
 #PoE2

@@ -46,5 +46,5 @@ It plagues us!
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

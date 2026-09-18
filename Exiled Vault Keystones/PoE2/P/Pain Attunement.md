@@ -12,5 +12,5 @@ Your enemies will know your agony tenfold.
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE2

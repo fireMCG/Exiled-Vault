@@ -5,5 +5,5 @@ they aspired for it to be...
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

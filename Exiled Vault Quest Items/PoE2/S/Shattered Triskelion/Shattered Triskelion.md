@@ -4,5 +4,5 @@ Shattered pieces of glory long lost.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

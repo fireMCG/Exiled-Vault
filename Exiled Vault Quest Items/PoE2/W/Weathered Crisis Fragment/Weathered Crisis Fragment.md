@@ -4,5 +4,5 @@ Pictographs seem to convey a dire warning.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

@@ -78,5 +78,5 @@ The Draíocht come to your aid...
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

@@ -58,5 +58,5 @@ Salvations wrath!
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

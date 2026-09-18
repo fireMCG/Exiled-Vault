@@ -5,5 +5,5 @@ Lussi is no mother of Brine. Her vision for our future is small. These new Brine
 #
 ---
 # Tags
-#EnvironmentalLore
+#Category/Lore/Environmental 
 #PoE1

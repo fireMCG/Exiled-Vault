@@ -20,5 +20,5 @@ You'll drown!
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE1

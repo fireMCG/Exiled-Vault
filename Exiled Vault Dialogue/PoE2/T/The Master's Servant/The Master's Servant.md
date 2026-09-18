@@ -241,5 +241,5 @@ You... ask us such a question? You care to know? We are not worthy of such compa
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

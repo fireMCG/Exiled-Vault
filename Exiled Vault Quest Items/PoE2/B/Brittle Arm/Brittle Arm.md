@@ -4,5 +4,5 @@ Accept the now.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

@@ -407,5 +407,5 @@ Reckon I can rustle something up to your liking.
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE1

@@ -5,11 +5,6 @@
 with such dull stones. I want to give myself to you
 for eternity. Surely we can seek perfection together?"
 
-# Effects
-+1 to Level of Supported Skill Gems
-+10% to Quality of Supported Skills
-Mana: 90%
-
 #
 ---
 # Tags

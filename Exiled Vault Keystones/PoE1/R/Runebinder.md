@@ -11,5 +11,5 @@ You can have an additional Brand Attached to an Enemy
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

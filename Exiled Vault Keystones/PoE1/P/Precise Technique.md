@@ -12,6 +12,6 @@ Never deal Critical Strikes
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1
 #Interesting 

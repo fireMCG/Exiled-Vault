@@ -12,6 +12,6 @@ Ailments never count as being from Critical Strikes
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1
 #Interesting 

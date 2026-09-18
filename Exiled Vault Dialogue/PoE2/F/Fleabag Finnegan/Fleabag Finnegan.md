@@ -302,5 +302,5 @@ Spare me a moment. I'll tell you a story, if you like!
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

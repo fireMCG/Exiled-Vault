@@ -6,5 +6,5 @@ Cadigan III granted their leader a royal rune of vitality.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

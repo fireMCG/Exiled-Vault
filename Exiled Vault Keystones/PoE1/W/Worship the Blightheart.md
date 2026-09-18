@@ -12,5 +12,5 @@ Create Fungal Ground instead of Consecrated Ground
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

@@ -11,5 +11,5 @@ Pity... He was... my most loyal servant...
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE1

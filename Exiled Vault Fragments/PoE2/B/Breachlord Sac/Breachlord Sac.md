@@ -11,5 +11,5 @@ Bring this to the Dreamer in the Monastery of the Keepers.
 #
 ---
 # Tags
-#Fragment
+#Category/Fragment
 #PoE2

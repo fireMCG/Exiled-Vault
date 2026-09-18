@@ -6,5 +6,5 @@ succeed, the Knights of the Sun would be forever lauded.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

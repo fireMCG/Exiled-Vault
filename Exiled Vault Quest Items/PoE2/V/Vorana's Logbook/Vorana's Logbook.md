@@ -4,5 +4,5 @@ The last one alive, she understood too late...
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

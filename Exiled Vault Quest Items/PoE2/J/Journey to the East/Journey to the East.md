@@ -5,5 +5,5 @@ wove a fabled garment of rings...
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

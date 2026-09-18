@@ -11,5 +11,5 @@ Deal no Non-Fire Damage
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

@@ -10,5 +10,5 @@ You are chosen!
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

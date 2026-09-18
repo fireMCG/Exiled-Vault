@@ -5,16 +5,9 @@ The flesh rejoiced. The melding began.
 Then, fear. Something foreign within.
 It was cast out too late. The unity was broken.
 
-# Effects
-Projectiles from Supported Skills Return to you
-Returning Projectiles from Supported Skills Pierce all targets
-Mana: 100%
-CooldownTime: 6000
-
 #
 ---
 # Tags
-#Lineage
-#SupportGem
+#Category/SupportGem/Lineage 
 #PoE2
 #Interesting 

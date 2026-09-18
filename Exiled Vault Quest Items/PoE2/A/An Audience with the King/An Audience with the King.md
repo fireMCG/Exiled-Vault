@@ -4,5 +4,5 @@ On the edge of existence, he watches with ire.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

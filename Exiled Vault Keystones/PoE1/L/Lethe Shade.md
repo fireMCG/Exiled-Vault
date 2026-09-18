@@ -12,5 +12,5 @@ Take 50% less Damage over Time if you've started taking Damage over Time in the 
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

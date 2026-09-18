@@ -11,5 +11,5 @@ Double Activation Delay of Curses
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE2

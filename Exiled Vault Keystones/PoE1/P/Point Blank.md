@@ -10,5 +10,5 @@ Projectile Attack Hits deal up to 30% more Damage to targets at the start of the
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

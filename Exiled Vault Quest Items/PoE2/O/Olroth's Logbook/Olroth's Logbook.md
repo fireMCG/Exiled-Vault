@@ -4,5 +4,5 @@ He made his way to the ends of the earth...
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

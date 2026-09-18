@@ -50,5 +50,5 @@ You can stop this!
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

@@ -178,5 +178,5 @@ His progeny rose from mire, filth and depravity, becoming a staple brood for the
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

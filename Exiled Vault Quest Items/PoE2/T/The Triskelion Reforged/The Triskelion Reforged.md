@@ -6,5 +6,5 @@ A masterwork of runecraft.
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

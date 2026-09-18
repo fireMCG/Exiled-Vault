@@ -10,6 +10,6 @@ While the mind endures, so too will the body.
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1
 #Interesting 

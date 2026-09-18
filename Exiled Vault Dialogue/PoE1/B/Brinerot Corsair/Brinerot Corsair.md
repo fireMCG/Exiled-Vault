@@ -20,5 +20,5 @@ No quarter!
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE1

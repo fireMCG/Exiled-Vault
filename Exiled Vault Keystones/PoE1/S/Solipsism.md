@@ -12,6 +12,6 @@ Intelligence provides no inherent bonus to Energy Shield
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1
 #Interesting 

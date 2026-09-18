@@ -5,17 +5,9 @@
 Eonyr and his flock soar the winds between us and the Moon.
 The roar of the storm... that's them, as they hunt and call."
 
-# Effects
-Supported Skills Cannot inflict Shock
-Lightning Damage from Supported Skills Contributes to Electrocution Buildup
-Supported Skills Trigger Voltaic Fulmination on killing Electrocuted enemies
-Explosion radius is (1.5—2.1) metres
-Deals Lightning damage equal to (5—14)% of Corpse's maximum Life
-
 #
 ---
 # Tags
-#Lineage
-#SupportGem
+#Category/SupportGem/Lineage 
 #PoE2
 #Interesting 

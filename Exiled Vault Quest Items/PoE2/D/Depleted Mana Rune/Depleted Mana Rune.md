@@ -4,5 +4,5 @@ The rune hungers, an empty chasm...
 #
 ---
 # Tags
-#QuestItem
+#Category/QuestItem
 #PoE2

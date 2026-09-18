@@ -14,5 +14,5 @@ To master the arena, you must be prepared for anything.
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

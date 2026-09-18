@@ -257,5 +257,5 @@ Gotta spend money to make money.
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE1

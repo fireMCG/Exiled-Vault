@@ -54,5 +54,5 @@ Praise the Dreamer!
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

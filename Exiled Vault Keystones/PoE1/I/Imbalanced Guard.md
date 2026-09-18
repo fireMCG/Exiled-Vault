@@ -13,5 +13,5 @@ Maximum Damage Reduction for any Damage Type is 50%
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE1

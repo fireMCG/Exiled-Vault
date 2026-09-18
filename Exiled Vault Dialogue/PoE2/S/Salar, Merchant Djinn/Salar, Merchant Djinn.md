@@ -398,5 +398,5 @@ Ah, what do you seek?
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

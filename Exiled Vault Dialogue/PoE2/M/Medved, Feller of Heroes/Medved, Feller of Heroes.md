@@ -78,5 +78,5 @@ Remnants of the past!
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2

@@ -14,6 +14,6 @@ Ignite inflicted with Fire Spells deals Chaos Damage instead of Fire Damage
 ---
 # Tags
 #Category/Keystone
-#Keystone
+#Category/Keystone
 #PoE2
 #Interesting 

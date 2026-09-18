@@ -70,5 +70,5 @@ Tha slabhraidhean an dorchadais gar cuairteachadh!
 #
 ---
 # Tags
-#Dialogue
+#Category/Dialogue
 #PoE2
