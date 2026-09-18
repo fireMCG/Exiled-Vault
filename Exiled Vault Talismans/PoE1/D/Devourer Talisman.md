@@ -1,12 +1,14 @@
-# Flavour Text
+![[Exiled Vault Talismans/_Images/Devourer Talisman.webp]]
+
+#
+## Flavour Text
 "A great headless monstrosity with arms like
 teeth stalked the lands they hoped to settle.
 No other weapon would find purchase. They
 surrounded it with fire, burning it for days."
 
 #
----
-# Tags
+## Tags
 #Category/Talisman
 #League/Talisman
 #PoE1

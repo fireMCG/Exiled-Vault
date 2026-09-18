@@ -1,12 +1,14 @@
-# Flavour Text
+![[Exiled Vault Talismans/_Images/Spider Crab Talisman.webp]]
+
+#
+## Flavour Text
 "As deadly and dangerous creatures were
 culled, the Queen chose to leave those
 that were docile or beauteous. Tide pools
 became known as places of wonder."
 
 #
----
-# Tags
+## Tags
 #Category/Talisman
 #League/Talisman
 #PoE1

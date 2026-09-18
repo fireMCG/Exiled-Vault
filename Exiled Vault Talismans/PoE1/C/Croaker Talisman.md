@@ -1,12 +1,14 @@
-# Flavour Text
+![[Exiled Vault Talismans/_Images/Croaker Talisman.webp]]
+
+#
+## Flavour Text
 "Ezomyr grew on a foundation of
 choice. Its climate was chosen. Its
 animals were chosen. For once,
 Wraeclast was not harsh, but kind."
 
 #
----
-# Tags
+## Tags
 #Category/Talisman
 #League/Talisman
 #PoE1

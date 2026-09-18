@@ -1,12 +1,14 @@
-# Flavour Text
+![[Exiled Vault Talismans/_Images/Craicic Talisman.webp]]
+
+#
+## Flavour Text
 "The sea calmed, and contact was
 renewed with the Isles of Skothe.
 It was said that Craiceann had
 given a blessing to the people."
 
 #
----
-# Tags
+## Tags
 #Category/Talisman
 #League/Talisman
 #PoE1

@@ -1,12 +1,14 @@
-# Flavour Text
+![[Exiled Vault Talismans/_Images/Scorpion Talisman.webp]]
+
+#
+## Flavour Text
 "But there were some who could not forget
 the horrors of the Winter Curse, and of the
 Hag that had sent it. Alasdair dropped his
 wine goblet, and fell to the ground, choking."
 
 #
----
-# Tags
+## Tags
 #Category/Talisman
 #League/Talisman
 #PoE1
