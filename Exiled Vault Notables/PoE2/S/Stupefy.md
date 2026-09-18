@@ -1,9 +1,0 @@
-# Effects
-10% chance to Daze on Hit
-30% increased Damage against Dazed Enemies
-
-#
----
-# Tags
-#Category/Notable
-#PoE2

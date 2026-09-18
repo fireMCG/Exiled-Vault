@@ -1,9 +1,0 @@
-# Effects
-35% increased Stun Buildup
-35% increased Freeze Buildup
-
-#
----
-# Tags
-#Category/Notable
-#PoE2

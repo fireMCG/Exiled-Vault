@@ -1,9 +1,0 @@
-# Effects
-Damaging Ailments Cannot Be inflicted on you while you already have one
-20% increased Magnitude of Damaging Ailments you inflict
-
-#
----
-# Tags
-#Category/Notable
-#PoE2

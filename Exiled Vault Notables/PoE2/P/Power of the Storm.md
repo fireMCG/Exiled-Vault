@@ -1,9 +1,0 @@
-# Effects
-50% increased Damage if you've Triggered a Skill Recently
-Requires The Unseen Path
-
-#
----
-# Tags
-#Category/Notable
-#PoE2

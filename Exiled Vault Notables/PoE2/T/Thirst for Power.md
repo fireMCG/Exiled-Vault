@@ -1,8 +1,0 @@
-# Effects
-25% chance when you gain a Power Charge to gain an additional Power Charge
-
-#
----
-# Tags
-#Category/Notable
-#PoE2

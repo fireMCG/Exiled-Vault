@@ -1,9 +1,0 @@
-# Effects
-Empowered Attacks deal 30% increased Damage
-Warcry Skills have 30% increased Area of Effect
-
-#
----
-# Tags
-#Category/Notable
-#PoE2

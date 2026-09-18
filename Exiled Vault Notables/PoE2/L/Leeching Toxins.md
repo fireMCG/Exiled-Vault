@@ -1,9 +1,0 @@
-# Effects
-30% increased Magnitude of Poison you inflict
-Recover 2% of maximum Life on Killing a Poisoned Enemy
-
-#
----
-# Tags
-#Category/Notable
-#PoE2

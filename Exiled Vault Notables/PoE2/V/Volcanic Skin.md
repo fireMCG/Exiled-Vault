@@ -1,9 +1,0 @@
-# Effects
-Gain 8% of Damage as Extra Fire Damage
-+20% to Fire Resistance
-
-#
----
-# Tags
-#Category/Notable
-#PoE2

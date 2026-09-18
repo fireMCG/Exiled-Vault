@@ -1,8 +1,0 @@
-# Effects
-Break Armour equal to 10% of Hit Damage dealt
-
-#
----
-# Tags
-#Category/Notable
-#PoE2

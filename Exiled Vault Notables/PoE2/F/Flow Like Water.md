@@ -1,9 +1,0 @@
-# Effects
-8% increased Attack and Cast Speed
-+5 to Dexterity and Intelligence
-
-#
----
-# Tags
-#Category/Notable
-#PoE2

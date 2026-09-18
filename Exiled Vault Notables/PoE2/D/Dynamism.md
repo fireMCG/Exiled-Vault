@@ -1,9 +1,0 @@
-# Effects
-40% increased Damage if you've Triggered a Skill Recently
-Meta Skills gain 15% increased Energy
-
-#
----
-# Tags
-#Category/Notable
-#PoE2

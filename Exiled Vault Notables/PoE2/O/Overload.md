@@ -1,9 +1,0 @@
-# Effects
-Damage Penetrates 10% Lightning Resistance if on Low Mana
-Damage Penetrates 15% Lightning Resistance
-
-#
----
-# Tags
-#Category/Notable
-#PoE2

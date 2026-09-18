@@ -1,9 +1,0 @@
-# Effects
-30% increased maximum Energy Shield
-+10 to Intelligence
-
-#
----
-# Tags
-#Category/Notable
-#PoE2
