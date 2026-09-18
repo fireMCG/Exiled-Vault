@@ -4,7 +4,7 @@ The militia cries out and charges forth.
 # Prophecy
 You will defeat General Gravicius while holding Deidbell.
 ## Reward
-Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/D/Deidbell|Deidbell]] to [[Deidbellow]] upon completion. 
+Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault UniqueItems/PoE1/D/Deidbell|Deidbell]] to [[Deidbellow]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]

@@ -1,0 +1,12 @@
+![[Exiled Vault UniqueItems/_Images/PoE1 - Impresence (Cold, full power).png]]
+
+# Flavour Text
+Though its body was locked in stone,
+its essence wandered the infinite,
+learning, and preparing.
+
+#
+---
+# Tags
+#Category/UniqueItem
+#PoE1

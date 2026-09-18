@@ -3,7 +3,7 @@ Where the river meets the sea, the flames meet winter's chill, and heated battle
 # Prophecy
 You will defeat Sumter the Twisted while holding Heatshiver.
 # Reward
-Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Artefacts/PoE1/H/Heatshiver|Heatshiver]] to [[Frostferno]] upon completion. 
+Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault UniqueItems/PoE1/H/Heatshiver|Heatshiver]] to [[Frostferno]] upon completion. 
 
 #
 ![[Prophecy_inventory_icon.png]]

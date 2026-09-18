@@ -1,0 +1,15 @@
+![[Exiled Vault UniqueItems/_Images/PoE2 - Constricting Command.png]]
+
+# Flavour Text
+"Be vigilant, Nezahul! When the serpent is cornered, does it give up?
+No... It waits. Then it bites the first hand it finds.
+The danger of numbers is all in your mind!"
+- Viper Napuatzi, instructing Royal Commander Nezahul
+
+#
+---
+# Tags
+#Category/UniqueItem
+#Character/Napuatzi
+#Society/VaalEmpire
+#PoE2
