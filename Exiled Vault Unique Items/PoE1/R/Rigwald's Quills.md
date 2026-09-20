@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Rigwald's Quills.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Rigwald's Quills.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The fortunate inscribe their legacy
 in the pages of history books.
 The rest of us must leave our mark with our blood
@@ -8,6 +9,6 @@ or the blood of others.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

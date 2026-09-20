@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Harvest Scarab of Doubling.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A good season brings bounty.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Harvest
 #PoE1

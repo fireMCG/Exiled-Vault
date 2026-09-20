@@ -3,6 +3,6 @@ My dearest Landren, It seems we may never leave this strange place. Our guide cl
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

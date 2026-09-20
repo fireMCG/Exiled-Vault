@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Unstable Payload.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Unstable Payload.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Researchers will refrain from giving test subjects virtue gems which produce traps.
 We are still finding explosives in the vents months later."
 - Administrator Qotra
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Qotra
 #PoE1

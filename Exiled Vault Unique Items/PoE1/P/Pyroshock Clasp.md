@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Pyroshock Clasp.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Pyroshock Clasp.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Teach a man to burn, and you'll be warm for the rest of his life.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

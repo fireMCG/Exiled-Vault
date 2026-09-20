@@ -1,4 +1,4 @@
-# Ailith on Esh and Tul
+## Ailith on Esh and Tul
 Ailith: This Esh and Tul... they are not the original Lords. They are subordinates to a greater fiend. However, they are still immense threats. The Hiveborn heed their call. Follow their every thought. They must be destroyed. No matter how many more are grown in their place.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Esh and Tul/Audio/Ailith - S15 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Esh and Tul/Audio/Ailith - S15 - L1 - A2.ogg]]
@@ -41,6 +41,6 @@ Ailith: The Dreamer will reveal all in time.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

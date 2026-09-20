@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Rotting Legion.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Rotting Legion.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A glacier of putrid meat, crushing mountains and valleys alike.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

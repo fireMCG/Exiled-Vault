@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Darkest Dream.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A dream from which you cannot awake is nothing other than a nightmare.
 
-# Reward
+#
+## Reward
 Severed in Sleep
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Darkness
 #Concept/Night/Dream

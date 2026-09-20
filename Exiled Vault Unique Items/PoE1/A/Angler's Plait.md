@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Angler's Plait.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Angler's Plait.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A man can spend his whole life fishing before he learns it is not fish that he seeks.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Animal/Fish
 #PoE1

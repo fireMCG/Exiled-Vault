@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mortem Morsu.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mortem Morsu.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fear blisters the heart and thins the blood.
 Fear squeezes lungs and sets the guts to fester.
 Fear is the wound left untended.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

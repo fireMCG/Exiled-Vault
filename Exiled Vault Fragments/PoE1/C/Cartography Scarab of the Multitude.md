@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Cartography Scarab of the Multitude.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 There is no end, no horizon.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 3
@@ -15,6 +16,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

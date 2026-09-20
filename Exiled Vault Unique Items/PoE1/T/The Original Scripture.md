@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Original Scripture.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Original Scripture.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "It's all here. The lie at the core of my faith. Maxarius was not the first chosen of
 Innocence. Maxarius was Innocence himself. A charlatan, a liar, and a power-seeker."
 - Lycia, the Heretic
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

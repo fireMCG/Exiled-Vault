@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Atziri's Splendour (Armour and Life).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Atziri's Splendour (Armour and Life).png]]
 
-# Flavour Text
+#
+## Flavour Text
 "When you have nothing to hide, you have nothing to fear."
 - Atziri, Queen of the Vaal
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

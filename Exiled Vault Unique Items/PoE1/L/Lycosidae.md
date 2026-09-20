@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Lycosidae.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Lycosidae.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A true predator does not chase; It waits.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

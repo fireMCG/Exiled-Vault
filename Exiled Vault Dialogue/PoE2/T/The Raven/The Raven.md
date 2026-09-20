@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### ElderMadoxRaven_BanterOne_A2
 I thought you wanted to find me?
 ![[Exiled Vault Dialogue/PoE2/T/The Raven/_Audio/The Raven - ElderMadoxRaven_BanterOne_A2.ogg]]
@@ -48,6 +49,6 @@ Are you quite certain of that?
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

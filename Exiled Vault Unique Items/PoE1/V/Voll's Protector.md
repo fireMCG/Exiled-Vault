@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Voll's Protector.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Voll's Protector.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Although a great leader during the war,
 Voll proved disastrous in times of peace.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

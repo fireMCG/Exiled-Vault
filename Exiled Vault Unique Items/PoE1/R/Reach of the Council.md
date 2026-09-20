@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Reach of the Council.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Reach of the Council.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We stand together. We strike together.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

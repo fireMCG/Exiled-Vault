@@ -1,11 +1,12 @@
-# Flavour Text
+![[Gifts_of_the_Red_Queen.png]]
+
+#
+## Flavour Text
 Whispers and promises, ancient and alluring.
 
 #
-![[Gifts_of_the_Red_Queen.png]]
-
 ---
-# Tags
+## Tags
 #Category/Strongbox
 #PoE1 
 #Society/VaalEmpire  

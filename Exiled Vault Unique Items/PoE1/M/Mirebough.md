@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mirebough.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mirebough.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Cut down the tallest tree, and another becomes the tallest."
 - Old Ezomyte saying
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

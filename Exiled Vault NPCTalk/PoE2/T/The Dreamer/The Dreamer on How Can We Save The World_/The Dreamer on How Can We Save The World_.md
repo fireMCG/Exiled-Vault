@@ -1,4 +1,4 @@
-# The Dreamer on How Can We Save The World?
+## The Dreamer on How Can We Save The World?
 Monk: If they never give up, is our world doomed?
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on How Can We Save The World_/Audio/The Dreamer - S3 - L1 - A1.ogg]]
 The Dreamer: There is hope. A hope that bloomed here in the Monastery and still continues to grow. If we wage war upon the enemy, in their own domain... we can change the outcome. With the enemy weakened, I will erase them. I shall destroy them utterly.
@@ -17,6 +17,6 @@ The Dreamer: I have long dreamed of it. You needn't wait much longer, my child.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

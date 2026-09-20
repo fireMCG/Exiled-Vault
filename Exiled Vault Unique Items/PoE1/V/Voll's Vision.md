@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Voll's Vision.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Voll's Vision.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Righteous men seek virtue like tame pups seeking praise.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

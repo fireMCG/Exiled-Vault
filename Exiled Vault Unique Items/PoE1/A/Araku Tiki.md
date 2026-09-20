@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Araku Tiki.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Araku Tiki.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It is said to make you invisible when the Great Spirit comes to take you on your final journey.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Death
 #Concept/Spirit

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Torchoak Step.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Torchoak Step.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Centuries ago, there existed a unique grove imbued with ancestral fire.
 As with all things, the Karui used its wood for war.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Oppressor.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Oppressor.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Every clash leaves one more scar.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

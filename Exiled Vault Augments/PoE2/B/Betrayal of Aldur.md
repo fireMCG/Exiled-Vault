@@ -1,14 +1,13 @@
-# Details
-- Stack Size: 1 / 10
+![[PoE2 - Betrayal of Aldur.webp]]
 
-# Effects
-- Weapon: Transforms all Fire, Cold and Lightning modifiers on the item into equivalent Chaos modifiers
-
-# Bonded Effects
-- Weapon: 25% increased Chaos Damage
+#
+## Flavour Text
+Aldur made a choice to share the art of runesmithing
+with all those who would seek the craft. He knew it
+might be used for ill, even by his own descendants...
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

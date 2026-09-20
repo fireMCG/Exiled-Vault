@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Goblinedge.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Goblinedge.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "That bronze girl sure knows how to cut someone down to size!"
 – Bertrand the Plush
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

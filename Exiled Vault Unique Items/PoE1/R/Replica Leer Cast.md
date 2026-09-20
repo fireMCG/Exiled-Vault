@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Leer Cast.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Leer Cast.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Prototype #412 seems to bear much in
 common with Thought Extractor technology."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

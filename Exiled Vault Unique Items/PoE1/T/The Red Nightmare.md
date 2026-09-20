@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Red Nightmare.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Red Nightmare.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 We coagulate; a crimson shell that suffocates the unworthy.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

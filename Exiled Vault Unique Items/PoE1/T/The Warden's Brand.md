@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Warden's Brand.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Warden's Brand.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "I don't always have a flame handy
 when a fresh delinquent walks through our gates."
 - Brutus, Warden of Axiom
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

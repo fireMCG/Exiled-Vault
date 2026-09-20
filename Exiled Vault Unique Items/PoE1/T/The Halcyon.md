@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Halcyon.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Halcyon.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We wait, still as the dead.
 To join the great avalanche.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

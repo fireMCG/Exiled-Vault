@@ -7,7 +7,7 @@ I am alive, and I choose my own destiny."
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/Mirage
 #PoE1

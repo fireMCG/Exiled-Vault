@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Cold Steel.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Cold Steel.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Winter provides us with her own weapons, hanging from the eaves of our homes.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

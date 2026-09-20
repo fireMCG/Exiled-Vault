@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Grand Spectrum (Viridian Jewel, frenzy charge).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Grand Spectrum (Viridian Jewel, frenzy charge).png]]
 
-# Flavour Text
+#
+## Flavour Text
 A spirit that never rests.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

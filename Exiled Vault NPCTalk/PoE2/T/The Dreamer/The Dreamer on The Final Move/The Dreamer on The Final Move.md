@@ -1,4 +1,4 @@
-# The Dreamer on The Final Move
+## The Dreamer on The Final Move
 Warrior: Tell me, Dreamer, with Xesht dead... what is the final step in your plan?
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on The Final Move/Audio/The Dreamer - S2 - L1 - A1.ogg]]
 Witch: Xesht is dead, but let me guess... there's still more to be done.
@@ -101,6 +101,6 @@ Shadow: [DNT]
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

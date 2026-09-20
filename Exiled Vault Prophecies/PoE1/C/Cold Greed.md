@@ -1,16 +1,19 @@
-# Flavour Text
-Avarice turns the heart as cold as a fragment of Winter itself.
-# Prophecy
-You will defeat Fragment of Winter while holding Cameria's Maul.
-# Reward
-Upgrades [[Cameria's Maul]] to [[Cameria's Avarice]] upon completion. 
-
-#
 ![[Prophecy_inventory_icon.png]]
 
 #
+## Flavour Text
+Avarice turns the heart as cold as a fragment of Winter itself.
+
+## Prophecy
+You will defeat Fragment of Winter while holding Cameria's Maul.
+
+## Reward
+Upgrades [[Cameria's Maul]] to [[Cameria's Avarice]] upon completion. 
+
+#
+#
 ---
-# Tags
+## Tags
 #Category/Prophecy
 #Concept/Fracture/Fragment 
 #Concept/Body/Heart 

@@ -1,6 +1,6 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Dimensional Barrier.webp]]
 
-# Details
+## Details
 Idols
 Limited To: 1
 2% increased Maps found in your Maps
@@ -14,6 +14,6 @@ Place this item into the Idol inventory at a Map Device to affect Maps you open.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

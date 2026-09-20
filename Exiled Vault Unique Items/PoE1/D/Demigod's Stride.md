@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Demigod's Stride.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Demigod's Stride.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Victory is on the march and nothing can stop it.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

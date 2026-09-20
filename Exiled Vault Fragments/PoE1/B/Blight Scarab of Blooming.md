@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Blight Scarab of Blooming.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Once a century, the Blight spills forth...
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -17,7 +18,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Blight
 #PoE1

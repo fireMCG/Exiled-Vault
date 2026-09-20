@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Shieldbearer.png]]
 
-# Flavour Text
+#
+## Flavour Text
 While you grow, I shall be your knight, and you my squire. One day, you shall be the one who stands and defends our home.
 
-# Reward
+#
+## Reward
 The Squire
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

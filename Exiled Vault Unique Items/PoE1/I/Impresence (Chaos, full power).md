@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Impresence (Chaos, full power).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Impresence (Chaos, full power).png]]
 
-# Flavour Text
+#
+## Flavour Text
 Though its body was locked in stone,
 its essence wandered the infinite,
 learning, and preparing.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

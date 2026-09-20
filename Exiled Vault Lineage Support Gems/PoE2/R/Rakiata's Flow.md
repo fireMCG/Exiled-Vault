@@ -1,11 +1,12 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Rakiata's Flow.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The Tasalio Tribe developed their own Way, seeing the world not as it is, but as it should be, given its roiling and endless grace of constant motion.
 
 #
 ---
-# Tags
+## Tags
 #Category/SupportGem/Lineage 
 #Character/Rakiata
 #PoE2

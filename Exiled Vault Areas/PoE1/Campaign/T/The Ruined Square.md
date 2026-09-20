@@ -1,7 +1,8 @@
-# Flavour Text
+#
+## Flavour Text
 Oriath's bleeding heart is the main course in a terrible feast.
 
-# Connected Areas
+## Connected Areas
 - The Torched Courts
 - The Ossuary
 - The Cathedral Rooftop
@@ -9,6 +10,6 @@ Oriath's bleeding heart is the main course in a terrible feast.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

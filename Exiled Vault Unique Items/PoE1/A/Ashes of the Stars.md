@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ashes of the Stars.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ashes of the Stars.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A single facet contains the wisdom of countless disintegrated worlds.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/EaterOfWorlds
 #Concept/Ash

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Leper's Alms.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Leper's Alms.png]]
 
-# Flavour Text
+#
+## Flavour Text
 One's burden is another's gift.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

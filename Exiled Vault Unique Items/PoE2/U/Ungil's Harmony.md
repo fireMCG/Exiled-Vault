@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Ungil's Harmony.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Ungil's Harmony.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Gentle anger, raging calm.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

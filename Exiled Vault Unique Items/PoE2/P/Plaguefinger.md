@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Plaguefinger.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Plaguefinger.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Ulcers, scabs, and pocks, the third army makes its claim.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

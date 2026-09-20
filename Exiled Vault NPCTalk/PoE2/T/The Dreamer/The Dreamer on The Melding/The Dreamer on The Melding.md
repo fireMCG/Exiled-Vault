@@ -1,4 +1,4 @@
-# The Dreamer on The Melding
+## The Dreamer on The Melding
 Monk: Forgive me, but my curiosity of the melding gets the better of me. Why would you take part in such a thing with the vile Lords?
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on The Melding/Audio/The Dreamer - S6 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on The Melding/Audio/The Dreamer - S6 - L1 - A2.ogg]]
@@ -10,7 +10,7 @@ The Dreamer: It is a meritable question. The melding is why I have languished he
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on The Melding/Audio/The Dreamer - S6 - L2 - A5.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on The Melding/Audio/The Dreamer - S6 - L2 - A6.ogg]]
 
-# The Dreamer on The Melding
+## The Dreamer on The Melding
 Warrior: I would know more about this... 'melding' you spoke of.
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on The Melding/Audio/The Dreamer - S7 - L1 - A1.ogg]]
 Witch: I'd be lying if I said I wasn't intrigued by this melding you spoke of.
@@ -39,6 +39,6 @@ The Dreamer: It is why I have languished here for so many years. Healing. Recove
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

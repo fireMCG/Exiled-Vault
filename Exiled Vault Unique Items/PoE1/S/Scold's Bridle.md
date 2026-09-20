@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Scold's Bridle.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Scold's Bridle.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The sharper the pain, the sharper the mind.
 A curious paradox."
 - Shavronne of Umbra
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

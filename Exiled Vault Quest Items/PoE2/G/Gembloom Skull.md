@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Gembloom Skull.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Corruption often causes crystals to grow in strange places...
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Concept/Corruption
 #Concept/Crystal

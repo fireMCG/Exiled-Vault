@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Crown of the Inward Eye.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Crown of the Inward Eye.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Divinity is not the only path to enlightenment.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Horned Scarab of Awakening.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The Atlas can be anything you want... and everything you want.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1
 #Interesting 

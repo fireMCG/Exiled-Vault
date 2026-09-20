@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Daresso's Passion.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Daresso's Passion.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It doesn't matter how well the young swordsman trains.
 All form and finesse are forgotten when blood first hits the ground.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

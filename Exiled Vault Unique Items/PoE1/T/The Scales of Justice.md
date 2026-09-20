@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Scales of Justice.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Scales of Justice.png]]
 
-# Flavour Text
+#
+## Flavour Text
 You shall be weighed and measured. You shall be judged...
 and perhaps you shall be found worthy.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

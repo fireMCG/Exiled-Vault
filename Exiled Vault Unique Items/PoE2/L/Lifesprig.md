@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Lifesprig.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Lifesprig.png]]
 
-# Flavour Text
+#
+## Flavour Text
 From the Smallest seeds
 To the tallest redwoods
 Life endures in Wraeclast.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

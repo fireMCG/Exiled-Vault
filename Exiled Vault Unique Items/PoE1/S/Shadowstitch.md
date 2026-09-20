@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Shadowstitch.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Shadowstitch.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Destined for sacrifice, they were dressed in garments that blurred the lines between this world and the next.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Lakishu's Blade.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Lakishu's Blade.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "May the Blessed Lakishu watch our backs and our wives."
 - Legionnaire Battle Blessing
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

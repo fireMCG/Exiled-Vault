@@ -1,11 +1,12 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Arjun's Medal.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Confident their enemy was defenseless, the Keitans brazenly charged the walls - but Arjun's ammunition supply reports had been... 'inaccurate'... just like everything else Bardiyan.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Bloodline/Bardiyan
 #Bloodline/Keitan

@@ -1,4 +1,4 @@
-# Farrow on Tome III: The Triskelion
+## Farrow on Tome III: The Triskelion
 Farrow: A third tome! What do we have this time? 'Volume Three: The Triskelion.' 'To repair their broken unity, the Runefathers forged the Triskelion Flame. A monumental achievement of exquisite craftsmanship.' 'The Runefather's toured Middengard with their creation. It demanded hope. It whispered a promise. It healed the people's aching hearts left in the absence of Aldur.' 'The Triskelion was returned to the capital, where the Runefathers kept it, as a bastion of harmony for all Middengard.'
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Tome III_ The Triskelion/Audio/Farrow - S132 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Tome III_ The Triskelion/Audio/Farrow - S132 - L1 - A2.ogg]]
@@ -36,7 +36,7 @@ Farrow: It was an interesting way to put it, I'll give you that.
 Farrow: I feel we are close to finishing this story. Let's keep on the trail!
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Tome III_ The Triskelion/Audio/Farrow - S132 - L16 - A1.ogg]]
 
-# Farrow on Tome III: The Triskelion
+## Farrow on Tome III: The Triskelion
 Farrow: A third tome! What do we have this time? 'Volume Three: The Triskelion.' 'To repair their broken unity, the Runefathers forged the Triskelion Flame. A monumental achievement of exquisite craftsmanship.' 'The Runefather's toured Middengard with their creation. It demanded hope. It whispered a promise. It healed the people's aching hearts left in the absence of Aldur.' 'The Triskelion was returned to the capital, where the Runefathers kept it, as a bastion of harmony for all Middengard.'
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Tome III_ The Triskelion/Audio/Farrow - S133 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Tome III_ The Triskelion/Audio/Farrow - S133 - L1 - A2.ogg]]
@@ -76,6 +76,6 @@ Farrow: I feel we are close to finishing this story. Let's keep on the trail!
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

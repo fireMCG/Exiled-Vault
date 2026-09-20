@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Fragility.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Fragility.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Our defenses are failing at Outpost One. We can't hold out much longer. All outposts, abandon your stations! Escape while you can!"
 - Lead Researcher Ksaret, three hours post-Incident
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Ksaret
 #PoE1

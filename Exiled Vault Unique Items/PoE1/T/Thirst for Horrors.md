@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Thirst for Horrors.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Thirst for Horrors.png]]
 
-# Flavour Text
+#
+## Flavour Text
 What goes out must come in.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

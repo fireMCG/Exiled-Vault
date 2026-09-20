@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Tavukai.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Tavukai.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Hyrri and her arrows broke the sacred code, damning herself.
 Kaom seized her sacrifice, and in doing so, seized victory."
 - Lavianga, Advisor to Kaom
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

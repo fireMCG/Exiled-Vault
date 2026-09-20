@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Oro's Sacrifice.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Oro's Sacrifice.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Ice and flame antagonized in the essence of a prototype.
 What once burned now chills the soul."
 - Researcher Arn
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Arn
 #PoE1

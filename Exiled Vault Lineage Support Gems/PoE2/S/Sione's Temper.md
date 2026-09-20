@@ -1,13 +1,14 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Sione's Temper.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 She holds in her hand a shattered crystal, a vision of her desire:
 to see her sister's silver palace obliterated, to see it cast across the heavens.
 One cross word, and the sky will rain down her fury.
 
 #
 ---
-# Tags
+## Tags
 #Category/SupportGem/Lineage 
 #Character/God/Sione
 #Concept/Crystal

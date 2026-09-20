@@ -3,6 +3,6 @@ I bargained with an entity far greater than the Templars, far greater than mysel
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

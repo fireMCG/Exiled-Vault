@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Necromantle.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Necromantle.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fueled by the blackness in the hearts of men, the armies of Saresh were just as relentless.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

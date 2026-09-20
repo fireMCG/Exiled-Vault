@@ -2,7 +2,7 @@ High Templar Dominus {"Dominus, High Templar, 1579-1599 IC. Beheaded by one of t
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/Lore/Environmental
 #Character/HighTemplar/Dominus

@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 What horrors lurk in the bowels of the city?
 
-# Connected Areas
+## Connected Areas
 - The Slums
 - The Marketplace
 - The Ebony Barracks
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

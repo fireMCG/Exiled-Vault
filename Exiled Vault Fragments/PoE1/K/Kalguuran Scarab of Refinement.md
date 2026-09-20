@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Kalguuran Scarab of Refinement.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Ore's true worth lies not in stone, but in what it becomes.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/SettlersOfKalguur
 #PoE1

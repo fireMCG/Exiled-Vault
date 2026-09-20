@@ -8,6 +8,7 @@ had been laid. Winter hit them with horrible
 fury, sent not by nature, but by a curse."
 
 #
+---
 ## Tags
 #Category/Talisman
 #League/Talisman

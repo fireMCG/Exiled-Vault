@@ -1,11 +1,11 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Humility.png]]
 
-# Reward
+## Reward
 Tabula Rasa
 
 #
 ---
-# Tags
+## Tags
 #Concept/Virtue/Humility
 #Category/DivinationCard
 #PoE1

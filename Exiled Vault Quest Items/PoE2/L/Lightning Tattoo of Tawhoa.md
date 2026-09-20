@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Lightning Tattoo of Tawhoa.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The forest stands tall against the storm.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Character/God/Tawhoa
 #PoE2

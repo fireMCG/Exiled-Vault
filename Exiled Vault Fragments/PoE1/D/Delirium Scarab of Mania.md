@@ -1,10 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Delirium Scarab of Mania.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 They're so loud! Why are they so loud?!
 All you can do is scream!
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -16,7 +17,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Delirium
 #PoE1

@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Three Faces in the Dark.png]]
 
-# Flavour Text
+#
+## Flavour Text
 For every threat you spy in the shadows, there are two others you don't.
 
-# Reward
+#
+## Reward
 3x Chaos Orb
 
 #
 ---
-# Tags
+## Tags
 #Concept/Number/Three
 #Category/DivinationCard
 #PoE1

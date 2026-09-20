@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Wings of Caelyn.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Wings of Caelyn.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The older brother retained calm in the midst of fury.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

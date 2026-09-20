@@ -1,14 +1,14 @@
-# Flavour Text
+![[Exiled Vault Reliquary Keys/_Images/Visceral Reliquary Key.png]]
+
+#
+## Flavour Text
 That which could not be digested  
 remains lost within, the buried remnants  
 of whole cultures, of entire worlds.
 
 #
-![[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Reliquary Keys/_Images/Visceral Reliquary Key.png]]
-
-#
 ---
-# Tags
+## Tags
 #Category/Reliquary/Key
 #Character/Eldritch/EaterOfWorlds
 #Concept/Hunger 

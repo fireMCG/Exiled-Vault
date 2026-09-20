@@ -1,12 +1,13 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Silver Locket.png]]
 
-# Flavour Text
+#
+## Flavour Text
 From Weylam to Meredith:
 I shall love thee as I love the sea.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Character/WeylamRoth
 #Concept/Colour/Silver

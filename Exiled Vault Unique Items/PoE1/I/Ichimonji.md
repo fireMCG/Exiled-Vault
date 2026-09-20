@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ichimonji.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ichimonji.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Master yourself before you seek to master others.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Kulemak_BringMissing
 Bring... what is missing...
 
@@ -10,6 +11,6 @@ Pity... He was... my most loyal servant...
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE1

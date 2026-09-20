@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Volatile Power.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Unlimited power is apt to corrupt the minds of those who possess it.
 
-# Reward
+#
+## Reward
 Vaal Gem
 Quality: +20%
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Corruption
 #Concept/Mind

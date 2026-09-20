@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 Coughing up the dust of dead devotion.
 
-# Connected Areas
+## Connected Areas
 - The Marketplace
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

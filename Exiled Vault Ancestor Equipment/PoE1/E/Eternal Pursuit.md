@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/CrystalLegband.webp]]
+
 [[Ramako Tribe]]
 
+#
 #
 ## Flavour Text
 The Sun chases the Moon across the sky, thirsting for a momentary touch.
 
 #
-![[CrystalLegband.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Time/Eternity
 #Concept/Moon

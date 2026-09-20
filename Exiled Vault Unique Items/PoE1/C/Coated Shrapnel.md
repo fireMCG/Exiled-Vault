@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Coated Shrapnel.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Coated Shrapnel.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Ezomytes have a saying:
 Take everything and waste nothing.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Asenath's Gentle Touch.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Asenath's Gentle Touch.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Cool the head and cool the blade.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Sekhema/Asenath
 #Society/Maraketh

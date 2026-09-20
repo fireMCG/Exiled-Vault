@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Corpsewalker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Corpsewalker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Every glorious conquest
 stands astride innocent bones.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

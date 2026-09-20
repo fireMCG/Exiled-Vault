@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Runed Girdle.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The rune on the buckle means 'unity' or 'safety from harm.'
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Concept/Rune
 #PoE2

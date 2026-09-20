@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Grand Spectrum (Emerald).png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Grand Spectrum (Emerald).webp]]
 
-# Flavour Text
+#
+## Flavour Text
 An indomitable force of control.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

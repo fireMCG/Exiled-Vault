@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Relentless Fury.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Relentless Fury.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Relentless fury
 Sunder my every foe
 Fuel my boiling blood
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

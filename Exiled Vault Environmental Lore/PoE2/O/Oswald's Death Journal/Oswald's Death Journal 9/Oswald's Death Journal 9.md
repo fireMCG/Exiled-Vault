@@ -3,7 +3,7 @@ Jeffrye Monde. Days survived: Fifty-Nine Vanished in broad daylight from the mid
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Unknown

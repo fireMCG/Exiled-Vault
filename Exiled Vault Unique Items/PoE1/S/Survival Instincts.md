@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Survival Instincts.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Survival Instincts.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Observe and master your surroundings.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -9,7 +9,7 @@ Every captive saved, every slaver butchered.
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/CurseOfTheAllflame
 #PoE1

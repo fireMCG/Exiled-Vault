@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Baffling Blueprints.png]]
 
-# Flavour Text
+#
+## Flavour Text
 ...the blueprints for my Extreme Warmth Beam, my Storm Wooing Rod,
 the Mind Sublimator, and the Unbreakable...!
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE1

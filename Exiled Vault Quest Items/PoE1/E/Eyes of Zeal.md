@@ -1,13 +1,14 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Eyes of Zeal.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Eyes blazing with holy flame, the Pilgrim saw
 a great palace descend from the burgeoning sky,
 its gates barred against the unfaithful.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/QuestItem
 #Concept/Body/Eye

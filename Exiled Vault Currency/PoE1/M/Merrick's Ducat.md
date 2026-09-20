@@ -7,7 +7,7 @@ So he walked to the bottom of the sea, and made himself a new crew.
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/CurseOfTheAllflame
 #PoE1

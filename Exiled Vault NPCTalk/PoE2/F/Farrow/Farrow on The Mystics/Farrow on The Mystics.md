@@ -1,4 +1,4 @@
-# Farrow on The Mystics
+## Farrow on The Mystics
 Farrow: A strange lot this bunch. What did they even {do} in here?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Mystics/Audio/Farrow - S83 - L1 - A1.ogg]]
 Warrior: They seemed like mystics of some kind.
@@ -30,6 +30,6 @@ Farrow: Yes, I'm surprised to see that. The Kalguurans seemed very practical to 
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

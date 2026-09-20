@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Crown of Thorns.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Crown of Thorns.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Lift it lightly, don it slow.
 The spikes point out and in, you know.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Rigwald's Savagery.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Rigwald's Savagery.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Tear the flesh from the bone.
 Turn the bone to dust.
 Scatter the dust to the wind.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

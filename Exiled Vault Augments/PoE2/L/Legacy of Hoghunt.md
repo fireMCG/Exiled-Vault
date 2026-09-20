@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Hoghunt.webp]]
+![[PoE2 - Legacy of Hoghunt.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Two Hand Maces: +5% to Critical Hit Chance, Maim on Critical Hit
-
-# Bonded Effects
-- Two Hand Maces: 25% increased Attack Damage against Maimed Enemies
+#
+## Flavour Text
+"These forests used to run thick with
+packs of boars... before my time, mind
+you. Now, there's nary a hide nor tusk."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

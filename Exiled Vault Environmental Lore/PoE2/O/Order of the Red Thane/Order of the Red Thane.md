@@ -3,7 +3,7 @@ By the order of the Red Thane, They still resist our new master's message. Hunge
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Ezomyte

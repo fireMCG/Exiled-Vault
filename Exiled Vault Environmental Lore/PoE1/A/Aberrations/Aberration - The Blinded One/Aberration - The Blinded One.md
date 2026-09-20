@@ -3,7 +3,7 @@ My journey was not without faults. I see them now. Whatever I have become, whate
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/Lore/Environmental
 #PoE1

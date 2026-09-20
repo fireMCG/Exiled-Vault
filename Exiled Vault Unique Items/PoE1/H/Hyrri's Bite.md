@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hyrri's Bite.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hyrri's Bite.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A Karui woman's place was not the
 battlefield, but the hearth.
 Hyrri changed all of that.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

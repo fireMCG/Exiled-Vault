@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Fourth Vow.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Fourth Vow.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Seek not to avoid the mortal pains of this world.
 In flagellation, there lies freedom from temptation.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Horned Scarab of Nemeses.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Glory draws ever tighter its own doom.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1
 #Interesting 

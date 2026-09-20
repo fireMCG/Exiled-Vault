@@ -3,7 +3,7 @@ Oswyn Shipwash. Days survived: Ninety-Eight Stopped to pet a chimeral.
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Unknown

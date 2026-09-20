@@ -6,7 +6,7 @@
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #Character/God/Arakaali
 #PoE1/Act7

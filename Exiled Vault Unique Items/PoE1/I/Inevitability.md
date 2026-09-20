@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Inevitability.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Inevitability.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Izaro gave rise to Chitus.
 Chitus gave rise to Voll.
 None could know how it would end.
@@ -8,6 +9,6 @@ None could stop it.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

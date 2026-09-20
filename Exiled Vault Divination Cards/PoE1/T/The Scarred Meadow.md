@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Scarred Meadow.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The earth offers nourishment, growth and healing. Unless, of course, the sky has other plans.
 
-# Reward
+#
+## Reward
 Wake of Destruction
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

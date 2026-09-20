@@ -1,12 +1,13 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Sign of Purity.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Wrought from blood and gold, Innocence fashioned a weapon of tempered purity,
 capable of banishing darkness, and bringing order to the chaos in men's hearts.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/QuestItem
 #Character/God/Innocence

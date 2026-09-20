@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hand of Heresy.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hand of Heresy.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The followers of Light recognize Tyndarus Phrecius as
 the Emperor. For siding with the rebels, you and your
 brothers shall be cast out from the true faith, forevermore!"
@@ -8,6 +9,6 @@ brothers shall be cast out from the true faith, forevermore!"
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

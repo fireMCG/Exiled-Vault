@@ -3,7 +3,7 @@ Denise Chernocke. Days survived: Three-Hundred and Nine Excessive night terrors.
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Unknown

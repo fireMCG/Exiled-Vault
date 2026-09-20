@@ -1,11 +1,13 @@
-# Details
-- Stack Size: 1 / 10
+![[PoE2 - Aldur's Legacy.webp]]
 
-# Effects
-- All Equipment: When socketed into a Unique Kalguuran or Ezomyte item, destroys the item to create a Rune imbued with that item's power
+#
+## Flavour Text
+The true power of the Knights of the Sun came not from force of arms, nor cleverness of artifice.
+Its beating heart was the valour and determination of the heroes of old.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2
+#Interesting 

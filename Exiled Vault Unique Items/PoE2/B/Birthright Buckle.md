@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Birthright Buckle.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Birthright Buckle.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Some families have peculiar gifts...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

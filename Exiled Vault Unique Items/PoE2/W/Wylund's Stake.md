@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Wylund's Stake.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Wylund's Stake.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Shaped metal never forgets the forge.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

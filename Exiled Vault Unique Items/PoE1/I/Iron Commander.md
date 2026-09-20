@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Iron Commander.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Iron Commander.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Eternals commanded an army that need not eat, sleep, or breathe
 without the usual depravities of necromancy.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

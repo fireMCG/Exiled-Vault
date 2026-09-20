@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Nebulis (Fractured).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Nebulis (Fractured).png]]
 
-# Flavour Text
+#
+## Flavour Text
 The vastness of the cosmos holds energies beyond comprehension, should one have the fortitude to grasp them.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

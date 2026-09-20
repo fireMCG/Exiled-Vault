@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Chill of Corruption.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Chill of Corruption.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Even a millennium later, Atziri's presence casts a shroud over Wraeclast.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1

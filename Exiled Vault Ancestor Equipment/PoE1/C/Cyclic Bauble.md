@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/SunMoonAmulet.webp]]
+
 [[Hinekora Tribe]]
 
+#
 #
 ## Flavour Text
 The end of Time is also its beginning.
 
 #
-![[SunMoonAmulet.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Time/Beginning
 #Concept/Time/Cycle 

@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Intelligence Tattoo of Tasalio.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Hunters of the Tasalio Tribe are just as effective on land.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Character/God/Tasalio
 #PoE2

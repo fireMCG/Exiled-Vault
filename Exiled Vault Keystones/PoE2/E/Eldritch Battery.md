@@ -1,15 +1,17 @@
 ![[Exiled Vault Keystones/_Images/PoE2 - Eldritch Battery.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 What need have I for defence when my enemies are reduced to ash and splinters?
 
-# Effects
+#
+## Effects
 Converts all Energy Shield to Mana
 Doubles Mana Costs
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE2

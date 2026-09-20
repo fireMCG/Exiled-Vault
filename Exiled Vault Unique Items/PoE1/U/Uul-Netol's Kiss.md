@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Uul-Netol's Kiss.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Uul-Netol's Kiss.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We feel the mother's love, and beg to return to her womb.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

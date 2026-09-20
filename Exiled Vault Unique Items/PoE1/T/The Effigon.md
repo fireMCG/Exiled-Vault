@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Effigon.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Effigon.png]]
 
-# Flavour Text
+#
+## Flavour Text
 By light we are shadowed,
 in darkness we are bound.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

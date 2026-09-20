@@ -1,10 +1,11 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Claw Bramble.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Scrape, till, toil, scream...
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE1

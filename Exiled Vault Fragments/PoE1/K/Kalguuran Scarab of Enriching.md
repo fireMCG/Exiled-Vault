@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Kalguuran Scarab of Enriching.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The ore lives and breathes; and is not happy with your efforts.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -17,6 +18,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

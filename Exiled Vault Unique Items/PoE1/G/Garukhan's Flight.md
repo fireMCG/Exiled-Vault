@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Garukhan's Flight.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Garukhan's Flight.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The higher you soar, the further you must fall.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

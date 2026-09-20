@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Abyss Scarab of Edifice.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Their empires ghastly and gaunt glitter with gold.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Abyss
 #PoE1

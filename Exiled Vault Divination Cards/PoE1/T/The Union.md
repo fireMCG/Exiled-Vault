@@ -1,17 +1,19 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Union.png]]
 
-# Flavour Text
+#
+## Flavour Text
 On the 21st of Eterni, 
 two become one, 
 their light outshines 
 the setting sun.
 
-# Reward
+#
+## Reward
 10x Gemcutter's Prism
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/DivinationCard
 #PoE1

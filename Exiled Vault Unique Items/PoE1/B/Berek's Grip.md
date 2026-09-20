@@ -1,18 +1,17 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Berek's Grip.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Berek's Grip.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Berek hid from Storm's lightning wrath
 In the embrace of oblivious Frost
 Repelled by ice, blinded by blizzards
 Storm raged in vain
 While Berek slept.
-
-# Source
-Berek and the Untamed
+- Berek and the Untamed
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Unknown/Berek
 #Concept/Element/Ice

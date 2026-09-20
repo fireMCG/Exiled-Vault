@@ -3,7 +3,7 @@ The akharas have embraced the trial. It is fortuitous that the sisters of the sa
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Maraketh

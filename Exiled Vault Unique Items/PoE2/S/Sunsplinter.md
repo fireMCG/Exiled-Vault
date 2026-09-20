@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Sunsplinter.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Sunsplinter.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Lundara held back the hordes, while Solerai rose to split the sky.
 With a single stroke, she ended the Winter of the World."
 - Wranga, tale-woman of the Wahida akhara
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/UniqueItem
 #PoE2

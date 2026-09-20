@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - To Dust.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - To Dust.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In the end, time comes for all of us.
 It just comes for some much sooner.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

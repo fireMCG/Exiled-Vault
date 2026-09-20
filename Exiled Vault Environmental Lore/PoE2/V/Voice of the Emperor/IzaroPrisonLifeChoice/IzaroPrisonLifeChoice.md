@@ -3,7 +3,7 @@ The Heart unlocks compassion. Compassion is the first step toward redemption.
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/EternalEmpire

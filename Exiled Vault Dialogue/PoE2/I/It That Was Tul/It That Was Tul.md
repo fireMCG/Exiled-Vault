@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### EshTul_Tul_Emerge_One
 Wake. They are here.
 ![[Exiled Vault Dialogue/PoE2/I/It That Was Tul/_Audio/It That Was Tul - EshTul_Tul_Emerge_One.ogg]]
@@ -265,6 +266,6 @@ Xesht is all!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

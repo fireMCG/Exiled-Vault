@@ -3,6 +3,6 @@ Their hypocrisy knows no bounds. I will see their destruction. All I must do is 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

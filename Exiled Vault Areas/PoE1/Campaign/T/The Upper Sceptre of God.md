@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 The pinnacle of power. The height of hubris.
 
-# Connected Areas
+## Connected Areas
 - The Sceptre of God
 - The Aqueduct
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

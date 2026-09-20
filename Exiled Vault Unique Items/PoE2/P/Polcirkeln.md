@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Polcirkeln.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Polcirkeln.png]]
 
-# Flavour Text
+#
+## Flavour Text
 I rule the north
 A legacy earned
 Time and time again
@@ -8,6 +9,6 @@ Sing Meginord's song!
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Fencoil.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Fencoil.png]]
 
-# Flavour Text
+#
+## Flavour Text
 You've no reason for fear when you're a root in a fen
 - Old Ezomyte saying.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

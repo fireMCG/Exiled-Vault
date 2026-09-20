@@ -2,7 +2,7 @@ The sister gods of sun and moon, hand in hand did rule. A guide for day and one 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #Character/God/Lunaris
 #Character/God/Solaris

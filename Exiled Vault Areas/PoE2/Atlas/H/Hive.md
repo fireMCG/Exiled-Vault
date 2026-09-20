@@ -1,9 +1,10 @@
-# Flavour Text
+#
+## Flavour Text
 The work of an invisible empire.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2
 #Interesting 

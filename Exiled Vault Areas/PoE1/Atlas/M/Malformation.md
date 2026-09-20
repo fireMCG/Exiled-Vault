@@ -1,10 +1,11 @@
-# Flavour Text
+#
+## Flavour Text
 Boils swell from the earth.
 Foul malignant flesh
 without purpose.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Nomic's Storm.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Nomic's Storm.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It takes a clear mind to outrun a storm.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

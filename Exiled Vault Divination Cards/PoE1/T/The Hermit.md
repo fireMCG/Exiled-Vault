@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Hermit.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The hermit's only friend is the greenery he can find.
 
-# Reward
+#
+## Reward
 Lifesprig
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

@@ -1,13 +1,16 @@
-# Flavour Text
+![[Prophecy_inventory_icon.png]]
+
+#
+## Flavour Text
 The Unbreathing Queen masterminds an unholy heist, a defilement of the dead.
-# Prophecy
+
+## Prophecy
 You will encounter spectres in the Fellshrine Ruins, Cemetery Map, or Graveyard Map and slay them.
-# Reward
+
+## Reward
 \- None -
 
 #
-![[Prophecy_inventory_icon.png]]
-
 #
 ---
 ## Tags

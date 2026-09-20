@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Chains of Castigation.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Chains of Castigation.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The mysterious traveller saw the vilified brother chained to a cliff, where all could point and shout and deride him. In one fell swing, she cracked the mountainside, freeing him." - Lycia, the Heretic
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

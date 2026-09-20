@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Kaom's Heart.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Kaom's Heart.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Useless for our purposes, but perhaps we can sell Prototype #5
 to an archmage to fund other experiments."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

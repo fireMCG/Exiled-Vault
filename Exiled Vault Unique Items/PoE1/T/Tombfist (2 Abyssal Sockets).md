@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Tombfist (2 Abyssal Sockets).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Tombfist (2 Abyssal Sockets).png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Ever watched a man crush another man's skull?
 Hard to feel hope after that."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

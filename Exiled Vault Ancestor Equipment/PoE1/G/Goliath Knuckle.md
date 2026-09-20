@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/KnuckleDusterRing.webp]]
+
 [[Rongokurai Tribe]]
 
+#
 #
 ## Flavour Text
 Simple, but effective.
 
 #
-![[KnuckleDusterRing.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

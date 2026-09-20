@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Brinerot_Spearman_Aggro_Random
 By Velka's honor!
 
@@ -19,6 +20,6 @@ You'll drown!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE1

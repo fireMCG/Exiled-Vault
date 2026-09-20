@@ -1,9 +1,10 @@
-# Flavour Text
+#
+## Flavour Text
 Peer into his dominion, the lightless void...
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1
 #Interesting

@@ -1,17 +1,19 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Warlord.png]]
 
-# Flavour Text
+#
+## Flavour Text
 To cure the Goddess,
 and break the chains of corruption,
 you must shatter the world.
 
-# Reward
+#
+## Reward
 Six-Link Coronal Maul
 Item Level: 83
 
 #
 ---
-# Tags
+## Tags
 #Concept/Corruption
 #Concept/Goddess
 #Concept/Fracture

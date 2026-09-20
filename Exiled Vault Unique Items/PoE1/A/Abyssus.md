@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Abyssus.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Abyssus.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When you have slain all of your enemies, what is left to fear?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Emotion/Fear
 #PoE1

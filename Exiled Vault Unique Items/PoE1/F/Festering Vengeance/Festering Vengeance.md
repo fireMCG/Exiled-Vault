@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Festering Vengeance.webp]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Festering Vengeance.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 He lusts for retribution, but his
 captors are long since dust.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

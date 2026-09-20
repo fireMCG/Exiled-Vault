@@ -3,7 +3,7 @@ Our mistake was holding on to hope. Even after the sky turned crimson and the se
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/EternalEmpire

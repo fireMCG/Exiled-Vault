@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Essence Scarab.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 It is perfectly safe, the creatures trapped inside couldn't possibly still be living.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 5
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1
 #Interesting 

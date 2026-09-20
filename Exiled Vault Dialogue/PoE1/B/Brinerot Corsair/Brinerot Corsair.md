@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Brinerot_Swordsman_Aggro_Random
 C'mon then!
 
@@ -19,6 +20,6 @@ No quarter!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE1

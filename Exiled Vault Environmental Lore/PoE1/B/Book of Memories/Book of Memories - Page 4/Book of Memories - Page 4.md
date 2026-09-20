@@ -2,6 +2,6 @@ The Shade nodded thoughtfully. It knew of the device. The machine was a doorway 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

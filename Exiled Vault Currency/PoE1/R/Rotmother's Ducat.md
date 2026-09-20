@@ -8,7 +8,7 @@ Blood be damned.
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/CurseOfTheAllflame
 #PoE1

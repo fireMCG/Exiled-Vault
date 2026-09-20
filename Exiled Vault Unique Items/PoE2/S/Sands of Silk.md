@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Sands of Silk.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Sands of Silk.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The desert is ever flowing.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

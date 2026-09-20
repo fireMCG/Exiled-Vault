@@ -1,6 +1,6 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Maven's Chisel of Scarabs.webp]]
 
-# Details
+## Details
 Stackable Currency
 Stack Size: 1 / 20
 Improves the quality of a map enhancing Scarabs found
@@ -11,6 +11,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

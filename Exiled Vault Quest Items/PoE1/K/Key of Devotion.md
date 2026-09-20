@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Key of Devotion.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The true disciple gives all that they are unto God.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Concept/Religion/Devotion
 #PoE1

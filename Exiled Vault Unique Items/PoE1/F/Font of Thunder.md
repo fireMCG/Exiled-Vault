@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Font of Thunder.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Font of Thunder.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The lightning fears not the flame.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

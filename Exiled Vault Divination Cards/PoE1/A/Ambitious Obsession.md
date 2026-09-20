@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Ambitious Obsession.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The most pathetic person in the world is someone who has sight, but no vision.
 
-# Reward
+#
+## Reward
 Skittering Delirium Orb
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Kalguuran Scarab.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Rich veins run deeper still.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/SettlersOfKalguur
 #PoE1

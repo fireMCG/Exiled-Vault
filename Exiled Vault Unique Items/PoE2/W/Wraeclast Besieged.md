@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Wraeclast Besieged.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Wraeclast Besieged.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 In his broken madness, Xesht spills forth the hordes,
 reaching out to wreak pain and ruination.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Breachlord/Xesht
 #Concept/Madness

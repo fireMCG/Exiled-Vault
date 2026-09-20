@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Thaumaturgist.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Mastery of thaumaturgy is like any other pursuit; it requires dedication and sacrifice. Sometimes several sacrifices."
 - Shavronne of Umbra
 
-# Reward
+#
+## Reward
 Shavronne's Revelation
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/Shavronne
 #Concept/Sacrifice

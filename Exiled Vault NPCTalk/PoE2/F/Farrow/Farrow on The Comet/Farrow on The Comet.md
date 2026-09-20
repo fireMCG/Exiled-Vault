@@ -1,4 +1,4 @@
-# Farrow on The Comet
+## Farrow on The Comet
 Farrow: Things really never let up around here, do they? First, a potentially world-ending Cataclysmic event... Now, a giant comet crashes down on our doorstep. Dannig claims it's pure Verisium. The waters out there around it... they've gone really mad.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Comet/Audio/Farrow - S73 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Comet/Audio/Farrow - S73 - L1 - A2.ogg]]
@@ -33,6 +33,6 @@ Farrow: Verisium is a mystery I'm still learning more about. But Dannig is certa
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

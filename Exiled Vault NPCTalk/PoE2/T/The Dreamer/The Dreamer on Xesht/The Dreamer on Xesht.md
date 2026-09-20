@@ -1,4 +1,4 @@
-# The Dreamer on Xesht
+## The Dreamer on Xesht
 Warrior: In destroying this Xesht... will the Hiveborn relent?
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on Xesht/Audio/The Dreamer - S11 - L1 - A1.ogg]]
 Witch: Say I kill this Xesht - will that stop the Hiveborn?
@@ -46,7 +46,7 @@ Marauder: [DNT]
 The Dreamer: Your world will end.
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on Xesht/Audio/The Dreamer - S11 - L25 - A1.ogg]]
 
-# The Dreamer on Xesht
+## The Dreamer on Xesht
 Monk: In killing Xesht, will that be enough to defeat the enemy?
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on Xesht/Audio/The Dreamer - S12 - L1 - A1.ogg]]
 The Dreamer: They are of one mind. One army. One force of will. We must destroy them in their domain. Shatter their very will. Then... I will seek to do what must be done.
@@ -60,6 +60,6 @@ The Dreamer: This world will end.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

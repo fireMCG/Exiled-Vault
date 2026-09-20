@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Blood Thorn.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Blood Thorn.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Touch not the thorn, for only blood and pain await.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

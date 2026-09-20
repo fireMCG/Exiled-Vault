@@ -3,7 +3,7 @@ The weary traveler grows close to the end of the path! The breadbowl of the worl
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Maraketh

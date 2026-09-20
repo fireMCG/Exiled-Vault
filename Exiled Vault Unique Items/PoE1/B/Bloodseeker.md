@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Bloodseeker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Bloodseeker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 For the life of the flesh will always be in the blood.
 - Atalui, Vaal Priestess
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

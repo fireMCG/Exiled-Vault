@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Warped Timepiece.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Warped Timepiece.png]]
 
-# Flavour Text
+#
+## Flavour Text
 As you have lived, so you shall die
 forever trying to keep up with me.
 Your blood on these hands of mine
@@ -8,6 +9,6 @@ forever makes me the public enemy.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

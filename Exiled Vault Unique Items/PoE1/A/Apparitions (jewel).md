@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Apparitions (jewel).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Apparitions (jewel).png]]
 
-# Flavour Text
+#
+## Flavour Text
 When you create life from nothing, sometimes things get a little stuck in between.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Life
 #Concept/Void

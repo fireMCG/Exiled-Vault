@@ -2,7 +2,7 @@ As this titan of Sin rose to its many feet, Innocence knew that the village was 
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/Lore/Environmental
 #Character/God/Innocence

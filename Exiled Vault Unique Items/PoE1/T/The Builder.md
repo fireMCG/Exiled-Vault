@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Builder.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Builder.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "The Shade walked the land with no end in sight,
 no purpose in mind,
 but the one it invented to pass the time."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

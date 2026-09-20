@@ -1,7 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Second Piece of Focus.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Second Piece of Focus.png]]
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

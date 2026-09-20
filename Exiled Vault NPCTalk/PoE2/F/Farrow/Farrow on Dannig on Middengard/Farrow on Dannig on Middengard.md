@@ -1,4 +1,4 @@
-# Farrow on Dannig on Middengard
+## Farrow on Dannig on Middengard
 Farrow: In a further tome I've studied... it mentioned Aldur's death and how it deeply affected Middengard.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Dannig on Middengard/Audio/Farrow - S75 - L1 - A1.ogg]]
 Dannig: It threw our people into disarray. Brothers in arms became brothers at war. It was a pitiful time.
@@ -38,6 +38,6 @@ Marauder: [DNT]
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

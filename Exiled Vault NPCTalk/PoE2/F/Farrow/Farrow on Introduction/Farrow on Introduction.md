@@ -1,9 +1,9 @@
-# Farrow on Introduction
+## Farrow on Introduction
 Farrow: Hard to imagine isn't it? What a bloody state the world is in. I'm here if you need anything.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Introduction/Audio/Farrow - S38 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Introduction/Audio/Farrow - S38 - L1 - A2.ogg]]
 
-# Farrow on Introduction
+## Farrow on Introduction
 Farrow: Name's Farrow. Some call me Runeseeker. But Farrow'll do fine. I'm far from home. But {these} lands are even more... unwelcoming than I expected.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Introduction/Audio/Farrow - S54 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Introduction/Audio/Farrow - S54 - L1 - A2.ogg]]
@@ -71,6 +71,6 @@ Farrow: That's about right. But you'll also reap rewards from the knowledge we u
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Abhorrent Interrogation.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Abhorrent Interrogation.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "We have methods of interrogation the Inquisitors only dream of."
 - Marcus, Brotherhood Liaison
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

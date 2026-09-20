@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Grand Spectrum (Cobalt Jewel, power charge).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Grand Spectrum (Cobalt Jewel, power charge).png]]
 
-# Flavour Text
+#
+## Flavour Text
 A mind that never quiets.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-# Flavour Text
+#
+## Flavour Text
 Vibrant colours dash across the grey,
 
 consuming Man's work.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE1

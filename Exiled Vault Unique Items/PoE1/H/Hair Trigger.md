@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hair Trigger.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hair Trigger.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Anyone can catch a lumbering beast.
 Try catching a bird before it has even landed.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

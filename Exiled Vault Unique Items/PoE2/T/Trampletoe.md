@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Trampletoe.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Trampletoe.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The truly mighty are never outnumbered.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

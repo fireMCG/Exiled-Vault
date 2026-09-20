@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Heartbreaker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Heartbreaker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "There is something incredibly satisfying about impaling test subjects with Ethereal Knives. Perhaps it is the sound - the spell, the screams, or both."
 - Researcher Olesya
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Olesya
 #PoE1

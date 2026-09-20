@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Whispering Ice.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Whispering Ice.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Guard your darkest thoughts well, for they are the cracks through which the Nightmare crawls.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

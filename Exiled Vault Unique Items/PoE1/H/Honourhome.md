@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Honourhome.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Honourhome.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The craven mind is sharp with self interest.
 The honourable mind is much easier to manipulate."
 - Malachai the Soulless
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

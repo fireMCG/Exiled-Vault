@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Wandering Reliquary.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Wandering Reliquary.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Knowing she could outlast any opponent,
 Wrashmin fought not to win, but to delay.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

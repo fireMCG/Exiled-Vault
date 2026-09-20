@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - For Utopia.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - For Utopia.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "It may be centuries hence, but I still hold utmost faith.
 The Savior will rise, and mankind will be free."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

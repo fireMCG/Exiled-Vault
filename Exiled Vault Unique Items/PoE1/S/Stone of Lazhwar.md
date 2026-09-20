@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Stone of Lazhwar.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Stone of Lazhwar.png]]
 
-# Flavour Text
+#
+## Flavour Text
 You are slow, foolish and ignorant.
 I am not.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

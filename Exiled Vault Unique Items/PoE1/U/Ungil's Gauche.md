@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ungil's Gauche.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ungil's Gauche.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Unwieldy and garish became graceful and deadly in Ungil's nimble hands.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

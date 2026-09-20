@@ -1,12 +1,12 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/AlbinoWeta.webp]]
+
+#
 ## Flavour Text
 A blessing upon all those trees touched by the sacred spirit.
 
 #
-![[AlbinoWeta.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Animal/Insect
 #Concept/Colour/White

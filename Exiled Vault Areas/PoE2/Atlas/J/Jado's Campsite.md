@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 A travelling merchant offers wares in perilous times.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2

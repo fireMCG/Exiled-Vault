@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Nascent Hope.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Nascent Hope.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "Even in the face of the Winter of the World, life found a way. The Spirit always provides."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

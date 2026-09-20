@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Megalomaniac.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Megalomaniac.png]]
 
-# Flavour Text
+#
+## Flavour Text
 If you're going to act like you're better than everyone else, make sure you are.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

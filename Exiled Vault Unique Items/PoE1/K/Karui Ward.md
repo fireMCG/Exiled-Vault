@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Karui Ward.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Karui Ward.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Shoot first, ask no questions."
 - Karui wisdom
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,5 +1,7 @@
-![[PoE2 - The Taming.png]]
-# Flavour Text
+![[Exiled Vault Unique Items/_Images/PoE2 - The Taming.png]]
+
+#
+## Flavour Text
 Moon after moon did Berek make fools
 Of the great and Untamed Three
 Until malice for a Brother
@@ -10,7 +12,7 @@ Alone and free."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

@@ -3,6 +3,6 @@ On this day, the eve of this Rapture's completion, I honour those who have passe
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act4

@@ -1,4 +1,4 @@
-# Farrow on Ancient Arsenal
+## Farrow on Ancient Arsenal
 Farrow: The signature seems to be coming from {this} location.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Arsenal/Audio/Farrow - S5 - L1 - A1.ogg]]
 Warrior: The caravan should be able to take us there.
@@ -26,7 +26,7 @@ Templar: [DNT]
 Marauder: [DNT]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Arsenal/Audio/Farrow - S5 - L13 - A1.ogg]]
 
-# Farrow on Ancient Arsenal
+## Farrow on Ancient Arsenal
 Farrow: The signature seems to be coming from {this} location.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Arsenal/Audio/Farrow - S6 - L1 - A1.ogg]]
 Warrior: The caravan should be able to take us there.
@@ -54,7 +54,7 @@ Templar: [DNT]
 Marauder: [DNT]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Arsenal/Audio/Farrow - S6 - L13 - A1.ogg]]
 
-# Farrow on Ancient Arsenal
+## Farrow on Ancient Arsenal
 Farrow: The signature seems to be coming from {this} location.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Arsenal/Audio/Farrow - S7 - L1 - A1.ogg]]
 Warrior: The caravan should be able to take us there.
@@ -84,6 +84,6 @@ Marauder: [DNT]
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

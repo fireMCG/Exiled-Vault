@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Mask of the Stitched Demon.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Mask of the Stitched Demon.png]]
 
-# Flavour Text
+#
+## Flavour Text
 From the flesh of the gods, Xibaqua was born.
 From the carnage of Xibaqua, we were born.
 It is our duty to return to the gods what was once theirs.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Xibaqua
 #Society/VaalEmpire

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Fox's Fortune.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Fox's Fortune.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Follow your most basic instincts.
 The rest will come naturally.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

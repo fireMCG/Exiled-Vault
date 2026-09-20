@@ -1,8 +1,9 @@
+#
 ## Flavour Text
 The ghostly visage of Cadiro glitters in gold.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas/Anomaly 
 #PoE1

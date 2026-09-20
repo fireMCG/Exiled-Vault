@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Perepiteia.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Perepiteia.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Something within the machine never stops moving,
 but Oriathan scholars dare not open it to find out why.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

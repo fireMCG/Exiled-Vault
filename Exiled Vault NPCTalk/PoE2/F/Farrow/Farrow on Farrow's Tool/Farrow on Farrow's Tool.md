@@ -1,4 +1,4 @@
-# Farrow on Farrow's Tool
+## Farrow on Farrow's Tool
 Warrior: Where did you get that tool you carry?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Farrow's Tool/Audio/Farrow - S92 - L1 - A1.ogg]]
 Witch: What is that toy you keep waving around?
@@ -29,7 +29,7 @@ Farrow: Oh, this old thing? I smithed it myself back home. Quite the tool. I can
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Farrow's Tool/Audio/Farrow - S92 - L13 - A3.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Farrow's Tool/Audio/Farrow - S92 - L13 - A4.ogg]]
 
-# Farrow on Farrow's Tool
+## Farrow on Farrow's Tool
 Warrior: Where did you get that tool you carry?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Farrow's Tool/Audio/Farrow - S93 - L1 - A1.ogg]]
 Witch: What is that toy you keep waving around?
@@ -62,6 +62,6 @@ Farrow: Oh, this old thing? I smithed it myself back home. Quite the tool. I can
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

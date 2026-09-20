@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Kaltenhalt.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Kaltenhalt.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Cold, miserable and alone... but alive.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

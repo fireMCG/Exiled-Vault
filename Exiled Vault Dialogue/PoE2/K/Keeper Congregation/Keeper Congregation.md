@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Chayula_DreamersRebirth_B3
 The Dreamer returns.
 ![[Exiled Vault Dialogue/PoE2/K/Keeper Congregation/_Audio/Keeper Congregation - Chayula_DreamersRebirth_B3.ogg]]
@@ -53,6 +54,6 @@ Praise the Dreamer!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

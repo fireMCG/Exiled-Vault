@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Hunter's Reward.png]]
 
-# Flavour Text
+#
+## Flavour Text
 To tame a beast, you first must subdue its heart.
 
-# Reward
+#
+## Reward
 The Taming
 
 #
 ---
-# Tags
+## Tags
 #Concept/Beast
 #Concept/Body/Heart
 #Concept/Hunt

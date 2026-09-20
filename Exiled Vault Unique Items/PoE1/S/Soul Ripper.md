@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Soul Ripper.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Soul Ripper.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "What care have I for their pain? They're already dead."
 - Atalui, Vaal Priestess
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

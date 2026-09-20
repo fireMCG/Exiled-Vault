@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Ambush Scarab of Hidden Compartments.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Beneath the obvious lies the real treasure...
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Ambush
 #PoE1

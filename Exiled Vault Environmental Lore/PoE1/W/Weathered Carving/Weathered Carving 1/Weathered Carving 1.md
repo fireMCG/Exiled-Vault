@@ -3,6 +3,6 @@ Kaom's canoe struck this sand with the force of destiny. At his back, the greate
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

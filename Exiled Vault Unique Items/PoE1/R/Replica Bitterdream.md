@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Bitterdream.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Bitterdream.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Attempt #2520: Been slaving away at this one for longer than I can remember.
 Convinced this assignment is retribution from my superior..."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

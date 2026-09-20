@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Seven Teachings.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Seven Teachings.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Those devoted to the Dreamer pursue
 perfection of the body and the will.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

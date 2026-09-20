@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Growing Agony.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Growing Agony.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Maligaro understood that devotion to science,
 Means devotion to trial and error.
 For Maligaro's errors, death was slow,
@@ -8,6 +9,6 @@ And very painful.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

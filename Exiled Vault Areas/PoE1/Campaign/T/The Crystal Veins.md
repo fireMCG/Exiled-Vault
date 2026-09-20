@@ -1,7 +1,8 @@
-# Flavour Text
+#
+## Flavour Text
 Gifts of the Beast, awaiting plunder.
 
-# Connected Areas
+## Connected Areas
 - The Mines Level 2
 - Kaom's Dream
 - Daresso's Dream
@@ -9,7 +10,7 @@ Gifts of the Beast, awaiting plunder.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1
 #Interesting

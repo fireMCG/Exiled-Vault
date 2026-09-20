@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Lake.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Gaze upon the Lake
 Gaze upon your Reflection
 Your full Potential
 
-# Reward
+#
+## Reward
 Reflecting Mist
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

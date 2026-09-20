@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Witchbane.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Witchbane.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In darkest night, 'neath waxen moon
 A witch snatches a boy from his room.
 He wards off her hexes
@@ -9,6 +10,6 @@ And so becomes part of her stew.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

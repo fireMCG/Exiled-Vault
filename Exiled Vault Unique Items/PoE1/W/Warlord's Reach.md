@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Warlord's Reach.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Warlord's Reach.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A steady hand can hold back an army.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

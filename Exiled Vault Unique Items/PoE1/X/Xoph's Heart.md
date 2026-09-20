@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Xoph's Heart.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Xoph's Heart.png]]
 
-# Flavour Text
+#
+## Flavour Text
 His is our heart.
 To its beat we are all driven.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

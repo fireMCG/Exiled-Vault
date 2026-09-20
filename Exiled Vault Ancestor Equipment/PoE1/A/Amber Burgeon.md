@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/EmberChoker.webp]]
+
 [[Tawhoa Tribe]]
 
+#
 #
 ## Flavour Text
 Though you might not see it, the forest is always growing.
 
 #
-![[EmberChoker.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

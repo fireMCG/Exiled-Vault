@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Deidbell.webp]]
+![[PoE2 - Legacy of Deidbell.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Helmets: Warcries Explode Corpses dealing 10% of their Life as Physical Damage
-
-# Bonded Effects
-- Helmets: Warcry Skills have 20% increased Area of Effect
+#
+## Flavour Text
+"Curious lot, those monks. Kept to their
+own, mostly. But when the call came to
+rebel, they were there, alongside us."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

@@ -3,6 +3,6 @@ An emperor cannot allow himself to become buried in the shadowed vaults of self-
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

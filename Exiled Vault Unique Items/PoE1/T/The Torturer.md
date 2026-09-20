@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Torturer.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Torturer.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Torture something enough, and you just might force a reaction.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

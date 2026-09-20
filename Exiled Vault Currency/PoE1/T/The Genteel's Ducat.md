@@ -7,7 +7,7 @@ He climbed the ranks with calculated savagery like Pondium had never seen.
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/CurseOfTheAllflame
 #PoE1

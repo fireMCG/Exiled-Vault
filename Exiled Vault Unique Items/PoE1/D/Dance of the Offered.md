@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Dance of the Offered.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Dance of the Offered.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Facing their death,
 the mind of a sacrifice
 retreats into instinct and madness.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

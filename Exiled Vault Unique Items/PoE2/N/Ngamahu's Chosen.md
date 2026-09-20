@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Ngamahu's Chosen.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Ngamahu's Chosen.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Kaom was not known for his restraint.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

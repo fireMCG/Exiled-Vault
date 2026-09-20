@@ -1,19 +1,18 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Berek's Respite.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Berek's Respite.png]]
 
-# Flavour Text
+#
+## Flavour Text
 With Flame licking at his heels
 Berek berated the clouds
 Until vengeful Storm spewed forth his rains
 And Berek held on tight
 As Fire screamed and steamed
 And fled.
-
-# Source
-Berek and the Untamed
+- Berek and the Untamed
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Unknown/Berek
 #Concept/Element/Fire

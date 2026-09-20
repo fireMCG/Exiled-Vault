@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Tumbleweed.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Love is the only redemption after succumbing to the grasps of the Wasteland.
 
-# Reward
+#
+## Reward
 Diamond Ring of Redemption
 Item Level: 100
 Redeemer Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

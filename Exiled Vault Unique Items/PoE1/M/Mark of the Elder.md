@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mark of the Elder.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mark of the Elder.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Be not stirred by the Void.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

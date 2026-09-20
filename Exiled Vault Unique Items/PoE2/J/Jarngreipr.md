@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Jarngreipr.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Jarngreipr.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The whispers of the old gods hum through the iron. They demand a hero.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ancient Skull.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ancient Skull.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Primordial rage slumbers, waiting for the call of the stars to return and swallow the world.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Hunger
 #Concept/Primordial

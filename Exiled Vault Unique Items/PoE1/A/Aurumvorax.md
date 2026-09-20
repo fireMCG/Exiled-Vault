@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Aurumvorax.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Aurumvorax.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Many a collector of rarities discovered to his dismay that the intelligent spirit in this sword does not like to share its master's attention
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Master
 #Concept/Spirit

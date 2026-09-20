@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Ironbound.webp]]
+![[PoE2 - Legacy of Ironbound.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Bows: Hits with this weapon have 1 to 3 Added Physical Damage per 1% Block Chance
-
-# Bonded Effects
-- Bows: 3% increased Block chance per 100 total Item Armour on Equipped Armour Items
+#
+## Flavour Text
+"The clans. Ah, the clans... we are a rowdy lot.
+Unified, at times. A bloody mess, others. There
+are many stories we tell only in jest, now."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

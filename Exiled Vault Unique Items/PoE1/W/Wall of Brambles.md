@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Wall of Brambles.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Wall of Brambles.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There is no wall thicker or stronger than fear.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

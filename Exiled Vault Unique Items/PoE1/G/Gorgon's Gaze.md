@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Gorgon's Gaze.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Gorgon's Gaze.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Men always fell for her honeyed eyes,
 and broke when they hit the ground.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

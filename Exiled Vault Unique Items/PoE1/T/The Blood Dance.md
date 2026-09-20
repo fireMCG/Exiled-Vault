@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Blood Dance.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Blood Dance.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Sharks thrash and swirl
 To the pounding drum of their frenzied hearts
 As they dance in the waters red."
@@ -8,6 +9,6 @@ As they dance in the waters red."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

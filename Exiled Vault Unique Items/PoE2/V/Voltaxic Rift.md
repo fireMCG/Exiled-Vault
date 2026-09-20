@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Voltaxic Rift.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Voltaxic Rift.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The eldritch storm descended upon us, and bruised lightning rained down.
 Metal withered and flesh melted before its arcane power.
 There was no escape, no shelter. Only despair.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Body/Flesh
 #Concept/Element/Lightning

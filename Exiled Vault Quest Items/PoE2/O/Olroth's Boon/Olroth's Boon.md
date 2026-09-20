@@ -1,10 +1,13 @@
-# Flavour Text
+![[Exiled Vault Quest Items/_Images/PoE2 - Olroth's Boon.png]]
+
+#
+## Flavour Text
 For leading the expedition in search of that crimson omen,
 Cadigan III gifted Olroth a royal boon of power. Should he
 succeed, the Knights of the Sun would be forever lauded.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE2

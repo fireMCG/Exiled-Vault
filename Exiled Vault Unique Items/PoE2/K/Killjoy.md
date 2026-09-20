@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Killjoy.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Killjoy.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Stitches? Wouldn't that defeat the purpose?"
 - Jeffry, Torturer's Apprentice
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

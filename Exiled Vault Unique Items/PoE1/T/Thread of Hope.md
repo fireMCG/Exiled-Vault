@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Thread of Hope.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Thread of Hope.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Though we cannot touch; one thought, one wish, through centuries alone in darkness.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

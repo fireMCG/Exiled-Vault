@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Assailum.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Assailum.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A moment of calm before the battle can end the war.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Delirium
 #Concept/War

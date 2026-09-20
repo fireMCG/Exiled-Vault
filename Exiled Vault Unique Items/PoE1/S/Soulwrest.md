@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Soulwrest.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Soulwrest.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Death is but the start of your servitude.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

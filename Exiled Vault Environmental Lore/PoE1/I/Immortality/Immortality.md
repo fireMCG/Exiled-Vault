@@ -3,6 +3,6 @@ Knowledge is a far greater power than gold, for money cannot buy eternity.
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Ultimatum Scarab.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A challenge may be requested at any time.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1
 #Society/VaalEmpire

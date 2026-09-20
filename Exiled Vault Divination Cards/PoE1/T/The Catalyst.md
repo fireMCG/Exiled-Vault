@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Catalyst.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Simple actions can lead the world to an early grave.
 
-# Reward
+#
+## Reward
 Vaal Orb
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/World
 #Society/VaalEmpire

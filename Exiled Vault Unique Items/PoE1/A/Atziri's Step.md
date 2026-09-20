@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Atziri's Step.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Atziri's Step.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Those who dance are considered insane by those who cannot hear the music."
 - Atziri, Queen of the Vaal
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Atziri
 #Concept/Dance

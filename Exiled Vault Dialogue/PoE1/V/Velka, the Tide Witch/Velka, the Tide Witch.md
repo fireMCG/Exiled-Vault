@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Velka_Taunt
 Brines drown you! Soon, we shall own the seas once more!
 
@@ -232,6 +233,6 @@ Val shoulda just {asked}. Brinerot code. I'da shared.
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE1

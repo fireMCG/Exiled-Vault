@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Mercenary.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Loyalty can be bought. Just make sure you know who the buyer is.
 
-# Reward
+#
+## Reward
 Shield
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

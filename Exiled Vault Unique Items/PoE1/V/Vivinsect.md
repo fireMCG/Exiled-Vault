@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Vivinsect.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Vivinsect.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Fusing the parasite with another ring has manifested unpredictable effects.
 I theorise the sacrificial vessel's level of anguish is a key variable.
 - Arzaak, Syndicate Researcher
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

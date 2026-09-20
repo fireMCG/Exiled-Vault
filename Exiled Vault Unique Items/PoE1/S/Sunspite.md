@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Sunspite.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Sunspite.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Burning goddess, shine so bright.
 Set the world 'fore you alight.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

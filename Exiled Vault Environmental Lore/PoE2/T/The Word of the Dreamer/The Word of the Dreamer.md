@@ -1,4 +1,5 @@
-# Lore
+## Lore
+
 #### Visions I, 40: Birth
 I walked alongside a hooded figure, picking our way along a high ridge. He pointed to the stinking valley below, where vast ribs pulsed with the beat of a mountainous heart. He asked me what I saw. I told him that I saw half of a body, of sorts. Exposed to the elements. Both terrifying, yet vulnerable. He nodded. The Mother births flesh, but flesh is weak. It can be burned. Seared away. She wants her children to remain one with her, but children must leave home to thrive. The Dreamer once knew her, before the nightmare she became, but that is only a memory of sorrow. She will try to take our flesh, he warned. We must not let her.
 ![[Exiled Vault Environmental Lore/PoE2/T/The Word of the Dreamer/_Audio/The Word of the Dreamer - Visions I, 40_ Birth.ogg]]
@@ -21,6 +22,6 @@ Weary now, the Dreamer bade me sit beside him. We had come full circle in my nig
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental 
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Kalisa's Grace.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Kalisa's Grace.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "You shall hang, in blissful agony, on my every note."
 - Kalisa, Prima Donna of Sarn
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,11 +1,12 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Inya's Key.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The Infinite Mind, unbound by the tethers of sanity,
 whose thirst for knowledge is all-consuming,
 whose every word stands our hair on end.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 10
 Portal: NULL
@@ -14,7 +15,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1
 #Interesting 

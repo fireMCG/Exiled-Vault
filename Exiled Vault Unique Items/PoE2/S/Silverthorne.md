@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Silverthorne.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Silverthorne.png]]
 
-# Flavour Text
+#
+## Flavour Text
 As a boy, in the arena, Daresso learned to
 feign weakness to open up a lethal blow.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

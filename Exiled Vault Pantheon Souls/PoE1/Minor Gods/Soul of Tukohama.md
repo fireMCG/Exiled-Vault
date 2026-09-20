@@ -1,9 +1,9 @@
+![[FatherOfWarIcon.webp]]
+
 
 ![[Soul of Tahsin, Warmaker#Soul of Tahsin, Warmaker]]
 
 #
-![[FatherOfWarIcon.webp]]
-
 ---
 ## Tags
 #Character/Hikatomanga

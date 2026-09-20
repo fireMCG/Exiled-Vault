@@ -3,6 +3,6 @@ The previous King of Swords was a giant of a man, both faster and stronger than 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

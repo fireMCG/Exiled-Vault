@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Betrayal Scarab.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The Syndicate must pay for what they have done.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Betrayal
 #PoE1

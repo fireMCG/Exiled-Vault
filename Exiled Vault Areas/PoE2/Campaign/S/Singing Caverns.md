@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 A song so exquisite it can only be heard once.
 
-# Connected Areas
+## Connected Areas
 - Whakapanu Island
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

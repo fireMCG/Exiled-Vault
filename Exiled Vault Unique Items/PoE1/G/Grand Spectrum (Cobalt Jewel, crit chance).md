@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Grand Spectrum (Cobalt Jewel, crit chance).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Grand Spectrum (Cobalt Jewel, crit chance).png]]
 
-# Flavour Text
+#
+## Flavour Text
 Thoughts that shimmer like light across the rain.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

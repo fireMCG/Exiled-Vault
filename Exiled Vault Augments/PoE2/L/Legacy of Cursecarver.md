@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Cursecarver.webp]]
+![[PoE2 - Legacy of Cursecarver.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Wands: +3 to Level of all Curse Skills
-
-# Bonded Effects
-- Wands: 35% increased Mana Regeneration Rate
+#
+## Flavour Text
+"The songs become... unclear on that long night.
+Selassie of the Black Fen is described as a 'hag,'
+but Erian did not seem to regret his time there..."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

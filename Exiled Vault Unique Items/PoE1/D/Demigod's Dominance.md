@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Demigod's Dominance.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Demigod's Dominance.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The victorious know only leadership,
 the rest only servitude.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

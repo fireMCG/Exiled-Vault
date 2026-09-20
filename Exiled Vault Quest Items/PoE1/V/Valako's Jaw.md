@@ -1,12 +1,13 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Valako's Jaw.png]]
 
-# Flavour Text
+#
+## Flavour Text
 One day you eat the fish. One day you feed the fish."
  - Karui Proverb
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Character/God/Valako
 #Concept/Animal/Fish

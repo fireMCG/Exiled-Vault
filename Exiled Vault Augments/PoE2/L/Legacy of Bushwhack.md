@@ -1,17 +1,12 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Bushwhack.webp]]
+![[PoE2 - Legacy of Bushwhack.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Boots: Physical Damage is Pinning
-
-# Bonded Effects
-- Boots: +20 to Dexterity
+#
+## Flavour Text
+Survival in the Vastiri was harsh and unforgiving,
+but lizard meat was surprisingly tasty.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

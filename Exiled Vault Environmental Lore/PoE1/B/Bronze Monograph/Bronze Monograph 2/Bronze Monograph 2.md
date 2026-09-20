@@ -3,6 +3,6 @@ The path to Justice is slender and perfidious, fraught with missteps of ambition
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

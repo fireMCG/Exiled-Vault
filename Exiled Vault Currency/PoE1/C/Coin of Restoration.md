@@ -7,7 +7,7 @@ restore that which is now mine!"
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/Mirage
 #PoE1

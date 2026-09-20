@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Cyclopean Coil.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Cyclopean Coil.png]]
 
-# Flavour Text
+#
+## Flavour Text
 With the patience of a prowling lion, the Shade watched the Scholar.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

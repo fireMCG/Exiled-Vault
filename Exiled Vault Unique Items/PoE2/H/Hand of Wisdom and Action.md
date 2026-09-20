@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Hand of Wisdom and Action.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Hand of Wisdom and Action.png]]
 
-# Flavour Text
+#
+## Flavour Text
 She thinks and we act.
 She acts and we think.
 Fragments of the whole that washes clean the skies.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Gluttonous Tide.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Gluttonous Tide.png]]
 
-# Flavour Text
+#
+## Flavour Text
 To eat, to feast, to forget the horror of endless agonizing existence
 if but for a moment... only to disgorge and do it all again...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/EaterOfWorlds
 #Concept/Time/Eternity

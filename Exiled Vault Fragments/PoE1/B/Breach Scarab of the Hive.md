@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Breach Scarab of the Hive.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Their kingdoms always seek expansion.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,6 +14,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

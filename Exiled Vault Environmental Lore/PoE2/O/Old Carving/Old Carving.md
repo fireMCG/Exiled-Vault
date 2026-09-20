@@ -3,7 +3,7 @@ The promised land is bountiful, a blissful place overflowing with potential. My 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/VaalEmpire

@@ -2,6 +2,6 @@ O' Lord of Salt and Scale, your servants attend to thee. Praise thee Tsoagoth! W
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act6

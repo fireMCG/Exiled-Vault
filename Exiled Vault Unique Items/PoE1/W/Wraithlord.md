@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Wraithlord.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Wraithlord.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Countless men proclaimed themselves the masters of death,
 and each one succumbed to it.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

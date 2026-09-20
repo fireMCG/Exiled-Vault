@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Winter's Bite.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Winter's Bite.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Nothing stabs colder than pure hatred.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

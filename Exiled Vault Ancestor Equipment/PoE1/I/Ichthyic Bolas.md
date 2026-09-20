@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/FishBolaCharm.webp]]
+
 [[Tasalio Tribe]]
 
+#
 #
 ## Flavour Text
 Hunters of the Tasalio Tribe are just as effective on land.
 
 #
-![[FishBolaCharm.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

@@ -3,7 +3,7 @@ The High Templar grows increasingly cruel with me. Venarius suspects my involvem
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/Lore/Environmental
 #PoE1

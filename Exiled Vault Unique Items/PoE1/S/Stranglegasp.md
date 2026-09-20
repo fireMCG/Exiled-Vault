@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Stranglegasp.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Stranglegasp.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Death's approach brings clarity.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

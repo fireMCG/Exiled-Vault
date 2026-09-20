@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Restless Ward.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Restless Ward.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Use the dead to stave off death,
 An armour of bones and rot.
 Hanging on with bated breath,
@@ -8,6 +9,6 @@ One lapse and all for naught.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Piscator's Vigil.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Piscator's Vigil.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Stone still, amidst the reeds,
 breath fogging in the iron cold air.
 he sits, he waits, he watches.
@@ -10,6 +11,6 @@ his cathedral, his patience his unanswered prayer."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

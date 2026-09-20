@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Voidhome.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Voidhome.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Cursed is the star whence it came.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

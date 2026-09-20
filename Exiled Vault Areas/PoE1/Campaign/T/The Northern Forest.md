@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 Daylight is the exile here.
 
-# Connected Areas
+## Connected Areas
 - The Vaal Ruins
 - The Dread Thicket
 - The Caverns
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

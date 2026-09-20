@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 A rare chance to strike back at the horde...
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2

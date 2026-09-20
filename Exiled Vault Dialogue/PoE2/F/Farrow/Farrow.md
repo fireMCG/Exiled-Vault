@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Farrow_Intro_Wild_Marauder_Warrior
 Big fella! Over here!
 ![[Exiled Vault Dialogue/PoE2/F/Farrow/_Audio/Farrow - Farrow_Intro_Wild_Marauder_Warrior.ogg]]
@@ -556,6 +557,6 @@ I didn't really like it anyway...
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

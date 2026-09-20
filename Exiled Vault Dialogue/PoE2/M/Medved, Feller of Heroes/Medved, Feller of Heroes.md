@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Expedition_Medved_AxeThrow_Random
 Execution!
 ![[Exiled Vault Dialogue/PoE2/M/Medved, Feller of Heroes/_Audio/Medved, Feller of Heroes - Expedition_Medved_AxeThrow_Random.ogg]]
@@ -77,6 +78,6 @@ Remnants of the past!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

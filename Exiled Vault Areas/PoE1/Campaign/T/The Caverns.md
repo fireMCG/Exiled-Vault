@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Two thousand years of regret.
 
-# Connected Areas
+## Connected Areas
 - The Northern Forest
 - The Ancient Pyramid
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

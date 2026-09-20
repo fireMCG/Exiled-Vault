@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Pariah.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Pariah.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A man who changes his loyalties often,
 soon finds he has none.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

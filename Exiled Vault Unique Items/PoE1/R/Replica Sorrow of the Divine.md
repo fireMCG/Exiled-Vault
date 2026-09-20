@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Sorrow of the Divine.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Sorrow of the Divine.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Success! Prototype #54 has tapped into that sliver of divinity that exists within.
 Faith fuels the flesh, and the flesh fuels the fire..."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Body/Flesh
 #Concept/Element/Fire

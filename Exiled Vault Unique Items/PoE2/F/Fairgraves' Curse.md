@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Fairgraves' Curse.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Fairgraves' Curse.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The power of the Allflame rends souls just as easily as flesh.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

@@ -3,7 +3,7 @@ Let slip the chains of mercy! The era of the Mighty has begun! Let each man and 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Karui

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Warrior's Legacy.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Warrior's Legacy.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Make your mark on history
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

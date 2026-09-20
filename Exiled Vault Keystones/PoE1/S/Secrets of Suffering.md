@@ -1,9 +1,11 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Secrets of Suffering.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Even within the realm of torture, there are subtle intricacies.
 
-# Effects
+#
+## Effects
 Cannot Ignite, Chill, Freeze or Shock
 Critical Strikes inflict Scorch, Brittle and Sapped
 (Scorched Enemies have their Elemental Resistances lowered by up to 30%, based on the Fire Damage of the Hit, for 4 seconds)
@@ -12,7 +14,7 @@ Critical Strikes inflict Scorch, Brittle and Sapped
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE1

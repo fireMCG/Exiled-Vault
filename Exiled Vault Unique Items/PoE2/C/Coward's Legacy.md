@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Coward's Legacy.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Coward's Legacy.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Death is your most important duty.
 Face it, or curse your bloodline for all eternity.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

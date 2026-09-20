@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Fevered Mind.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Fevered Mind.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In sickness, the insane becomes sane.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

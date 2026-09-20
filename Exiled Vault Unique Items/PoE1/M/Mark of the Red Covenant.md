@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mark of the Red Covenant.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mark of the Red Covenant.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Gleeful are the few
 who bask in the blood of many.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

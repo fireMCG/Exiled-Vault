@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Dark Dreams.png]]
 
-# Flavour Text
+#
+## Flavour Text
 No one ever truly understood what she meant when she said she wanted to raise a family.
 
-# Reward
+#
+## Reward
 Bone Helmet
 Elder Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Body/Bone
 #Concept/Darkness

@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Summoner.png]]
 
-# Flavour Text
+#
+## Flavour Text
 To own a piece of the Nightmare, you must first belong to the Nightmare.
 
-# Reward
+#
+## Reward
 Minion Gem
 Quality: +20%
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Necromancy
 #Concept/Night/Nightmare

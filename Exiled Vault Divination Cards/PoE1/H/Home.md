@@ -1,6 +1,7 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Home.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There are countless people,
 countless stories,
 and countless eras,
@@ -9,13 +10,14 @@ for a time, each of us loved
 and was loved. It matters.
 We matter.
 
-# Reward
+#
+## Reward
 Empower, Enhance or Enlighten
 Quality: +1-20%
 
 #
 ---
-# Tags
+## Tags
 #Concept/Emotion/Love
 #Concept/Virtue
 #Category/DivinationCard

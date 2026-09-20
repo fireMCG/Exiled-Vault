@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Kikazaru.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Kikazaru.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Hear no evil.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

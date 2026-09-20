@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Cracklecreep.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Cracklecreep.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Fear the fire that spreads like a plague.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

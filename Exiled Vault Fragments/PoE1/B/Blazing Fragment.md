@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Blazing Fragment.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Constellations are systematically incinerated in the wake of an ever-expanding archive of minds.
 
-# Details
+## Details
 Map Fragments
 Portal: Absence of Patience and Wisdom
 Area Level: 85
@@ -14,7 +15,7 @@ Use four of these in a personal Map Device to open Portals to The Absence of Pat
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #Character/Eldritch/SearingExarch
 #Concept/Cleansing

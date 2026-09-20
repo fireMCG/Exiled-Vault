@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Quill Rain.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Quill Rain.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The rain of a thousand quills that whittle present into past, life into death."
 - Rigwald of the Ezomytes
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

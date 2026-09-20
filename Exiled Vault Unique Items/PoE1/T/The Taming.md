@@ -1,19 +1,18 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Taming.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Taming.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Moon after moon did Berek make fools
 Of the great and Untamed Three
 Until malice for a Brother
 Slew the hatred of the Other
 And Berek did hunt
 Alone and free.
-
-# Source
-Berek and the Untamed
+- Berek and the Untamed
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #League/Domination
 #League/Nemesis

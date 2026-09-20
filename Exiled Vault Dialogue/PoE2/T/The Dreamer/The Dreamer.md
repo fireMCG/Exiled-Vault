@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Chayula_DreamersRebirth_A3
 I... return.
 ![[Exiled Vault Dialogue/PoE2/T/The Dreamer/_Audio/The Dreamer - Chayula_DreamersRebirth_A3.ogg]]
@@ -177,6 +178,6 @@ His progeny rose from mire, filth and depravity, becoming a staple brood for the
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

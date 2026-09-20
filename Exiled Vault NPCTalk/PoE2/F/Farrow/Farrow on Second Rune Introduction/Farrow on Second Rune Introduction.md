@@ -1,4 +1,4 @@
-# Farrow on Second Rune Introduction
+## Farrow on Second Rune Introduction
 Farrow: My tool is lighting up good and proper here. Go on. See if you can find the source.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Second Rune Introduction/Audio/Farrow - S111 - L1 - A1.ogg]]
 Warrior: I'll see what I can do.
@@ -30,7 +30,7 @@ Farrow: You're quite the character, you know. Endearing, actually.
 Witch: What? Don't... say that again.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Second Rune Introduction/Audio/Farrow - S111 - L15 - A1.ogg]]
 
-# Farrow on Second Rune Introduction
+## Farrow on Second Rune Introduction
 Farrow: My tool is lighting up good and proper here. Go on. See if you can find the source.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Second Rune Introduction/Audio/Farrow - S112 - L1 - A1.ogg]]
 Warrior: I'll see what I can do.
@@ -64,6 +64,6 @@ Witch: What? Don't... say that again.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Zerphi's Serape.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Zerphi's Serape.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Mortality is a curse.
 The cure is simple.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Curse
 #Concept/Life/Mortality

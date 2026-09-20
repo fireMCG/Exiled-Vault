@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Whispering Ice.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Whispering Ice.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "From what beast you derived, we can only fathom.
 Aye, you of living ice, rotting gill, and untold nightmare!
 We Brinerot return ye to the sea."
@@ -8,6 +9,6 @@ We Brinerot return ye to the sea."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

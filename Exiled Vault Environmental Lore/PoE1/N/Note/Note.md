@@ -2,6 +2,6 @@ Captain Vincenti, The Highgate holds the secret to the true origin of the gems. 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act4

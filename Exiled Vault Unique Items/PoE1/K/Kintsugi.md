@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Kintsugi.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Kintsugi.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Do not hide your flaws, your cracks,
 mend them, and display them proudly.
 For it is these that set us apart.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Kitava's Teachings.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Kitava's Teachings.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Savour the bitter, cherish the sweet,
 For there may never be another chance to eat.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

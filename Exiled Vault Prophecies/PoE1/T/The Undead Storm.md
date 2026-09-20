@@ -1,13 +1,16 @@
-# Flavour Text
+![[Prophecy_inventory_icon.png]]
+
+#
+## Flavour Text
 Bones fall from the sky and take the shape of the men they once were.
-# Prophecy
+
+## Prophecy
 You will discover an area with a Morbid Tempest.
-# Reward
+
+## Reward
 Areas with this prophecy active have 30% increased item quantity and rarity.
 
 #
-![[Prophecy_inventory_icon.png]]
-
 #
 ---
 ## Tags

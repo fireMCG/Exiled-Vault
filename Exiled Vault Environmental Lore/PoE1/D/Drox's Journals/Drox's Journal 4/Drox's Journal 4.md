@@ -3,6 +3,6 @@ The people hail their king! They cheer for the awe and power of my reign as I fe
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

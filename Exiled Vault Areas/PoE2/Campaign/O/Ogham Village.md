@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Madness boils over into fire and death.
 
-# Connected Areas
+## Connected Areas
 - Ogham Farmlands
 - The Manor Ramparts
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

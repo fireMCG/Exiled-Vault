@@ -1,10 +1,11 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Pile of Inexplicable Junk.png]]
 
-# Flavour Text
+#
+## Flavour Text
 My inventions, my babies, deserve to be in better hands!
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE1

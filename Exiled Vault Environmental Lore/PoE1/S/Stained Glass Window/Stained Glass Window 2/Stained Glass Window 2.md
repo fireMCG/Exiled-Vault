@@ -2,7 +2,7 @@ Innocence lived with an honest and pure heart, never straying from his mother's 
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/Lore/Environmental
 #Character/God/Innocence

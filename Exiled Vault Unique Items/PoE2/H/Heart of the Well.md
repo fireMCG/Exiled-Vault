@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Heart of the Well.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Heart of the Well.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Countless souls scream in agonising harmony, forever sinking under the weight of the newly dead.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

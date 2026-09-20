@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Tinkerskin.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Tinkerskin.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Thin is the line between mechanical genius and magic.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

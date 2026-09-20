@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Gloamgown.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Gloamgown.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The tale-women of old knew how to build anticipation.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

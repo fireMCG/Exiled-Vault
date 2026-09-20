@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Anticipation.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Anticipation.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We are within her reach,
 and when the time is right,
 she will reach into us.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

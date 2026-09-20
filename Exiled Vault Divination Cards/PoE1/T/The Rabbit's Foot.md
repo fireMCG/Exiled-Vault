@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Rabbit's Foot.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It is said anyone who bears this trinket is the luckiest exile in all of Wraeclast. The gods would disagree, and forever curse any whom give it away.
 
-# Reward
+#
+## Reward
 10x Incursion Vial
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Animal/Rabbit
 #Concept/Curse

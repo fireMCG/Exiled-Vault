@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 A wound carved into the world, never to heal.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2

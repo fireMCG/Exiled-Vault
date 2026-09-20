@@ -1,4 +1,4 @@
-# The Dreamer on The Tireless Horde
+## The Dreamer on The Tireless Horde
 Monk: What drives them toward you so tirelessly? Toward us all?
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on The Tireless Horde/Audio/The Dreamer - S14 - L1 - A1.ogg]]
 The Dreamer: Xoph, Esh, Tul and Uul-Netol.... Our melding failed and I was torn asunder. Cast into the void between worlds. But they... became Xesht. They will not rest until they subsume me.
@@ -14,6 +14,6 @@ The Dreamer: Once they may have... but now they see nothing. Blind in their hung
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

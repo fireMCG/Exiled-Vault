@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mutated Growth.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mutated Growth.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Few living things survived the cleansing flames.
 Those that did thrived...
 And changed...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 To remember the dead, they built monuments the sand could never steal.
 
-# Connected Areas
+## Connected Areas
 - The Ardura Caravan
 - Path of Mourning
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

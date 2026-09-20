@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Shavronne's Wrappings.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Shavronne's Wrappings.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Shavronne's apparel became ever more extravagant
 as her body and soul became ever more corrupted.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

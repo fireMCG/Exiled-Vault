@@ -3,7 +3,7 @@ I've watched those I work with and those I love fall into madness in the Atlas. 
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/Lore/Environmental
 #PoE1

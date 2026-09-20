@@ -2,6 +2,6 @@ By command of fallen blood, leave your habitat and fill the cup of Tukohama. Cle
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act6

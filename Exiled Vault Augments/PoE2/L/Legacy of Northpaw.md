@@ -1,17 +1,12 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Northpaw.webp]]
+![[PoE2 - Legacy of Northpaw.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Gloves: Base Critical Hit Chance for Attacks with Weapons is 7%
-
-# Bonded Effects
-- Gloves: 15% increased Critical Damage Bonus
+#
+## Flavour Text
+High Druid Iaine was never able to change
+his shape. That never held him back.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

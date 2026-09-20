@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Demigod's Bounty.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Demigod's Bounty.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The bindings of the victorious
 wrap around the throats of the defeated.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -2,7 +2,7 @@ As our Queen's body was reborn, so too was her mind. Awash with visions of futur
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #Character/God/Arakaali
 #PoE1/Act7

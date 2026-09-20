@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Foxshade.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Foxshade.png]]
 
-# Flavour Text
+#
+## Flavour Text
 To catch an animal, think like an animal.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

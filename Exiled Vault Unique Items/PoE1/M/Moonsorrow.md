@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Moonsorrow.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Moonsorrow.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Cast into darkness
 And trapped for a thousand years,
 The lonely moon weeps
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

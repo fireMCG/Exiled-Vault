@@ -4,6 +4,6 @@ The Faridun have assembled a tremendous Dreadnought, a war caravan larger than w
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

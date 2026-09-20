@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Ultimatum Scarab of Bribing.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A trial is only as incorruptible as its judge.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #Interesting
 #PoE1

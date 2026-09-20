@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Frostferno.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Frostferno.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Embrace your burning ambition.
 Embrace your frozen heart.
 You will be transformed.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

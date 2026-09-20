@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Hammer of Faith.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Hammer of Faith.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The secret Order endured by publicly
 praying however the Templars demanded.
 One day, justice would fall upon them...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

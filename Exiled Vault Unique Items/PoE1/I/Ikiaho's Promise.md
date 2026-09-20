@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ikiaho's Promise.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ikiaho's Promise.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Even the loneliest of souls can aid a friend in times of darkness.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

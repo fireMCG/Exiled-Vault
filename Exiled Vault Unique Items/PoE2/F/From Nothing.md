@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - From Nothing.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - From Nothing.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 They clawed their way up from the agonising depths of nonexistence,
 breathing deep with joy the exquisite light of meaning.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

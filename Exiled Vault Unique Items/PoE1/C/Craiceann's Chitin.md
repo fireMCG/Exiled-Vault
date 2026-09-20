@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Craiceann's Chitin.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Craiceann's Chitin.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When the rains come, we cower beneath shelter.
 The First of the Deep teaches us that we should seek no shelter but ourselves.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

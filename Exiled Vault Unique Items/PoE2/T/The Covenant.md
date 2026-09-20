@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Covenant.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Covenant.png]]
 
-# Flavour Text
+#
+## Flavour Text
 My Soul is your Strength
 My Price is your Blood
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

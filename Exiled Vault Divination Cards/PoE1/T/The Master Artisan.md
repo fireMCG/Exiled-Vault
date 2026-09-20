@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Master Artisan.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Perfection is the standard, excellence will be handled on a case by case basis.
 
-# Reward
+#
+## Reward
 20x Quality Currency
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

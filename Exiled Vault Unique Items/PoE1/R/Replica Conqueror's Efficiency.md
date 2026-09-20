@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Conqueror's Efficiency.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Conqueror's Efficiency.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The effect is subtle, but potentially lethal..."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

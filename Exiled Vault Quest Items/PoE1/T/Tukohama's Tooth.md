@@ -1,12 +1,13 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Tukohama's Tooth.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The belly cannot hunger for what the eyes cannot see."
  - Karui Proverb
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Character/God/Tukohama
 #PoE1

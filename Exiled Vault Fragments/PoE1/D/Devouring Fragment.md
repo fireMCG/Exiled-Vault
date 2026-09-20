@@ -1,10 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Devouring Fragment.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 At the core of the mass, a fierce hunger seethes,
 as the Tangle's champion devours a myriad of worlds...
 
-# Details
+## Details
 Map Fragments
 Portal: Absence of Symmetry and Harmony
 Area Level: 85
@@ -15,7 +16,7 @@ Use four of these in a personal Map Device to open Portals to The Absence of Sym
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #Character/Eldritch/EaterOfWorlds
 #Concept/Tangle

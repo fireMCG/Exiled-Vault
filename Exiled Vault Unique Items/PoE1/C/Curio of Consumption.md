@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Curio of Consumption.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Curio of Consumption.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When hunger can never be satiated, the act of eating becomes the only solace.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/EaterOfWorlds
 #Concept/Hunger

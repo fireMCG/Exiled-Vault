@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Corrupted Energy.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Corrupted Energy.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Nothing is immune to the Nightmare's twisted influence.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

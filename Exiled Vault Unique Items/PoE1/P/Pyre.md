@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Pyre.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Pyre.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Let winter come. It will only make my fire burn brighter.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

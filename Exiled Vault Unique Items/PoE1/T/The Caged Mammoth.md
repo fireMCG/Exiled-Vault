@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Caged Mammoth.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Caged Mammoth.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Cyclops of Trarthus became the star
 of the Oriath Arena, but he was merely
 biding his time, waiting for his chance...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Sundance.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Sundance.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Blazing body, shining bold.
 Dance beneath the orb of gold!
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

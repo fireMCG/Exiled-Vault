@@ -1,9 +1,10 @@
-# Flavour Text
+#
+## Flavour Text
 A sliver of his wrath, a bodiless roar...
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1
 #Interesting

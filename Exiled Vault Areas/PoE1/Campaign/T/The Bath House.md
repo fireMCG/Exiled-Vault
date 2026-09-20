@@ -1,7 +1,8 @@
-# Flavour Text
+#
+## Flavour Text
 Hidden sin where revelry thrives.
 
-# Connected Areas
+## Connected Areas
 - The Grand Promenade
 - The Lunaris Concourse
 - The High Gardens
@@ -9,6 +10,6 @@ Hidden sin where revelry thrives.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Brawn.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Brawn.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Take your time, make all your plans.
 Then tell me which plan pulls my axe from your ribs.
 - Barkhul, the Butcher
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

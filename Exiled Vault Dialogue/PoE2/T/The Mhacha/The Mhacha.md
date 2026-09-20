@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### TheMhacha_Glyph_01
 I am the Mhacha. The kindness. The earth itself. I am the gift that surrounds and protects every Maji.
 ![[Exiled Vault Dialogue/PoE2/T/The Mhacha/_Audio/The Mhacha - TheMhacha_Glyph_01.ogg]]
@@ -77,6 +78,6 @@ The Draíocht come to your aid...
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

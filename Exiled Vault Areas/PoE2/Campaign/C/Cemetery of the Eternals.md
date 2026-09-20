@@ -1,7 +1,8 @@
-# Flavour Text
+#
+## Flavour Text
 The bootprint of the Eternals upon the face of Ogham.
 
-# Connected Areas
+## Connected Areas
 - The Grim Tangle
 - Mausoleum of the Praetor
 - Hunting Grounds
@@ -9,6 +10,6 @@ The bootprint of the Eternals upon the face of Ogham.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

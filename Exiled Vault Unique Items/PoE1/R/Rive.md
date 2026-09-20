@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Rive.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Rive.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Terror doesn't make you jump.
 Terror makes you run.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

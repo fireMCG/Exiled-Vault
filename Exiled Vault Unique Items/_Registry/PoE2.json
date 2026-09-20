@@ -1,7 +1,7 @@
 {
   "CategoryFolderName": "Exiled Vault UniqueItems",
   "Game": "PoE2",
-  "UpdatedAtUtc": "2026-05-05T22:14:22.2096017+00:00",
+  "UpdatedAtUtc": "2026-09-20T11:15:35.736079+00:00",
   "Entries": [
     {
       "Key": "https://www.poe2wiki.net/wiki/Amor_Mandragora",
@@ -3527,19 +3527,6 @@
       "UpdatedAtUtc": "2026-05-05T22:13:03.3797937+00:00"
     },
     {
-      "Key": "https://www.poe2wiki.net/wiki/Husk_of_Dreams",
-      "Title": "Husk of Dreams",
-      "SourceUrl": "https://www.poe2wiki.net/wiki/Husk_of_Dreams",
-      "NoteRelativePath": "Exiled Vault UniqueItems/PoE2/H/Husk of Dreams/Husk of Dreams.md",
-      "SourceFingerprint": "E88699A6DB376BB9477FDDD11D3ADA1C36399F853142350F12E9690FF1B2826C",
-      "ContentFingerprint": "B30EBA1960D853942B95A71B695EE6823AC22561767ACEDE0CDA2894910F81FC",
-      "LineCount": 22,
-      "CharacterCount": 461,
-      "ImageFileCount": 1,
-      "AudioFileCount": 0,
-      "UpdatedAtUtc": "2026-05-05T22:13:03.7491679+00:00"
-    },
-    {
       "Key": "https://www.poe2wiki.net/wiki/Icetomb",
       "Title": "Icetomb",
       "SourceUrl": "https://www.poe2wiki.net/wiki/Icetomb",
@@ -4513,45 +4500,6 @@
       "ImageFileCount": 1,
       "AudioFileCount": 0,
       "UpdatedAtUtc": "2026-05-05T22:13:41.3051571+00:00"
-    },
-    {
-      "Key": "https://www.poe2wiki.net/wiki/Sekhema%27s_Resolve_(Cold)",
-      "Title": "Sekhema\u0027s Resolve (Cold)",
-      "SourceUrl": "https://www.poe2wiki.net/wiki/Sekhema%27s_Resolve_(Cold)",
-      "NoteRelativePath": "Exiled Vault UniqueItems/PoE2/S/Sekhema\u0027s Resolve (Cold)/Sekhema\u0027s Resolve (Cold).md",
-      "SourceFingerprint": "01CCDFC9675111447D1C3255E56C2B020E27DA6EFA35093CD0A0BDE5D4D87789",
-      "ContentFingerprint": "CF9A5063ACD4287B1F0C57124ACE0EF37949CCC32004C6959461F1DB44F16F1E",
-      "LineCount": 20,
-      "CharacterCount": 473,
-      "ImageFileCount": 1,
-      "AudioFileCount": 0,
-      "UpdatedAtUtc": "2026-05-05T22:13:41.8369446+00:00"
-    },
-    {
-      "Key": "https://www.poe2wiki.net/wiki/Sekhema%27s_Resolve_(Lightning)",
-      "Title": "Sekhema\u0027s Resolve (Lightning)",
-      "SourceUrl": "https://www.poe2wiki.net/wiki/Sekhema%27s_Resolve_(Lightning)",
-      "NoteRelativePath": "Exiled Vault UniqueItems/PoE2/S/Sekhema\u0027s Resolve (Lightning)/Sekhema\u0027s Resolve (Lightning).md",
-      "SourceFingerprint": "FD1C7CF5B82E9899EBC4F7916A81B09649B5C2E0F160FA81E6A538C222124853",
-      "ContentFingerprint": "24AD3D0066F87CBAA1F9D7B9594109F794237B8764D5C2B773F87D3B95547A5F",
-      "LineCount": 20,
-      "CharacterCount": 478,
-      "ImageFileCount": 1,
-      "AudioFileCount": 0,
-      "UpdatedAtUtc": "2026-05-05T22:13:42.8233988+00:00"
-    },
-    {
-      "Key": "https://www.poe2wiki.net/wiki/Sekhema%27s_Resolve_(Fire)",
-      "Title": "Sekhema\u0027s Resolve (Fire)",
-      "SourceUrl": "https://www.poe2wiki.net/wiki/Sekhema%27s_Resolve_(Fire)",
-      "NoteRelativePath": "Exiled Vault UniqueItems/PoE2/S/Sekhema\u0027s Resolve (Fire)/Sekhema\u0027s Resolve (Fire).md",
-      "SourceFingerprint": "B2B8F1BB7EE1CD90FCD874E6EEDE8711336DB49B2722D9EBED4A34060BEF2234",
-      "ContentFingerprint": "E5B3FA3DED0AA6C3E6FDCE668DC97732B6D0EEFE0F8CAD803F8CC14C5C0963BF",
-      "LineCount": 20,
-      "CharacterCount": 465,
-      "ImageFileCount": 1,
-      "AudioFileCount": 0,
-      "UpdatedAtUtc": "2026-05-05T22:13:43.1177103+00:00"
     },
     {
       "Key": "https://www.poe2wiki.net/wiki/Serpent%27s_Egg",

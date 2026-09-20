@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Rashkaldor's Patience.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Rashkaldor's Patience.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Fate's smile, man's ruin.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

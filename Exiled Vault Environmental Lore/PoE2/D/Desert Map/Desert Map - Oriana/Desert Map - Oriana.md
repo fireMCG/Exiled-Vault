@@ -3,6 +3,6 @@ This 'Oriana' would find no allies among our {akharas...} we are no strangers to
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

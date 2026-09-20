@@ -4,6 +4,6 @@ My consort, I call you...
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

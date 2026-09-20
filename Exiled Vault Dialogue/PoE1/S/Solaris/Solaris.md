@@ -4,6 +4,6 @@ Let's get rid of this mortal.
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE1

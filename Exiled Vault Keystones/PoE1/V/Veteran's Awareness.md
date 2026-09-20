@@ -1,9 +1,11 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Veteran's Awareness.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Know when you'll be hit, and you'll barely feel it.
 
-# Effects
+#
+## Effects
 +10% to all Elemental Resistances and maximum Elemental Resistances while affected by a Non-Vaal Guard Skill
 20% additional Physical Damage Reduction while affected by a Non-Vaal Guard Skill
 20% more Damage taken if a Non-Vaal Guard Buff was lost Recently
@@ -12,7 +14,7 @@ Know when you'll be hit, and you'll barely feel it.
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE1

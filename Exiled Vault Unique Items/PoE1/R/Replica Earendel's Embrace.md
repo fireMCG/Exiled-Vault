@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Earendel's Embrace.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Earendel's Embrace.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Lord of Bone, Lord of Flesh, yet all that we can
 master turns to ash."
 - Researcher Arn
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Arn
 #Concept/Ash

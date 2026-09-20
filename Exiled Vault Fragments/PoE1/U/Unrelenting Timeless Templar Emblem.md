@@ -1,6 +1,6 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Unrelenting Timeless Templar Emblem.webp]]
 
-# Details
+## Details
 Map Fragments
 Portal: Domain of Timeless Conflict
 Area Level: 80
@@ -17,7 +17,7 @@ Place two or more different Emblems in a Map Device to access the Domain of Time
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1
 #Interesting 

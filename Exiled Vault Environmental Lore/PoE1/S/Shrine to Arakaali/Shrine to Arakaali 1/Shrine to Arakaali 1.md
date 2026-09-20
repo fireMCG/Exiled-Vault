@@ -2,7 +2,7 @@ Our great goddess, we worship her, and in so doing, we may become her. Healer of
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #Character/God/Arakaali
 #PoE1/Act7

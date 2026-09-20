@@ -1,4 +1,4 @@
-# Farrow on Vaal Artefacts
+## Farrow on Vaal Artefacts
 Farrow: I wonder why the King of Kalguur has such an interest in Vaal artefacts...
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Vaal Artefacts/Audio/Farrow - S102 - L1 - A1.ogg]]
 Warrior: The rich all have their obsessions, I suppose.
@@ -29,7 +29,7 @@ Marauder: [DNT]
 Farrow: Quite the extreme to go to for a hobby... I don't know. I get the idea it's likely something... {pretty odd.}
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Vaal Artefacts/Audio/Farrow - S102 - L14 - A1.ogg]]
 
-# Farrow on Vaal Artefacts
+## Farrow on Vaal Artefacts
 Farrow: I wonder why the King of Kalguur has such an interest in Vaal artefacts...
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Vaal Artefacts/Audio/Farrow - S103 - L1 - A1.ogg]]
 Warrior: The rich all have their obsessions, I suppose.
@@ -60,7 +60,7 @@ Marauder: [DNT]
 Farrow: Quite the extreme to go to for a hobby... I don't know. I get the idea it's likely something... {pretty odd.}
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Vaal Artefacts/Audio/Farrow - S103 - L14 - A1.ogg]]
 
-# Farrow on Vaal Artefacts
+## Farrow on Vaal Artefacts
 Farrow: I wonder why the King of Kalguur has such an interest in Vaal artefacts...
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Vaal Artefacts/Audio/Farrow - S104 - L1 - A1.ogg]]
 Warrior: The rich all have their obsessions, I suppose.
@@ -91,7 +91,7 @@ Marauder: [DNT]
 Farrow: Quite the extreme to go to for a hobby... I don't know. I get the idea it's likely something... {pretty odd.}
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Vaal Artefacts/Audio/Farrow - S104 - L14 - A1.ogg]]
 
-# Farrow on Vaal Artefacts
+## Farrow on Vaal Artefacts
 Farrow: I wonder why the King of Kalguur has such an interest in Vaal artefacts...
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Vaal Artefacts/Audio/Farrow - S105 - L1 - A1.ogg]]
 Warrior: The rich all have their obsessions, I suppose.
@@ -122,7 +122,7 @@ Marauder: [DNT]
 Farrow: Quite the extreme to go to for a hobby... I don't know. I get the idea it's likely something... {pretty odd.}
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Vaal Artefacts/Audio/Farrow - S105 - L14 - A1.ogg]]
 
-# Farrow on Vaal Artefacts
+## Farrow on Vaal Artefacts
 Farrow: I wonder why the King of Kalguur has such an interest in Vaal artefacts...
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Vaal Artefacts/Audio/Farrow - S106 - L1 - A1.ogg]]
 Warrior: The rich all have their obsessions, I suppose.
@@ -155,6 +155,6 @@ Farrow: Quite the extreme to go to for a hobby... I don't know. I get the idea i
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

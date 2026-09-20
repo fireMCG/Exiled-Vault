@@ -3,6 +3,6 @@ After the Beast of Highgate was slain, all other {akharas} vowed to pursue and e
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

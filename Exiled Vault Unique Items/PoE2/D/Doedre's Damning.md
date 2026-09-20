@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Doedre's Damning.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Doedre's Damning.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Where her mouth should have been there was only a whirling, black void.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

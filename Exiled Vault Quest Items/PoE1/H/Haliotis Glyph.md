@@ -1,10 +1,11 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Haliotis Glyph.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Its corrugated surface brings a strange tingle to the fingertips. This is no mere decoration.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE1

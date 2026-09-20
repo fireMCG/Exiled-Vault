@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Deathblow.webp]]
+![[PoE2 - Legacy of Deathblow.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Gloves: Culling Strike
-
-# Bonded Effects
-- Gloves: Gain 30 Life per enemy killed
+#
+## Flavour Text
+The role of Executioner was much maligned
+in Ogham. Every man who took the job
+wore the same equipment, for anonymity.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

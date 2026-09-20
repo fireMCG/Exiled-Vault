@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Contract_ The Twins.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Contract_ The Twins.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The Vox speak in threats.
 We will answer them with action."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

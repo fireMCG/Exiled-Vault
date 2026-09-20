@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Dreadbeak.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Dreadbeak.png]]
 
-# Flavour Text
+#
+## Flavour Text
 As death arrives, so too does instinct.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

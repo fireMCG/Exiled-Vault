@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Divination Scarab of Pilfering.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 If you do not seize your fate, someone else will.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -19,6 +20,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

@@ -4,6 +4,6 @@ Our will persists...
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

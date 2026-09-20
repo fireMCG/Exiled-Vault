@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Atziri's Acuity.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Atziri's Acuity.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The heart is the herald.
 It will tell me when it is best to strike."
 - Atziri, Queen of the Vaal
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE2

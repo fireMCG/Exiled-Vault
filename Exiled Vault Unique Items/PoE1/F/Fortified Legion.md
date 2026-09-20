@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Fortified Legion.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Fortified Legion.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When you throw iron weapons against an iron wall
 you only make the wall grow thicker.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

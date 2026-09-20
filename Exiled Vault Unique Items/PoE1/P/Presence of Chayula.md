@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Presence of Chayula.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Presence of Chayula.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The dreamer stirs, the world trembles.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

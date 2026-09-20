@@ -1,12 +1,13 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Obsidian Key.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The cool blanket of shadows preserves our treasures."
  - Inquisitor Maligaro
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Character/Maligaro
 #Concept/Shadow

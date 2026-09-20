@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Cartography Scarab of Escalation.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Opportunity thrives where dreams are most perilous.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,6 +14,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

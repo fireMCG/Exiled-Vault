@@ -1,4 +1,4 @@
-# Farrow on The Verisium Meteor
+## Farrow on The Verisium Meteor
 Farrow: That giant thing, lurking in the crater... what even {was} it?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Verisium Meteor/Audio/Farrow - S69 - L1 - A1.ogg]]
 Warrior: Some sort of mutation... a fusion of Corruption and Verisium. Both at their worst.
@@ -62,6 +62,6 @@ Witch: {Please} be quiet, Farrow!
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

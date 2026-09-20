@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Shaper's Seed.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Shaper's Seed.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The first light to grow in the primordial darkness.
 
 #
 ---
-# Tags
+## Tags
 #Concept/Time 
 #Category/UniqueItem
 #PoE1

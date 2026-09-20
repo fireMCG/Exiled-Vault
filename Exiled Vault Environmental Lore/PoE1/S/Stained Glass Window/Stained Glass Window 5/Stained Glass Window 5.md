@@ -2,7 +2,7 @@ Innocence could not keep a promise made in fear. He bore witness and testimony t
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/Lore/Environmental
 #Character/God/Innocence

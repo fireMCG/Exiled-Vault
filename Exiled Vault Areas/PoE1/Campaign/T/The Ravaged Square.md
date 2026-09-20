@@ -1,7 +1,8 @@
-# Flavour Text
+#
+## Flavour Text
 A flourishing place of trade, barely recognizable amidst the countless deaths.
 
-# Connected Areas
+## Connected Areas
 - The Cathedral Rooftop
 - The Torched Courts
 - The Ossuary
@@ -11,6 +12,6 @@ A flourishing place of trade, barely recognizable amidst the countless deaths.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

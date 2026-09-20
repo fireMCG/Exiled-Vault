@@ -3,6 +3,6 @@ I am forbidden by the terms of the Third Pact from invoking the Rite of Flame my
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

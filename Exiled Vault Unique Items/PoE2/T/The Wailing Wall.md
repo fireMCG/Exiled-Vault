@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Wailing Wall.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Wailing Wall.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Some stories are never told.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

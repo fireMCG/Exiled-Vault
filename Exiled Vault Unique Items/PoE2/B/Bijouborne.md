@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Bijouborne.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Bijouborne.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Trifle not with the trinket mage.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

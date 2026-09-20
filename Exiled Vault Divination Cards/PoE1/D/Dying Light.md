@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Dying Light.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Even the brightest eventually fade to darkness.
 
-# Reward
+#
+## Reward
 Diamond Ring
 Item Level: 100
 Shaper + Elder Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

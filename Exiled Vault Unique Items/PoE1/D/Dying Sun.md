@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Dying Sun.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Dying Sun.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 All things must die.
 Whether you burn out or explode is up to you.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

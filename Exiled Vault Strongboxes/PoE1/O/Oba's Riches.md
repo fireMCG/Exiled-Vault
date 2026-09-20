@@ -1,11 +1,12 @@
-# Flavour Text
+![[Oba's_Riches.png]]
+
+#
+## Flavour Text
 The objects Oba valued more than his life.  
 Sealed from the corruption that ultimately took it.
 
 #
-![[Oba's_Riches.png]]
-
 ---
-# Tags
+## Tags
 #Category/Strongbox
 #PoE1 

@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Last Lament.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Last Lament.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "And here we shall remain...
 trapped in our symphony of eternal anguish.
 Artist and Composer, their fates entwined for all of time."
@@ -8,6 +9,6 @@ Artist and Composer, their fates entwined for all of time."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

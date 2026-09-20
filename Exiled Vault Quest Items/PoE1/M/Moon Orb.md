@@ -1,6 +1,7 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Moon Orb.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Moonlight is a wise mother. The moon which bathes us in soft,
 cooling light, does so with the intent of illuminating our paths.
 Moonlight is wisdom. Moonlight is life."
@@ -8,7 +9,7 @@ Moonlight is wisdom. Moonlight is life."
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Concept/Family/Mother
 #Concept/Life

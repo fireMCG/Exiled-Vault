@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Goddess Scorned.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Goddess Scorned.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Her purpose seems done; the oath is fulfilled.
 Rust dulls her smirk with the last demon killed.
 The embers grow dim and yet hope burns her lips:
@@ -8,6 +9,6 @@ The embers grow dim and yet hope burns her lips:
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

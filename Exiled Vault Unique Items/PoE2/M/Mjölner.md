@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Mjölner.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Mjölner.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Look the storm in the eye and you will have its respect.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

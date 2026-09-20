@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Shavronne's Revelation.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Shavronne's Revelation.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Shavronne held Sanity in her right
 hand and Revelation in her left.
 Brutus chose the left hand."
@@ -8,6 +9,6 @@ Brutus chose the left hand."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

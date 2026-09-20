@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Idle Hands.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Idle Hands.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The devil finds work for idle hands.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

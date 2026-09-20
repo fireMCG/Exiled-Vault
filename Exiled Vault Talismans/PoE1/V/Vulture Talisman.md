@@ -8,6 +8,7 @@ of securing the lands of the Ezomytes of Myr.
 Every fell beast, every creature, had to die."
 
 #
+---
 ## Tags
 #Category/Talisman
 #League/Talisman

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Choir of the Storm.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Choir of the Storm.png]]
 
-# Flavour Text
+#
+## Flavour Text
 But the fool did not bow.
 The fool stood and questioned.
 And the fool was unwritten.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

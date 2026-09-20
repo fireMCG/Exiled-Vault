@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 Greed is the only god here.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE1

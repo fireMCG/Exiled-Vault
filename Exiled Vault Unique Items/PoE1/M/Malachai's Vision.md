@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Malachai's Vision.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Malachai's Vision.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Wicked men chase power like stray dogs chase a rat.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

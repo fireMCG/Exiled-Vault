@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Opulent.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Wealth can, in fact, buy happiness.
 
-# Reward
+#
+## Reward
 Ring
 Item Level: 100
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

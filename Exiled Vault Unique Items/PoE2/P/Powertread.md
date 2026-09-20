@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Powertread.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Powertread.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The combat stance used by Vaal nobles
 was as elegant as it was deadly.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

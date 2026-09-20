@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Incursion Scarab of Champions.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Only the best served in Atzoatl.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Incursion
 #PoE1

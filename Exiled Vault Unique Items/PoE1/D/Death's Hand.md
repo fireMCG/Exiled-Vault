@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Death's Hand.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Death's Hand.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "All are welcome in Hinekora's eternal home."
 - Karui Proverb
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

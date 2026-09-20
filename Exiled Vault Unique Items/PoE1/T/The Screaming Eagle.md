@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Screaming Eagle.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Screaming Eagle.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The eagle knows nothing but the scream and the strike.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

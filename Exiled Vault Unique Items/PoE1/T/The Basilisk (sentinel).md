@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Basilisk (sentinel).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Basilisk (sentinel).png]]
 
-# Flavour Text
+#
+## Flavour Text
 Alone among the powers of artifice, there is one against
 which the horrors of Wraeclast have never adapted.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

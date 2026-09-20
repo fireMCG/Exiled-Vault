@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 Creeping dread chokes life from this thriving terrace.
 
-# Connected Areas
+## Connected Areas
 - The Bath House
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

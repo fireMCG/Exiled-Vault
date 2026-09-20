@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Divination Scarab of Plenty.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 We create a thousand futures with every action.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 5
@@ -15,6 +16,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Pact.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "On this day I mark the first of many agreements that I will have with this land and its people."
 
-# Reward
+#
+## Reward
 Pledge of Hands
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Body/Hand
 #League/Breach

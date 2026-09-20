@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Farrul's Chase.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Farrul's Chase.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A secret is a weapon your enemies do not have.
 When the First of the Plains hunted, she moved in silence and acted quickly.
 To do otherwise is to arm your foes.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Chin Sol.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Chin Sol.png]]
 
-# Flavour Text
+#
+## Flavour Text
 As a soldier you want to get close to enemy archers.
 That is not the case when fighting the Maraketh.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

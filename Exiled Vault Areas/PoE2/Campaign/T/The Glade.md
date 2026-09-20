@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 At the base of the mountain, travellers stopped here for respite.
 
-# Connected Areas
+## Connected Areas
 - Ashen Forest
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2
 #Interesting 

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Shavronne's Pace.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Shavronne's Pace.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Shavronne raced to Brutus' side, her last hope against the Karui tide.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

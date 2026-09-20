@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Gemcrust Skull.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The mind springs forth eternal.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Concept/Crystal
 #PoE2

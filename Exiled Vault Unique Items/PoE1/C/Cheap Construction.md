@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Cheap Construction.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Cheap Construction.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Why waste the good stuff on something that's going to blow up?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

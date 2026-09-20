@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Fury and flame come to life.
 
-# Connected Areas
+## Connected Areas
 - The Crystal Veins
 - Kaom's Stronghold
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

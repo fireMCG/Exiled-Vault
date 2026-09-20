@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Ezomyte Peak.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Ezomyte Peak.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Centuries of servitude, a day of glory, an eternity of death.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -3,7 +3,7 @@ Belief can elevate. It can also erase. I've seen it in men... and in those who r
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/Lore/Environmental
 #PoE1

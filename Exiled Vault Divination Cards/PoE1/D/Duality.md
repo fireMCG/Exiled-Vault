@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Duality.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Good and Evil can be woven together to become something greater than either.
 
-# Reward
+#
+## Reward
 Body Armour
 Item Level: 100
 Double-Influenced Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Balance
 #PoE1

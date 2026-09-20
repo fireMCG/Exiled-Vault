@@ -3,6 +3,6 @@ Baran: Prayer is the centre of his regimen. All other activities are flexible, i
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

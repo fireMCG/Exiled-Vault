@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Slavedriver's Hand.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Slavedriver's Hand.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A plan without a deadline stays a plan.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

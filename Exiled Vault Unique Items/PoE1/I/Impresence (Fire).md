@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Impresence (Fire).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Impresence (Fire).png]]
 
-# Flavour Text
+#
+## Flavour Text
 Though its body was locked in stone,
 its essence wandered the infinite,
 learning, and preparing.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

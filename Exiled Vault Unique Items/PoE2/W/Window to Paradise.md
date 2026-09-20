@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Window to Paradise.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Window to Paradise.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Beyond fire, blood, and nightmare, the Savior will build utopia."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Blood
 #Concept/Element/Fire

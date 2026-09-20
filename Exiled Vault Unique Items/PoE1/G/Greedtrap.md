@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Greedtrap.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Greedtrap.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A single taste leaves you wanting more.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

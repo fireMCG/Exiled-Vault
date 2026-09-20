@@ -5,6 +5,6 @@ Foreigners often misunderstand the concept of the {Sekhema}. I am no dictator, a
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

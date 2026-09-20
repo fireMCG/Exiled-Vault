@@ -1,6 +1,6 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Miner's Strike.webp]]
 
-# Details
+## Details
 Your Maps have no chance to contain Ore Deposits
 Scarabs found in your Maps cannot be Kalguuran Scarabs
 Your Maps have +2% chance to contain other Extra Content that can
@@ -9,6 +9,6 @@ be turned off through Atlas Passives
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

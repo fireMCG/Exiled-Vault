@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - An Audience With The King.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 On the edge of existence, he watches with ire.
 
-# Details
+## Details
 Map Fragments
 Portal: Crux of Nothingness
 Area Level: 83
@@ -11,7 +12,7 @@ Open a portal to the Crux of Nothingness by using this item in a personal Map De
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1
 #Interesting 

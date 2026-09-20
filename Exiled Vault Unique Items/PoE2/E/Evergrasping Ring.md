@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Evergrasping Ring.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Evergrasping Ring.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Power comes to those who seek
 Death comes to those who reach
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

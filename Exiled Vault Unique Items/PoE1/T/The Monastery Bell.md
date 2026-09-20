@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Monastery Bell.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Monastery Bell.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "We must be ready. We are the voice of Wraeclast's vengeance,
 tolling righteous fury for those who would dare invade our world!"
 - Ailith, First of the Keepers
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

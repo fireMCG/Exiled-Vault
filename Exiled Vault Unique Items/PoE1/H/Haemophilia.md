@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Haemophilia.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Haemophilia.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "A master artist takes his time when he's painting.
 Unfortunately, my kind doesn't often have that luxury."
 - Coralito, Brotherhood of Silence
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

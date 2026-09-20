@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Starkonja's Head.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Starkonja's Head.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There was no hero made out of Starkonja's death,
 but merely a long sleep made eternal.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

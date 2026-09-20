@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Dementophobia.png]]
 
-# Flavour Text
+#
+## Flavour Text
 I never truly understood the depths of my insanity,
 until I realized the voices beckoning me towards the abyss,
 were none other than my own.
 
-# Reward
+#
+## Reward
 10x Delirium Orb
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/Demon/Kosis
 #Character/Demon/Omniphobia

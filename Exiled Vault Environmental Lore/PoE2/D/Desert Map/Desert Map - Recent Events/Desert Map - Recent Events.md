@@ -4,6 +4,6 @@ Corruption has returned to the Vastiri. Before this season, the hyenic warriors 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Dionadair.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Dionadair.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Praetor Draven knew his only chance to subjugate
 the Ezomytes was to catch them unaware.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

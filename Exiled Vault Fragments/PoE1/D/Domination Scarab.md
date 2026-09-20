@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Domination Scarab.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A simple exchange. Blood for power.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 4
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Domination
 #PoE1

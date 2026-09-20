@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Tear of Purity.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Tear of Purity.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A shimmering symbol of Purity, clear as water,
 but I know better than most how quickly
 Purity can succumb to Corruption.
@@ -9,6 +10,6 @@ How quickly water turns to blood.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

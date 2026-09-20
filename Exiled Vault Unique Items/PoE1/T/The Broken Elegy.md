@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Broken Elegy.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Broken Elegy.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Before they 'saved' their beloved leader, the Afarud
 tested their ritual on a dying man... but they made
 a fatal mistake. They did not bind him to an object.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

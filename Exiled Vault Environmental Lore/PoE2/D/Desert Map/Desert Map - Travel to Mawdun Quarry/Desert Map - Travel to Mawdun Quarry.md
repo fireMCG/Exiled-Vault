@@ -3,6 +3,6 @@ Outcasts currently make their home in the forgotten Quarry in the hills of Mawdu
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

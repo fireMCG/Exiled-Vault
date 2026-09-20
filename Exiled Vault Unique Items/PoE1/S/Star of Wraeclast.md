@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Star of Wraeclast.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Star of Wraeclast.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "I offer to you an eternal oath
 that binds your heart to mine;
 a bond that not even death will break.
@@ -9,6 +10,6 @@ Will you accept?"
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

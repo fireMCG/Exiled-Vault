@@ -3,6 +3,6 @@ His words are compelling. In this place, it is difficult to remember our former 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

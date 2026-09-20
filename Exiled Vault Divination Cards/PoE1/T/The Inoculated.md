@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Inoculated.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Chaos spread, wreaking havoc and death. They said none would be spared, and yet here I stand.
 
-# Reward
+#
+## Reward
 Seraphim's Armour
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Ash
 #Concept/Balance/Chaos

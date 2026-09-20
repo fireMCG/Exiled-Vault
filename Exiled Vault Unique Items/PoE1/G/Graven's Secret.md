@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Graven's Secret.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Graven's Secret.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The cowardly thinker's greatest success is simply surviving.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Graven
 #Character/Eldritch/Maven

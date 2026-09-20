@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Heartbreaker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Heartbreaker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A heart can be stabbed by thoughts,
 If your mind is sharp enough.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

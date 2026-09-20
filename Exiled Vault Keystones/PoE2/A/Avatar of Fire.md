@@ -1,15 +1,17 @@
 ![[Exiled Vault Keystones/_Images/PoE2 - Avatar of Fire.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "In my dreams I see a great warrior, his skin scorched black, his fists aflame."
 
-# Effects
+#
+## Effects
 75% of Damage Converted to Fire Damage
 Deal no Non-Fire Damage
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE2

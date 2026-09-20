@@ -1,4 +1,4 @@
-# The Dreamer on Who Are You?
+## The Dreamer on Who Are You?
 The Dreamer: The Keepers know me as the Benevolent Dreamer. The enemy knows me as the One Who Dreamt. You... may call me ally.
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on Who Are You_/Audio/The Dreamer - S9 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on Who Are You_/Audio/The Dreamer - S9 - L1 - A2.ogg]]
@@ -27,6 +27,6 @@ The Dreamer: What is important is that you and I share a desire to thrive. To {p
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

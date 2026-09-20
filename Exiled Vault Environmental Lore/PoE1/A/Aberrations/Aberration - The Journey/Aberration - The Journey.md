@@ -3,7 +3,7 @@ There was a time I saw the Atlas as a miracle a gateway to infinite potential. H
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/Lore/Environmental
 #PoE1

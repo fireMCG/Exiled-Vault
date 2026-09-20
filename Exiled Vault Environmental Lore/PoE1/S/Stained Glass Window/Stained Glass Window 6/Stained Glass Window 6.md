@@ -2,7 +2,7 @@ The village gathered to watch Sin become ash, and breathed deeply of the smoke t
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/Lore/Environmental
 #Character/God/Innocence

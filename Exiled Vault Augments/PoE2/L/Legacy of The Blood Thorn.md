@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of The Blood Thorn.webp]]
+![[PoE2 - Legacy of The Blood Thorn.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Quarterstaves: Adds 4 to 8 Physical Damage, Causes Bleeding on Hit
-
-# Bonded Effects
-- Quarterstaves: 10% increased Magnitude of Bleeding you inflict
+#
+## Flavour Text
+"It is shameful, what we used to do witches.
+The thorns that grow in Phaaryl are descended
+from those rites of pain and punishment."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

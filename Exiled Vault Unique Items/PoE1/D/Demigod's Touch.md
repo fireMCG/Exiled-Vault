@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Demigod's Touch.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Demigod's Touch.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Though the battle has been long,
 Victory is at hand.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

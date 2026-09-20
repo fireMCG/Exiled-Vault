@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Calgyra's Arc.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Calgyra's Arc.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "There is nowhere my vengeance cannot find you."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

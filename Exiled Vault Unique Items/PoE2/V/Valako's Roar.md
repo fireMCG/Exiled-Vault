@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Valako's Roar.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Valako's Roar.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The sea swells, the sky thunders; two ships tilt at odds.
 Flashes of light show only swinging axes... and a grin.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/God/Valako
 #Concept/Element/Lightning

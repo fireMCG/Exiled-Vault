@@ -3,6 +3,6 @@ On the Night of a Thousand Ribbons, our finest city burned. It burned with fires
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

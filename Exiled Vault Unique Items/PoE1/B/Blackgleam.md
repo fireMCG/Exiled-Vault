@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Blackgleam.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Blackgleam.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Molten feathers, veiled spark,
 Hissing arrows from the dark.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Kongming's Stratagem.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Kongming's Stratagem.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Those who are skilled in combat do not become angered.
 Those who are skilled at winning do not become afraid.
 Thus the wise win before they fight,
@@ -8,6 +9,6 @@ while the ignorant fight to win.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

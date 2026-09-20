@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### TheWendigo_Agrik_Random
 Agrik armach!
 ![[Exiled Vault Dialogue/PoE2/T/The Bodach/_Audio/The Bodach - TheWendigo_Agrik_Random.ogg]]
@@ -69,6 +70,6 @@ Tha slabhraidhean an dorchadais gar cuairteachadh!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Agnerod East.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Agnerod East.png]]
 
-# Flavour Text
+#
+## Flavour Text
 One for each corner of the great Vinktar Square.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

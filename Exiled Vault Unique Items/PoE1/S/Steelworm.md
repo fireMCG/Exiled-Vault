@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Steelworm.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Steelworm.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The dance of metal and flesh never ends.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

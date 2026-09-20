@@ -1,12 +1,13 @@
-# Flavour Text
+![[Exiled Vault Heist Targets/_Images/Crest of Ezomyr.png]]
+
+#
+## Flavour Text
 A symbol of my birthright and claim to my fiefdom. 
 I must have it if I am to return my family to its rightful place.
-#
-![[Crest of Ezomyr.png]]
 
 #
 ---
-# Tags
+## Tags
 #Category/HeistTarget
 #Character/Geonor
 #League/Heist

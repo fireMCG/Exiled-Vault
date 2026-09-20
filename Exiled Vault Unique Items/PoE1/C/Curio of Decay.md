@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Curio of Decay.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Curio of Decay.png]]
 
-# Flavour Text
+#
+## Flavour Text
 All that is will one day come to naught.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

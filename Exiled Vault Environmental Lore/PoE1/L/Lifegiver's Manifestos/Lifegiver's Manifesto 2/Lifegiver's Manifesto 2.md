@@ -3,6 +3,6 @@ What new thing have you learned today? Or this week? How far have you come in yo
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

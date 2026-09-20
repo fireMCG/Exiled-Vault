@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Fragment of Terror.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Fear drives survival.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 10
 Limit: 1
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #Character/Eldritch/Elder
 #Concept/Decay

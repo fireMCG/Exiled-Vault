@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Trarthan Powder.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Blow it all down! The emperor must have his gems, no matter the cost!
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE1
 #Society/EternalEmpire

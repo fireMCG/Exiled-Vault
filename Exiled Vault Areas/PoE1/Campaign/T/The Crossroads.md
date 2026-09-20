@@ -1,7 +1,8 @@
-# Flavour Text
+#
+## Flavour Text
 Life struggles where once it bloomed.
 
-# Connected Areas
+## Connected Areas
 - The Old Fields
 - The Broken Bridge
 - The Fellshrine Ruins
@@ -9,6 +10,6 @@ Life struggles where once it bloomed.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Sap of the Seasons.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Sap of the Seasons.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Life and death dance ever closer,
 waiting only for the right moment.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

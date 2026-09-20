@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Shackles of the Wretched.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Shackles of the Wretched.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Captivity breeds creativity.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

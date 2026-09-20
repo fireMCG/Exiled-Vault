@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Lightbane Raiment.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Lightbane Raiment.png]]
 
-# Flavour Text
+#
+## Flavour Text
 . . . and the Light faded and hope waned
 Zahndethus cast aside his faith
 and embraced the darkness.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

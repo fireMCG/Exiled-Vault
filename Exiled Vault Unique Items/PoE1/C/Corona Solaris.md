@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Corona Solaris.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Corona Solaris.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Legend tells of a time when Solaris will burst forth from Lunaris,
 and night will be eternally banished.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

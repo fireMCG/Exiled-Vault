@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Rational Doctrine.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Rational Doctrine.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Logic wanes in shining faith, and in rationalism, ardour dims
 Thus, the cynic and the zealot are divided
 But can they not be one and the same?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Trypanon.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Trypanon.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Though ingenius instruments have been found,
 it seems surgery before thaumaturgy
 was not so delicate."
@@ -8,6 +9,6 @@ was not so delicate."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

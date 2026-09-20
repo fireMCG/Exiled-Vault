@@ -7,7 +7,7 @@ I wish for the skill to overcome them both."
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/Mirage
 #PoE1

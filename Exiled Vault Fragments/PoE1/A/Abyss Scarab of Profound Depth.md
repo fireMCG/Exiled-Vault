@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Abyss Scarab of Profound Depth.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The deeper we dig, the more we find, be it fortune or foe.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Abyss
 #PoE1

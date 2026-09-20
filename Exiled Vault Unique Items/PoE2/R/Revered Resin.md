@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Revered Resin.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Revered Resin.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The sacred sap flows slowly, but surely.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

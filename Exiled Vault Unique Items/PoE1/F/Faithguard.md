@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Faithguard.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Faithguard.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The priests of the  worshipped knowledge, not gods.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

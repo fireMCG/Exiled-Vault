@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Valley of Steel Boxes.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The most valuable treasures should be hidden in plain sight." 
 - Ina, Keeper of Goods
 
-# Reward
+#
+## Reward
 Disabled
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

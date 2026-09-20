@@ -1,9 +1,9 @@
+![[RulerOfHighgateIcon.webp]]
+
 
 ![[Soul of Stalker of the Endless Dunes#Soul of Stalker of the Endless Dunes]]
 
 #
-![[RulerOfHighgateIcon.webp]]
-
 ---
 ## Tags
 #Character/God/Garukhan

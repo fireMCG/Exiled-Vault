@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Axiom Perpetuum.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Axiom Perpetuum.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The worst of Axiom were imprisoned by more than iron.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Prison
 #Society/EternalEmpire

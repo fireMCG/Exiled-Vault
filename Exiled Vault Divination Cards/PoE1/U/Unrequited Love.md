@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Unrequited Love.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The pale flame of his heart disappeared in his azure reflection.
 The work of a life.
 Ambitious, and unfinished.
 
-# Reward
+#
+## Reward
 19x Mirror Shard
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Body/Heart
 #Concept/Emotion/Love

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Pariah's Embrace.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Pariah's Embrace.png]]
 
-# Flavour Text
+#
+## Flavour Text
 His isolation caused him to treasure
 their companionship all the more.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

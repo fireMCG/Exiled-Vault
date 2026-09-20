@@ -1,11 +1,12 @@
-# Flavour Text
+![[Ogham's_Legacy.png]]
+
+#
+## Flavour Text
 The cycle of vengeance never ends... even in death.
 
 #
-![[Ogham's_Legacy.png]]
-
 ---
-# Tags
+## Tags
 #Category/Strongbox
 #Concept/Death 
 #Concept/Legacy

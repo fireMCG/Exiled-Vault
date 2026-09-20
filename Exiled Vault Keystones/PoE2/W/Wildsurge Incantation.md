@@ -1,10 +1,12 @@
 ![[Exiled Vault Keystones/_Images/PoE2 - Wildsurge Incantation.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The world is a pattern, moving in natural waves.
 With enough force, those waves can be made to converge...
 
-# Effects
+#
+## Effects
 Storm and Plant Spells:
 • deal 50% more damage
 • cost 50% less
@@ -12,6 +14,6 @@ Storm and Plant Spells:
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #PoE2

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Perceived Greatness.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Perceived Greatness.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A treasure is only as valuable as you think it to be.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

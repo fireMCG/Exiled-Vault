@@ -8,6 +8,7 @@ It was then that the sky tore open, unleashing
 a saviour fury... at the behest of the Druids."
 
 #
+---
 ## Tags
 #Category/Talisman
 #League/Talisman

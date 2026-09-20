@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Goddess Bound.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Goddess Bound.png]]
 
-# Flavour Text
+#
+## Flavour Text
 She paints her offer in wicked hues
 An off-white grin, an elegant bruise.
 To the nascent scourge she sings the ruse:
@@ -8,6 +9,6 @@ To the nascent scourge she sings the ruse:
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

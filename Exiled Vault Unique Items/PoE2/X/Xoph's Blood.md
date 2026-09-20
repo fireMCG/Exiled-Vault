@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Xoph's Blood.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Xoph's Blood.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 We are his blood.
 Through us he carries his burning message.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Breachlord/Xoph
 #Concept/Blood

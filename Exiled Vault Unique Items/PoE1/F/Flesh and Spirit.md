@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Flesh and Spirit.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Flesh and Spirit.png]]
 
-# Flavour Text
+#
+## Flavour Text
 What is greed but trading a mountain of death for a sliver of life?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Sadima's Touch.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Sadima's Touch.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Wealth unspent is wealth wasted.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

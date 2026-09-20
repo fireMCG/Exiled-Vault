@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Ryslatha's Coil.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Ryslatha's Coil.png]]
 
-# Flavour Text
+#
+## Flavour Text
 All creatures have the potential for greatness or unequivocal failure.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mokou's Embrace.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mokou's Embrace.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fire makes the perfect blossom in the endless night.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

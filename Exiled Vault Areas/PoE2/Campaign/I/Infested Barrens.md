@@ -1,7 +1,8 @@
-# Flavour Text
+#
+## Flavour Text
 Armies march unseen under the earth.
 
-# Connected Areas
+## Connected Areas
 - Jungle Ruins
 - Chimeral Wetlands
 - The Matlan Waterways
@@ -9,6 +10,6 @@ Armies march unseen under the earth.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

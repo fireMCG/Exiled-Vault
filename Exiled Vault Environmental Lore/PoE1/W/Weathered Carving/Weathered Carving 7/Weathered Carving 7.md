@@ -3,6 +3,6 @@ Kaom is gone. Our King has taken our finest five hundred warriors and descended 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

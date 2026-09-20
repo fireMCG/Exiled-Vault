@@ -2,7 +2,7 @@ On that day two were born of their mother's womb. Innocence, with eyes of burnin
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/Lore/Environmental
 #Character/God/Innocence

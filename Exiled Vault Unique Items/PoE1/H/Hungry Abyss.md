@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hungry Abyss.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hungry Abyss.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Darkness can never be sated.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

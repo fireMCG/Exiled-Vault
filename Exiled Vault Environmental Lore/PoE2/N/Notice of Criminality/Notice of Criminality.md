@@ -3,7 +3,7 @@ I have received reports of a number of villagers hiding at the Clearfell logging
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Ezomyte

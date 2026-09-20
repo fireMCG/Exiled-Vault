@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Mawr Blaidd.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Rigwald believed he'd seized great power, but it was the great power that had seized Rigwald
 
-# Reward
+#
+## Reward
 Eyes of the Greatwolf
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/FirstOne/Greatwolf
 #Character/Rigwald

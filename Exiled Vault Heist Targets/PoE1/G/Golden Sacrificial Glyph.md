@@ -1,11 +1,12 @@
-# Flavour Text
-Dried blood remains trapped in its many deep grooves.
+![[Exiled Vault Heist Targets/_Images/Golden Sacrificial Glyph.png]]
+
 #
-![[Golden Sacrificial Glyph.png]]
+## Flavour Text
+Dried blood remains trapped in its many deep grooves.
 
 #
 ---
-# Tags
+## Tags
 #Category/HeistTarget
 #Concept/Blood 
 #Concept/Sacrifice 

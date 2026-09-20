@@ -1,15 +1,16 @@
 ![[Exiled Vault Fragments/_Images/PoE2 - An Audience with the King.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 On the edge of existence, he watches with ire.
 
-# Details
+## Details
 Map Fragments
 Right click this item to create a stack of 100 Petition Splinters.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE2
 #Interesting

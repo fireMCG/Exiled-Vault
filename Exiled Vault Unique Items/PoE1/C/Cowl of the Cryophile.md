@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Cowl of the Cryophile.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Cowl of the Cryophile.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The villagers seared the blight with cold, but it only bloomed countless spears.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

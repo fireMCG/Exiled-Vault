@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hale Negator (2 Abyssal Sockets).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hale Negator (2 Abyssal Sockets).png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Feel the pain of ancient wounds.
 Feel the doom of dying souls."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

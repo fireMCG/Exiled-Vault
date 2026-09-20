@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Formless Inferno.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Formless Inferno.png]]
 
-# Flavour Text
+#
+## Flavour Text
 He burns us to keep us from harm.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

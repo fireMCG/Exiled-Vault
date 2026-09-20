@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - March of the Legion.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - March of the Legion.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When the time comes to face evil, the faithful are never alone.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

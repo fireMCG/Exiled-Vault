@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Tides of Time.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Tides of Time.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There is an ebb and flow to all things,
 tangible to those who watch and wait.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

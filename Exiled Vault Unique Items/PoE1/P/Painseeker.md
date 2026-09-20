@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Painseeker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Painseeker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Lay bare paths to pain you never knew you had.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Deal.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In the pursuit of wealth, as in that of power, anything goes.
 
-# Reward
+#
+## Reward
 Cartography Scarab
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Power
 #Concept/Wealth

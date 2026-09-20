@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Katla's Gloom.webp]]
+![[PoE2 - Katla's Gloom.webp]]
 
-# Details
-- Stack Size: 1 / 10
-- Limited to: 1
-
-# Effects
-- Gloves: Can roll Decay modifiers
-
-# Bonded Effects
-- Gloves: 25% reduced Effect of Non-Damaging Ailments on you
+#
+## Flavour Text
+For generations, the people had feared the power of
+the Witch of the Dark Lake. Aldur set out to invite her
+to the Royal Court... He ended up marrying her instead.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Ghostmarch.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Ghostmarch.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The cursed ones march forever,
 On their hopeless, last endeavour.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

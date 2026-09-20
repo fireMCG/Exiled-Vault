@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Taproot.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Taproot.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Some things must die so that others can live.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

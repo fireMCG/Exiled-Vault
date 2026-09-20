@@ -3,6 +3,6 @@ The black spirit infects living flesh and bone. The animals suffered first. Thei
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

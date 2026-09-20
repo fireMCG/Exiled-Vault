@@ -3,7 +3,7 @@ First Ones, hear our laments! Sanity recedes ever further into the dark. Shadows
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Ezomyte

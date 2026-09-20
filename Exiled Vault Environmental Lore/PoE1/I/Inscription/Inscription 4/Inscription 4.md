@@ -3,6 +3,6 @@ I stood with the Army of Purity and looked upon the mighty walls of Sarn. I foug
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act2

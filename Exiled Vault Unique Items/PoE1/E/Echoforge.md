@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Echoforge.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Echoforge.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Witness the emergence of a new cosmic power.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Maven
 #Concept/Space

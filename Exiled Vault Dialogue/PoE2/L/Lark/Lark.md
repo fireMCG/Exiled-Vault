@@ -3,6 +3,6 @@
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

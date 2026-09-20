@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Gamblesprint.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Gamblesprint.png]]
 
-# Flavour Text
+#
+## Flavour Text
 All your tomorrows lie ahead of you,
 unknown and snarled to the very last.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

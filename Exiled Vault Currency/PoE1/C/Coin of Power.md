@@ -7,7 +7,7 @@ strength to wield them. I wish for power!"
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/Mirage
 #PoE1

@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Prismatic Eclipse.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Prismatic Eclipse.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "A raging Solaris seared and contorted the orb's surface.
 A despairing Lunaris filled the scars with her tears.
 Yet Viridi remained, trapped within, forever more."
@@ -8,6 +9,6 @@ Yet Viridi remained, trapped within, forever more."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

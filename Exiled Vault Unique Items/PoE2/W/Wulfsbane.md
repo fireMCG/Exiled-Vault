@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Wulfsbane.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Wulfsbane.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Counts of Ogham share a
 legacy of cunning and power.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Legacy
 #Location/Wraeclast/Phaaryl/Ogham

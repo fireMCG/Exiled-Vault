@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Cloak of Defiance.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Cloak of Defiance.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When the throat roars,
 As eyes weep,
 When the hand grips hard
@@ -12,6 +13,6 @@ Of the Defiant Heart.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,16 +1,18 @@
 ![[Exiled Vault Keystones/_Images/PoE2 - Pain Attunement.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Embrace the pain, drink it in.
 Your enemies will know your agony tenfold.
 
-# Effects
+#
+## Effects
 30% less Critical Damage Bonus when on Full Life
 30% more Critical Damage Bonus when on Low Life
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE2

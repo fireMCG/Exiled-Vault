@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Sacrificial Harvest.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Sacrificial Harvest.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Vaal used human sacrifice to power their empire.
 They, too, eventually sought means to
 make their machines run more efficiently.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

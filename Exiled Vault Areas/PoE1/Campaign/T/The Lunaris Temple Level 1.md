@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Depravity is boundless.
 
-# Connected Areas
+## Connected Areas
 - The Ebony Barracks
 - The Lunaris Temple Level 2
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Wake of Destruction.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Wake of Destruction.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Tempest's power given form,
 Flee before the walking storm.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Storm
 #PoE2

@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Expedition_StarfallKnight_Emerge_Random
 þú munt deyja hér!
 ![[Exiled Vault Dialogue/PoE2/S/Styrn, Knight of Aldur/_Audio/Styrn, Knight of Aldur - Expedition_StarfallKnight_Emerge_Random.ogg]]
@@ -57,6 +58,6 @@ Runafǫðrs reiði!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Dreamland.png]]
 
-# Flavour Text
+#
+## Flavour Text
 All dreams vanish when the dreamers wake.
 
-# Reward
+#
+## Reward
 Poorjoy's Asylum
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Night/Dream
 #Concept/Night/Dreamer

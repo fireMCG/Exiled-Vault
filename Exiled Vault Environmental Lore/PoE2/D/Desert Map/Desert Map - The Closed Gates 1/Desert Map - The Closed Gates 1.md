@@ -3,6 +3,6 @@ The Halani Gates are closed for the first time in one thousand years! This can o
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

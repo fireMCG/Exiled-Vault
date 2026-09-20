@@ -1,4 +1,4 @@
-# The Touch of God
+## The Touch of God
   
 “God’s path is winding, and only through righteous truth will our feet fall true.”  
   
@@ -398,6 +398,6 @@ Wraeclast will feel Your light once more.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Unofficial 
 #Category/Lore

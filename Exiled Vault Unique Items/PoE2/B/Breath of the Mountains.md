@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Breath of the Mountains.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Breath of the Mountains.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "To scrape the sky,
 to touch the clouds themselves,
 is to know true freedom."
@@ -8,7 +9,7 @@ is to know true freedom."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

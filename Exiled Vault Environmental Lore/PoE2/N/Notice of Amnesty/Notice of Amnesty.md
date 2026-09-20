@@ -3,7 +3,7 @@ By decree of the Count of Ogham, To the scoundrels and cowards hiding among the 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Ezomyte

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Untainted Paradise.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Untainted Paradise.png]]
 
-# Flavour Text
+#
+## Flavour Text
 For this beauty,
 beauty without strength,
 chokes out life.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

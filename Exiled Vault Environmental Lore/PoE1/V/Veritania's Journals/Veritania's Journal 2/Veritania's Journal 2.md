@@ -3,6 +3,6 @@ For a brief time before we lost Sirus, I would have called these fellow exiles f
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

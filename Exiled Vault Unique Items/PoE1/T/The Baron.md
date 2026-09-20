@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Baron.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Baron.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The Emperor's trusted surgeons are not the only ones who practice the dark arts. Some of us are just more discreet."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

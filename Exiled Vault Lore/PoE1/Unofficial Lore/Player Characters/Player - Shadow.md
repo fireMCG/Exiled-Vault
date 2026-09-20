@@ -1,4 +1,4 @@
-# A Whisper In Darkness
+## A Whisper In Darkness
 
 >_S241R1: 3rd Solaro of Vivici, 1594 I.C. Johannes the Carpenter. One thousand marks. Twenty-stone cabinet, kinetic application of force. Broken back, catastrophic internal damage. ‘Insulted my floral arrangements.’_  
   
@@ -564,6 +564,6 @@ I will discover who I am.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Unofficial 
 #Category/Lore

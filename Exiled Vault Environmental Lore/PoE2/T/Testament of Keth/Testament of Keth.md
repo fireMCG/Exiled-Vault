@@ -3,7 +3,7 @@ On this, the meeting place of seven waters, we lay the first stone of our new ho
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Maraketh

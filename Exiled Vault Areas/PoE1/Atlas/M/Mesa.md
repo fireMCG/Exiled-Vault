@@ -1,4 +1,5 @@
-# Flavour Text
+#
+## Flavour Text
 Barren and sun-bleached.
 
 Emptiness as far as
@@ -7,6 +8,6 @@ the eye can reach.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE1

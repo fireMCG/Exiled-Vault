@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 Stone men move in the dark.
 
-# Connected Areas
+## Connected Areas
 - Chimeral Wetlands
 - Jiquani's Sanctum
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2
 #Interesting 

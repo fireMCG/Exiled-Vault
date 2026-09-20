@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Lucky Connections.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Luck is a fool's game, and I know plenty of rich fools.
 
-# Reward
+#
+## Reward
 20x Orb of Fusing
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

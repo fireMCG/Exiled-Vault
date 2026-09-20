@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Doppelganger.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Upon seeing her face, I am terrified—the moon shows me my own form!
 
-# Reward
+#
+## Reward
 Mirror Arrow
 Quality: +20%
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Horror
 #Concept/Mirror

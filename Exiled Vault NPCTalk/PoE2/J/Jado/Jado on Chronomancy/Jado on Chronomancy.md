@@ -52,7 +52,7 @@
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #Concept/Essence 
 #PoE2

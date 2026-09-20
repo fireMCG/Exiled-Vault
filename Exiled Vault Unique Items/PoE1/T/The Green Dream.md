@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Green Dream.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Green Dream.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We climb like vines up Chayula's arms,
 reaching into the world that should be ours.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

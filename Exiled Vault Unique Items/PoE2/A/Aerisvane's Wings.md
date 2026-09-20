@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Aerisvane's Wings.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Aerisvane's Wings.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The strongest souls are forged through struggle and defeat.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 

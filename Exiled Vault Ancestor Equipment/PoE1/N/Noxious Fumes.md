@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/IncenseBurner.webp]]
+
 [[Kitava Tribe]]
 
+#
 #
 ## Flavour Text
 "The guards will have no rest this night. When they tire, we strike..."
 
 #
-![[IncenseBurner.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

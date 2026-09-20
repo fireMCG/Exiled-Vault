@@ -3,6 +3,6 @@ You can take a wolf from the forest. You can collar him, chain him. You can star
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act2

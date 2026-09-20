@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Facebreaker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Facebreaker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fly like a Storm Crow, crush like a Rhoa
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

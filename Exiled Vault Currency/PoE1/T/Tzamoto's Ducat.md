@@ -7,7 +7,7 @@ He believed spirits held many untapped secrets.
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/CurseOfTheAllflame
 #PoE1

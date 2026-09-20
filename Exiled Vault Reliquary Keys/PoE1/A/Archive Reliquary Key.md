@@ -1,12 +1,12 @@
-# Flavour Text
+![[Exiled Vault Reliquary Keys/_Images/Archive Reliquary Key.png]]
+
+#
+## Flavour Text
 Minds are not the only thing the Cleansing Fire keeps eternal...
 
 #
-![[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault Reliquary Keys/_Images/Archive Reliquary Key.png]]
-
-#
 ---
-# Tags
+## Tags
 #Category/Reliquary/Key
 #Character/Eldritch/SearingExarch 
 #Concept/Cleansing 

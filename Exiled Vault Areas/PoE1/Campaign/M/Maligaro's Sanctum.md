@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 The inner depths of decadent darkness.
 
-# Connected Areas
+## Connected Areas
 - The Chamber of Sins Level 1
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

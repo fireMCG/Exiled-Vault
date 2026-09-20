@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Three-step Assault.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Three-step Assault.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The test subject nearly escaped, but the poison gas
 system in the hallway functioned as expected."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

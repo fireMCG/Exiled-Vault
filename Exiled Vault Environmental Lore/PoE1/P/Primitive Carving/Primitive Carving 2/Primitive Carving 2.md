@@ -2,6 +2,6 @@ So many have scrutinised the inner workings of the heart, written entire books o
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

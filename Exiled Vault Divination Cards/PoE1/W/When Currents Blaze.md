@@ -1,17 +1,19 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - When Currents Blaze.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In their fiery union,
 the storm left the rivers forever changed.
 
-# Reward
+#
+## Reward
 Stormfire
 Quality: +20%
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Element/Fire
 #Concept/Storm

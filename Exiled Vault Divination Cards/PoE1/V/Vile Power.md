@@ -1,17 +1,19 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Vile Power.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Dread and danger makes the air feel thin. 
 Above, power slumbers, tempting fate. 
 Greed and ambition draws countless in, 
 For those who seek power can never wait.
 
-# Reward
+#
+## Reward
 Doomfletch
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Virtue/Ambition
 #Concept/Beast

@@ -1,4 +1,4 @@
-# Farrow on What's Next
+## Farrow on What's Next
 Farrow: The Kalguurans intend to overthrow their king. And I, for one, can't blame them.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on What's Next/Audio/Farrow - S87 - L1 - A1.ogg]]
 Warrior: They intend to overthrow the King? To overthrow Cadigan?
@@ -65,6 +65,6 @@ Farrow: Ha! As you wish... friend.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

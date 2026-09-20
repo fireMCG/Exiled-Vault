@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Surgeon.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "He might be lacking in vision, but his virtuosity is undeniable."
 - Malachai, on Maligaro
 
-# Reward
+#
+## Reward
 Surgeon's Flask
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/Malachai
 #Character/Maligaro

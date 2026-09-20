@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Sulphite Scarab of Fumes.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 When the land itself is sick, even the very ground rots and spills forth.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -17,7 +18,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Delve
 #PoE1

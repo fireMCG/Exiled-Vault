@@ -1,5 +1,7 @@
-![[PoE2 - Berek's Pass.png]]
-# Flavour Text
+![[Exiled Vault Unique Items/_Images/PoE2 - Berek's Pass.png]]
+
+#
+## Flavour Text
 From Frost's ice-bound pass
 Berek taunted and jeered
 Until furious Flame scaled the mountain
@@ -9,7 +11,7 @@ And Frost's tortured moans."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

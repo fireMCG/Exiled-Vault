@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Karui Charge.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Karui Charge.png]]
 
-# Flavour Text
+#
+## Flavour Text
 For dead men require no answer.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

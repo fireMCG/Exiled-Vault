@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Anathema.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Anathema.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Enraged by the incompetence of mortals
 The demon-lord opens a gateway
 Unleashing a litany of pain upon the world.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Damnation
 #Concept/Demon

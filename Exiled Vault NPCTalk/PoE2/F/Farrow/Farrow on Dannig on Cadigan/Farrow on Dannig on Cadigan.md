@@ -1,4 +1,4 @@
-# Farrow on Dannig on Cadigan
+## Farrow on Dannig on Cadigan
 Farrow: The final tome... it mentioned King Cadigan.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Dannig on Cadigan/Audio/Farrow - S72 - L1 - A1.ogg]]
 Dannig: Please, I request that we... move on from this particular topic.
@@ -47,6 +47,6 @@ Marauder: [DNT]
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

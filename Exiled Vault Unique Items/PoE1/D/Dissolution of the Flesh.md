@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Dissolution of the Flesh.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Dissolution of the Flesh.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "We awoke to a sudden dawn cresting through the mountains.
 Each peak rose into searing fire, a massive roiling tide.
 A great eye gazed upon us, and we became known - utterly."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/SearingExarch
 #Concept/Time/Dawn

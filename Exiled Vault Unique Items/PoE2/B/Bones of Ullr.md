@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Bones of Ullr.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Bones of Ullr.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The dead man walks where
 the living fear to tread.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

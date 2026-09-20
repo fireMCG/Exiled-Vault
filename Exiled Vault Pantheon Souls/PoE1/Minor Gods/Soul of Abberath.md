@@ -1,9 +1,9 @@
+![[ClovenGodIcon.webp]]
+
 
 ![[Soul of Sumter, the Twisted#Soul of Sumter, the Twisted]]
 
 #
-![[ClovenGodIcon.webp]]
-
 ---
 ## Tags
 #Character/God/Abberath

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Broken Faith.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Broken Faith.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Be not blinded by the light.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Symbol/Descry 
 #PoE1

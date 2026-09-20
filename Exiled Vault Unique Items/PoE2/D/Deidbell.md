@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Deidbell.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Deidbell.png]]
 
-# Flavour Text
+#
+## Flavour Text
 May you never hear it toll.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

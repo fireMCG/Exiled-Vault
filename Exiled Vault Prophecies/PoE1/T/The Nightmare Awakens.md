@@ -1,16 +1,19 @@
-# Flavour Text
-The Eater has his final meal, and the Soulless One awakens.
-# Prophecy
-You will defeat Eater of Souls while holding Malachai's Simula.
-# Reward
-Upgrades [[Malachai's Simula]] to [[Malachai's Awakening]] upon completion. 
-
-#
 ![[Prophecy_inventory_icon.png]]
 
 #
+## Flavour Text
+The Eater has his final meal, and the Soulless One awakens.
+
+## Prophecy
+You will defeat Eater of Souls while holding Malachai's Simula.
+
+## Reward
+Upgrades [[Malachai's Simula]] to [[Malachai's Awakening]] upon completion. 
+
+#
+#
 ---
-# Tags
+## Tags
 #Category/Prophecy
 #Character/Malachai 
 #Concept/Hunger 

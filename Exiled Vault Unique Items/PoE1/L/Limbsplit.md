@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Limbsplit.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Limbsplit.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Swinging through the air, it sings
 of sundered, severed, missing things.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

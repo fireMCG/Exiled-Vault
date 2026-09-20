@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Broken Truce.png]]
 
-# Flavour Text
+#
+## Flavour Text
 With a single act, years of peace have been shattered. An unknown assassin brings war upon us all.
 
-# Reward
+#
+## Reward
 Cold Iron Point
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/DivinationCard
 #Character/Rigwald

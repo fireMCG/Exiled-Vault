@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Divine Shard.png]]
 
-# Flavour Text
+#
+## Flavour Text
 {Sin sought to contain Divinity
 so that no mortal would gain
 such monstrous power ever again.}
 
-# Reward
+#
+## Reward
 Divine Vessel
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard 
 #PoE1

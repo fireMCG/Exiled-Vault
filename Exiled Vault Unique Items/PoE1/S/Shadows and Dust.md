@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Shadows and Dust.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Shadows and Dust.png]]
 
-# Flavour Text
+#
+## Flavour Text
 What is fear but a snuffed torch
 and death in the wind?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

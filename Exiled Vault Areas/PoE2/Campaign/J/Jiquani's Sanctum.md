@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 Remnants of Vaal artifice still remain.
 
-# Connected Areas
+## Connected Areas
 - Jiquani's Machinarium
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

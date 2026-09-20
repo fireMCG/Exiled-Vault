@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Lethal Pride.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Lethal Pride.png]]
 
-# Flavour Text
+#
+## Flavour Text
 They believed themselves the greatest warriors, but that savagery turned upon their own.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

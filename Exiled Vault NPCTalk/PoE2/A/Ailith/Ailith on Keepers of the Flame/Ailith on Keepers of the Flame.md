@@ -1,4 +1,4 @@
-# Ailith on Keepers of the Flame
+## Ailith on Keepers of the Flame
 Ailith: We wield his Flame. We honour his Will. We follow his Word.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Keepers of the Flame/Audio/Ailith - S17 - L1 - A1.ogg]]
 Warrior: How does this 'Dreamer' speak to you, if he is not present?
@@ -47,6 +47,6 @@ Ailith: Our duties do not end at dusk. As we rest, this is when he speaks to us.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

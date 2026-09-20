@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Chaber Cairn.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Chaber Cairn.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The weight of faith is great yet it is never borne alone.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

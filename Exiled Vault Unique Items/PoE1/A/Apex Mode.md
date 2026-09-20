@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Apex Mode.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Apex Mode.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Maximum power fueled by science gone mad.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Madness
 #Concept/Power

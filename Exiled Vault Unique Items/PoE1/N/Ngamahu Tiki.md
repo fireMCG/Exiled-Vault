@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ngamahu Tiki.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ngamahu Tiki.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Flames to guide the Great Spirit to the site of the dead, and smoke to carry them into the sky.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

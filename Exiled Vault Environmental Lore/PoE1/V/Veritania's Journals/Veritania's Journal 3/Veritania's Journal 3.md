@@ -3,6 +3,6 @@ I understand now. I must serve as the moral heart of this place. The others are 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

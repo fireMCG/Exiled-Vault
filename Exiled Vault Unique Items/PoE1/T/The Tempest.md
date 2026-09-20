@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Tempest.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Tempest.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Where steel-grey clouds gather and crash together, a storm is sure to follow.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

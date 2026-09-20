@@ -3,7 +3,7 @@ Osmund Laken. Days survived: Forty-Five Bitten by a snake on the ankle. Leg swel
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Unknown

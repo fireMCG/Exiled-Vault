@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Martial Artistry.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Martial Artistry.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A gentle hand rarely leaves a mark on the world.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

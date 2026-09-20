@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Insomnia.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Insomnia.png]]
 
-# Flavour Text
+#
+## Flavour Text
 He feeds on the nightmares of the Atlas' denizens.
 If you fall asleep in the Atlas, he'll be waiting...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Stormfire.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Stormfire.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When your skin sloughs, and your blood cooks,
 you'll wish the lightning strike had killed you.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

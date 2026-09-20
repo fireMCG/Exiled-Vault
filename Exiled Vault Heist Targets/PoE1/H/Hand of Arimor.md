@@ -1,13 +1,14 @@
-# Flavour Text
+![[Exiled Vault Heist Targets/_Images/Hand of Arimor.png]]
+
+#
+## Flavour Text
 Balabus Arimor was a little-known preacher during the days of Emperor Chitus,
 who believed eternal life could be achieved through ritual sacrifice.
 We shall see whether he was a prophet - or a charlatan.
-#
-![[Hand of Arimor.png]]
 
 #
 ---
-# Tags
+## Tags
 #Category/HeistTarget
 #Character/BalabusArimor
 #Character/Emperor/ChitusPerandus

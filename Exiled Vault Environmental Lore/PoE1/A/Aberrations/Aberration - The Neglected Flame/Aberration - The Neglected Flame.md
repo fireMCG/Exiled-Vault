@@ -3,7 +3,7 @@ Sirus and I enjoyed a simple collegial relationship, at first... it was hard not
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/Lore/Environmental
 #PoE1

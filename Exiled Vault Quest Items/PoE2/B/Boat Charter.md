@@ -1,10 +1,11 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Boat Charter.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Bound by ink, upheld by trust.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Sine Aequo.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Sine Aequo.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The greatest warrior of his era fought with honour.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

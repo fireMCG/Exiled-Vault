@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 In Oriath's darkest corner, the spark of rebellion ignites.
 
-# Connected Areas
+## Connected Areas
 - The Ascent
 - Overseer's Tower
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1
 #Interesting

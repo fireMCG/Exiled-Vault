@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Geofri's Crest.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Geofri's Crest.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In the battle for honour,  won.
 Not so, the battle for survival.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

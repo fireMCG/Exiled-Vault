@@ -1,16 +1,19 @@
-# Flavour Text
-Doom grows at the apex of the pyramid.
-# Prophecy
-You will defeat the Vaal Oversoul while holding Doomfletch.
-# Reward
-Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault UniqueItems/PoE1/D/Doomfletch|Doomfletch]] to [[Doomfletch's Prism]] upon completion. 
-
-#
 ![[Prophecy_inventory_icon.png]]
 
 #
+## Flavour Text
+Doom grows at the apex of the pyramid.
+
+## Prophecy
+You will defeat the Vaal Oversoul while holding Doomfletch.
+
+## Reward
+Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault UniqueItems/PoE1/D/Doomfletch|Doomfletch]] to [[Doomfletch's Prism]] upon completion. 
+
+#
+#
 ---
-# Tags
+## Tags
 #Category/Prophecy
 #Concept/Soul 
 #League/Prophecy

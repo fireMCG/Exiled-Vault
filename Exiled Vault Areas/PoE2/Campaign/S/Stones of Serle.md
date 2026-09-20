@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Ancient visitors brought magicks born of the stars themselves.
 
-# Connected Areas
+## Connected Areas
 - Scorched Farmlands
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2
 #Interesting 

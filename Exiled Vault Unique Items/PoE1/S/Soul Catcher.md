@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Soul Catcher.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Soul Catcher.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Freedom is for the privileged, even in death.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

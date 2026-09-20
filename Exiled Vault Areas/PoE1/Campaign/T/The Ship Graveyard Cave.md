@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 A corpse's throat, exhaling death.
 
-# Connected Areas
+## Connected Areas
 - The Ship Graveyard
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

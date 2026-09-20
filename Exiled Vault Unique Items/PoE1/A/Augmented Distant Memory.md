@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Augmented Distant Memory.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Augmented Distant Memory.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 What had seemed sacred and infallible so quickly became flawed out of necessity.
 Created from compromises. Vulnerable to mortal whims.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/HighTemplar/Venarius
 #Concept/Life/Mortality

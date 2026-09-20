@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Briskwrap.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Briskwrap.png]]
 
-# Flavour Text
+#
+## Flavour Text
 I carry neither food nor drink.
 I rely on the charity of my fellow wayfarers.
 Dead men are generous men.
@@ -8,6 +9,6 @@ Dead men are generous men.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

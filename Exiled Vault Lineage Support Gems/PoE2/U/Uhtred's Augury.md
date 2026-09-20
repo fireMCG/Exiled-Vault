@@ -1,13 +1,14 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Uhtred's Augury.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Studying the ill omens of the stars, Uhtred came to suspect
 something was very wrong among the first Kalguurans.
 Olroth, Vorana, Medved... three there were. Three dangers.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/SupportGem/Lineage 
 #Character/Medved

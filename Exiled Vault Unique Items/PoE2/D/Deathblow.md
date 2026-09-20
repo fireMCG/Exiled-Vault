@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Deathblow.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Deathblow.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Anticipation is a gift.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

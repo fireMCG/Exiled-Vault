@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Matsya.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Matsya.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In our tales, and in our hearts, the rivers still flow.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

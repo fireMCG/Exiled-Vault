@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Goredrill.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Goredrill.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A tap on the shoulder
 A peck on the cheek
 A sip of your wine
@@ -8,6 +9,6 @@ So red and so sleek
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

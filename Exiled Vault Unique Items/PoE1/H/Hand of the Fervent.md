@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hand of the Fervent.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hand of the Fervent.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A sacrifice of blood calls forth His vengeance.
 Let the righteous become the Hand of God.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

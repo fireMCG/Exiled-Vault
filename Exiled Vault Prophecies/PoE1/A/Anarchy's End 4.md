@@ -1,13 +1,16 @@
-# Flavour Text
+![[Prophecy_inventory_icon.png]]
+
+#
+## Flavour Text
 Six criminals take to foot to stamp out the threat that tracks them through dreams.
-# Prophecy
+
+## Prophecy
 You will enter a map and slay six Rogue Exiles who are each carrying a Divination Card.
-# Reward
+
+## Reward
 Six [[Anarchy's Price]] will drop. 
 
 #
-![[Prophecy_inventory_icon.png]]
-
 #
 ---
 ## Tags

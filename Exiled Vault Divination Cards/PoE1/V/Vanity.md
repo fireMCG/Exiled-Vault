@@ -1,12 +1,12 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Vanity.png]]
 
-# Reward
+## Reward
 Tabula Rasa
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Sin/Vanity
 #PoE1

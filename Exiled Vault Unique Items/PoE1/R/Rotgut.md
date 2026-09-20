@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Rotgut.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Rotgut.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Rancid, rotten, and wicked are those that dare to taste my serum.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

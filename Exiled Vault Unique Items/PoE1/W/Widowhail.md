@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Widowhail.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Widowhail.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "I loosed a volley of arrows into the heart of the man
 who slew my beloved. There was no satisfaction, no
 healing, no revenge. There was only... emptiness."
@@ -8,6 +9,6 @@ healing, no revenge. There was only... emptiness."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

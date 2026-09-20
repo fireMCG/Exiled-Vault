@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Voidwalker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Voidwalker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Test subject was able to walk into the walls of his chamber after breaking a rabbit's neck.
 He was not fast enough, however. Suggest we begin excavation to retrieve prototype."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

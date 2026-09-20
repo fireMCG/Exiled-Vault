@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Bitterbloom.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Bitterbloom.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The soul cannot flourish in a doubting mind.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

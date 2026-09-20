@@ -1,6 +1,6 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Allflame Ember of the Ethereal.webp]]
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 4
@@ -18,6 +18,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

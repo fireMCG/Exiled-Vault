@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Gorebreaker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Gorebreaker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Sure, there's many a hard man out there.
 But this'll soften them up.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

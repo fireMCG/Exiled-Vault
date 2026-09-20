@@ -5,7 +5,7 @@ The Orok are truly terrifying to behold. I suspect their canine features result 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #League/Expedition
 #PoE2

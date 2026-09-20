@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Sporeguard.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Sporeguard.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Shrouded in seed, a conduit of contagion, yet the source of septicity remains unknown.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

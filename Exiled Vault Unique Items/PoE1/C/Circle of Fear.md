@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Circle of Fear.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Circle of Fear.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 My subordinates circled me eternally, attuned to the slightest weakness, ready to tear me apart for their own gains.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Greymake.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Greymake.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In the end, even heroes fade away.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

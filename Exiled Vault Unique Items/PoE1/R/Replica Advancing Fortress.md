@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Advancing Fortress.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Advancing Fortress.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Additional test subjects approved. Determine exactly how many wounds
 need to be endured to activate Prototype #612's energies."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

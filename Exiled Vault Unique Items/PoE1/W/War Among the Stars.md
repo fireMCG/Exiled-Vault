@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - War Among the Stars.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - War Among the Stars.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Conflict begets only suffering.
 For some, that is by design.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

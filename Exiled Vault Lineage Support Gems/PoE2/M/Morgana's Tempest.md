@@ -1,13 +1,14 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Morgana's Tempest.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 On the nights the fugue would come over her, the Ezomytes would
 gather below, begging her to bring the rains. Atop the Taisce,
 wailing with unknown sorrows, her cries made the skies rage.
 
 #
 ---
-# Tags
+## Tags
 #Category/SupportGem/Lineage 
 #Character/Mythology/Morgana
 #Concept/Crying

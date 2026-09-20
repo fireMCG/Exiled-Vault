@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Shroud of the Lightless.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Shroud of the Lightless.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Eyes of black, three by three, staring ever darker into me..."
 - Researcher Arn
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Arn
 #Concept/Body/Eye

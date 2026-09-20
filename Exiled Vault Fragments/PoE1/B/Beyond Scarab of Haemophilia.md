@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Beyond Scarab of Haemophilia.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Reality itself begins to bleed.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Beyond
 #PoE1

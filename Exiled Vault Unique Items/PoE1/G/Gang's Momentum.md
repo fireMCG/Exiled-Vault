@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Gang's Momentum.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Gang's Momentum.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Become one with the unstoppable flame.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

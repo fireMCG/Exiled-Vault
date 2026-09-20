@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Original Sin.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Original Sin.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Innocence rose to godhood not on inspired faith, but on the vilification and hatred of another.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

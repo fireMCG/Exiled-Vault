@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Decree of Flight.webp]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Decree of Flight.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Soar. Be swift. Let none trespass here, from
 above or below, lest your purpose be forfeit.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

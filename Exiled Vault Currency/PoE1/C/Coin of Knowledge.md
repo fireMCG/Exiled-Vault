@@ -7,7 +7,7 @@ I wish for intellect beyond compare."
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/Mirage
 #PoE1

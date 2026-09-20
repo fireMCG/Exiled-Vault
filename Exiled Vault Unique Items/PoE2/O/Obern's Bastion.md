@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Obern's Bastion.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Obern's Bastion.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The storm cannot sway those of sure footing.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

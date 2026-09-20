@@ -3,7 +3,7 @@ Rowland Hayton. Days survived: Eighty-Two Ants...
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Unknown

@@ -1,10 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Delirium Scarab of Delusions.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 What are you talking about?
 The Atlas was always like this.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -14,7 +15,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Delirium
 #PoE1

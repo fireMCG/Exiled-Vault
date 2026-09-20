@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Beyond Reach.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Beyond Reach.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The limit of our knowledge is a barrier
 that protects us from ourselves.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

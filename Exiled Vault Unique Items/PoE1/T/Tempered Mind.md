@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Tempered Mind.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Tempered Mind.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Any thought, no matter how fleeting, changes the thinker.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

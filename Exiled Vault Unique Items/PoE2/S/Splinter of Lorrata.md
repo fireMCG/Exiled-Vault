@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Splinter of Lorrata.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Splinter of Lorrata.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Baleful Gem's corruption lingers still...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Divination Distillate.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Divination Distillate.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Knowledge is fermented in pain and loss
 Distilled with reflection
 To quench the thirst of those
@@ -8,6 +9,6 @@ who dream of enlightenment
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

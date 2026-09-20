@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Lion's Roar.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Lion's Roar.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A sprinkle of hunger, a spoonful of menace
 and three generous cups of Might.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

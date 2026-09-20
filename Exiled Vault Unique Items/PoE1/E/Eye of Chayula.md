@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Eye of Chayula.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Eye of Chayula.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Never blinking, always watching.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

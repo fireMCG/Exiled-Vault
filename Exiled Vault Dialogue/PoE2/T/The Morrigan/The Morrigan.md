@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### TheMorrigan_Glyph_01
 I am the Mórrigan. The call to battle. The crow guiding all who follow to victory. I am the bravery in the heart of every Maji.
 ![[Exiled Vault Dialogue/PoE2/T/The Morrigan/_Audio/The Morrigan - TheMorrigan_Glyph_01.ogg]]
@@ -45,6 +46,6 @@ It plagues us!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

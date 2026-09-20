@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Aukuna's Will.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Aukuna's Will.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Black Sekhema's trial had only just begun.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Sekhema/Aukuna
 #Concept/Sekhema

@@ -3,7 +3,7 @@ Our people have lived in the shadows of the dunes for too long. Countless genera
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Faridun

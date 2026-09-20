@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Hope was drowned here.
 
-# Connected Areas
+## Connected Areas
 - Lioneye's Watch
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1
 #Interesting

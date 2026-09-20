@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Effigy of Cruelty.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Effigy of Cruelty.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The horrors we imagined as children still exist somewhere in the dark...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

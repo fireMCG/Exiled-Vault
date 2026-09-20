@@ -3,7 +3,7 @@ By the order of Emperor Izaro, my honoured predecessor, None may enter this cham
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/EternalEmpire

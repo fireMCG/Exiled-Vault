@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Lavianga's Spirit.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Lavianga's Spirit.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "An intriguing paradox."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

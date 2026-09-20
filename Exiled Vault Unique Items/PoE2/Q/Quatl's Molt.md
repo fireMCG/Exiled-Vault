@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Quatl's Molt.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Quatl's Molt.png]]
 
-# Flavour Text
+#
+## Flavour Text
 As the serpent wills.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

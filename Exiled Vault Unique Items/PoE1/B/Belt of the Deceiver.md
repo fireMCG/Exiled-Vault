@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Belt of the Deceiver.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Belt of the Deceiver.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In battle, virtue matters not.
 Only victory.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Trickery
 #Concept/Virtue

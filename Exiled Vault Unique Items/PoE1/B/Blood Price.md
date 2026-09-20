@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Blood Price.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Blood Price.png]]
 
-# Flavour Text
+#
+## Flavour Text
 An eye for an eye makes the whole world dead.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

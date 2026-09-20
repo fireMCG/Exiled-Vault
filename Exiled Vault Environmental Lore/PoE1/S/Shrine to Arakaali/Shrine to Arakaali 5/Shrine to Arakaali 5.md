@@ -2,7 +2,7 @@ Even as our courageous Arakaali forged the foundations of a new empire within th
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #Character/God/Arakaali
 #PoE1/Act7

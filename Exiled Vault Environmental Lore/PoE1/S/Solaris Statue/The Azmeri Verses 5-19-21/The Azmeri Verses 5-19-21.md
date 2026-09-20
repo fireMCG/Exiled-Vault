@@ -2,7 +2,7 @@ Solaris upon the horizon stood and gazed upon the moon. Any army of swords and s
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #Character/God/Lunaris
 #Character/God/Solaris

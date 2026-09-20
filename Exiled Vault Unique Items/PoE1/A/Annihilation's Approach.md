@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Annihilation's Approach.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Annihilation's Approach.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Pray that the flames find fascination, for the true end follows when the great eye closes.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/UniqueItem
 #Character/Eldritch/SearingExarch

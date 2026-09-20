@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Sire of Shards.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Sire of Shards.png]]
 
-# Flavour Text
+#
+## Flavour Text
 That which was broken may yet break.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

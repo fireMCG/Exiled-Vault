@@ -1,15 +1,17 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - The Agnostic.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Put your faith in intellect rather than mysticism.
 
-# Effects
+#
+## Effects
 Removes all Energy Shield
 While not on Full Life, Sacrifice 20% of Mana per Second to Recover that much Life
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE1

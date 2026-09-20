@@ -1,6 +1,7 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Golden Page (4 of 4).png]]
 
-# Flavour Text
+#
+## Flavour Text
 Siosa, your Slavery will cause them to overlook you. 
 Your Karui Way will guide you. 
 Your Humanity will shame us all."
@@ -8,7 +9,7 @@ Your Humanity will shame us all."
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Character/IciusPerandus
 #Character/Siosa

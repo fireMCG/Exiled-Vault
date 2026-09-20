@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Eye of Terror.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Lord of Chaos dreams as his Eye gazes, unblinking, at his prize. And soon, all shall tremble before his waking form.
 
-# Reward
+#
+## Reward
 Mageblood
 Foulborn
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/Breachlord/Chayula
 #Concept/Balance/Chaos

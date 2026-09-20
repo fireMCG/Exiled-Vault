@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Rebirth.png]]
 
-# Flavour Text
+#
+## Flavour Text
 He shattered Her smile
 Scattered the fragments like ash
 All she did was laugh
 
-# Reward
+#
+## Reward
 Charan's Sword
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Fracture
 #PoE1

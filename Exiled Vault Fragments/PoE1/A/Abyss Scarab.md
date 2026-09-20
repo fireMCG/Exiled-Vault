@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Abyss Scarab.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 They search forever for more souls to drag to the dark.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #Concept/Darkness
 #Concept/Soul

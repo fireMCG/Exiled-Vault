@@ -1,13 +1,16 @@
-# Flavour Text
+![[Prophecy_inventory_icon.png]]
+
+#
+## Flavour Text
 My vision grows dark. A horror draws near. Its soul would be a treasured prize for Hinekora.
-# Prophecy
+
+## Prophecy
 You will slay the Herald of Bameth and the very powerful foe it summons.
-# Reward
+
+## Reward
 \- None -
 
 #
-![[Prophecy_inventory_icon.png]]
-
 #
 ---
 ## Tags

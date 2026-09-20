@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Echo of Trauma.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A single harsh word can haunt us forever.
 
-# Details
+## Details
 Quest Items
 Portal: Moment of Trauma
 Area Level: 83
@@ -11,6 +12,6 @@ Open portals to the Moment of Trauma to face the Incarnation of Fear by using th
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

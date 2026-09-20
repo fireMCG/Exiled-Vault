@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Cheap Construction.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Cheap Construction.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "A curious jewel. Like so many others, a shining little paradox."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

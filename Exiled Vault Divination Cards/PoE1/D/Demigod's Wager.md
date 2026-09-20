@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Demigod's Wager.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Sometimes you need to make your own luck.
 
-# Reward
+#
+## Reward
 Orb of Annulment
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/God/Innocence
 #Character/God/Sin

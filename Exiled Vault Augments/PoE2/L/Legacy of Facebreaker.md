@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Facebreaker.webp]]
+![[PoE2 - Legacy of Facebreaker.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Gloves: +1 to Armour per Strength
-
-# Bonded Effects
-- Gloves: 1% increased Damage per 15 Strength
+#
+## Flavour Text
+"How does one defeat an Empire?
+Simple... endure. The Empire is gone,
+but we are still here. We have won."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

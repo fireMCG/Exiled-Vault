@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Farrul's Bite.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Farrul's Bite.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It is a fool who strikes the turtle's shell. The First of the Plains teaches us to exploit weaknesses, and where no weakness can be found, to create one.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

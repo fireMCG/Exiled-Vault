@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Firefly (2 of 7).png]]
 
-# Flavour Text
+#
+## Flavour Text
 A passionate fire that consumes the heart.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Concept/Body/Heart
 #PoE1

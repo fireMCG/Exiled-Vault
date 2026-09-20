@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/BoneTiki.webp]]
+
 [[Tawhoa Tribe]]
 
+#
 #
 ## Flavour Text
 Life springs from death in a grand cycle.
 
 #
-![[BoneTiki.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Time/Cycle
 #Concept/Death 

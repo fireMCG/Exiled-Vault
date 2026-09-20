@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Sacrificial Heart.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Sacrificial Heart.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The seed of life, saved and savoured.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

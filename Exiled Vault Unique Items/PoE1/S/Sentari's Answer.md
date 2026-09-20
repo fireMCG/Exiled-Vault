@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Sentari's Answer.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Sentari's Answer.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Open your eyes and you will see the cracks in your enemy's walls.
 Open your mind and you will see the cracks in your enemy's plans.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

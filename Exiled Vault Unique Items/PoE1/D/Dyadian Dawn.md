@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Dyadian Dawn.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Dyadian Dawn.png]]
 
-# Flavour Text
+#
+## Flavour Text
 With her cold resolve
 And burning sacrifice
 The Eternal twins arose.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

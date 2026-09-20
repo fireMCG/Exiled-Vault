@@ -1,17 +1,12 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Wulfsbane.webp]]
+![[PoE2 - Legacy of Wulfsbane.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Shields: Intimidate Enemies on Block for 8 seconds
-
-# Bonded Effects
-- Shields: +25 to Strength
+#
+## Flavour Text
+"Descendants of the Chosen could do
+far more than mimic the Greatwolf..."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

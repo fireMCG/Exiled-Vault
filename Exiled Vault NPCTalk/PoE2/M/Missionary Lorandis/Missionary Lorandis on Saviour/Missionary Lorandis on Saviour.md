@@ -202,6 +202,6 @@
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

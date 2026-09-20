@@ -1,9 +1,11 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Unending Nightmare.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 What if it's all just in your head?
 
-# Effects
+#
+## Effects
 2% increased Maps found in your Maps
 Delirium Fog in your Maps never dissipates
 Delirium in your Maps has doubled difficulty scaling with distance from the mirror
@@ -13,6 +15,6 @@ Unmodifiable
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #PoE1

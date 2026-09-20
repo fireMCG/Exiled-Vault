@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Self-Flagellation.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Self-Flagellation.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Beg for forgiveness.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Mortal Hope.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Look to our Queen, for she will lead us from the darkness.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 10
 Limit: 1
@@ -20,7 +21,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1
 #Interesting 

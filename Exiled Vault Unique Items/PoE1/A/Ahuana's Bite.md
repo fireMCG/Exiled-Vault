@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ahuana's Bite.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ahuana's Bite.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The last Queen of the Karui gave up power willingly.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Queen
 #Society/Karui

@@ -3,6 +3,6 @@ On this day, the 2nd Sacrato of Verusi, 1334 IC, the Army of Purity remembers it
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

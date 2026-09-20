@@ -12,7 +12,7 @@
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #Concept/Vessel
 #PoE2

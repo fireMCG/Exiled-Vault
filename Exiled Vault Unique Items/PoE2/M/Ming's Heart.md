@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Ming's Heart.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Ming's Heart.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Ming slew Tranquillity
 Took Chaos for his wife
 And on Her immortal finger
@@ -8,7 +9,7 @@ He placed his Heart
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

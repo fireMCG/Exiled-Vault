@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ahkeli's Meadow.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ahkeli's Meadow.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Where once had stood a village, lay naught but splinters.
 Some had once been her home.
 Some had once been her creations.
@@ -8,7 +9,7 @@ Some had once been her family.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/UniqueItem
 #Character/Ahkeli

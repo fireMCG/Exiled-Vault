@@ -1,4 +1,4 @@
-# Farrow on Research
+## Farrow on Research
 Farrow: That was impressive. The Verisium in that remnant was mighty powerful. You did well! Now, I've travelled to Ogham because I'm researching the origins of my craft. Some Ezomytes would say runeshapes were simply brought to us by the First Ones... but I reckon there's more to the tale.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Research/Audio/Farrow - S53 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Research/Audio/Farrow - S53 - L1 - A2.ogg]]
@@ -39,6 +39,6 @@ Farrow: Help me in my research, and I'll do what I can to aid in your... underta
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

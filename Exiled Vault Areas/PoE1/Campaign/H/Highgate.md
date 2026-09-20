@@ -1,7 +1,8 @@
-# Flavour Text
+#
+## Flavour Text
 A frail scab of hope holds Nightmare at bay.
 
-# Connected Areas
+## Connected Areas
 - The Aqueduct
 - The Dried Lake
 - The Mines Level 1
@@ -9,7 +10,7 @@ A frail scab of hope holds Nightmare at bay.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1
 #Interesting

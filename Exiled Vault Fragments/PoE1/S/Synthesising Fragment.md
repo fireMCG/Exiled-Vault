@@ -1,10 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Synthesising Fragment.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 When memories become twisted by a corrupted mind,
 history is rewritten, time after time.
 
-# Details
+## Details
 Map Fragments
 Portal: Cortex
 Area Level: 85
@@ -15,7 +16,7 @@ Use four of these in a personal Map Device to open Portals to The Cortex. Can on
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #Character/HighTemplar/Venarius
 #Concept/Memory

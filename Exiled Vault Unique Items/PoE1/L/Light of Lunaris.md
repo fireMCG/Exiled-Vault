@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Light of Lunaris.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Light of Lunaris.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Without night, there can be no day.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

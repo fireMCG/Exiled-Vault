@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Leadership's Price.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Leadership's Price.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Remain poised. Remain balanced. Keep all the emotions of a lifetime caged. Let only your enemies see the truth of your rage."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

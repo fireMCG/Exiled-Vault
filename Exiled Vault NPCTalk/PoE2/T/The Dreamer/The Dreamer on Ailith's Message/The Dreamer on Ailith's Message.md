@@ -1,4 +1,4 @@
-# The Dreamer on Ailith's Message
+## The Dreamer on Ailith's Message
 Monk: Master... Ailith spoke your true name. She knows what you have planned for this world. It causes her great... distress.
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on Ailith's Message/Audio/The Dreamer - S4 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on Ailith's Message/Audio/The Dreamer - S4 - L1 - A2.ogg]]
@@ -15,6 +15,6 @@ Monk: As you wish, master.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

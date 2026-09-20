@@ -2,6 +2,6 @@ The shade spluttered into a great shimmering blaze, moving rapidly forward into 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Soulthirst.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Soulthirst.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "They say a draught of fine spirits will ward off
 the elements and promote a longer, merrier life.
 I have found this to be true on all counts."
@@ -8,7 +9,7 @@ I have found this to be true on all counts."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1

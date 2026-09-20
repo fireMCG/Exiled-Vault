@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Bringer of Rain.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Bringer of Rain.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "What lies beneath your feet?!"
 "Sacred ground, watered with tears of blood!"
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

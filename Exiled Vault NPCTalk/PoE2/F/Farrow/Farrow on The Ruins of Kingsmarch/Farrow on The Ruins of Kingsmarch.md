@@ -1,4 +1,4 @@
-# Farrow on The Ruins of Kingsmarch
+## Farrow on The Ruins of Kingsmarch
 Farrow: It's... unreal to see it like this. When I first laid eyes on Kingsmarch, I felt like I saw my future in front of me. Another new beginning... And now... it's all rubble.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Ruins of Kingsmarch/Audio/Farrow - S56 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Ruins of Kingsmarch/Audio/Farrow - S56 - L1 - A2.ogg]]
@@ -34,6 +34,6 @@ Witch: Don't mention it. No, seriously. Speak of my words to no one.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

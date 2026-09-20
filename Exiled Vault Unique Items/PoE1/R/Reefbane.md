@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Reefbane.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Reefbane.png]]
 
-# Flavour Text
+#
+## Flavour Text
 He cast far into the ocean
 And tore out her heart.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

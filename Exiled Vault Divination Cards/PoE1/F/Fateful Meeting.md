@@ -1,11 +1,13 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Fateful Meeting.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Some people act as beacons, illuminating the path for others. I was lucky to meet one such person.
 
 - Anton to Zhenya
 
-# Reward
+#
+## Reward
 League-Specific Item
 Double-Influenced Item
 Item Level: 97
@@ -14,7 +16,7 @@ Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

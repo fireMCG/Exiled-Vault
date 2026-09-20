@@ -1,4 +1,4 @@
-# Farrow on Third Rune Introduction
+## Farrow on Third Rune Introduction
 Farrow: What's there to talk about? Only one more to find. Get on with it!
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Third Rune Introduction/Audio/Farrow - S126 - L1 - A1.ogg]]
 Warrior: Remember, we're in this together. Watch your tone.
@@ -33,7 +33,7 @@ Farrow: You really are... Oh. You're serious. Forgive me. Just... when you have 
 Farrow: Got a bit excited. Sorry about that.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Third Rune Introduction/Audio/Farrow - S126 - L16 - A1.ogg]]
 
-# Farrow on Third Rune Introduction
+## Farrow on Third Rune Introduction
 Farrow: What's there to talk about? Only one more to find. Get on with it!
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Third Rune Introduction/Audio/Farrow - S127 - L1 - A1.ogg]]
 Warrior: Remember, we're in this together. Watch your tone.
@@ -70,6 +70,6 @@ Farrow: Got a bit excited. Sorry about that.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

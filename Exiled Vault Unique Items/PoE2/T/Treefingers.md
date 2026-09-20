@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Treefingers.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Treefingers.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The largest beings on Wraeclast
 are not flesh and blood.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

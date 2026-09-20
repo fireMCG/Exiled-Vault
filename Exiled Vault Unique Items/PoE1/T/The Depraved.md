@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Depraved.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Depraved.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Even after she harvested their tongues, they were still able to scream.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

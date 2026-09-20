@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Deceiver.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Beware the combatant who shows no confidence, yet still enters the ring, for they are surely hiding something.
 
-# Reward
+#
+## Reward
 Belt of the Deceiver
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

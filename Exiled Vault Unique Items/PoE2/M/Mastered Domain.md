@@ -1,11 +1,13 @@
-![[PoE2 - Mastered Domain.png]]
-# Flavour Text
+![[Exiled Vault Unique Items/_Images/PoE2 - Mastered Domain.png]]
+
+#
+## Flavour Text
 For a brief shining time, the Precursors
 could resculpt the world as they saw fit.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

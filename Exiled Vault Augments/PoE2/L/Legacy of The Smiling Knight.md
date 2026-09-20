@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of The Smiling Knight.webp]]
+![[PoE2 - Legacy of The Smiling Knight.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Helmets: Aggravate Bleeding on targets you Critically Hit with Attacks
-
-# Bonded Effects
-- Helmets: 20% increased Critical Hit Chance
+#
+## Flavour Text
+"And then Bynden struck a mortal blow,
+straight through the heart! And that damn
+knight... he didn't flinch. Just kept on!"
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

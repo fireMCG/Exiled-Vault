@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Alkem Eira.webp]]
+![[PoE2 - Legacy of Alkem Eira.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Shields: 30% of damage Blocked is Recouped as Mana
-
-# Bonded Effects
-- Shields: 20% of damage Blocked is Recouped as Mana
+#
+## Flavour Text
+"In truth, our battle for freedom gave us
+something. A spark, a spirit, a unity. I fear
+what we may become without struggle."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

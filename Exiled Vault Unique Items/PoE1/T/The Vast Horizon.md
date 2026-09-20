@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Vast Horizon.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Vast Horizon.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "Where once a mountain stood there was now but fields and dust.
 One by one, the stones were moved and placed with intention,
 the consequences borne by the destination and the origin."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

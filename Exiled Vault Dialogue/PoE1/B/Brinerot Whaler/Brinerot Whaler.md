@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Brinerot_Javelineer_Aggro_Random
 The Allflame is ours!
 
@@ -16,6 +17,6 @@ Your luck's run aground!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE1

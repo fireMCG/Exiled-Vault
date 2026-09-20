@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 When does protection become a prison?
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Irongrasp.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Irongrasp.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A power unknown aids your own.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

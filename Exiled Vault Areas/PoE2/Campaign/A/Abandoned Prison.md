@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 They still clatter at the bars, desperate for release...
 
-# Connected Areas
+## Connected Areas
 - Kingsmarch
 - Solitary Confinement
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

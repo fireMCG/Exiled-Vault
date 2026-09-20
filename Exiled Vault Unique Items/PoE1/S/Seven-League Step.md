@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Seven-League Step.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Seven-League Step.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Death can be outrun with these, but beware!
 In running from death, you may forget to live."
 - Icius Perandus, Antiquities Collection, Item 202
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

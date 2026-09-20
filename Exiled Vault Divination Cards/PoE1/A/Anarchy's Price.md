@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Anarchy's Price.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Born of relentless fury and abhorrence, warped by turmoil and anguish, tainted through desire and carnality, I thirst for bloodshed once more.
 
-# Reward
+#
+## Reward
 Voltaxic Rift
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

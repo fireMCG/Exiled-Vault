@@ -8,6 +8,7 @@ the Queen. Henceforth, they became known as the
 Ezomytes of Myr, and their numbers swelled."
 
 #
+---
 ## Tags
 #Category/Talisman
 #League/Talisman

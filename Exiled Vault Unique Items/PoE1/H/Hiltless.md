@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hiltless.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hiltless.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The cuts on my hands are a small price to pay
 for the opportunity to drive my steel
 beyond the flesh and into the demon's soul.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

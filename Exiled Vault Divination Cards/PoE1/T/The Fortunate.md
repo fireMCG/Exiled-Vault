@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Fortunate.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The fortunate find generosity in the divine.
 
-# Reward
+#
+## Reward
 2x Divine Orb
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Luck
 #Concept/Religion/Divinity

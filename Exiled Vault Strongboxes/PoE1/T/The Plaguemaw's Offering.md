@@ -1,11 +1,12 @@
-# Flavour Text
+![[The_Plaguemaw's_Offering.png]]
+
+#
+## Flavour Text
 Temptation is man's greatest folly.
 
 #
-![[The_Plaguemaw's_Offering.png]]
-
 ---
-# Tags
+## Tags
 #Category/Strongbox
 #PoE1 
 #Interesting 

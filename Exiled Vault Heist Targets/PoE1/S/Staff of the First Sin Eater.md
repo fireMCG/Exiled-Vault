@@ -1,12 +1,13 @@
-# Flavour Text
+![[Exiled Vault Heist Targets/_Images/Staff of the First Sin Eater.png]]
+
+#
+## Flavour Text
 The history of the order of Sin Eaters is shrouded in secrecy and shame.
 Nevertheless, history demands truth, even if it takes centuries to be revealed.
-#
-![[Staff of the First Sin Eater.png]]
 
 #
 ---
-# Tags
+## Tags
 #Category/HeistTarget
 #Character/RingClient/CrimsonScribe
 #Concept/Sin

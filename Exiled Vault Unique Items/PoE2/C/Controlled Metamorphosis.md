@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Controlled Metamorphosis.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Controlled Metamorphosis.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Our world was dying, but we chose to survive.
 We broke free from the chains within.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

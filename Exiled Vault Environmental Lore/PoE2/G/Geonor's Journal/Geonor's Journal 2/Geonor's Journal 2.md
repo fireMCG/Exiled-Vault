@@ -3,7 +3,7 @@ I sense Oriana knows... And I cannot deny that which I know deep down to be true
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Ezomyte

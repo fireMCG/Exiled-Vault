@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Might of the Meek.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Might of the Meek.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Enough mice can kill a wolf.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

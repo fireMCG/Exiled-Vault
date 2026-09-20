@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Innsbury Edge.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Innsbury Edge.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The night-gaunts, they fly, soaring about in darkness beyond the ken of mankind.
 I hear the silent whispers of their wings as they descend, for me, for me..."
 - Researcher Arn
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Arn
 #Concept/Beyond

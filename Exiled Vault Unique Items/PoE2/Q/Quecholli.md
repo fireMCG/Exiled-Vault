@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Quecholli.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Quecholli.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The finest prosperity grows from the direst carnage.
 Such is the nature of progress.
 - Doryani of the Vaal
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE2

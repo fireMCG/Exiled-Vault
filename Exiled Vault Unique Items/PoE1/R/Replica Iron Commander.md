@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Iron Commander.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Iron Commander.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Admittedly lacking the finesse of the fabled original,
 Prototype #4 achieved identical results through brute force alone."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

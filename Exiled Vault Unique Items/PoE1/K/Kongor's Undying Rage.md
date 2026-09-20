@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Kongor's Undying Rage.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Kongor's Undying Rage.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Command like a king and nothing will stand in your way.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

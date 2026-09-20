@@ -3,6 +3,6 @@ I knelt in the sand of the Grand Arena, awaiting the killing blow. I raised my e
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

@@ -1,11 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Xoph's Flawless Breachstone.webp]]
 
-# Details
+## Details
 Breachstones
 Can be traded to a vendor for a Hivebrain Gland.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

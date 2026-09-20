@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Grelwood Shank.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Grelwood Shank.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Through countless seasons they stand, stoic,
 Each season leaving its mark;
 a memory written in fibrous flesh.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

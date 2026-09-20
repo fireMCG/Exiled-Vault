@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Paradoxica.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Paradoxica.png]]
 
-# Flavour Text
+#
+## Flavour Text
 What has no siblings but is always a twin?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

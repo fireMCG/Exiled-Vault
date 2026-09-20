@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mark of Submission.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mark of Submission.png]]
 
-# Flavour Text
+#
+## Flavour Text
 So great was the thaumaturgy of a bloodpriest's mark,
 that sacrifices soon welcomed their death.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

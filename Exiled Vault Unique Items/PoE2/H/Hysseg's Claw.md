@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Hysseg's Claw.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Hysseg's Claw.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In a time of great need, surrounded by Abyssals, the Wayward Druid came to the Sun Clan's aid.
 It is a debt they have never forgotten.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem 
 #PoE2
 #Interesting 

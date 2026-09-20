@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - That Which Was Taken.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - That Which Was Taken.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Faith given under false pretenses still carries the same power.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

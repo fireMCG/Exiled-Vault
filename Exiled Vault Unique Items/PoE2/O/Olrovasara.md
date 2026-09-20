@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Olrovasara.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Olrovasara.png]]
 
-# Flavour Text
+#
+## Flavour Text
 True heroes grow stronger in the face of adversity."
 - Fourth Tenet of the Knights of the Sun
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

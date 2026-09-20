@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Breach.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Ever get the feeling you're being watched...?
 
-# Reward
+#
+## Reward
 Breach Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Body/Eye
 #Concept/Fracture

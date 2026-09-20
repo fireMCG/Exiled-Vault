@@ -649,7 +649,7 @@
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Crosscheck 
 #Category/NPCTalk
 #PoE2

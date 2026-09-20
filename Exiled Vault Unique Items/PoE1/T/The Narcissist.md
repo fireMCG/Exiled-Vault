@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Narcissist.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Narcissist.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Knowing the human body to harbour infinite potential,
 she endowed her subjects with the most potent forces at her disposal,
 striving invariably for improvement.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

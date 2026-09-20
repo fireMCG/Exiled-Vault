@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Vixen's Entrapment.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Vixen's Entrapment.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "One coy look. One blown kiss. One word spoken.
 One night I wish I'd forget."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

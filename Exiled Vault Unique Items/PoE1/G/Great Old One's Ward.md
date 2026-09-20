@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Great Old One's Ward.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Great Old One's Ward.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The horrors we've encountered are nothing
 compared to the horrors we haven't.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

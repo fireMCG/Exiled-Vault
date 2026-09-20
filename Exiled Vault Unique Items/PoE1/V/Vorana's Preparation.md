@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Vorana's Preparation.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Vorana's Preparation.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Vorana trained her mercenaries
 thus: strike true and survive.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Vorana
 #PoE1

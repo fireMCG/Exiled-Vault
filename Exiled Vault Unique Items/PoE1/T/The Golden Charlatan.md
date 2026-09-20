@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Golden Charlatan.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Golden Charlatan.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "He speaks, he leads, he stands tall...
 yet, what has he truly done, save
 spill our blood in pursuit of power?"
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

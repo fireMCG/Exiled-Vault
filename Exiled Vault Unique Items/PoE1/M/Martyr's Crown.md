@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Martyr's Crown.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Martyr's Crown.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Let it pierce you, let blood flow.
 Make more room for the soul to grow.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

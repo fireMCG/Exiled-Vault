@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Hyrri's Truth.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Hyrri's Truth.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The type Delta test subjects could have escaped with the power offered by
 Prototype #15, but they suddenly chose to murder each other instead..."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

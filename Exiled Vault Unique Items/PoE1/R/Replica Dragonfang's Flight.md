@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Dragonfang's Flight.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Dragonfang's Flight.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Did we make this? Why do we have no record of it? We were warned that there would be consequences..."
 - Administrator Qotra
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

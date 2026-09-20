@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Echo of Reverence.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Simple kindness makes the most powerful of memories.
 
-# Details
+## Details
 Quest Items
 Portal: Moment of Reverence
 Area Level: 83
@@ -11,6 +12,6 @@ Open portals to the Moment of Reverence to face the Incarnation of Dread by usin
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

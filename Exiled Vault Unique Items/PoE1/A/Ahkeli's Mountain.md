@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ahkeli's Mountain.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ahkeli's Mountain.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fleeing the destruction set upon her home,
 the Clayshaper sought safety in the clouds of ash above.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/UniqueItem
 #Character/Ahkeli

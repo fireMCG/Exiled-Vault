@@ -1,18 +1,20 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Lord in Black.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Thy knee shall bend in shifting dark,
 thy blade shall serve his vigil.
 Thy oath shall bind thee to his mark,
 thy flesh shall bear his sigil.
 
-# Reward
+#
+## Reward
 Ring of Bameth
 Item Level: 83
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

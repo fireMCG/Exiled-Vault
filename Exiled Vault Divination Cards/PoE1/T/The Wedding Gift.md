@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Wedding Gift.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The acolytes congratulated the lucky groom for becoming one with the goddess.
 
-# Reward
+#
+## Reward
 Arakaali's Fang
 
 #
 ---
-# Tags
+## Tags
 #Character/God/Arakaali
 #Category/DivinationCard
 #PoE1

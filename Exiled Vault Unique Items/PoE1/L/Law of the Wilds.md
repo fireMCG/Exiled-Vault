@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Law of the Wilds.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Law of the Wilds.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The strong survive. The strongest thrive.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Kurgal's Gaze.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Kurgal's Gaze.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Blackblooded seeks dominion over darkness itself.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

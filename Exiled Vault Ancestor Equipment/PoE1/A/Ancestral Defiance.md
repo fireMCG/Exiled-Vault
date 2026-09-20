@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/ScreamingTotem.webp]]
+
 [[Tukohama Tribe]]
 
+#
 #
 ## Flavour Text
 The warriors of the Tukohama Tribe call the brink of death home.
 
 #
-![[ScreamingTotem.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Death 
 #League/Ancestor

@@ -8,6 +8,7 @@ Knights were ill-equipped for this foe, and
 the people fled in droves, seeking safety."
 
 #
+---
 ## Tags
 #Category/Talisman
 #League/Talisman

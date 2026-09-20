@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ashes of the Sun.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ashes of the Sun.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Ash
 #Concept/Darkness

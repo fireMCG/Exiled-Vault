@@ -3,6 +3,6 @@ Captain Alsarus, Remain in the warehouse until I personally send for you. In the
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act8

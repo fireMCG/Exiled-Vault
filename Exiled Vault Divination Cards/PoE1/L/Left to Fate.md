@@ -1,18 +1,20 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Left to Fate.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Many strive for greatness,
 but it is challenge, unforeseen,
 that forges heroes.
 
-# Reward
+#
+## Reward
 Map
 Map Tier: 16
 Unidentified Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Concept/Fate
 #Concept/Hero
 #Concept/Family/Mother

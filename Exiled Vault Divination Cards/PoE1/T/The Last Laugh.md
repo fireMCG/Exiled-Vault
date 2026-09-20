@@ -1,18 +1,20 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Last Laugh.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Holding fast when shadows fall,
 Over ruins, jesters call.
 Nothing breaks their twisted cheer,
 Kings of chaos, friends sincere.
 
-# Reward
+#
+## Reward
 Replica Dragonfang's Flight
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Balance/Chaos
 #Concept/King

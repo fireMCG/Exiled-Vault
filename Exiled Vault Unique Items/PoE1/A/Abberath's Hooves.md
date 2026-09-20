@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Abberath's Hooves.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Abberath's Hooves.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The goat king knew not of war, of the lands and laws he trampled.
 The goat king knew only joy at turning life into ash.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/God/Abberath
 #Concept/Ash

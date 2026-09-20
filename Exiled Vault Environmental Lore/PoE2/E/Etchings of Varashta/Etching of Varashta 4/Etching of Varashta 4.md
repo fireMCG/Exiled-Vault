@@ -3,7 +3,7 @@ I have managed to trap him in the farthest halls of the Trial. Halls that are un
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Maraketh

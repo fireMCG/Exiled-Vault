@@ -1,14 +1,15 @@
-# Flavour Text
+#
+## Flavour Text
 Shadows in the night come for the farmers and torch their crops.
 
-# Connected Areas
+## Connected Areas
 - The Refuge
 - Stones of Serle
 - The Blackwood
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2
 #Interesting 

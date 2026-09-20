@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Voidheart.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Voidheart.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Nothing spreads fear faster than the unknown.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

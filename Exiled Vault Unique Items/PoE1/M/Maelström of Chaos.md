@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Maelström of Chaos.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Maelström of Chaos.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Whispers from a world apart
 Speak my name beyond the tomb;
 Bound within the Maelström's heart,
@@ -8,6 +9,6 @@ Will they grant me strength or doom?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

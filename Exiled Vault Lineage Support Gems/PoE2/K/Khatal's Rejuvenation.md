@@ -1,13 +1,14 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Khatal's Rejuvenation.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The surging geysers flooded the tunnels of the ancient
 enemy, destroying whole legions. His akhara turned to
 praise the tale-man Khatal, but he was dust on the wind.
 
 #
 ---
-# Tags
+## Tags
 #Category/SupportGem/Lineage 
 #Character/TaleWoman/Khatal
 #PoE2

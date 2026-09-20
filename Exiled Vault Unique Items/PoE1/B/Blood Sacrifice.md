@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Blood Sacrifice.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Blood Sacrifice.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Power always comes with a price.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

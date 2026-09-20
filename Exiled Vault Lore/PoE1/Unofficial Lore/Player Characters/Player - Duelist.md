@@ -1,4 +1,4 @@
-# A Singular Purpose
+## A Singular Purpose
 
 “What... ohhh... what are you... ohhhhhh... your fingers... fhhhhhh... is that... ohhhhhhhhh...”  
   
@@ -492,6 +492,6 @@ He left me alive to fight, and I will dance that dance once more, though it take
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Unofficial 
 #Category/Lore

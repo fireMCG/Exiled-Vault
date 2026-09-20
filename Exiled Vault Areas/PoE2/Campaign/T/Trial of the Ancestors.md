@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 Prove yourself before Hinekora.
 
-# Connected Areas
+## Connected Areas
 - Halls of the Dead
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

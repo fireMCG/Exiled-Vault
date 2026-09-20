@@ -1,4 +1,4 @@
-# Ailith on The Flame
+## Ailith on The Flame
 Ailith: To deal with the fortifications of the enemy's realm, you must wield the Flame. Do you accept this gift?
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on The Flame/Audio/Ailith - S7 - L1 - A1.ogg]]
 Warrior: I trust you, Ailith.
@@ -29,6 +29,6 @@ Ranger: Alright then. Guess we're doing this.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

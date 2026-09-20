@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Wanderlust.webp]]
+![[PoE2 - Legacy of Wanderlust.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Boots: Your speed is unaffected by Slows
-
-# Bonded Effects
-- Boots: 5% increased Movement Speed
+#
+## Flavour Text
+The Wanderer was seen as a sign of good luck,
+and welcome in every culture on Wraeclast...
+though he has not been seen for a century.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

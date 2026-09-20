@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Red Trail.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Red Trail.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We leave a trail, that we may know
 where never we will return.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

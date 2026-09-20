@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Karui Ward.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Karui Ward.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "In testing, Prototype #9 had no effect on fired arrows. However,
 an unknown spell did destroy the entire firing chamber."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

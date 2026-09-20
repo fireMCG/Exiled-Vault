@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Vial of Sacred Water.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Cool and pure, it represents hope in a bleak era.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE2
 #Society/Maraketh

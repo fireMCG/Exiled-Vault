@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/HuntingCharm.webp]]
+
 [[Rongokurai Tribe]]
 
+#
 #
 ## Flavour Text
 "Get out of my way!"
 
 #
-![[HuntingCharm.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

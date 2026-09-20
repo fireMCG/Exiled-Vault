@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Vaults of Atziri.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Vaults of Atziri.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Should I depart this mortal coil,
 so shall all of my treasures."
 - Atziri, Queen of the Vaal
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1

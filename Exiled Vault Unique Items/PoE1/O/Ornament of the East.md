@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ornament of the East.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ornament of the East.png]]
 
-# Flavour Text
+#
+## Flavour Text
 To the Maraketh, death is as intimate as love.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

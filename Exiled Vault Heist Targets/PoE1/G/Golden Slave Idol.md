@@ -1,13 +1,14 @@
-# Flavour Text
+![[Exiled Vault Heist Targets/_Images/Golden Slave Idol.png]]
+
+#
+## Flavour Text
 Victims of war, the indebted, and the irredeemably shamed were to live their lives in servitude.
 Some rose above their station. 
 This individual, it seems, was all but deified.
-#
-![[Golden Slave Idol.png]]
 
 #
 ---
-# Tags
+## Tags
 #Category/HeistTarget
 #Character/RingClient/Uthelius
 #Concept/Slavery 

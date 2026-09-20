@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Skyforth.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Skyforth.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The quick die young, the brilliant go mad,
 and the powerful stand alone in a wasteland of their own creation.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

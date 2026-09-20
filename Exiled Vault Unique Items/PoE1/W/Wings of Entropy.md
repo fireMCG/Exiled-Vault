@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Wings of Entropy.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Wings of Entropy.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fire and Anarchy are the most reliable agents of change.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

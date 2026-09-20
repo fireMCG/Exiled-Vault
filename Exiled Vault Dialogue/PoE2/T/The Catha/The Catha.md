@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### TheCatha_Glyph_01
 I am the Catha. The duality. The Truth will be illuminated before me. I am the discerning eye of every Maji.
 ![[Exiled Vault Dialogue/PoE2/T/The Catha/_Audio/The Catha - TheCatha_Glyph_01.ogg]]
@@ -57,6 +58,6 @@ Salvations wrath!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

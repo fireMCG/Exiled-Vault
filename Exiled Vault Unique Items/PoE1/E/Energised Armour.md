@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Energised Armour.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Energised Armour.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "I've yet to see prayer stop an arrow."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

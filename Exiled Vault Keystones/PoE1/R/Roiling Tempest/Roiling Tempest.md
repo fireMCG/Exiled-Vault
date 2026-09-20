@@ -1,15 +1,17 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Roiling Tempest.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Where you step, the sky darkens.
 
-# Effects
+#
+## Effects
 25% more Maximum Lightning Damage
 50% less Minimum Lightning Damage
 Cannot deal non-Lightning Damage
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #PoE1

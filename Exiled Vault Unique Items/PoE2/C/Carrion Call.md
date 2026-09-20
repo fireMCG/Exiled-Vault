@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Carrion Call.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Carrion Call.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Obedience stretches beyond the grave.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

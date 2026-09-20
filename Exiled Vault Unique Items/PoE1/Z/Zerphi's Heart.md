@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Zerphi's Heart.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Zerphi's Heart.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We are incapable of change without sacrifice, for we are both the iron and the forge.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Society/VaalEmpire

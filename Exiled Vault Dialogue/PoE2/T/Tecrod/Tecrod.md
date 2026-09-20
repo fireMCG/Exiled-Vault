@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Tecrod_SequenceOne_A1
 Freedom... at last!
 ![[Exiled Vault Dialogue/PoE2/T/Tecrod/_Audio/Tecrod - Tecrod_SequenceOne_A1.ogg]]
@@ -17,6 +18,6 @@ With this... the Master shall know unending power...
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

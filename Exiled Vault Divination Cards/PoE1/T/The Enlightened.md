@@ -1,17 +1,19 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Enlightened.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Weaving the six,
 a serpent stands tall.
 Wearing a crown,
 the thousand petals call.
 
-# Reward
+#
+## Reward
 Level 3 Enlighten
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Crown/Halo
 #Concept/Nature/Flower

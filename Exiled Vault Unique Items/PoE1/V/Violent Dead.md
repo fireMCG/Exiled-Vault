@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Violent Dead.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Violent Dead.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "Rage, malice, hunger - some traits are more easily carried across the barrier of death."
 - Kadavrus, Surgeon to the Umbra
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Clayshaper.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Clayshaper.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There is nothing, flesh, spirit, or stone
 Free from our hunger for dominion.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

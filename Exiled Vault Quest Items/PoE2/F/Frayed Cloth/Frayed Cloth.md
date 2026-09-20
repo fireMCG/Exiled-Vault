@@ -1,8 +1,11 @@
-# Flavour Text
+![[Exiled Vault Quest Items/_Images/PoE2 - Frayed Cloth.png]]
+
+#
+## Flavour Text
 Accept the end.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE2

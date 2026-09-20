@@ -1,18 +1,20 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Rain of Chaos.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fire filled the sky that night 
 Chaos reigned 
 Where the shards fell 
 All was destroyed 
 -Jozen Kasigi, retelling an urban legend of the Cataclysm
 
-# Reward
+#
+## Reward
 Chaos Orb
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Cataclysm
 #Concept/Balance/Chaos

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Sin's Rebirth.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Sin's Rebirth.png]]
 
-# Flavour Text
+#
+## Flavour Text
 And from the ashes he rose, like a black cloud.
 The Sin of one became the Sin of many.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

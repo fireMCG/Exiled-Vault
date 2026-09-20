@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Power and the Promise.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Power and the Promise.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Building on the fear and hatred that deified him, Innocence threatened an eternity of flames for nonbelievers. The newcomers wailed and threw themselves at his feet in the thousands." - Lycia, the Heretic
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

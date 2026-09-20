@@ -5,7 +5,7 @@ We strayed from the route marked on our map, driven further afield by painted me
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #League/Expedition
 #PoE2

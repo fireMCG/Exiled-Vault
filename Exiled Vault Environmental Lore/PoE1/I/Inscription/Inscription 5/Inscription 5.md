@@ -3,6 +3,6 @@ The Greatwolf has come for me. His heart beats within my chest. His tongue lolls
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act2

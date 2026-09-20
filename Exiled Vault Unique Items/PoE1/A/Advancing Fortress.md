@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Advancing Fortress.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Advancing Fortress.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "A man cowers behind his walls.
 A woman carries her fortress with her.
 In heart, in mind, in hand."
@@ -8,7 +9,7 @@ In heart, in mind, in hand."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Sekhema/Deshret
 #Concept/Body/Hand

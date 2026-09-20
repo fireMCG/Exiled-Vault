@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Three-step Assault.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Three-step Assault.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Move in with haste.
 Strike quick, strike hard.
 Vanish like smoke in the wind.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

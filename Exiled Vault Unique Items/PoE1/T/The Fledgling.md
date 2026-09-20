@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Fledgling.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Fledgling.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The single well-placed arrow that changes the world must be preceded by ten thousand practice shots.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Le Heup of All.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Le Heup of All.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Existence is infinite
 A weave of the living and dead
 Beyond the understanding
@@ -8,6 +9,6 @@ Of the many mortal threads
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

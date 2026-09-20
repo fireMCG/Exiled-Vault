@@ -1,4 +1,4 @@
-# Farrow on Mystic Refuge
+## Farrow on Mystic Refuge
 Farrow: Hmm... this is my best guess. Hope there's no damn bugs out there.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Mystic Refuge/Audio/Farrow - S8 - L1 - A1.ogg]]
 Warrior: Everything out here seems to teem with life. I wouldn't bet on no bugs.
@@ -26,7 +26,7 @@ Templar: [DNT]
 Marauder: [DNT]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Mystic Refuge/Audio/Farrow - S8 - L13 - A1.ogg]]
 
-# Farrow on Mystic Refuge
+## Farrow on Mystic Refuge
 Farrow: Hmm... this is my best guess. Hope there's no damn bugs out there.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Mystic Refuge/Audio/Farrow - S9 - L1 - A1.ogg]]
 Warrior: Everything out here seems to teem with life. I wouldn't bet on no bugs.
@@ -54,7 +54,7 @@ Templar: [DNT]
 Marauder: [DNT]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Mystic Refuge/Audio/Farrow - S9 - L13 - A1.ogg]]
 
-# Farrow on Mystic Refuge
+## Farrow on Mystic Refuge
 Farrow: Hmm... this is my best guess. Hope there's no damn bugs out there.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Mystic Refuge/Audio/Farrow - S10 - L1 - A1.ogg]]
 Warrior: Everything out here seems to teem with life. I wouldn't bet on no bugs.
@@ -84,6 +84,6 @@ Marauder: [DNT]
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

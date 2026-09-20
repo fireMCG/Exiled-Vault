@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Bushwhack.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Bushwhack.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Banished for his tragic failure,
 Erian learned to hunt to survive.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

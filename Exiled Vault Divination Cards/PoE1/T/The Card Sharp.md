@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Card Sharp.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The house always wins... except when I do."
 
-# Reward
+#
+## Reward
 Divination Scarab
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Aztec
 #PoE1

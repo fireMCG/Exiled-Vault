@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Shiversting.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Shiversting.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Stoic visage, icy heart.
 Life of sorrow, lived apart.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

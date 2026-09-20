@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Underground Forest.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "In the forest again... But at least I have these."
 
-# Reward
+#
+## Reward
 10x Grand Eldritch Ichor
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Nature/Forest
 #Concept/Underground

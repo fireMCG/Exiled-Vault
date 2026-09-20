@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Broken Crown.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Broken Crown.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Every rule has an exception.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Clear Mind.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Clear Mind.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When your thoughts flow like a river, why build a dam?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

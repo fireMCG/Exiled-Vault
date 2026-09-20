@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Beltimber Blade.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Beltimber Blade.png]]
 
-# Flavour Text
+#
+## Flavour Text
 By wind and wing they are carried,
 Their fates not theirs to control,
 Yet the fates of others dragged in their wake.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Fate
 #Concept/Wind

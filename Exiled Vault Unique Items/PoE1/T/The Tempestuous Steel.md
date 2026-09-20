@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Tempestuous Steel.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Tempestuous Steel.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The blade thrums with wild energy
 Eager for vengeance against all who walk free.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

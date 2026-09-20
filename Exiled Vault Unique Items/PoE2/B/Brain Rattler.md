@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Brain Rattler.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Brain Rattler.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The mind may have no limits, but the skull sure does.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

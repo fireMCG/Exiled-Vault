@@ -3,6 +3,6 @@ I strike harder and move more quickly with each passing clash. Always, I am on t
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

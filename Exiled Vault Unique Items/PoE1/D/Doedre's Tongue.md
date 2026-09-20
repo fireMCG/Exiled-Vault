@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Doedre's Tongue.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Doedre's Tongue.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Maligaro did the cutting... at her request.
 In the new void, a malevolent power emerged.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

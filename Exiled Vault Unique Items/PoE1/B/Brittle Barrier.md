@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Brittle Barrier.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Brittle Barrier.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Walls built in a hurry fall in a hurry.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

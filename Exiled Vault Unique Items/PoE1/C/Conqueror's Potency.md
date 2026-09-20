@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Conqueror's Potency.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Conqueror's Potency.png]]
 
-# Flavour Text
+#
+## Flavour Text
 What you earn is almost as important as what you take.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

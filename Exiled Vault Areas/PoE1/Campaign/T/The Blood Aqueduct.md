@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 A mighty spillway tainted by tarrish blacks and sanguine reds.
 
-# Connected Areas
+## Connected Areas
 - The Harbour Bridge
 - Highgate
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

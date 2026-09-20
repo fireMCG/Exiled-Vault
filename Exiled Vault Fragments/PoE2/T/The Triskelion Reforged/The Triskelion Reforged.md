@@ -1,14 +1,15 @@
 ![[Exiled Vault Fragments/_Images/PoE2 - The Triskelion Reforged.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A masterwork of runecraft.
 
-# Details
+## Details
 Map Fragments
 Travel to the Ruins of Kingsmarch and speak to Makoru to reach the Fallen Star where this item can be used.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE2

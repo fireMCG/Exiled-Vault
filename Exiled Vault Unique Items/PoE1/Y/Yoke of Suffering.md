@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Yoke of Suffering.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Yoke of Suffering.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Let the unrepentant be dragged ever downwards by the weight of their sins.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Voidbringer.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Voidbringer.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Absolute corruption empowers absolutely.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

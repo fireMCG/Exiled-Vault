@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Insanity's roost welcomes new guests for dinner.
 
-# Connected Areas
+## Connected Areas
 - Hunting Grounds
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2
 #Interesting 

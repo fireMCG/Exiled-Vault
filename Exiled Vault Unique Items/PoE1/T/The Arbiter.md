@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Arbiter.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Arbiter.png]]
 
-# Flavour Text
+#
+## Flavour Text
 On judgement day, only those who are worthy will survive.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

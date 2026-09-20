@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Delirium Scarab of Paranoia.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 If it seems too good to be true...
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 5
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Delirium
 #PoE1

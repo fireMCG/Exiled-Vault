@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Soul Tether.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Soul Tether.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Curious. The test spike penetrated the subject's flesh,
 but the chest wound was not as deep as expected. There is something here..."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

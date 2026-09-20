@@ -7,7 +7,7 @@ He ventured south, and came back changed, a sombre husk filled with unearthly ar
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/CurseOfTheAllflame
 #PoE1

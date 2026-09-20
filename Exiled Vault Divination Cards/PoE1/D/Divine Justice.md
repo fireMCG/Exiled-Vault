@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Divine Justice.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Many sought the Goddess' blessing. Few survived the Labyrinth to receive it.
 
-# Reward
+#
+## Reward
 Grand Spectrum
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/God/GoddessOfJustice
 #Concept/Balance/Justice

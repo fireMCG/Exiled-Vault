@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/BarbedArmband.webp]]
+
 [[Kitava Tribe]]
 
+#
 #
 ## Flavour Text
 "If you waver, drink of my blood, and fight on!"
 
 #
-![[BarbedArmband.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Character/Utula 
 #Concept/Blood 

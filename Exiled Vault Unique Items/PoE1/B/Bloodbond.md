@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Bloodbond.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Bloodbond.png]]
 
-# Flavour Text
+#
+## Flavour Text
 What mother wouldn't give her life for that of her children?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

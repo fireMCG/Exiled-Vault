@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Valyrium.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Valyrium.png]]
 
-# Flavour Text
+#
+## Flavour Text
 They will rise and fall in fire and blood.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

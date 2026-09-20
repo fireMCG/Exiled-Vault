@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Seething Fury.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Seething Fury.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It took the Bloody Flowers Rebellion to show the clans of Ezomyr the truth;
 What kept them apart was just a fabrication.
 Conjured rivalries from men who grew fat from the discord they sowed.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

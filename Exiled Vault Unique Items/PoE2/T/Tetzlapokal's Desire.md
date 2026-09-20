@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Tetzlapokal's Desire.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Tetzlapokal's Desire.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A faith born of flesh.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

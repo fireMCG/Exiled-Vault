@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Malachai's Simula.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Malachai's Simula.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It was a sliver of Malachai's soul that animated the first Eternal Guardian.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

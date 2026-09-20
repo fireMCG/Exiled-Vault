@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mutewind Whispersteps.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mutewind Whispersteps.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Corruption sweeps across this land,
 but our bloodline is clear.
 It is our duty to keep it so.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

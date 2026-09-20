@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Dreamer's Return
 You bring the flesh of the Lords. Their essence will aid the Dreamer's return. Present it to him.
 ![[Exiled Vault Dialogue/PoE2/M/Mysterious Acolyte/_Audio/Mysterious Acolyte - Dreamer's Return - 1.ogg]]
@@ -30,6 +31,6 @@ You should get some rest, perhaps.
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

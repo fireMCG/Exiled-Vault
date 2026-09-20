@@ -1,4 +1,4 @@
-# Ailith on Visions
+## Ailith on Visions
 Ailith: It may sound strange... but I live half in dream. Truth lies beyond the wall of sleep. It is the very foundation of our faith. Dreams are more real to me now than the waking world is to you.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Visions/Audio/Ailith - S26 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Visions/Audio/Ailith - S26 - L1 - A2.ogg]]
@@ -68,6 +68,6 @@ Templar: [DNT]
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

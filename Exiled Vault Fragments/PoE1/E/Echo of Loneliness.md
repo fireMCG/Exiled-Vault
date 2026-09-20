@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Echo of Loneliness.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Grief can divide, greater than any gulf.
 
-# Details
+## Details
 Quest Items
 Portal: Moment of Loneliness
 Area Level: 83
@@ -11,6 +12,6 @@ Open portals to the Moment of Loneliness to face the Incarnation of Neglect by u
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

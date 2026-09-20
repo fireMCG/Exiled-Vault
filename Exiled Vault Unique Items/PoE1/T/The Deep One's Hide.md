@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Deep One's Hide.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Deep One's Hide.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The thicker the shell,
 the greater the beast that hunts it.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

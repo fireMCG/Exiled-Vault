@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Boon of Justice.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Some gifts are obligations while others are simply opportunities.
 
-# Reward
+#
+## Reward
 Offering to the Goddess
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Goddess
 #Concept/Religion/Devotion

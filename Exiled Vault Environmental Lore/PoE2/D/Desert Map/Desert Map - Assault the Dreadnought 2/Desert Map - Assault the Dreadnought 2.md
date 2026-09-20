@@ -3,6 +3,6 @@ The time has come for a final confrontation. We must attack the Dreadnought and 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

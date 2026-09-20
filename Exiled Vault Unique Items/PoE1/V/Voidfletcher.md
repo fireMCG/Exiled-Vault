@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Voidfletcher.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Voidfletcher.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Even emptiness may be harnessed.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Midnight Bargain.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Midnight Bargain.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Simply incredible. I caught an escaping test subject myself with swarms of burning skulls. Delightful!"
 - Researcher Olesya
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Olesya
 #PoE1

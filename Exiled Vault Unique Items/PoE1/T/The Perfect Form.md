@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Perfect Form.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Perfect Form.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We share one space,
 speak one voice,
 act through one body.
@@ -9,6 +10,6 @@ Brittle.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Forbidden Shako.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Forbidden Shako.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Azmeri must never touch the Tears of Maji, lest Viridi weep.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

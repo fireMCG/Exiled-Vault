@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Brittle Emperor.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "When Voll spared Malachai, accepting his aid in pursuit of Purity, the strongest faith was infected by Corruption and made brittle as glass."
 - Victario, the People's Poet
 
-# Reward
+#
+## Reward
 Voll's Devotion
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/Emperor/VollOfThebrus
 #Character/Malachai

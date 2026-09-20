@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Innsmouth.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Innsmouth.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Beyond madness lies inspiration.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

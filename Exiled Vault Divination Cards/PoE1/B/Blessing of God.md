@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Blessing of God.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When the darkness weighs upon you, grow light from within.
 
-# Reward
+#
+## Reward
 Elreon's Jewellery
 Item Level: 85
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/Elreon
 #Concept/Darkness

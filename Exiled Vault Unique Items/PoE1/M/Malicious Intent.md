@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Malicious Intent.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Malicious Intent.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Each life taken makes the next a little easier.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

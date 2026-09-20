@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Squandered Prosperity.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Our rulers are being ridiculous, and we are suffering."
 
-# Reward
+#
+## Reward
 The Light of Meaning
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Animal/Feline/Cat
 #Concept/Light

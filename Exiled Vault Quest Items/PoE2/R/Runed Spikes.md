@@ -1,13 +1,14 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Runed Spikes.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Together, the runes are an oath of peaceful
 passage and a request for freedom in
 pursuit of an important cause.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Concept/Rune
 #PoE2

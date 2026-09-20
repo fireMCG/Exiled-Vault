@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Nadir Mode.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Nadir Mode.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Indiscriminate destruction fueled by science gone mad.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Conduit.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The path to godhood is guided by the hand of sacrifice.
 
-# Reward
+#
+## Reward
 Doryani's Fist
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Body/Hand
 #Concept/Element/Lightning

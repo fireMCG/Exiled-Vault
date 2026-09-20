@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Grattus Signet.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Grattus Signet.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The first Grattus patriarch had only one tell. When he slowly turned his ring, all cowered before him.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

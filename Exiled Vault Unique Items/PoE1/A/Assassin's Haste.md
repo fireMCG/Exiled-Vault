@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Assassin's Haste.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Assassin's Haste.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A quick step can advance great plans.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

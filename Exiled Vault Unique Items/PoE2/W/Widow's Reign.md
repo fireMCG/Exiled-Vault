@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Widow's Reign.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Widow's Reign.png]]
 
-# Flavour Text
+#
+## Flavour Text
 That day, both the Unblinking Eye and
 their enemies stood in silence. That day,
 the sky was clear, but it was raining.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Body/Eye
 #Concept/Silence

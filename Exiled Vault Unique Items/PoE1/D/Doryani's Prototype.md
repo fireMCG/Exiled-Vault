@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Doryani's Prototype.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Doryani's Prototype.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "This was the first step in some grand design,
 lost to the ages, now ours to decipher."
 - Dominus, High Templar
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1

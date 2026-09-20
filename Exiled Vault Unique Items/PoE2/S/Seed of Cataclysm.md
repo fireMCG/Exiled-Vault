@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Seed of Cataclysm.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Seed of Cataclysm.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The dawn of a new era is set into motion
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

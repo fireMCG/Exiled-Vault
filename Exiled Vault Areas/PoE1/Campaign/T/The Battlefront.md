@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 Charred flesh and spilled bowels. Sweet and sour.
 
-# Connected Areas
+## Connected Areas
 - The Marketplace
 - The Solaris Temple Level 1
 - The Docks
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

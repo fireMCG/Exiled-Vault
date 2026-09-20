@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 Shrouded in mourning silks.
 
-# Connected Areas
+## Connected Areas
 - The Western Forest
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

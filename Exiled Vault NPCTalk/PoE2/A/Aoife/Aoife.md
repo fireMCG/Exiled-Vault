@@ -1,11 +1,11 @@
-# Table of Content
+## Table of Content
 [[#Aoife on Aoife]]
 
-# Aoife on Aoife
+## Aoife on Aoife
 ![[Aoife on Aoife]]
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

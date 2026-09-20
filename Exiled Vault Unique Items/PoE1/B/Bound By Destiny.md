@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Bound By Destiny.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Bound By Destiny.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The future weaves ever forward, twisting into itself forever,
 driven by the passions and tragedies of those who seek.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

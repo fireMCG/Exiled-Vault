@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 The air needles the skin with its frigid fury.
 
-# Connected Areas
+## Connected Areas
 - The Cavern of Wrath
 - The Southern Forest
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

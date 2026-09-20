@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Unnatural Instinct.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Unnatural Instinct.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "I don't know how I know,
 I just know that I know."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

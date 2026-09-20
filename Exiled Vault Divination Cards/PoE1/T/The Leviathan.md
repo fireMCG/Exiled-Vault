@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Leviathan.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Ancient behemoths swam the depths of the oceans long before Man walked these lands.
 
-# Reward
+#
+## Reward
 Maven Item
 Two-Implicit
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

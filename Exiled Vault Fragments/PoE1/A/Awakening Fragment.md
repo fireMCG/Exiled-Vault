@@ -1,10 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Awakening Fragment.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Agony born of ennui.
 Hate born of love.
 
-# Details
+## Details
 Map Fragments
 Portal: Eye of the Storm
 Area Level: 85
@@ -15,7 +16,7 @@ Use four of these in a personal Map Device to open Portals to The Eye of the Sto
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #Character/Conqueror/Sirus
 #PoE1

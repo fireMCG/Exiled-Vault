@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Sunblast.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Sunblast.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The sun's fury, trapped
 in pillars of blazing light,
 Explodes from its cage.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

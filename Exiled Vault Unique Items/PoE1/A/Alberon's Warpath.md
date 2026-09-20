@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Alberon's Warpath.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Alberon's Warpath.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Alberon walked among the accursed, and they welcomed him.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Alberon
 #Concept/Curse

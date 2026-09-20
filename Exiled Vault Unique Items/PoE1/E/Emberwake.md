@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Emberwake.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Emberwake.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Leave the world in flames behind you.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

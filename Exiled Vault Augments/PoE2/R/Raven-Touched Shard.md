@@ -1,13 +1,13 @@
-# Details
-- Stack Size: 1 / 10
-- Limited to: 1
-- Requires: Level 60
+![[PoE2 - Raven-Touched Shard.webp]]
 
-# Effects
-- Helmets: Raven-Touched
+#
+## Flavour Text
+It reached out a long, horrific limb, and touched it
+to my forehead. Awareness grew there. The truth.
+A window into limitless darkness... and loneliness.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

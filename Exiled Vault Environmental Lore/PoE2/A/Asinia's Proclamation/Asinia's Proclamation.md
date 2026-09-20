@@ -3,7 +3,7 @@ Let this be a testament for all time. The Eternal Empire stakes claim over this 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/EternalEmpire

@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/TurtleShell.webp]]
+
 [[Rongokurai Tribe]]
 
+#
 #
 ## Flavour Text
 Slow and steady wins the race.
 
 #
-![[TurtleShell.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

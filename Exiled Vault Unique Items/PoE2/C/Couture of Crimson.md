@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Couture of Crimson.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Couture of Crimson.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It's often said of nobles that they live off their peasants... sometimes, it's truer than any suspect.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Iron Fortress.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Iron Fortress.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Stand steadfast in the face of destruction.
 The Council cannot afford to falter."
 - Mauritius, the Iron Heart
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

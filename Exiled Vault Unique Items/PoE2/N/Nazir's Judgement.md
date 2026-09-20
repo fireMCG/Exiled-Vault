@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Nazir's Judgement.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Nazir's Judgement.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The first witch hunter knew one critical tactic: never let your enemy have a clear moment.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

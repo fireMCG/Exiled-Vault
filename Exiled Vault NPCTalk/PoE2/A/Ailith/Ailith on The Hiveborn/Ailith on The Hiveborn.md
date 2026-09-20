@@ -1,4 +1,4 @@
-# Ailith on The Hiveborn
+## Ailith on The Hiveborn
 Ailith: They come from another world... a barren world... and they crave our living land and sky. Our unbroken sun. They cannot be allowed to gain a foothold here, or they will poison Wraeclast the same way they poisoned themselves.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on The Hiveborn/Audio/Ailith - S16 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on The Hiveborn/Audio/Ailith - S16 - L1 - A2.ogg]]
@@ -75,6 +75,6 @@ Ailith: No matter what, we must stop them. It is the very reason why the Monaste
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

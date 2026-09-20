@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Altered Perception.png]]
 
-# Flavour Text
+#
+## Flavour Text
 You mustn't forget: you won't be leaving this place.
 
-# Reward
+#
+## Reward
 Simulacrum
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 Beautiful, but deadly.
 
-# Connected Areas
+## Connected Areas
 - Infested Barrens
 - Jiquani's Machinarium
 - The Temple of Chaos
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

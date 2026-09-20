@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Thousand Teeth Temu.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Thousand Teeth Temu.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Crimson burn'd the star of sadness,
 All was woe that seem'd but gladness.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

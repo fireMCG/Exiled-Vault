@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Kitoko's Current.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Kitoko's Current.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Reality is a puzzle. Ingenuity is power.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

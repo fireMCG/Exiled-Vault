@@ -3,6 +3,6 @@ The colours and banners of a hundred clans, scattered like the wildflowers of sp
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act2

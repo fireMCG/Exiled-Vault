@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Firefly (1 of 7).png]]
 
-# Flavour Text
+#
+## Flavour Text
 In all things living, the light burns bright.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Concept/Light
 #Concept/Life

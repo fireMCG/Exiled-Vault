@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Reaper's Pursuit.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Reaper's Pursuit.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Accept your fate, or lie, pretend.
 Death collects you in the end.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

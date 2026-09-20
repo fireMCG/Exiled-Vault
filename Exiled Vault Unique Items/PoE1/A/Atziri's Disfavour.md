@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Atziri's Disfavour.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Atziri's Disfavour.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "I do not believe in disguising my disappointment."
 - Atziri, Queen of the Vaal
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Atziri
 #Society/VaalEmpire

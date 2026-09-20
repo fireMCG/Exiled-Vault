@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Twyzel.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Twyzel.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Life persisted,
 hardened, twisted.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

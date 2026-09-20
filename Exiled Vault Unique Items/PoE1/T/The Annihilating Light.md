@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Annihilating Light.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Annihilating Light.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There is no force more destructive in the heavens
 than the scintillating light of utter clarity.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/SearingExarch
 #Concept/Religion/Heaven

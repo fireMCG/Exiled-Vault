@@ -1,10 +1,13 @@
-# Flavour Text
+![[Exiled Vault Quest Items/_Images/PoE2 - Vorana's Boon.png]]
+
+#
+## Flavour Text
 To Vorana the Irrepressible, Cadigan III granted a royal boon
 of hardiness. They had long clashed, but in this endeavour,
 the King knew she was the best possible choice for success.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE2

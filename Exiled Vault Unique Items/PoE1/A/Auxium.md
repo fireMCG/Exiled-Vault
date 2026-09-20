@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Auxium.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Auxium.png]]
 
-# Flavour Text
+#
+## Flavour Text
 As long as the soul is unfettered, so is the body.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Body/Flesh
 #Concept/Soul

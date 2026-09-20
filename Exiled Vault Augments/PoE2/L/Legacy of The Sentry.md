@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of The Sentry.webp]]
+![[PoE2 - Legacy of The Sentry.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Quarterstaves: Adds 23 to 34 Fire damage to Attacks, 100% increased Flammability Magnitude
-
-# Bonded Effects
-- Quarterstaves: +2% to Maximum Fire Resistance
+#
+## Flavour Text
+"We sing Erian's songs now, but he was hated
+for many a generation. All the poor man did
+was fall asleep at the wrong time."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

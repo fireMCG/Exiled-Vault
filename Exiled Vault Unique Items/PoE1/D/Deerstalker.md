@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Deerstalker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Deerstalker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Anticipation, preparation, exhilaration, celebration.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

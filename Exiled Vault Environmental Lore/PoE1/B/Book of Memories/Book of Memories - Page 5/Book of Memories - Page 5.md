@@ -2,6 +2,6 @@ Weeks passed. The sun set and the moon rose countless times. And every night, I 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

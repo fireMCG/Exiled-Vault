@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Progeny of Lunaris.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Born beneath silver light, bearing Lunaris' mark.
 Conjuring all his might, the Prodigy turned light to dark.
 
-# Reward
+#
+## Reward
 Dying Sun
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/God/Lunaris
 #Character/God/Innocence

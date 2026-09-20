@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Disintegrator.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Disintegrator.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Blurred is the boundary
 between creator and destroyer.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

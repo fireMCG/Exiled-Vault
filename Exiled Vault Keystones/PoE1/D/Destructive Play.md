@@ -1,10 +1,12 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Destructive Play.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 She makes the rules up as she goes.
 It was never going to be fair.
 
-# Effects
+#
+## Effects
 2% increased Maps found in your Maps
 The Maven casts Up the Stakes, summoning 1 to 3 additional Atlas Bosses
 when Witnessing Map Bosses
@@ -15,7 +17,7 @@ Unmodifiable
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #PoE1
 #Interesting 

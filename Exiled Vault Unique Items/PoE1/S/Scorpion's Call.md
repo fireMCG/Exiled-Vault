@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Scorpion's Call.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Scorpion's Call.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Claws open, brace for a bite.
 Stinger raised, dodge or die.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

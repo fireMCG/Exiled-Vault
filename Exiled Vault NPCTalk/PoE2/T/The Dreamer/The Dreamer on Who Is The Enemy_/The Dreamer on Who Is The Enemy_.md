@@ -1,4 +1,4 @@
-# The Dreamer on Who Is The Enemy?
+## The Dreamer on Who Is The Enemy?
 The Dreamer: Xoph, Esh, Tul and Uul-Netol.... Our melding failed. I was torn asunder. Cast into the void between worlds. But they... became Xesht. Vile Lords. Once my brethren, now a monstrous fiend.
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on Who Is The Enemy_/Audio/The Dreamer - S10 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on Who Is The Enemy_/Audio/The Dreamer - S10 - L1 - A2.ogg]]
@@ -34,6 +34,6 @@ The Dreamer: I see the beauty of existence, but they see nothing beyond their ra
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

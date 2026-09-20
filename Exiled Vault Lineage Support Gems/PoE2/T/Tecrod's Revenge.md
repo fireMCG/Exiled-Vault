@@ -1,13 +1,14 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Tecrod's Revenge.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The Lich Lords destroyed his body, but with his dying fury,
 Tecrod found a way. He lurks deep, in the blood, in the flesh,
 in the Well... perhaps walking among them even now, unseen.
 
 #
 ---
-# Tags
+## Tags
 #Category/SupportGem/Lineage 
 #Character/Tecrod
 #Concept/Blood

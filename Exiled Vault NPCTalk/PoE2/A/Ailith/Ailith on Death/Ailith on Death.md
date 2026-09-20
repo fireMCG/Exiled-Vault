@@ -1,4 +1,4 @@
-# Ailith on Death
+## Ailith on Death
 Warrior: Ailith? You're here? I... I saw you die.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Death/Audio/Ailith - S25 - L1 - A1.ogg]]
 Witch: How is it that you're alive? You don't look mindless enough to be undead.
@@ -112,6 +112,6 @@ Ailith: You must not dwell on this. I do not. It is simply another reality in th
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

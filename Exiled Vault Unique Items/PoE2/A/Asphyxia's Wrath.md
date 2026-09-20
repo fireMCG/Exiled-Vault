@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Asphyxia's Wrath.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Asphyxia's Wrath.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Mist of breath
 Icing to lips and throat
 As the warm ones choke and fall
@@ -8,6 +9,6 @@ Upon the frozen wasteland.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

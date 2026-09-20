@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 Life pales in the wake of progress.
 
-# Connected Areas
+## Connected Areas
 - The Battlefront
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

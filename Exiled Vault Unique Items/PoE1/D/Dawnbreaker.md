@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Dawnbreaker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Dawnbreaker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The newcomers warn of doom and death beyond mortal ken.
 I ask, why should we fear the fire when we serve the Lord of Light?"
 - Maxarius, the first High Templar
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/God/Innocence
 #Character/HighTemplar/Maxarius

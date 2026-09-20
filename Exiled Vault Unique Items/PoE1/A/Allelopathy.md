@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Allelopathy.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Allelopathy.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Nothing is more natural than competition.
 One feasts, another starves.
 One blossoms, another withers.
@@ -9,7 +10,7 @@ And one cannot catch the golden sunlight without casting a bitter shadow."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/CadiroPerandus
 #Concept/Light

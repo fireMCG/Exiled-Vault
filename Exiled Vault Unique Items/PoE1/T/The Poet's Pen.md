@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Poet's Pen.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Poet's Pen.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In every piece of prose, lies a tiny spark of magic.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

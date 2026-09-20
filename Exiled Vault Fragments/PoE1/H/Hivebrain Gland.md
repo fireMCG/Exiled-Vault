@@ -1,10 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Hivebrain Gland.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Countless voices murmur,
 singing of the Hive...
 
-# Details
+## Details
 Map Fragments
 Portal: Hive Colony
 Area Level: 83
@@ -12,6 +13,6 @@ Open a portal to the Hive Colony by using this item in a personal Map Device. Ca
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

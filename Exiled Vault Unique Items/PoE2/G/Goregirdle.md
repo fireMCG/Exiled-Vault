@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Goregirdle.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Goregirdle.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Bleeding just means you're still alive.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Olesya's Delight.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Olesya's Delight.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The cruel thinker finds glee in torture most precise.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Maven
 #Character/Olesya

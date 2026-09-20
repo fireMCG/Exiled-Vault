@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Wildslash.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Wildslash.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There are two things to know about fighting:
 When to swing like crazy, and when to run.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

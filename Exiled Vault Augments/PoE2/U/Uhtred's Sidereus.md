@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Uhtred's Sidereus.webp]]
+![[PoE2 - Uhtred's Sidereus.webp]]
 
-# Details
-- Stack Size: 1 / 10
-- Limited to: 1
-
-# Effects
-- Boots: Can roll Chronomancy modifiers
-
-# Bonded Effects
-- Boots: 10% increased Cooldown Recovery Rate
+#
+## Flavour Text
+Time was not night and day to the Order of the Chalice.
+It was the motions of the stars, the celestial patterns.
+To understand Time was to comprehend existence itself.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

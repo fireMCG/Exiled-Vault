@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Morior Invictus.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Morior Invictus.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Unblinking Eye did not cower and wail.
 They stood against the end.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

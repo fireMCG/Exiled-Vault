@@ -2,7 +2,7 @@ Yet the punishment only served to feed Sin's lusts. Before his brother's eyes, S
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/Lore/Environmental
 #Character/God/Innocence

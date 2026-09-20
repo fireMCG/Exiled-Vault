@@ -1,15 +1,17 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Runebinder.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 An arcane pattern, secrets bound. Blind truth splinters with lies abound.
 
-# Effects
+#
+## Effects
 -1 to maximum number of Summoned Totems
 You can have an additional Brand Attached to an Enemy
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE1

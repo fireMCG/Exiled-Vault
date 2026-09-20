@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Icetomb.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Icetomb.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When Solaris closes his burning eye
 At the end of time, the world will perish in ice.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

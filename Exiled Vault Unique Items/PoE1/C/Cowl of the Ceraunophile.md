@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Cowl of the Ceraunophile.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Cowl of the Ceraunophile.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The villagers seared the blight with lightning, but it only forked into countless tendrils.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

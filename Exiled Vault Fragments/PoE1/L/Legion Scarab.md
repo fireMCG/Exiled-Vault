@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Legion Scarab.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 What good is peace to a warrior?
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 5
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Legion
 #PoE1

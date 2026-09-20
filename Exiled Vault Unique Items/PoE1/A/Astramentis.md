@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Astramentis.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Astramentis.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Mindless rage will shake the world,
 Cunning lies will bend it.
 Reckless haste will break the world,
@@ -8,7 +9,7 @@ And into darkness send it.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Darkness
 #Concept/Fracture

@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Shaper's Touch.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Shaper's Touch.png]]
 
-# Flavour Text
+#
+## Flavour Text
 By my hand, the inert is given life.
 By my hand, that which rots is reborn.
 There is nothing that cannot be changed.
@@ -8,7 +9,7 @@ Nothing.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

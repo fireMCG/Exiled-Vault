@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 The secrets of the Vaal await an intrepid explorer.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2

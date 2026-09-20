@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Triumvirate Authority (3 random modifiers).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Triumvirate Authority (3 random modifiers).png]]
 
-# Flavour Text
+#
+## Flavour Text
 The priest that carried Yaomac's sigil was granted one boon by each serpentine head.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1

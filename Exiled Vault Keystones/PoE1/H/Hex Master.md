@@ -1,15 +1,17 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Hex Master.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Hear these words but once and they will echo in your nightmares forever.
 
-# Effects
+#
+## Effects
 Your Hexes have infinite Duration
 20% less Effect of your Curses
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE1

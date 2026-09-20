@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Rebuke of the Vaal.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Rebuke of the Vaal.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Though the Vaal revered peace, it would have
 been suicide for any culture to rouse them to war.
 - Icius Perandus, Scholar to the Empire.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

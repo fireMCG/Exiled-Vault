@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Hateful Accuser.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Hateful Accuser.webp]]
 
-# Flavour Text
-In truth, they point the finger at themselves.
+#
+## Flavour Text
+Quiet thy troubled soul. Think not. Just pray... to me.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

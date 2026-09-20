@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### FinneganTrader_Approach_First
 Wares and deals aplenty! Finnegan at your service.
 
@@ -220,6 +221,6 @@ That's right. Foes call me Fleabag. Friends call me Finnegan. Most call me both.
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE1

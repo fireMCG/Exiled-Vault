@@ -1,12 +1,14 @@
-# Details
-- Stack Size: 1 / 10
-- Limited to: 1
+![[PoE2 - Serle's Triumph.webp]]
 
-# Effects
-- All Equipment: +1 Suffix Modifier allowed, local maximum mods allowed + [1]
+#
+## Flavour Text
+The pinnacle of Serle's work was not a grand artefact.
+It was a subversion; a window. He stood upon a peak
+and saw beyond mortal limitations, understanding, in
+that moment, that so much more was possible...
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

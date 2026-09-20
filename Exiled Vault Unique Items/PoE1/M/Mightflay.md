@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mightflay.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mightflay.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A mighty beast, a lavish feast.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Grand Spectrum (Viridian Jewel, elemental damage).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Grand Spectrum (Viridian Jewel, elemental damage).png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fists that strike like a falling tree.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

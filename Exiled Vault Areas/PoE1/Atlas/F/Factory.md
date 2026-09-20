@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 Repetition. Convention. Duplication.
 
 Creation distilled to perfection.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE1
 #Interesting

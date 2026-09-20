@@ -5,6 +5,6 @@ So, the Beast {has} entered the world once more. We were following a trail of Co
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

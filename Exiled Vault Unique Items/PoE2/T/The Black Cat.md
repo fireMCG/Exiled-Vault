@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Black Cat.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Black Cat.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The most beloved member of every Brinerot crew
 is the one that refuses to do any actual work.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

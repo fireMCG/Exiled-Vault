@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Peregrine.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Peregrine.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We wander to pass time.
 We travel to fulfill.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

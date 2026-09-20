@@ -1,9 +1,10 @@
-# Flavour Text
+#
+## Flavour Text
 Wealth beyond imagining,
 locked beyond reach.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Wicked Quill.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Wicked Quill.png]]
 
-# Flavour Text
+#
+## Flavour Text
 With a flick of the finger, their fates are written,
 the pages torn to a million pieces.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

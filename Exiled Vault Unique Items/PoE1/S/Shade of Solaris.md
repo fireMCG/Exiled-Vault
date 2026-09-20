@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Shade of Solaris.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Shade of Solaris.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Without light, there can be no shadow.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

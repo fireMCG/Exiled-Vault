@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 A wounded land plays host to an infection.
 
-# Connected Areas
+## Connected Areas
 - Clearfell Encampment
 - Mud Burrow
 - The Grelwood
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

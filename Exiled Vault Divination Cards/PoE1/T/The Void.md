@@ -1,11 +1,12 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Void.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Reach into the Void and claim your prize.
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

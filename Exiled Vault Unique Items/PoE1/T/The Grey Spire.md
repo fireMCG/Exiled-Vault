@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Grey Spire.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Grey Spire.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There was never a simpler time.
 Just simpler motivations.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

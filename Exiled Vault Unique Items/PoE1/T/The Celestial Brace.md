@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Celestial Brace.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Celestial Brace.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Forged from the heart of the densest star, your courage will fail long before it does.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/SearingExarch
 #Concept/Virtue/Courage

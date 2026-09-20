@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Domination Scarab of Apparitions.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Some paths to power lead only to madness.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Domination
 #PoE1

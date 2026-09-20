@@ -3,7 +3,7 @@ Dear Oswin, The Red Thane and I are thrilled with your attention to detail. The 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Ezomyte

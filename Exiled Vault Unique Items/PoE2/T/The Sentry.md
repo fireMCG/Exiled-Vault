@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Sentry.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Sentry.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The night Draven attacked,
 Erian was asleep at his post.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

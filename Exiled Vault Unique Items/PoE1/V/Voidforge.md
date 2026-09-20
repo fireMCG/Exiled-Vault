@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Voidforge.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Voidforge.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A weapon born of nothingness,
 can only create more nothingness.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

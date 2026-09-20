@@ -1,6 +1,7 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Calendar of Fortune.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The King looked upon images swirling atop the ancient stone dial.
 "You look peaceful" he told his bride-to-be, "So peaceful, asleep in our wedding bed."
 But in phantasm, she did not slumber, and what he saw was not a place for dreams,
@@ -9,7 +10,7 @@ rather, a wooden box... about to be closed and lowered into earthy depths.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE1
 #Society/Maraketh

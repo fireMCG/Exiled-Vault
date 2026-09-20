@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Fall of the Axe.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Fall of the Axe.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "When the headsman's blade swings,
 your last moments stretch to eternity."
 - Vorm, the Twice-Pardoned
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

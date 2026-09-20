@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Pure Talent.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Pure Talent.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Twelve test subjects were expended in the production of Prototype #800.
 Was it worth the expense? Only time will tell."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Virtue/Gem
 #PoE1

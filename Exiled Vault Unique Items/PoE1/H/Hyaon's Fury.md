@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hyaon's Fury.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hyaon's Fury.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Hyaon the 'Red Wolf'
 Howling mad
 Cloaked in blood
@@ -10,6 +11,6 @@ A terror to his foes."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Frostbreath.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Frostbreath.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A merciful murderer swept through the streets of Sarn
 Robbing breath from the weak and worthless.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

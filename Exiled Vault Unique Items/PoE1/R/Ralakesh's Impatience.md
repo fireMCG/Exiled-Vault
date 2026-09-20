@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ralakesh's Impatience.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ralakesh's Impatience.png]]
 
-# Flavour Text
+#
+## Flavour Text
 For the immortal, what is the difference
 between an age and an instant?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Grand Spectrum (Sapphire).png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Grand Spectrum (Sapphire).png]]
 
-# Flavour Text
+#
+## Flavour Text
 Skin like steel tempered by bright flames.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Coat of Red.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Coat of Red.png]]
 
-# Flavour Text
+#
+## Flavour Text
 For those noble families obsessed
 with keeping their bloodline pure,
 there was a price to pay...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

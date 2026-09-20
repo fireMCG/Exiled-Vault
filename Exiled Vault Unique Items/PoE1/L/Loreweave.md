@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Loreweave.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Loreweave.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When it comes to finding a use for surplus,
 a rich man has within himself
 boundless creativity.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

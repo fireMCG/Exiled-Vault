@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Ankh of Eternity.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The amulet, it... whispers to me. Horrible things...
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Concept/Life/Immortality
 #Concept/Resurrection

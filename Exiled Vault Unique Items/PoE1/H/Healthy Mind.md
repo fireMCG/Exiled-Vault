@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Healthy Mind.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Healthy Mind.png]]
 
-# Flavour Text
+#
+## Flavour Text
 For the ambitious, flesh is a limitation.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Gloomfang.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Gloomfang.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Darkness never stops feeding.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

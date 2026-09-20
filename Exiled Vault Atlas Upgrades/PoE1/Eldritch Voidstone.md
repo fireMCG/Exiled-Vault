@@ -7,7 +7,7 @@ Their challenge echoes with the authority of masters beyond comprehension.
 
 #
 ---
-# Tags
+## Tags
 #Category/AtlasUpgrade
 #PoE1
 #Interesting

@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 Spells of blood foul the waters below.
 
-# Connected Areas
+## Connected Areas
 - The Toxic Conduits
 - The Grand Promenade
 - The Quay
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

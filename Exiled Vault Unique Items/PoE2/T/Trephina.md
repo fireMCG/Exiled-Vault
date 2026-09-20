@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Trephina.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Trephina.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The art of surgery advances one mistake at a time.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,13 +1,16 @@
-# Flavour Text
+![[Prophecy_inventory_icon.png]]
+
+#
+## Flavour Text
 The vanguard did not return, so more have followed their path, bringing war with them.
-# Prophecy
+
+## Prophecy
 You will encounter and slay several Warbands and their reinforcements.
-# Reward
+
+## Reward
 \- None -
 
 #
-![[Prophecy_inventory_icon.png]]
-
 #
 ---
 ## Tags

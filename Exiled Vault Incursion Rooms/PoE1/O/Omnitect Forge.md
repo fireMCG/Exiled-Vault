@@ -1,16 +1,20 @@
-# Flavour Text
+#
+## Flavour Text
 Flames desire to empower the spire.
-# Properties
+
+## Properties
 **Tier:** 2
 **Architect:** [[Puhuarte, Architect of the Forge]]
-# Alva's Comments
+
+## Alva's Comments
 1. Puhuarte's hammer will continue to echo through the dark, I trust you have a reason for this?
-# Chronicle of Atzoatl
+
+## Chronicle of Atzoatl
 - None -
 
 #
 ---
-# Tags
+## Tags
 #Category/IncursionRoom
 #League/Incursion
 #PoE1

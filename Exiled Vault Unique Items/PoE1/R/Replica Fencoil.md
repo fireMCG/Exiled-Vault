@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Fencoil.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Fencoil.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Attempt #306: The power I can sense in this ancient branch
 still eludes me. Perhaps if I attach some string and a hook..."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Animal/Fish
 #Concept/Power

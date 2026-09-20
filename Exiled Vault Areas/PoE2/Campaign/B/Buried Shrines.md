@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 The Seven Rivers once met below these dry stones.
 
-# Connected Areas
+## Connected Areas
 - The Lost City
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Ever-Changing.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Atlas is our prison, and our only defence. She is our only hope, and our certain doom.
 
-# Reward
+#
+## Reward
 10x Orb of Unmaking
 
 #
 ---
-# Tags
+## Tags
 #Character/Kirac
 #Character/Eldritch/Maven
 #Concept/AtlasOfWorlds

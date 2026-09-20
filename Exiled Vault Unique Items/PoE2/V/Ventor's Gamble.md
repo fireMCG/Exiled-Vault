@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Ventor's Gamble.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Ventor's Gamble.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In a blaze of glory, an anomaly defying all odds.
 The "unkillable" beast met the divine, and Ventor met his latest trophy.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Ventor
 #Concept/Beast

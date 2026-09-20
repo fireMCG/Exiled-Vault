@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Eternal Struggle.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Eternal Struggle.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Simply the way it must be, so that existence may be.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

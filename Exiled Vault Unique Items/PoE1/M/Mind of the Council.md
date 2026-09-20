@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mind of the Council.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mind of the Council.png]]
 
-# Flavour Text
+#
+## Flavour Text
 You think we do not know.
 We know all that you think.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

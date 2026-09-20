@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Voices.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Voices.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Only a madman would ignore a god's instructions.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

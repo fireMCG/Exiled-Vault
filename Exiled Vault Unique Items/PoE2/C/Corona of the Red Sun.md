@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Corona of the Red Sun.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Corona of the Red Sun.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Only the High Priests could enact the sacrifices,
 but all who witnessed shared in exultation.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE2

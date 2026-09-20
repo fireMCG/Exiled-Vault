@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Primordial Might.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Primordial Might.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Do not cause the land to stir,
 It holds secrets better unknown."
 - Azmerian proverb
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

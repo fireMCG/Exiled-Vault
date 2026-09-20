@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Eyes of the Greatwolf.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Eyes of the Greatwolf.png]]
 
-# Flavour Text
+#
+## Flavour Text
 I am but a vessel for a greater force.
 It acts through me. Speaks through me.
 Decides what lives and dies through me.
@@ -8,6 +9,6 @@ And will change the world through me.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

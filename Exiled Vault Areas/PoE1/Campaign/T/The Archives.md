@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 All the knowledge in the Empire could not save them.
 
-# Connected Areas
+## Connected Areas
 - The Library
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

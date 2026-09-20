@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Lioneye's Paws.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Lioneye's Paws.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Stand and lead the righteous pride,
 Fight till death, never hide.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

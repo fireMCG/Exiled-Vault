@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hotheaded.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hotheaded.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It's hard to stay still when you're engulfed in flames.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

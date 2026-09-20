@@ -5,6 +5,6 @@ Jamanra is back where he belongs. I have given him a proper death. By removing h
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

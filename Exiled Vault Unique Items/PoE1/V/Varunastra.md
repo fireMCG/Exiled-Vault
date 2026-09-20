@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Varunastra.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Varunastra.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Painful suicide in the hands of a fool,
 Creative death in the hands of a master."
 - Icius Perandus, Antiquities Collection, Item 2992
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

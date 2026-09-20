@@ -3,6 +3,6 @@ I learned a forbidden Templar secret: there are no records of the deceased. They
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

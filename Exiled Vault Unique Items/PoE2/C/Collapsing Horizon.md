@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Collapsing Horizon.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Collapsing Horizon.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The edges bend, the world flexes, the infinite spills into view.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

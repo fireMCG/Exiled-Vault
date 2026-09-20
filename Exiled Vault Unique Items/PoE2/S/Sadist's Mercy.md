@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Sadist's Mercy.webp]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Sadist's Mercy.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 You mortals are insidious. You repress your
 evil, or deny it exists. Liars! When I open
 your heads, that violence floods out."
@@ -8,7 +9,7 @@ your heads, that violence floods out."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Witchfire Brew.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Witchfire Brew.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Nobody will listen to me, because I'm the only one that sees it. Nothing left to do now but drink until this world makes sense."
 - Researcher Graven
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Graven
 #PoE1

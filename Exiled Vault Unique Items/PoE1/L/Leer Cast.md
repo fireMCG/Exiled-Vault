@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Leer Cast.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Leer Cast.png]]
 
-# Flavour Text
+#
+## Flavour Text
 For none of us are as cruel as all of us.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

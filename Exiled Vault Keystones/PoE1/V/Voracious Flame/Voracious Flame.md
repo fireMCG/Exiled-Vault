@@ -1,9 +1,11 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Voracious Flame.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Sacrifice your foes upon the pyre of your supremacy.
 
-# Effects
+#
+## Effects
 You can inflict an additional Ignite on each Enemy
 Base Ignite Duration is 1 second
 25% less Damage with Ignite
@@ -12,6 +14,6 @@ Cannot deal non-Fire Damage
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #PoE1

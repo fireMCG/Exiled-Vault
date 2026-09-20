@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Will of Tul.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Will of Tul.png]]
 
-# Flavour Text
+#
+## Flavour Text
 They hide in deep places, and hidden places,
 but stillness will find them... and bury them.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

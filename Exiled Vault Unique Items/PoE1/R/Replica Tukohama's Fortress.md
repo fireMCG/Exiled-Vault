@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Tukohama's Fortress.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Tukohama's Fortress.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "As one of our few creations that did not cost any fatalities,
 Prototype #10 bore unexpectedly positive results."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Mirror
 #PoE1

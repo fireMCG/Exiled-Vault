@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Soul Ascension.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Soul Ascension.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fear can be instilled by the smallest entity.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

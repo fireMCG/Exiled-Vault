@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Incursion Scarab of Timelines.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 They say if you go far enough, you will meet yourself...
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Incursion
 #PoE1

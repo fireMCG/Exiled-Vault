@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Unbridled Tempest.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Unbridled Tempest.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Lightning always strikes twice.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

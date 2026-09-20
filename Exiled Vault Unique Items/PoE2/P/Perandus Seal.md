@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Perandus Seal.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Perandus Seal.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A pact with Prospero always comes at a price.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

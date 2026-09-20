@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### VaalAngeSacrificeMTX_NotOnTable_Greetings_Random
 No need to come closer!
 ![[Exiled Vault Dialogue/PoE2/S/Sacrificial Ange/_Audio/Sacrificial Ange - VaalAngeSacrificeMTX_NotOnTable_Greetings_Random.ogg]]
@@ -49,6 +50,6 @@ You can stop this!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

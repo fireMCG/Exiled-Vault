@@ -3,7 +3,7 @@ Gregory Trenowyth. Days survived: Two-Hundred and Two Heart attack from grief af
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Unknown

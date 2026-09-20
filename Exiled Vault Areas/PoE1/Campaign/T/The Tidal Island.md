@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 Despite the warming sun, the breeze here bites with fangs of ice.
 
-# Connected Areas
+## Connected Areas
 - The Coast
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

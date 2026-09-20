@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Gnashing Sash.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Gnashing Sash.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Ghorr knows only hunger, only ravenous feasting.
 It will consume all that lives, and more!"
 - Rantings of a Templar prisoner, page fourteen
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

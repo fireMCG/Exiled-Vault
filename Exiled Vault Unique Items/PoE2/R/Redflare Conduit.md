@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Redflare Conduit.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Redflare Conduit.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In all things, control.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

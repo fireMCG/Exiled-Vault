@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Rainbowstride.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Rainbowstride.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "They say that you should take life's troubles in your stride.
 Some men have a longer stride than others."
 - Gaius Sentari
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

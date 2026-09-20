@@ -2,7 +2,7 @@ Innocence watched Sin take root in the bodies of men and women and children. He 
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/Lore/Environmental
 #Character/God/Innocence

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Brightbeak.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Brightbeak.png]]
 
-# Flavour Text
+#
+## Flavour Text
 I know how to say 'faster' and 'attack' in Karui, Marak and Ezo.
 - Voll of Thebrus
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

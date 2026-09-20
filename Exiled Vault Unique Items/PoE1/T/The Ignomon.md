@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Ignomon.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Ignomon.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The light that reveals is the glare that blinds.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

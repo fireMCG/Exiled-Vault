@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Nebulis.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Nebulis.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "We could rival the gods with this power, if only we had the mitigating mechanisms
 to make it work. A jewel, a talisman, an armour... or the Font..."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

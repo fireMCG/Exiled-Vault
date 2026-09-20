@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/HeavyEarrings.webp]]
+
 [[Kitava Tribe]]
 
+#
 #
 ## Flavour Text
 "Bite down upon your master's throat, and die before you let go!"
 
 #
-![[HeavyEarrings.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Death 
 #Concept/Master

@@ -3,6 +3,6 @@ The moment your skin touched the corrupted soil of Wraeclast, you were infected.
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

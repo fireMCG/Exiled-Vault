@@ -1,4 +1,4 @@
-# The Dreamer on What Do You Want In Return?
+## The Dreamer on What Do You Want In Return?
 Warrior: Everything has a price. You would still see our world changed in some way.
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on What Do You Want In Return_/Audio/The Dreamer - S8 - L1 - A1.ogg]]
 Witch: Why do you care what happens to this world? It isn't even yours.
@@ -51,6 +51,6 @@ The Dreamer: There is no value in the endless pursuit of abundance. It only brin
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

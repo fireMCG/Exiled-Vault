@@ -1,4 +1,4 @@
-# No Man's Slave  
+## No Man's Slave  
 
 Breathe.  
   
@@ -542,6 +542,6 @@ The stars overhead whirled and spun, dancing their endless song, while the fores
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Unofficial 
 #Category/Lore

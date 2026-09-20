@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Unholy Accomplice.webp]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Unholy Accomplice.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A pact is a debt which both sides repay. For a human to
 barter an alliance in their favour... extraordinary.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Clear Skies.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Clear Skies.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A simple instruction that will purify an entire region, making it safe and kind for weary travellers.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

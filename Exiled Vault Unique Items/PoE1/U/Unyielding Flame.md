@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Unyielding Flame.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Unyielding Flame.png]]
 
-# Flavour Text
+#
+## Flavour Text
 An Emperor must conquer his own darkness before he can act as a beacon of light.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

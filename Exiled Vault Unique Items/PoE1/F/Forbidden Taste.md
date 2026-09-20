@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Forbidden Taste.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Forbidden Taste.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Your reach exceeds your grasp.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

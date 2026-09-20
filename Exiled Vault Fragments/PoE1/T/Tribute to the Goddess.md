@@ -1,10 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Tribute to the Goddess.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 You may appeal to the Goddess for another verdict,
 but justice favours only the truly worthy.
 
-# Details
+## Details
 Map Fragments
 Portal: NULL
 The Labyrinth's rewards have been enriched.
@@ -14,7 +15,7 @@ Travel to the Aspirants' Plaza and spend this item to open the Eternal Labyrinth
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1
 #Interesting 

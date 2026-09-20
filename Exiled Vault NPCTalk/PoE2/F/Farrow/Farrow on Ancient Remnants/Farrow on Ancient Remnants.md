@@ -1,4 +1,4 @@
-# Farrow on Ancient Remnants
+## Farrow on Ancient Remnants
 Farrow: These ancient remnants... we've nothing like them back home. They're quite the sight, don't you think?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S13 - L1 - A1.ogg]]
 Warrior: They are impressive, absolutely. But what causes them to reveal themselves now?
@@ -30,7 +30,7 @@ Farrow: Perhaps they always were here... and we only see them now because the wo
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S13 - L14 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S13 - L14 - A2.ogg]]
 
-# Farrow on Ancient Remnants
+## Farrow on Ancient Remnants
 Farrow: These ancient remnants... we've nothing like them back home. They're quite the sight, don't you think?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S14 - L1 - A1.ogg]]
 Warrior: They are impressive, absolutely. But what causes them to reveal themselves now?
@@ -62,7 +62,7 @@ Farrow: Perhaps they always were here... and we only see them now because the wo
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S14 - L14 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S14 - L14 - A2.ogg]]
 
-# Farrow on Ancient Remnants
+## Farrow on Ancient Remnants
 Farrow: These ancient remnants... we've nothing like them back home. They're quite the sight, don't you think?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S15 - L1 - A1.ogg]]
 Warrior: They are impressive, absolutely. But what causes them to reveal themselves now?
@@ -94,7 +94,7 @@ Farrow: Perhaps they always were here... and we only see them now because the wo
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S15 - L14 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S15 - L14 - A2.ogg]]
 
-# Farrow on Ancient Remnants
+## Farrow on Ancient Remnants
 Farrow: These ancient remnants... we've nothing like them back home. They're quite the sight, don't you think?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S16 - L1 - A1.ogg]]
 Warrior: They are impressive, absolutely. But what causes them to reveal themselves now?
@@ -126,7 +126,7 @@ Farrow: Perhaps they always were here... and we only see them now because the wo
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S16 - L14 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S16 - L14 - A2.ogg]]
 
-# Farrow on Ancient Remnants
+## Farrow on Ancient Remnants
 Farrow: These ancient remnants... we've nothing like them back home. They're quite the sight, don't you think?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S17 - L1 - A1.ogg]]
 Warrior: They are impressive, absolutely. But what causes them to reveal themselves now?
@@ -158,7 +158,7 @@ Farrow: Perhaps they always were here... and we only see them now because the wo
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S17 - L14 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S17 - L14 - A2.ogg]]
 
-# Farrow on Ancient Remnants
+## Farrow on Ancient Remnants
 Farrow: These ancient remnants... we've nothing like them back home. They're quite the sight, don't you think?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S18 - L1 - A1.ogg]]
 Warrior: They are impressive, absolutely. But what causes them to reveal themselves now?
@@ -190,7 +190,7 @@ Farrow: Perhaps they always were here... and we only see them now because the wo
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S18 - L14 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S18 - L14 - A2.ogg]]
 
-# Farrow on Ancient Remnants
+## Farrow on Ancient Remnants
 Farrow: These ancient remnants... we've nothing like them back home. They're quite the sight, don't you think?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ancient Remnants/Audio/Farrow - S19 - L1 - A1.ogg]]
 Warrior: They are impressive, absolutely. But what causes them to reveal themselves now?
@@ -224,6 +224,6 @@ Farrow: Perhaps they always were here... and we only see them now because the wo
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

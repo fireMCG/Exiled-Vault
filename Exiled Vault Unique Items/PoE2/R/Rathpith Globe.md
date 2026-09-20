@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Rathpith Globe.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Rathpith Globe.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Vaal emptied their slaves of beating hearts,
 and left a mountain of twitching dead.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Windscream.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Windscream.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The mocking wind, a shielding spell,
 The haunting screams, a maddening hell.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

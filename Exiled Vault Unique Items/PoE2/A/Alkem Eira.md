@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Alkem Eira.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Alkem Eira.png]]
 
-# Flavour Text
+#
+## Flavour Text
 May your resolve never waver.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

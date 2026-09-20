@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Darkness chilled into stillness.
 
-# Connected Areas
+## Connected Areas
 - The Submerged Passage
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1
 #Interesting

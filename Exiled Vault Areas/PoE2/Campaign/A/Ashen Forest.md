@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Drink in the mountain beyond and hunt your fill.
 
-# Connected Areas
+## Connected Areas
 - The Glade
 - Kriar Village
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

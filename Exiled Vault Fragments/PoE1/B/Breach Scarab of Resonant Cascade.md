@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Breach Scarab of Resonant Cascade.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Reality weakens with each new wound.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -17,7 +18,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Breach
 #PoE1

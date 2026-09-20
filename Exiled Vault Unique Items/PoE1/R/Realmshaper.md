@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Realmshaper.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Realmshaper.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "God's creations always begin and end with flames and ice.
 We should count ourselves lucky when we see neither."
 - Archbishop Geofri
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

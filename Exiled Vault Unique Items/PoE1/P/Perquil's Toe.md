@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Perquil's Toe.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Perquil's Toe.png]]
 
-# Flavour Text
+#
+## Flavour Text
 He was a lot luckier before he lost this.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

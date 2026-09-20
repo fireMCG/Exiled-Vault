@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Trolltimber Spire.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Trolltimber Spire.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The problem with working fresh trolltimber:
 by the time you've carved out one end,
 the other has sprouted fresh roots!
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

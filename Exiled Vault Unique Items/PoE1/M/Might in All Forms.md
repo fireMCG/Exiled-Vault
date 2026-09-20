@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Might in All Forms.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Might in All Forms.png]]
 
-# Flavour Text
+#
+## Flavour Text
 True strength can be found anywhere, and in anything.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

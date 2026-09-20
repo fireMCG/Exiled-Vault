@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Ivory Tower.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Ivory Tower.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The mind is a filter through which anarchy becomes order.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

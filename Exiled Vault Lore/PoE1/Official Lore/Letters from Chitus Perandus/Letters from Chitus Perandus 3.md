@@ -16,6 +16,6 @@ We are Eternal.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/Lore 

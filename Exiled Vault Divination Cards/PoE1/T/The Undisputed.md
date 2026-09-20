@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Undisputed.png]]
 
-# Flavour Text
+#
+## Flavour Text
 To create something truly spectacular, you must risk total failure.
 
-# Reward
+#
+## Reward
 Merciless Vaal Axe
 Item Level: 100
 Elder Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Moon
 #PoE1

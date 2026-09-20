@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Grand Spectrum (Viridian Jewel, ailment avoidance).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Grand Spectrum (Viridian Jewel, ailment avoidance).png]]
 
-# Flavour Text
+#
+## Flavour Text
 A mountain fortress safe from the storm.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

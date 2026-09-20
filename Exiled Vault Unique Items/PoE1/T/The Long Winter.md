@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Long Winter.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Long Winter.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In the years that followed the twisted sky,
 cold winds cloaked Wraeclast in snow.
 The pure-white blanket masked a black heart
@@ -8,6 +9,6 @@ that lay dormant deep beneath the earth.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,4 +1,4 @@
-# Farrow on The Great Forge
+## Farrow on The Great Forge
 Warrior: What do you make of this forge?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Great Forge/Audio/Farrow - S76 - L1 - A1.ogg]]
 Witch: Well now... any thoughts?
@@ -29,6 +29,6 @@ Farrow: I suspect some rather bad things happened here. The Kalguurans were far 
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Emperor of Purity.png]]
 
-# Flavour Text
+#
+## Flavour Text
 True to his title, Voll, newly crowned,
 had many of the Eternal Empire's signature extravagances destroyed.
 
-# Reward
+#
+## Reward
 Six-Link Holy Chainmail
 Item Level: 60
 
 #
 ---
-# Tags
+## Tags
 #Character/Emperor/VollOfThebrus
 #Concept/Purity
 #Category/DivinationCard

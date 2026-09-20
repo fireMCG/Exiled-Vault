@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Trypanon.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Trypanon.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The best place for this prototype would be in the hands of our enemies."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

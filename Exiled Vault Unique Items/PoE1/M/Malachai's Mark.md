@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Malachai's Mark.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Malachai's Mark.png]]
 
-# Flavour Text
+#
+## Flavour Text
 What man does not wish for immortality?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

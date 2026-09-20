@@ -1,14 +1,16 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Minion Instability.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Even in death, they have their uses. They just need a little encouragement.
 
-# Effects
+#
+## Effects
 Minions Explode when reduced to Low Life, dealing 33% of their Life as Fire Damage to surrounding Enemies
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE1

@@ -1,6 +1,6 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Veiled Scarab.webp]]
 
-# Details
+## Details
 Stackable Currency
 Stack Size: 1 / 20
 A collection of unknown Scarabs
@@ -9,6 +9,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

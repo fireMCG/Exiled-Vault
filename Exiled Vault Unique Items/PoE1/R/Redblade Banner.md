@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Redblade Banner.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Redblade Banner.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Blood shed is blood shared.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Side Quest.png]]
 
-# Flavour Text
+#
+## Flavour Text
 You'll never know the things you miss if you keep your eyes closed
 
-# Reward
+#
+## Reward
 Incarnation Echo
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

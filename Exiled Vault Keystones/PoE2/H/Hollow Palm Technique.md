@@ -1,9 +1,11 @@
 ![[Exiled Vault Keystones/_Images/PoE2 - Hollow Palm Technique.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The body is a weapon waiting to be mastered.
 
-# Effects
+#
+## Effects
 Can Attack as though using a Quarterstaff while both of your hand slots are empty
 Unarmed Attacks that would use your Quarterstaff's damage gain:
 • Physical damage based on their Skill Level
@@ -12,7 +14,7 @@ Unarmed Attacks that would use your Quarterstaff's damage gain:
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE2

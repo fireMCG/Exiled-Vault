@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Heroic Tragedy.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Heroic Tragedy.png]]
 
-# Flavour Text
+#
+## Flavour Text
 They believed themselves courageous and selfless,
 but that bravery became the doom at their door.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

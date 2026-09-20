@@ -1,12 +1,13 @@
-# Flavour Text
+![[Unique_Cache.png]]
+
+#
+## Flavour Text
 As if pulled by divine strings,  
 the powerful are drawn to the powerful,  
 breaking any morals and laws that might stand in the way.
 
 #
-![[Unique_Cache.png]]
-
 ---
-# Tags
+## Tags
 #Category/Strongbox
 #PoE1 

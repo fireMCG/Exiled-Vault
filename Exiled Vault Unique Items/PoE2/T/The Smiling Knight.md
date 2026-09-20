@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Smiling Knight.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Smiling Knight.png]]
 
-# Flavour Text
+#
+## Flavour Text
 He never spoke a word. His opponents imagined
 their own personal mockeries, most cruel.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Sacrifice at Dusk.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The Vaal shall never fear the setting of our sun.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 10
 Limit: 1
@@ -20,7 +21,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1
 #Interesting 

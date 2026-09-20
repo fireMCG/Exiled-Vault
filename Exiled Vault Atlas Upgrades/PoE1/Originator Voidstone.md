@@ -6,7 +6,7 @@ Though the cosmos may be filled with horrors, and countless eyes and maws set up
 
 #
 ---
-# Tags
+## Tags
 #Category/AtlasUpgrade
 #PoE1
 #Interesting

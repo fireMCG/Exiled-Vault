@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Kaom's Sign.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Kaom's Sign.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A token from the sea.
 A sign for Kaom to lead his Karui to Wraeclast.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

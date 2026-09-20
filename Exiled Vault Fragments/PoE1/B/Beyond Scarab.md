@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Beyond Scarab.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The silent wall and the raging storm oppose the endless swarm.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Beyond
 #PoE1

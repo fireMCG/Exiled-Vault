@@ -2,6 +2,6 @@ I awoke in the most beautiful of places. The skies were blue, unlike the greynes
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

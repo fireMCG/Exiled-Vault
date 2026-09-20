@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Reverie.webp]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Reverie.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Do not despair! Give yourself to the woods!
 Become empty, and the Goddess will find you.
 From within her roots... you shall be restored."
@@ -8,7 +9,7 @@ From within her roots... you shall be restored."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

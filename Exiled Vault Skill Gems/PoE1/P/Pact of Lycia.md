@@ -1,10 +1,13 @@
-# Flavour Text
+![[Exiled Vault Skill Gems/_Images/PoE1 - Pact of Lycia.webp]]
+
+#
+## Flavour Text
 Call upon Lycia, conduit of the Scourge. She forfeit
 her soul for the power to condemn lies told by bones.
 
 #
 ---
-# Tags
+## Tags
 #Category/SkillGem
 #PoE1
 #Interesting

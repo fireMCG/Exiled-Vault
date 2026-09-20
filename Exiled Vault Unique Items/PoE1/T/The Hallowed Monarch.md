@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Hallowed Monarch.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Hallowed Monarch.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "I don't judge who you are, Saresh. I judge what you do. True leadership
 comes from fighting alongside those you command, from elevating them,
 and sharing the glory of victory. This, you will never understand."
@@ -8,6 +9,6 @@ and sharing the glory of victory. This, you will never understand."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

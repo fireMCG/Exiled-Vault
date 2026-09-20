@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Singularity.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Singularity.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In time, all becomes nothing.
 We just expedite the process.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

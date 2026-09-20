@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Widowhail.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Widowhail.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "A volley of arrows were loosed
 from my bow into the heart of
 the man who slew my beloved.
@@ -9,6 +10,6 @@ I felt nothing but cold fury."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

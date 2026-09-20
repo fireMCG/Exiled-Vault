@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Gloomform.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Gloomform.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It was in this forsaken land, where mists shroud the world in mystery,
 that thieves, murderers, and outcasts, sought refuge.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

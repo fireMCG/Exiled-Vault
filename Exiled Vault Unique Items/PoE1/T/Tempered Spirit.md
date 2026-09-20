@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Tempered Spirit.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Tempered Spirit.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Though the body rots, the spirit lives on.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

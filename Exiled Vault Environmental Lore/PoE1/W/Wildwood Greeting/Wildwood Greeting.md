@@ -3,7 +3,7 @@ Welcome, traveler. You are safe here. The Viridian Wildwood is a gift to all tho
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #Concept/Body/Heart
 #Concept/Gift

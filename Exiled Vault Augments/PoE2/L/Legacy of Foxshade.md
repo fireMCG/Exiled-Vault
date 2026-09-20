@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Foxshade.webp]]
+![[PoE2 - Legacy of Foxshade.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Body Armours: 10% increased Movement Speed when on Full Life, 100% increased Evasion Rating when on Full Life
-
-# Bonded Effects
-- Body Armours: 20% increased Evasion Rating
+#
+## Flavour Text
+"A hunt is just another kind of battle,
+and as in any war, the side that wins
+is the side that's better fed."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

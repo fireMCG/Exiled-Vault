@@ -1,4 +1,4 @@
-# Farrow on Ezomyte Runes
+## Farrow on Ezomyte Runes
 Farrow: Our inscriptions go way back to the beginning of Ezomyte history. Pay no mind to commonfolk babble. They'd have you believe the First Ones bore us from mud and slime. Load of rubbish. I know runic inscriptions like the back of my hand. But of late... I've begun seeing them in the night skies.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S43 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S43 - L1 - A2.ogg]]
@@ -48,7 +48,7 @@ Ranger: The Greatwolf's howl shouldn't be different to any other, if what you sa
 Farrow: Heh. It's a figure of speech, m'lady.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S43 - L22 - A1.ogg]]
 
-# Farrow on Ezomyte Runes
+## Farrow on Ezomyte Runes
 Farrow: Our inscriptions go way back to the beginning of Ezomyte history. Pay no mind to commonfolk babble. They'd have you believe the First Ones bore us from mud and slime. Load of rubbish. I know runic inscriptions like the back of my hand. But of late... I've begun seeing them in the night skies.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S44 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S44 - L1 - A2.ogg]]
@@ -98,7 +98,7 @@ Ranger: The Greatwolf's howl shouldn't be different to any other, if what you sa
 Farrow: Heh. It's a figure of speech, m'lady.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S44 - L22 - A1.ogg]]
 
-# Farrow on Ezomyte Runes
+## Farrow on Ezomyte Runes
 Farrow: Our inscriptions go way back to the beginning of Ezomyte history. Pay no mind to commonfolk babble. They'd have you believe the First Ones bore us from mud and slime. Load of rubbish. I know runic inscriptions like the back of my hand. But of late... I've begun seeing them in the night skies.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S45 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S45 - L1 - A2.ogg]]
@@ -148,7 +148,7 @@ Ranger: The Greatwolf's howl shouldn't be different to any other, if what you sa
 Farrow: Heh. It's a figure of speech, m'lady.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S45 - L22 - A1.ogg]]
 
-# Farrow on Ezomyte Runes
+## Farrow on Ezomyte Runes
 Farrow: Our inscriptions go way back to the beginning of Ezomyte history. Pay no mind to commonfolk babble. They'd have you believe the First Ones bore us from mud and slime. Load of rubbish. I know runic inscriptions like the back of my hand. But of late... I've begun seeing them in the night skies.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S46 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S46 - L1 - A2.ogg]]
@@ -198,7 +198,7 @@ Ranger: The Greatwolf's howl shouldn't be different to any other, if what you sa
 Farrow: Heh. It's a figure of speech, m'lady.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S46 - L22 - A1.ogg]]
 
-# Farrow on Ezomyte Runes
+## Farrow on Ezomyte Runes
 Farrow: Our inscriptions go way back to the beginning of Ezomyte history. Pay no mind to commonfolk babble. They'd have you believe the First Ones bore us from mud and slime. Load of rubbish. I know runic inscriptions like the back of my hand. But of late... I've begun seeing them in the night skies.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S47 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S47 - L1 - A2.ogg]]
@@ -248,7 +248,7 @@ Ranger: The Greatwolf's howl shouldn't be different to any other, if what you sa
 Farrow: Heh. It's a figure of speech, m'lady.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S47 - L22 - A1.ogg]]
 
-# Farrow on Ezomyte Runes
+## Farrow on Ezomyte Runes
 Farrow: Our inscriptions go way back to the beginning of Ezomyte history. Pay no mind to commonfolk babble. They'd have you believe the First Ones bore us from mud and slime. Load of rubbish. I know runic inscriptions like the back of my hand. But of late... I've begun seeing them in the night skies.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S48 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S48 - L1 - A2.ogg]]
@@ -298,7 +298,7 @@ Ranger: The Greatwolf's howl shouldn't be different to any other, if what you sa
 Farrow: Heh. It's a figure of speech, m'lady.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S48 - L22 - A1.ogg]]
 
-# Farrow on Ezomyte Runes
+## Farrow on Ezomyte Runes
 Farrow: Our inscriptions go way back to the beginning of Ezomyte history. Pay no mind to commonfolk babble. They'd have you believe the First Ones bore us from mud and slime. Load of rubbish. I know runic inscriptions like the back of my hand. But of late... I've begun seeing them in the night skies.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S49 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyte Runes/Audio/Farrow - S49 - L1 - A2.ogg]]
@@ -350,6 +350,6 @@ Farrow: Heh. It's a figure of speech, m'lady.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

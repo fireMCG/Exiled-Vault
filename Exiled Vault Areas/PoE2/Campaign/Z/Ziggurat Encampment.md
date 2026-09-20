@@ -1,7 +1,8 @@
-# Flavour Text
+#
+## Flavour Text
 Only a small crown of stone remains above the deadly waters.
 
-# Connected Areas
+## Connected Areas
 - Sandswept Marsh
 - Jungle Ruins
 - Temple of Kopec
@@ -10,6 +11,6 @@ Only a small crown of stone remains above the deadly waters.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

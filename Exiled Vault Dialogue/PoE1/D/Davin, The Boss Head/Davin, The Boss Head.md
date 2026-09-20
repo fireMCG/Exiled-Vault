@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### DavinBossHeadTrader_ApproachFirst_Random
 Come on, kid... don't be afraid.
 
@@ -256,6 +257,6 @@ Gotta spend money to make money.
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE1

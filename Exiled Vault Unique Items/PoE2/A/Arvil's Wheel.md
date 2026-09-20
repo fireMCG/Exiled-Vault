@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Arvil's Wheel.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Arvil's Wheel.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The unending carnage of war mercilessly grinds away at body and mind.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

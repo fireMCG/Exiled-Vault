@@ -1,17 +1,19 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Mind's Eyes.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Through the eyes of a person, 
 you can see their soul
 Through the eyes of a jewel, 
 you can see the universe
 
-# Reward
+#
+## Reward
 Astral Projector
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Body/Eye
 #Concept/Mind

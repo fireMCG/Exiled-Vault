@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Contract_ Breaking the Unbreakable.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Contract_ Breaking the Unbreakable.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Please don't run back to Anton."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

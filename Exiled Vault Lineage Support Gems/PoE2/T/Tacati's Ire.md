@@ -1,13 +1,14 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Tacati's Ire.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 He almost saved the Vaal. His unique poison made it past
 the Queen's cupbearers; he had only to direct his anger...
 but in her presence, he could feel naught but lust.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/SupportGem/Lineage 
 #Character/Atziri

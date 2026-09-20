@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Precursor's Emblem (Endurance Charge).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Precursor's Emblem (Endurance Charge).png]]
 
-# Flavour Text
+#
+## Flavour Text
 History teaches humility.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

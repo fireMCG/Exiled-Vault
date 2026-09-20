@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Shard of Fate.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Their whims left unknown,
 Their life left for others.
 
-# Reward
+#
+## Reward
 Vivid Jewel
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Crystal
 #Concept/Fate

@@ -1,4 +1,4 @@
-# Farrow on Third Rune Found
+## Farrow on Third Rune Found
 Farrow: We've done it. The energies have all coalesced. The signature is far greater now.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Third Rune Found/Audio/Farrow - S128 - L1 - A1.ogg]]
 Warrior: Where is it coming from?
@@ -26,7 +26,7 @@ Templar: [DNT]
 Marauder: [DNT]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Third Rune Found/Audio/Farrow - S128 - L13 - A1.ogg]]
 
-# Farrow on Third Rune Found
+## Farrow on Third Rune Found
 Farrow: We've done it. The energies have all coalesced. The signature is far greater now.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Third Rune Found/Audio/Farrow - S129 - L1 - A1.ogg]]
 Warrior: Where is it coming from?
@@ -54,7 +54,7 @@ Templar: [DNT]
 Marauder: [DNT]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Third Rune Found/Audio/Farrow - S129 - L13 - A1.ogg]]
 
-# Farrow on Third Rune Found
+## Farrow on Third Rune Found
 Farrow: Those ancient woods... That's where it's leading us.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Third Rune Found/Audio/Farrow - S130 - L1 - A1.ogg]]
 Warrior: Back to the Grelwood then.
@@ -85,7 +85,7 @@ Templar: [DNT]
 Marauder: [DNT]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Third Rune Found/Audio/Farrow - S130 - L13 - A1.ogg]]
 
-# Farrow on Third Rune Found
+## Farrow on Third Rune Found
 Farrow: Those ancient woods... That's where it's leading us.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Third Rune Found/Audio/Farrow - S131 - L1 - A1.ogg]]
 Warrior: Back to the Grelwood then.
@@ -118,6 +118,6 @@ Marauder: [DNT]
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

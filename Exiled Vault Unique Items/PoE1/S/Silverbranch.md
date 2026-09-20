@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Silverbranch.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Silverbranch.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "The wild takes care of its own."
 - Hyrri of the Karui
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

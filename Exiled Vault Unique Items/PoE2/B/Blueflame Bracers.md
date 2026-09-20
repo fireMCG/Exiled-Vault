@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Blueflame Bracers.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Blueflame Bracers.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The secret was lost with its maker.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

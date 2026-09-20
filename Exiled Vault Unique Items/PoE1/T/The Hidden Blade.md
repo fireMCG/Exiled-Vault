@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Hidden Blade.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Hidden Blade.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The shadow warrior moves like the wind;
 his strikes land long after he is gone.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

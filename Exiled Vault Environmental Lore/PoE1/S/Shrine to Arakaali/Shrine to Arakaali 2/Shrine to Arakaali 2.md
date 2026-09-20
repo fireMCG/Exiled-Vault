@@ -2,7 +2,7 @@ Our Temple of Decay was built so that we, her chosen, might sustain our great go
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #Character/God/Arakaali
 #PoE1/Act7

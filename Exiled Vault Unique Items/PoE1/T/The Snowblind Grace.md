@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Snowblind Grace.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Snowblind Grace.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We dance in the white, like water,
 colliding as many and emerging as one.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

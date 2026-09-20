@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Surefooted Sigil.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Surefooted Sigil.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Natural grace is born, not earned.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

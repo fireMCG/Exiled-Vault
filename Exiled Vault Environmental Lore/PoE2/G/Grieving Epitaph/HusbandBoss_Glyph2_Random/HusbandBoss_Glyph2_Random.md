@@ -3,7 +3,7 @@ My dearest daughter, Beloved for all time. Rest well.
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/EternalEmpire

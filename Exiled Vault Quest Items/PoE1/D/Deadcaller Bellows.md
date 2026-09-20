@@ -1,9 +1,12 @@
-# Flavour Text
+![[Exiled Vault Quest Items/_Images/PoE1 - Deadcaller Bellows.png]]
+
+#
+## Flavour Text
 Breathe life into dying embers. Turn not from their emerald hue.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #League/CurseOfTheAllflame
 #PoE1

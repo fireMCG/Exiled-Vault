@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Doedre's Malevolence.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Doedre's Malevolence.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It was Doedre who learned that pain is just as much about fear as it is about injury.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

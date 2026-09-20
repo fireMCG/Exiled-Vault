@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Blasphemer's Grasp.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Blasphemer's Grasp.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Reaching nature's limits, many sought power in the unnatural.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Elder
 #Concept/Nature

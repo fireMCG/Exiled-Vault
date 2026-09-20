@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Irresistable Temptation.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Irresistable Temptation.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Nothing is more alluring than mystery.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

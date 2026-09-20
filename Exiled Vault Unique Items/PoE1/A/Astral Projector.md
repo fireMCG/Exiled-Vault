@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Astral Projector.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Astral Projector.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The body stands, but the spirit soars.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Body/Flesh
 #Concept/Spirit

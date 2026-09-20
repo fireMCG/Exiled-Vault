@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Carnage Heart.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Carnage Heart.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Forged from the blood of countless wars, its thirst has only begun.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

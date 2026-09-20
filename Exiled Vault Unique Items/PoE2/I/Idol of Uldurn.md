@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Idol of Uldurn.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Idol of Uldurn.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Worship of house gods was tolerated in Oriath, so long as it remained private.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

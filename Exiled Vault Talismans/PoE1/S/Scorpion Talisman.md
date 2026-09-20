@@ -8,6 +8,7 @@ Hag that had sent it. Alasdair dropped his
 wine goblet, and fell to the ground, choking."
 
 #
+---
 ## Tags
 #Category/Talisman
 #League/Talisman

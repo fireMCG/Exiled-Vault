@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Galesight.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Galesight.png]]
 
-# Flavour Text
+#
+## Flavour Text
 See creation as it will be, frozen and silent.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

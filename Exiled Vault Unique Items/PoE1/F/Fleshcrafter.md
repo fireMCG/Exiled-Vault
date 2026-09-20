@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Fleshcrafter.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Fleshcrafter.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Imbue the body with stolen spirit, hold the leash tight.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

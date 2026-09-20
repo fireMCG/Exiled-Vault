@@ -1,14 +1,13 @@
-# Details
-- Stack Size: 1 / 10
+![[PoE2 - Breath of Aldur.webp]]
 
-# Effects
-- Weapon: When socketed, transforms all Fire and Lightning modifiers to equivalent Cold modifiers
-
-# Bonded Effects
-- Weapon: 25% increased Cold Damage
+#
+## Flavour Text
+The first runes ever carved by the hand of man refused
+to cool. Aldur trekked to the highest peak of the tallest
+mountain, bringing his sword to the primordial snows.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Snakepit.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Snakepit.png]]
 
-# Flavour Text
+#
+## Flavour Text
 They wrap around you until your blood turns as cold as theirs.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

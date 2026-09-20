@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Fell darkness shrouds the once vibrant wood.
 
-# Connected Areas
+## Connected Areas
 - Scorched Farmlands
 - Holten
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

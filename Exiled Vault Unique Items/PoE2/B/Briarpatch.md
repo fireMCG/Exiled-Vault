@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Briarpatch.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Briarpatch.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The druids walk the Grelwood without fear.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

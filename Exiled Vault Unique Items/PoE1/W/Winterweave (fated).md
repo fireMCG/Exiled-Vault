@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Winterweave (fated).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Winterweave (fated).png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fury fuels defiance.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

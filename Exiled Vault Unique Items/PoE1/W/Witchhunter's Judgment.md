@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Witchhunter's Judgment.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Witchhunter's Judgment.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The pyre is never wasted on just one heretic.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

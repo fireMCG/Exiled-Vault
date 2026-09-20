@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Tempered Flesh.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Tempered Flesh.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We are born raw and untested, and we are shaped by life.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

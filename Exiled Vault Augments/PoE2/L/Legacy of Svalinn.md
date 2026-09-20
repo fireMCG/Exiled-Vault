@@ -1,17 +1,12 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Svalinn.webp]]
+![[PoE2 - Legacy of Svalinn.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Shields: Chance to Block Damage is Lucky, You take 20% of damage from Blocked Hits
-
-# Bonded Effects
-- Shields: +50 to maximum Runic Ward
+#
+## Flavour Text
+His whole life, Aldur looked up at the stars,
+forever wondering what secrets lay beyond.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

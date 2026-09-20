@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Zerphi's Genesis.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Zerphi's Genesis.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The most horrifying ideas often begin with a simple innovation.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE2

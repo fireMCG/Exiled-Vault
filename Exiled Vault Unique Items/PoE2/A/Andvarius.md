@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Andvarius.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Andvarius.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Danger is the price of wealth.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

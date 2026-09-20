@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Anvil.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Anvil.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Forge your Perseverance on the Anvil of Faith.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Veruso's Ambition.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Veruso's Ambition.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Follow me if you desire better for yourself, and for your
 families. Follow me if you hunger for more than this!"
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,12 +1,14 @@
-# Details
-- Stack Size: 1 / 10
-- Limited to: 1
+![[PoE2 - Astrid's Creativity.webp]]
 
-# Effects
-- All Equipment: Can have 1 additional Crafted Modifiers
+#
+## Flavour Text
+To become a Runefather - an Artificer of standing - one
+must create something truly new. Astrid was the youngest
+smith to ever succeed. Hers was not a work of supreme
+power or strength, but simple flexibility and control.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

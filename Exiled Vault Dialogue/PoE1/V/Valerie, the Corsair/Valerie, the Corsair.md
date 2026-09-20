@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### DeepwaterNPCWildCalloutCoast
 [DNT] Come here, quickly!
 ![[Exiled Vault Dialogue/PoE1/V/Valerie, the Corsair/_Audio/Valerie, the Corsair - DeepwaterNPCWildCalloutCoast.ogg]]
@@ -383,6 +384,6 @@ The ol' witch is a fearful power in the Brinerot clan. Third or fourth from the 
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE1

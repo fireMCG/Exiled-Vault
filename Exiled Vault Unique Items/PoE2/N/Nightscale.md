@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Nightscale.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Nightscale.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Diamora sings not for hunger, but for longing.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

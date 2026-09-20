@@ -8,7 +8,7 @@ Every customer returned, or died from deprivation.
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/CurseOfTheAllflame
 #PoE1

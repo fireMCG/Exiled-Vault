@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Breathstealer.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Breathstealer.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The last gasp is not always one's final act.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

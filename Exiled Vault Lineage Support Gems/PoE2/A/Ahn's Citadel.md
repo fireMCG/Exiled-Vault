@@ -1,13 +1,14 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Ahn's Citadel.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 As possessed golems ravaged the land, Aul - crowned Ahn
 by blood and tyranny - began the last ritual, causing azurite
 crystals to rupture and grow throughout his doomed citadel.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/SupportGem/Lineage 
 #Character/Ahn

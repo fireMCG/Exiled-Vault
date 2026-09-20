@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Aurseize.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Aurseize.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Wealth is not to be borne lightly.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Wealth
 #PoE1

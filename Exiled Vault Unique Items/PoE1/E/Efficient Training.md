@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Efficient Training.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Efficient Training.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Working smart and working hard aren't mutually exclusive.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

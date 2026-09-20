@@ -2,7 +2,7 @@ Kitava {"A primal deity of Hunger. Defeated by a most unlikely alliance between 
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/Lore/Environmental
 #Character/God/Innocence

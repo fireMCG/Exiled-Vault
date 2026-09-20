@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Extractor Mentis.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Extractor Mentis.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When slaughtered flesh falls silent,
 the soul may yet scream on.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

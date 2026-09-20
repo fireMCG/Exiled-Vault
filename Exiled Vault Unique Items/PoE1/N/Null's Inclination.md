@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Null's Inclination.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Null's Inclination.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The hunt continues when the prey falls.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

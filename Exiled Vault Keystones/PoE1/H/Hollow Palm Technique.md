@@ -1,9 +1,11 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Hollow Palm Technique.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "The mastodons of yore were each born with two weapons greater than any sword. So, too, were you." - Maraketh Proverb
 
-# Effects
+#
+## Effects
 You count as Dual Wielding while you are Unencumbered
 40% more Attack Speed with Melee Skills while you are Unencumbered
 Adds 14 to 20 Attack Physical Damage to Melee Skills per 10 Dexterity while you are Unencumbered
@@ -11,7 +13,7 @@ Adds 14 to 20 Attack Physical Damage to Melee Skills per 10 Dexterity while you 
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE1

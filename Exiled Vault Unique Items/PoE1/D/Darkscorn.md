@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Darkscorn.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Darkscorn.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The Spirit of War knows nothing of good and evil.
 It knows only destruction."
 - Sekhema Asenath
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

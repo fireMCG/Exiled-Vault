@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Delirium Scarab.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A perfectly innocuous Scarab that does nothing at all.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Delirium
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Transcendent Spirit.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Transcendent Spirit.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Take comfort knowing that, even in death, we may serve our Queen and fuel her empire.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

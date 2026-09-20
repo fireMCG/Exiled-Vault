@@ -4,6 +4,6 @@ TolmanScream
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE1

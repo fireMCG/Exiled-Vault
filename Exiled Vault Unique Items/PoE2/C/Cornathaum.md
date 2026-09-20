@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Cornathaum.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Cornathaum.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Pain brings clarity.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

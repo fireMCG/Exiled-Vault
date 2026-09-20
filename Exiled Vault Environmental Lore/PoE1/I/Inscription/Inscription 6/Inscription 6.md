@@ -3,6 +3,6 @@ The Greatwolf has forced me to forget who I was... and has taught me to be so mu
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act2

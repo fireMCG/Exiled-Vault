@@ -1,4 +1,4 @@
-# Farrow on Counts and Thanes
+## Farrow on Counts and Thanes
 Farrow: That poor girl, Leitis. To see your beloved, killed before your eyes.... Monstrous. Even turned mad, I can't see our Thane doing such a thing. He just doesn't have it in him.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Counts and Thanes/Audio/Farrow - S33 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Counts and Thanes/Audio/Farrow - S33 - L1 - A2.ogg]]
@@ -32,6 +32,6 @@ Farrow: Phaaryl and Ezomyr have their differences. Phaaryl's got {some} Thanes o
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

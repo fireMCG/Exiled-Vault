@@ -1,7 +1,8 @@
-# Flavour Text
+#
+## Flavour Text
 The forging ground of heroes, past and present.
 
-# Connected Areas
+## Connected Areas
 - The City of Sarn
 - The Slums
 - Sarn Arena
@@ -9,6 +10,6 @@ The forging ground of heroes, past and present.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

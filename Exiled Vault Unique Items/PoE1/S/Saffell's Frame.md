@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Saffell's Frame.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Saffell's Frame.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A swift mind solves problems before they occur.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 A parapet shakes beneath a billowing sky.
 
-# Connected Areas
+## Connected Areas
 - The Temple of Decay Level 2
 - The Sarn Encampment
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1
 #Interesting

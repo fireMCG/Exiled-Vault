@@ -4,6 +4,6 @@ Let me teach you the laws of war.
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE1

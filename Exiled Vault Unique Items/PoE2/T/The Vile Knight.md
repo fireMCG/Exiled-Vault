@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Vile Knight.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Vile Knight.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Familiarity breeds contempt.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

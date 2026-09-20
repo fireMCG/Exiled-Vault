@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Will of Xoph.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Will of Xoph.png]]
 
-# Flavour Text
+#
+## Flavour Text
 They dance and scream under the Broken Sun
 as spiraling oblivion deepens into flame.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

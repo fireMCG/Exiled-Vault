@@ -1,9 +1,10 @@
+#
 ## Flavour Text
 A monument to hubris, in more ways than one.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE1
 #Interesting 

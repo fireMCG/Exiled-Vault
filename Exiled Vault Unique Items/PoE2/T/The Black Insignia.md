@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Black Insignia.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Black Insignia.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Brinerot pirates live in a perpetual blaze of glory,
 pushing their luck right to the end.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Loreweave.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Loreweave.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Better... stronger... more vital... and then... failure. Always, failure.
 What key fundamental secret are we missing?"
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

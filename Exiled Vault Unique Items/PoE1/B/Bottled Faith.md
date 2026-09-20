@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Bottled Faith.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Bottled Faith.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A tourniquet for the soul, squeezing ethereal into physical.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

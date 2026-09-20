@@ -1,9 +1,11 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Ruinous Wager.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 There are many ways to win... and many ways to lose.
 
-# Effects
+#
+## Effects
 2% increased Maps found in your Maps
 Ultimatum Monsters in your Maps apply Ruin with their special abilities
 Fail on reaching 7 Ruin
@@ -12,6 +14,6 @@ Unmodifiable
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #PoE1

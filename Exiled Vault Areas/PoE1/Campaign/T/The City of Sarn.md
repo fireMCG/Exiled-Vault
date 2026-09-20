@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 A harsh light on harsh sights.
 
-# Connected Areas
+## Connected Areas
 - The Ancient Pyramid
 - The Sarn Encampment
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Chains of Emancipation.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Chains of Emancipation.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Freedom is won only by those who are not free.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

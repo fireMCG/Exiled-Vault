@@ -4,6 +4,6 @@ This power serves a new master...
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

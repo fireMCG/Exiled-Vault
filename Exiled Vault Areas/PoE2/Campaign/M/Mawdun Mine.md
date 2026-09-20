@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 To keep their plans secret, defectors were sealed away to die.
 
-# Connected Areas
+## Connected Areas
 - Mawdun Quarry
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2
 #Interesting 

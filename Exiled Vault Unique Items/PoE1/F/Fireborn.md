@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Fireborn.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Fireborn.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Leaders are not born in times of peace.
 Leaders are born in ruins and flames.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

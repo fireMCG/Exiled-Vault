@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Legionstride.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Legionstride.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A wall of steel and muscle.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

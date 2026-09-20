@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hezmana's Bloodlust.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hezmana's Bloodlust.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When a craving cannot be sated, any source will do.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

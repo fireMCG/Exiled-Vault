@@ -1,4 +1,4 @@
-# Farrow on Dannig on the Triskelion
+## Farrow on Dannig on the Triskelion
 Farrow: The third tome I found mentions an ultimate design... the Triskelion Flame.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Dannig on the Triskelion/Audio/Farrow - S95 - L1 - A1.ogg]]
 Dannig: That, Farrow... is the very reason we are even here at all.
@@ -36,6 +36,6 @@ Marauder: [DNT]
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Tecrod's Gaze.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Tecrod's Gaze.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Hated Slave seeks dominion over his own kind.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

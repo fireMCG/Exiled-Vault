@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Grand Spectrum (Crimson Jewel, resistance).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Grand Spectrum (Crimson Jewel, resistance).png]]
 
-# Flavour Text
+#
+## Flavour Text
 Skin like steel tempered by bright flames.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

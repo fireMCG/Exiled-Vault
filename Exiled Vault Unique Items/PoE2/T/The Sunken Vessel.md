@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Sunken Vessel.webp]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Sunken Vessel.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 What are you lot looking at? We're
 under fire! Get to your stations!"
 - Captain Sventura, the Unlucky
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

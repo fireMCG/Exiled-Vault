@@ -3,6 +3,6 @@ The Eternals opened the gate and invited Kitava into this land. The Karui paid t
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

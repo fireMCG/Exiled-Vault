@@ -1,4 +1,4 @@
-# Farrow on Ezomyr
+## Farrow on Ezomyr
 Warrior: I heard a lot about Ezomyr back home... but what can you tell me about what happened there?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S136 - L1 - A1.ogg]]
 Ranger: I've heard bits and pieces about Ezomyr, but I'd like to hear it from someone who lived there.
@@ -40,7 +40,7 @@ Farrow: Ezomyr stretches a great distance. And yet... many of the clans are scat
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S136 - L18 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S136 - L18 - A2.ogg]]
 
-# Farrow on Ezomyr
+## Farrow on Ezomyr
 Warrior: I heard a lot about Ezomyr back home... but what can you tell me about what happened there?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S137 - L1 - A1.ogg]]
 Ranger: I've heard bits and pieces about Ezomyr, but I'd like to hear it from someone who lived there.
@@ -82,7 +82,7 @@ Farrow: Ezomyr stretches a great distance. And yet... many of the clans are scat
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S137 - L18 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S137 - L18 - A2.ogg]]
 
-# Farrow on Ezomyr
+## Farrow on Ezomyr
 Warrior: I heard a lot about Ezomyr back home... but what can you tell me about what happened there?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S138 - L1 - A1.ogg]]
 Ranger: I've heard bits and pieces about Ezomyr, but I'd like to hear it from someone who lived there.
@@ -124,7 +124,7 @@ Farrow: Ezomyr stretches a great distance. And yet... many of the clans are scat
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S138 - L18 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S138 - L18 - A2.ogg]]
 
-# Farrow on Ezomyr
+## Farrow on Ezomyr
 Warrior: I heard a lot about Ezomyr back home... but what can you tell me about what happened there?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S139 - L1 - A1.ogg]]
 Ranger: I've heard bits and pieces about Ezomyr, but I'd like to hear it from someone who lived there.
@@ -166,7 +166,7 @@ Farrow: Ezomyr stretches a great distance. And yet... many of the clans are scat
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S139 - L18 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S139 - L18 - A2.ogg]]
 
-# Farrow on Ezomyr
+## Farrow on Ezomyr
 Warrior: I heard a lot about Ezomyr back home... but what can you tell me about what happened there?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S140 - L1 - A1.ogg]]
 Ranger: I've heard bits and pieces about Ezomyr, but I'd like to hear it from someone who lived there.
@@ -208,7 +208,7 @@ Farrow: Ezomyr stretches a great distance. And yet... many of the clans are scat
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S140 - L18 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S140 - L18 - A2.ogg]]
 
-# Farrow on Ezomyr
+## Farrow on Ezomyr
 Warrior: I heard a lot about Ezomyr back home... but what can you tell me about what happened there?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S141 - L1 - A1.ogg]]
 Ranger: I've heard bits and pieces about Ezomyr, but I'd like to hear it from someone who lived there.
@@ -250,7 +250,7 @@ Farrow: Ezomyr stretches a great distance. And yet... many of the clans are scat
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S141 - L18 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S141 - L18 - A2.ogg]]
 
-# Farrow on Ezomyr
+## Farrow on Ezomyr
 Warrior: I heard a lot about Ezomyr back home... but what can you tell me about what happened there?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Ezomyr/Audio/Farrow - S142 - L1 - A1.ogg]]
 Ranger: I've heard bits and pieces about Ezomyr, but I'd like to hear it from someone who lived there.
@@ -294,6 +294,6 @@ Farrow: Ezomyr stretches a great distance. And yet... many of the clans are scat
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

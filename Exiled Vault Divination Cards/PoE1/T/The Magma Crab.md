@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Magma Crab.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Drink deeply of living rock and be as stone, with blood afire.
 
-# Reward
+#
+## Reward
 Level 21 Vaal Molten Shell
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

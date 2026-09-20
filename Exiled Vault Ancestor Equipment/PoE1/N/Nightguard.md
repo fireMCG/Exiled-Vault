@@ -1,12 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/CarvedBreastplate.webp]]
+
 [[Rongokurai Tribe]]
+
+#
+#
+## Flavour Text
 Rongokurai gifts his strength to protect the weak.
 
 #
-![[CarvedBreastplate.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Character/God/Rongokurai
 #League/Ancestor

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Algor Mortis.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Algor Mortis.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Winter's white blanket swaddles all.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Season/Winter
 #PoE1

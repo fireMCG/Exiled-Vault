@@ -1,13 +1,16 @@
-# Flavour Text
+![[Prophecy_inventory_icon.png]]
+
+#
+## Flavour Text
 Failure twice draws the ire of higher ranking soldiers. They come to spill blood.
-# Prophecy
+
+## Prophecy
 You will encounter and slay several Warbands and their elite soldiers.
-# Reward
+
+## Reward
 \- None -
 
 #
-![[Prophecy_inventory_icon.png]]
-
 #
 ---
 ## Tags

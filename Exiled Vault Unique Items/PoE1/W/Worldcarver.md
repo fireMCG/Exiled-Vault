@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Worldcarver.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Worldcarver.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Is it better to find new lands - or to create them?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

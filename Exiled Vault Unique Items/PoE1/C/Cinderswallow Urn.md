@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Cinderswallow Urn.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Cinderswallow Urn.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A controlled burn is sometimes necessary for new life.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

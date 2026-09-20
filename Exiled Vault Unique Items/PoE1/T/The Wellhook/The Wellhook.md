@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Wellhook.webp]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Wellhook.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Not every well has a bottom, but every line has another end.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

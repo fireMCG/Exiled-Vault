@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mother's Embrace.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mother's Embrace.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Drink, my children, and be strengthened.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

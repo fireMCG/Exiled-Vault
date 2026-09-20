@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Finishing Touch.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A little extra flair never hurts.
 
-# Reward
+#
+## Reward
 1x Fertile Catalyst
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

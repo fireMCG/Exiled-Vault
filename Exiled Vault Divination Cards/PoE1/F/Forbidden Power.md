@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Forbidden Power.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Some things should not be used. Some power is too great a risk.
 
-# Reward
+#
+## Reward
 Balefire
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Concept/Power
 #Category/DivinationCard
 #PoE1

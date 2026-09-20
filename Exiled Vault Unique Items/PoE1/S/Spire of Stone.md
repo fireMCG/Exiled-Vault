@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Spire of Stone.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Spire of Stone.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The strongest Karui tribes left the longest impressions on the land.
 Their symbols served as guidance many generations
 after their creators had been buried deep beneath the earth.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Twyzel.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Twyzel.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Energy redirected is energy imbalanced.
 Prototype #78 serves as a prime example."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

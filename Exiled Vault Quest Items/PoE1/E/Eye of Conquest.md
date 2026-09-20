@@ -1,12 +1,13 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Eye of Conquest.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Weakness must be purged lest it poison the blood of all Karui."
  - Prayer to Tukohama
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Character/God/Tukohama
 #Concept/Body/Eye

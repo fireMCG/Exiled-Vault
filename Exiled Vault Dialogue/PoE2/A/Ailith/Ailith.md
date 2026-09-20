@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### BreachAilithDoMoreBreaches
 [DNT] Hello exile. I need you to stabilise 5 more Breaches.
 ![[Exiled Vault Dialogue/PoE2/A/Ailith/_Audio/Ailith - BreachAilithDoMoreBreaches.ogg]]
@@ -525,6 +526,6 @@ Dreamer protect me!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

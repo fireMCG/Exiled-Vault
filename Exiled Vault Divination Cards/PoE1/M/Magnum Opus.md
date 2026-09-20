@@ -1,9 +1,11 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Magnum Opus.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Wraeclast will unite. This shall be my great work - the minds of the people made one.
 
-# Reward
+#
+## Reward
 Item
 Item Level: 100
 Three-Implicit
@@ -11,7 +13,7 @@ Synthesised
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/HighTemplar/Venarius
 #Concept/Mind

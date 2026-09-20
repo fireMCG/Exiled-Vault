@@ -3,7 +3,7 @@ Seventy-four shipments of Soul Cores in the span of three moons. Seventy-four sh
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/VaalEmpire

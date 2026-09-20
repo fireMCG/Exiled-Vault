@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Queen of the Forest.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Queen of the Forest.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Shedding away her regal past, she forged a new destiny.
 Sacrificing the ephemeral joys of man, she embraced the eternal grasp of nature.
 Seizing her one true wish, she found peace at last.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

@@ -1,12 +1,14 @@
-# Details
-- Stack Size: 1 / 10
-- Limited to: 1
+![[PoE2 - Cadigan's Epiphany.webp]]
 
-# Effects
-- Gloves: Destroys all Augment Sockets on the item to create a Jewel Socket
+#
+## Flavour Text
+"A man may win every battle, conquer every neighbor.
+Yet, the oldest enemy will always overtake him in the end.
+That day, when he realised that some functions of the body
+could be displaced into artifice... it changed everything."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

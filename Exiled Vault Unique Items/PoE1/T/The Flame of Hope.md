@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Flame of Hope.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Flame of Hope.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "So long as a single flame flickers, our akhara lives.
 And when there is nothing left to give to the fire,
 we shall burn the enemy for warmth!"
@@ -8,6 +9,6 @@ we shall burn the enemy for warmth!"
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Ancient and arcane, a civilisation lost to the dust of history.
 
-# Connected Areas
+## Connected Areas
 - The Causeway
 - The Temple of Decay Level 1
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Doedre's Scorn.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Doedre's Scorn.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A scar of the flesh you'll never forget,
 A scar of the mind you'll never remember.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

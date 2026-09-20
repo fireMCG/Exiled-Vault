@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Transformation.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Even the most beautiful of transformations can still have a dark side.
 
-# Reward
+#
+## Reward
 Tainted Mythic Orb
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

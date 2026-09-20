@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Cloak of Flame.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Cloak of Flame.png]]
 
-# Flavour Text
+#
+## Flavour Text
 He who sows an ember shall reap an inferno.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Bluetongue.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Bluetongue.png]]
 
-# Flavour Text
+#
+## Flavour Text
 War inevitably takes an untold toll on the soul.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

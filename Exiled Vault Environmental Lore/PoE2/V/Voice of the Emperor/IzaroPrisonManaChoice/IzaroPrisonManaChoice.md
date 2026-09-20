@@ -3,7 +3,7 @@ The Mind unlocks humility. Humility is the first step toward freedom.
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/EternalEmpire

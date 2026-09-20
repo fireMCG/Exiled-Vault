@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Dream Fragments.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Dream Fragments.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Doryani stumbled into a realm of madness
 And awoke its Master.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1

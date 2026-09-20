@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Byrnabas.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Byrnabas.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Brinerot sail without fear of storms.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

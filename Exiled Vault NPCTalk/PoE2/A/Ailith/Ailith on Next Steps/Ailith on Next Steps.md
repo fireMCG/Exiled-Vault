@@ -1,4 +1,4 @@
-# Ailith on Next Steps
+## Ailith on Next Steps
 Ailith: You've done well. The enemy was dealt a significant blow. May it give them pause. Now... we must raise the stakes.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Next Steps/Audio/Ailith - S19 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Next Steps/Audio/Ailith - S19 - L1 - A2.ogg]]
@@ -30,13 +30,13 @@ Ailith: The splintered pieces of the enemy's world, when brought to the Genesis 
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Next Steps/Audio/Ailith - S19 - L16 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Next Steps/Audio/Ailith - S19 - L16 - A2.ogg]]
 
-# Ailith on Next Steps
+## Ailith on Next Steps
 Ailith: Here, you can see an area affected by the enemy. But... the reality of their presence is worse than it appears. Using these weapons against them, we can uncover their pending invasion. Take the stone. Use it to reveal the truth.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Next Steps/Audio/Ailith - S20 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Next Steps/Audio/Ailith - S20 - L1 - A2.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Next Steps/Audio/Ailith - S20 - L1 - A3.ogg]]
 
-# Ailith on Next Steps
+## Ailith on Next Steps
 Warrior: Unbelievable... they were there all along.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Next Steps/Audio/Ailith - S21 - L1 - A1.ogg]]
 Witch: Dear me... I thought you were exaggerating when you said 'cities'. What are they doing in there?
@@ -75,15 +75,15 @@ Ailith: [DNT]
 Ailith: Biding their time. Building their forces. But now, we catch them on the backfoot.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Next Steps/Audio/Ailith - S21 - L21 - A1.ogg]]
 
-# Ailith on Next Steps
+## Ailith on Next Steps
 Ailith: First, we'll enter one of their Hives on the ground. I will aid you in destroying it.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Next Steps/Audio/Ailith - S22 - L1 - A1.ogg]]
 
-# Ailith on Next Steps
+## Ailith on Next Steps
 Ailith: Next, we must assault their Hive Fortress, looming above. Bringing this down will cause chaos among them and get us closer to their core.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Next Steps/Audio/Ailith - S23 - L1 - A1.ogg]]
 
-# Ailith on Next Steps
+## Ailith on Next Steps
 Ailith: Finally, we face their Depraved Lords within their Hive Colony. Esh and Tul.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Next Steps/Audio/Ailith - S24 - L1 - A1.ogg]]
 Ailith: Killing them will bring complete disorder and stall their invasion.
@@ -121,6 +121,6 @@ Ailith: I will be with you. And the rest of the Keepers will be waging war again
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

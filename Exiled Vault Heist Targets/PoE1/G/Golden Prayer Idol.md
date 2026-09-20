@@ -1,11 +1,12 @@
-# Flavour Text
-Silently keeps innumerable secrets whispered in moments of desperation.
+![[Exiled Vault Heist Targets/_Images/Golden Prayer Idol.png]]
+
 #
-![[Golden Prayer Idol.png]]
+## Flavour Text
+Silently keeps innumerable secrets whispered in moments of desperation.
 
 #
 ---
-# Tags
+## Tags
 #Category/HeistTarget
 #League/Heist
 #PoE1 

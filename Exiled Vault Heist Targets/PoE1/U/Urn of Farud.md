@@ -1,12 +1,13 @@
-# Flavour Text
+![[Exiled Vault Heist Targets/_Images/Urn of Farud.png]]
+
+#
+## Flavour Text
 The Faridun cannot earn burial in the sky.
 They have other ways of keeping the dead.
-#
-![[Urn of Farud.png]]
 
 #
 ---
-# Tags
+## Tags
 #Category/HeistTarget
 #Character/RingClient/Bazira
 #Concept/Death 

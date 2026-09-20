@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Darkness Enthroned.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Darkness Enthroned.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Hold in your hand the darkness
 and never will the light blind you.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

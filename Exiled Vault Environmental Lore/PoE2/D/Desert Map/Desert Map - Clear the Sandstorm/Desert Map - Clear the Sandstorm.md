@@ -3,6 +3,6 @@ It is time to use the reforged Horn of the Vastiri to open the way through. Prep
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

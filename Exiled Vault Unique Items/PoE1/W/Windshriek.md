@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Windshriek.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Windshriek.png]]
 
-# Flavour Text
+#
+## Flavour Text
 An open mouth, a blinding shriek,
 Your mind goes dark, your body weak.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

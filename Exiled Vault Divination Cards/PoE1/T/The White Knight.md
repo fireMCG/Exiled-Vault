@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The White Knight.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Where Decay festers, I shall expunge it, and leave in its place a shining monument.
 
-# Reward
+#
+## Reward
 Six-Link Astral Plate
 Item Level: 100
 Crusader Item
 
 #
 ---
-# Tags
+## Tags
 #Concept/Space/Astral
 #Concept/Decay
 #Category/DivinationCard

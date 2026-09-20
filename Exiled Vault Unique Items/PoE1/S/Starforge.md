@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Starforge.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Starforge.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The end is written into the beginning.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

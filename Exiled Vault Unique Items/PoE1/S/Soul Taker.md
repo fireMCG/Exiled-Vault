@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Soul Taker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Soul Taker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It is too easy for the soul to escape from an open heart.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

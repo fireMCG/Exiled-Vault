@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Timeless Eternal Emblem.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The relentless brutality of the Eternals...
 
-# Details
+## Details
 Map Fragments
 Limit: 1
 Portal: Domain of Timeless Conflict
@@ -19,6 +20,6 @@ Place two or more different Emblems in a Map Device to access the Domain of Time
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Woespike.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Woespike.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The old wound lurks deep within,
 never healing, never relenting,
 making every smile half-hearted.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

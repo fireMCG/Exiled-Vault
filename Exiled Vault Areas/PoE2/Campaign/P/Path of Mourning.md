@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Countless feet have tread upon these stones... not all of them living.
 
-# Connected Areas
+## Connected Areas
 - Deshar
 - The Spires of Deshar
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

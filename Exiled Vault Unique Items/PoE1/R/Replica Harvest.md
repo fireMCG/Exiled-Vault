@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Harvest.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Harvest.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Why is Prototype #67 never in the vault it should be?
 Either we're keeping faulty logs, or..."
 - Researcher Graven
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Graven
 #Concept/Nature/Harvest

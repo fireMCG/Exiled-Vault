@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Doryani's Machinarium.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Doryani's Machinarium.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 We are ever the makers of our own undoing.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1

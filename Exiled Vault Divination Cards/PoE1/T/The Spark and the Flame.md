@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Spark and the Flame.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When sky meets ground the flames can be found, but who has the will to tame them.
 
-# Reward
+#
+## Reward
 Berek's Respite
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/Unknown/Berek
 #Concept/Element/Fire

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Amor Mandragora.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Amor Mandragora.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A sensitive few among the first settlers of Ezomyr followed the wisps by canoe.
 On a misty forested island, Cirel of Tarth stood waiting to greet them.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Attributes/Timeline 
 #PoE2

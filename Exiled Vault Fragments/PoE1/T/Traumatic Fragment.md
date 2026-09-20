@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Traumatic Fragment.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A loved one's harsh words eventually become our own.
 
-# Details
+## Details
 Map Fragments
 Portal: Moment of Trauma
 Area Level: 85
@@ -14,6 +15,6 @@ Use four of these in a personal Map Device to open Portals to The Moment of Trau
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

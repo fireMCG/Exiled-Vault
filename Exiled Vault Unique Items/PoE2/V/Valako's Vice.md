@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Valako's Vice.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Valako's Vice.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Unlike the other gods, when he was born from the volcano,
 Valako rode the clouds of ash into the thundering sky.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/God/Valako
 #Concept/Ash

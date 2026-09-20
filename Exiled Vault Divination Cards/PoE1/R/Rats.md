@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Rats.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Whoever said 'more is always better' has obviously never met a rat.
 
-# Reward
+#
+## Reward
 Rat's Nest
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

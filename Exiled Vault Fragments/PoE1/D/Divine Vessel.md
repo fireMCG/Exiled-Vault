@@ -1,11 +1,12 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Divine Vessel.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Power is a curious thing.
 It can be contained, hidden, locked away,
 and yet it always breaks free.
 
-# Details
+## Details
 Map Fragments
 Unique Boss deals 10% increased Damage
 
@@ -18,7 +19,7 @@ Can be used in a personal Map Device, allowing you to capture the Soul of the Ma
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1
 #Interesting 

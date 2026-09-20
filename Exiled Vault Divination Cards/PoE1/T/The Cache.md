@@ -1,6 +1,7 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Cache.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Vintage or crafted, Glittering and shiny
 Dusty or glittering, huge or tiny
 Secured within a chest 
@@ -12,12 +13,13 @@ to figure out which one to wear?
 This one makes me stronger, 
 but does it match my hair?
 
-# Reward
+#
+## Reward
 Jewellery
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

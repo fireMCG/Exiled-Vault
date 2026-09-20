@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Grip of Winter.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Grip of Winter.png]]
 
-# Flavour Text
+#
+## Flavour Text
 After the eruption, the skies turned grey,
 ash began to fall, and a chill set in...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

@@ -1,13 +1,16 @@
-# Flavour Text
+![[Prophecy_inventory_icon.png]]
+
+#
+## Flavour Text
 The Feral Lord in the southern wood twists the wild to his will.
-# Prophecy
+
+## Prophecy
 You will encounter corrupted animals in the Southern Forest or Tropical Island Map and slay them.
-# Reward
+
+## Reward
 \- None -
 
 #
-![[Prophecy_inventory_icon.png]]
-
 #
 ---
 ## Tags

@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Cadigan's Authority.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Cadigan's Authority.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Over the course of a lifetime, Cadigan the First
 conquered every city-state on Middengard one by one,
 continually leveraging the power of each against the next.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

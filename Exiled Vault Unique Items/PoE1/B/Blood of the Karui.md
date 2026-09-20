@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Blood of the Karui.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Blood of the Karui.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Kaom fought and killed for his people.
 Kaom bled for his people.
 And so the people gave, the people bled, so their King might go on.
@@ -8,6 +9,6 @@ And so the people gave, the people bled, so their King might go on.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

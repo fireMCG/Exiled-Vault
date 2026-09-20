@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Spirit Guards.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Spirit Guards.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Long after the Karui passed through,
 the whispers of those who stood their ground
 at Lioneye's Watch could be heard amongst the rubble.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

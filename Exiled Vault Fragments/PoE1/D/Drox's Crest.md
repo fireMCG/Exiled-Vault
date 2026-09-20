@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Drox's Crest.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 He sought a kingdom, but lost his people.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 10
 Limit: 1
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #Character/Drox
 #PoE1

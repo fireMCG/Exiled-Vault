@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Erian's Cobble.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Erian's Cobble.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Sometimes patching up your equipment gets out of hand.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

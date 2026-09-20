@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 Avarice in the conqueror builds contempt among the conquered.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2

@@ -1,9 +1,9 @@
+![[YugulIcon.webp]]
+
 
 ![[Soul of Varhesh, Shimmering Abberation#Soul of Varhesh, Shimmering Abberation]]
 
 #
-![[YugulIcon.webp]]
-
 ---
 ## Tags
 #Character/God/Yugul

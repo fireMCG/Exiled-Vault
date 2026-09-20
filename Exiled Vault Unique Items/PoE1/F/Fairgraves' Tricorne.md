@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Fairgraves' Tricorne.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Fairgraves' Tricorne.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fairgraves' trusty tricorne accompanied him far across
 the seas, deep under the ground, and even beyond death.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

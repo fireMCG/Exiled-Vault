@@ -5,6 +5,6 @@ So, the outcasts have raised their new 'King' from the grave, and he seeks to vi
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

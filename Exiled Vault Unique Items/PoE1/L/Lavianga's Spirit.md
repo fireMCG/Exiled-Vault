@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Lavianga's Spirit.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Lavianga's Spirit.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "When the Ancestors fill your cup,
 It is only good manners to drink your fill."
 - Lavianga, Advisor to Kaom
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

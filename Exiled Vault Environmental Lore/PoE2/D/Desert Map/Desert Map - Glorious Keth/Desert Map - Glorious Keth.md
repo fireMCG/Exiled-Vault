@@ -3,6 +3,6 @@ Once the seat of power for our people, now a buried testament to a glorious past
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

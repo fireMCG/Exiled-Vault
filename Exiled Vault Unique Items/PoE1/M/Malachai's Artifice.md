@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Malachai's Artifice.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Malachai's Artifice.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When the wind blows,
 Know which way to bend
 and watch the others break.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

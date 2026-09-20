@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Rumi's Concoction.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Rumi's Concoction.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The most terrifying split second of my life."
 - Researcher Graven
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Graven
 #PoE1

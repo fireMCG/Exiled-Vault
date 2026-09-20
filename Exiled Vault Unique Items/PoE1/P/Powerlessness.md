@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Powerlessness.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Powerlessness.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Your desires will mislead you."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

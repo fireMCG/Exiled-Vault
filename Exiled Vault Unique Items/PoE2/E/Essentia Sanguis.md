@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Essentia Sanguis.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Essentia Sanguis.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The darkest clouds clashed and coupled, giving birth to four lightning children of hate.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Insatiable.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A lust for souls. The urge to kill just to satisfy its thirst. An unbearable burden that would make even the purest heart blacken over time.
 
-# Reward
+#
+## Reward
 The Harvest
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Body/Heart
 #Concept/Nature/Harvest

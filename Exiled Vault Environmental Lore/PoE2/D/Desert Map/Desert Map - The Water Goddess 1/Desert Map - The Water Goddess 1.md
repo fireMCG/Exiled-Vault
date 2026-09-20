@@ -3,6 +3,6 @@ Ah, you found the essence of water! I expected something like this to be tended 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

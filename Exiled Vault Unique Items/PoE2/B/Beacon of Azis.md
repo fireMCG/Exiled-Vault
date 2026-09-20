@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Beacon of Azis.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Beacon of Azis.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The homeguard signalled for aid against a surprise attack,
 but it was not their dekharas that responded.
 It was Solerai herself.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

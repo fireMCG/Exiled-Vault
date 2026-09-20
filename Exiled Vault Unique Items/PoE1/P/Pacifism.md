@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Pacifism.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Pacifism.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Your fear will overcome you."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

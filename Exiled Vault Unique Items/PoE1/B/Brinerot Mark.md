@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Brinerot Mark.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Brinerot Mark.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Each time, it is granted to the most senior captain of the fleet,
 and each time, the ring soon washes ashore once more,
 still wrapped around a severed finger.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

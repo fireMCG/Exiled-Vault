@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Fury of the King.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Fury of the King.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Gruthkul was the Mother of Despair... but one day, the Father will return, and discover the fate of his children.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem 
 #PoE2
 #Interesting 

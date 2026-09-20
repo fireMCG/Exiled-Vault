@@ -1,13 +1,14 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Brutus' Brain.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Shavronne gleefully raised her arms to the sky as lightning
 flashed. She'd done it! Her creation was perfect! Invincible.
 Immortal! But she soon realized there was one piece missing...
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/SupportGem/Lineage 
 #Character/Brutus

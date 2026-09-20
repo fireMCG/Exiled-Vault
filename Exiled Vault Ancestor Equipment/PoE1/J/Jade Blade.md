@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/JadeBlade.webp]]
+
 [[Tukohama Tribe]]
 
+#
 #
 ## Flavour Text
 A true warrior is never unarmed.
 
 #
-![[JadeBlade.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

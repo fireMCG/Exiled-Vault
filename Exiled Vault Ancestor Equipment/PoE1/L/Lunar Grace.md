@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/IceCharm.webp]]
+
 [[Arohongui Tribe]]
 
+#
 #
 ## Flavour Text
 The lunar plains are cold, but the silver palace is always warm and welcoming.
 
 #
-![[IceCharm.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Moon 
 #Concept/Colour/Silver 

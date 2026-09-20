@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 The dead slowly become one with the wind.
 
-# Connected Areas
+## Connected Areas
 - Path of Mourning
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2
 #Interesting 

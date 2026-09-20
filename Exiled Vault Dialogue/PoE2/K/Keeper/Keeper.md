@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Ailith_Banter_UnrelentingWar_A1
 [NOAUDIO] I'm here to report on the frontline effort, Ailith.
 
@@ -43,6 +44,6 @@
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

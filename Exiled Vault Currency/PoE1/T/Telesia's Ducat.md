@@ -7,7 +7,7 @@ The waters, still as stone, began to dance and flow to cheer her.
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/CurseOfTheAllflame
 #PoE1

@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Sacrifice at Dawn.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Only those who aspire can dare to hope.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 10
 Limit: 1
@@ -20,7 +21,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1
 #Interesting 

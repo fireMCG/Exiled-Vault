@@ -1,10 +1,11 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Raven's Reflection.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Witness the genesis of madness.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE2

@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Delirium Scarab of Neuroses.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Toothy grins shine in the dark.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -17,7 +18,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Delirium
 #PoE1

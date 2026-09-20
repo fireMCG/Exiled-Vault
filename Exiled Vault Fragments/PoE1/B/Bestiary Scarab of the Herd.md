@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Bestiary Scarab of the Herd.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The First Ones ran rampant and free in the forests of old.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Bestiary
 #PoE1

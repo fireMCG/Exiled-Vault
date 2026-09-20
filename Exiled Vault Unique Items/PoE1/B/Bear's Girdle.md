@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Bear's Girdle.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Bear's Girdle.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Simple. Deadly. Unstoppable
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

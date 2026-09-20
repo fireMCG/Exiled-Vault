@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Embalmer.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Embalmer.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Decomposition takes hold too quickly!
 No, if we are to keep the specimen in perfect shape,
 we must begin the process before expiry."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

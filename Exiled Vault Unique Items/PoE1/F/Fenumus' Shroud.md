@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Fenumus' Shroud.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Fenumus' Shroud.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The First of the Night was the first explorer
 It was she who first braved night's terrors and found comfort in silence and solace.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

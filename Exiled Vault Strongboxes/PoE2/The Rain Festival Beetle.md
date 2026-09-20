@@ -1,13 +1,14 @@
-# Flavour Text
+![[The_Rain_Festival.png]]
+
+#
+## Flavour Text
 During the first rain of each year, rich and poor alike  
 chased the Beetle through the flooding streets of Keth,  
 and its bounty was shared equally by all.
 
 #
-![[The_Rain_Festival.png]]
-
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/Strongbox
 #Concept/Animal/Insect/Beetle

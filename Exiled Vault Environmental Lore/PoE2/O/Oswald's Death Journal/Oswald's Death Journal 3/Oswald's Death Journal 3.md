@@ -3,7 +3,7 @@ Cybil Launceleyn. Days survived: Two Died of old age shortly after arriving. Rat
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Unknown

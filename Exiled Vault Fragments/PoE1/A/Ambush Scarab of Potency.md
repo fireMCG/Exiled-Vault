@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Ambush Scarab of Potency.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The locksmith dreams of building a better box.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Ambush
 #PoE1

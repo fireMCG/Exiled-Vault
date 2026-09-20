@@ -1,10 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Yriel's Key.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Lord of the Wild, of the feral and frenzied,
 of the uncivilized, the untamed, the untouched.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 10
 Portal: NULL
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #Interesting
 #PoE1

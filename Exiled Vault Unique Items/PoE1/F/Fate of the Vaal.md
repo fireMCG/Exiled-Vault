@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Fate of the Vaal.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Fate of the Vaal.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Doryani promises immortality, yet we build great structures, carve magnificent works into stone, so a part of us lives onward.
 A sign of faithlessness through action.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1

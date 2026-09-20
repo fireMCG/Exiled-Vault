@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hrimsorrow.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hrimsorrow.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Of ancient giants, none remain,
 Their only trace is timeless pain.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

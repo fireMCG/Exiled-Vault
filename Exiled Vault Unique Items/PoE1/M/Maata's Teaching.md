@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Maata's Teaching.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Maata's Teaching.png]]
 
-# Flavour Text
+#
+## Flavour Text
 What we give to others, we also give to ourselves.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 Unfettered nature. Unchained ferocity.
 
-# Connected Areas
+## Connected Areas
 - The Northern Forest
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

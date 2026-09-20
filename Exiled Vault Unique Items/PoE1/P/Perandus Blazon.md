@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Perandus Blazon.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Perandus Blazon.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A large enough debt turns even a friend
 into an enemy, and the Perandus family
 had more debtors than anyone.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

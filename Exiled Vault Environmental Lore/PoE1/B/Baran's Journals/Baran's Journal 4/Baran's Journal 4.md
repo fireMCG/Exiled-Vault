@@ -3,6 +3,6 @@ He has gone silent. At long last, he has finally ceased his mad mutterings. It w
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

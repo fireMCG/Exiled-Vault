@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Darkness Enthroned.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Darkness Enthroned.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Kulemak sat triumphant, raising the crown.
 Darkness coiled the world in eternal night.
 Victory, a mere moment, came crashing down.
@@ -8,7 +9,7 @@ No conqueror, no conquered, only searing Light.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/UniqueItem
 #PoE2

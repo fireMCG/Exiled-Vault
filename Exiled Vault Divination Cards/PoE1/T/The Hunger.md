@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Hunger.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "How many lives have you consumed?" 
 "How many times have you blinked?"
 
-# Reward
+#
+## Reward
 Taste of Hate
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

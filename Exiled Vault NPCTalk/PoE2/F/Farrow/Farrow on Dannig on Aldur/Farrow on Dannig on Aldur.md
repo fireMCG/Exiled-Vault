@@ -1,4 +1,4 @@
-# Farrow on Dannig on Aldur
+## Farrow on Dannig on Aldur
 Farrow: Lord Dannig?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Dannig on Aldur/Audio/Farrow - S91 - L1 - A1.ogg]]
 Dannig: Just 'Dannig', if you will. I'm no knight. Far from it.
@@ -45,6 +45,6 @@ Marauder: [DNT]
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

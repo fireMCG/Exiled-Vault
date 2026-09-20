@@ -1,12 +1,13 @@
-# Flavour Text
+![[Exiled Vault Heist Targets/_Images/The Sea Pearl Heirloom.png]]
+
+#
+## Flavour Text
 My accursed father owes his children this heirloom.
 We deserve to know our culture, just like you full-blooded humans do.
-#
-![[The Sea Pearl Heirloom.png]]
 
 #
 ---
-# Tags
+## Tags
 #Category/HeistTarget
 #Character/Daresso 
 #Character/Nishem

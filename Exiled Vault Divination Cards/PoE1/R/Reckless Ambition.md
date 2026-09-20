@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Reckless Ambition.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Why settle when more is never enough.
 
-# Reward
+#
+## Reward
 Omeyocan
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/Conqueror/Sirus
 #Character/Zana

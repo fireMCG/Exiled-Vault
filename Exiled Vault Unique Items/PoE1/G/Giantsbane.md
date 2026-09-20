@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Giantsbane.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Giantsbane.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The monstrous men of yore used bows, they were just bigger.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

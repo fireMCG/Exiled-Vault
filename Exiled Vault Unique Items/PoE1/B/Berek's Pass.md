@@ -1,18 +1,17 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Berek's Pass.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Berek's Pass.png]]
 
-# Flavour Text
+#
+## Flavour Text
 From Frost's ice-bound pass
 Berek taunted and jeered
 Until furious Flame scaled the mountain
 Berek escaped through the thaw
 And Frost's tortured moans.
-
-# Source
-Berek and the Untamed
+- Berek and the Untamed
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Unknown/Berek
 #Concept/Element/Fire

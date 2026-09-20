@@ -1,18 +1,20 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Valkyrie.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The villain strikes, the world is torn.
 A war begins, a hero is born,
 The nemesis sets the sky alight.
 A hero's sacrifice sets everything right.
 - Drake's Epitaph
 
-# Reward
+#
+## Reward
 Nemesis Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Hero
 #Concept/Sacrifice

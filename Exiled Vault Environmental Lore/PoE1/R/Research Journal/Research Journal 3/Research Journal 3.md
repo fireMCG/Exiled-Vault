@@ -2,7 +2,7 @@ I have been plagued by a sickness as of late. A kind of blood marking. This curs
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1
 #Society/TemplarOrder

@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Innocent.png]]
 
-# Flavour Text
+#
+## Flavour Text
 His brother would not atone, so he took his brother's life, and with it, his sins.
 
-# Reward
+#
+## Reward
 40x Orb of Regret
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Ash
 #Concept/Element/Fire

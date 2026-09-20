@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Crest of Perandus.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Crest of Perandus.png]]
 
-# Flavour Text
+#
+## Flavour Text
 With piety and justice.
 - Perandus family motto
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

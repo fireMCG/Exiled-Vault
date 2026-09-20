@@ -3,7 +3,7 @@ Let these towers stand for all time, so that the sands may never swallow the Hon
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Maraketh

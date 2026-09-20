@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Echoes of the past bring new life to an old experiment.
 
-# Connected Areas
+## Connected Areas
 - The Lower Prison
 - Prisoner's Gate
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

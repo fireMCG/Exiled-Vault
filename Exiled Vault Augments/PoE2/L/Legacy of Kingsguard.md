@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Kingsguard.webp]]
+![[PoE2 - Legacy of Kingsguard.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Body Armours: Recover 5% of maximum Life for each Endurance Charge consumed
-
-# Bonded Effects
-- Body Armours: +30 to maximum Life
+#
+## Flavour Text
+"The Eternals were men of Empire. They believed that
+slaying Rigwald would end the uprising. Their focus
+on attacking him lost them the battle - and the war."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

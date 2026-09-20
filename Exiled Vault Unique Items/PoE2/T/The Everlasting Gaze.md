@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Everlasting Gaze.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Everlasting Gaze.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 What they saw was what they believed, and
 they believed Lunaris had not abandoned them.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

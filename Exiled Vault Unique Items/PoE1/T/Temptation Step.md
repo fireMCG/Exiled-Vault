@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Temptation Step.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Temptation Step.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The High Priests ensured the loyalty of their slaves by habituating them to narcotic stimulants with lethal withdrawals.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

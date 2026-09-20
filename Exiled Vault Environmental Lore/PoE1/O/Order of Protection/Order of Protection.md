@@ -3,6 +3,6 @@ My loyal Declan, Give our Lady Piety your absolute support and watch her with ab
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act1

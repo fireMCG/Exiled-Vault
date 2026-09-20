@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Asenath's Mark.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Asenath's Mark.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Asenath's mind was as quick and nimble as the fingers that drew her bowstring.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Sekhema/Asenath
 #Concept/Mind

@@ -1,6 +1,6 @@
 ![[Exiled Vault Fragments/_Images/PoE2 - Runic Splinter.webp]]
 
-# Details
+## Details
 Stackable Currency
 Stack Size: 1 / 300
 Consume at least 50 Splinters at the Realmgate to travel to the Kalguuran Tomb.
@@ -8,6 +8,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE2

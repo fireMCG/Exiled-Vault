@@ -112,7 +112,7 @@
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #Concept/Cult 
 #Concept/Undesirable

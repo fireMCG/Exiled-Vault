@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Primordial Chain.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Primordial Chain.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The leash of the lifegiver
 binds in both directions.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

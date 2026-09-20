@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Whakawairua Tuahu.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Whakawairua Tuahu.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We all began life in darkness, we shall all end it there.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

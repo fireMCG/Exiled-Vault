@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Call of the Void.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Call of the Void.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Only when the mind is empty of ambition can the cold truth of existence take hold.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

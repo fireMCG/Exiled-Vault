@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Prism of Belief.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Prism of Belief.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Entropy can be reversed.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

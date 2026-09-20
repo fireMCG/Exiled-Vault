@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Kiloava's Bluster.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Kiloava's Bluster.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Not even the storm knows when lightning will strike.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

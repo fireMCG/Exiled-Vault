@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/CrescentToeRings.webp]]
+
 [[Arohongui Tribe]]
 
+#
 #
 ## Flavour Text
 Winter is inevitable, but so is the spring.
 
 #
-![[CrescentToeRings.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Season/Spring
 #Concept/Season/Winter

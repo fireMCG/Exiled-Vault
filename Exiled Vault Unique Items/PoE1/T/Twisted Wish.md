@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Twisted Wish.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Twisted Wish.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Control comes at a price.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

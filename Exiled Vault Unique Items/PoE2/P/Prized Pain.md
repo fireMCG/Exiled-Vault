@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Prized Pain.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Prized Pain.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Agony brings clarity to those of pure mind.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

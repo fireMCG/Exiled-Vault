@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Inertia.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Inertia.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There is no force without movement.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

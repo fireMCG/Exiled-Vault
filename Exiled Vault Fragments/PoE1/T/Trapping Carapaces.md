@@ -1,10 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Trapping Carapaces.webp]]
 
-# Details
+## Details
 Scarabs found in your Maps have 100% increased chance to be Ambush Scarabs
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

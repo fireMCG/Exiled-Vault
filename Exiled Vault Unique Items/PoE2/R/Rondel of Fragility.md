@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Rondel of Fragility.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Rondel of Fragility.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fanatics are the most dangerous enemy,
 for they care not for their own survival.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

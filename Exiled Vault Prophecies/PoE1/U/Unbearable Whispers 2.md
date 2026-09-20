@@ -1,13 +1,16 @@
-# Flavour Text
+![[Prophecy_inventory_icon.png]]
+
+#
+## Flavour Text
 The Whisperer leaves a tome in the tower, held by a maddened follower.
-# Prophecy
+
+## Prophecy
 You will discover a tome upon slaying a monster in the Sceptre of God, Palace Map, Residence Map, or Villa Map.
-# Reward
+
+## Reward
 \- None -
 
 #
-![[Prophecy_inventory_icon.png]]
-
 #
 ---
 ## Tags

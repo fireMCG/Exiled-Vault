@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Deepest Tower.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Deepest Tower.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Death crawls in darkness, closer than we think.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

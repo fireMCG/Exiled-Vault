@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Ghostwrithe.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Ghostwrithe.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Faith Springs Abundant at the edge of Death
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

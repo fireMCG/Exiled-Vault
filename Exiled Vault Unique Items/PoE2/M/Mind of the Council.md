@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Mind of the Council.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Mind of the Council.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The sky tore asunder, black cleaving upon blue
 The end of life, of Time, with no escape
 But they found a fragment, a void, a haven
@@ -10,7 +11,7 @@ They know your mind, because they remember
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/UniqueItem
 #PoE2

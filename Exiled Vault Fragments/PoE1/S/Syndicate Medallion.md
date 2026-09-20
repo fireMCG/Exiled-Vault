@@ -1,10 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Syndicate Medallion.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Follow the strands of a web to its center,
 and you'll find Death lying in wait...
 
-# Details
+## Details
 Map Fragments
 Portal: Mastermind's Lair
 Area Level: 83
@@ -12,6 +13,6 @@ Open a portal to the Mastermind's Lair by using this item in a personal Map Devi
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

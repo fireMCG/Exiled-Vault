@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Sculpted Suffering.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Sculpted Suffering.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Abyssals were created, not born,
 and every moment in the light was agony.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

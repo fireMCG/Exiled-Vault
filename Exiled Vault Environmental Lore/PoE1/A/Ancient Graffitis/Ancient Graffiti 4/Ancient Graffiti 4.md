@@ -3,6 +3,6 @@ The Shadow whispers and simpers at the Monkey King's feet, but when the Monkey K
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

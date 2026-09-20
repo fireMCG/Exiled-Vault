@@ -3,6 +3,6 @@ You have transgressed against your God and your fellow Man. You have been a will
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act1

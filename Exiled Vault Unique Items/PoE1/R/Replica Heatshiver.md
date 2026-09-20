@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Heatshiver.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Heatshiver.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The storm... that lightning... I'd be dead if I hadn't...
 but it was cold. Ice cold! It's not what we think, and
 the plan won't work! Where's Arn?! I have to tell him!"
@@ -8,7 +9,7 @@ the plan won't work! Where's Arn?! I have to tell him!"
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Arn
 #Character/Graven

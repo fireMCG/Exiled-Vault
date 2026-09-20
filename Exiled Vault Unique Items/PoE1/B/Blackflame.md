@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Blackflame.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Blackflame.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Beyond the veil of death, there burns a fire by whose light night is borne.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Death
 #Concept/Element/Fire

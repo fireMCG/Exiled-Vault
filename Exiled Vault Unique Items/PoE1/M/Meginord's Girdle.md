@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Meginord's Girdle.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Meginord's Girdle.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Kaom's strength was rivaled only by
 the great Meginord of the north.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Skin of the Loyal.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Skin of the Loyal.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We happily give our limbs.
 A net woven to keep safe the bones of the Lords.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

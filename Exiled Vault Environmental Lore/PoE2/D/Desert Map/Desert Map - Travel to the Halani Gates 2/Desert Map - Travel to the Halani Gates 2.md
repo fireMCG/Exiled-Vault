@@ -3,6 +3,6 @@ The Halani Gates are closed, and the Faridun hold them in defense of the Beast. 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

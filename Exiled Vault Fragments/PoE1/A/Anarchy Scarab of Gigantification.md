@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Anarchy Scarab of Gigantification.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The consumption of sulphite can cause strange growth.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Anarchy
 #PoE1

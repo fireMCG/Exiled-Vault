@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Snakebite.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Snakebite.png]]
 
-# Flavour Text
+#
+## Flavour Text
 As the serpent shuns thought,
 It shuns fear.
 It strikes with the speed of wrath
@@ -8,6 +9,6 @@ And the skill of compulsion.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

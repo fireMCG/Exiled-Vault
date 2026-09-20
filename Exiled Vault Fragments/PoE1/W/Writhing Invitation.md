@@ -1,11 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Writhing Invitation.webp]]
 
-# Details
+## Details
 Item Level:
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Missing 
 #Category/Fragment
 #PoE1

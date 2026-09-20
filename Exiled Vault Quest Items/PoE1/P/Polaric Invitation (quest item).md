@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Polaric Invitation (quest item).png]]
 
-# Flavour Text
+#
+## Flavour Text
 Once within the grasp of the Black Star, there can be no escape.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Character/Eldritch/BlackStar
 #Concept/Cleansing

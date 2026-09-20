@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Jack, the Axe.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Jack, the Axe.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "More blood... hack open flesh... must drink..."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

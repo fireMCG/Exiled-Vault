@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Fuelled by blood and chaos, a dark inferno engulfs the halls of justice.
 
-# Connected Areas
+## Connected Areas
 - The Chamber of Innocence
 - The Ruined Square
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

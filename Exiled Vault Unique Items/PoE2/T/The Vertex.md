@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Vertex.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Vertex.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "A queen should be seen, admired, but never touched."
 - Atziri, Queen of the Vaal
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE2

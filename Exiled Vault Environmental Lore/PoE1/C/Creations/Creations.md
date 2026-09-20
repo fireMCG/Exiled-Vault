@@ -3,6 +3,6 @@ Time passes at an infuriatingly slow pace. There were no changes to demarcate it
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

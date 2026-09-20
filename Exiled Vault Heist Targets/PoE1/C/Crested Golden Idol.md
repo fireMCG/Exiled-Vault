@@ -1,11 +1,12 @@
-# Flavour Text
-A common figure adorning Vaal ruins, but exquisitely crafted from gold.
+![[Exiled Vault Heist Targets/_Images/Crested Golden Idol.png]]
+
 #
-![[Crested Golden Idol.png]]
+## Flavour Text
+A common figure adorning Vaal ruins, but exquisitely crafted from gold.
 
 #
 ---
-# Tags
+## Tags
 #Category/HeistTarget
 #League/Heist
 #PoE1 

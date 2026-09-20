@@ -2,7 +2,7 @@ Step forth, true believers, unto Atziri's graceful shadow. She alone shall shade
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/VaalEmpire

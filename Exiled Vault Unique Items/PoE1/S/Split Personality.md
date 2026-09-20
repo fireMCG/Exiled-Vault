@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Split Personality.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Split Personality.png]]
 
-# Flavour Text
+#
+## Flavour Text
 You need not go looking for a second opinion.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

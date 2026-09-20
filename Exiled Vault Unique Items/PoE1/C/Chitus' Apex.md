@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Chitus' Apex.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Chitus' Apex.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It takes true strength to hold power, and my grip grows tighter by the day.
 - Emperor Chitus
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

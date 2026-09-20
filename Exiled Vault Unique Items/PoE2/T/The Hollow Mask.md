@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Hollow Mask.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Hollow Mask.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The roots take hold within...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

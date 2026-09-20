@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Bubonic Trail (2 Abyssal Sockets).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Bubonic Trail (2 Abyssal Sockets).png]]
 
-# Flavour Text
+#
+## Flavour Text
 Even the dead serve the Lightless.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Soul Quenched.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Weapons such as these require a darker kind of forge...
 
-# Reward
+#
+## Reward
 Disabled
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Darkness
 #Concept/Soul

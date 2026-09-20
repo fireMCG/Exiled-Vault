@@ -1,6 +1,7 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Decanter Spiritus.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Man is blinded by the mud of his corporeal self. Only
 through the transformation of the material into the
 spiritual can we hope to taste the full body of life."
@@ -8,7 +9,7 @@ spiritual can we hope to taste the full body of life."
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Character/Malachai
 #Concept/Blindness

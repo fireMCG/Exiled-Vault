@@ -3,7 +3,7 @@ The weary traveler has reached the end of the path! Welcome to the City of Seven
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Maraketh

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Cat O' Nine Tails.webp]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Cat O' Nine Tails.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A Templar thinks he's righteous for flogging
 himself once for every ten lashings he gives.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

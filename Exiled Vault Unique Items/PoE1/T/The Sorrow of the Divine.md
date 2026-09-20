@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Sorrow of the Divine.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Sorrow of the Divine.png]]
 
-# Flavour Text
+#
+## Flavour Text
 As man sins,
 God weeps.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

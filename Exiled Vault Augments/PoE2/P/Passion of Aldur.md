@@ -1,14 +1,13 @@
-# Details
-- Stack Size: 1 / 10
+![[PoE2 - Passion of Aldur.webp]]
 
-# Effects
-- Weapon: Transforms all Cold and Lightning modifiers on the item into equivalent Fire modifiers
-
-# Bonded Effects
-- Weapon: 25% increased Fire Damage
+#
+## Flavour Text
+The priests had long charted the dance of the stars,
+but it was Aldur who brought that meaning to his forge.
+Night and day, he wrestled the flames into submission.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

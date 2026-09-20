@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Atziri's Disdain.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Atziri's Disdain.png]]
 
-# Flavour Text
+#
+## Flavour Text
 They screamed her name in adulation as they gave
 their very lives. She looked on with impatience.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Atziri
 #Society/VaalEmpire

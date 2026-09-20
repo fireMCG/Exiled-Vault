@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Prospero's Protection.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Prospero's Protection.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Worry not, my friend, that I tour in fineries.
 The ostentation is all part of being a Perandus.
 As long as I maintain my Vigilance,
@@ -9,6 +10,6 @@ nothing can harm the Empire... or me.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

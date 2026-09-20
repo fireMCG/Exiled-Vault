@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Architect's Hand.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Architect's Hand.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Great works take time.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Vessel of Vinktar (Physical Damage Converted to Lightning).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Vessel of Vinktar (Physical Damage Converted to Lightning).png]]
 
-# Flavour Text
+#
+## Flavour Text
 The great city of storms, washed away by Vinktar's thirst for power.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

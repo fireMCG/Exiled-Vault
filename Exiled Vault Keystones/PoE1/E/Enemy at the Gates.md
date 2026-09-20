@@ -1,13 +1,15 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Enemy at the Gates.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The hour of invasion is nigh.
 
-# Effects
+#
+## Effects
 Breach encounters in your Maps are always Unstable Breaches
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #PoE1

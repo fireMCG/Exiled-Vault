@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Emperor's Cunning.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Emperor's Cunning.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The greatest victories happen
 before the battle has begun.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

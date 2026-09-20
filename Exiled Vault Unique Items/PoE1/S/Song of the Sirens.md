@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Song of the Sirens.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Song of the Sirens.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Give a man a fish, and you can feed him for a day.
 But give a fish a man, and you can feed it for a month.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Signal Fire.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Signal Fire.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fire spreads thick and fast.
 The first spark is never the last.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

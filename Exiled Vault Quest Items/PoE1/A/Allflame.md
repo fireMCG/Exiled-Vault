@@ -1,13 +1,14 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Allflame.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Distilled from naked ambition and unfettered obsession,
 the Allflame emanates a silvern warmth like no other, 
 and engulfs those moths fool enough to embrace it.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Concept/Colour/Silver
 #Concept/Virtue/Ambition

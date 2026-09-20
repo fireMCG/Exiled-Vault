@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Ligurium Talisman.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Ligurium Talisman.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Healing the soul requires sacrifice.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

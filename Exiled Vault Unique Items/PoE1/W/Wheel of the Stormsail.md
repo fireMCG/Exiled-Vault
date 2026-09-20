@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Wheel of the Stormsail.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Wheel of the Stormsail.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Doomed to plunder forever.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

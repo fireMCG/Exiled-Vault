@@ -3,7 +3,7 @@ Always whispering, always muttering... the Wisps are a cacophony that I cannot d
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #Concept/Spirit/Wisp
 #Concept/Whisper

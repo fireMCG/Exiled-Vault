@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Siegebreaker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Siegebreaker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Poison the land and they'll have nothing to defend.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Brynhand's Mark.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Brynhand's Mark.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The mark of the smith was widely known.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

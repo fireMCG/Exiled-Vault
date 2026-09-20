@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Reclaimed Malevolence.webp]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Reclaimed Malevolence.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 He who was made has but one desire: inflict his
 malady upon the Boundless Cavern above.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

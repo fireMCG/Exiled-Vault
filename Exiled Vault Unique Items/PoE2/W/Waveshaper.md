@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Waveshaper.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Waveshaper.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Move in ways your enemy does not expect.
 Confuse them with elegance and grace.
 They'll never see the axe coming."
@@ -8,7 +9,7 @@ They'll never see the axe coming."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Rakiata
 #Society/Karui/Tribe/Tasalio

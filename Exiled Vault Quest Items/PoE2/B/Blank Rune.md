@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Blank Rune.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Untouched by fate. Its power waits for a purpose.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Concept/Rune
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Dreadarc.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Dreadarc.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The fastest way to a man's heart
 is through his sternum.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

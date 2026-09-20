@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Home to displaced Azmeri, now fallen.
 
-# Connected Areas
+## Connected Areas
 - Ashen Forest
 - Glacial Tarn
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

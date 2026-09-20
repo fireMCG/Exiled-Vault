@@ -1,14 +1,16 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Power of Purpose.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Empowered by the divine, you fear no weapon of man.
 
-# Effects
+#
+## Effects
 80% of Maximum Mana is Converted to twice that much Armour
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #PoE1
 #Interesting 

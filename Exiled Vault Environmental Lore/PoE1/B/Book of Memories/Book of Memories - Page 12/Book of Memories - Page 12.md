@@ -2,6 +2,6 @@ My daughter... My darling daughter... By the gods. So much has transpired since 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

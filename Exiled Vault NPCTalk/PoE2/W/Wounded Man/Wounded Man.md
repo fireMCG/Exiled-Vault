@@ -1,11 +1,11 @@
-# Table of Content
+## Table of Content
 [[#Wounded Man on Injured]]
 
-# Wounded Man on Injured
+## Wounded Man on Injured
 ![[Wounded Man on Injured]]
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

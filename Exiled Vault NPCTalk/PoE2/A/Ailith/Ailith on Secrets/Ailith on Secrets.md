@@ -1,4 +1,4 @@
-# Ailith on Secrets
+## Ailith on Secrets
 Ailith: It is peculiar to me, to fully understand what I feel right now. After... so long.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Secrets/Audio/Ailith - S4 - L1 - A1.ogg]]
 Warrior: What is on your mind, Ailith?
@@ -118,6 +118,6 @@ Ailith: I feel... him... returning. Please. Remember what I have told you, but d
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

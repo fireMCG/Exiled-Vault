@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Brother's Stash.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Even though he found the stash just in time,
 He would trade it all away and then some to have him back.
 
-# Reward
+#
+## Reward
 5x Exalted Orb
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Family/Brother
 #Concept/Sun

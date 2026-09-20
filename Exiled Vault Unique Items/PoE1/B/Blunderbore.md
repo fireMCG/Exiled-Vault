@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Blunderbore.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Blunderbore.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The giant cares not for the ants.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

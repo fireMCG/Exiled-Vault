@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Doomfletch's Prism.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Doomfletch's Prism.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The Vaal, a thousand years ago,
 came up with more delightful methods of murder
 than I could ever wish for."
@@ -8,6 +9,6 @@ than I could ever wish for."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

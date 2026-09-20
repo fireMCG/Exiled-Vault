@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Prism Guardian.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Prism Guardian.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When blood is paid, the weak think twice.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

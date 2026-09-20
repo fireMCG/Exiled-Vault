@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Kaom's Binding.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Kaom's Binding.png]]
 
-# Flavour Text
+#
+## Flavour Text
 For centuries, he burned in an unending
 nightmare of lava and flame... but he endured.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

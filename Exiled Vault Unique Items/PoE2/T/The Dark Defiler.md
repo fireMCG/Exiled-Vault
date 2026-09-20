@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Dark Defiler.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Dark Defiler.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Rare is the Necromancer who leads his undead armies from the front.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

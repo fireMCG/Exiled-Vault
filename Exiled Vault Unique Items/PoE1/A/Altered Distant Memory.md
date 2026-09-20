@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Altered Distant Memory.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Altered Distant Memory.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The winters of my youth were cold and harsh.
 We had nothing, yet to my mother's credit, I wanted for so little.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/HighTemplar/Venarius
 #Concept/Memory

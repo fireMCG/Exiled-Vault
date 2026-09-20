@@ -3,6 +3,6 @@ Baran is talking about God again, so I told him I need to go "write in my journa
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

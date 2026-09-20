@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Elegant Hubris.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Elegant Hubris.png]]
 
-# Flavour Text
+#
+## Flavour Text
 They believed themselves better than the past, but that confidence brought about nightmare.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

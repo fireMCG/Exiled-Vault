@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Radiant Grief.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Radiant Grief.png]]
 
-# Flavour Text
+#
+## Flavour Text
 No man burns alone.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

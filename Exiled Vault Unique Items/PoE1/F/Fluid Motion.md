@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Fluid Motion.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Fluid Motion.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Even the strongest of steel can be made to bend.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

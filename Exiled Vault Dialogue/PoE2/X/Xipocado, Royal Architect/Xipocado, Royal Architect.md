@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Architect_Emerge_Random
 How did you reach me?!
 ![[Exiled Vault Dialogue/PoE2/X/Xipocado, Royal Architect/_Audio/Xipocado, Royal Architect - Architect_Emerge_Random.ogg]]
@@ -200,6 +201,6 @@ Optimisation! But how... and where. I must assign someone to this task!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

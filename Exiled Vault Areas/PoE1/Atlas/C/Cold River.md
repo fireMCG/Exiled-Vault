@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 Ice forges a fickle path,
 
 as those beneath its veil can attest.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE1
 #Interesting

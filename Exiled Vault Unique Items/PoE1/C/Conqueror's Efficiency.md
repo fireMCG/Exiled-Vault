@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Conqueror's Efficiency.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Conqueror's Efficiency.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The stone may yet bleed.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

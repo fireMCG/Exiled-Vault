@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Fragility.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Fragility.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Your flesh will fail you."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ashcaller.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ashcaller.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "We do not command fire.
 Ngamahu lends it, and Hinekora returns it."
 - Lavianga, advisor to Kaom
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/God/Hinekora
 #Character/Lavianga

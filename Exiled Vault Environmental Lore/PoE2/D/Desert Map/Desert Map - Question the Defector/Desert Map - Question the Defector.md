@@ -3,6 +3,6 @@ This {balbalakh} will live or die based on her usefulness in pursuit of the Beas
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

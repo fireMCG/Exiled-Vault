@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Disease in the darkness.
 
-# Connected Areas
+## Connected Areas
 - The Mines Level 1
 - The Crystal Veins
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

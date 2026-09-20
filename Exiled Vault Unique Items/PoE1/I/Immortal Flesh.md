@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Immortal Flesh.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Immortal Flesh.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "She begged the Earth to spare her Son;
 Out of love the Earth agreed.
 To the other Elements she did not speak
@@ -9,6 +10,6 @@ And out of spite They plotted."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

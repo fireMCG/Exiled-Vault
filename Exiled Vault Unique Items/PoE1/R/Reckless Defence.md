@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Reckless Defence.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Reckless Defence.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There's no motivation for genius
 quite like desperation.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

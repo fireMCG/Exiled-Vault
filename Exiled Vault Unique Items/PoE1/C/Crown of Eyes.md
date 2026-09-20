@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Crown of Eyes.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Crown of Eyes.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Turning, gazing, blinking,
 behold the eyes of void.
 Burning, razing, drinking,
@@ -8,7 +9,7 @@ your mind is destroyed.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

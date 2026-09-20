@@ -1,9 +1,11 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Divine Flesh.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Give up your flesh unto the gods, and in vulnerability find strength.
 
-# Effects
+#
+## Effects
 All Damage taken bypasses Energy Shield
 50% of Elemental Damage taken as Chaos Damage
 +5% to maximum Chaos Resistance
@@ -11,7 +13,7 @@ All Damage taken bypasses Energy Shield
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #PoE1
 #Interesting 

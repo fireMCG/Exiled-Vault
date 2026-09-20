@@ -4,6 +4,6 @@ This... is not the Way.
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

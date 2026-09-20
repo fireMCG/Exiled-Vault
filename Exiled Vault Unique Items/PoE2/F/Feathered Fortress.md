@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Feathered Fortress.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Feathered Fortress.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Ride the western wind, and take flight.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

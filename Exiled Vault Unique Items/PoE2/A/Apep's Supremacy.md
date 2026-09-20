@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Apep's Supremacy.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Apep's Supremacy.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Give him your body, and your burdens will follow.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

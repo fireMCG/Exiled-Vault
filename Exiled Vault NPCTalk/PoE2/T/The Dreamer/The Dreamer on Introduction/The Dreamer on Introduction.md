@@ -1,4 +1,4 @@
-# The Dreamer on Introduction
+## The Dreamer on Introduction
 The Dreamer: I greet you... incumbent warrior.
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on Introduction/Audio/The Dreamer - S5 - L1 - A1.ogg]]
 The Dreamer: [DNT]
@@ -69,6 +69,6 @@ The Dreamer: Now... pose your question.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

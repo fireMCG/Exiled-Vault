@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Wing of the Wyvern.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Wing of the Wyvern.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fear flies by night,
 a bone, cold as death,
 all that remains
@@ -8,6 +9,6 @@ of hope's whisper.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

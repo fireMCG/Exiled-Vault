@@ -1,4 +1,4 @@
-# Farrow on Celestial Shapes
+## Farrow on Celestial Shapes
 Warrior: What do you think it means, seeing runeshapes in the stars above?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S24 - L1 - A1.ogg]]
 Witch: And you think there's some significance to seeing runes in the night sky? Assuming you're {not} just hallucinating, that is.
@@ -32,7 +32,7 @@ Farrow: Well, I asked around. Not many runesmiths left in Ezomyr to ask, mind yo
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S24 - L13 - A4.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S24 - L13 - A5.ogg]]
 
-# Farrow on Celestial Shapes
+## Farrow on Celestial Shapes
 Warrior: What do you think it means, seeing runeshapes in the stars above?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S25 - L1 - A1.ogg]]
 Witch: And you think there's some significance to seeing runes in the night sky? Assuming you're {not} just hallucinating, that is.
@@ -66,7 +66,7 @@ Farrow: Well, I asked around. Not many runesmiths left in Ezomyr to ask, mind yo
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S25 - L13 - A4.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S25 - L13 - A5.ogg]]
 
-# Farrow on Celestial Shapes
+## Farrow on Celestial Shapes
 Warrior: What do you think it means, seeing runeshapes in the stars above?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S26 - L1 - A1.ogg]]
 Witch: And you think there's some significance to seeing runes in the night sky? Assuming you're {not} just hallucinating, that is.
@@ -100,7 +100,7 @@ Farrow: Well, I asked around. Not many runesmiths left in Ezomyr to ask, mind yo
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S26 - L13 - A4.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S26 - L13 - A5.ogg]]
 
-# Farrow on Celestial Shapes
+## Farrow on Celestial Shapes
 Warrior: What do you think it means, seeing runeshapes in the stars above?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S27 - L1 - A1.ogg]]
 Witch: And you think there's some significance to seeing runes in the night sky? Assuming you're {not} just hallucinating, that is.
@@ -134,7 +134,7 @@ Farrow: Well, I asked around. Not many runesmiths left in Ezomyr to ask, mind yo
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S27 - L13 - A4.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S27 - L13 - A5.ogg]]
 
-# Farrow on Celestial Shapes
+## Farrow on Celestial Shapes
 Warrior: What do you think it means, seeing runeshapes in the stars above?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S28 - L1 - A1.ogg]]
 Witch: And you think there's some significance to seeing runes in the night sky? Assuming you're {not} just hallucinating, that is.
@@ -168,7 +168,7 @@ Farrow: Well, I asked around. Not many runesmiths left in Ezomyr to ask, mind yo
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S28 - L13 - A4.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S28 - L13 - A5.ogg]]
 
-# Farrow on Celestial Shapes
+## Farrow on Celestial Shapes
 Warrior: What do you think it means, seeing runeshapes in the stars above?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S29 - L1 - A1.ogg]]
 Witch: And you think there's some significance to seeing runes in the night sky? Assuming you're {not} just hallucinating, that is.
@@ -202,7 +202,7 @@ Farrow: Well, I asked around. Not many runesmiths left in Ezomyr to ask, mind yo
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S29 - L13 - A4.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S29 - L13 - A5.ogg]]
 
-# Farrow on Celestial Shapes
+## Farrow on Celestial Shapes
 Warrior: What do you think it means, seeing runeshapes in the stars above?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Celestial Shapes/Audio/Farrow - S30 - L1 - A1.ogg]]
 Witch: And you think there's some significance to seeing runes in the night sky? Assuming you're {not} just hallucinating, that is.
@@ -238,6 +238,6 @@ Farrow: Well, I asked around. Not many runesmiths left in Ezomyr to ask, mind yo
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

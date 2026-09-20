@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Where the worthy may earn passage to the Halls of the Dead.
 
-# Connected Areas
+## Connected Areas
 - Kingsmarch
 - Halls of the Dead
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

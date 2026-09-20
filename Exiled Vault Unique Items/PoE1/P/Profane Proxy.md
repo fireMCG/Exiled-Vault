@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Profane Proxy.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Profane Proxy.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The machines do not hate. They merely serve one who does.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

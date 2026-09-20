@@ -3,7 +3,7 @@ Clemence Trenowyth. Days survived: Two-Hundred and Two Head eaten by the animate
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Unknown

@@ -3,6 +3,6 @@ Tavakai... This is not the way!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Death's Oath.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Death's Oath.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Tears of blood, aching heart,
 My dear Isildria must depart.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

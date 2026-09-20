@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Rigwald's Crest.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Rigwald's Crest.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Within the heart of every man and woman
 lies the soul of a ferocious beast.
 If you cannot tame it, embrace it.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

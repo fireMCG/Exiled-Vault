@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Witchfire Brew.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Witchfire Brew.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Think of those that cursed us, judged us,
 and burned our sisters upon the pyre.
 Think of their names as you drink,
@@ -9,6 +10,6 @@ and even their children will feel what we do to them today."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

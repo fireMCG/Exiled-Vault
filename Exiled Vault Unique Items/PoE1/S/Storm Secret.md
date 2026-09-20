@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Storm Secret.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Storm Secret.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Lightning lives in an endless circle.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

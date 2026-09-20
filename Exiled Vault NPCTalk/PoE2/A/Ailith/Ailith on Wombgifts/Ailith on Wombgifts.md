@@ -1,4 +1,4 @@
-# Ailith on Wombgifts
+## Ailith on Wombgifts
 Warrior: Can you explain where these Wombgifts came from?
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Wombgifts/Audio/Ailith - S28 - L1 - A1.ogg]]
 Witch: Care to explain these Wombgifts to me?
@@ -79,6 +79,6 @@ Ailith: I choose to believe Wombgifts are remnants of better times in their hist
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

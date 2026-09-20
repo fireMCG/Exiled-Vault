@@ -4,6 +4,6 @@ Why would you show me this? You fool! This folly is only harmless because there 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Splinterheart.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Splinterheart.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The forests of the Vastiri held many secrets
 mystical and dark. Men learned not to wander,
 lest they return with a strange new purpose.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

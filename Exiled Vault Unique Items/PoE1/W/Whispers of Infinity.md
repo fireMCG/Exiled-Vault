@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Whispers of Infinity.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Whispers of Infinity.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In the Atlas, you do not go mad. You are rewritten.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

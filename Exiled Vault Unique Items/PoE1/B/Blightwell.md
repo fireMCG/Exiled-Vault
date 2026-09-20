@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Blightwell.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Blightwell.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Long ago, the ocean was a puddle where a golden fish dwelt, who lit the ocean from within and kept the water fresh.
 When the sky burned, the fish dived deep, never to return, and the waters turned sour.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Prismweave.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Prismweave.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Nothing is as vivid as the rage of battle
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -3,6 +3,6 @@ The last remnants of a wise and powerful race of creatures. A lesson in bone for
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

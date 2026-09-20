@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Binds of Bloody Vengeance.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Binds of Bloody Vengeance.png]]
 
-# Flavour Text
+#
+## Flavour Text
 What once marked his submission became the tool of his defiance - torn from the lash of House Keita.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

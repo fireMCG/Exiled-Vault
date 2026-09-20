@@ -1,13 +1,14 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Esh's Radiance.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "Where life once thrived, now only metal grows, inching
 like endless worms through the ash. Where silence fell,
 now sourceless thought whispers numbers in the dark."
 
 #
 ---
-# Tags
+## Tags
 #Category/SupportGem/Lineage 
 #Character/Breachlord/Esh
 #Concept/Breachlord

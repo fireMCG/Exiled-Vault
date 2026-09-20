@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Contract_ The Rescue.png]]
 
-# Flavour Text
+#
+## Flavour Text
 I won't be bullied.
 We must get Hana back.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE1

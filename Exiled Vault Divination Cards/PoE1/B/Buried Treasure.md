@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Buried Treasure.png]]
 
-# Flavour Text
+#
+## Flavour Text
 You can't seek riches without getting your hands dirty.
 
-# Reward
+#
+## Reward
 Sulphite Scarab
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

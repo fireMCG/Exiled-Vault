@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Harvest Scarab.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Hidden routes lead to vales of shadow and light...
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Harvest
 #PoE1

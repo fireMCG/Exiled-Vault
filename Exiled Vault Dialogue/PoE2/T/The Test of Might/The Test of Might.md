@@ -4,6 +4,6 @@ You are not yet a warrior, but soon, you will be! Climb these cliffs, and collec
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

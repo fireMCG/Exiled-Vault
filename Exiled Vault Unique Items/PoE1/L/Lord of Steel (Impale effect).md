@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Lord of Steel (Impale effect).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Lord of Steel (Impale effect).png]]
 
-# Flavour Text
+#
+## Flavour Text
 Her apprentice spends hours working the steel,
 and the end result is melted for scrap.
 Each one made better than the last.
@@ -9,6 +10,6 @@ She knows the path well.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

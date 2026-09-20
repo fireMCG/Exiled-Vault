@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Dancing Mirage.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Dancing Mirage.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Be not where death falls.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

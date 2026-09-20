@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Demigod's Immortality.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Demigod's Immortality.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The champion's name echoes through time,
 drowning out the whispers of the defeated.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

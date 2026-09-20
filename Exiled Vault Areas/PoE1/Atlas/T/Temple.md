@@ -1,9 +1,10 @@
-# Flavour Text
+#
+## Flavour Text
 Immaculate white stone rises
 from the abyss. Perfection.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE1

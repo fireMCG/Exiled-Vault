@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Igniferis.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Igniferis.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A hearth unyielding, ever warm,
 A light unbroken, endlessly reborn.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Arn's Anguish.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Arn's Anguish.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The tortured thinker is made heavier by the weight of his guilt.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Maven
 #Character/Arn

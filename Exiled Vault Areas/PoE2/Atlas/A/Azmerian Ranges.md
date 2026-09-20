@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 The Spirit guides the mountain-born.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2

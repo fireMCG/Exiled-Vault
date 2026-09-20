@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 Stones worn smooth by centuries of devotion.
 
-# Connected Areas
+## Connected Areas
 - The Crypt Level 1
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

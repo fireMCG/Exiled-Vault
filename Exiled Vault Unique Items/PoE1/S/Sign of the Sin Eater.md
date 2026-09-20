@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Sign of the Sin Eater.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Sign of the Sin Eater.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A secret few among the Templars grant absolution by bearing the guilt of others.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

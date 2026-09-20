@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of A Worthy Foe.webp]]
+![[PoE2 - Legacy of A Worthy Foe.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Shields: Off-hand Hits inflict Runefather's Challenge
-
-# Bonded Effects
-- Shields: +45% to Cold Resistance
+#
+## Flavour Text
+Aldur created something that went beyond king
+or country, beyond family or honour. The craft
+of runesmithing stands apart, in deed and skill.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

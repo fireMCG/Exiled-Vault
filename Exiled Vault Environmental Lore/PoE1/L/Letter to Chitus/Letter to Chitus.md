@@ -3,6 +3,6 @@ My dear Chitus, The Empire has lived in fear and ignorance since its inception. 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act3

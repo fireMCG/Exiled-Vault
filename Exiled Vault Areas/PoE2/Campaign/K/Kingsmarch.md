@@ -1,7 +1,8 @@
-# Flavour Text
+#
+## Flavour Text
 A rare jewel on the sea.
 
-# Connected Areas
+## Connected Areas
 - Ziggurat Encampment
 - Isle of Kin
 - Kedge Bay
@@ -19,6 +20,6 @@ A rare jewel on the sea.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Transcendent Flesh.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Transcendent Flesh.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We are as much shaped by what we do as what is done to us.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

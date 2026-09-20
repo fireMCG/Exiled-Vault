@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Green Nightmare.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Green Nightmare.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We take root in the dirt and strangle those who tread upon it.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

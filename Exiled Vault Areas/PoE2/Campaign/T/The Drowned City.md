@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 A waterlogged corpse, ripe for the looting.
 
-# Connected Areas
+## Connected Areas
 - Ziggurat Encampment
 - The Molten Vault
 - Apex of Filth
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

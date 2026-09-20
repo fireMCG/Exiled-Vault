@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Crown of Thorns.webp]]
+![[PoE2 - Legacy of Crown of Thorns.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Helmets: Pain Attunement
-
-# Bonded Effects
-- Helmets: 17 to 26 Physical Thorns damage
+#
+## Flavour Text
+"We did not always treasure our local witches. When
+our ancestors found the child Beira, they... assumed
+some things about her. It was... a tragic mistake."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

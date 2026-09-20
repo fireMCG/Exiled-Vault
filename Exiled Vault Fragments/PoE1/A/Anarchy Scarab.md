@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Anarchy Scarab.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 On Wraeclast, it's kill or be killed.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 5
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Anarchy
 #PoE1

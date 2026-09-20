@@ -1,4 +1,4 @@
-# Ailith on Introduction
+## Ailith on Introduction
 Ailith: ... I am surprised to see you out here.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Introduction/Audio/Ailith - S5 - L1 - A1.ogg]]
 Ailith: Well... you appear quite capable. I seek your aid. The very world is at stake!
@@ -80,6 +80,6 @@ Ailith: Step forth and open the breach. Be ready to fight!
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

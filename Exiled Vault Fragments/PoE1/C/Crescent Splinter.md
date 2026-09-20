@@ -1,10 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Crescent Splinter.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Precious and perilous,
 Tantalising and terrible.
 
-# Details
+## Details
 Stackable Currency
 Stack Size: 1 / 10
 Combine 10 Crescent Splinters to create The Maven's Writ.
@@ -12,6 +13,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

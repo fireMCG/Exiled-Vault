@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Putrid Cloister.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Putrid Cloister.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Please take out your blades,
 your whips, and your spikes.
 Class is now in session.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

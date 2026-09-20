@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Burden of Truth.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Burden of Truth.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Mortal pleasures can hold back the memories,
 but a hollow soul can never be healed.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

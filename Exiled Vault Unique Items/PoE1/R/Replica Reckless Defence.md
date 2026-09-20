@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Reckless Defence.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Reckless Defence.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Prototype #298 must be contained in a non-conductive glass box at all times."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

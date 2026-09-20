@@ -3,6 +3,6 @@ Your success in the trial will go a long way to redeeming you with your {akhara}
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

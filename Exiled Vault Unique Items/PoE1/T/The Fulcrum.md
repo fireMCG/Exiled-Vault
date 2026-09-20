@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Fulcrum.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Fulcrum.png]]
 
-# Flavour Text
+#
+## Flavour Text
 To stand at the confluence of the elements,
 the master must achieve perfect balance.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

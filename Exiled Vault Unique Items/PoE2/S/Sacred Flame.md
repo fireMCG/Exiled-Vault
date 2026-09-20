@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Sacred Flame.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Sacred Flame.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fire destroys, but fire also purifies.
 Life always springs anew.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

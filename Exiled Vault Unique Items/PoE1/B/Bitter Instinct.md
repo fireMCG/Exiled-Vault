@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Bitter Instinct.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Bitter Instinct.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We isolate ourselves to hide our long held pain.
 We lash out, when all we want is an end to loneliness.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Emotion/Loneliness
 #PoE1

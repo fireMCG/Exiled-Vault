@@ -1,9 +1,9 @@
+![[PuppetMistressIcon.webp]]
+
 
 ![[Soul of Arachnoxia#Soul of Arachnoxia]]
 
 #
-![[PuppetMistressIcon.webp]]
-
 ---
 ## Tags
 #Character/God/Ryslatha

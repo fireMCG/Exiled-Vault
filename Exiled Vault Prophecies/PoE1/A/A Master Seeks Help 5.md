@@ -1,16 +1,19 @@
-# Flavour Text
+![[Prophecy_inventory_icon.png]]
+
+#
+## Flavour Text
 Lost in the miasma of dream, a master of many realms seeks aid.
+
 ## Prophecy
 You will find Zana and complete her mission.
+
 ## Reward
 \- None -
 
 #
-![[Prophecy_inventory_icon.png]]
-
 #
 ---
-# Tags
+## Tags
 #Category/Prophecy
 #League/Prophecy
 #PoE1 

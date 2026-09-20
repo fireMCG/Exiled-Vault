@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Empty Roar.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Empty Roar.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Secrecy and silence are powers all their own.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### Val_Wild_VesperConvo_Two_Vesper
 I can see my hands! Well, sort of. I can think a shade better, too. Throw some more of that light on me!
 
@@ -406,6 +407,6 @@ Reckon I can rustle something up to your liking.
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE1

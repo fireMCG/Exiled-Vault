@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Grasping Nightshade.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Grasping Nightshade.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A virulent brew of death and decay.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

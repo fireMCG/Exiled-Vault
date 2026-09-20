@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Lost Unity.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Lost Unity.png]]
 
-# Flavour Text
+#
+## Flavour Text
 All gates are closed.
 All dreams are silenced.
 What could have been...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

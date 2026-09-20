@@ -1,14 +1,15 @@
 ![[Exiled Vault Fragments/_Images/PoE2 - Raven's Reflection.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Witness the genesis of madness.
 
-# Details
+## Details
 Map Fragments
 Bring this to the Mirror in the Withered Willow.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE2

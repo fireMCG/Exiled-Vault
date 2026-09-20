@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Will of Uul-Netol.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Will of Uul-Netol.png]]
 
-# Flavour Text
+#
+## Flavour Text
 They move and coil, gripped by painful ecstasy,
 all meaning long since lost to dead-eyed lust.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

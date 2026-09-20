@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Bloodgrip.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Bloodgrip.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Combat is simple.
 Keep your blood in.
 Take theirs out.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Blackbraid.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Blackbraid.png]]
 
-# Flavour Text
+#
+## Flavour Text
 An Ezomyte endures.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

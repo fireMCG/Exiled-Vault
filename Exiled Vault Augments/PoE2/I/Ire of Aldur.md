@@ -1,14 +1,13 @@
-# Details
-- Stack Size: 1 / 10
+![[PoE2 - Ire of Aldur.webp]]
 
-# Effects
-- Weapon: Transforms all Fire and Cold modifiers on the item into equivalent Lightning modifiers
-
-# Bonded Effects
-- Weapon: 25% increased Lightning Damage
+#
+## Flavour Text
+On the highest peak, Aldur discovered the true secret
+of runes. They awaited willpower, and command. Raising
+his sword high, he received the might of the skies.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

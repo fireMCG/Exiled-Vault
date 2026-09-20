@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Cerberus Limb.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Cerberus Limb.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The greatest of guardians make the greatest of sacrifices.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

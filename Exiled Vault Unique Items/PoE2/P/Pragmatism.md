@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Pragmatism.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Pragmatism.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In an endless war against darkness,
 one must be ever vigilant.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

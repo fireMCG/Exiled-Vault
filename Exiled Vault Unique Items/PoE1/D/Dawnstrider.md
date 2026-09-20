@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Dawnstrider.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Dawnstrider.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In a void strewn with incandescent stardust,
 the emissary of flame traverses interplanetary space
 consuming the knowledge of fallen civilisations.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/SearingExarch
 #Concept/Time/Dawn

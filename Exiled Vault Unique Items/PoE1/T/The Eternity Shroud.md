@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Eternity Shroud.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Eternity Shroud.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There can be no defence against the celestial siblings entropy and time.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Rain Tempter.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Be like water, friend.
 
-# Reward
+#
+## Reward
 Map
 Map Tier: 6
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Map
 #Concept/Water

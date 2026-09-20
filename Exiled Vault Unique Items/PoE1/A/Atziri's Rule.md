@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Atziri's Rule.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Atziri's Rule.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Bow before her... or suffer the most gruelling death imaginable.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Atziri
 #Concept/Death

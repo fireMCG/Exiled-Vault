@@ -1,17 +1,14 @@
-![[Exiled Vault Augments/_Images/PoE2 - Vorana's Carnage.webp]]
+![[PoE2 - Vorana's Carnage.webp]]
 
-# Details
-- Stack Size: 1 / 10
-- Limited to: 1
-
-# Effects
-- Helmets: Can roll Berserking modifiers
-
-# Bonded Effects
-- Helmets: Gain 2 Rage on Melee Hit
+#
+## Flavour Text
+Vorana the Irrepressible never once recruited. The Black
+Scythe Mercenaries were entirely composed of men and
+women who had seen her relentless will to fight - and
+thought to themselves, "I would follow her anywhere."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

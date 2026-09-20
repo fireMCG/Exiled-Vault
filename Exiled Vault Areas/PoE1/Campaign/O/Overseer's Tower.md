@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 Vengeance is the slave's ultimate reward.
 
-# Connected Areas
+## Connected Areas
 - The Slave Pens
 - The Control Blocks
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1
 #Interesting

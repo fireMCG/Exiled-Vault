@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Oaksworn.webp]]
+![[PoE2 - Legacy of Oaksworn.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Shields: 50% increased Life Regeneration rate
-
-# Bonded Effects
-- Shields: 50 Life Regeneration per second
+#
+## Flavour Text
+"When we first joined the Ezomytes in Phaaryl, we found
+a verdant land teeming with unfamiliar energies. There
+were none to protect it. We Druids took up the cause."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

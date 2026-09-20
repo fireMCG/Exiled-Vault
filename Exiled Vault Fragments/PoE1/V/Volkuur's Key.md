@@ -1,10 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Volkuur's Key.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 She of Many Bodies, whose very flesh unites all,
 whose dark whispers draw forth our souls, unfettered.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 10
 Portal: NULL
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #Interesting
 #PoE1

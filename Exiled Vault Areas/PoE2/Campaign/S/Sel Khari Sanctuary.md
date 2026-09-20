@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 The water guardians have served valiantly for generations.
 
-# Connected Areas
+## Connected Areas
 - Pools of Khatal
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

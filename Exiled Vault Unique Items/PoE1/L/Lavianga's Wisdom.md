@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Lavianga's Wisdom.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Lavianga's Wisdom.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The painful memories are the easiest to recall."
 - , Advisor to
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -3,6 +3,6 @@ The Old Man: Zana knows him. Grandfather? Mentor? Either way, he doesn't seem to
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

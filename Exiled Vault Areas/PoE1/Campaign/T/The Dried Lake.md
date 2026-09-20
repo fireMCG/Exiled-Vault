@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Bones of betrayal, ashes of purity.
 
-# Connected Areas
+## Connected Areas
 - Highgate
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1
 #Interesting

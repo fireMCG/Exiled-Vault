@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Arakaali's Fang.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Arakaali's Fang.png]]
 
-# Flavour Text
+#
+## Flavour Text
 All children must eat.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/God/Arakaali
 #Society/VaalEmpire

@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/OctopusDoll.webp]]
+
 [[Tasalio Tribe]]
 
+#
 #
 ## Flavour Text
 They slip through shadows of their own making.
 
 #
-![[OctopusDoll.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

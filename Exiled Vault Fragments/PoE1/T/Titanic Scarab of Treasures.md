@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Titanic Scarab of Treasures.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Greed is a trap of the mind.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 3
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1
 #Interesting 

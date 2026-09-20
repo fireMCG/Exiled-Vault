@@ -1,4 +1,4 @@
-# Farrow on The Expedition
+## Farrow on The Expedition
 Farrow: It's comforting to hear the Kalguurans talk about firing up their old quest once more. I could see it in Dannig's eyes at the forge before all this... He longed for adventure. To relive that part of his life.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Expedition/Audio/Farrow - S74 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Expedition/Audio/Farrow - S74 - L1 - A2.ogg]]
@@ -46,6 +46,6 @@ Farrow: I hope, whatever happens, it brings him peace. That's all, really.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

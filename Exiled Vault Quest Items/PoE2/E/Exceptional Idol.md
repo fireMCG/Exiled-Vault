@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Exceptional Idol.png]]
 
-# Flavour Text
+#
+## Flavour Text
 ...and exquisite craftsmanship.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE2
 #Society/VaalEmpire

@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 Blood fever rages in the flame-cast night.
 
-# Connected Areas
+## Connected Areas
 - Ngakanu
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

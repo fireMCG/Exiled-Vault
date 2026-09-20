@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hyrri's Demise.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hyrri's Demise.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Hyrri's quick thinking led to victory,
 but it came at the cost of respect.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

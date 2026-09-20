@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Crystallised Omniscience.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Crystallised Omniscience.png]]
 
-# Flavour Text
+#
+## Flavour Text
 That winter, scorched refugees emerged from the shrine, speaking only in strange tongues.
 They prayed to a new symbol of power, not out of love, but out of fear.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/UniqueItem
 #Character/Eldritch/SearingExarch

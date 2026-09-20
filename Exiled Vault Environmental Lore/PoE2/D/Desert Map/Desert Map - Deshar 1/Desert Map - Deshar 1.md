@@ -3,6 +3,6 @@ Enter Deshar, and take our vengeance upon the Faridun within! We will flank them
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

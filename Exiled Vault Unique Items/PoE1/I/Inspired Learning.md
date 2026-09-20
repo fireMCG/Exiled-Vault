@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Inspired Learning.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Inspired Learning.png]]
 
-# Flavour Text
+#
+## Flavour Text
 If you do not learn from a won battle
 then you have already lost the war.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

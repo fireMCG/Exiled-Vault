@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Angel of Vengeance.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Angel of Vengeance.png]]
 
-# Flavour Text
+#
+## Flavour Text
 She stands grim, wreathed in flame, awaiting the crusader's call.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Thief's Torment.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Thief's Torment.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The ring I stole,
 My finger they took,
 A shrouded mind,
@@ -11,6 +12,6 @@ A blessing is often a curse.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

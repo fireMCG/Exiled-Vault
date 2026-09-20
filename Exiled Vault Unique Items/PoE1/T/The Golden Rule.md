@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Golden Rule.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Golden Rule.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Hurt as you would be hurt.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

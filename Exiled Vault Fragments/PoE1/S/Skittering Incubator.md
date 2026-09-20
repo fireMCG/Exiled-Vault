@@ -1,6 +1,6 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Skittering Incubator.webp]]
 
-# Details
+## Details
 Incubators
 Stack Size: 1 / 10
 Adds an incubated Scarab item to an equippable item
@@ -11,6 +11,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

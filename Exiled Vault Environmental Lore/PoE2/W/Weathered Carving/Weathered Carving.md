@@ -3,7 +3,7 @@ I remember the before-times. We bowed before Atziri, who bowed before no-one. Bu
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/VaalEmpire

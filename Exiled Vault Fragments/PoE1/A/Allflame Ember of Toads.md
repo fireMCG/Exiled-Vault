@@ -1,6 +1,6 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Allflame Ember of Toads.webp]]
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 3
@@ -16,6 +16,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

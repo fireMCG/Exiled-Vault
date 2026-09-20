@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 Within lies power beyond comprehension.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2

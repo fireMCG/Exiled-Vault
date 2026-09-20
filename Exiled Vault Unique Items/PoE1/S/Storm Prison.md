@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Storm Prison.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Storm Prison.png]]
 
-# Flavour Text
+#
+## Flavour Text
 You can never truly tame the tempest.
 You can barely even leash it.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

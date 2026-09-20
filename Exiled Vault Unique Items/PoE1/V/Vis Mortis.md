@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Vis Mortis.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Vis Mortis.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Reap what others have sown
 Muster them from their graves
 Parade them for your pleasure
@@ -8,6 +9,6 @@ Zealots in mortis enslaved
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

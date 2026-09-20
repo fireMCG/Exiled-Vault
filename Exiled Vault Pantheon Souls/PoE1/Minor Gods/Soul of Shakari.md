@@ -1,9 +1,9 @@
+![[QueenOfTheSandsIcon.webp]]
+
 
 ![[Soul of Terror of the Infinite Drifts#Soul of Terror of the Infinite Drifts]]
 
 #
-![[QueenOfTheSandsIcon.webp]]
-
 ---
 ## Tags
 #Character/God/Shakari

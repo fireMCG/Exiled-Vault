@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Lioneye's Vision.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Lioneye's Vision.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The Virtue Gems are a gift from the land,
 our land, and we will not let our gifts
 be destroyed by savages."
@@ -8,6 +9,6 @@ be destroyed by savages."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

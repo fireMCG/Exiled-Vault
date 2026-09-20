@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Melting Maelstrom.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Melting Maelstrom.png]]
 
-# Flavour Text
+#
+## Flavour Text
 What is life, but a dreamlike spiral of panic?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

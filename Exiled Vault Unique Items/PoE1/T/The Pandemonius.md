@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Pandemonius.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Pandemonius.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A single moment sets in motion an eternal fall,
 beneath which all are buried.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

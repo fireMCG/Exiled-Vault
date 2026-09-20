@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Coveted Possession.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A taste of power brings a hunger for more.
 
-# Reward
+#
+## Reward
 5x Regal Orb
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Hunger
 #Concept/Power

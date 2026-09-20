@@ -1,4 +1,4 @@
-# Ailith on Vruun's Head
+## Ailith on Vruun's Head
 Ailith: So... you defeated Vruun. And were so kind as to... return with his head.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Vruun's Head/Audio/Ailith - S29 - L1 - A1.ogg]]
 Warrior: Hmm... it is strange when you put it that way.
@@ -46,6 +46,6 @@ Ailith: Gift Vruun's head to the Genesis Tree. I believe she will reward you qui
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

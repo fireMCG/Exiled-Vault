@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Journalist.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A good spy doesn't forget she's gone undercover.
 
-# Reward
+#
+## Reward
 Helmet
 Double-Veiled Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

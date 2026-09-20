@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Squire.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Squire.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Judge not the weak, for
 they empower the strong.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/DriedLizardAmulet.webp]]
+
 [[Tawhoa Tribe]]
 
+#
 #
 ## Flavour Text
 That which is wounded may become whole again in time.
 
 #
-![[DriedLizardAmulet.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Spirit
 #League/Ancestor

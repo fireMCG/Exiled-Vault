@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/HinderHand.webp]]
+
 [[Hinekora Tribe]]
 
+#
 #
 ## Flavour Text
 There is no use trying to escape destiny.
 
 #
-![[HinderHand.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Fate
 #League/Ancestor

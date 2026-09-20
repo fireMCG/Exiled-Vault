@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Queen's Decree.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Queen's Decree.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The nobles wanted to take her throne.
 She let the peasants take their wealth.
 The peasants wanted to take her wealth.
@@ -10,7 +11,7 @@ She sat on her throne and wept.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

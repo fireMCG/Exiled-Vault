@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Mutable Star.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Mutable Star.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Through every great purge, and every fiery inquisition,
 the Twilight Order endured in secret.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

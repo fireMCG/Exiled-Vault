@@ -1,15 +1,17 @@
 ![[Exiled Vault Keystones/_Images/PoE2 - Bulwark.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 In battle, certainty is worth a little pain.
 
-# Effects
+#
+## Effects
 Dodge Roll cannot Avoid Damage
 Take 30% less Damage from Hits while Dodge Rolling
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE2

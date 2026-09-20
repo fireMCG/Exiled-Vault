@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Quickening Covenant.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Quickening Covenant.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Lose that which you never had.
 Gain power you could not have grasped.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

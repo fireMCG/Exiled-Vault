@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Viper's Scales.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Viper's Scales.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Swift and silent.
 One strike, one corpse.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

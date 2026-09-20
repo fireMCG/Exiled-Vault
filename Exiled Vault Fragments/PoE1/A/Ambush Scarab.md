@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Ambush Scarab.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Is it still an ambush if you're expecting it?
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 3
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Ambush
 #PoE1

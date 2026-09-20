@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Barrow Dweller.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Barrow Dweller.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In the mists they dwell,
 forever hungry,
 forever cold.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -4,6 +4,6 @@ No outsiders allowed.
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

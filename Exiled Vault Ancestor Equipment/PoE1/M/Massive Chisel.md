@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/TotemChisel.webp]]
+
 [[Tukohama Tribe]]
 
+#
 #
 ## Flavour Text
 Ancestral wood splinters freely under the heavy weight of jade.
 
 #
-![[TotemChisel.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

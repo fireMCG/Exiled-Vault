@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Alpha's Howl.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Alpha's Howl.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Nature respects the strong, and paints the snow red with the blood of the weak
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Animal/Canidae/Wolf
 #Concept/Blood

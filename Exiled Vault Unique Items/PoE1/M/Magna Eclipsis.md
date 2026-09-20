@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Magna Eclipsis.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Magna Eclipsis.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Lunaris crossed silently, shining and full,
 Softly night left her, alone and forlorn.
 Solaris rose to meet her, feeling her pull.
@@ -8,6 +9,6 @@ Solaris rose to meet her, feeling her pull.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Craghead.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Craghead.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Hit them hard. Hit them once.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

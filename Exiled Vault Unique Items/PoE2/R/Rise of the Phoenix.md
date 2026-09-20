@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Rise of the Phoenix.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Rise of the Phoenix.png]]
 
-# Flavour Text
+#
+## Flavour Text
 My bearer shall be guarded by flame,
 for I am the phoenix, forever radiant in glory.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

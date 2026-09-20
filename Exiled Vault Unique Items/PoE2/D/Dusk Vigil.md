@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Dusk Vigil.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Dusk Vigil.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The candlemass tradition was born in a time of darkness and fear.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/UniqueItem
 #PoE2

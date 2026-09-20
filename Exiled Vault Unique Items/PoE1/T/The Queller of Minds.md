@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Queller of Minds.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Queller of Minds.webp]]
 
-# Flavour Text
-Quiet thy troubled soul. Think not. Just pray... to me.
+#
+## Flavour Text
+In truth, they point the finger at themselves.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

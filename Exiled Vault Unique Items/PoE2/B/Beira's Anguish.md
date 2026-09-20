@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Beira's Anguish.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Beira's Anguish.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 They found a crying child tied to a frozen pyre.
 She was clad in ice, but the village was ash.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

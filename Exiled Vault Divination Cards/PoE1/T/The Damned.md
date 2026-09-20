@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Damned.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Souls along a conduit of blood, 
 from one vessel to the next.
 
-# Reward
+#
+## Reward
 Soul Ripper
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Blood
 #Concept/Damnation

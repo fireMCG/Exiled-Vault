@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Alberon's Warpath.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Alberon's Warpath.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Starving test subject became completely incapable of exerting force.
 However, after being fed, he began to poison everything he touched..."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

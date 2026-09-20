@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Death wears a mostly human face.
 
-# Connected Areas
+## Connected Areas
 - Infested Barrens
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2
 #Interesting 

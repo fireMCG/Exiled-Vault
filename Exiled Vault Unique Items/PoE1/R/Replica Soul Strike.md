@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Soul Strike.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Soul Strike.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The theft of another's vitality is short-lived, but sweet.
 It calls to me, bidding me abandon all other pursuits."
 - Researcher Arn
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

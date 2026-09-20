@@ -1,9 +1,11 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Nature's Patience.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 To win, all you must do is outlast.
 
-# Effects
+#
+## Effects
 Gain 2 Grasping Vines each second while stationary
 2% chance to deal Double Damage per Grasping Vine
 1% less Damage taken per Grasping Vine
@@ -11,7 +13,7 @@ Gain 2 Grasping Vines each second while stationary
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE1

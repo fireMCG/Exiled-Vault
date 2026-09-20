@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Ironride.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Ironride.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Let the rider's aim be true.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

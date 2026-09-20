@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Azure Rage.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The mask hides his identity
 but also makes it hard to read...
 
-# Reward
+#
+## Reward
 Punishing Map
 Map Tier: 16
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

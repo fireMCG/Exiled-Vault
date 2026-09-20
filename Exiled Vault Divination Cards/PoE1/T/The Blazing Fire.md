@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Blazing Fire.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Lethal, untouchable, keen, aflame. Just what I was looking for.
 
-# Reward
+#
+## Reward
 Chin Sol
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Element/Fire
 #PoE1

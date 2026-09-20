@@ -3,6 +3,6 @@ Ah, yes, the Horn of the Vastiri... I know the tale. The ancient city of Keth, t
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

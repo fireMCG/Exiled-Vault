@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Spire of Ire.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Spire of Ire.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The spear was specially forged to assassinate Voll,
 but Maligaro never got a chance to use it...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

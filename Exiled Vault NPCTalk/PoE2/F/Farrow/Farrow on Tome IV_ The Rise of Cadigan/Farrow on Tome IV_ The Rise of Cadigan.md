@@ -1,4 +1,4 @@
-# Farrow on Tome IV: The Rise of Cadigan
+## Farrow on Tome IV: The Rise of Cadigan
 Farrow: Ah! Another volume! 'Volume Four: The Rise of Cadigan.' 'The Runefathers' rule was challenged by a claimant heir of Aldur. On his first appeal, his words fell on deaf ears. On his second appeal, he bore weapons instead.' 'Cadigan took his throne as the next true King of Kalguur, and promised glory to all.' 'When red adorned the sky across the sea, fear gripped Middengard once more. Cadigan assembled his finest heroes, armed them with the Triskelion Flame, and sent them to those distant shores.' '"Redeem those lands! Expand our shores! Show every Kalguuran that our prosperity is unending!"' 'And so we sail on to our unknown expedition, with adventure in our hearts and fear in our throats.'
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Tome IV_ The Rise of Cadigan/Audio/Farrow - S52 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Tome IV_ The Rise of Cadigan/Audio/Farrow - S52 - L1 - A2.ogg]]
@@ -42,6 +42,6 @@ Farrow: Well... what a story these tomes have made so far. There's a fair amount
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

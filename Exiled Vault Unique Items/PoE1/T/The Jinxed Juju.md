@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Jinxed Juju.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Jinxed Juju.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Burned rhoa's eye and goatman's beard do demand:
 Leave behind those lazy bones;
 Dance, ye dead, at my command!
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

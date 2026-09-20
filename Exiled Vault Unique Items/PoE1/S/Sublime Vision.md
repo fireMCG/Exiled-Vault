@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Sublime Vision.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Sublime Vision.png]]
 
-# Flavour Text
+#
+## Flavour Text
 This world is not good enough for ,
 so I will make a better one. Nothing
 matters but the pursuit of perfection.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Elder
 #Character/Eldritch/Shaper

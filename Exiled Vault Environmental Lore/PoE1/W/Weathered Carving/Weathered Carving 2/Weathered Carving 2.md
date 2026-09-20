@@ -3,6 +3,6 @@ Kaom has removed the Eternal stain from this coast. The Empire's citizens decora
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

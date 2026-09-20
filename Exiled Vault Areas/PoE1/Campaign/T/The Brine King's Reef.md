@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 A coral throne for a salt-soured god.
 
-# Connected Areas
+## Connected Areas
 - The Beacon
 - The Bridge Encampment
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

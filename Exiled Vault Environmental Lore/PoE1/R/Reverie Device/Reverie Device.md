@@ -3,6 +3,6 @@ I awoke, feverish, and barely conscious I set to drawing these maps through the 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act3

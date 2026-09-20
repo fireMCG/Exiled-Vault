@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Stormheart.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Stormheart.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When the storm comes, the safest place to be is the centre.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

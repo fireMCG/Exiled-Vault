@@ -11,6 +11,6 @@ The stories below should be read in the following order:
 7. [[Player - Witch]]
 
 ---
-# Tags
+## Tags
 #Attributes/Unofficial 
 #Category/Lore

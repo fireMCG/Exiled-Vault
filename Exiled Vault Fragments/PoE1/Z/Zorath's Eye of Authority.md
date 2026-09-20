@@ -1,9 +1,10 @@
-# Flavour Text
+#
+## Flavour Text
 His grasp, severed from his spark...
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1
 #Interesting

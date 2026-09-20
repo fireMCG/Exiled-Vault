@@ -1,7 +1,8 @@
-# Flavour Text
+#
+## Flavour Text
 A shadow waits and watches with mysterious intent.
 
-# Connected Areas
+## Connected Areas
 - Clearfell
 - The Red Vale
 - The Grim Tangle
@@ -9,7 +10,7 @@ A shadow waits and watches with mysterious intent.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2
 #Interesting 

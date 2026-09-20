@@ -3,6 +3,6 @@ Each great movement has detractors - the powers that be naturally fight against 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

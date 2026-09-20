@@ -2,7 +2,7 @@ My motley crew, neither fit to lick my boots nor curl my moustache, have bloody 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act6
 #Interesting 

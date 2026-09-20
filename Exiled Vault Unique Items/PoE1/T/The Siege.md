@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Siege.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Siege.png]]
 
-# Flavour Text
+#
+## Flavour Text
 As the dead battered Highgate's barricades,
 The Black Sekhema accepted her fate,
 And stood her ground.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

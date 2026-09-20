@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Scarab of Evolution.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The cycle of death shapes life to its environment.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1
 #Interesting 

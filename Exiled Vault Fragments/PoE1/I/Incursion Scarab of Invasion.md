@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Incursion Scarab of Invasion.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A gate, once opened, may swing in either direction.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 3
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Incursion
 #PoE1

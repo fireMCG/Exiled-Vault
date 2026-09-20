@@ -1,11 +1,12 @@
-# Flavour Text
+![[Strange_Barrel.png]]
+
+#
+## Flavour Text
 Just an ordinary barrel, used to store sensible objects.  
 Not swarms of things.
 
 #
-![[Strange_Barrel.png]]
-
 ---
-# Tags
+## Tags
 #Category/Strongbox
 #PoE1 

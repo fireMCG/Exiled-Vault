@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 Those killed in battle do not rest peacefully.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2

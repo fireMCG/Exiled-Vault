@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Road to Power.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A beacon on the horizon; a guiding light, a call for help, or a warning to turn back.
 
-# Reward
+#
+## Reward
 Runic One-Hand Weapon
 Item Level: 100
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

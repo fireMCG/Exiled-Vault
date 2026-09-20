@@ -1,4 +1,5 @@
-# Flavour Text
+#
+## Flavour Text
 Fire ignites the sky.
 
 A signal to keep away.
@@ -7,7 +8,7 @@ An invitation to invade.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE1
 #Interesting

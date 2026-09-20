@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 History is written in the blood of tyrants.
 
-# Connected Areas
+## Connected Areas
 - The Dreadnought
 - Sandswept Marsh
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

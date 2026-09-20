@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Beetlebite.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Beetlebite.png]]
 
-# Flavour Text
+#
+## Flavour Text
 They crawl and chitter and swarm
 in the shadow of his presence.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

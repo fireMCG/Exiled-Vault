@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 Cries of torment and pathetic moans as the unholy banquet of flesh continues.
 
-# Connected Areas
+## Connected Areas
 - The Canals
 - Oriath Docks
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1
 #Interesting

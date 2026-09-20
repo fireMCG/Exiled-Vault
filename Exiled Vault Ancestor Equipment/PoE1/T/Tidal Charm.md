@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/ShieldCharm.webp]]
+
 [[Valako Tribe]]
 
+#
 #
 ## Flavour Text
 Only a fool fights the tide.
 
 #
-![[ShieldCharm.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Water
 #League/Ancestor

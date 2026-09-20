@@ -1,4 +1,4 @@
-# Ailith on First Breach Completed
+## Ailith on First Breach Completed
 Ailith: You have advanced well. Please, you must rejoin the war effort!
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on First Breach Completed/Audio/Ailith - S1 - L1 - A1.ogg]]
 Ailith: Do not despair. If you rejoin the war effort, your training can continue from where you left off!
@@ -14,6 +14,6 @@ Ailith: I am Ailith. Founder of the Keepers of the Flame. We are all that stands
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

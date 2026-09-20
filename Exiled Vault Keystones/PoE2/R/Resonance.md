@@ -1,16 +1,18 @@
 ![[Exiled Vault Keystones/_Images/PoE2 - Resonance.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The notes may change, but the song remains the same.
 
-# Effects
+#
+## Effects
 Gain Power Charges instead of Frenzy Charges
 Gain Frenzy Charges instead of Endurance Charges
 Gain Endurance Charges instead of Power Charges
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE2

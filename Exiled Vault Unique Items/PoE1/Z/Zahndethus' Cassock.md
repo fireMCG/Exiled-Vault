@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Zahndethus' Cassock.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Zahndethus' Cassock.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When dead men rise and darkness falls
 Only faith can be your walls
 Walls of Light, not of brick
@@ -8,6 +9,6 @@ Twice as strong and twice as thick
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

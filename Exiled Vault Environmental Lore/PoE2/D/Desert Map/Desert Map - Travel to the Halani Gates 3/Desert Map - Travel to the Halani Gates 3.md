@@ -3,6 +3,6 @@ We have reclaimed the Halani Gates from the Faridun, but Jamanra's foul sorcery 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

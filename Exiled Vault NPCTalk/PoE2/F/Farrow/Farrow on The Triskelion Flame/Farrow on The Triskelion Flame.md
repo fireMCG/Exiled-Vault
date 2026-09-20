@@ -1,4 +1,4 @@
-# Farrow on The Triskelion Flame
+## Farrow on The Triskelion Flame
 Farrow: It's strange really... I didn't fully know what my hands were doing, but Dannig and I worked as if it were almost a well-rehearsed dance. I'm not a pious man, but the whole thing felt almost... guided somehow.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Triskelion Flame/Audio/Farrow - S86 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Triskelion Flame/Audio/Farrow - S86 - L1 - A2.ogg]]
@@ -31,6 +31,6 @@ Farrow: For all I know, that could be the truth.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

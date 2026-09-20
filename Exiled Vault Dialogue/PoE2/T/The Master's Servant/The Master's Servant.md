@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### VampireServant_AdjustHigher_Random
 The master seeks wealth... We must deliver!
 ![[Exiled Vault Dialogue/PoE2/T/The Master's Servant/_Audio/The Master's Servant - VampireServant_AdjustHigher_Random.ogg]]
@@ -240,6 +241,6 @@ You... ask us such a question? You care to know? We are not worthy of such compa
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

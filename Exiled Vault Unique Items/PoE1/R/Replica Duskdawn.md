@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Duskdawn.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Duskdawn.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Lab Two suffered significant structural damage in the process of creating
 Prototype #77. It is, however, the closest we've come to perfection."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Balance
 #Concept/Time/Dawn

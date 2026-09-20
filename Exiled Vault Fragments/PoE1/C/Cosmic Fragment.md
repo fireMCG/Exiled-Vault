@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Cosmic Fragment.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A single act of love and defiance may cascade destruction across the cosmos.
 
-# Details
+## Details
 Map Fragments
 Portal: The Shaper's Realm
 Area Level: 85
@@ -14,7 +15,7 @@ Use four of these in a personal Map Device to open Portals to The Shaper's Realm
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

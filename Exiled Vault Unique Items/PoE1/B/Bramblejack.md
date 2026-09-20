@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Bramblejack.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Bramblejack.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It is safer to be feared than to be loved.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

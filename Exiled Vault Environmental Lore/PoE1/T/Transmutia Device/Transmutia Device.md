@@ -3,6 +3,6 @@ I bequeath this Transmutia Device to you, Inquisitor Maligaro, in recognition of
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act2

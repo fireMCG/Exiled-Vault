@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Taryn's Shiver.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Taryn's Shiver.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Shed by the winged beast of night,
 A scaly frost-encrusted thorn.
 All who feel its wintry light
@@ -8,6 +9,6 @@ Shiver in pain at the frozen dawn.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

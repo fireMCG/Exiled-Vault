@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Windripper.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Windripper.png]]
 
-# Flavour Text
+#
+## Flavour Text
 It hunts; as silent as falling snow, as deadly as the tempest.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

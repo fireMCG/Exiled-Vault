@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Wondertrap.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Wondertrap.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Wonders abound at death's door.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

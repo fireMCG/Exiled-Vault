@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hopeshredder.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hopeshredder.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Their last thoughts were not of their friends,
 or their families, or their homes.
 Their last thoughts were untethered from reality,
@@ -8,7 +9,7 @@ and bathed in fear and ferocity.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Elder
 #Concept/Decay

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Benefactor.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Benefactor.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Otherworldly incantations echo across the battlefield,
 And the warrior readies his blade.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

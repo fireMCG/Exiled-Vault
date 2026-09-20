@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Utmost.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Utmost.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 He who stands on the loftiest peak is bound to be seen...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

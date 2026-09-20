@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Destructive Aspiration.webp]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Destructive Aspiration.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 He lusts for a crown and a scepter,
 but he destroys all he touches.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

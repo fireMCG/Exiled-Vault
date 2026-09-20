@@ -1,10 +1,11 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Blue Mushroom.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A curious find...
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE2

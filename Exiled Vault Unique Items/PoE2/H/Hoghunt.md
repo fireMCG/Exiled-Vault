@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Hoghunt.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Hoghunt.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There was a very clear and delicious reason why the Ezomytes chose to stop their flight and settle in Phaaryl.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

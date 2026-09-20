@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Mjölner.webp]]
+![[PoE2 - Legacy of Mjölner.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- One Hand Maces: +200 Intelligence Requirement, +3 to Level of all Lightning Skills
-
-# Bonded Effects
-- One Hand Maces: +1 to Level of all Lightning Skills
+#
+## Flavour Text
+"A lone knight and a Karui warrior travelled together out
+of necessity, battling bandits for weeks. He gifted the
+knight that hammer, which was later runed by smiths."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

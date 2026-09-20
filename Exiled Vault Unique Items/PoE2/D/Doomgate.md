@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Doomgate.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Doomgate.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Welcome to Wraeclast.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

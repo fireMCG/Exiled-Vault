@@ -2,6 +2,6 @@ The day came when the missing part of the great device had finally been formed. 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

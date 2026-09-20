@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/SmokeBomb.webp]]
+
 [[Tasalio Tribe]]
 
+#
 #
 ## Flavour Text
 A clear day dawns only for the lucky.
 
 #
-![[SmokeBomb.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Time/Dawn
 #Concept/Time/Day

@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Reality Fragment.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 You must rise from mere amusement to respected equal.
 
-# Details
+## Details
 Map Fragments
 Portal: Absence of Mercy and Empathy
 Area Level: 85
@@ -14,7 +15,7 @@ Use four of these in a personal Map Device to open Portals to The Absence of Mer
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #Character/Eldritch/Maven
 #PoE1

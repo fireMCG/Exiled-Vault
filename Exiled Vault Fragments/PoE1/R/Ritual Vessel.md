@@ -1,6 +1,6 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Ritual Vessel.webp]]
 
-# Details
+## Details
 Stackable Currency
 Stack Size: 1 / 10
 Stores the monsters slain for the first time from a completed Ritual Altar for future use
@@ -9,6 +9,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

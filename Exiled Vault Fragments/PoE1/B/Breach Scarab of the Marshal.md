@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Breach Scarab of the Marshal.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Engineered and Unwavering Loyalty.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,6 +16,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

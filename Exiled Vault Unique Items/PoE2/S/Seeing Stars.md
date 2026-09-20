@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Seeing Stars.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Seeing Stars.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Within lies a window.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

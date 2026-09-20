@@ -3,6 +3,6 @@ The Rapture Device has absorbed its fill of harvested life from Fury and Desire.
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act4

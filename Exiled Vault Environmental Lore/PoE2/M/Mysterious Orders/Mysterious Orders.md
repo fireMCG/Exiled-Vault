@@ -2,7 +2,7 @@ We have focused our excavations under the Manor, but we would be remiss to ignor
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Ezomyte

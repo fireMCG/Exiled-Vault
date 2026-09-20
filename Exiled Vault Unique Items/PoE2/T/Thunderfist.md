@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Thunderfist.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Thunderfist.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The roar of the heavens
 Strikes more than fear
 Into the hearts of Man
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

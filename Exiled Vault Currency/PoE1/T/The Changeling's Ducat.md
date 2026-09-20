@@ -7,7 +7,7 @@ None returned to shore. Yet the vessel sails on, and its captain is merry.
 
 #
 ---
-# Tags
+## Tags
 #Category/Currency
 #League/CurseOfTheAllflame
 #PoE1

@@ -2,7 +2,7 @@ Outsiders can never understand the Ezomyte struggle. Our folklore goes back to t
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Ezomyte

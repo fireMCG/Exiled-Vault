@@ -1,4 +1,4 @@
-# Ailith on Esh and Tul Defeated
+## Ailith on Esh and Tul Defeated
 Ailith: You have done remarkably well. This may just change the course of history!
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Esh and Tul Defeated/Audio/Ailith - S6 - L1 - A1.ogg]]
 Warrior: Something tells me there is more to be done.
@@ -51,6 +51,6 @@ Ailith: We must return to the Monastery with the flesh of the Depraved Lords. Th
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

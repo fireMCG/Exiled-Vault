@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Rat Cage.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Rat Cage.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The truth lies inside every man, if you dig around.
 Many a confession was found in the bowels of Axiom.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

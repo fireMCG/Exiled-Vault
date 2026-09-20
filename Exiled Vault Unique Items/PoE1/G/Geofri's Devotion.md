@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Geofri's Devotion.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Geofri's Devotion.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Confess your sins to me. My god will not be nearly so forgiving."
 - Archbishop Geofri of Phrecia Cathedral
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

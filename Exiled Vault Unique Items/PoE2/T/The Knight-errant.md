@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Knight-errant.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Knight-errant.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Some search forever for their path.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

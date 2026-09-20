@@ -3,7 +3,7 @@ We swore our oaths to the First Ones, beneath the same stars that lit their hunt
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Ezomyte

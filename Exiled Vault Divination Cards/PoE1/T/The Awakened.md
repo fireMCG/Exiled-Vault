@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Awakened.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Some seek to change the world. Others change the world as a consequence of what they seek.
 
-# Reward
+#
+## Reward
 Jewellery
 Item Level: 86
 Double-Influenced Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Virtue/Ambition
 #Concept/World

@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - More is Never Enough.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Greed is a hunger that only grows as you feed it
 
-# Reward
+#
+## Reward
 4x Scarab
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Sin/Greed
 #PoE1

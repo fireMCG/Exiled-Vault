@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Nocturne.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Nocturne.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Light and shadow chase eternal, but neither knows the other exists...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

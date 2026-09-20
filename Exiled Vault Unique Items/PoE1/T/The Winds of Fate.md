@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Winds of Fate.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Winds of Fate.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Life... Death...
 The whim of the cosmos.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

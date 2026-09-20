@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Blistering Bond.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Blistering Bond.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "The Brotherhood of Silence does not set out to torture our targets.
 Excruciating pain is simply a byproduct of certain... necessary methods."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

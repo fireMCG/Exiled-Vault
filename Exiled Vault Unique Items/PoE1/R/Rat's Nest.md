@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Rat's Nest.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Rat's Nest.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A lad with no fear of the pest
 Let rats fill his helmet in jest
 When they picked his skull clean
@@ -9,6 +10,6 @@ Was naught but a vermin-filled nest!
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

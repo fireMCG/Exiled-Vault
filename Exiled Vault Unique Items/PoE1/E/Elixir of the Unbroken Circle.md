@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Elixir of the Unbroken Circle.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Elixir of the Unbroken Circle.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Nothing endures. All things end.
 Then, they begin again.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

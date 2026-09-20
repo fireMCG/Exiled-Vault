@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Whakatutuki o Matua.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Whakatutuki o Matua.png]]
 
-# Flavour Text
+#
+## Flavour Text
 As you guided me, now I guide others.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

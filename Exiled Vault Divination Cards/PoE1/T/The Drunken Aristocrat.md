@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Drunken Aristocrat.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The finer the brew, the harder it is to remember drinking it.
 
-# Reward
+#
+## Reward
 Divination Distillate
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

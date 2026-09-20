@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Nycta's Lantern.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Nycta's Lantern.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Left in her tomb by the lynch mob, the flame inside still blazed bright after her death, and so did hers.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

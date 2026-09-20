@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - A Sea of Blue.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The harvest ended, the floods began.
 
-# Reward
+#
+## Reward
 13x Orb of Alteration
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

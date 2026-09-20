@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Emperor's Wit.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Emperor's Wit.webp]]
 
-# Flavour Text
-The greatest victories happen
-before the battle has begun.
+#
+## Flavour Text
+Language is a tool that can be used to build walls
+or tear them down.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

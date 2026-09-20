@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Pearls Before Swine.png]]
 
-# Flavour Text
+#
+## Flavour Text
 {The unknowledgable know not
 what treasures lie so closely
 within their feeble reach.}
 
-# Reward
+#
+## Reward
 Progenesis
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard 
 #PoE1

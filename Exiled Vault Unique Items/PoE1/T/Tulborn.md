@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Tulborn.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Tulborn.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We remember the stillness.
 Then the great fall.
 The pain of separation.
@@ -8,6 +9,6 @@ We return once more.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

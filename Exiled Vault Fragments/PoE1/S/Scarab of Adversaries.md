@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Scarab of Adversaries.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 They stand against you with equal enmity.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1
 #Interesting 

@@ -1,4 +1,4 @@
-# Farrow on Maraketh Values
+## Farrow on Maraketh Values
 Farrow: The way the Maraketh have treated the Faridun... is it really any surprise they behave like this?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Maraketh Values/Audio/Farrow - S79 - L1 - A1.ogg]]
 Warrior: The Faridun are not exactly innocent.
@@ -51,7 +51,7 @@ Farrow: True enough. And I can't make sense of either...
 Farrow: But treat people like dogs long enough, they're going to bite back.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Maraketh Values/Audio/Farrow - S79 - L24 - A1.ogg]]
 
-# Farrow on Maraketh Values
+## Farrow on Maraketh Values
 Farrow: The way the Maraketh have treated the Faridun... is it really any surprise they behave like this?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Maraketh Values/Audio/Farrow - S80 - L1 - A1.ogg]]
 Warrior: The Faridun are not exactly innocent.
@@ -104,7 +104,7 @@ Farrow: True enough. And I can't make sense of either...
 Farrow: But treat people like dogs long enough, they're going to bite back.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Maraketh Values/Audio/Farrow - S80 - L24 - A1.ogg]]
 
-# Farrow on Maraketh Values
+## Farrow on Maraketh Values
 Farrow: The way the Maraketh have treated the Faridun... is it really any surprise they behave like this?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Maraketh Values/Audio/Farrow - S81 - L1 - A1.ogg]]
 Warrior: The Faridun are not exactly innocent.
@@ -157,7 +157,7 @@ Farrow: True enough. And I can't make sense of either...
 Farrow: But treat people like dogs long enough, they're going to bite back.
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Maraketh Values/Audio/Farrow - S81 - L24 - A1.ogg]]
 
-# Farrow on Maraketh Values
+## Farrow on Maraketh Values
 Farrow: The way the Maraketh have treated the Faridun... is it really any surprise they behave like this?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Maraketh Values/Audio/Farrow - S82 - L1 - A1.ogg]]
 Warrior: The Faridun are not exactly innocent.
@@ -212,6 +212,6 @@ Farrow: But treat people like dogs long enough, they're going to bite back.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

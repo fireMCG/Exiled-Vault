@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Aesthete.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Some see our mortal flesh as a limitation. I see it as an opportunity for vast, miraculous improvements."
 - Shavronne of Umbra
 
-# Reward
+#
+## Reward
 Shavronne Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/Shavronne
 #Concept/Body/Flesh

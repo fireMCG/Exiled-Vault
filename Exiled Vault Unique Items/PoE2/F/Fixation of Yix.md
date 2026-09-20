@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Fixation of Yix.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Fixation of Yix.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 He knew not why he was changing, only that he wanted to hold his family close...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

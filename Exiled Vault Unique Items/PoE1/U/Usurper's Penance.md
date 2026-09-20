@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Usurper's Penance.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Usurper's Penance.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Bloodlust Begets Suffering
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

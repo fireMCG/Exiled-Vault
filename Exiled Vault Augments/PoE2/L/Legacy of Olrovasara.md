@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Olrovasara.webp]]
+![[PoE2 - Legacy of Olrovasara.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- One Hand Maces: On Hitting an enemy, gains maximum added Lightning damage equal to / the enemy's Power for 20 seconds, up to a total of 120
-
-# Bonded Effects
-- One Hand Maces: 15% increased Attack Speed
+#
+## Flavour Text
+The Knights of the Sun were founded out of a
+love for that bygone mythical age of heroes.
+Not what men are, but what they should be.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

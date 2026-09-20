@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Taste of Hate.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Taste of Hate.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A sip will freeze your lips,
 A swig will chill your heart,
 A glass will still your soul.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

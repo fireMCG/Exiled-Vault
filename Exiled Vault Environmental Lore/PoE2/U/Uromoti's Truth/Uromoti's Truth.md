@@ -3,7 +3,7 @@ My devotion. My lifetime of service. Has it really come to this? We cut our way 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/VaalEmpire

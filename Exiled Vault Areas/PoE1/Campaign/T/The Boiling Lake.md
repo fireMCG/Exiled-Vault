@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 These corrosive waters devour both flesh and bone.
 
-# Connected Areas
+## Connected Areas
 - The Foothills
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

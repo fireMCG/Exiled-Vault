@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Cheater.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Sometimes the best way to achieve greatness is to use a shortcut.
 
-# Reward
+#
+## Reward
 Disabled
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Awakening
 #Concept/Trickery

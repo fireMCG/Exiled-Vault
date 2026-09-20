@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Cauteriser.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Cauteriser.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A burned branch leaks sap no more.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

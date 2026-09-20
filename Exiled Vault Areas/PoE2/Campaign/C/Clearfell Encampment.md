@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 Walls of wood strain against the tide as Death knocks thrice.
 
-# Connected Areas
+## Connected Areas
 - The Riverbank
 - Clearfell
 - Vastiri Outskirts
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

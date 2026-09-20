@@ -1,8 +1,11 @@
-# Flavour Text
+![[Exiled Vault Quest Items/_Images/PoE2 - Shattered Triskelion.png]]
+
+#
+## Flavour Text
 Shattered pieces of glory long lost.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE2

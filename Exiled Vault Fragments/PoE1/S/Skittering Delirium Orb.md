@@ -1,6 +1,6 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Skittering Delirium Orb.webp]]
 
-# Details
+## Details
 Stackable Currency
 Stack Size: 1 / 10
 Modifies a Map item adding layers of Delirium with the Scarabs reward type
@@ -9,6 +9,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

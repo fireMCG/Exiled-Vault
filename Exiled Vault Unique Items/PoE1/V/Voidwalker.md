@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Voidwalker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Voidwalker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Step into the void
 and experience true freedom.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

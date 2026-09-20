@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Abyss Scarab of Multitudes.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The Well hungers ceaselessly, even as it overflows.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #Concept/Nature/Earth
 #League/Abyss

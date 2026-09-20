@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Corpsewade.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Corpsewade.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Natural decay can be twisted to dark ends.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Bated Breath.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Bated Breath.png]]
 
-# Flavour Text
+#
+## Flavour Text
 At knifepoint, a moment's hesitation means death.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

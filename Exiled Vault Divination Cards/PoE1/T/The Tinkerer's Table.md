@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Tinkerer's Table.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Trying to bring your vision to life is enough to drive you mad.
 
-# Reward
+#
+## Reward
 5x Fossil
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

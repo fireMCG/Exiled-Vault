@@ -1,17 +1,12 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Legionstride.webp]]
+![[PoE2 - Legacy of Legionstride.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Boots: +10% to Block chance
-
-# Bonded Effects
-- Boots: 10% reduced Damage taken from Projectile Hits
+#
+## Flavour Text
+The offensive at the Red Vale began with lockstep
+maneuvers the rebels had practiced in secret.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

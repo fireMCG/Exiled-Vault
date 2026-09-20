@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Dying Breath.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Dying Breath.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The whispers of the dead
 Carry wisdom for the living,
 If you are willing to give your life
@@ -8,6 +9,6 @@ To listen.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,16 +1,18 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Astral Protection.png]]
 
-# Flavour Text
+#
+## Flavour Text
 For a time, we had something stronger than eldritch evil.
 We had each other.
 
-# Reward
+#
+## Reward
 Shield
 Shaper Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

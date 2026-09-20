@@ -1,16 +1,19 @@
-# Flavour Text
-One falls, but another rises to lead.
-# Prophecy
-You will defeat The Cleansing Light while holding Matua Tupuna.
-# Reward
-Upgrades [[Matua Tupuna]] to [[Whakatutuki o Matua]] upon completion. 
-
-#
 ![[Prophecy_inventory_icon.png]]
 
 #
+## Flavour Text
+One falls, but another rises to lead.
+
+## Prophecy
+You will defeat The Cleansing Light while holding Matua Tupuna.
+
+## Reward
+Upgrades [[Matua Tupuna]] to [[Whakatutuki o Matua]] upon completion. 
+
+#
+#
 ---
-# Tags
+## Tags
 #Category/Prophecy
 #Concept/Light 
 #League/Prophecy

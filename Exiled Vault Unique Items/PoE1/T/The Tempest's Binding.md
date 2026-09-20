@@ -1,7 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Tempest's Binding.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Tempest's Binding.png]]
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

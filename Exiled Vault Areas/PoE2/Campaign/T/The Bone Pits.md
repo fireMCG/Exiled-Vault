@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Dark energies lurk among ancient bones.
 
-# Connected Areas
+## Connected Areas
 - Mastodon Badlands
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2
 #Interesting 

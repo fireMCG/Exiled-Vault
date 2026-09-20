@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Voideye.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Voideye.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The darker the eye, the more diligent the watched.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,15 +1,17 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Call to Arms.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Follow me, and I will show you strength!
 
-# Effects
+#
+## Effects
 Your Warcries do not grant Buffs or Charges to You
 100% more Warcry Duration
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE1

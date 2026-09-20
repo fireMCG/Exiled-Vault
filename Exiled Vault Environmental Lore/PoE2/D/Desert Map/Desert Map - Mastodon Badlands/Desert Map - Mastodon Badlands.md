@@ -4,6 +4,6 @@ That valley of the Badlands, where Mastodon bones rot under the sun for all time
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

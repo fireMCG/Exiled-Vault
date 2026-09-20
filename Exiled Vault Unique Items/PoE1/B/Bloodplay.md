@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Bloodplay.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Bloodplay.png]]
 
-# Flavour Text
+#
+## Flavour Text
 I'm a painter, and crimson is my chosen hue.
 - Coralito, Brotherhood of Silence
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

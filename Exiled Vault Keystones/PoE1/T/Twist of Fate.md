@@ -1,9 +1,11 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Twist of Fate.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The landscape twists before your eyes, morphing into realms of unspeakable horror.
 
-# Effects
+#
+## Effects
 2% increased Maps found in your Maps
 Your Corrupted Rare Maps are modified unpredictably when opened
 Maps modified in this way have 1-3 additional random Map Modifiers
@@ -12,7 +14,7 @@ Unmodifiable
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #PoE1
 #Interesting 

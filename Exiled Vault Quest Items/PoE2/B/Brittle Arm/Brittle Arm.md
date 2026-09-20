@@ -1,8 +1,11 @@
-# Flavour Text
+![[Exiled Vault Quest Items/_Images/PoE2 - Brittle Arm.png]]
+
+#
+## Flavour Text
 Accept the now.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE2

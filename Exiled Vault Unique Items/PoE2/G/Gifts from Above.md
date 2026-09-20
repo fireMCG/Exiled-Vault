@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Gifts from Above.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Gifts from Above.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 God blesses those who bless themselves.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 Shafts of light raise life where they fall.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2

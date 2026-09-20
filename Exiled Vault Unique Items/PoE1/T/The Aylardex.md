@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Aylardex.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Aylardex.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Shackled fires dance about;
 Might within from force without.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

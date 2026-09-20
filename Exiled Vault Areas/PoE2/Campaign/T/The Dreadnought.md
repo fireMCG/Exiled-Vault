@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 War comes to Maraketh sands.
 
-# Connected Areas
+## Connected Areas
 - The Ardura Caravan
 - Dreadnought Vanguard
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

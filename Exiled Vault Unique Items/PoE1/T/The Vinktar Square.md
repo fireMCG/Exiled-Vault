@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Vinktar Square.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Vinktar Square.png]]
 
-# Flavour Text
+#
+## Flavour Text
 To the east,
 it cannot be seen.
 To the west,
@@ -12,6 +13,6 @@ it cannot be contained.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Goldrim.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Goldrim.png]]
 
-# Flavour Text
+#
+## Flavour Text
 No metal slips as easily through the fingers as gold.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

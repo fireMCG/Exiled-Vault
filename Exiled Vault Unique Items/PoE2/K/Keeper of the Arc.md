@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Keeper of the Arc.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Keeper of the Arc.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The priests of the Kalguur keep faith through numbers and calculation, not unprovable promises.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Infernoclasp.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Infernoclasp.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Tempered by the forbidden flame.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

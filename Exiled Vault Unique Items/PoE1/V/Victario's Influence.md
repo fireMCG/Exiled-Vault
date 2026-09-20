@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Victario's Influence.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Victario's Influence.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Every life is a story.
 If you're not writing your own,
 you'd better know who's writing it for you!"
@@ -8,6 +9,6 @@ you'd better know who's writing it for you!"
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

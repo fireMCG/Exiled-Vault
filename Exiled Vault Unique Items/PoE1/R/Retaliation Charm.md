@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Retaliation Charm.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Retaliation Charm.png]]
 
-# Flavour Text
+#
+## Flavour Text
 An eye for an eye.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Hateforge.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Hateforge.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The first Karui born on the fringes of the Vaal empire developed a blood fever born of corruption.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

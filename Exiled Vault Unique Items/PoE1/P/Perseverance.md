@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Perseverance.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Perseverance.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Some blows must be evaded. Some blows must be endured.
 The trick is to tell them apart."
 - Daresso, the Sword King
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

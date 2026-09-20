@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Esh's Mirror.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Esh's Mirror.png]]
 
-# Flavour Text
+#
+## Flavour Text
 She looked upon her reflection
 and trembled, and shook,
 until she was not what she saw.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

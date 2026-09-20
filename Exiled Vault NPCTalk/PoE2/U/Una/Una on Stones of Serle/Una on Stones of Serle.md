@@ -46,7 +46,7 @@
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/NPCTalk
 #PoE2

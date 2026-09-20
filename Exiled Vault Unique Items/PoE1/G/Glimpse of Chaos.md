@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Glimpse of Chaos.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Glimpse of Chaos.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Man retains sanity and strives toward civilisation
 only under the blessed veil of ignorance.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1

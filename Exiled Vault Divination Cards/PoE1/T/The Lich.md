@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Lich.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When the dead raise and master their own, the land is truly lost.
 
-# Reward
+#
+## Reward
 Midnight Bargain
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

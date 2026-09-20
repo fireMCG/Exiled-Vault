@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Escalation.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Escalation.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A life without risk is no life at all.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

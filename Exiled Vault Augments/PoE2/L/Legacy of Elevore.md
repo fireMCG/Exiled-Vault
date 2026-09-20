@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Elevore.webp]]
+![[PoE2 - Legacy of Elevore.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Helmets: Charms gain 1 charge per Second, +1 Charm Slots
-
-# Bonded Effects
-- Helmets: Charms gain 0.5 charges per Second
+#
+## Flavour Text
+"Devotion to the Greatwolf came with...
+certain side effects. A few generations on,
+you'd find some baring teeth, and howling..."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

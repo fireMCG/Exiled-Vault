@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Wine of the Prophet.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Wine of the Prophet.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "To proclaim a vision of the future is to make it so,
 for those that have the will, and the way!"
 - High Templar Andronicus
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

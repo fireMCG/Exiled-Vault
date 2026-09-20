@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Ignagduk's Ghastly Spear.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The skulls of stolen children adorn carved wood.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Character/Ignagduk
 #PoE2

@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 The ground aches with desecration. The rain tastes of blight.
 
-# Connected Areas
+## Connected Areas
 - The Crossroads
 - The Crypt Level 1
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1
 #Interesting

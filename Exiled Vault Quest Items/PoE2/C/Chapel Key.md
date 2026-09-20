@@ -1,12 +1,13 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Chapel Key.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Blind to pleas. Deaf to lies.
 Her scales weigh only truth.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Character/God/GoddessOfJustice
 #PoE2

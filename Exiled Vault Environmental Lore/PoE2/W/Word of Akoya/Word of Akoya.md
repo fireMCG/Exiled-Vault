@@ -3,7 +3,7 @@ The {Ngakuramakoi} are those who truly embody our culture. If you wish to become
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Karui

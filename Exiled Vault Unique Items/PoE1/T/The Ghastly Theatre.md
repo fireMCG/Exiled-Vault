@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Ghastly Theatre.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Ghastly Theatre.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Never let the audience know your true form.
 Misdirect them, beguile them.
 Strike when they least expect it.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ceinture of Benevolence.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ceinture of Benevolence.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Put your faith in me.
 Our god demands it.
 - High Templar Maxarius.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

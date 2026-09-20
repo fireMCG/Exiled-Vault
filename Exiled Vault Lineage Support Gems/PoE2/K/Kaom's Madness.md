@@ -1,13 +1,14 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Kaom's Madness.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 As King Kaom delved further into Wraeclast, so, too, did he
 draw closer to the Beast. One night, in a nightmarish fit, he
 swung his axe at his own men, slaughtering hundreds.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/SupportGem/Lineage 
 #Character/Kaom

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Sanguis Heroum.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Sanguis Heroum.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Wraeclast has known too few true heroes.
 It remembers those that stood in defiance.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

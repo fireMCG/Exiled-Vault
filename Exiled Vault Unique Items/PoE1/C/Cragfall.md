@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Cragfall.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Cragfall.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The largest rock leaves the deepest mark.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

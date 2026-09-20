@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Fury Valve.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Fury Valve.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A single act of anger travels countless paths of destruction.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

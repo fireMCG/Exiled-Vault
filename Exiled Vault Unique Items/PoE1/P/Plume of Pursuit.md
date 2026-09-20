@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Plume of Pursuit.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Plume of Pursuit.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A dance as old as time.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

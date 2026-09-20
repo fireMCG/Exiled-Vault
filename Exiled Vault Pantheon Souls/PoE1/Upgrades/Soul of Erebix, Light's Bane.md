@@ -1,4 +1,6 @@
-# Soul of Erebix, Light's Bane
+![[SinFlaskFull.webp]]
+
+## Soul of Erebix, Light's Bane
 The earth shakes, moon eclipses black.
 Graveyards quake, crops turn to ash,
 as the grieving mother weeps.
@@ -7,8 +9,6 @@ We feel famine inside our bones,
 as the grieving mother, Gruthkul weeps.
 
 #
-![[SinFlaskFull.webp]]
-
 ---
 ## Tags
 #Concept/Soul 

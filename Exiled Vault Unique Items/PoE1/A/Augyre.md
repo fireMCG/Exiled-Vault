@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Augyre.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Augyre.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When the world spins out of control, the safest place to be is in the centre.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Underground
 #Concept/World

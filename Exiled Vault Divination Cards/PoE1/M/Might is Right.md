@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Might is Right.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The mind had much to endure before the advent of thaumaturgy.
 
-# Reward
+#
+## Reward
 Trypanon
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Mind
 #PoE1

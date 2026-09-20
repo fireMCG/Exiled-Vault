@@ -1,4 +1,4 @@
-# Farrow on Tree of Souls
+## Farrow on Tree of Souls
 Farrow: Who'd have thought this tree would have such hidden secrets?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Tree of Souls/Audio/Farrow - S94 - L1 - A1.ogg]]
 Warrior: Even those of us in Ogham didn't know the tree's true nature. I suppose this was the source of its power all along.
@@ -35,6 +35,6 @@ Farrow: Most likely. Though I'm still not entirely sure what {that} is.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

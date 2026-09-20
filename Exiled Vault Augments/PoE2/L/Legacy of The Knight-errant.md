@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of The Knight-errant.webp]]
+![[PoE2 - Legacy of The Knight-errant.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Boots: Iron Reflexes
-
-# Bonded Effects
-- Boots: 25% increased Elemental Ailment Threshold
+#
+## Flavour Text
+"Ah, early Ezomyr. It was a time of  myth
+and legend. Wandering knights, and
+would-be kings. I long for those days."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

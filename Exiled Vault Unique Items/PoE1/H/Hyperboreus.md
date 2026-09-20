@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hyperboreus.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hyperboreus.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Cold winds whirl at the crown of the world.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

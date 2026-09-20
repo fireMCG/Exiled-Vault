@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Manastorm.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Manastorm.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fear not the fury of the storm.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

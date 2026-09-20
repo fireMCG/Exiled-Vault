@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mark of the Doubting Knight.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mark of the Doubting Knight.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Nothing is pure.
 Slice open the Innocent
 And spill a thousand Sins.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

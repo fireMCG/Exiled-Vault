@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Legacy of Fury.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Legacy of Fury.png]]
 
-# Flavour Text
+#
+## Flavour Text
 All that was loved, all that was hated -
 naught remains but ash.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Maven
 #Concept/Ash

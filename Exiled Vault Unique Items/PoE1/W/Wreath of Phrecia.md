@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Wreath of Phrecia.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Wreath of Phrecia.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Light drove the darkness from our lands and from our hearts.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

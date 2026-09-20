@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/SnakeToothSyringe.webp]]
+
 [[Tukohama Tribe]]
 
+#
 #
 ## Flavour Text
 The fire in the blood is like no other thrill.
 
 #
-![[SnakeToothSyringe.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Blood 
 #League/Ancestor

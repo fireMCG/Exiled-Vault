@@ -1,9 +1,11 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Second Sight.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Speak not, but listen, for danger reveals itself on the wind.
 
-# Effects
+#
+## Effects
 You are Blind
 Blind does not affect your Light Radius
 25% more Melee Critical Strike Chance while Blinded
@@ -11,7 +13,7 @@ Blind does not affect your Light Radius
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #PoE1
 #Interesting 

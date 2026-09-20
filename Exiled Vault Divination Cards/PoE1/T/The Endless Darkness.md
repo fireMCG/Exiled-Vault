@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Endless Darkness.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Gaze towards the stars, but beware what gazes back.
 
-# Reward
+#
+## Reward
 Voidforge
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Body/Eye
 #Concept/Border

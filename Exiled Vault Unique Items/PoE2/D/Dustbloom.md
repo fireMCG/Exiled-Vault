@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Dustbloom.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Dustbloom.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Wraeclast has suffered many great disasters,
 but life always springs back anew.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

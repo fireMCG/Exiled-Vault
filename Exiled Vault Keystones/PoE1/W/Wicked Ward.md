@@ -1,11 +1,12 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Wicked Ward.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Embrace the forbidden. Let dark energies envelop you.
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE1

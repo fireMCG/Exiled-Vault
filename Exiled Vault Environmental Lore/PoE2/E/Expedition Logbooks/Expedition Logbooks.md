@@ -3,7 +3,7 @@
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #League/Expedition
 #PoE2

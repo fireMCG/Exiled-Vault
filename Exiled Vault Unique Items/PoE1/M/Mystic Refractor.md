@@ -1,12 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mystic Refractor.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mystic Refractor.png]]
 
-# Flavour Text
-Motion, purpose... craft. The fruits of my mind laboured
-to build my wildest imaginings, never tiring, never faltering.
-Life... or something like it, engineered in its image.
+#
+## Flavour Text
+"Waging war is a simple matter of geometry and death."
+- Trinian, Intellectus Prime
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

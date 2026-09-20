@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Curio of Absorption.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Curio of Absorption.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Perfect knowledge is only possible in an empty universe.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/SearingExarch
 #Concept/Virtue/Knowledge

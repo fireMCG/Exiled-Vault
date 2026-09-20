@@ -1,9 +1,9 @@
+![[RalakeshIcon.webp]]
+
 
 ![[Soul of Leif, the Swift-Handed#Soul of Leif, the Swift-Handed]]
 
 #
-![[RalakeshIcon.webp]]
-
 ---
 ## Tags
 #Character/God/Ralakesh

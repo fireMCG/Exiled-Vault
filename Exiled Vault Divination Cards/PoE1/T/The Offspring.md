@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Offspring.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The swarm began with just a couple of children. Now, it is her entire existence.
 
-# Reward
+#
+## Reward
 Ryslatha's Coil
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

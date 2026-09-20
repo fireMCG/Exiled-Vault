@@ -1,4 +1,4 @@
-# Ailith on Vruun
+## Ailith on Vruun
 Ailith: Vruun... the Dread Marshal of the Depraved Lords. The Dreamer showed us that he was vital in the enemy's path to unending rage. He led countless invasions. Tirelessly rampaging across worlds unknown. His mindless lust beset upon them, leaving behind a trail... A trail that would become his brood, supplanting entire populations.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Vruun/Audio/Ailith - S27 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on Vruun/Audio/Ailith - S27 - L1 - A2.ogg]]
@@ -49,6 +49,6 @@ Ailith: His death is yet another blow to the enemy. You've done very well.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - The Essence of Water.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The last few drops from veins dry as sand.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Concept/Essence
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Slitherpinch.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Slitherpinch.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A soft caress in dead of night,
 that slips about the neck, so tight.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

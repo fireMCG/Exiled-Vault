@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 A simple ditch becomes a labyrinth when the mind twists upon itself.
 
-# Connected Areas
+## Connected Areas
 - The Grelwood
 - Cemetery of the Eternals
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2
 #Interesting 

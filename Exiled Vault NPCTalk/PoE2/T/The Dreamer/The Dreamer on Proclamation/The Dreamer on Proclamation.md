@@ -1,4 +1,4 @@
-# The Dreamer on Proclamation
+## The Dreamer on Proclamation
 The Dreamer: The enemy falters. Directionless. Mindless. For now, you have saved this world.
 ![[Exiled Vault NPCTalk/PoE2/T/The Dreamer/The Dreamer on Proclamation/Audio/The Dreamer - S15 - L1 - A1.ogg]]
 Warrior: I couldn't have done so without Ailith.
@@ -56,6 +56,6 @@ The Dreamer: [DNT]
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

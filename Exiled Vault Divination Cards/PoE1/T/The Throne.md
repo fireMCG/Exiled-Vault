@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Throne.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A king's movement is unwavering.
 
-# Reward
+#
+## Reward
 Kaom's Roots
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

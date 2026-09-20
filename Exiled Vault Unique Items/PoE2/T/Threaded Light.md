@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Threaded Light.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Threaded Light.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A gift, a braid, of golden hair.
 The war, forgotten.
 The reason, remembered.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

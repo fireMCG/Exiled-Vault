@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### ArbiterOfDivinity_Emerge_DecimateLich_Random
 Your kind shall never ordain the First Edict!
 ![[Exiled Vault Dialogue/PoE2/T/The Arbiter of Divinity/_Audio/The Arbiter of Divinity - ArbiterOfDivinity_Emerge_DecimateLich_Random.ogg]]
@@ -172,6 +173,6 @@ You... fool. If they obtain the Mother Soul... our civilization died... for noth
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

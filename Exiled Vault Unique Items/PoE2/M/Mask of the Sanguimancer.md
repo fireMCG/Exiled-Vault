@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Mask of the Sanguimancer.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Mask of the Sanguimancer.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A terror of ancient times, his identity
 remains lost... but his power does not.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Ashrend.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Ashrend.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The blasted oak stands forever.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

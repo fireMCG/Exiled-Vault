@@ -8,6 +8,7 @@ known, and he never removed his helmet.
 Glimpses were caught of piercing blue eyes."
 
 #
+---
 ## Tags
 #Category/Talisman
 #League/Talisman

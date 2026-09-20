@@ -1,16 +1,19 @@
-# Flavour Text
+![[Prophecy_inventory_icon.png]]
+
+#
+## Flavour Text
 Pursuing a world of perfect balance, a veiled master seeks aid.
+
 ## Prophecy
 You will find Jun and complete her mission.
+
 ## Reward
 \- None -
 
 #
-![[Prophecy_inventory_icon.png]]
-
 #
 ---
-# Tags
+## Tags
 #Category/Prophecy
 #Concept/Balance
 #League/Prophecy

@@ -8,6 +8,7 @@ Lysanda led the ongoing campaign to
 slaughter every last creature of darkness."
 
 #
+---
 ## Tags
 #Category/Talisman 
 #Concept/Blood 

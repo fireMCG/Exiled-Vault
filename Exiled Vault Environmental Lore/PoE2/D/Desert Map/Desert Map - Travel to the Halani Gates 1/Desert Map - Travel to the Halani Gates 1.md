@@ -3,6 +3,6 @@ One of the trails of Corruption leads towards the Halani Gates. Anyone who would
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2

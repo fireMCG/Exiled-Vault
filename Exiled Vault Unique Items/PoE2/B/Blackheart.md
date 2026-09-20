@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Blackheart.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Blackheart.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Fear is highly infectious.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,17 +1,11 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Hrimnor's Hymn.webp]]
+![[PoE2 - Legacy of Hrimnor's Hymn.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Two Hand Maces: 25% chance for Slam Skills you use yourself to cause an additional Aftershock
-
-# Bonded Effects
-- Two Hand Maces: 15% chance for Slam Skills you use yourself to cause an additional Aftershock
+#
+## Flavour Text
+"Hrimnor lies in the Red Vale, for all time."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

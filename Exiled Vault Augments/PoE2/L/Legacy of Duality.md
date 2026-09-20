@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Duality.webp]]
+![[PoE2 - Legacy of Duality.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Quarterstaves: Gain 250 Guard for 0.5 seconds per Combo expended when using Skills
-
-# Bonded Effects
-- Quarterstaves: Gain Finality for 0.2 seconds per Combo expended when using Skills
+#
+## Flavour Text
+The people loved Seren. She was the darling
+of Middengard. There are those who still
+search for her... or her grave, if one exists.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

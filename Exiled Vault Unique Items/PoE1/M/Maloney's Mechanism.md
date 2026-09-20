@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Maloney's Mechanism.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Maloney's Mechanism.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Midnight tinkering begets midday murdering;
 a sinister shaft surreptitiously shot slays a scoundrel.
 I will see them again, but not until my work is done.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/RikerMaloney
 #PoE1

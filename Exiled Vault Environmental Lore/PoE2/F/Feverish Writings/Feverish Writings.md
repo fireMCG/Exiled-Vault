@@ -3,7 +3,7 @@ My Voltaxic Canaries! How is it that you're runnin' scared of this blind beasty?
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Unknown

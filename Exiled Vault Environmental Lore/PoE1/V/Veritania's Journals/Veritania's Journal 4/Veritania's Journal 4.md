@@ -3,6 +3,6 @@ Loathsome, foul creatures! This 'Atlas' is infested with vice. In every directio
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

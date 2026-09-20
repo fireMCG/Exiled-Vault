@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ixchel's Temptation.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ixchel's Temptation.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Chaos offers possibility, not outcome.
 Our own imaginations ensnare us.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1

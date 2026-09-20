@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Matua Tupuna.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Matua Tupuna.png]]
 
-# Flavour Text
+#
+## Flavour Text
 You carried me through life,
 The least I can do is carry you through death.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

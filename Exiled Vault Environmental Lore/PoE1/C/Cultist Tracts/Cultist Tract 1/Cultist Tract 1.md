@@ -2,6 +2,6 @@ Relish hunger, dear faithful. For hunger is the one true state of spiritual abun
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act10

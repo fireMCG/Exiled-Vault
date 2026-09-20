@@ -1,11 +1,11 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Messenger.png]]
 
-# Reward
+## Reward
 Harbinger Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #League/Harbinger
 #PoE1

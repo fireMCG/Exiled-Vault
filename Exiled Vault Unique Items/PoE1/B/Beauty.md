@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Beauty.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Beauty.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 You walk away bloodied and exhausted, but victorious. You have overcome.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Society/VaalEmpire

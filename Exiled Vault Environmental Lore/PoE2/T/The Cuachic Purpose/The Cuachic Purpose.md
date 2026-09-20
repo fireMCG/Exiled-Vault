@@ -3,7 +3,7 @@ We have one task, and one task alone: to survive with our dignity in-tact. It is
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/VaalEmpire

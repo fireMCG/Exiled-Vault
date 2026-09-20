@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Talisman of the Victor.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Talisman of the Victor.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A glimpse of victory
 is all you need to win.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

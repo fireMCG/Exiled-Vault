@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Torment Scarab of Peculiarity.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Now there's a blood-curdling wail I haven't heard before!
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Torment
 #PoE1

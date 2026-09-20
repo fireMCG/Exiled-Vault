@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Kingsguard.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Kingsguard.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The toughest armour is the trust of your people.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

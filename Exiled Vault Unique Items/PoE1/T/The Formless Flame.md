@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Formless Flame.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Formless Flame.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Our skin turns to ash
 and we are swallowed by his brilliant red light.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

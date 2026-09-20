@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/TuskBrooch.webp]]
+
 [[Ramako Tribe]]
 
+#
 #
 ## Flavour Text
 Her courage was contagious.
 
 #
-![[TuskBrooch.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Concept/Virtue/Courage
 #Concept/Queen

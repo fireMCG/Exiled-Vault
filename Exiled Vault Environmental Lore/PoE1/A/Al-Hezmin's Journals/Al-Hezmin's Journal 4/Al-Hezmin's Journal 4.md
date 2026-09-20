@@ -3,6 +3,6 @@ New Person: I don't recognise this one. Doesn't move like the other ones. More s
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

@@ -8,6 +8,7 @@ Ezomyr... but there was one beast against
 which even they could not stand."
 
 #
+---
 ## Tags
 #Category/Talisman
 #League/Talisman

@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### EshTul_Esh_Emerge_Two
 The flesh is weak... I need time...
 ![[Exiled Vault Dialogue/PoE2/I/It That Was Esh/_Audio/It That Was Esh - EshTul_Esh_Emerge_Two.ogg]]
@@ -249,6 +250,6 @@ Xesht nears!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

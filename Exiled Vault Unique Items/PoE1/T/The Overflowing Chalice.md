@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Overflowing Chalice.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Overflowing Chalice.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Empty cup, full of promise.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

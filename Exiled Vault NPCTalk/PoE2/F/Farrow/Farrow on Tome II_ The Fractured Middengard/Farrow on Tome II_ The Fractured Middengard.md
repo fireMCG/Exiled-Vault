@@ -1,4 +1,4 @@
-# Farrow on Tome II: The Fractured Middengard
+## Farrow on Tome II: The Fractured Middengard
 Farrow: Ah! Another tome! Now let's see here... 'Volume Two: The Fractured Middengard.' 'After a prosperous reign, Aldur, the first King of Kalguur, joined the eternal hearth.' 'Middengard quickly fractured, and her people fell into unruly despair and violence.' 'To unite them anew, Aldur's Runefathers banded together to smith their greatest and most ambitious design.'
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Tome II_ The Fractured Middengard/Audio/Farrow - S115 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Tome II_ The Fractured Middengard/Audio/Farrow - S115 - L1 - A2.ogg]]
@@ -37,6 +37,6 @@ Farrow: We need to finish the tale. I must know more about these... Runefathers.
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

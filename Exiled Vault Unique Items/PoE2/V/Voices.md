@@ -1,10 +1,12 @@
-![[PoE2 - Voices.png]]
-# Flavour Text
+![[Exiled Vault Unique Items/_Images/PoE2 - Voices.png]]
+
+#
+## Flavour Text
 Only a madman would ignore a god's instructions.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

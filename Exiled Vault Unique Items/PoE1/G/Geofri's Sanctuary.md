@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Geofri's Sanctuary.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Geofri's Sanctuary.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Faith does not make us invulnerable.
 It makes us immortal.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

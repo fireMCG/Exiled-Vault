@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Eternal Spark.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Eternal Spark.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A flash of blue, a stormcloud's kiss,
 her motionless dance the pulse of bliss
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Stampede.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Stampede.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Relentlessness. Nothing more, nothing less.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

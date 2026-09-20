@@ -4,7 +4,7 @@
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #Character/God/Lunaris
 #Character/God/Solaris

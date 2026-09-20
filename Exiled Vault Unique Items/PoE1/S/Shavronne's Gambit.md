@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Shavronne's Gambit.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Shavronne's Gambit.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Karui boats were closing the gap, but Shavronne had laid for them one final trap.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

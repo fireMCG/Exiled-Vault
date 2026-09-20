@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Daresso's Salute.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Daresso's Salute.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "A bit short in the arm, are you?
 Then you'll be short of a head soon enough."
 - Daresso the Daring
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

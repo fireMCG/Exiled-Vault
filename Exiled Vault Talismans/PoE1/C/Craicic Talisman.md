@@ -8,6 +8,7 @@ It was said that Craiceann had
 given a blessing to the people."
 
 #
+---
 ## Tags
 #Category/Talisman
 #League/Talisman

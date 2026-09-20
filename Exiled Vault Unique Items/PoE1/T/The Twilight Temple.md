@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Twilight Temple.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Twilight Temple.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In the shadow of war,
 all are eclipsed.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

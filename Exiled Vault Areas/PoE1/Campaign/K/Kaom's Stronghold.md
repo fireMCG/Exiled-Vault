@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 A holdfast built of hubris.
 
-# Connected Areas
+## Connected Areas
 - Kaom's Dream
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

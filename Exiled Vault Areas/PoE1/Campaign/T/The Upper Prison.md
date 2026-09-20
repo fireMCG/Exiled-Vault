@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 The air is rich with despair and apparition.
 
-# Connected Areas
+## Connected Areas
 - The Lower Prison
 - Prisoner's Gate
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

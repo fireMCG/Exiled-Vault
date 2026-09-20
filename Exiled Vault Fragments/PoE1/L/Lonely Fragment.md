@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Lonely Fragment.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Grief cannot be defeated alone.
 
-# Details
+## Details
 Map Fragments
 Portal: Moment of Loneliness
 Area Level: 85
@@ -14,7 +15,7 @@ Use four of these in a personal Map Device to open Portals to The Moment of Lone
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1
 #Interesting 

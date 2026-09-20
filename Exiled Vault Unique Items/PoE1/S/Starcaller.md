@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Starcaller.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Starcaller.png]]
 
-# Flavour Text
+#
+## Flavour Text
 What began in the stars was settled in blood, beneath an uncaring sky.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

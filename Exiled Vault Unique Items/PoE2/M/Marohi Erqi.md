@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Marohi Erqi.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Marohi Erqi.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Drunken Erqi boasted to Tukohama; the God of War challenged him to a clash of strength. Woe to the Divine - he should have made it a test of skill!"
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

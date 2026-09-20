@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Triad Grip.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Triad Grip.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The secret of the elements lies within a square triangle.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

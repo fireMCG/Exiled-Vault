@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Bitterdream.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Bitterdream.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Fight not the cold
 Forsake hope
 Be still.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

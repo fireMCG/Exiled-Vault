@@ -3,7 +3,7 @@ Few can claim to have as much blood on their hands as the Templars. In their thi
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/Lore/Environmental
 #PoE1

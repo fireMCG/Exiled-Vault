@@ -1,17 +1,14 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Brynhand's Mark.webp]]
+![[PoE2 - Legacy of Brynhand's Mark.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- One Hand Maces: Causes Double Stun Buildup
-
-# Bonded Effects
-- One Hand Maces: Adds 14 to 20 Physical Damage
+#
+## Flavour Text
+The art of runesmithing died out among the Ezomytes,
+lost to the passage of time. The practice reawakened when
+smiths started to notice the difference Brynhand's personal
+mark made for a hammer's durability and precision.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

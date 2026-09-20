@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 The hunt never ends... but it does pause for rests.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2

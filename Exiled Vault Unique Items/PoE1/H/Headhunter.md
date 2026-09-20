@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Headhunter.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Headhunter.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "A man's soul rules from a cavern of bone, learns and
 judges through flesh-born windows. The heart is meat.
 The head is where the Man is."
@@ -8,6 +9,6 @@ The head is where the Man is."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

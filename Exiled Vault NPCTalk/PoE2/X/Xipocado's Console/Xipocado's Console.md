@@ -1,19 +1,19 @@
-# Table of Content
+## Table of Content
 [[#Xipocado's Console on Doryani's Instructions]]
 [[#Xipocado's Console on No Path]]
 [[#Xipocado's Console on Open the Console]]
 
-# Xipocado's Console on Doryani's Instructions
+## Xipocado's Console on Doryani's Instructions
 ![[Xipocado's Console on Doryani's Instructions]]
 
-# Xipocado's Console on No Path
+## Xipocado's Console on No Path
 ![[Xipocado's Console on No Path]]
 
-# Xipocado's Console on Open the Console
+## Xipocado's Console on Open the Console
 ![[Xipocado's Console on Open the Console]]
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

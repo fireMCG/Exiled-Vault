@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 Spores dance through the air in search of new hosts.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2

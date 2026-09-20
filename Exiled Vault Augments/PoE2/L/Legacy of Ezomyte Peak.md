@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Ezomyte Peak.webp]]
+![[PoE2 - Legacy of Ezomyte Peak.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Helmets: 15% increased Area of Effect, Unwavering Stance
-
-# Bonded Effects
-- Helmets: 50% reduced Slowing Potency of Debuffs on You
+#
+## Flavour Text
+"It was a simple helm. Found in the Red
+Vale. Didn't belong to no one famous or
+the like. Could have been any of us..."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

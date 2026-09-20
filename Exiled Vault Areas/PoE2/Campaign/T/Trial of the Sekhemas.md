@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 Those who would be Sekhema had to prove themselves exceptional.
 
-# Connected Areas
+## Connected Areas
 - The Ardura Caravan
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

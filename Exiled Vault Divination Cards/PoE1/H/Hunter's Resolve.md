@@ -1,17 +1,19 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Hunter's Resolve.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Primed, curved and sleek.
 Decisive and final.
 For malice and righteousness.
 There's but one solution.
 
-# Reward
+#
+## Reward
 Bow
 
 #
 ---
-# Tags
+## Tags
 #Concept/Hunt
 #Category/DivinationCard
 #PoE1

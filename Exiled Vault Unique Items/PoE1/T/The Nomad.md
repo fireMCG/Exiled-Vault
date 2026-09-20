@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Nomad.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Nomad.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Few men can guide their people like the Great Meginord of the North
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

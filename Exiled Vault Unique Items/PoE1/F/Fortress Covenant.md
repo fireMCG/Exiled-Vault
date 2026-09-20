@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Fortress Covenant.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Fortress Covenant.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Forsake what you might have had.
 Command power beyond your potential.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

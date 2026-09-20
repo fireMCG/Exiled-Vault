@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Unblinking Eye.webp]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Unblinking Eye.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The High Templar sought sight beyond the mortal plane.
 He feared no pain but that of touching greatness,
 only to let it slip through his grasp.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

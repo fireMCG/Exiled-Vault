@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Rime Gaze.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Rime Gaze.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The malice in her gaze froze blood and shattered bone.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

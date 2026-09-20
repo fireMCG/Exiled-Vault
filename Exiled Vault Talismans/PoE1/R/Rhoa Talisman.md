@@ -8,6 +8,7 @@ resolved to endure times of struggle,
 if it meant we could keep our ways."
 
 #
+---
 ## Tags
 #Category/Talisman
 #League/Talisman

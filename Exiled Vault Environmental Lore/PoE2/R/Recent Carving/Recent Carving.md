@@ -3,7 +3,7 @@ Mother is love. Mother is life. Feasting brings visions. Eternal life. Queen rei
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/VaalEmpire

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hrimnor's Resolve.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hrimnor's Resolve.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Hrimnor's presence was as cold as ice,
 but his heart burned for vengeance.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

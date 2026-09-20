@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/KoamCoin.webp]]
+
 [[Ngamahu Tribe]]
 
+#
 #
 ## Flavour Text
 The Ngamahu Tribe believes the Karui will be reforged in a volcano at the end of time.
 
 #
-![[KoamCoin.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/AncestorEquipment
 #Concept/Time/Ending 

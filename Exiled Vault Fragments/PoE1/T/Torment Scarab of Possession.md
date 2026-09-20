@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Torment Scarab of Possession.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 The strong are never truly alone.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 3
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Torment
 #PoE1

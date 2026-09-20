@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Rondel de Ezo.webp]]
+![[PoE2 - Legacy of Rondel de Ezo.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Bucklers: Curse Enemies with Enfeeble on Block
-
-# Bonded Effects
-- Bucklers: 100% increased Block chance against Projectiles
+#
+## Flavour Text
+"Contrary to the stories, the Empire did not hate us.
+That would require it to have a heart. It let us go the
+moment we became more trouble than we were worth."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

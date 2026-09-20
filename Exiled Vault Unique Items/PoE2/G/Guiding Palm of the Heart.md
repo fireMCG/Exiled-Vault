@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Guiding Palm of the Heart.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Guiding Palm of the Heart.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "When the Third Pact was written in stone, the Dreamer gave the alliance of men and
 beasts knowledge. In return, they gave him a drop of blood; one from each of the
 races of Wraeclast. In the centuries that followed, his Will began to subtly change."
@@ -8,7 +9,7 @@ races of Wraeclast. In the centuries that followed, his Will began to subtly cha
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

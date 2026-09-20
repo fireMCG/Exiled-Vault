@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Command of the Pit (1 Abyssal Socket).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Command of the Pit (1 Abyssal Socket).png]]
 
-# Flavour Text
+#
+## Flavour Text
 We serve only the Night.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

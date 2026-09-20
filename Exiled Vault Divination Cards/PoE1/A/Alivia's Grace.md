@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Alivia's Grace.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Her innocence and grace were enough to tame even the wildest of beasts.
 
-# Reward
+#
+## Reward
 Queen of the Forest
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

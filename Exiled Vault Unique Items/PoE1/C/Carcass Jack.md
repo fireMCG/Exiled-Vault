@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Carcass Jack.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Carcass Jack.png]]
 
-# Flavour Text
+#
+## Flavour Text
 ...The discomfort shown by the others is amusing, but none can deny that my work has made quite the splash...
 - Maligaro's Journal
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

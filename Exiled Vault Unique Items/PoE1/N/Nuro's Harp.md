@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Nuro's Harp.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Nuro's Harp.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Night's frost becomes morning's dew
 Darkness cleansed, pure and new.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Madness was visited upon those who dug too deep.
 
-# Connected Areas
+## Connected Areas
 - The Quarry
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1
 #Interesting

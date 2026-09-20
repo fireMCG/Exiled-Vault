@@ -1,9 +1,10 @@
-# Flavour Text
+#
+## Flavour Text
 The stone cannot stop the torrent.
 It can only divert it.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE1

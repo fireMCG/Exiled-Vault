@@ -1,13 +1,14 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Uhtred's Omen.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Day and night, his priests followed each of the Kalguuran
 heroes. When Medved disappeared, Uhtred grew even more
 paranoid. Now, only two remained... Olroth and Vorana.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/SupportGem/Lineage 
 #Character/Medved

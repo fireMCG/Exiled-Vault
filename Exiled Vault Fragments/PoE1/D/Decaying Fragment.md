@@ -1,10 +1,11 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Decaying Fragment.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A void where only terror and emptiness exists;
 those who attempt to struggle only hasten the assimilation
 
-# Details
+## Details
 Map Fragments
 Portal: The Shaper's Realm
 Area Level: 85
@@ -15,7 +16,7 @@ Use four of these in a personal Map Device to open Portals to The Shaper's Realm
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #Character/Eldritch/Elder
 #Concept/Horror

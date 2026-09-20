@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Maligaro's Virtuosity.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Maligaro's Virtuosity.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Maligaro operated effortlessly,
 with great speed and terrible consequences.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

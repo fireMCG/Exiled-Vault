@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Elevore.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Elevore.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Ancient worshippers of the Greatwolf were overtaken by a ravenous hunger for all things mystical.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

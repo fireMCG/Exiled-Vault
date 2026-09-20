@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Shyaba.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Shyaba.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Be not deceived by the treachery of men.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

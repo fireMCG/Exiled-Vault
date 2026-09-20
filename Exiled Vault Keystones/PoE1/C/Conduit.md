@@ -1,14 +1,16 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Conduit.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 To me, brave companions! Feel my radiance flow through you!
 
-# Effects
+#
+## Effects
 Share Endurance, Frenzy and Power Charges with nearby party members
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE1

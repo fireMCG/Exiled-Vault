@@ -1,9 +1,11 @@
 ![[Exiled Vault Keystones/_Images/PoE1 - Unwavering Vision.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 No deviations. No flaws. Only perfection.
 
-# Effects
+#
+## Effects
 Your Maps cannot be modified by Fragments other than Divine Vessels
 Scarabs cannot be found in Your Maps
 Grants 20 Passive Skill Points
@@ -11,7 +13,7 @@ Grants 20 Passive Skill Points
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #PoE1
 #Interesting 

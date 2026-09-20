@@ -1,6 +1,7 @@
 ![[Exiled Vault Quest Items/_Images/PoE1 - Golden Page (3 of 4).png]]
 
-# Flavour Text
+#
+## Flavour Text
 A waking Nightmare. 
 Madness of the mind? 
 Or madness of the flesh?"
@@ -8,7 +9,7 @@ Or madness of the flesh?"
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Character/IciusPerandus
 #Concept/Body/Flesh

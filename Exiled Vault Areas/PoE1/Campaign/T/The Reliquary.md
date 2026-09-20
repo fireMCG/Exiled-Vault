@@ -1,11 +1,12 @@
-# Flavour Text
+#
+## Flavour Text
 A trove of shameful relics displayed with pride.
 
-# Connected Areas
+## Connected Areas
 - The Ruined Square
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

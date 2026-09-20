@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Wurm's Molt.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Wurm's Molt.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 They say a lifetime of wisdom is carried
 in every skin the great beasts shed.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

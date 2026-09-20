@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Cloak of Tawm'r Isley.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Cloak of Tawm'r Isley.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Renowned by those distinguished,
 Exalted by the few.
 He skulks in darkness,
@@ -8,6 +9,6 @@ and watches from beneath the city.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

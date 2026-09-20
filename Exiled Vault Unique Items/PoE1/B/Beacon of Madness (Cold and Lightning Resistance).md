@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Beacon of Madness (Cold and Lightning Resistance).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Beacon of Madness (Cold and Lightning Resistance).png]]
 
-# Flavour Text
+#
+## Flavour Text
 Nothing spreads as quickly as an idea.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Madness
 #PoE1

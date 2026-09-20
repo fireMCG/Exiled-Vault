@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Horned Scarab of Pandemonium.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Punctured dreams bleed into the mind.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1
 #Interesting 

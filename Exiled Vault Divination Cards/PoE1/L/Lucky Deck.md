@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Lucky Deck.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When the outcome is the same, does it matter if it is fortune or trickery?
 
-# Reward
+#
+## Reward
 10x Stacked Deck
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

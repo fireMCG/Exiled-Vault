@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Allelopathy.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Allelopathy.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "There seems to be some innate relationship between the forces of
 chaos and cold. Perhaps we should consult an occultist."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Balance/Chaos
 #Concept/Element/Ice

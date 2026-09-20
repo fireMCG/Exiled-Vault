@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### FinneganTrader_Approach_First
 Wares and deals aplenty! Finnegan at your service.
 ![[Exiled Vault Dialogue/PoE2/F/Fleabag Finnegan/_Audio/Fleabag Finnegan - FinneganTrader_Approach_First.ogg]]
@@ -301,6 +302,6 @@ Spare me a moment. I'll tell you a story, if you like!
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

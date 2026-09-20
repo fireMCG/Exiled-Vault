@@ -3,6 +3,6 @@ Captain Tevarus, Altitude is imperative to forging a stable connection with the 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act4

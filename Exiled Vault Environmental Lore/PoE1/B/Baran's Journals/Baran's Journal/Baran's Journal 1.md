@@ -3,6 +3,6 @@ I, Baran, son of Galhad, being of full age and sound mind and memory, do make, p
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

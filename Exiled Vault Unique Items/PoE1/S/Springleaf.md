@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Springleaf.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Springleaf.png]]
 
-# Flavour Text
+#
+## Flavour Text
 From death springs life.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

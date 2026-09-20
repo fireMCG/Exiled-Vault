@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Eclipse Solaris.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Eclipse Solaris.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Every decade, Lunaris devours Solaris
 Each time, Solaris emerges from Lunaris, born anew.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

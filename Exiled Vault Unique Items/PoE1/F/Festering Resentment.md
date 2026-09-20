@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Festering Resentment.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Festering Resentment.png]]
 
-# Flavour Text
+#
+## Flavour Text
 That which we cannot forgive
 harms all those we hold dear.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

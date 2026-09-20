@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Dendrobate.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Dendrobate.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Ask any tracker and they'll tell you:
 the most dangerous animals
 are the ones who don't bother to hide.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

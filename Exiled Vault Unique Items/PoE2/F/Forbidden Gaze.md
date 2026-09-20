@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Forbidden Gaze.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Forbidden Gaze.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Keep your heart as ice, lest your passions stir.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

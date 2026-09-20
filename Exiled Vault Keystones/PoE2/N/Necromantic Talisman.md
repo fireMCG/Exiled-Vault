@@ -1,14 +1,16 @@
 ![[Exiled Vault Keystones/_Images/PoE2 - Necromantic Talisman.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 I give you everything, my pets. Do not disappoint me.
 
-# Effects
+#
+## Effects
 All bonuses from Equipped Amulet apply to your Minions instead of you
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE2

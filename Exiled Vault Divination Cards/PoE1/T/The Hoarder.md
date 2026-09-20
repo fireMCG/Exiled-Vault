@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Hoarder.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "More! I want more!" - Faendris, the Insatiable
 
-# Reward
+#
+## Reward
 Exalted Orb
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Khatal's Weeping.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Khatal's Weeping.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "We fought the Abyssals, too. That's the part they leave out.
 Khatal was Faridun... and for saving all their lives, the Maraketh
 made him drink the enemy's blood. He melted from the inside out."
@@ -8,6 +9,6 @@ made him drink the enemy's blood. He melted from the inside out."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

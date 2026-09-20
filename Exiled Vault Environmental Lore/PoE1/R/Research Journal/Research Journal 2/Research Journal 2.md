@@ -2,7 +2,7 @@ I am Templar Thaumaturgist Davaro, the ecstatic, the knower of hidden things, th
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1
 #Society/TemplarOrder

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Devouring Diadem.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Devouring Diadem.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The spirit hungers for the flesh.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

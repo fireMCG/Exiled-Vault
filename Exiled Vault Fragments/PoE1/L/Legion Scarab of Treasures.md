@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Legion Scarab of Treasures.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Ancient Hoards imbued with powerful Artifacts.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 3
@@ -17,6 +18,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

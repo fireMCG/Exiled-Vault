@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Atziri's Promise.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Atziri's Promise.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Death needs not your understanding. It needs only your loyalty."
 - Atziri, Queen of the Vaal
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Atziri
 #Concept/Death

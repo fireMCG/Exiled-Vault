@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Strugglescream.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Strugglescream.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 There is no light at the end of this inner strife,
 but the shadows eventually become home.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

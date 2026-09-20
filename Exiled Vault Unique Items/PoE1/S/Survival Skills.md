@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Survival Skills.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Survival Skills.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A helping hand has long reach.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

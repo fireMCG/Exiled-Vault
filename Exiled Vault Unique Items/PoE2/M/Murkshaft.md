@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Murkshaft.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Murkshaft.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Boiling frogs isn't for spells, dear.
 That's a disgusting rumour.
 They're actually for brewing poisons."
@@ -8,6 +9,6 @@ They're actually for brewing poisons."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

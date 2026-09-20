@@ -3,6 +3,6 @@ We have cornered our foe in the heart of the Atlas. My heart aches for Zana. Her
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

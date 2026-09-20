@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Waistgate.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Waistgate.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Clever artifice is not alaways complex.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,15 +1,14 @@
-# Details
-- Stack Size: 1 / 10
-- Limited to: 1
+![[PoE2 - Thrud's Might.webp]]
 
-# Effects
-- Weapon: Can roll Destruction modifiers
-
-# Bonded Effects
-- Weapon: +5% to all Elemental Resistances
+#
+## Flavour Text
+Thrud cared for neither diplomacy nor treaty. To end
+the ravaging of distant corners of Middengard, Aldur
+challenged him to a duel. With runes, Aldur fought him
+to a stalemate. Now power... that, Thrud could respect.
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

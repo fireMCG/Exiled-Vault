@@ -8,6 +8,7 @@ The wolf offered the strength of the wild,
 And the king paid for it in blood.
 
 #
+---
 ## Tags
 #Category/Talisman
 #Character/FirstOne/Greatwolf

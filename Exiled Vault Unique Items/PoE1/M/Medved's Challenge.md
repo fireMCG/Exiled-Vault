@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Medved's Challenge.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Medved's Challenge.png]]
 
-# Flavour Text
+#
+## Flavour Text
 For forty-two nights, the Feller of Heroes challenged
 the next greatest warrior to a one-on-one duel.
 None could match his might.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Medved
 #PoE1

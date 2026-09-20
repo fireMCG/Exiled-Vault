@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Serpent's Lesson.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Serpent's Lesson.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Sinuous, entwined... inextricable.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

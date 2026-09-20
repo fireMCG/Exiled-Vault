@@ -1,19 +1,21 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Audacity.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A jolt, and it moves. Or smolders.
 A current, and it lives. Or dies.
 A surge, and it transcends.
 Or... not.
 Only one way to find out.
 
-# Reward
+#
+## Reward
 Doryani's Fist
 Corrupted
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1
 #Interesting 

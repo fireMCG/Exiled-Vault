@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Tempest Rising.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Tempest Rising.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Where he tread, disintegrating storms of lightning
 and death laid waste to all around him.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

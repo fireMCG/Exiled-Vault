@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Expedition Scarab of Runefinding.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 That which came from the stars longs to return.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Expedition
 #PoE1

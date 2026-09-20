@@ -3,6 +3,6 @@ I once believed that a boy's eyes were born pure, clear of cruelty and malice. T
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act2

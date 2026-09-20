@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Contract_ The Slaver King.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Contract_ The Slaver King.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "There can be no freedom
 while hate still reigns."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

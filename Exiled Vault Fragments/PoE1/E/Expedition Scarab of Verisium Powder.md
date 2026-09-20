@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Expedition Scarab of Verisium Powder.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A properly refined pinch makes all the difference.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Expedition
 #PoE1

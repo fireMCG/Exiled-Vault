@@ -1,13 +1,16 @@
-# Flavour Text
+![[Prophecy_inventory_icon.png]]
+
+#
+## Flavour Text
 The Plaguemaw watches you with a glistening grin, waiting for a moment to send his shadows.
-# Prophecy
+
+## Prophecy
 You will be ambushed by the Plaguemaw's followers after you kill a certain very powerful monster.
-# Reward
+
+## Reward
 \- None -
 
 #
-![[Prophecy_inventory_icon.png]]
-
 #
 ---
 ## Tags

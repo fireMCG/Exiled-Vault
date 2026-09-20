@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Scorched earth and slumbering cinder.
 
-# Connected Areas
+## Connected Areas
 - The Den
 - The Northern Forest
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

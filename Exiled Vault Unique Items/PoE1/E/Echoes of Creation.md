@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Echoes of Creation.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Echoes of Creation.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A cacophony of battle cries
 Reverberate through time and space
 Inflicting pain beyond measure
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

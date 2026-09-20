@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Shavronne's Satchel.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Shavronne's Satchel.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Bring mystery to life. Again and again.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

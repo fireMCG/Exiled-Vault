@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Earthbound.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Earthbound.png]]
 
-# Flavour Text
+#
+## Flavour Text
 An ancient Azmeri staff, overgrown by roots...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

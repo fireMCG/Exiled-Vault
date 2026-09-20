@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hinekora's Sight.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hinekora's Sight.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Remember the past, anticipate the future.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

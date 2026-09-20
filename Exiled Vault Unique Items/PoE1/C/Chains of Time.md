@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Chains of Time.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Chains of Time.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

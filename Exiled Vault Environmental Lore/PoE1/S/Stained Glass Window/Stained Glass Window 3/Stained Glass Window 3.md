@@ -2,7 +2,7 @@ When the Mother of Two broke bread, she allowed Innocence to eat his fill, as re
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/Lore/Environmental
 #Character/God/Innocence

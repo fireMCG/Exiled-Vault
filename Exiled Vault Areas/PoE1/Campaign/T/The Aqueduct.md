@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 The rushing lifeblood of a long-dead Empire.
 
-# Connected Areas
+## Connected Areas
 - The Upper Sceptre of God
 - Highgate
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

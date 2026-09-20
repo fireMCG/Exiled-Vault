@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 The cliffs echo the hungry madness.
 
-# Connected Areas
+## Connected Areas
 - Lioneye's Watch
 - The Mud Flats
 - The Tidal Island
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

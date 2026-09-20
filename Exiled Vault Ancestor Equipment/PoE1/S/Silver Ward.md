@@ -1,15 +1,15 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/MoonPin.webp]]
+
 [[Arohongui Tribe]]
 
+#
 #
 ## Flavour Text
 Arohongui looks after all those in need.
 
 #
-![[MoonPin.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #Character/God/Arohongui 
 #Concept/Colour/Silver 

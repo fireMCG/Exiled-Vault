@@ -1,11 +1,12 @@
-# Flavour Text
-The last shimmering face witnessed by many a sacrifice.
+![[Exiled Vault Heist Targets/_Images/Golden Ceremonial Mask.png]]
+
 #
-![[Golden Ceremonial Mask.png]]
+## Flavour Text
+The last shimmering face witnessed by many a sacrifice.
 
 #
 ---
-# Tags
+## Tags
 #Category/HeistTarget
 #League/Heist
 #PoE1 

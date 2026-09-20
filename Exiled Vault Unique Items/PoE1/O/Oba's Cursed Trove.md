@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Oba's Cursed Trove.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Oba's Cursed Trove.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Here the soil is more deadly than any swing of the axe."
 - Oba of the Karui, Conqueror of Corruption.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

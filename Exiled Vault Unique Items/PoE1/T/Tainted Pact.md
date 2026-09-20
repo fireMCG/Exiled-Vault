@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Tainted Pact.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Tainted Pact.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Beidat made false promises to many denizens
 Converting only one into a conduit
 Through which Wraeclast might be consumed.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

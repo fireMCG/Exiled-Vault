@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Demigod's Authority.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Demigod's Authority.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Stories of Heroism by the victor persist,
 for no one survives to contest them.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

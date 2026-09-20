@@ -1,12 +1,12 @@
+![[Exiled Vault Ancestor Equipment/PoE1/_Images/TeethCharm.webp]]
+
+#
 ## Flavour Text
 For enemies you do not respect.
 
 #
-![[TeethCharm.webp]]
-
-#
 ---
-# Tags
+## Tags
 #Category/AncestorEquipment
 #League/Ancestor
 #PoE1 

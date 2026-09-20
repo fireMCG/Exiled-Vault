@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Victario's Charity.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Victario's Charity.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A man's life is the greatest gift he can give.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

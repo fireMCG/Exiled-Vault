@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Lioneye's Paws.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Lioneye's Paws.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Twelve dead, and the seventh lab cannot be entered for several years.
 Prototype #12 is a 'success,' if we can ever reach it."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

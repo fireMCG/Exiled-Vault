@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Realm Ender.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Realm Ender.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The flames are surely coming. I just pray I am long dead before they arrive."
 - Archbishop Geofri
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

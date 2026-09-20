@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Anarchy Scarab of the Exceptional.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Among many, one stands above the rest.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 2
@@ -13,6 +14,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

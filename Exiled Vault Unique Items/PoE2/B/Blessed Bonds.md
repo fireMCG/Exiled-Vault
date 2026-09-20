@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Blessed Bonds.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Blessed Bonds.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "We survived the endless winter.
 We endure the long summer.
 One day, spring will return the rains."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

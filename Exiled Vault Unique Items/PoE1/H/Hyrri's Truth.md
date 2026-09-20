@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hyrri's Truth.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hyrri's Truth.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Strike true, strike hard, and leave no survivors to retaliate.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

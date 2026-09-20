@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mahuxotl's Machination.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mahuxotl's Machination.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Banished Architect sought to employ all the
 darkest secrets of the Vaal... at the same time.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

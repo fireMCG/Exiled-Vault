@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Tactician.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Tactician.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Few men command an army better than the Great Meginord of the North
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

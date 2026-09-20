@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Facebreaker.webp]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Facebreaker.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 You think us savages?" mused the Red Wolf, as
 he pulled teeth from the Eternal's skull. "I will
 show your kind the way of tooth and claw.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Midnight Braid.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Midnight Braid.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Adversity is the soil in
 which persistence grows.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

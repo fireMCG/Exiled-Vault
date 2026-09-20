@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Kaltensoul.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Kaltensoul.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Flesh may freeze and rot,
 but the soul remains unbroken.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

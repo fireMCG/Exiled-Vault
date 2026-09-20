@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Coward's Chains.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Coward's Chains.png]]
 
-# Flavour Text
+#
+## Flavour Text
 As a gift or as punishment, the Empire will have your blood.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

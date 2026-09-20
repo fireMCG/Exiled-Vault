@@ -1,10 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE2 - Inscribed Ultimatum.webp]]
 
-# Details
+## Details
 Item Level:
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE2

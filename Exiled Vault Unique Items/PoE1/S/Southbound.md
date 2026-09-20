@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Southbound.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Southbound.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Far south, the winter crawls under the skin.
 Below the snow, adrift wanderers sleep.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Viridi's Veil.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Viridi's Veil.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Her sisters eternally fought for that shining apex in the skies, but Viridi instead found strength in humility."
 - Azmerian Creation Myth
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Maven
 #Character/God/Viridi

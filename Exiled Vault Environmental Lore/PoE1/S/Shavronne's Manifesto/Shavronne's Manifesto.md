@@ -3,6 +3,6 @@ This world is dull and ugly, an imperfect feast of sights, feelings and smells t
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1/Act6

@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Divination Scarab of The Cloister.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 No disease can be contained forever.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 5
@@ -15,6 +16,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

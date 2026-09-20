@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Doedre's Tenure.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Doedre's Tenure.png]]
 
-# Flavour Text
+#
+## Flavour Text
 While Doedre lacked Maligaro's sense of style, she surpassed her master in pure malevolence.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

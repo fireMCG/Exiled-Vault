@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Refuge in Isolation.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Refuge in Isolation.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The pain of solitude can be endured, but
 the pain of heartbreak might just destroy us.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

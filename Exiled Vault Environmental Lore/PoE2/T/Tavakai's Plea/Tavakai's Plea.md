@@ -3,7 +3,7 @@ These ancestral totems are a menace that remain from ancient days. They gather a
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/Karui

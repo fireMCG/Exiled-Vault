@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Izaro's Dilemma.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Izaro's Dilemma.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Izaro saw himself not as a man,
 but as a divine saviour trapped in a man's body.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

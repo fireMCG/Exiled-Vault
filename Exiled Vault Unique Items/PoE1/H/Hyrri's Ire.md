@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Hyrri's Ire.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Hyrri's Ire.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Hyrri loosed a barrage of arrows,
 tipped with a poisoned hatred
 only oppression can ferment.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

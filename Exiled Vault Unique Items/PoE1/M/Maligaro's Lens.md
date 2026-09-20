@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Maligaro's Lens.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Maligaro's Lens.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Look around you. What do you see?
 Corruption, perversion, sin?
 No. It is progress.
@@ -9,6 +10,6 @@ You simply lack the means to see it."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

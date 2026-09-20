@@ -2,6 +2,6 @@ Soul prepared, Soul be mine. O' Abberath, goat lord of the fallen race, rise up 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

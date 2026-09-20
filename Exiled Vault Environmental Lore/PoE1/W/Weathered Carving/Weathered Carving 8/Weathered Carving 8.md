@@ -3,6 +3,6 @@ I dreamed of my Ancestors' halls. They were empty. I dreamed of the north, of an
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

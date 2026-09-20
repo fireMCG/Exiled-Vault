@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Reverent Fragment.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Adoration can blind us to the truth of human flaws.
 
-# Details
+## Details
 Map Fragments
 Portal: Moment of Reverence
 Area Level: 85
@@ -14,6 +15,6 @@ Use four of these in a personal Map Device to open Portals to The Moment of Reve
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

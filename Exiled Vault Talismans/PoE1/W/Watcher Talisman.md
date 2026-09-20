@@ -8,6 +8,7 @@ men must go their own way. Those that braved
 the inland sea settled the Isles of Skothe."
 
 #
+---
 ## Tags
 #Category/Talisman
 #League/Talisman

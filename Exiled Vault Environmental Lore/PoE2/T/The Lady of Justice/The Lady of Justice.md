@@ -3,7 +3,7 @@ You have been weighed and measured, and you have been found wanting. You are unw
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE2
 #Society/EternalEmpire

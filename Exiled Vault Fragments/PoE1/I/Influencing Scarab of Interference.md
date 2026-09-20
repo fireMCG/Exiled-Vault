@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Influencing Scarab of Interference.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Memories resound in the Atlas, echoing forever.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,6 +16,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

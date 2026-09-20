@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Hand of Phrecia.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Hand of Phrecia.png]]
 
-# Flavour Text
+#
+## Flavour Text
 To drive back the darkness, to bring peace, we must fight side by side as brothers.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

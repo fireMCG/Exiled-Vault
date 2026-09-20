@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Zeel's Amplifier.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Zeel's Amplifier.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Great minds wish to reveal all the secrets of time and space.
 But it does not matter.
 Creation, the act of Matter Metamorphosis, is the only secret worth discovering.
@@ -8,7 +9,7 @@ Creation, the act of Matter Metamorphosis, is the only secret worth discovering.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

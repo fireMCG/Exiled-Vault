@@ -1,13 +1,15 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Master.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In a world filled with chaos, he could always seek comfort in the hands of his master.
 
-# Reward
+#
+## Reward
 Disabled
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #PoE1

@@ -1,4 +1,4 @@
-# Farrow on The Black Knight
+## Farrow on The Black Knight
 Farrow: Who the heck was that fellow then?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Black Knight/Audio/Farrow - S70 - L1 - A1.ogg]]
 Warrior: A knight – and he certainly fought like one. He seemed to be protecting a trove of Verisium.
@@ -59,7 +59,7 @@ Marauder: Farrow_OnBlackKnight_B2_Str4
 Farrow: Sounds like someone of significance. Could he have come with the original Expedition? Or... perhaps even earlier?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Black Knight/Audio/Farrow - S70 - L29 - A1.ogg]]
 
-# Farrow on The Black Knight
+## Farrow on The Black Knight
 Farrow: Who the heck was that fellow then?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on The Black Knight/Audio/Farrow - S71 - L1 - A1.ogg]]
 Warrior: A knight – and he certainly fought like one. He seemed to be protecting a trove of Verisium.
@@ -122,6 +122,6 @@ Farrow: Sounds like someone of significance. Could he have come with the origina
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Saitha's Spear.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Saitha's Spear.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Born in a star of man's own make,
 fused to her hand by her last mistake.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Expedition Scarab.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 They come from across the sea in search of ancient truth.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Expedition
 #PoE1

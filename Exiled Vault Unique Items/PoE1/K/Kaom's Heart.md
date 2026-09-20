@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Kaom's Heart.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Kaom's Heart.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The warrior who
 fears will fall.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

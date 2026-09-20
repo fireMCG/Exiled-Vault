@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Atziri's Reign.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Atziri's Reign.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Atziri went to great lengths to ensure her immortality, but nothing is eternal.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Atziri
 #Concept/Time/Eternity

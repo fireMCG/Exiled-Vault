@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Serle's Masterwork.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Serle's Masterwork.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Truly great Artificers push the boundaries of the possible.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

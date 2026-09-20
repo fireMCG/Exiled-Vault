@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Fragment of the Chimera.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Enter the crucible. The nexus of nothingness and equilibrium of eternity.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 10
 Limit: 1
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1
 #Interesting 

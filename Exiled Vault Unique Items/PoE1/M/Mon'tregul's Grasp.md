@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mon'tregul's Grasp.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mon'tregul's Grasp.png]]
 
-# Flavour Text
+#
+## Flavour Text
 With death as my ally, all the world is within my grasp.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

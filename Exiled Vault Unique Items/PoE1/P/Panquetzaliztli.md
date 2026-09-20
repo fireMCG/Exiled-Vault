@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Panquetzaliztli.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Panquetzaliztli.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The most dizzying heights are surrounded by precipitous falls.
 Progress cannot be eternal."
 - Doryani of the Vaal
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1

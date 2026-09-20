@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Tear of Entropy.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Tear of Entropy.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Into darkness, horror, madness...
 So goes the descent.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Grand Spectrum (Crimson Jewel, life).png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Grand Spectrum (Crimson Jewel, life).png]]
 
-# Flavour Text
+#
+## Flavour Text
 A wellspring of vitality bubbling from within.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Waxen Soul.webp]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Waxen Soul.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 We huddle in the fading light of our candles,
 begging the darkness to leave us in peace...
 but what if we joined Him, and left fear behind?
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

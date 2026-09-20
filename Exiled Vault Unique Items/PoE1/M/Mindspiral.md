@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mindspiral.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mindspiral.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Where top is bottom and weak is strong.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Legion Scarab of Eternal Conflict.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 An eternity of blood. Glorious.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,7 +16,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Legion
 #PoE1

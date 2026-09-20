@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Cospri's Will.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Cospri's Will.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Curse their vile Council,
 They cast me aside as if I am some bastard child.
 If they only knew the power I possess.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

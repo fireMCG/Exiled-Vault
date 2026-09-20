@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Rakiata's Dance.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Rakiata's Dance.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In the shifting reflections of the sea, the truth of the soul can be seen.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

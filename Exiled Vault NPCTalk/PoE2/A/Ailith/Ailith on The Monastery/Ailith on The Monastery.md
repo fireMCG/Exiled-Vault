@@ -1,4 +1,4 @@
-# Ailith on The Monastery
+## Ailith on The Monastery
 Ailith: I founded the Keepers of the Flame long ago. The monastery serves as a sacrosanct location where we care for the Genesis Tree and await the will of the Benevolent Dreamer. His teachings and gifts keep us on the path of discipline and truth.
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on The Monastery/Audio/Ailith - S18 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/A/Ailith/Ailith on The Monastery/Audio/Ailith - S18 - L1 - A2.ogg]]
@@ -57,6 +57,6 @@ Ailith: As long as the Monastery stands, the Keepers of the Flame hold the enemy
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

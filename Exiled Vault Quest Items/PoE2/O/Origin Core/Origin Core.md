@@ -1,9 +1,12 @@
-# Flavour Text
+![[Exiled Vault Quest Items/_Images/PoE2 - Origin Core.png]]
+
+#
+## Flavour Text
 A paradox, whose very existence
 would change... everything.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #PoE2

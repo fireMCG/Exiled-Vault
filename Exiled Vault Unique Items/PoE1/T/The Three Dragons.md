@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Three Dragons.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Three Dragons.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The ice seared his naked feet
 As the lightning stilled his heart,
 But it was the flames upon his lover's face
@@ -9,6 +10,6 @@ That roused him to vengeance."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

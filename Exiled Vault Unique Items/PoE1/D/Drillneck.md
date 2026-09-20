@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Drillneck.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Drillneck.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Why waste such a fine arrow on just one man?"
 - Kiravi, Vaal Archer
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1

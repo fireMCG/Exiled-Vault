@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Invictus Solaris.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Invictus Solaris.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Eternal soldiers fight for glory or death. Solaris vanguard know only glory.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Brush, Paint and Palette.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Man may shape the world, but these? These shape the man." -Inquisitor Maligaro
 
-# Reward
+#
+## Reward
 The Artist
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/Maligaro
 #Concept/World

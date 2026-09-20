@@ -1,11 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Vigilant View.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Vigilant View.webp]]
 
-# Flavour Text
-Agony brings clarity to those of pure mind.
+#
+## Flavour Text
+The warriors of the Unblinking Eye moved
+together as one, shoulder to shoulder.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Mind
 #Concept/Purity

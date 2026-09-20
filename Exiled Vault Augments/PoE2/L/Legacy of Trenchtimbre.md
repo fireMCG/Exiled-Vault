@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Trenchtimbre.webp]]
+![[PoE2 - Legacy of Trenchtimbre.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- One Hand Maces: Increases and Reductions to Minion Attack Speed also affect you
-
-# Bonded Effects
-- One Hand Maces: +1 to Level of all Minion Skills
+#
+## Flavour Text
+"There is bravery in leadership, yes, but an
+even greater courage in giving one's loyalty.
+In trusting your life, or death, to another."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Blue Nightmare.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Blue Nightmare.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 We swell and flood and drown the undeserving beneath our might.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

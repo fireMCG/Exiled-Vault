@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Bane of Hope.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Bane of Hope.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Hope? There is no such thing! We are all rotting flesh,
 stuck here on this world to torture each other. Hope
 is a mistake, and we will show you its folly."
@@ -8,6 +9,6 @@ is a mistake, and we will show you its folly."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

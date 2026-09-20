@@ -1,8 +1,9 @@
-# Flavour Text
+#
+## Flavour Text
 This Vaal structure is not lost in the jungle. Not yet.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE2

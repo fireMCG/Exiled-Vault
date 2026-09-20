@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Pillar of the Caged God.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Pillar of the Caged God.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Forged to rule the waves and tide
 Destined to serve the monkey's paw
 Strong as a tower of iron
@@ -8,6 +9,6 @@ Deft as the needle doubt
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

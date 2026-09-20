@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Undying Hate.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Undying Hate.png]]
 
-# Flavour Text
+#
+## Flavour Text
 They believed themselves driven by necessity, but that desperation made them monstrous.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Emotion/Hate
 #League/Abyss

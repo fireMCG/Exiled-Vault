@@ -8,6 +8,7 @@ No other weapon would find purchase. They
 surrounded it with fire, burning it for days."
 
 #
+---
 ## Tags
 #Category/Talisman 
 #Concept/FirstOnes 

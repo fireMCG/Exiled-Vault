@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Widowmaker.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Widowmaker.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Love only death
 For she shall never let you go.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

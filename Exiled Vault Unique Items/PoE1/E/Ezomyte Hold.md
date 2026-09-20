@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ezomyte Hold.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ezomyte Hold.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A moment of victory may last an eternity in memory.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

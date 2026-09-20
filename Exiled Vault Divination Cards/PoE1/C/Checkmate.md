@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Checkmate.png]]
 
-# Flavour Text
+#
+## Flavour Text
 When victory is impossible, each of us plays only to delay the end.
 
-# Reward
+#
+## Reward
 76x Simulacrum Splinter
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Character/Demon/Kosis
 #Concept/Time/Ending

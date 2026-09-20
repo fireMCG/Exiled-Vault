@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Lioneye's Glare.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Lioneye's Glare.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "See without doubt, slay without hesitation."
 - Marceus Lioneye of Sarn
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

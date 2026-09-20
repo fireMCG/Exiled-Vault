@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Duskdawn.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Duskdawn.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "The world is not simply black and white,
 it is not divided into good and evil.
 But black and white, good and evil, do exist,
@@ -9,6 +10,6 @@ and we must know how to recognize them."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

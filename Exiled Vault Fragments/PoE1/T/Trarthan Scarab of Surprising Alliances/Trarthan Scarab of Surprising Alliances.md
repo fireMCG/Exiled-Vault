@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Trarthan Scarab of Surprising Alliances.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "Technically, historically... they're all exiles, really."
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -15,6 +16,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab 
 #PoE1

@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Darkray Vectors.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Darkray Vectors.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Sirrius flew on wings of light, faster than wind, faster
 than thought. But try as he might to outrun the darkness,
 it was there, at every turn, waiting for him."
@@ -8,6 +9,6 @@ it was there, at every turn, waiting for him."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

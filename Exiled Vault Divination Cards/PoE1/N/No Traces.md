@@ -1,14 +1,16 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - No Traces.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There is no mistake so great that it cannot be undone.
 
-# Reward
+#
+## Reward
 30x Orb of Scouring
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Space/Entropy
 #PoE1

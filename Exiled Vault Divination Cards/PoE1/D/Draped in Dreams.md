@@ -1,18 +1,20 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - Draped in Dreams.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The suit I wear,
 Is heavy and bare.
 A canvas, it seems, breathing life into dreams.
 
-# Reward
+#
+## Reward
 Six-Link Astral Plate
 Item Level: 100
 Influenced Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Night/Dream
 #PoE1

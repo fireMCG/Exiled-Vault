@@ -3,7 +3,7 @@ A young Venarius wanted to cleanse the Templars of corruption. By the time he ca
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/Lore/Environmental
 #PoE1

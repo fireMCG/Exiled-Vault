@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Bestiary Scarab of Duplicating.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 "What's better than one captured beast, exile?"
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,7 +14,7 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #League/Bestiary
 #PoE1

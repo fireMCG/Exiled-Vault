@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Magnate.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Magnate.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Few men cast a longer shadow than the Great Meginord of the North.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1
 #Interesting 

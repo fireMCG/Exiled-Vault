@@ -3,7 +3,7 @@ Our very existence seems bound to draw out the folly of men. Dominus, Venarius..
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline 
 #Category/Lore/Environmental
 #PoE1

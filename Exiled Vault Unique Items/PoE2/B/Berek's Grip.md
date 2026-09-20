@@ -1,5 +1,7 @@
-![[PoE2 - Berek's Grip.png]]
-# Flavour Text
+![[Exiled Vault Unique Items/_Images/PoE2 - Berek's Grip.png]]
+
+#
+## Flavour Text
 Berek hid from Storm's lightning wrath
 In the embrace of oblivious Frost
 Repelled by ice, blinded by blizzards
@@ -9,7 +11,7 @@ While Berek slept."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

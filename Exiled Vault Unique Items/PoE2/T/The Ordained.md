@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - The Ordained.webp]]
+![[Exiled Vault Unique Items/_Images/PoE2 - The Ordained.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 May the Lightless drown in the violence of His devotion.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

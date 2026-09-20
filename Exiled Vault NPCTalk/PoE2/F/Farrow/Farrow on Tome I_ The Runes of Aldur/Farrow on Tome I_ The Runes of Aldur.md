@@ -1,4 +1,4 @@
-# Farrow on Tome I: The Runes of Aldur
+## Farrow on Tome I: The Runes of Aldur
 Farrow: This tome... hmm. {Some} of it is legible to me. 'Volume One: The Runes of Aldur.' 'Within the warm embrace of Aldur's teachings, he, the first Runefather, carved a future for Middengard, to liberate it from the biting frost.' Middengard? This is all... Kalguuran?
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Tome I_ The Runes of Aldur/Audio/Farrow - S51 - L1 - A1.ogg]]
 ![[Exiled Vault NPCTalk/PoE2/F/Farrow/Farrow on Tome I_ The Runes of Aldur/Audio/Farrow - S51 - L1 - A2.ogg]]
@@ -35,6 +35,6 @@ Farrow: I'll study this text further, but yes... that's what this implies. I nee
 
 #
 ---
-# Tags
+## Tags
 #Category/NPCTalk
 #PoE2

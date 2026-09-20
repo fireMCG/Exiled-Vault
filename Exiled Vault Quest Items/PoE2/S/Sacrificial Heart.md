@@ -1,11 +1,12 @@
 ![[Exiled Vault Quest Items/_Images/PoE2 - Sacrificial Heart.png]]
 
-# Flavour Text
+#
+## Flavour Text
 A soul still clings to fading shreds of life.
 
 #
 ---
-# Tags
+## Tags
 #Category/QuestItem
 #Concept/Body/Heart
 #Concept/Sacrifice

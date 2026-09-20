@@ -3,6 +3,6 @@ In the court of the Goddess, every man and woman is deemed worthy of redemption.
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

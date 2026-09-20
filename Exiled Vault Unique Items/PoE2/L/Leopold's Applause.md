@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Leopold's Applause.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Leopold's Applause.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Keep smiling. The deepest cut comes not from insults, but from false praise."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

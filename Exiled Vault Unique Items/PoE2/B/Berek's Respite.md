@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Berek's Respite.webp]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Berek's Respite.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 With Flame licking at his heels
 Berek berated the clouds
 Until vengeful Storm spewed forth his rains
@@ -11,7 +12,7 @@ And fled."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

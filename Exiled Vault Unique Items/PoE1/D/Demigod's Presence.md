@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Demigod's Presence.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Demigod's Presence.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The maidens of court swoon to see
 the challengers crushed at your feet.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

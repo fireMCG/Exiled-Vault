@@ -2,7 +2,7 @@ The artefacts which High Templar Dominus returned to our city have finally offer
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1
 #Society/TemplarOrder

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Skin of the Lords.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Skin of the Lords.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Lords are chosen so carefully.
 Only they may grace His flesh.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

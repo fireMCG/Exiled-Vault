@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Constricting Command.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Constricting Command.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Be vigilant, Nezahul! When the serpent is cornered, does it give up?
 No... It waits. Then it bites the first hand it finds.
 The danger of numbers is all in your mind!"
@@ -8,7 +9,7 @@ The danger of numbers is all in your mind!"
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Napuatzi
 #Society/VaalEmpire

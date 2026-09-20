@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Maws of stone threaten to snap shut on the unwary.
 
-# Connected Areas
+## Connected Areas
 - Traitor's Passage
 - The Ardura Caravan
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

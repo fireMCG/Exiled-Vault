@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Cooperation.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Cooperation.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 You stagger away, embarrassed by your failure.
 Your only consolation prize is your life.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

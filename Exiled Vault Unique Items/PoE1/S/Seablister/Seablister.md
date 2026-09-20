@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Seablister.webp]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Seablister.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 On the Kraken's Rot, there was no whipping.
 No lashes. Only barnacle-scraping duty.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

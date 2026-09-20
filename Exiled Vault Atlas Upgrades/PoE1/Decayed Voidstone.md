@@ -6,7 +6,7 @@ The Elder fed on all that gave life meaning until it encountered an unbreakable 
 
 #
 ---
-# Tags
+## Tags
 #Category/AtlasUpgrade
 #PoE1
 #Interesting

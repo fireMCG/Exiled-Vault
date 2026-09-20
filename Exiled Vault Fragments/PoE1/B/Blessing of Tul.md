@@ -1,6 +1,6 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Blessing of Tul.webp]]
 
-# Details
+## Details
 Stackable Currency
 Stack Size: 1 / 10
 Upgrades Tul's Breachstone to a more powerful version
@@ -9,6 +9,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment
 #PoE1

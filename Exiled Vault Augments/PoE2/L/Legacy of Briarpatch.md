@@ -1,17 +1,13 @@
-![[Exiled Vault Augments/_Images/PoE2 - Legacy of Briarpatch.webp]]
+![[PoE2 - Legacy of Briarpatch.webp]]
 
-# Details
-- Limited to: 1 Aldur's Legacy
-- Requires: Level 65
-
-# Effects
-- Boots: +15% to Thorns Critical Hit Chance
-
-# Bonded Effects
-- Boots: 15% increased Thorns Critical Damage Bonus
+#
+## Flavour Text
+"No, we did not journey between Phaaryl and Ezomyr
+on foot. When settlers first found us in Caer Tarth, we
+had... other ways... of joining them in their homeland."
 
 #
 ---
-# Tags
+## Tags
 #Category/Augment
 #PoE2

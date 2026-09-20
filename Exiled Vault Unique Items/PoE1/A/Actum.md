@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Actum.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Actum.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Better to act without thought than to think without action.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

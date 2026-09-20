@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Thrillsteel.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Thrillsteel.png]]
 
-# Flavour Text
+#
+## Flavour Text
 We may fight, and we may die, but in these
 moments of blood and battle, we truly live.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

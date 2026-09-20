@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Weight of Sin.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Weight of Sin.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Ill will is the greatest of burdens.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

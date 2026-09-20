@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Ingenuity.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Ingenuity.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Experiments with geomancy taught the Maji more than they ever expected.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

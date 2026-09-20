@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Visions of Paradise.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Visions of Paradise.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 If they had ever completed the tower network, it could have changed the face of the world...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Concept/Religion/Heaven
 #PoE2

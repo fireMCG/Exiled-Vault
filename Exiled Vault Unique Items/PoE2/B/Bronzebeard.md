@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Bronzebeard.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Bronzebeard.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Heavy is the head.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

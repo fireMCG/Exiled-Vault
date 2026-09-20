@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Saemus' Gift.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Saemus' Gift.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Beaten in contest, he would try once more
 Guided by magic, Magjar took aim at a dove
 Saemus' gift would influence the score
@@ -8,6 +9,6 @@ Guided by darkness, Magjar spilled the blood of his love
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

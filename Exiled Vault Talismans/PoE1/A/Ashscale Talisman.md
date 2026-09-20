@@ -8,6 +8,7 @@ We had to grow and change to survive,
 but each clan had its own ideas how..."
 
 #
+---
 ## Tags
 #Category/Talisman 
 #Concept/Element/Fire

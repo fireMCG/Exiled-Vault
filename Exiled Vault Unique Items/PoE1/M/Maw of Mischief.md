@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Maw of Mischief.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Maw of Mischief.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The line that divides hope and fear,
 life and death, crowd and mob,
 is as thin as a whisper.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

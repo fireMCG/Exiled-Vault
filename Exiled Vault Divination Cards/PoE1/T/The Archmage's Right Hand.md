@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Archmage's Right Hand.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "When grasped in his hand, even an ordinary piece of wood can make the heavens tremble with fear."
 
-# Reward
+#
+## Reward
 Glyphic Prophecy Wand
 Item Level: 100
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard
 #Concept/Emotion/Fear
 #Concept/Religion/Heaven

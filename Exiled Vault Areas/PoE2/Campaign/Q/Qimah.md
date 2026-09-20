@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 The populace would gather to share tales and wine.
 
-# Connected Areas
+## Connected Areas
 - The Galai Gates
 - Qimah Reservoir
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

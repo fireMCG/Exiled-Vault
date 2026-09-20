@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Tawhoa's Felling.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Tawhoa's Felling.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Strike with the might of a falling oak,
 and know that you never stand alone.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

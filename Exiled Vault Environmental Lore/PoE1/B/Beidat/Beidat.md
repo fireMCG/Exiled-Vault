@@ -3,6 +3,6 @@ Beidat is a cruel master. He calls himself the Archangel of Death, but there is 
 
 #
 ---
-# Tags
+## Tags
 #Category/Lore/Environmental
 #PoE1

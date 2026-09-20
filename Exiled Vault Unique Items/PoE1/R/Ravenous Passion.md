@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Ravenous Passion.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Ravenous Passion.png]]
 
-# Flavour Text
+#
+## Flavour Text
 There is power in hunger, though it will
 consume all that you have... and more.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/EaterOfWorlds
 #Concept/Hunger

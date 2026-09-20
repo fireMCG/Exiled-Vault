@@ -8,6 +8,7 @@ and lead the way. The people came to see her
 as their guide, their hope, and then... their leader."
 
 #
+---
 ## Tags
 #Category/Talisman
 #League/Talisman

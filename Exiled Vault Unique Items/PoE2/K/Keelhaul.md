@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Keelhaul.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Keelhaul.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Below all living things, there exists a flow...
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

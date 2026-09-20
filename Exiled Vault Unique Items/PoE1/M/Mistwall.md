@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mistwall.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mistwall.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Light as a board,
 Stiff as a feather.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

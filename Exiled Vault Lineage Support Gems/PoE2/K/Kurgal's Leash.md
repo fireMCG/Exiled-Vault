@@ -1,13 +1,14 @@
 ![[Exiled Vault Lineage Support Gems/_Images/PoE2 - Kurgal's Leash.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Kurgal's first body was a mere stone golem, enslaved by a
 collar. He found such ecstasy in the power of dominion,
 he clawed his way free... and soon, supplanted a Lich Lord.
 
 #
 ---
-# Tags
+## Tags
 #Attributes/Timeline
 #Category/SupportGem/Lineage 
 #Character/Kurgal

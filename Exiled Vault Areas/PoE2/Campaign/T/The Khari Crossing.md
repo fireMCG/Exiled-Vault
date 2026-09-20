@@ -1,13 +1,14 @@
-# Flavour Text
+#
+## Flavour Text
 Barren and dry, its purpose is long forgotten in the sands.
 
-# Connected Areas
+## Connected Areas
 - The Khari Bazaar
 - Pools of Khatal
 - The Galai Gates
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

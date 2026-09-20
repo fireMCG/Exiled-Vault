@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Energy From Within.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Energy From Within.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Azmeri ascetics learnt the power
 of going without the body's ordinary cravings.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

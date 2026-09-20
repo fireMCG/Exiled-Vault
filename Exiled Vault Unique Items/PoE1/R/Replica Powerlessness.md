@@ -1,12 +1,13 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Powerlessness.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Powerlessness.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The suppression troops have stopped responding to my orders. I'm no longer in charge, and I likely never truly was... I suspect they're already coming for us."
 - Lead Researcher Ksaret, one hour post-Incident
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Ksaret
 #PoE1

@@ -1,4 +1,5 @@
-# Flavour Text
+#
+## Flavour Text
 Desperately reaching skyward
 
 and digging downwards.
@@ -9,7 +10,7 @@ eternal struggle.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Atlas
 #PoE1
 #Interesting

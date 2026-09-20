@@ -1,9 +1,10 @@
 ![[Exiled Vault Fragments/_Images/PoE1 - Essence Scarab of Ascent.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 A more perfect facet cannot be achieved.
 
-# Details
+## Details
 Map Fragments
 Stack Size: 1 / 20
 Limit: 1
@@ -13,6 +14,6 @@ Shift click to unstack.
 
 #
 ---
-# Tags
+## Tags
 #Category/Fragment/Scarab
 #PoE1

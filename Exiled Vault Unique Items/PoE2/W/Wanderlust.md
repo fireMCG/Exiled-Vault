@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Wanderlust.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Wanderlust.png]]
 
-# Flavour Text
+#
+## Flavour Text
 All the world is my home.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

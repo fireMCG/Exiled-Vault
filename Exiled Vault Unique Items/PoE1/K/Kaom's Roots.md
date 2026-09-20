@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Kaom's Roots.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Kaom's Roots.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Don't flinch. It's a waste of good hitting time.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

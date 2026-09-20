@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Glitterdisc.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Glitterdisc.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Izaro's insistence on using lava
 resulted in some surprising material discoveries.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

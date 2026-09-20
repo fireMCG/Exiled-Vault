@@ -1,15 +1,17 @@
 ![[Exiled Vault Keystones/_Images/PoE2 - Eternal Youth.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Burn the spirit to vitalise the flesh.
 
-# Effects
+#
+## Effects
 Life Recharges instead of Energy Shield
 50% less Life Recovery from Flasks
 
 #
 ---
-# Tags
+## Tags
 #Category/Keystone
 #Category/Keystone
 #PoE2

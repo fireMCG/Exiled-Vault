@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 The air is rich with despair and apparition.
 
-# Connected Areas
+## Connected Areas
 - The Climb
 - The Upper Prison
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign
 #PoE1

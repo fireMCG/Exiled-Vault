@@ -1,7 +1,8 @@
-# Flavour Text
+#
+## Flavour Text
 Brutal restraint makes life in the desert possible.
 
-# Connected Areas
+## Connected Areas
 - Vastiri Outskirts
 - Traitor's Passage
 - Keth
@@ -17,7 +18,7 @@ Brutal restraint makes life in the desert possible.
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2
 #Interesting 

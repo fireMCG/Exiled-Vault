@@ -1,12 +1,13 @@
-# Flavour Text
+#
+## Flavour Text
 Scraping bones and jagged rock lay underfoot.
 
-# Connected Areas
+## Connected Areas
 - Mastodon Badlands
 - The Well of Souls
 
 #
 ---
-# Tags
+## Tags
 #Category/Area/Campaign 
 #PoE2

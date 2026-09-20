@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Restless Ward.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Restless Ward.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Further research must be done on Prototype #282.
 There is power here, if it can be tapped."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

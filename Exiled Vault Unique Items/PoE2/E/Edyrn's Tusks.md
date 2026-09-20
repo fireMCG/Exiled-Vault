@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Edyrn's Tusks.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Edyrn's Tusks.png]]
 
-# Flavour Text
+#
+## Flavour Text
 In death, the legendary boar's tusks were turned to the slaying of Phaaryl's Eternal oppressors.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

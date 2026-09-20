@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Horns of Bynden.png]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Horns of Bynden.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Younger Brother waded into Battle, shrugging off Blows.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2

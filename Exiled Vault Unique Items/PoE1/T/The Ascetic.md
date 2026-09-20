@@ -1,10 +1,11 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Ascetic.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Ascetic.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Many things come to one who has nothing.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

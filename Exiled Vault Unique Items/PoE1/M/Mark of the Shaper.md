@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Mark of the Shaper.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Mark of the Shaper.png]]
 
-# Flavour Text
+#
+## Flavour Text
 Let madness take control.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #Character/Eldritch/Shaper
 #Character/ValdoCaeserius

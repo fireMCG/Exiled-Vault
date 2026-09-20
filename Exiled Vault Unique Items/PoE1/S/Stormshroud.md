@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Stormshroud.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Stormshroud.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The true secret of the elements
 is that all are one and the same.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

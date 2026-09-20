@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - The Goddess Unleashed.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - The Goddess Unleashed.png]]
 
-# Flavour Text
+#
+## Flavour Text
 As a maiden I was bound; as a crone was I scorned
 Promised power rarely found, delivered fury fairly thorned.
 Not enough?...Fine. Now I am become both and another
@@ -10,6 +11,6 @@ Bequeathed, betrayed...beloved. At last, I am the third.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

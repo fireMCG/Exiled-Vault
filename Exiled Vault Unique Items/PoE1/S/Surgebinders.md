@@ -1,6 +1,7 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Surgebinders.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Surgebinders.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 Your lies are our strength.
 Your threats are our laughter.
 Your hate is our infinity
@@ -8,6 +9,6 @@ The fire rises!
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

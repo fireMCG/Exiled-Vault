@@ -1,13 +1,16 @@
-# Flavour Text
+![[Prophecy_inventory_icon.png]]
+
+#
+## Flavour Text
 Water crashes against stone; A victim of the Unbreathing Queen burns with desire for The Mother's domain.
-# Prophecy
+
+## Prophecy
 You will encounter the spirit of a hero in the Beacon or Lighthouse Map and defeat it.
-# Reward
+
+## Reward
 \- None -
 
 #
-![[Prophecy_inventory_icon.png]]
-
 #
 ---
 ## Tags

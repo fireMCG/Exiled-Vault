@@ -1,13 +1,14 @@
-![[Exiled Vault UniqueItems/_Images/PoE2 - Periphery.webp]]
+![[Exiled Vault Unique Items/_Images/PoE2 - Periphery.webp]]
 
-# Flavour Text
+#
+## Flavour Text
 As the Maji approached the edge of Nothingness, she strung
 fragments of the Wildwood's carcass together. When she
 nocked her arrow, she pulled upon the elements of life itself.
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE2
 #Interesting 

@@ -1,11 +1,12 @@
-![[Exiled Vault UniqueItems/_Images/PoE1 - Replica Veil of the Night.png]]
+![[Exiled Vault Unique Items/_Images/PoE1 - Replica Veil of the Night.png]]
 
-# Flavour Text
+#
+## Flavour Text
 "Prototype #722 might look like a helmet, but I believe it to be something else entirely.
 The visions it shows the wearer... are beyond mortal endurance..."
 
 #
 ---
-# Tags
+## Tags
 #Category/UniqueItem
 #PoE1

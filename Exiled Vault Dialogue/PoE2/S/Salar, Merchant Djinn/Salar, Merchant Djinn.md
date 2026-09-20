@@ -1,4 +1,5 @@
-# Dialogue
+## Dialogue
+
 #### DjinnTrader_SpecialIdle_01_Random
 Now what {was} her name? So beautiful... so long ago...
 ![[Exiled Vault Dialogue/PoE2/S/Salar, Merchant Djinn/_Audio/Salar, Merchant Djinn - DjinnTrader_SpecialIdle_01_Random.ogg]]
@@ -397,6 +398,6 @@ Ah, what do you seek?
 
 #
 ---
-# Tags
+## Tags
 #Category/Dialogue
 #PoE2

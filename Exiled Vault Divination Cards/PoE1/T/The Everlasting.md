@@ -1,15 +1,17 @@
 ![[Exiled Vault Divination Cards/_Images/PoE1 - The Everlasting.png]]
 
-# Flavour Text
+#
+## Flavour Text
 The Atlas invites us all to a lifelong journey.
 It would be unwise to overstay our welcome.
 
-# Reward
+#
+## Reward
 Originator Incarnation Item
 
 #
 ---
-# Tags
+## Tags
 #Category/DivinationCard 
 #PoE1
 #Interesting 
