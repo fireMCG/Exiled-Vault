@@ -18,4 +18,4 @@ Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault UniqueItems/PoE1/W/W
 #Character/Doedre 
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-Low 

@@ -9,3 +9,4 @@ As you guided me, now I guide others.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

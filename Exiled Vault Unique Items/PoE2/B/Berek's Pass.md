@@ -14,4 +14,4 @@ And Frost's tortured moans."
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Extreme 

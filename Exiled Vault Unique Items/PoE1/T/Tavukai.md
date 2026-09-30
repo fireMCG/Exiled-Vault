@@ -11,3 +11,4 @@ Kaom seized her sacrifice, and in doing so, seized victory."
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

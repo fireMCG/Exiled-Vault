@@ -10,4 +10,4 @@ It is merely taking a different route to the sea.
 #Category/Reliquary/Vault
 #PoE1 
 #Society/VaalEmpire
-#Interesting 
+#Interesting-Med 

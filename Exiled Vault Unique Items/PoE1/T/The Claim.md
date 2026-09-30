@@ -12,3 +12,4 @@ by those who already dwelt there."
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

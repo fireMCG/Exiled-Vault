@@ -12,3 +12,4 @@ power or strength, but simple flexibility and control.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting-Med 

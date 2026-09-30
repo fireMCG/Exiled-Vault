@@ -9,3 +9,4 @@ A mountain fortress safe from the storm.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

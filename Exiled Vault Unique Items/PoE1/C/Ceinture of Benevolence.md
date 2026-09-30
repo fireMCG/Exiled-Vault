@@ -11,4 +11,4 @@ Our god demands it.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-High 

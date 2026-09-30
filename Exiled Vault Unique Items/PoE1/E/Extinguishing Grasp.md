@@ -10,3 +10,4 @@ but it will cost him everything.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

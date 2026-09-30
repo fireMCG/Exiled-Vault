@@ -12,3 +12,4 @@ A wounded land plays host to an infection.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

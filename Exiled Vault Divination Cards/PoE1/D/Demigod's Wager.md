@@ -16,4 +16,4 @@ Orb of Annulment
 #Character/God/Sin
 #Concept/Luck
 #PoE1
-#Interesting 
+#Interesting-Extreme 

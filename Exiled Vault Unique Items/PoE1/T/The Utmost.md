@@ -9,3 +9,4 @@ He who stands on the loftiest peak is bound to be seen...
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

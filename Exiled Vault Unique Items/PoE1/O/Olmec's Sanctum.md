@@ -12,3 +12,4 @@ And of this hidden temple, only legends remain.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

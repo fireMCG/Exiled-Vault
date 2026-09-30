@@ -17,4 +17,4 @@ And one cannot catch the golden sunlight without casting a bitter shadow."
 #Concept/Shadow
 #Concept/Sun
 #PoE1
-#Interesting 
+#Interesting-Med 

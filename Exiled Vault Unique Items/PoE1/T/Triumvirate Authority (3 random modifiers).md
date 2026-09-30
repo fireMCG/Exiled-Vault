@@ -10,3 +10,4 @@ The priest that carried Yaomac's sigil was granted one boon by each serpentine h
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1
+#Interesting-Low 

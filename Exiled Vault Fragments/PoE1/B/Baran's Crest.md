@@ -20,4 +20,4 @@ Shift click to unstack.
 #Category/Fragment
 #Character/Conqueror/Baran
 #PoE1
-#Interesting 
+#Interesting-Low 

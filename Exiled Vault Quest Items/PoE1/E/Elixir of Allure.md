@@ -11,4 +11,4 @@ Famous for her many lovers, those that did not come willing to Atziri, came by l
 #Character/Atziri
 #PoE1
 #Society/VaalEmpire
-#Interesting 
+#Interesting-Low 

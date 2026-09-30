@@ -11,3 +11,4 @@ A window into limitless darkness... and loneliness.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

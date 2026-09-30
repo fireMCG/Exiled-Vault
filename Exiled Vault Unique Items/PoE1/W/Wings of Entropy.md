@@ -9,3 +9,4 @@ Fire and Anarchy are the most reliable agents of change.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

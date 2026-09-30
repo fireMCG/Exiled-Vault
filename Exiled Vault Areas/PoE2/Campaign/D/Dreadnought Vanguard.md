@@ -11,3 +11,4 @@ History is written in the blood of tyrants.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

@@ -14,4 +14,4 @@
 #Concept/Loyalty
 #Society/VaalEmpire
 #PoE1
-#Interesting 
+#Interesting-Med 

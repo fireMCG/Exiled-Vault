@@ -5,13 +5,8 @@
 Many men throughout history have claimed to stand against evil. Only a few truly meant it.
 
 #
-## Effects
-Gain no inherent bonus from Intelligence
-1% increased Evasion Rating per 2 Intelligence
-
-#
 ---
 ## Tags
-#Attributes/Missing 
 #Category/Keystone
 #PoE2
+#Interesting 

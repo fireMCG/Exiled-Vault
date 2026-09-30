@@ -9,3 +9,4 @@ She stands grim, wreathed in flame, awaiting the crusader's call.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

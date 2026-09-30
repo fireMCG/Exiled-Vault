@@ -10,3 +10,4 @@ Mad men toil under smoking skies to pervert a holy sanctum.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

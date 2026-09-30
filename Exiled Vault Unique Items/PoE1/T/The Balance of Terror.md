@@ -11,3 +11,4 @@ For one to rise, the other must fall.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

@@ -10,3 +10,4 @@ and death laid waste to all around him.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

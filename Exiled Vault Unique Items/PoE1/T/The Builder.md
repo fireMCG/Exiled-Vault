@@ -11,3 +11,4 @@ but the one it invented to pass the time."
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

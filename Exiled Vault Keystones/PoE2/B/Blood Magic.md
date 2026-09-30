@@ -5,14 +5,8 @@
 Lay open your veins, and draw power from your own spilled life.
 
 #
-## Effects
-You have no Mana
-Skill Mana Costs Converted to Life Costs
-
-#
 ---
 ## Tags
 #Category/Keystone
-#Category/Keystone
 #PoE2
-#Interesting 
+#Interesting-Med 

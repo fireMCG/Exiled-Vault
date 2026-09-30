@@ -19,4 +19,4 @@ Corrupted
 #Society/Karui/Tribe/Ngamahu
 #Society/VaalEmpire
 #PoE1
-#Interesting 
+#Interesting-High 

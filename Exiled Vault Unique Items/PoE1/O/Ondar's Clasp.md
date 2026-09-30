@@ -10,3 +10,4 @@ A single knife stroke fells an empire.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

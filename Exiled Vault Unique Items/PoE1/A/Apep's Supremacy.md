@@ -12,4 +12,4 @@ Give him your body, and your burdens will follow.
 #Concept/Body/Flesh
 #Society/VaalEmpire
 #PoE1
-#Interesting 
+#Interesting-Med 

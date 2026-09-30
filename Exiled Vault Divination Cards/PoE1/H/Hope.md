@@ -19,4 +19,4 @@ Corrupted
 #Concept/Light
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-High 

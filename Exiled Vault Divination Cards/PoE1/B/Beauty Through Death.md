@@ -20,4 +20,4 @@ Atziri's Reflection
 #Concept/Mirror
 #Society/VaalEmpire
 #PoE1
-#Interesting 
+#Interesting-Extreme 

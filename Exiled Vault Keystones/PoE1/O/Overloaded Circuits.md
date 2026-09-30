@@ -6,11 +6,8 @@
 Somehow, though, I doubt you'll be deterred."
 
 #
-## Effects
-Your Maps are opened with 5 additional random Unallocated Notable Atlas Passives
-
-#
 ---
 ## Tags
 #Category/Keystone
 #PoE1
+#Interesting 

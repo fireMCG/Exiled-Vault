@@ -14,4 +14,4 @@ Area contains memories of 20 Atzoatl Architects
 #Attributes/Timeline 
 #Category/Area/VaalSide
 #Society/VaalEmpire 
-#Interesting 
+#Interesting-High 

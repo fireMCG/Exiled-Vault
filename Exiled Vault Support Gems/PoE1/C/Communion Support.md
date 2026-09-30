@@ -9,4 +9,4 @@ That diversity would empower the Syndicate - and the increased number of dispens
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Med 

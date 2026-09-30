@@ -9,4 +9,4 @@ in a land where none lived long.
 ## Tags
 #Category/Area/Atlas
 #PoE1
-#Interesting
+#Interesting-Low 

@@ -9,3 +9,4 @@ The wyrm draws warmth from the fires of desire.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

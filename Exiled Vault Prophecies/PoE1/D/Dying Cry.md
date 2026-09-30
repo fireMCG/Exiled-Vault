@@ -19,4 +19,4 @@ Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault UniqueItems/PoE1/D/D
 #Character/Gravicius
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-Low 

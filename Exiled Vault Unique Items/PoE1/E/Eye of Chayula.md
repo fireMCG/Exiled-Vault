@@ -9,3 +9,4 @@ Never blinking, always watching.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

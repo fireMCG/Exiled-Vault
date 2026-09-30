@@ -20,4 +20,4 @@ Elder Item
 #Concept/Night/Dream
 #Concept/Undead
 #PoE1
-#Interesting 
+#Interesting-Med 

@@ -9,3 +9,4 @@ At the core of the warrior's spirit, a fierce determination burns, igniting thei
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

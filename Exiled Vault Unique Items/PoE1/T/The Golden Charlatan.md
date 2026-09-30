@@ -11,3 +11,4 @@ spill our blood in pursuit of power?"
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

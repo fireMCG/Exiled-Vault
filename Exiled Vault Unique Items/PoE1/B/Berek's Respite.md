@@ -23,4 +23,4 @@ And fled.
 #League/Domination
 #League/Nemesis
 #PoE1
-#Interesting 
+#Interesting-Extreme 

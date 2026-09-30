@@ -10,3 +10,4 @@ they empower the strong.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

@@ -9,3 +9,4 @@ The higher you soar, the further you must fall.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

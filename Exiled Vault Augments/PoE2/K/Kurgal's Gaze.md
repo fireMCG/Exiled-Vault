@@ -11,3 +11,4 @@ The Blackblooded seeks dominion for its own sake.
 #Character/Kurgal
 #PoE2
 #Society/Lightless
+#Interesting 

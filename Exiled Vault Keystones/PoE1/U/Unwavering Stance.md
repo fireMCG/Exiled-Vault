@@ -6,13 +6,7 @@ Stand your ground, child, keep your senses.
 The pain is fleeting, but victory is forever.
 
 #
-## Effects
-Cannot Evade enemy Attacks
-Cannot be Stunned
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE1

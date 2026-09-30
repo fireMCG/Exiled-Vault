@@ -8,4 +8,4 @@ The Black Sekhema was a formidable fighter alongside her dekhara, but she was un
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Low 

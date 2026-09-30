@@ -17,4 +17,4 @@ The Ngamahu Tribe believes the Karui will be reforged in a volcano at the end of
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Ngamahu
-#Interesting 
+#Interesting-Extreme 

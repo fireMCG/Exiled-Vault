@@ -11,3 +11,4 @@ a captain sailing his own ship into rocks.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

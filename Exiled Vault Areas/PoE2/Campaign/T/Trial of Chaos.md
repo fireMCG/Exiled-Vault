@@ -10,3 +10,4 @@ Here, all challengers were welcome, regardless of wealth or station.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

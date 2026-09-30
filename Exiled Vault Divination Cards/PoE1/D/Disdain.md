@@ -18,4 +18,4 @@ Delirium Orb
 #Concept/Religion/Hell
 #League/Delirium
 #PoE1
-#Interesting 
+#Interesting-Med 

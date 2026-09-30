@@ -9,3 +9,4 @@ See creation as it is, energetic and storming.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

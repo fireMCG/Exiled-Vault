@@ -11,4 +11,4 @@ The Liege of the Lightless seeks dominion for the authority it brings.
 #Character/Amanamu
 #PoE2
 #Society/Lightless
-#Interesting 
+#Interesting-Low 

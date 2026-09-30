@@ -10,4 +10,4 @@ needed never fear her sting.
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Med 

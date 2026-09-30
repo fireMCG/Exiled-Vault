@@ -16,4 +16,4 @@ Shaper + Hunter Item
 ## Tags
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-Low 

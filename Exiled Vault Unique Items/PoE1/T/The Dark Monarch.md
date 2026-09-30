@@ -11,3 +11,4 @@ How it chokes the heart. Withers the soul. Judge me, and you judge yourself."
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

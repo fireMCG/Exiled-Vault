@@ -10,3 +10,4 @@ Those who would be Sekhema had to prove themselves exceptional.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

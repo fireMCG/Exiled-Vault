@@ -11,3 +11,4 @@ The fifth river is but a distant memory on tale-women's tongues.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

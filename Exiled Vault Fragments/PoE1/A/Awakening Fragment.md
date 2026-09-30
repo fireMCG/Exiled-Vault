@@ -20,4 +20,4 @@ Use four of these in a personal Map Device to open Portals to The Eye of the Sto
 #Category/Fragment
 #Character/Conqueror/Sirus
 #PoE1
-#Interesting 
+#Interesting-Med 

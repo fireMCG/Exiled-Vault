@@ -12,4 +12,4 @@ feed on your pain.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Med 

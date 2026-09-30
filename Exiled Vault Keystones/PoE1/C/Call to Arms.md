@@ -5,13 +5,7 @@
 Follow me, and I will show you strength!
 
 #
-## Effects
-Your Warcries do not grant Buffs or Charges to You
-100% more Warcry Duration
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE1

@@ -12,3 +12,4 @@ that pushed a monster to power.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

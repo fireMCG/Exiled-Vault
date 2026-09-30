@@ -21,4 +21,4 @@ crystals to rupture and grow throughout his doomed citadel.
 #Concept/Tyranny
 #PoE2
 #Society/Primeval
-#Interesting 
+#Interesting-High 

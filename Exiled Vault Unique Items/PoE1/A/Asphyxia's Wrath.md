@@ -14,3 +14,4 @@ Upon the frozen wasteland.
 #Concept/Element/Ice
 #Concept/Mist
 #PoE1
+#Interesting-Low 

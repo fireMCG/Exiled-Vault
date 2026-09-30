@@ -23,4 +23,4 @@ Farrul Item
 #Concept/Night
 #Concept/Shadow
 #PoE1
-#Interesting 
+#Interesting-Med 

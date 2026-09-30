@@ -9,4 +9,4 @@ The greatest of guardians make the greatest of sacrifices.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Med 

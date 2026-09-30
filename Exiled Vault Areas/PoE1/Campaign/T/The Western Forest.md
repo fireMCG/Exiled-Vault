@@ -12,3 +12,4 @@ Bathed in the cool light of obsession.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

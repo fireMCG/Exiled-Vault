@@ -5,13 +5,7 @@
 Your grandchildren will awaken screaming in memory of what I utter today.
 
 #
-## Effects
-You can apply an additional Curse
-Double Activation Delay of Curses
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE2

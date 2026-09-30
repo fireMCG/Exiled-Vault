@@ -5,11 +5,6 @@
 Let the whistling of arrows and stones be your music.
 
 #
-## Effects
-Evasion Rating is Doubled against Projectile Attacks
-25% less Evasion Rating against Melee Attacks
-
-#
 ---
 ## Tags
 #Category/Keystone

@@ -9,3 +9,4 @@ New life will follow, but first come the flames.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

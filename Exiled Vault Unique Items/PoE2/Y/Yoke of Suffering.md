@@ -10,4 +10,4 @@ Let the unrepentant be dragged ever downwards by the weight of their sins.
 #Category/UniqueItem
 #Concept/Sin
 #PoE2
-#Interesting 
+#Interesting-Med 

@@ -11,4 +11,4 @@ now nothing more than a passing wonder.
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Med 

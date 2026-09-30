@@ -13,4 +13,4 @@ The cure is simple.
 #Concept/Life/Mortality
 #Society/VaalEmpire
 #PoE2
-#Interesting 
+#Interesting-Med 

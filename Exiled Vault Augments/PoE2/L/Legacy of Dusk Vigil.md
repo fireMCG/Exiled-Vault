@@ -11,3 +11,4 @@ no idea what really lurks underneath.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

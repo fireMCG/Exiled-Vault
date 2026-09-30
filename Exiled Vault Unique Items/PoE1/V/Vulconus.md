@@ -12,3 +12,4 @@ with a thick, black scab.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

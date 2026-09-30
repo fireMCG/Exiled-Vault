@@ -19,4 +19,4 @@ Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault UniqueItems/PoE1/F/F
 #Concept/Animal/Insect/Spider 
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-Low 

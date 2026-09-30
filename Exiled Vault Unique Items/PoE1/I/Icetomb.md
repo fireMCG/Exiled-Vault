@@ -11,4 +11,4 @@ the world will perish in ice.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Extreme 

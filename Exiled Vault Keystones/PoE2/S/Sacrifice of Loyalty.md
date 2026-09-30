@@ -5,14 +5,8 @@
 I pledge my soul to you, Lord of Liches, and vow to end the scourge of Life itself!
 
 #
-## Effects
-You deal 1% more Damage per 2 total Power of your Undead Minions
-Undead Minions have 25% less maximum Life
-
-#
 ---
 ## Tags
-#Attributes/Missing 
 #Category/Keystone
 #PoE2
 #Interesting 

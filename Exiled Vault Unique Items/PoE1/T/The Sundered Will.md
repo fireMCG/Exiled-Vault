@@ -11,3 +11,4 @@ continuing to dream, and know not why.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

@@ -13,4 +13,4 @@ I must have it if I am to return my family to its rightful place.
 #League/Heist
 #PoE1 
 #Society/Ezomyte 
-#Interesting 
+#Interesting-Low 

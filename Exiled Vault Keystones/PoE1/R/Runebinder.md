@@ -5,13 +5,8 @@
 An arcane pattern, secrets bound. Blind truth splinters with lies abound.
 
 #
-## Effects
--1 to maximum number of Summoned Totems
-You can have an additional Brand Attached to an Enemy
-
-#
 ---
 ## Tags
 #Category/Keystone
-#Category/Keystone
 #PoE1
+#Interesting 

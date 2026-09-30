@@ -11,4 +11,4 @@ Once flushed with the warmness of blood, now festering; consumed by fungal rot.
 ## Tags
 #Category/Area/Campaign
 #PoE1
-#Interesting
+#Interesting-Low 

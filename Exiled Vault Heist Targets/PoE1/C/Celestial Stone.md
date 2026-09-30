@@ -14,4 +14,4 @@ but the men who are guarding it obviously believe the tale, so I do, too.
 #Concept/Sky 
 #League/Heist
 #PoE1 
-#Interesting 
+#Interesting-Med 

@@ -10,4 +10,4 @@ The strongest souls are forged through struggle and defeat.
 #Category/UniqueItem
 #PoE2
 
-#Interesting 
+#Interesting-Low 

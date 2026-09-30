@@ -10,4 +10,4 @@ Strangely, a third were not present, including Uhtred himself.
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Med 

@@ -10,3 +10,4 @@ giving birth to four lightning children of hate.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

@@ -9,4 +9,4 @@ Fight in the traditional Way, or not at all!
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Low 

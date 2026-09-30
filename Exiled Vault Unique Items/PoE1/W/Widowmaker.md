@@ -10,3 +10,4 @@ For she shall never let you go.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

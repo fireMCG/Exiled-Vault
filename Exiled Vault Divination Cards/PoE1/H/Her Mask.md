@@ -18,4 +18,4 @@ Sacrifice Fragment
 #Concept/Sin/Vanity
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-Extreme 

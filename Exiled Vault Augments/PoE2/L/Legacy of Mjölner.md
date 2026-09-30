@@ -11,3 +11,4 @@ knight that hammer, which was later runed by smiths."
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

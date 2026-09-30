@@ -8,5 +8,7 @@ and named it Lorrata. Its strongest root became a weapon...
 #
 ---
 ## Tags
+#Attributes/Timeline 
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

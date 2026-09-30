@@ -20,4 +20,4 @@ Shift click to unstack.
 #Category/Fragment/Scarab
 #League/Abyss
 #PoE1
-#Interesting 
+#Interesting-Med 

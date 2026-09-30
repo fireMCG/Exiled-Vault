@@ -10,4 +10,4 @@ Death only brings you closer.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-High 

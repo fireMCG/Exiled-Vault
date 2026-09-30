@@ -9,3 +9,4 @@ See creation as it will be, frozen and silent.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

@@ -12,4 +12,4 @@ To work backwards, to make the tangible intangible, is to step into the mind of 
 #Category/UniqueItem
 #PoE1
 #Society/VaalEmpire
-#Interesting 
+#Interesting-Extreme 

@@ -10,3 +10,4 @@ refuge to any and all who needed it.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

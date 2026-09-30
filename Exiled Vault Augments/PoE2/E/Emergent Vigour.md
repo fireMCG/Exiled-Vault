@@ -11,3 +11,4 @@ crushed the creature beneath its gift.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

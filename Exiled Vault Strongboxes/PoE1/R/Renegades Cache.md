@@ -11,3 +11,4 @@ breaking any morals and laws that might stand in the way.
 ## Tags
 #Category/Strongbox
 #PoE1 
+#Interesting 

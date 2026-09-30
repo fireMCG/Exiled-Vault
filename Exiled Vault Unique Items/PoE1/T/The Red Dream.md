@@ -10,3 +10,4 @@ and spill into the land we have watched forever.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

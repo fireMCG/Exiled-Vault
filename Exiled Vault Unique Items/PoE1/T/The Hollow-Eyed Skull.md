@@ -11,3 +11,4 @@ and the earth is salted by rivers of blood.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

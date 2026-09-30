@@ -10,3 +10,4 @@ Flee before the walking storm.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

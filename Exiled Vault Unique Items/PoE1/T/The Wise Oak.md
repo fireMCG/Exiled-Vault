@@ -12,3 +12,4 @@ Nature is an eternal tug of war.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

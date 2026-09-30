@@ -6,14 +6,8 @@ Fear not the warrior that has practiced ten thousand techniques once.
 Fear the warrior that has practiced one technique ten thousand times.
 
 #
-## Effects
-40% more Attack Damage if Accuracy Rating is higher than Maximum Life
-Never deal Critical Strikes
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE1
 #Interesting 

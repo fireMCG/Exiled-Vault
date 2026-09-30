@@ -10,3 +10,4 @@ To join the great avalanche.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

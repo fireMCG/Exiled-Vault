@@ -12,4 +12,4 @@ Within His reach, we are safe."
 ## Tags
 #Category/SupportGem/Lineage 
 #PoE2
-#Interesting 
+#Interesting-Extreme 

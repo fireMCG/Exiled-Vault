@@ -9,4 +9,4 @@ Tabula Rasa
 #Concept/Virtue/Humility
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-Med 

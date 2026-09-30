@@ -18,4 +18,4 @@ Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault UniqueItems/PoE1/B/B
 #Concept/Void 
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-Low 

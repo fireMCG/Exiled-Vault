@@ -12,3 +12,4 @@ and let black smoke sweep the Sinners away."
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

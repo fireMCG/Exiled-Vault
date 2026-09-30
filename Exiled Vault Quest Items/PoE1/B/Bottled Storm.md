@@ -17,4 +17,4 @@ offerings of adoration. We hope that, in its mercy, it shall pass us by."
 #Concept/Tyranny
 #PoE1
 #Society/Maraketh
-#Interesting 
+#Interesting-High 

@@ -12,3 +12,4 @@ Allegiances falter like the waning of the moon.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

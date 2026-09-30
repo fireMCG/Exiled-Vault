@@ -15,4 +15,4 @@ A blessing upon all those trees touched by the sacred spirit.
 #League/Ancestor
 #PoE1 
 #Society/Karui 
-#Interesting 
+#Interesting-High 

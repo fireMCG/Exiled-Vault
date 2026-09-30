@@ -11,3 +11,4 @@ And she was still.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

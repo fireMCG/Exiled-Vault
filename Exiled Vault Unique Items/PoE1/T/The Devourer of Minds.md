@@ -15,3 +15,4 @@ but hollow husks filled with virulent void...
 #Concept/Void
 #Concept/Decay
 #PoE1
+#Interesting-High 

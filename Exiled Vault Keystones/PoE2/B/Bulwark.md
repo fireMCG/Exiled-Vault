@@ -5,13 +5,7 @@
 In battle, certainty is worth a little pain.
 
 #
-## Effects
-Dodge Roll cannot Avoid Damage
-Take 30% less Damage from Hits while Dodge Rolling
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE2

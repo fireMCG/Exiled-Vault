@@ -13,4 +13,4 @@ The head is where the Man is.
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Med 

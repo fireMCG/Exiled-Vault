@@ -9,4 +9,4 @@ As a gift or as punishment, the Empire will have your blood.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Med 

@@ -10,3 +10,4 @@ And the black lies wrapped around your heart
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

@@ -7,15 +7,8 @@ Beyond the veil of death,
 there burns a black fire.
 
 #
-## Effects
-Fire Spells Convert 100% of Fire Damage to Chaos Damage
-Chaos Damage from Fire Spells Contributes to Flammability and Ignite Magnitudes
-Ignite inflicted with Fire Spells deals Chaos Damage instead of Fire Damage
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE2
 #Interesting 

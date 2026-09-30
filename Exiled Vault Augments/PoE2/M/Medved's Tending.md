@@ -11,3 +11,4 @@ and the unwanted could walk a path to redemption.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

@@ -19,4 +19,4 @@ Corrupted
 #Concept/Night
 #Concept/Sun
 #PoE1
-#Interesting 
+#Interesting-Med 

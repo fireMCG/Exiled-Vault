@@ -12,4 +12,4 @@ And into darkness send it.
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Extreme 

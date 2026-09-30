@@ -10,3 +10,4 @@ and perhaps you shall be found worthy.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

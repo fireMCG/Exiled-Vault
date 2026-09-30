@@ -21,4 +21,4 @@ Shift click to unstack.
 #Character/Eldritch/Elder
 #Concept/Decay
 #PoE1
-#Interesting 
+#Interesting-Med 

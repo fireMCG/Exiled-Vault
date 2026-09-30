@@ -12,4 +12,4 @@ Creation, the act of Matter Metamorphosis, is the only secret worth discovering.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Extreme 

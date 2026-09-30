@@ -11,4 +11,4 @@ and choose our moments to move wisely.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Med 

@@ -10,4 +10,4 @@ Hissing arrows from the dark.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Low 

@@ -11,3 +11,4 @@ Primordial ruins guard antiquarian secrets.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

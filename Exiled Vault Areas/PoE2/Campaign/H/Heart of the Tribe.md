@@ -10,3 +10,4 @@ Blood fever rages in the flame-cast night.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

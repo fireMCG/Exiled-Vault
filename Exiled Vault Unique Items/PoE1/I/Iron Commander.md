@@ -10,3 +10,4 @@ without the usual depravities of necromancy.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

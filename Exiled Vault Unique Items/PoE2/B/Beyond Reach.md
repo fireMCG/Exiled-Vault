@@ -10,4 +10,4 @@ that protects us from ourselves.
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Med 

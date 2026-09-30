@@ -9,3 +9,4 @@ Ill will is the greatest of burdens.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

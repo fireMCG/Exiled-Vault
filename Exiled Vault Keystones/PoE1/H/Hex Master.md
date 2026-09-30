@@ -5,13 +5,7 @@
 Hear these words but once and they will echo in your nightmares forever.
 
 #
-## Effects
-Your Hexes have infinite Duration
-20% less Effect of your Curses
-
-#
 ---
-## Tags
-#Category/Keystone
+## Tag
 #Category/Keystone
 #PoE1

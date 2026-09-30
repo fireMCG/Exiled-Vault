@@ -12,3 +12,4 @@ And Ventor met his latest trophy.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

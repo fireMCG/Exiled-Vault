@@ -8,4 +8,4 @@
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Med 

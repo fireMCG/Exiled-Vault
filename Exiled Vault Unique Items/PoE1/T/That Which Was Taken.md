@@ -9,3 +9,4 @@ Faith given under false pretenses still carries the same power.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

@@ -15,4 +15,4 @@ Belly of the Beast
 #Concept/Beast
 #Concept/Communion
 #PoE1
-#Interesting 
+#Interesting-Low 

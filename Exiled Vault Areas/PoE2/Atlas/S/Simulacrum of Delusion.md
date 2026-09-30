@@ -7,3 +7,4 @@ Exactly as you remember it...
 ## Tags
 #Category/Area/Atlas
 #PoE2
+#Interesting 

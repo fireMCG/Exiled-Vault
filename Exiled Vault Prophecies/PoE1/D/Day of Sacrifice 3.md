@@ -17,4 +17,4 @@ The Vaal Vessel contains an additional Sacrifice at Dusk fragment.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-High 

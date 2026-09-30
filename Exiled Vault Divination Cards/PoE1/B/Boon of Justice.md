@@ -15,4 +15,4 @@ Offering to the Goddess
 #Concept/Goddess
 #Concept/Religion/Devotion
 #PoE1
-#Interesting 
+#Interesting-Low 

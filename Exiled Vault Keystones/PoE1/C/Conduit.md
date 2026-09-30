@@ -5,12 +5,7 @@
 To me, brave companions! Feel my radiance flow through you!
 
 #
-## Effects
-Share Endurance, Frenzy and Power Charges with nearby party members
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE1

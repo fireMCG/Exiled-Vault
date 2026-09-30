@@ -23,4 +23,4 @@ Shaper + Elder Item
 #Concept/Jewelry/Ring
 #Concept/Light
 #PoE1
-#Interesting 
+#Interesting-High 

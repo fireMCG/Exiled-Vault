@@ -10,4 +10,4 @@ Man slaughtered man, never suspecting the madness lurking under the surface migh
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Med 

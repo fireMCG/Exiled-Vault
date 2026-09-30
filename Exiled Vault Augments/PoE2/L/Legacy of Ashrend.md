@@ -10,3 +10,4 @@ so long as Cirel of Tarth stood watch.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

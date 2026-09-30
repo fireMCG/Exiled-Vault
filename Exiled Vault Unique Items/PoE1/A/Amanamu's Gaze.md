@@ -12,4 +12,4 @@ The Liege of the Lightless seeks dominion over the surface dwellers.
 #Concept/Dominion
 #Society/Lightless
 #PoE1
-#Interesting 
+#Interesting-Low 

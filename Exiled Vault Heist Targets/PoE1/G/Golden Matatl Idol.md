@@ -14,4 +14,4 @@ and Matatl soared above their best.
 #League/Heist
 #PoE1 
 #Society/VaalEmpire 
-#Interesting 
+#Interesting-Low 

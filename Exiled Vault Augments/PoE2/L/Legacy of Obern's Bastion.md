@@ -11,3 +11,4 @@ they left him alive. Others were not so lucky.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

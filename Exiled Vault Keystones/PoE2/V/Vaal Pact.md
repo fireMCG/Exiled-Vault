@@ -5,14 +5,8 @@
 My ancestral pact was sealed. Forevermore, I would gain sustenance only from the ravaged flesh of my enemies.
 
 #
-## Effects
-Life Leech is Instant
-Cannot use Life Flasks
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE2
 #Interesting 

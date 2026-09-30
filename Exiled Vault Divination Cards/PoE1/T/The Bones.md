@@ -18,4 +18,4 @@ Corrupted
 #Concept/Prison
 #Concept/Virtue/Gem
 #PoE1
-#Interesting 
+#Interesting-Med 

@@ -12,3 +12,4 @@ Stands long after all else falls.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

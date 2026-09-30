@@ -19,4 +19,4 @@ Upgrades [[The Iron Fortress]] to [[The Iron Fortress]] upon completion.
 #Concept/Tyranny 
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-Low 

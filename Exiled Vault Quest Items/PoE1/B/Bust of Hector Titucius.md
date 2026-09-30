@@ -13,4 +13,4 @@ The Emperor honours Hector Titucius as Supreme Servant.
 #Character/HectorTitucius
 #PoE1
 #Society/EternalEmpire
-#Interesting 
+#Interesting-Med 

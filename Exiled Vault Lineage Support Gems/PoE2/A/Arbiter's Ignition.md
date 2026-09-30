@@ -13,4 +13,4 @@ trying to do? It seems they kept trying... kept experimenting...
 #Character/Unknown/ArbiterOfAsh
 #PoE2
 #Society/Precursor
-#Interesting 
+#Interesting-Extreme 

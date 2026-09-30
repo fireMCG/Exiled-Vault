@@ -9,4 +9,4 @@ Nothing spreads fear faster than the unknown.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Low 

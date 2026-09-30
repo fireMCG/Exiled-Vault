@@ -10,3 +10,4 @@ but the Maji rejected that temptation as well.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High

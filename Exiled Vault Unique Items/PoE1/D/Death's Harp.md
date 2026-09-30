@@ -12,4 +12,4 @@ The Reaper's Song, the Harp of Death.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Low 

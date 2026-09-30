@@ -10,3 +10,4 @@ My Price is your Blood
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

@@ -10,4 +10,4 @@ Dark energies lurk among ancient bones.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
-#Interesting 
+#Interesting-Low 

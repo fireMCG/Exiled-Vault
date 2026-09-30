@@ -12,3 +12,4 @@ Walls of wood strain against the tide as Death knocks thrice.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

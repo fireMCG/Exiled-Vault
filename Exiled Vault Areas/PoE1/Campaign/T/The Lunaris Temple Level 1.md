@@ -11,3 +11,4 @@ Depravity is boundless.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

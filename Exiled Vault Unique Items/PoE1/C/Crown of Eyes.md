@@ -12,4 +12,4 @@ your mind is destroyed.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Med 

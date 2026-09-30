@@ -10,3 +10,4 @@ Just simpler motivations.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

@@ -10,4 +10,4 @@ She was clad in ice, but the village was ash.
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Med 

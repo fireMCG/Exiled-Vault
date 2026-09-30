@@ -13,4 +13,4 @@ while the victim was still alive. Perhaps this was the key."
 #Character/Zerphi
 #PoE2
 #Society/VaalEmpire
-#Interesting 
+#Interesting-Med 

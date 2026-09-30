@@ -11,4 +11,4 @@ The Vaal warred not with their neighbours, but with death itself.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
-#Interesting 
+#Interesting-High 

@@ -14,4 +14,4 @@ All that lives is destined to serve.'
 #Category/UniqueItem
 #PoE1
 #Society/VaalEmpire
-#Interesting 
+#Interesting-Extreme 

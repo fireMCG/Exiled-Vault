@@ -9,3 +9,4 @@ Though we cannot touch; one thought, one wish, through centuries alone in darkne
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

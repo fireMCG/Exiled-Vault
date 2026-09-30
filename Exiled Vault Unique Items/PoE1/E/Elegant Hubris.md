@@ -9,3 +9,4 @@ They believed themselves better than the past, but that confidence brought about
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

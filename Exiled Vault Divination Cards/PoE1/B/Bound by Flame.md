@@ -14,4 +14,4 @@ Quality: +20%
 ## Tags
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-Low 

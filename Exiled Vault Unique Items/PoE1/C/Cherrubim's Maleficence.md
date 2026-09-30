@@ -13,4 +13,4 @@ to celebrate the massacre.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Extreme 

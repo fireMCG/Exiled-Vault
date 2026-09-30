@@ -11,4 +11,4 @@ Face it, or curse your bloodline for all eternity.
 #Category/UniqueItem
 #PoE1
 #Society/VaalEmpire
-#Interesting 
+#Interesting-Med 

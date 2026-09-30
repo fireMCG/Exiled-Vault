@@ -13,4 +13,4 @@ The harvest ended, the floods began.
 ## Tags
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-Med 

@@ -5,3 +5,4 @@
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

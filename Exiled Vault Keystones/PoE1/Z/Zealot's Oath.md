@@ -5,13 +5,8 @@
 Tear my flesh and splinter my bones. You will never break my spirit.
 
 #
-## Effects
-Life Regeneration is applied to Energy Shield instead
-
-#
 ---
 ## Tags
 #Category/Keystone
-#Category/Keystone
 #PoE1
-#Interesting 
+#Interesting-Low 

@@ -10,3 +10,4 @@ As with all things, the Karui used its wood for war.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

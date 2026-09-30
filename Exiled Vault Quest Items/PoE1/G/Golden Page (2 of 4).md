@@ -14,4 +14,4 @@ A communion... but with what? By all accounts, it wasn't God that the Vaal were 
 #Concept/Communion
 #PoE1
 #Society/VaalEmpire
-#Interesting
+#Interesting-High 

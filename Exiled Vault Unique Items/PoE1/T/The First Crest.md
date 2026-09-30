@@ -11,3 +11,4 @@ deny." - Lycia, the Heretic
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

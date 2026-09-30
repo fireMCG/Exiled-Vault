@@ -18,4 +18,4 @@ We shall see whether he was a prophet - or a charlatan.
 #League/Heist
 #PoE1 
 #Society/EternalEmpire 
-#Interesting 
+#Interesting-Extreme 

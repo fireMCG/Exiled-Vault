@@ -9,3 +9,4 @@ The great city of storms, washed away by Vinktar's thirst for power.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

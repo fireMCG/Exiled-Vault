@@ -10,3 +10,4 @@ It just comes for some much sooner.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

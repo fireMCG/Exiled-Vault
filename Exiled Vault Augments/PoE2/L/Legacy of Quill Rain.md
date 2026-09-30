@@ -11,3 +11,4 @@ fight, and you shall live free."
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

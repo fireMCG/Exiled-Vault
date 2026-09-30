@@ -12,4 +12,4 @@ Thus, the Third Pact was born.
 #Attributes/Timeline
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-High 

@@ -10,3 +10,4 @@ Winter's white blanket swaddles all.
 #Category/UniqueItem
 #Concept/Season/Winter
 #PoE1
+#Interesting-Low 

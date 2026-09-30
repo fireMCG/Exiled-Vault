@@ -12,4 +12,4 @@ have made it my life's work. There must be a deeper meaning!
 #Character/MarcineClavus
 #League/Heist
 #PoE1 
-#Interesting 
+#Interesting-Low 

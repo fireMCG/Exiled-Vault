@@ -7,3 +7,4 @@ The Vaal who survived the Cataclysm must now survive each other.
 ## Tags
 #Category/Area/Atlas/Anomaly
 #PoE2
+#Interesting 

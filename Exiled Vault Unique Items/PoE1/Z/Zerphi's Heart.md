@@ -10,4 +10,4 @@ We are incapable of change without sacrifice, for we are both the iron and the f
 #Category/UniqueItem
 #PoE1
 #Society/VaalEmpire
-#Interesting 
+#Interesting-Med 

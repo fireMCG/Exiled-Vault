@@ -9,4 +9,4 @@ Fracturing crystals here seems to make them stronger elsewhere.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Med 

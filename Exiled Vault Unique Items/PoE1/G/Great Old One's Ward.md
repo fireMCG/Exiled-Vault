@@ -10,3 +10,4 @@ compared to the horrors we haven't.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

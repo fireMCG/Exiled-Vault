@@ -11,3 +11,4 @@ As long as the soul is unfettered, so is the body.
 #Concept/Body/Flesh
 #Concept/Soul
 #PoE1
+#Interesting-Low 

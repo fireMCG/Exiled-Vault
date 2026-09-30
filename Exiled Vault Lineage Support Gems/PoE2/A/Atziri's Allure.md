@@ -15,4 +15,4 @@ away from her mirror meant more than their lives.
 #Concept/Mirror
 #PoE2
 #Society/VaalEmpire
-#Interesting 
+#Interesting-High 

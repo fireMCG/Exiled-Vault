@@ -9,6 +9,8 @@ we shall burn the enemy for warmth!"
 
 #
 ---
-## Tags
+## Tags
+
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

@@ -9,3 +9,4 @@ The secret of the elements lies within a square triangle.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

@@ -9,3 +9,4 @@ The spirit hungers for the flesh.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

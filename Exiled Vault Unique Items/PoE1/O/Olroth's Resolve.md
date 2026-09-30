@@ -13,3 +13,4 @@ he fights for you!
 #Category/UniqueItem
 #Character/Olroth
 #PoE1
+#Interesting 

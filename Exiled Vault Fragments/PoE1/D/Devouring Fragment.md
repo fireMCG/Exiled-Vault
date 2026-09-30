@@ -22,4 +22,4 @@ Use four of these in a personal Map Device to open Portals to The Absence of Sym
 #Concept/Tangle
 #Concept/World
 #PoE1
-#Interesting 
+#Interesting-High 

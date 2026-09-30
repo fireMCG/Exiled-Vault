@@ -11,3 +11,4 @@ Like any part of nightmare, it has found a way to make its price... acceptable."
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

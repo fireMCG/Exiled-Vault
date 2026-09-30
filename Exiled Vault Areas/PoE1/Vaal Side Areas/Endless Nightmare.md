@@ -12,4 +12,4 @@ Those citizens of the Vaal Empire that thought they survived the Cataclysm soon 
 #Attributes/Timeline 
 #Category/Area/VaalSide
 #Society/VaalEmpire 
-#Interesting
+#Interesting-Low 

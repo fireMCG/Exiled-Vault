@@ -20,4 +20,4 @@
 #Attributes/Timeline 
 #Category/Lore/Environmental
 #PoE1
-#Interesting 
+#Interesting-High 

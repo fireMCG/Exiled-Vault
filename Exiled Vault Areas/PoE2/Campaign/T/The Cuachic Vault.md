@@ -10,3 +10,4 @@ Deep within the vault, the Vaal lived on in solitude.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

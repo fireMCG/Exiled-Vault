@@ -9,4 +9,4 @@ Fear is highly infectious.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Low 

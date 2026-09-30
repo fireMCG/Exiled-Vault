@@ -9,3 +9,4 @@ Skin like steel tempered by bright flames.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

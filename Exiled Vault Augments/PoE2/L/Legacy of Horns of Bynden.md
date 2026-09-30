@@ -11,3 +11,4 @@ they left two Eternal soldiers gutted.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

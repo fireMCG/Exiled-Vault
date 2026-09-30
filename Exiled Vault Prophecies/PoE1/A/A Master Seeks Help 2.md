@@ -17,4 +17,4 @@ You will find Einhar and complete his mission.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-Low 

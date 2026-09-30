@@ -5,12 +5,8 @@
 Legend tells of bows so powerful that only giants could draw them back.
 
 #
-## Effects
-Strength's Damage bonus applies to Projectile Attack Damage as well as Melee Damage
-
-#
 ---
 ## Tags
 #Category/Keystone
-#Category/Keystone
 #PoE1
+#Interesting 

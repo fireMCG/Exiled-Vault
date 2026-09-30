@@ -11,3 +11,4 @@ The last Queen of the Karui gave up power willingly.
 #Concept/Queen
 #Society/Karui
 #PoE1
+#Interesting-Med

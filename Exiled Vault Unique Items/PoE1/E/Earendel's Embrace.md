@@ -12,3 +12,4 @@ some will go up, some down, filled with misery.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

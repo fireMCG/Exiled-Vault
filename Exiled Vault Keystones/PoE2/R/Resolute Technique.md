@@ -5,13 +5,7 @@
 Great tacticians learn that consistency often trumps potential.
 
 #
-## Effects
-Accuracy Rating is Doubled
-Never deal Critical Hits
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE2

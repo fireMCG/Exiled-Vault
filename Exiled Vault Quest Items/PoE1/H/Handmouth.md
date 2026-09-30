@@ -9,4 +9,4 @@ We crawl on our faces in burning ash, choking, eating, until our throats bleed.
 ## Tags
 #Category/QuestItem
 #PoE1
-#Interesting
+#Interesting-Low 

@@ -13,3 +13,4 @@ That roused him to vengeance."
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

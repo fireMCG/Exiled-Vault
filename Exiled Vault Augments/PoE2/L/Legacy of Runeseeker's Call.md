@@ -11,3 +11,4 @@ he'll make his legacy one for the ages."
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

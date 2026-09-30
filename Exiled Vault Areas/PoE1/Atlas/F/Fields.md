@@ -9,4 +9,4 @@ Now they lie under the soil.
 ## Tags
 #Category/Area/Atlas
 #PoE1
-#Interesting
+#Interesting-Low 

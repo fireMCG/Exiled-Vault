@@ -17,4 +17,4 @@ Drops [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault UniqueItems/PoE1/H/Hine
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-High 

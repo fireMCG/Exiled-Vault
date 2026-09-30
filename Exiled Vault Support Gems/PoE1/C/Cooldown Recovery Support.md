@@ -9,4 +9,4 @@ Nearest I can tell, the Arcana exhibits a blast of wrath once it has been fully 
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-High 

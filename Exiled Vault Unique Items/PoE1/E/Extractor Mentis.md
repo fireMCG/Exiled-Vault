@@ -10,3 +10,4 @@ the soul may yet scream on.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

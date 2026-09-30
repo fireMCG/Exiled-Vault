@@ -20,4 +20,4 @@ One Corruption Implicit
 #Attributes/Timeline 
 #Category/DivinationCard 
 #PoE1
-#Interesting 
+#Interesting-Extreme 

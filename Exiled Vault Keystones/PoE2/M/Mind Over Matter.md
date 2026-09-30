@@ -5,14 +5,8 @@
 While the mind endures, so too will the body.
 
 #
-## Effects
-All Damage is taken from Mana before Life
-50% less Mana Recovery Rate
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE2
 #Interesting 

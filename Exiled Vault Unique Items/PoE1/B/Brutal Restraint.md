@@ -9,4 +9,4 @@ They believed themselves the most ordered, but that tradition turned their fores
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-High 

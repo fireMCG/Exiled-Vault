@@ -14,3 +14,4 @@ Even emptiness may be harnessed.
 #Concept/Void
 #Concept/Decay
 #PoE1
+#Interesting-High 

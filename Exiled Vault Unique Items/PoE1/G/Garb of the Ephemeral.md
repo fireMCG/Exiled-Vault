@@ -10,3 +10,4 @@ but something much greater is needed to unleash the wildfire of true divine flam
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

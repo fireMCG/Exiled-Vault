@@ -11,3 +11,4 @@ Lush and humid, sweating violence.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

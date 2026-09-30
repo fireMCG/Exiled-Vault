@@ -11,3 +11,4 @@ until she was not what she saw.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High

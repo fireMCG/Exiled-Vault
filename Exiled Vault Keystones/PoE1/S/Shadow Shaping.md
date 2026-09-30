@@ -9,3 +9,4 @@ In lieu of happiness, sometimes the absence of pain is good enough.
 ## Tags
 #Category/Keystone
 #PoE1
+#Interesting 

@@ -13,3 +13,4 @@ And out of spite They plotted."
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

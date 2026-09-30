@@ -12,3 +12,4 @@ time passes without relent."
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1
+#Interesting-Med 

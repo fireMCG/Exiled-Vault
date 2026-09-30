@@ -11,4 +11,4 @@ Proof that if you devote yourself to a god of death, you may be spared from its 
 #Category/UniqueItem
 #PoE1
 #Society/VaalEmpire
-#Interesting 
+#Interesting-Med 

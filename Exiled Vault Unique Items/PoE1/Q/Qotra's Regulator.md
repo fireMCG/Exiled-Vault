@@ -10,3 +10,4 @@ Horrific experiments with corrupted flesh require careful management.
 #Category/UniqueItem
 #Character/Qotra
 #PoE1
+#Interesting 

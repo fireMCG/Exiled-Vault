@@ -10,3 +10,4 @@ grab truth by the throat and shape it as you wish.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

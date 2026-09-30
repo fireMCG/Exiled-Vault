@@ -12,4 +12,4 @@ and adoration... I deserve it. I am their Queen."
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-High 

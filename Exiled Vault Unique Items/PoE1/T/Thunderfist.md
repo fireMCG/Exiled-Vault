@@ -11,3 +11,4 @@ Into the hearts of Man
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

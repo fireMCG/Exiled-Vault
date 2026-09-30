@@ -9,3 +9,4 @@ Even the dead serve the Lightless.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

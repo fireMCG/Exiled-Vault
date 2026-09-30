@@ -13,3 +13,4 @@ The forging ground of heroes, past and present.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

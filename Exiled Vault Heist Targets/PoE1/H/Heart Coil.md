@@ -13,4 +13,4 @@ This one is an ancient remnant of the work of Vaal engineers.
 #League/Heist
 #PoE1 
 #Society/VaalEmpire 
-#Interesting 
+#Interesting-Low 

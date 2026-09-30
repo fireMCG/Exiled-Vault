@@ -17,4 +17,4 @@ Or madness of the flesh?"
 #Concept/Night/Nightmare
 #PoE1
 #Society/VaalEmpire
-#Interesting
+#Interesting-High 

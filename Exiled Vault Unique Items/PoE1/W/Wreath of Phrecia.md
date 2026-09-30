@@ -9,3 +9,4 @@ The Light drove the darkness from our lands and from our hearts.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

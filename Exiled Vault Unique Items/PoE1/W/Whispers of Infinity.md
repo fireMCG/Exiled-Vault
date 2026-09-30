@@ -9,3 +9,4 @@ In the Atlas, you do not go mad. You are rewritten.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

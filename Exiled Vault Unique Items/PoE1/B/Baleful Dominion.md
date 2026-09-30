@@ -10,3 +10,4 @@ slavers, but he will never be free.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

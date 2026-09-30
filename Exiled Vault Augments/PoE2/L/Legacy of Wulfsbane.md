@@ -10,3 +10,4 @@ far more than mimic the Greatwolf..."
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

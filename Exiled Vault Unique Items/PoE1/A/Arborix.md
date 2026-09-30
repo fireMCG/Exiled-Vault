@@ -14,4 +14,4 @@ while deep in the rich, dark earth, their grasp stretches ever farther.
 #Concept/Darkness
 #Concept/Underground
 #PoE1
-#Interesting 
+#Interesting-Extreme 

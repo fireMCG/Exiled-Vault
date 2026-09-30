@@ -12,3 +12,4 @@ By your hand they dance and bend, wield them and brook no end.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

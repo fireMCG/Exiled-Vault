@@ -11,4 +11,4 @@ longs to be reunited with her sisters.
 #Category/QuestItem
 #Character/Alira
 #PoE1
-#Interesting 
+#Interesting-Med 

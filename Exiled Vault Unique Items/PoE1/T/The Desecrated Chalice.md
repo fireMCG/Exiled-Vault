@@ -8,6 +8,7 @@ and we shall have blood instead."
 
 #
 ---
-## Tags
+## Tags
+
 #Category/UniqueItem
 #PoE1

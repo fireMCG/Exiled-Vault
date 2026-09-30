@@ -14,4 +14,4 @@
 #Concept/Herald
 #Society/VaalEmpire
 #PoE1
-#Interesting 
+#Interesting-Med 

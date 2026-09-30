@@ -10,3 +10,4 @@ each journey is different.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

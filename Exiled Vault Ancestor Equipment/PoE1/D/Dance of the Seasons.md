@@ -16,4 +16,4 @@ Winter is inevitable, but so is the spring.
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Arohongui
-#Interesting 
+#Interesting-Low 

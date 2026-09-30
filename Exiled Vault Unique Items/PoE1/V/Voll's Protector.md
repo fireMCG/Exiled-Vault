@@ -10,3 +10,4 @@ Voll proved disastrous in times of peace.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

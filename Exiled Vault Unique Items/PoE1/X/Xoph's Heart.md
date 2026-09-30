@@ -10,4 +10,4 @@ To its beat we are all driven.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-High 

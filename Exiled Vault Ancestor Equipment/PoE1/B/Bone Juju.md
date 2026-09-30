@@ -17,4 +17,4 @@ Life springs from death in a grand cycle.
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Tawhoa 
-#Interesting 
+#Interesting-High 

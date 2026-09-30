@@ -11,4 +11,4 @@ It accomplished all of these things... most horribly.
 ## Tags
 #Category/SupportGem/Lineage 
 #PoE2
-#Interesting 
+#Interesting-Extreme 

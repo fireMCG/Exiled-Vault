@@ -10,3 +10,4 @@ Their three serpentine heads found unity in balance.
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1
+#Interesting-Med 

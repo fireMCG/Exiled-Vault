@@ -15,4 +15,4 @@ Open a portal to the Crux of Nothingness by using this item in a personal Map De
 ## Tags
 #Category/Fragment
 #PoE1
-#Interesting 
+#Interesting-Med 

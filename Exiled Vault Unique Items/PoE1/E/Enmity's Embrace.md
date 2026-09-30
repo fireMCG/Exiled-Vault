@@ -12,3 +12,4 @@ They know.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

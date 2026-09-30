@@ -12,4 +12,4 @@ The withering glare of corruption, made corporeal and pellucid in crystal.
 #Concept/Crystal
 #Concept/Virtue/Gem
 #PoE1
-#Interesting 
+#Interesting-Med 

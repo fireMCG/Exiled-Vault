@@ -6,12 +6,7 @@ Embrace the pain, drink it in.
 Your enemies will know your agony tenfold.
 
 #
-## Effects
-30% more Spell Damage when on Low Life
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE1

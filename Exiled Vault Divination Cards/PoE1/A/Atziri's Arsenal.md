@@ -15,4 +15,4 @@ Corrupted
 #Category/DivinationCard
 #Society/VaalEmpire
 #PoE1
-#Interesting 
+#Interesting-Low 

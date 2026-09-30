@@ -11,3 +11,4 @@ The greatest warriors in history challenge one another eternal.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

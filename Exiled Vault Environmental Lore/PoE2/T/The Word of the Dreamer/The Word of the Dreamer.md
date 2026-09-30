@@ -25,3 +25,4 @@ Weary now, the Dreamer bade me sit beside him. We had come full circle in my nig
 ## Tags
 #Category/Lore/Environmental 
 #PoE2
+#Interesting-Extreme 

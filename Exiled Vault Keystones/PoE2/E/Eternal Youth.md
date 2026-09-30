@@ -5,14 +5,8 @@
 Burn the spirit to vitalise the flesh.
 
 #
-## Effects
-Life Recharges instead of Energy Shield
-50% less Life Recovery from Flasks
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE2
 #Interesting 

@@ -10,4 +10,4 @@ Be not blinded by the light.
 #Category/UniqueItem
 #Concept/Symbol/Descry 
 #PoE1
-#Interesting 
+#Interesting-Extreme 

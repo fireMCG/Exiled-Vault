@@ -8,4 +8,4 @@ merely the child of my sins.
 ## Tags
 #Category/Reliquary/Vault
 #PoE1 
-#Interesting 
+#Interesting-Med 

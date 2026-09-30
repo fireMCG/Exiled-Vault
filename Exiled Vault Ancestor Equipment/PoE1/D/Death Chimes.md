@@ -18,4 +18,4 @@ Hinekora is not the master of Death, but she is its Mother.
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Hinekora 
-#Interesting 
+#Interesting-High 

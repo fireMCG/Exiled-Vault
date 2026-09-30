@@ -9,4 +9,4 @@ Forged by three brothers so that they may recognize each other across any distan
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Low 

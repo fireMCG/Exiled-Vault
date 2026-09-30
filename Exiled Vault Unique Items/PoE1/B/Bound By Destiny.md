@@ -10,3 +10,4 @@ driven by the passions and tragedies of those who seek.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High

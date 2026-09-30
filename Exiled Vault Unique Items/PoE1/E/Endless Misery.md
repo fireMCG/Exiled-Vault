@@ -10,3 +10,4 @@ What little still stood soon faced wild, battering storms. Winter arrived sudden
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

@@ -15,3 +15,4 @@ it was his leadership that earned Aul, the Last King, his crown.
 #Concept/King
 #Society/Primeval
 #PoE1
+#Interesting-Med

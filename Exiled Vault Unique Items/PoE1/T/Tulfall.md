@@ -11,3 +11,4 @@ But in the great freeze we are forged anew.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

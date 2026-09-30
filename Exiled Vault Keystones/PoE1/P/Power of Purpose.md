@@ -5,10 +5,6 @@
 Empowered by the divine, you fear no weapon of man.
 
 #
-## Effects
-80% of Maximum Mana is Converted to twice that much Armour
-
-#
 ---
 ## Tags
 #Category/Keystone

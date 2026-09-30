@@ -19,4 +19,4 @@ Maloney's Mechanism
 #Concept/Time
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-Med 

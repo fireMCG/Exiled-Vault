@@ -18,4 +18,4 @@ he lay trapped in silk, wrought with despair and ecstasy.
 #PoE2
 #Society/Maraketh
 #Society/VaalEmpire
-#Interesting 
+#Interesting-High 

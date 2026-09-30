@@ -18,4 +18,4 @@ Under a Lich Lord, not even death is an escape.
 #Concept/Soul
 #PoE2
 #Society/Lightless
-#Interesting 
+#Interesting-Med 

@@ -11,3 +11,4 @@ boar. To this day, the Manor still bears gouges.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

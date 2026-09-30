@@ -12,3 +12,4 @@ Blind to the damnation in his hands.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

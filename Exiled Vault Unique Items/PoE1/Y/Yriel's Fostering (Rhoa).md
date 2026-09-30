@@ -12,4 +12,4 @@ It is suffering that forges the greatest warriors.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Med 

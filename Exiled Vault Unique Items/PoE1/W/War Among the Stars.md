@@ -10,3 +10,4 @@ For some, that is by design.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

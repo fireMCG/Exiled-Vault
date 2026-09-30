@@ -10,4 +10,4 @@ It hears your pleas, but ignores them... because it hates you with a burning fur
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-High 

@@ -13,4 +13,4 @@ and engulfs those moths fool enough to embrace it.
 #Concept/Colour/Silver
 #Concept/Virtue/Ambition
 #PoE1
-#Interesting 
+#Interesting-Med 

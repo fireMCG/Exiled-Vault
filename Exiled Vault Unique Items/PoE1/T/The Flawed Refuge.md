@@ -10,3 +10,4 @@ against the Winter of the World.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

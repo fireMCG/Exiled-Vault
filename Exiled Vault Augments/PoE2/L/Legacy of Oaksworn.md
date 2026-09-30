@@ -9,5 +9,7 @@ were none to protect it. We Druids took up the cause."
 #
 ---
 ## Tags
+#Attributes/Timeline 
 #Category/Augment
 #PoE2
+#Interesting 

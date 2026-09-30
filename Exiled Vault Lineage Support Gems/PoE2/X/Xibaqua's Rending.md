@@ -11,4 +11,4 @@ remained was a droplet of pure light: the first Vaal.
 ## Tags
 #Category/SupportGem/Lineage 
 #PoE2
-#Interesting 
+#Interesting-Extreme 

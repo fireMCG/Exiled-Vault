@@ -8,3 +8,4 @@ from the abyss. Perfection.
 ## Tags
 #Category/Area/Atlas
 #PoE1
+#Interesting-Low 

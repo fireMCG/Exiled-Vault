@@ -21,4 +21,4 @@ And Frost's tortured moans.
 #League/Domination
 #League/Nemesis
 #PoE1
-#Interesting 
+#Interesting-Extreme 

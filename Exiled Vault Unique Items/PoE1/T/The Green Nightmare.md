@@ -9,4 +9,4 @@ We take root in the dirt and strangle those who tread upon it.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-High 

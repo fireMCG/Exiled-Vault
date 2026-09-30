@@ -11,3 +11,4 @@ And stood her ground.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

@@ -21,4 +21,4 @@ Corrupted
 #Concept/Virtue/Gem
 #Concept/Void
 #PoE1
-#Interesting 
+#Interesting-High 

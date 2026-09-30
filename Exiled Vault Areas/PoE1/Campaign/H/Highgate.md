@@ -13,4 +13,4 @@ A frail scab of hope holds Nightmare at bay.
 ## Tags
 #Category/Area/Campaign
 #PoE1
-#Interesting
+#Interesting-Extreme 

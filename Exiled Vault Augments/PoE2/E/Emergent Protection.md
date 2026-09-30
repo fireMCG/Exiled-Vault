@@ -11,3 +11,4 @@ itself until it was complete.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

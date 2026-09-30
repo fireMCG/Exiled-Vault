@@ -19,4 +19,4 @@ Mon'tregul's Grasp
 #Concept/Rebirth
 #Concept/Time/Cycle
 #PoE1
-#Interesting 
+#Interesting-Med 

@@ -10,3 +10,4 @@ but stillness will find them... and bury them.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

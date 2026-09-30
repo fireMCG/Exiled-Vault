@@ -9,3 +9,4 @@ We all began life in darkness, we shall all end it there.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

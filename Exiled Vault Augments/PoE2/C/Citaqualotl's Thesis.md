@@ -11,3 +11,4 @@ Let us start not with ourselves, but with willing subjects.
 ## Tags
 #Category/Augment/Ancient
 #PoE2
+#Interesting 

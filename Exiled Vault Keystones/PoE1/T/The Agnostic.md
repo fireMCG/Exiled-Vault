@@ -5,14 +5,8 @@
 Put your faith in intellect rather than mysticism.
 
 #
-## Effects
-Removes all Energy Shield
-While not on Full Life, Sacrifice 20% of Mana per Second to Recover that much Life
-
-#
 ---
 ## Tags
 #Category/Keystone
-#Category/Keystone
 #PoE1
-#Interesting 
+#Interesting-Med 

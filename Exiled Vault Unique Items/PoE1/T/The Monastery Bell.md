@@ -11,3 +11,4 @@ tolling righteous fury for those who would dare invade our world!"
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

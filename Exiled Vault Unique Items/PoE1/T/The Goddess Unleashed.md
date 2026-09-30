@@ -14,3 +14,4 @@ Bequeathed, betrayed...beloved. At last, I am the third.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

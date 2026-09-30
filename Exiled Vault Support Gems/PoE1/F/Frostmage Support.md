@@ -9,4 +9,4 @@ The more committed she became to understanding it, the more the knowledge weighe
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Med 

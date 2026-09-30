@@ -10,3 +10,4 @@ binds in both directions.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

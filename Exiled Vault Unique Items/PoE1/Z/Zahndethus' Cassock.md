@@ -12,3 +12,4 @@ Twice as strong and twice as thick
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

@@ -17,4 +17,4 @@ Quality: +20%
 #Concept/Mirror
 #Concept/Moon
 #PoE1
-#Interesting 
+#Interesting-Extreme 

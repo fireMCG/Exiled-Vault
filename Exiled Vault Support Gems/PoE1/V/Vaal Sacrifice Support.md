@@ -9,4 +9,4 @@ Her people were willing to give everything... and they did.
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Med 

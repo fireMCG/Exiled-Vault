@@ -14,4 +14,4 @@ Created from compromises. Vulnerable to mortal whims.
 #Concept/Memory
 #Concept/Sanctity
 #PoE1
-#Interesting 
+#Interesting-High 

@@ -10,3 +10,4 @@ Finally, he had the power and wealth he so desired." - Lycia, the Heretic
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

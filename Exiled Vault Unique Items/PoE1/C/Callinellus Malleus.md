@@ -9,4 +9,4 @@ To neither ebb nor flow, but weather the rising tide, outlast, unshifting and un
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Low 

@@ -10,4 +10,4 @@ The Spirit, it radiates not from above.
 #Category/QuestItem
 #Concept/Spirit
 #PoE1
-#Interesting 
+#Interesting-Med 

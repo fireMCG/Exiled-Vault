@@ -12,3 +12,4 @@ All the money in the world can't stop a world from ending.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

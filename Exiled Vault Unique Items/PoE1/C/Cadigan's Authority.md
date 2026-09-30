@@ -11,4 +11,4 @@ continually leveraging the power of each against the next.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-High 

@@ -9,4 +9,4 @@ but the madness and memories will never fade.
 ## Tags
 #Category/Area/Atlas
 #PoE1
-#Interesting
+#Interesting-Low 

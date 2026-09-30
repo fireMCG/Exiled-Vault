@@ -14,4 +14,4 @@ Shaper Guardian Map
 #Concept/Void
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-High 

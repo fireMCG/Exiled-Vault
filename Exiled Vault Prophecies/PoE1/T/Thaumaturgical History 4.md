@@ -17,4 +17,4 @@ The [[Ascent From Flesh]] will drop.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-Med 

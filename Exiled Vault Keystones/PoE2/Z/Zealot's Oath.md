@@ -5,14 +5,8 @@
 Tear my flesh and splinter my bones. You will never break my spirit.
 
 #
-## Effects
-Excess Life Recovery from Regeneration is applied to Energy Shield
-Energy Shield does not Recharge
-
-#
 ---
 ## Tags
 #Category/Keystone
-#Category/Keystone
 #PoE2
-#Interesting 
+#Interesting-Low 

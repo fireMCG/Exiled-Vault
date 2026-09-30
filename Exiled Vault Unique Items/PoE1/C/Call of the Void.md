@@ -16,4 +16,4 @@ Only when the mind is empty of ambition can the cold truth of existence take hol
 #Concept/Void
 #Concept/Decay
 #PoE1
-#Interesting 
+#Interesting-High 

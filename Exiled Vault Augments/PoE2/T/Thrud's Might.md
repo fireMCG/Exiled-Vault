@@ -12,3 +12,4 @@ to a stalemate. Now power... that, Thrud could respect.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

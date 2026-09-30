@@ -9,4 +9,4 @@ should they fall behind, they would soon be consumed as well.
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Med 

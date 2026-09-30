@@ -9,3 +9,4 @@ The mind is a filter through which anarchy becomes order.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

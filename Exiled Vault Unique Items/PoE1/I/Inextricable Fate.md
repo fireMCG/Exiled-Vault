@@ -12,3 +12,4 @@ irrevocably bound together in perpetual torture.
 #Character/Eldritch/EaterOfWorlds
 #Concept/Tangle
 #PoE1
+#Interesting-High 

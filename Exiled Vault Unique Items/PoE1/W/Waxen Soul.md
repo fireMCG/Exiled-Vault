@@ -11,3 +11,4 @@ but what if we joined Him, and left fear behind?
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

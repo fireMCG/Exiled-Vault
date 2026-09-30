@@ -24,4 +24,4 @@ While Berek slept.
 #League/Domination
 #League/Nemesis
 #PoE1
-#Interesting 
+#Interesting-Extreme 

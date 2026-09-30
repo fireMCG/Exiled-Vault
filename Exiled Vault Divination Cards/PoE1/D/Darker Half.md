@@ -16,4 +16,4 @@ When you find what you're looking for, it's never quite right. When you have wha
 #Concept/Desire
 #Concept/Eldritch
 #PoE1
-#Interesting 
+#Interesting-Extreme 

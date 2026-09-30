@@ -15,4 +15,4 @@ And fled."
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Extreme 

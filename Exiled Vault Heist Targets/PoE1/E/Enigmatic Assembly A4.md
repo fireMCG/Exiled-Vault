@@ -12,4 +12,4 @@ and puzzling device. A few seem to be missing. This part is crucial.
 #Character/MarcineClavus
 #League/Heist
 #PoE1 
-#Interesting 
+#Interesting-Low 

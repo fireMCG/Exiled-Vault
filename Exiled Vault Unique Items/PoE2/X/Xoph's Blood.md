@@ -12,4 +12,4 @@ Through us he carries his burning message.
 #Character/Breachlord/Xoph
 #Concept/Blood
 #PoE2
-#Interesting 
+#Interesting-High 

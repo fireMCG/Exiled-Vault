@@ -10,4 +10,4 @@ The first spark is never the last.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Low 

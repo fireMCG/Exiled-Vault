@@ -12,3 +12,4 @@ Daylight is the exile here.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

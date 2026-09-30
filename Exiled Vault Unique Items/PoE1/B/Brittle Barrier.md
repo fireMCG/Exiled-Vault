@@ -9,3 +9,4 @@ Walls built in a hurry fall in a hurry.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

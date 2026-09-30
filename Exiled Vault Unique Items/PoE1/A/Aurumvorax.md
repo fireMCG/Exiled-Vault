@@ -11,4 +11,4 @@ Many a collector of rarities discovered to his dismay that the intelligent spiri
 #Concept/Master
 #Concept/Spirit
 #PoE1
-#Interesting 
+#Interesting-Low 

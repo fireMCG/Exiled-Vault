@@ -13,4 +13,4 @@
 #Concept/Animal/Hyena
 #Society/Maraketh
 #PoE1
-#Interesting 
+#Interesting-Med 

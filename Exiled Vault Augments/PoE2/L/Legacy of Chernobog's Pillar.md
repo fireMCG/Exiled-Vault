@@ -11,3 +11,4 @@ his name do not live to tell it to others.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

@@ -9,4 +9,4 @@ Divinity is not the only path to enlightenment.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Med 

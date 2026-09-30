@@ -11,3 +11,4 @@ mountain, bringing his sword to the primordial snows.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

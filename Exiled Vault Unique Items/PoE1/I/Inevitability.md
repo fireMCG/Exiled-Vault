@@ -12,3 +12,4 @@ None could stop it.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

@@ -14,4 +14,4 @@ While Berek slept."
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Extreme 

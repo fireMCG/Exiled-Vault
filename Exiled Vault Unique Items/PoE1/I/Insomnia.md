@@ -10,3 +10,4 @@ If you fall asleep in the Atlas, he'll be waiting...
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

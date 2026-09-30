@@ -12,3 +12,4 @@ to sate his hungry claw.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

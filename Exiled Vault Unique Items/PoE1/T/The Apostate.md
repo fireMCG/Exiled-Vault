@@ -10,3 +10,4 @@ became thick white blood, as choking as it was nourishing.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

@@ -18,4 +18,4 @@ Shift click to unstack.
 #Category/Fragment/Scarab
 #League/Beyond
 #PoE1
-#Interesting 
+#Interesting-High 

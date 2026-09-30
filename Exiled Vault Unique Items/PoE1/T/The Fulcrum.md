@@ -10,3 +10,4 @@ the master must achieve perfect balance.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

@@ -9,3 +9,4 @@ They believed themselves the pinnacle of civilisation, but that height toppled t
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

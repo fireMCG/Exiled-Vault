@@ -14,4 +14,4 @@ The goat king knew only joy at turning life into ash.
 #Concept/King
 #Concept/War
 #PoE1
-#Interesting 
+#Interesting-Low

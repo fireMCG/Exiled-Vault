@@ -17,4 +17,4 @@ The end of Time is also its beginning.
 #League/Ancestor
 #PoE1 
 #Society/Karui/Tribe/Hinekora 
-#Interesting 
+#Interesting-High 

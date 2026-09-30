@@ -21,4 +21,4 @@ Perfect Eldritch Implicit Modifier
 #Concept/Beauty
 #Concept/Horror
 #PoE1
-#Interesting 
+#Interesting-High 

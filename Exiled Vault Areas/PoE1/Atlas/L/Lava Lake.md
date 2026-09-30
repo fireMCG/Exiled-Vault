@@ -9,3 +9,4 @@ an island of burning, consuming fury.
 ## Tags
 #Category/Area/Atlas
 #PoE1
+#Interesting 

@@ -9,4 +9,4 @@ Upon the grey winds his love spreads.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-High 

@@ -11,3 +11,4 @@ Through which Wraeclast might be consumed.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

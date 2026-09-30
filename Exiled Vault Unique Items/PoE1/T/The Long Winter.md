@@ -12,3 +12,4 @@ that lay dormant deep beneath the earth.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

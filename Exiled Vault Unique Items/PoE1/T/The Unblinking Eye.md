@@ -11,3 +11,4 @@ only to let it slip through his grasp.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

@@ -12,3 +12,4 @@ That Ondar felt the full weight of his guilt.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

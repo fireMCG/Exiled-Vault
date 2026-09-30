@@ -11,3 +11,4 @@
 #Attributes/Missing 
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

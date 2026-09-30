@@ -10,4 +10,4 @@ It is the warmth that draws you ever inward.
 #Category/QuestItem
 #Concept/Within
 #PoE1
-#Interesting 
+#Interesting-Med 

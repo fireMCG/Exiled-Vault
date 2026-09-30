@@ -11,3 +11,4 @@ from those rites of pain and punishment."
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

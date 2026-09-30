@@ -13,4 +13,4 @@ Beyond the veil of death, there burns a fire by whose light night is borne.
 #Concept/Light
 #Concept/Night
 #PoE1
-#Interesting 
+#Interesting-Med 

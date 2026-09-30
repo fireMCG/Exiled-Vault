@@ -18,4 +18,4 @@ Shift click to unstack.
 #Category/Fragment/Scarab
 #League/Expedition
 #PoE1
-#Interesting 
+#Interesting-Med 

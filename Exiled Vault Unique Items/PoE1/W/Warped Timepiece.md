@@ -12,3 +12,4 @@ forever makes me the public enemy.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

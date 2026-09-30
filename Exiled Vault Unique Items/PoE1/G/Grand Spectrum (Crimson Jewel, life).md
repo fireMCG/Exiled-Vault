@@ -9,3 +9,4 @@ A wellspring of vitality bubbling from within.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

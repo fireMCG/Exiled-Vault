@@ -11,4 +11,4 @@ gods. Drank with heroes. Wed a dozen wives, and the Leviathan, too.
 #Category/Currency
 #League/CurseOfTheAllflame
 #PoE1
-#Interesting 
+#Interesting-High 

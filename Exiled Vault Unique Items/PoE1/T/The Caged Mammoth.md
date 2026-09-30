@@ -11,3 +11,4 @@ biding his time, waiting for his chance...
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

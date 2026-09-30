@@ -12,4 +12,4 @@ The Goat King drank the smoke and ate the flames as his ruin spread across the l
 #Concept/Element/Fire
 #Concept/King
 #PoE1
-#Interesting 
+#Interesting-Low

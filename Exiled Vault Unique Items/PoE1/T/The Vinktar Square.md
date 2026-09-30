@@ -16,3 +16,4 @@ it cannot be contained.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

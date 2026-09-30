@@ -9,3 +9,4 @@ Be careful where you put your finger.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

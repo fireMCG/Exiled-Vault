@@ -10,3 +10,4 @@ and we are swallowed by his brilliant red light.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

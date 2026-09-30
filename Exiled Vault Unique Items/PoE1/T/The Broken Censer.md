@@ -11,3 +11,4 @@ power: hatred. He vilified his brother, sparking zealotry, and the change finall
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

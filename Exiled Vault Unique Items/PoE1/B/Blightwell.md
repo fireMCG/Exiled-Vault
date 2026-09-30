@@ -11,4 +11,4 @@ When the sky burned, the fish dived deep, never to return, and the waters turned
 #Attributes/Timeline 
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Extreme 

@@ -11,4 +11,4 @@ We must remember our place, and play to our strengths.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Med 

@@ -19,4 +19,4 @@ Seven-League Step
 #Concept/Sun
 #Concept/World
 #PoE1
-#Interesting 
+#Interesting-High 

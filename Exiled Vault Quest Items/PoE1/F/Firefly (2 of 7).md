@@ -10,4 +10,4 @@ A passionate fire that consumes the heart.
 #Category/QuestItem
 #Concept/Body/Heart
 #PoE1
-#Interesting 
+#Interesting-Med 

@@ -10,4 +10,4 @@ With piety and justice.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Low 

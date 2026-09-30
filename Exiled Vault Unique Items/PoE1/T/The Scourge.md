@@ -10,3 +10,4 @@ comes an increasing desire for it.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

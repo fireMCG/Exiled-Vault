@@ -2,7 +2,8 @@
 
 #
 ## Flavour Text
-There is no safer place than the Belly of the Beast
+There is no safer place
+Than the Belly of the Beast
 
 #
 ---
@@ -10,4 +11,4 @@ There is no safer place than the Belly of the Beast
 #Category/UniqueItem
 #Concept/Beast
 #PoE1
-#Interesting 
+#Interesting-Extreme 

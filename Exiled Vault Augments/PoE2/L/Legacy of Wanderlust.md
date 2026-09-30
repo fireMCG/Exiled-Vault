@@ -11,3 +11,4 @@ though he has not been seen for a century.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

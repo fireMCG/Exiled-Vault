@@ -10,4 +10,4 @@ Weeping Black would break the chains of his prison.
 ## Tags
 #Category/SupportGem/Lineage
 #PoE2
-#Interesting 
+#Interesting-Low 

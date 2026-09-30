@@ -18,4 +18,4 @@ Voidforge
 #Concept/Space/Star
 #Concept/Void
 #PoE1
-#Interesting 
+#Interesting-High 

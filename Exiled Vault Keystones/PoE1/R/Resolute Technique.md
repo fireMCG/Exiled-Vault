@@ -5,13 +5,7 @@
 Great tacticians learn that consistency often trumps potential.
 
 #
-## Effects
-Your hits can't be Evaded
-Never deal Critical Strikes
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE1

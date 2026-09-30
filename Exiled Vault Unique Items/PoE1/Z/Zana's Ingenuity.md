@@ -11,3 +11,4 @@ this is all over... let's talk.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

@@ -11,3 +11,4 @@ no idol to offer, it carves your bones instead."
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

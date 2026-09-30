@@ -11,4 +11,4 @@ I forgive you.
 #Character/Eldritch/Shaper
 #Character/Zana
 #PoE1 
-#Interesting 
+#Interesting-High 

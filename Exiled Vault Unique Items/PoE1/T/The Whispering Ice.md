@@ -9,3 +9,4 @@ Guard your darkest thoughts well, for they are the cracks through which the Nigh
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

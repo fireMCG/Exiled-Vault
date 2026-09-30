@@ -10,3 +10,4 @@ all meaning long since lost to dead-eyed lust.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

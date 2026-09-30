@@ -10,3 +10,4 @@ Rule a world, bathed in flame.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

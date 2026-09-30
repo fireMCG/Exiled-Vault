@@ -15,4 +15,4 @@ A single facet contains the wisdom of countless disintegrated worlds.
 #Concept/Virtue/Wisdom
 #Concept/Tangle
 #PoE1
-#Interesting 
+#Interesting-Extreme 

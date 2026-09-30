@@ -9,3 +9,4 @@ Give yourself to the flames and your name will burn in the minds of men forever.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

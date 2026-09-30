@@ -10,3 +10,4 @@ families. Follow me if you hunger for more than this!"
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

@@ -9,4 +9,4 @@ With each word, he seemed to grow larger and more frightening, drawing increasin
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Med 

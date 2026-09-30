@@ -10,3 +10,4 @@ He merely grinned... and the foolish warrior charged.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

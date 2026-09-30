@@ -11,4 +11,4 @@ Forgotten no more.
 ## Tags
 #Category/Reliquary/Key
 #PoE1 
-#Interesting 
+#Interesting-Low 

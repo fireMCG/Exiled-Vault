@@ -10,4 +10,4 @@ Each time, Solaris emerges from Lunaris, born anew.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Extreme 

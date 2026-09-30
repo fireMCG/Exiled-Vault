@@ -13,4 +13,4 @@ only rediscovered hundreds of years after the death of its unknown author.
 #Character/RingClient/CrimsonScribe
 #League/Heist
 #PoE1 
-#Interesting 
+#Interesting-High 

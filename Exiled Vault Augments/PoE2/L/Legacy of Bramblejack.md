@@ -11,3 +11,4 @@ are well accustomed to suffering as a virtue.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

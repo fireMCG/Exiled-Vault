@@ -9,4 +9,4 @@ Bow before her... or suffer the most gruelling death imaginable.
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Med 

@@ -11,3 +11,4 @@ Mortality, compassion, even the sanctity of flesh.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

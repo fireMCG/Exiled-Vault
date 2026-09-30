@@ -10,4 +10,4 @@ Through us he carries his burning message.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-High 

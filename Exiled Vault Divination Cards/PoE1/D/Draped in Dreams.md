@@ -18,4 +18,4 @@ Influenced Item
 #Category/DivinationCard
 #Concept/Night/Dream
 #PoE1
-#Interesting 
+#Interesting-Low 

@@ -13,3 +13,4 @@ Oriath's bleeding heart is the main course in a terrible feast.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

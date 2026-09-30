@@ -19,4 +19,4 @@ Shift click to unstack.
 #Concept/Nature/Earth
 #League/Abyss
 #PoE1
-#Interesting 
+#Interesting-Low 

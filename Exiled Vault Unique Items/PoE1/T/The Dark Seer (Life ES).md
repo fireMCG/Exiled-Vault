@@ -11,3 +11,4 @@ Until we are one in shadow.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

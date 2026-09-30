@@ -9,4 +9,4 @@ Your broken body lies forgotten, nourishing only the worms.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Med 

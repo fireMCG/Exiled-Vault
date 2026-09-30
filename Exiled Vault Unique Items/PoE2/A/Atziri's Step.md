@@ -11,4 +11,4 @@ by those who cannot hear the music."
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Extreme 

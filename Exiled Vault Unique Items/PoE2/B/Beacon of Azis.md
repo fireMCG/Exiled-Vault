@@ -11,4 +11,4 @@ It was Solerai herself.
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Low 

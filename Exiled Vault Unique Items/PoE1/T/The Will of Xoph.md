@@ -10,3 +10,4 @@ as spiraling oblivion deepens into flame.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

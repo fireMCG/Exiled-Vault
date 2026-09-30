@@ -20,4 +20,4 @@ Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault UniqueItems/PoE1/I/I
 #Concept/Light 
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-Med 

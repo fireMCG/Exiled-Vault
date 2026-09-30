@@ -12,3 +12,4 @@ To the nascent scourge she sings the ruse:
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

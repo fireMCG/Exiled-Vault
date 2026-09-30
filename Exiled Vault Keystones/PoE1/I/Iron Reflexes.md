@@ -5,12 +5,7 @@
 Why should I dodge blows that I do not fear?
 
 #
-## Effects
-Converts all Evasion Rating to Armour. Dexterity provides no bonus to Evasion Rating
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE1

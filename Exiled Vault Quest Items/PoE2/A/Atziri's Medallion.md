@@ -9,4 +9,4 @@ Passed down through royal bloodlines since the time of the gods, it lies heavy i
 ## Tags
 #Category/QuestItem
 #PoE2
-#Interesting 
+#Interesting-High 

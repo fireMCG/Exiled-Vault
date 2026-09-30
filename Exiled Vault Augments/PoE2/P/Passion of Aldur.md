@@ -11,3 +11,4 @@ Night and day, he wrestled the flames into submission.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

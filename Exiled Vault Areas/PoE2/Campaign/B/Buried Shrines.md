@@ -10,3 +10,4 @@ The Seven Rivers once met below these dry stones.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

@@ -10,4 +10,4 @@ Where rest the truest colours of life.
 #Category/QuestItem
 #Concept/Life
 #PoE1
-#Interesting 
+#Interesting-Med 

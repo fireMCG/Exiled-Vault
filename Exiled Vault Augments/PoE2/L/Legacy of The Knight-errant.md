@@ -11,3 +11,4 @@ would-be kings. I long for those days."
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

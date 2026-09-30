@@ -19,4 +19,4 @@ Map Tier: 5
 #Concept/Space/Astral
 #Concept/World
 #PoE1
-#Interesting 
+#Interesting-High 

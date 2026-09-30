@@ -11,3 +11,4 @@ arcane power. There was no escape, no shelter. Only despair.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

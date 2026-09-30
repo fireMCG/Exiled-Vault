@@ -12,4 +12,4 @@ will be a weapon to rival the gods! It must be... it has to be...
 #Character/MarcineClavus
 #League/Heist
 #PoE1 
-#Interesting 
+#Interesting-Low 

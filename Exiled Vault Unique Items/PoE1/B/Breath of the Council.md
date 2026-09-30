@@ -9,3 +9,4 @@ Breathe deep, and give yourself over to eternity.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

@@ -10,3 +10,4 @@ The whim of the cosmos.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

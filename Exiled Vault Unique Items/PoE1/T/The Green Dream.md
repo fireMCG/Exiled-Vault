@@ -10,3 +10,4 @@ reaching into the world that should be ours.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

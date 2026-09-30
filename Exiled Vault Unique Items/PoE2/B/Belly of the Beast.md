@@ -10,4 +10,4 @@ Than the Belly of the Beast
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Extreme 

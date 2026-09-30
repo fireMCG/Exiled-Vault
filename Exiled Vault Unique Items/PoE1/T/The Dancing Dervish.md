@@ -12,3 +12,4 @@ And dance with death sublime.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

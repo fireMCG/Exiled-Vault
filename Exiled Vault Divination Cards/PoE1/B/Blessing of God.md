@@ -18,4 +18,4 @@ Item Level: 85
 #Concept/Light
 #Concept/Within
 #PoE1
-#Interesting 
+#Interesting-Med 

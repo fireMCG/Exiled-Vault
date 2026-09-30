@@ -12,3 +12,4 @@ small area... the question now: what do we try first?
 ## Tags
 #Category/Augment/Ancient 
 #PoE2
+#Interesting 

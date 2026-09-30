@@ -10,3 +10,4 @@ This experiment became something truly perverse.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

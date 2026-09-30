@@ -9,4 +9,4 @@ as those beneath its veil can attest.
 ## Tags
 #Category/Area/Atlas
 #PoE1
-#Interesting
+#Interesting-Low 

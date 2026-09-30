@@ -15,3 +15,4 @@ can only create more nothingness.
 #Concept/Void
 #Concept/Decay
 #PoE1
+#Interesting-High 

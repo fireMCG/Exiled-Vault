@@ -5,13 +5,8 @@
 "In my dreams I see a great warrior, his skin scorched black, his fists aflame."
 
 #
-## Effects
-50% of Physical, Cold and Lightning Damage Converted to Fire Damage
-Deal no Non-Fire Damage
-
-#
 ---
 ## Tags
 #Category/Keystone
-#Category/Keystone
 #PoE1
+#Interesting-Low 

@@ -13,4 +13,4 @@ A great Silence falls...
 #Character/ValdoCaeserius 
 #Concept/Decay
 #PoE1 
-#Interesting 
+#Interesting-High 

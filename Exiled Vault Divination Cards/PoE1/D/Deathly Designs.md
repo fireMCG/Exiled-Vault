@@ -19,4 +19,4 @@ Corrupted
 #Concept/Virtue
 #Concept/Virtue/Honour
 #PoE1
-#Interesting 
+#Interesting-Med 

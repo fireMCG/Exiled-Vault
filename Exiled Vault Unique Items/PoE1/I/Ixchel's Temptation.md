@@ -11,3 +11,4 @@ Our own imaginations ensnare us.
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1
+#Interesting-High 

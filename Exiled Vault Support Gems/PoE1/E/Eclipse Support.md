@@ -10,4 +10,4 @@ both fleeting and eternal, our eyes are opened to our potential."
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Extreme 

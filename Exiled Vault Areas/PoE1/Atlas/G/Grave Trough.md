@@ -9,3 +9,4 @@ or do the dead reject their fate?
 ## Tags
 #Category/Area/Atlas
 #PoE1
+#Interesting-Low 

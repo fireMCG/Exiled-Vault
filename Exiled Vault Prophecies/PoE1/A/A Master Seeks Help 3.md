@@ -18,4 +18,4 @@ You will find Jun and complete her mission.
 #Concept/Balance
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-Low 

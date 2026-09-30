@@ -9,4 +9,4 @@ Lost in a sea of limbs and screaming faces, they claw for any fleeting pleasure 
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Low 

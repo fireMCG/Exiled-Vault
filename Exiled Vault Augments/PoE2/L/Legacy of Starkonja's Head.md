@@ -11,3 +11,4 @@ For this, he was not lauded. None looked him in the eye.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

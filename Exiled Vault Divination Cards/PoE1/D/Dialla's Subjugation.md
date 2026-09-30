@@ -28,4 +28,4 @@ Corrupted
 #Concept/Virtue/Gem
 #Concept/Virtue/Innocence
 #PoE1
-#Interesting 
+#Interesting-Med 

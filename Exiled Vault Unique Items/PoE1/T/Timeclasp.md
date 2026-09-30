@@ -12,4 +12,4 @@ I'm just evening things out."
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1
-#Interesting 
+#Interesting-Extreme 

@@ -10,4 +10,4 @@ who stood guard as land rose from sea.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Med 

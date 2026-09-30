@@ -10,3 +10,4 @@ A holdfast built of hubris.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

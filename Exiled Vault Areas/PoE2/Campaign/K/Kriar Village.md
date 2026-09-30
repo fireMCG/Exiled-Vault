@@ -11,3 +11,4 @@ Home to displaced Azmeri, now fallen.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

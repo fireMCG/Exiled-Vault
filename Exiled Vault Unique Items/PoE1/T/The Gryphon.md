@@ -9,4 +9,4 @@ The gryphon knows only the hunt and the flight.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Low 

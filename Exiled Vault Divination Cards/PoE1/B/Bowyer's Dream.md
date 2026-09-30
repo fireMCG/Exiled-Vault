@@ -16,4 +16,4 @@ Item Level: 91
 #Concept/Night/Dream
 #League/Harbinger
 #PoE1
-#Interesting 
+#Interesting-Med 

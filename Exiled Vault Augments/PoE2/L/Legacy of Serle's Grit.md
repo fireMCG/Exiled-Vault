@@ -11,3 +11,4 @@ expedition to Wraeclast, eventually becoming an Ezomyte...
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

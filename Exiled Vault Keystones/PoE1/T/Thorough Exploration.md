@@ -6,13 +6,6 @@ A methodical explorer will find many paths
 that others, in their haste, might miss.
 
 #
-## Effects
-2% increased Maps found in your Maps
-If there are fewer than 50 monsters remaining in your Maps, Final Map Bosses
-are Empowered by Wildwood Wisps
-Unmodifiable
-
-#
 ---
 ## Tags
 #Category/Keystone

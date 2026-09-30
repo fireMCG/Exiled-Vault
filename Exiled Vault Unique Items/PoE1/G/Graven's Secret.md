@@ -11,3 +11,4 @@ The cowardly thinker's greatest success is simply surviving.
 #Character/Graven
 #Character/Eldritch/Maven
 #PoE1
+#Interesting-Low 

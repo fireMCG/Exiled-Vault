@@ -9,4 +9,4 @@ Justice born of law is a punishment.
 ## Tags
 #Category/Area/Atlas
 #PoE1
-#Interesting
+#Interesting-Low 

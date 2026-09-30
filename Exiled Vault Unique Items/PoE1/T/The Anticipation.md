@@ -11,3 +11,4 @@ she will reach into us.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

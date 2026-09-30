@@ -15,4 +15,4 @@
 #Location/Wraeclast
 #Society/VaalEmpire
 #PoE1
-#Interesting 
+#Interesting-Extreme 

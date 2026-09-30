@@ -10,3 +10,4 @@ From those who are gone to those who remain.
 #Category/Strongbox
 #PoE1 
 #Society/VaalEmpire  
+#Interesting-Low 

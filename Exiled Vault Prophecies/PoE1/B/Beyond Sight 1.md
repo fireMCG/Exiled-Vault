@@ -17,4 +17,4 @@ You will slay the cultists and the foes they summon.
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-Low 

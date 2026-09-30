@@ -9,5 +9,7 @@ Two thousand years of regret.
 #
 ---
 ## Tags
+#Attributes/Timeline 
 #Category/Area/Campaign
 #PoE1
+#Interesting-Low 

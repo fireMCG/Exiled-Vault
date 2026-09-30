@@ -10,3 +10,4 @@ Quench the holy light.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

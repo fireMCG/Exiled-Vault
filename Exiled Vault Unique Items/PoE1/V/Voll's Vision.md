@@ -9,3 +9,4 @@ Righteous men seek virtue like tame pups seeking praise.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

@@ -7,3 +7,4 @@ Secrets and shadows...
 ## Tags
 #Category/Area/Atlas
 #PoE2
+#Interesting 

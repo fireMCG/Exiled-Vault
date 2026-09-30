@@ -11,3 +11,4 @@ to the Royal Court... He ended up marrying her instead.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

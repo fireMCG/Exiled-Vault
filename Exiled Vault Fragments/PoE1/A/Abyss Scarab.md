@@ -20,4 +20,4 @@ Shift click to unstack.
 #Concept/Soul
 #League/Abyss
 #PoE1
-#Interesting 
+#Interesting-Low 

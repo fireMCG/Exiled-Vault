@@ -9,3 +9,4 @@ Thoughts that shimmer like light across the rain.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

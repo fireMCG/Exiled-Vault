@@ -21,4 +21,4 @@ Use four of these in a personal Map Device to open Portals to The Shaper's Realm
 #Character/ValdoCaeserius
 #Concept/Emotion/Love
 #PoE1
-#Interesting 
+#Interesting-Low 

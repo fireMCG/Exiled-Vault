@@ -12,3 +12,4 @@ Four screams became one roar.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

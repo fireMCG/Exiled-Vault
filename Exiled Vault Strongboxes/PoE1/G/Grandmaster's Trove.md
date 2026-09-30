@@ -12,4 +12,4 @@ Their eternal vigil is done.
 ## Tags
 #Category/Strongbox
 #PoE1 
-#Interesting 
+#Interesting-Extreme 

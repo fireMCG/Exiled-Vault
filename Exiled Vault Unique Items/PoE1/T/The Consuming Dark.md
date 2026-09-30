@@ -9,3 +9,4 @@ The brightest flames cast the darkest shadows.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

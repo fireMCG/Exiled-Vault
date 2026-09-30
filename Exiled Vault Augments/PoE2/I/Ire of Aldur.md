@@ -11,3 +11,4 @@ his sword high, he received the might of the skies.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

@@ -10,3 +10,4 @@ Corruption has made the Test deadlier with each passing year.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

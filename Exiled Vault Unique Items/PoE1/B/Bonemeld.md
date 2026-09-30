@@ -11,4 +11,4 @@ The Fiend has naught but Empty Eyes, though sees you, it does, indeed.
 #Category/UniqueItem
 #Concept/Body/Eye/Heterochromia
 #PoE1
-#Interesting 
+#Interesting-High 

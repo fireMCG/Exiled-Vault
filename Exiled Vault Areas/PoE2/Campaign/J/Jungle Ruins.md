@@ -12,3 +12,4 @@ The bountiful fields of the city of Utzaal are now nothing but tangled jungle.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

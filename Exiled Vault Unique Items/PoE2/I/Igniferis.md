@@ -10,4 +10,4 @@ A light unbroken, endlessly reborn.
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Extreme 

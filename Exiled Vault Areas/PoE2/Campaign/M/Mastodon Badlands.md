@@ -12,3 +12,4 @@ Certain places of power predate people. Certain places of death do not.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

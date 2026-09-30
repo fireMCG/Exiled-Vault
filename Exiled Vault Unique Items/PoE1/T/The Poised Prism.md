@@ -9,3 +9,4 @@ What do you see when you look inward?
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

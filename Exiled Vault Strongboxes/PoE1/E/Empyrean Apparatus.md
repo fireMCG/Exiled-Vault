@@ -11,4 +11,4 @@ An explorer finds his way back again."
 ## Tags
 #Category/Strongbox
 #PoE1 
-#Interesting 
+#Interesting-Low 

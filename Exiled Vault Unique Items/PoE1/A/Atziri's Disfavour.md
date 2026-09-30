@@ -12,4 +12,4 @@
 #Character/Atziri
 #Society/VaalEmpire
 #PoE1
-#Interesting 
+#Interesting-Low 

@@ -9,4 +9,4 @@ Cadigan the Third ruled dispassionately through the iron might of artifice.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Med 

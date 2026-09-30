@@ -11,3 +11,4 @@ only under the blessed veil of ignorance.
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1
+#Interesting-Med 

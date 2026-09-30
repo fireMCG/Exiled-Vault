@@ -9,4 +9,4 @@ Upon the red pyre we are born.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-High 

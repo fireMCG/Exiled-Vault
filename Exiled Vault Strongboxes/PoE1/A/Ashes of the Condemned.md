@@ -9,4 +9,4 @@ An era so ingrained with decadence, greed and cruelty that even the graves of mu
 ## Tags
 #Category/Strongbox
 #PoE1 
-#Interesting 
+#Interesting-Low 

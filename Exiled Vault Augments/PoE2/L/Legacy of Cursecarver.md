@@ -11,3 +11,4 @@ but Erian did not seem to regret his time there..."
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

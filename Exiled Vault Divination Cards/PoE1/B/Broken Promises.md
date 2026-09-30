@@ -18,4 +18,4 @@ Synthesised
 #Concept/Jewel
 #Concept/Night/Dream
 #PoE1
-#Interesting 
+#Interesting-High 

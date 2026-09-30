@@ -10,3 +10,4 @@ It makes us immortal.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

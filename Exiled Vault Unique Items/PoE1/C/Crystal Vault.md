@@ -10,4 +10,4 @@ A crystalline, perfectly still utopia.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Extreme 

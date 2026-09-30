@@ -19,4 +19,4 @@ Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault UniqueItems/PoE1/D/D
 #League/Prophecy
 #PoE1 
 #Society/VaalEmpire 
-#Interesting 
+#Interesting-Low 

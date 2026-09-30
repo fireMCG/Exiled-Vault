@@ -14,4 +14,4 @@ is a treasure worth dying for.
 ## Tags
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-Med 

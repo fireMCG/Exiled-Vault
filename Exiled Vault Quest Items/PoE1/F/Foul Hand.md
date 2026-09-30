@@ -9,4 +9,4 @@ Let the Mother's love embrace our flesh.
 ## Tags
 #Category/QuestItem
 #PoE1
-#Interesting 
+#Interesting-High 

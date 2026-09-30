@@ -5,13 +5,7 @@
 Utter trust in your defence unleashes ultimate potential.
 
 #
-## Effects
-Chance to Evade is Unlucky
-Chance to Deflect is Lucky
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE2

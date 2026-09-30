@@ -11,3 +11,4 @@ The Sovereign of the Well seeks dominion to banish the Light.
 #Character/Ulaman
 #PoE2
 #Society/Lightless
+#Interesting 

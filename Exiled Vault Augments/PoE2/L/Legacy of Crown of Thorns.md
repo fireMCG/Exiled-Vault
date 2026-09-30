@@ -11,3 +11,4 @@ some things about her. It was... a tragic mistake."
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

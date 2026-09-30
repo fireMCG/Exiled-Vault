@@ -10,4 +10,4 @@ Every moment is a struggle to exist.
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-High 

@@ -13,4 +13,4 @@ Skittering Delirium Orb
 ## Tags
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-Med 

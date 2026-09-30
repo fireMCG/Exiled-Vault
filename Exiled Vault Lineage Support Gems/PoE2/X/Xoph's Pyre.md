@@ -17,4 +17,4 @@ of the Broken Sun... is the Red Pyre, the Torus Eternal."
 #Concept/Sun
 #PoE2
 #Society/Hiveborn
-#Interesting 
+#Interesting-High 

@@ -19,4 +19,4 @@ Upgrades [[Exiled-Vault-Extension/Exiled-Vault/Exiled Vault UniqueItems/PoE1/B/B
 #Concept/Stone 
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-Low 

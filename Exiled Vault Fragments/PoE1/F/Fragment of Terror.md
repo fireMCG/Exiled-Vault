@@ -24,4 +24,4 @@ Shift click to unstack.
 #Concept/Horror
 #Concept/Survival
 #PoE1
-#Interesting 
+#Interesting-Med 

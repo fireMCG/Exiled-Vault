@@ -8,4 +8,4 @@ and memories are but a collection of present moments.
 ## Tags
 #Category/Reliquary/Vault
 #PoE1 
-#Interesting 
+#Interesting-High 

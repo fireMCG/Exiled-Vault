@@ -17,4 +17,4 @@ Item Level: 84
 #Concept/Crown/Halo
 #Concept/Jewel
 #PoE1
-#Interesting 
+#Interesting-Med 

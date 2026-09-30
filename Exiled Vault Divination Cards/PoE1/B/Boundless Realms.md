@@ -16,4 +16,4 @@ Map
 #Concept/Time/Cycle
 #Concept/World
 #PoE1
-#Interesting 
+#Interesting-High 

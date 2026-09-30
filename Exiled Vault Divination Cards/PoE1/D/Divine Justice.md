@@ -19,4 +19,4 @@ Corrupted
 #Concept/Religion/Divinity
 #Concept/Mirror
 #PoE1
-#Interesting 
+#Interesting-Extreme 

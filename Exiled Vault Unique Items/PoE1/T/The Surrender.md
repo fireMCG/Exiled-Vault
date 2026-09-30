@@ -11,3 +11,4 @@ and so we give up our flesh.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

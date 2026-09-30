@@ -9,3 +9,4 @@ No one likes a quiet encore.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

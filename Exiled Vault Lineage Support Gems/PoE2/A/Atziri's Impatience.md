@@ -13,4 +13,4 @@ erasing their life. So, no matter the cost... none kept her waiting."
 #Character/Atziri
 #PoE2
 #Society/VaalEmpire
-#Interesting 
+#Interesting-Med 

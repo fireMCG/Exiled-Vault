@@ -10,4 +10,4 @@ Their challenge echoes with the authority of masters beyond comprehension.
 ## Tags
 #Category/AtlasUpgrade
 #PoE1
-#Interesting
+#Interesting-Low 

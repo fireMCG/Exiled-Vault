@@ -8,6 +8,7 @@ a fatal mistake. They did not bind him to an object.
 
 #
 ---
-## Tags
+## Tags
+
 #Category/UniqueItem
 #PoE1

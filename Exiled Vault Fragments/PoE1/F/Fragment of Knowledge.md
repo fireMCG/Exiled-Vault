@@ -22,4 +22,4 @@ Shift click to unstack.
 #Character/ValdoCaeserius
 #Concept/Virtue/Knowledge
 #PoE1
-#Interesting 
+#Interesting-Med 

@@ -12,3 +12,4 @@ And so the people gave, the people bled, so their King might go on.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

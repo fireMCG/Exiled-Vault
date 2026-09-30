@@ -5,14 +5,8 @@
 I pledge my soul to you, the Blackblooded, and vow to usurp the power of Darkness!
 
 #
-## Effects
-Mana Recovery from Regeneration Overflows maximum Mana
-50% less Mana Regeneration Rate
-
-#
 ---
 ## Tags
-#Attributes/Missing 
 #Category/Keystone
 #PoE2
 #Interesting 

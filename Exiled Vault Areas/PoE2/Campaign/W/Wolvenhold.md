@@ -10,3 +10,4 @@ Built in honour of a Great Thane, but now sullying his memory.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

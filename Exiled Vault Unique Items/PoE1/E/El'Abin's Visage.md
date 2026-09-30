@@ -12,3 +12,4 @@ a thunderous voice echoed across the barren landscape,
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

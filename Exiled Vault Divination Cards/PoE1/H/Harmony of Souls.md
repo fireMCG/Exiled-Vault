@@ -18,4 +18,4 @@ The knot of corruption undone at last
 #Concept/Soul
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-High 

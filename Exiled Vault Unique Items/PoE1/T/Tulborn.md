@@ -12,3 +12,4 @@ We return once more.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

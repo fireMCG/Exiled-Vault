@@ -11,3 +11,4 @@ The waters here, once stagnant and foul, now run clear with an ancient bloodlust
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

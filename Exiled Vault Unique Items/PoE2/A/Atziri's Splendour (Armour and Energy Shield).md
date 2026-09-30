@@ -11,4 +11,4 @@ you have nothing to fear."
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Low 

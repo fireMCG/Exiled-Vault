@@ -19,4 +19,4 @@ Corrupted
 #Concept/Sky
 #PoE1
 #Society/Ezomyte
-#Interesting 
+#Interesting-High 

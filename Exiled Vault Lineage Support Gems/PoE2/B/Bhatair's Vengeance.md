@@ -10,4 +10,4 @@ the loss of his beloved pupils to the King in the Mists...
 ## Tags
 #Category/SupportGem/Lineage
 #PoE2
-#Interesting 
+#Interesting-Med 

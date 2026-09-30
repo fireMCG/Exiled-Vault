@@ -12,3 +12,4 @@ an arrow that mattered. It was the determined attempt.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

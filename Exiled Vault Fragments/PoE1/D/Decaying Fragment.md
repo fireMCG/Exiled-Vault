@@ -22,4 +22,4 @@ Use four of these in a personal Map Device to open Portals to The Shaper's Realm
 #Concept/Horror
 #Concept/Void
 #PoE1
-#Interesting 
+#Interesting-High 

@@ -10,3 +10,4 @@ All was woe that seem'd but gladness.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

@@ -5,15 +5,8 @@
 The notes may change, but the song remains the same.
 
 #
-## Effects
-Gain Power Charges instead of Frenzy Charges
-Gain Frenzy Charges instead of Endurance Charges
-Gain Endurance Charges instead of Power Charges
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE2
 #Interesting 

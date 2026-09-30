@@ -11,3 +11,4 @@ Those on the fringes were the first to draw the ire of the Count.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

@@ -19,4 +19,4 @@ They prayed to a new symbol of power, not out of love, but out of fear.
 #Concept/Power
 #Concept/Season/Winter
 #PoE1
-#Interesting 
+#Interesting-Extreme 

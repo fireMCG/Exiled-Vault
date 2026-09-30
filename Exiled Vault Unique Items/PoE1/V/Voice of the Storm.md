@@ -10,3 +10,4 @@ we bowed in awe and were crushed.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

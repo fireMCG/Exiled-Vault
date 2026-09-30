@@ -9,4 +9,4 @@ The gleam of the night and the howling teeth alike could not abate the rising of
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-Med 

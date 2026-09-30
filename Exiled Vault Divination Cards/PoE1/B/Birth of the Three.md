@@ -16,4 +16,4 @@ The Goddess Bound
 #Concept/Goddess
 #Concept/Number/Three
 #PoE1
-#Interesting 
+#Interesting-Extreme 

@@ -11,3 +11,4 @@ Let the sinners come, for we - the Pure - shall endure!"
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

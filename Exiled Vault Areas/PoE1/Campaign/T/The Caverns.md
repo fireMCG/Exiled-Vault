@@ -11,3 +11,4 @@ Two thousand years of regret.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

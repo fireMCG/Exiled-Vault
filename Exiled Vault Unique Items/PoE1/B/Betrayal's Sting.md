@@ -11,4 +11,4 @@ It is the smile, the nod... the handshake... of a former friend.
 #Category/UniqueItem
 #Concept/Treason
 #PoE1
-#Interesting 
+#Interesting-High 

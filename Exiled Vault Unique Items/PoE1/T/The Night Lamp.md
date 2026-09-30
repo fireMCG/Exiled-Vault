@@ -10,3 +10,4 @@ seeds of unquestioning faith. He claimed only his god could protect them." - Lyc
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

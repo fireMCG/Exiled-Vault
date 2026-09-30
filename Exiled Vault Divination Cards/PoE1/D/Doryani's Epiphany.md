@@ -19,4 +19,4 @@ Corrupted
 #Concept/Virtue/Gem
 #Society/VaalEmpire
 #PoE1
-#Interesting 
+#Interesting-Med 

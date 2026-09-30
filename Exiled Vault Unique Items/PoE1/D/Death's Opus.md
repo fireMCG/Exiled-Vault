@@ -12,4 +12,4 @@ Another hears Death's final song.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Low 

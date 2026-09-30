@@ -10,3 +10,4 @@ But which one am I?
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

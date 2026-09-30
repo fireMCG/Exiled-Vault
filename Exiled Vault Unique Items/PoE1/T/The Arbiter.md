@@ -9,3 +9,4 @@ On judgement day, only those who are worthy will survive.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

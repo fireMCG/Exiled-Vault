@@ -12,4 +12,4 @@ It will tell me when it is best to strike."
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE2
-#Interesting 
+#Interesting-High 

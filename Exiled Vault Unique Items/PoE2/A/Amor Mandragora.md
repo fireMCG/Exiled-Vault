@@ -11,4 +11,4 @@ On a misty forested island, Cirel of Tarth stood waiting to greet them.
 #Category/UniqueItem
 #Attributes/Timeline 
 #PoE2
-#Interesting 
+#Interesting-High 

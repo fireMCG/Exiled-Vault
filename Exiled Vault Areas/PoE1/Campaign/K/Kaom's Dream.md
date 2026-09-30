@@ -11,3 +11,4 @@ Fury and flame come to life.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

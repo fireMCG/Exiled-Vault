@@ -12,3 +12,4 @@ too much of nothing is just as tough.
 #Character/Eldritch/EaterOfWorlds
 #Concept/Tangle
 #PoE1
+#Interesting 

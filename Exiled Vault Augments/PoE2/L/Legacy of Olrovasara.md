@@ -11,3 +11,4 @@ Not what men are, but what they should be.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

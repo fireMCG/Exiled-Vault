@@ -15,4 +15,4 @@ Awaiting dawn's first light
 ## Tags
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-Low 

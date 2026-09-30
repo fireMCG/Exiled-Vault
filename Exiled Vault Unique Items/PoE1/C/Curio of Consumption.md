@@ -12,4 +12,4 @@ When hunger can never be satiated, the act of eating becomes the only solace.
 #Concept/Hunger
 #Concept/Tangle
 #PoE1
-#Interesting 
+#Interesting-Extreme 

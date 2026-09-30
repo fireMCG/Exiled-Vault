@@ -12,4 +12,4 @@ It's best if you don't ask too many questions about this one.
 #Character/Qotra
 #League/Heist
 #PoE1 
-#Interesting 
+#Interesting-Low 

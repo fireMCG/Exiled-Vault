@@ -8,5 +8,7 @@ and Titan against the rising darkness.
 #
 ---
 ## Tags
+#Attributes/Timeline 
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

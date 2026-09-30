@@ -9,3 +9,4 @@ The price of immortality is isolation.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

@@ -19,4 +19,4 @@ Shift click to unstack.
 ## Tags
 #Category/Fragment/Scarab
 #PoE1
-#Interesting 
+#Interesting-Med 

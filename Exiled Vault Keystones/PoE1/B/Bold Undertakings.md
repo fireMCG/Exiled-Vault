@@ -9,3 +9,4 @@ Fortune will rain upon those who bring humour to Chaos.
 ## Tags
 #Category/Keystone
 #PoE1
+#Interesting-Low 

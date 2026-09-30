@@ -10,3 +10,4 @@ which the horrors of Wraeclast have never adapted.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

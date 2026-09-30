@@ -10,3 +10,4 @@ Might within from force without.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

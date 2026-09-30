@@ -11,3 +11,4 @@ Then we can all stand united against the demons at the door..."
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

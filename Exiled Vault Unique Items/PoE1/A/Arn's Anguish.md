@@ -11,4 +11,4 @@ The tortured thinker is made heavier by the weight of his guilt.
 #Character/Eldritch/Maven
 #Character/Arn
 #PoE1
-#Interesting 
+#Interesting-Low 

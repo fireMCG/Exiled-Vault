@@ -14,4 +14,4 @@
 #Concept/Music
 #Society/VaalEmpire
 #PoE1
-#Interesting 
+#Interesting-Extreme 

@@ -11,3 +11,4 @@ Come, let me show you.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

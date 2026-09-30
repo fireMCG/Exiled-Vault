@@ -9,3 +9,4 @@ Within the storm, warriors can be seen, heard and feared.
 ## Tags
 #Category/Area/Atlas/Anomaly
 #PoE2 
+#Interesting 

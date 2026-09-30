@@ -11,3 +11,4 @@ of runesmithing stands apart, in deed and skill.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

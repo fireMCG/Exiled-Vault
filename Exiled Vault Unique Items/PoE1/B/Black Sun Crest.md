@@ -11,4 +11,4 @@ The beasts we fear the most are the ones who dwell in total darkness.
 #Concept/Darkness
 #Concept/Sun
 #PoE1
-#Interesting 
+#Interesting-High 

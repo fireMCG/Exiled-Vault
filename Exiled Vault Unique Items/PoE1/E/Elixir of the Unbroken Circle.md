@@ -10,3 +10,4 @@ Then, they begin again.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

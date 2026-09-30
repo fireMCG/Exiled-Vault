@@ -10,3 +10,4 @@ in every skin the great beasts shed.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

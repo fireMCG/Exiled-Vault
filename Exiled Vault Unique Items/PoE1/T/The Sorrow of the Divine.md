@@ -10,3 +10,4 @@ God weeps.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

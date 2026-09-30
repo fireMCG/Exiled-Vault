@@ -10,3 +10,4 @@ and fall like rain into the place we cannot go.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

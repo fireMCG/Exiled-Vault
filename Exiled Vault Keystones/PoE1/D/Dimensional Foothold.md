@@ -5,11 +5,8 @@
 All across the land, the Hiveborn swarm.
 
 #
-## Effects
-Breach encounters in your Maps are always Hives
-
-#
 ---
 ## Tags
 #Category/Keystone
 #PoE1
+#Interesting-Med 

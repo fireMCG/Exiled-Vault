@@ -16,4 +16,4 @@ Doesn't have to be your own blood, does it?
 #League/Heist
 #PoE1 
 #Society/VaalEmpire 
-#Interesting 
+#Interesting-Med 

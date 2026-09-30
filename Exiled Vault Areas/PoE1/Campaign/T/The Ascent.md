@@ -11,3 +11,4 @@ The greater the rise, the greater the fall.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

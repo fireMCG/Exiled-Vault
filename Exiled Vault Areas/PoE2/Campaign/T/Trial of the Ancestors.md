@@ -10,3 +10,4 @@ Prove yourself before Hinekora.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

@@ -12,3 +12,4 @@ mark made for a hammer's durability and precision.
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

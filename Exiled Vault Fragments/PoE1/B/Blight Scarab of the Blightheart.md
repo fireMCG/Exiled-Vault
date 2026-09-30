@@ -24,4 +24,4 @@ Shift click to unstack.
 #Category/Fragment/Scarab
 #League/Blight
 #PoE1
-#Interesting 
+#Interesting-Med 

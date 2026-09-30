@@ -10,4 +10,4 @@ I know how to say 'faster' and 'attack' in Karui, Marak and Ezo.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-High 

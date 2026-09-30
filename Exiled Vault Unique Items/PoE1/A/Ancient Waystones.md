@@ -13,3 +13,4 @@ We ignored every single one."
 #Character/Siosa
 #Society/VaalEmpire
 #PoE1
+#Interesting-Low 

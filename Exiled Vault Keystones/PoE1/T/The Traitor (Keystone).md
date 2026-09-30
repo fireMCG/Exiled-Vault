@@ -5,11 +5,8 @@
 The fewer there are, the less you have to share.
 
 #
-## Effects
-Flasks Gain 4 Charges per empty Flask Slot every 5 seconds
-
-#
 ---
 ## Tags
 #Category/Keystone
 #PoE1
+#Interesting 

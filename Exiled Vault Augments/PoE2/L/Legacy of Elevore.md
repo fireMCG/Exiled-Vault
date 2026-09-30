@@ -11,3 +11,4 @@ you'd find some baring teeth, and howling..."
 ## Tags
 #Category/Augment
 #PoE2
+#Interesting 

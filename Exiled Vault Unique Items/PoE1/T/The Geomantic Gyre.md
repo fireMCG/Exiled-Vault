@@ -10,3 +10,4 @@ one that could safely hold the first unearthed virtue gem.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

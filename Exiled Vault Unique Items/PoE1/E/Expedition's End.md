@@ -9,3 +9,4 @@ He may have returned from the frozen southern reaches, but that doesn't mean he 
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

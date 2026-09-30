@@ -8,4 +8,4 @@ Even trapped in stone, the Elder's shadow lingered in their hearts and coiled ar
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Extreme 

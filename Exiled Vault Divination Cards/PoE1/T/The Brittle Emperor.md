@@ -20,4 +20,4 @@ Corrupted
 #Concept/Religion/Faith
 #Concept/Purity
 #PoE1
-#Interesting 
+#Interesting-High 

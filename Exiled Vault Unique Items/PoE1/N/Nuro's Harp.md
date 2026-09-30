@@ -10,3 +10,4 @@ Darkness cleansed, pure and new.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

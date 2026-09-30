@@ -18,4 +18,4 @@ Level 20 Support Gem
 #Concept/Virtue/Gem
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-Low 

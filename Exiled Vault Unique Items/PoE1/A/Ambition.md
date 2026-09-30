@@ -12,4 +12,4 @@ Chaos takes amusement in knowing the answer: all of them.
 #Concept/Balance/Chaos
 #Concept/Fate
 #PoE1
-#Interesting 
+#Interesting-High 

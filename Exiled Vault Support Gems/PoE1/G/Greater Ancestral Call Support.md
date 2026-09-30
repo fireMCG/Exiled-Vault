@@ -9,4 +9,4 @@ One day, we will be called forth to stand and fight against a great tide."
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Med 

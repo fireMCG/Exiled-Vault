@@ -15,4 +15,4 @@ Stranglegasp
 #Concept/Darkness
 #Concept/Emotion/Guilt
 #PoE1
-#Interesting 
+#Interesting-Low 

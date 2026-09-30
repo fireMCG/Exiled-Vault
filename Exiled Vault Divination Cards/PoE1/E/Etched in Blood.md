@@ -17,4 +17,4 @@ Corrupted
 #Concept/Virtue/Ambition
 #Category/DivinationCard
 #PoE1
-#Interesting 
+#Interesting-Med 

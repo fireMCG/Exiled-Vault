@@ -10,3 +10,4 @@ Eyes will burn, and souls wither, as they bask in my radiance.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

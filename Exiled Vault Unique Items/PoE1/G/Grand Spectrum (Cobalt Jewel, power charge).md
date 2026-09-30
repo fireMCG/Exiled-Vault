@@ -9,3 +9,4 @@ A mind that never quiets.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

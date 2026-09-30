@@ -5,13 +5,8 @@
 While the mind endures, so too will the body.
 
 #
-## Effects
-40% of Damage is taken from Mana before Life
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE1
 #Interesting 

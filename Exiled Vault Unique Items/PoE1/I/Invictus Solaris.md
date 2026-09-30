@@ -9,3 +9,4 @@ Eternal soldiers fight for glory or death. Solaris vanguard know only glory.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

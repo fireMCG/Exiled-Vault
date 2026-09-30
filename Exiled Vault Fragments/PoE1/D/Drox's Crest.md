@@ -20,4 +20,4 @@ Shift click to unstack.
 #Category/Fragment
 #Character/Drox
 #PoE1
-#Interesting 
+#Interesting-Med 

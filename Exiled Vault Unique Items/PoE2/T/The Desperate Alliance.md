@@ -10,4 +10,4 @@ They did not fall on their knees and lament.
 ## Tags
 #Category/UniqueItem
 #PoE2
-#Interesting 
+#Interesting-High 

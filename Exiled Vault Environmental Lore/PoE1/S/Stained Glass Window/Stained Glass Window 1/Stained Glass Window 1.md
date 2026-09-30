@@ -1,4 +1,4 @@
-On that day two were born of their mother's womb. Innocence, with eyes of burning red. Sin, with eyes of clearest blue.
+On that day two were born of their mother's womb. Innocence, with eyes of burning red. Sin, with eyes of clearest blue. ^c4758b
 
 #
 ---

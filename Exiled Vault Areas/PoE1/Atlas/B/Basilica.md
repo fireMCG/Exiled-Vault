@@ -8,3 +8,4 @@ A resonance no god could hear.
 ## Tags
 #Category/Area/Atlas
 #PoE1
+#Interesting-Low 

@@ -10,4 +10,4 @@ The myriad wet rainbow of the Spirit's domain.
 #Category/QuestItem
 #Concept/Spirit
 #PoE1
-#Interesting 
+#Interesting-Med 

@@ -9,4 +9,4 @@ The other two desire only to consume us, but under him, there is a chance to sur
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-High 

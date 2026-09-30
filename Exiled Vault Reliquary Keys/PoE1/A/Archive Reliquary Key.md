@@ -13,4 +13,4 @@ Minds are not the only thing the Cleansing Fire keeps eternal...
 #Concept/Mind 
 #Concept/Time/Eternity 
 #PoE1 
-#Interesting 
+#Interesting-High 

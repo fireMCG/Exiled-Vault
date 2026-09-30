@@ -5,12 +5,8 @@
 Legend tells of incantations so powerful that only giants could recite them.
 
 #
-## Effects
-Strength's Damage bonus applies to all Spell Damage as well
-
-#
 ---
 ## Tags
 #Category/Keystone
-#Category/Keystone
 #PoE1
+#Interesting 

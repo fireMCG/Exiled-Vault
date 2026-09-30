@@ -10,4 +10,4 @@ You walk away bloodied and exhausted, but victorious. You have overcome.
 #Category/UniqueItem
 #PoE1
 #Society/VaalEmpire
-#Interesting 
+#Interesting-Low 

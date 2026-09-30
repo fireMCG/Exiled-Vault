@@ -10,4 +10,4 @@ Its beating heart was the valour and determination of the heroes of old.
 ## Tags
 #Category/Augment
 #PoE2
-#Interesting 
+#Interesting-Low 

@@ -12,3 +12,4 @@ and let their resentments and population flourish.
 #Category/Strongbox
 #PoE1 
 #Society/Brinerot
+#Interesting-Low 

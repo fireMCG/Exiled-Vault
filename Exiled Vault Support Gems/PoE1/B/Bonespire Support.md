@@ -8,4 +8,4 @@ In its madness, Xesht desperately seeks communion.
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Med 

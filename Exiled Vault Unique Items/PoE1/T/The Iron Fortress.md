@@ -11,3 +11,4 @@ The Council cannot afford to falter."
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Med 

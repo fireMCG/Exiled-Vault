@@ -8,4 +8,4 @@ The echoes of lost loved ones surrounded her, maddeningly close, but forever out
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Med 

@@ -20,4 +20,4 @@ Corrupted
 #Concept/Blood
 #Concept/Mirror
 #PoE1
-#Interesting 
+#Interesting-High 

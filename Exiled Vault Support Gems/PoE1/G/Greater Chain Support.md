@@ -11,4 +11,4 @@ There must be a very good reason."
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Med 

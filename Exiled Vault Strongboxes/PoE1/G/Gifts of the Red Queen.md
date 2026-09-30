@@ -10,3 +10,4 @@ Whispers and promises, ancient and alluring.
 #Category/Strongbox
 #PoE1 
 #Society/VaalEmpire  
+#Interesting-Low 

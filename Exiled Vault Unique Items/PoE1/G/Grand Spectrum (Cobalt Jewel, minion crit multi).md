@@ -9,3 +9,4 @@ A mass of flesh writhing with savage fury.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

@@ -9,4 +9,4 @@ When put to the ear it whispers not of the sea, but long dead incantations.
 ## Tags
 #Category/QuestItem
 #PoE1
-#Interesting 
+#Interesting-Low 

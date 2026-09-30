@@ -12,3 +12,4 @@ Polished surfaces reflect brutal efficiency.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

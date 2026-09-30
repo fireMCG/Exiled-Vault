@@ -22,4 +22,4 @@ Bestiary Item
 #Concept/Humanity
 #League/Bestiary
 #PoE1
-#Interesting 
+#Interesting-Med 

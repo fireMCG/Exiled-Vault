@@ -9,3 +9,4 @@ We move to be closer to her, but the distance yet grows.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

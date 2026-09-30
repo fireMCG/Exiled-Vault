@@ -10,3 +10,4 @@ the mind's limits end.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

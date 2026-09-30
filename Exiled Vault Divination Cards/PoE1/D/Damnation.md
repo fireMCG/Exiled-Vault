@@ -18,4 +18,4 @@ Item Level: 83
 #Concept/Death
 #Concept/Religion/Hell
 #PoE1
-#Interesting 
+#Interesting-High 

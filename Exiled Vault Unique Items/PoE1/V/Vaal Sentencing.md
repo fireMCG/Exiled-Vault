@@ -11,3 +11,4 @@ Atziri's empire ran on blood, but the blood was running dry.
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1
+#Interesting-Low 

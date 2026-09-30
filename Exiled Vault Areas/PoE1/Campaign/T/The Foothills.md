@@ -12,3 +12,4 @@ The secrets of history lie hidden among layers of dirt and sand.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

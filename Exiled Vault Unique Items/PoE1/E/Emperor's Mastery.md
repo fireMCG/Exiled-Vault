@@ -10,3 +10,4 @@ and surround yourself with people who know the rest.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

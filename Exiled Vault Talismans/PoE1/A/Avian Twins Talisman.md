@@ -10,6 +10,7 @@ her best men to study and learn with them."
 #
 ---
 ## Tags
+#Attributes/Timeline 
 #Category/Talisman 
 #Concept/Drought
 #Concept/FirstOnes
@@ -19,4 +20,4 @@ her best men to study and learn with them."
 #League/Talisman
 #PoE1
 #Society/Ezomyte 
-#Interesting 
+#Interesting-High 

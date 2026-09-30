@@ -11,3 +11,4 @@ of the demon that flies on Winter's gales.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting 

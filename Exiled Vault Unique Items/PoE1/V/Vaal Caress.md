@@ -12,3 +12,4 @@ They simply love to be held."
 #Category/UniqueItem
 #Society/VaalEmpire
 #PoE1
+#Interesting-Med 

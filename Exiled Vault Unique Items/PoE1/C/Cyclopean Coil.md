@@ -14,4 +14,4 @@ With the patience of a prowling lion, the Shade watched the Scholar.
 #Concept/Decay
 #Concept/Shade
 #PoE1
-#Interesting 
+#Interesting-High 

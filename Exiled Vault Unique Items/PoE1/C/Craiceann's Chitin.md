@@ -10,4 +10,4 @@ The First of the Deep teaches us that we should seek no shelter but ourselves.
 ## Tags
 #Category/UniqueItem
 #PoE1
-#Interesting 
+#Interesting-Med 

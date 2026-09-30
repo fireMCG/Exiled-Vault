@@ -5,12 +5,7 @@
 Give up everything in pursuit of greatness - even life itself.
 
 #
-## Effects
-Maximum Life becomes 1, Immune to Chaos Damage
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE1

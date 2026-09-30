@@ -11,3 +11,4 @@ Only those with faithful eyes may enter these solemn chambers unbidden.
 ## Tags
 #Category/Area/Campaign
 #PoE1
+#Interesting 

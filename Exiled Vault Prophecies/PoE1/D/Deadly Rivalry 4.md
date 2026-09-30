@@ -17,4 +17,4 @@ You will encounter the rival Exile, now imbued with the powers of a Shrine
 #Category/Prophecy
 #League/Prophecy
 #PoE1 
-#Interesting 
+#Interesting-Low 

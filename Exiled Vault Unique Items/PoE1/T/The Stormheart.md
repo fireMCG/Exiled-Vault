@@ -9,3 +9,4 @@ When the storm comes, the safest place to be is the centre.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Extreme 

@@ -12,3 +12,4 @@ and sharing the glory of victory. This, you will never understand."
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

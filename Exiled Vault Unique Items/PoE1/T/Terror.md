@@ -9,3 +9,4 @@ Those who could flee did so. The rest fought bravely, and died horrifically.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

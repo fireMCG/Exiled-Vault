@@ -11,3 +11,4 @@ A doomed city, full of life, unaware what is soon to come.
 ## Tags
 #Category/Area/Campaign 
 #PoE2
+#Interesting 

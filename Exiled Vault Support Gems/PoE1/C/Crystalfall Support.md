@@ -9,4 +9,4 @@ Its body is an engine. Its eyes are fuel.
 ## Tags
 #Category/SupportGem
 #PoE1
-#Interesting 
+#Interesting-Med 

@@ -9,3 +9,4 @@ When all else was burning and overrun, she held the bridge to the very end.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

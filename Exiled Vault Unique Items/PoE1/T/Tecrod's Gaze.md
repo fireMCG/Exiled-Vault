@@ -9,3 +9,4 @@ The Hated Slave seeks dominion over his own kind.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-Low 

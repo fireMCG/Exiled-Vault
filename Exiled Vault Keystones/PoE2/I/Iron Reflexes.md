@@ -5,12 +5,7 @@
 Why should I dodge blows that I do not fear?
 
 #
-## Effects
-Converts all Evasion Rating to Armour
-
-#
 ---
 ## Tags
-#Category/Keystone
 #Category/Keystone
 #PoE2

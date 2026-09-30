@@ -10,3 +10,4 @@ but as a divine saviour trapped in a man's body.
 ## Tags
 #Category/UniqueItem
 #PoE1
+#Interesting-High 

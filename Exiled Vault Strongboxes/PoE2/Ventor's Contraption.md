@@ -14,3 +14,4 @@ Step close, take a chance, and try fortune's fare!
 #Concept/Fate
 #Concept/Traveller
 #PoE2
+#Interesting 
